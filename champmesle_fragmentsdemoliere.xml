@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -26,11 +26,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/champmesle_fragments-moliere/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/champmesle_fragments-moliere.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/champmesle_fragments-moliere.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/champmesle_fragments-moliere.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/champmesle_fragments-moliere.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/champmesle_fragments-moliere/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/champmesle_fragments-moliere.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/champmesle_fragments-moliere.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/champmesle_fragments-moliere.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/champmesle_fragments-moliere.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Charles
@@ -1388,7 +1388,7 @@
           <stage>CHARLOTE, PIERROT.</stage>
           <sp xml:id="I03-1" who="charlote">
             <speaker>Charlote.</speaker>
-            <p><ref target="#parguenne">Pargué*</ref><note n="27" place="bottom"> Pour cette scène Champmeslé, qui reprend la
+            <p><ref target="#parguenne">Pargué</ref><note n="27" place="bottom"> Pour cette scène Champmeslé, qui reprend la
                   scène 1 du second acte du <hi rend="i">Dom Juan</hi> de Molière, imite le jargon
                   et l’accent des paysans. Se reporter au glossaire. Le lecteur est invité à lire le
                   texte à voix haute : sa compréhension et la pleine appréhension de ses effets
@@ -1397,7 +1397,7 @@
           </sp>
           <sp xml:id="I03-2" who="pierrot">
             <speaker>Pierrot.</speaker>
-            <p><ref target="#parguenne">Parguenne*</ref> il ne s’en est pas fallu l’époisseur d’une <ref target="#eplingue">éplingue*</ref> qu’ils ne se sayent
+            <p><ref target="#parguenne">Parguenne</ref> il ne s’en est pas fallu l’époisseur d’une <ref target="#eplingue">éplingue</ref> qu’ils ne se sayent
                 nayez tous deux<note n="28" place="bottom"> Au second acte du <hi rend="i">Dom
                     Juan</hi> de Molière, le théâtre représente un hameau de verdure, avec une
                   grotte au travers de laquelle on voit la mer : c’est donc un paysage de campagne
@@ -1417,27 +1417,27 @@
                   foüas<note n="31" place="bottom"><hi rend="i">Par foüas</hi> : parfois.</note> je
                 batifole itou ; en batifolant donc, pisque batifoler y a, j’ay aperceu de tout loin
                 queuque chose qui groüilloit dans liau, et qui venoit comme envars nous par
-                secousse. Je voyais ça fixiblement*, et pis tout d’un coup je voyais que je ne
+                secousse. Je voyais ça fixiblement, et pis tout d’un coup je voyais que je ne
                 voyais plus rian. Ah Lucas, çay-je fait, je pense que vla des hommes qui nageant
                 là-bas. Voire, ce m’a-t-il fait, t’as esté au trépassement d’un chat<note n="32" place="bottom"> « On dit en burlesque et populairement : il a assisté au
                   trépassement d’un chat, il voit trouble ». <hi rend="i">Dictionnaire
                     Universel</hi> d’Antoine Furetière. Cette expression étrange est en fait la
                   traduction fautive d’une expression catalane inspirée d’un rite de carnaval :
                   « aller à l’enterrement de l’ivrogne » (<hi rend="i">del gato</hi> : le chat),
-                  c’est-à-dire : boire un coup de trop.</note>, tas la veüe trouble. <ref target="#palsangué">Palsanguenne*</ref>,
+                  c’est-à-dire : boire un coup de trop.</note>, tas la veüe trouble. <ref target="#palsangué">Palsanguenne</ref>,
                 çay-je fait, je n’ay point la veüe trouble, ce sont des hommes ;<pb n="14"/> point
-                du tout, ce m’a-t-il fait, tas la <ref target="#barluë">barluë*</ref> ; veux-tu gager, çay-je fait, que je n’ai
-                point la <ref target="#barluë">barluë*</ref>, çay-je fait, et que se sont deux hommes, çay-je fait, qui nageant
-                droit icy ? çay-je fait ; <ref target="#morguienne">morguienne*</ref>, ce m’a-t-il fait, je gage que non ; oça,
+                du tout, ce m’a-t-il fait, tas la <ref target="#barluë">barluë</ref> ; veux-tu gager, çay-je fait, que je n’ai
+                point la <ref target="#barluë">barluë</ref>, çay-je fait, et que se sont deux hommes, çay-je fait, qui nageant
+                droit icy ? çay-je fait ; <ref target="#morguienne">morguienne</ref>, ce m’a-t-il fait, je gage que non ; oça,
                 çay-je fait, veux-tu gager dix sols que si ? Je le veux bian, ce m’a-t-il fait, et
                 pour te montrer, vela argent sur jeu, ce m’a-t-il fait ; moy je n’ay esté ny fou ny
-                étourdy, j’ai bravement bouté* à tarre quatre pieces tapées, et cinq sols en
+                étourdy, j’ai bravement bouté à tarre quatre pieces tapées, et cinq sols en
                   double<note n="33" place="bottom"><hi rend="i">Pièces tapées</hi> : sols marqués
                   d’une fleur de lys, dont la valeur est augmentée d’un quart ; Pierrot engage donc
                   ici cinq sols, soit la moitié de l’enjeu du pari, et complète avec de la petite
                   monnaie (les doubles) pour l’autre moitié : il faut trente doubles pour faire cinq
                   sols. Pour avoir une idée de l’enjeu de pari, il faut savoir qu’au XVII<hi rend="sup">e</hi> siècle, un pain de quatre livres valait quatre sols et qu’un
-                    ouvrier était payé huit sols par jour.</note>, <ref target="#jernidenne">jarniguenne*</ref> aussi hardiment que si
+                    ouvrier était payé huit sols par jour.</note>, <ref target="#jernidenne">jarniguenne</ref> aussi hardiment que si
                 j’avois avalé un varre de vin ; car je sis hazardeux<note n="34" place="bottom"><hi rend="i">Hazardeux</hi> : intrépide, audacieux.</note>, moy, et je vas à la
                   débandade<note n="35" place="bottom">Aller à la débandade : agir sans
                   réfléchir.</note>, je sçavas bien ce que je faisais pourtant, queuque gniais<note n="36" place="bottom"><hi rend="i">Queuque gniais</hi> : expression elliptique :
@@ -1449,7 +1449,7 @@
                 pardre, adonc tant y a qu’à la parfin<note n="38" place="bottom">Tant y a qu’à la
                   parfin : si bien que, finalement, …</note>, pour faire court, je l’ay tant
                 sarmonné que je nous sommes bouté<note n="39" place="bottom"> Au XVII<hi rend="sup">e</hi> siècle, il n’y a pas systématiquement l’accord avec l’auxiliaire être.
-                </note>* dans une barque, et pis j’avons tant fait cahin caha, que je les avons tiré
+                </note> dans une barque, et pis j’avons tant fait cahin caha, que je les avons tiré
                 de liau, et pis je les avons mené cheu nous auprés du feu, et pis ils se sont
                 dépouïllez tout nuds pour se sécher, et pis il en est venu encore deux de la mesme
                 bande, qui s’estians sauvez tous seuls. Vela justement, Charlote, comme tout ça
@@ -1477,7 +1477,7 @@
           </sp>
           <sp xml:id="I03-8" who="pierrot">
             <speaker>Pierrot.</speaker>
-            <p>Oh, <ref target="#parguenne">parguenne*</ref> sans nous il en avoit pour sa mene de feuve<note n="42" place="bottom"><hi rend="i">En avoir pour sa mene de feuve</hi> : expression
+            <p>Oh, <ref target="#parguenne">parguenne</ref> sans nous il en avoit pour sa mene de feuve<note n="42" place="bottom"><hi rend="i">En avoir pour sa mene de feuve</hi> : expression
                   imagée signifiant « en avoir son compte ». La mine était en mesure de grain
                   (feuve : fève).</note>.</p>
           </sp>
@@ -1489,7 +1489,7 @@
             <speaker>Pierrot.</speaker>
             <p>Nanain, ils l’avon r’habillé devant nou. Mon Dieu, je n’en avois jamais veu
                 s’habiller, que d’histoire et d’angins gorniaux<note n="43" place="bottom"><hi rend="i">Engins gorniaux</hi> : ornements compliqués, accessoires de costume.
-                </note> ils boutons*, ces Messieus-là : Je me pardrais là-dedans, pour moy, et
+                </note> ils boutons, ces Messieus-là : Je me pardrais là-dedans, pour moy, et
                 j’estois tout<pb n="17"/> ébauby<note n="44" place="bottom">Comprendre : ébahi,
                   étonné.</note> de voir ça : Tien Charlote, ils avons des cheveux qui ne tenans
                 point à leurs testes, et ils boutons ça aprés tout, comme un gros bonnet de
@@ -1547,7 +1547,7 @@
                   étang ». On rappelle que Pierrot est marinier. « Se dit aussi figurément des
                   choses morales ». Se décharger le cœur. Idem.</note> mon cœur, je t’aime, tu le
                 sçais bian, et je somme pour estre mariez ensemble<note n="53" place="bottom">Comprendre : nous sommes faits pour être mariés ensemble, toi et moi.</note> ;
-                mais <ref target="#morguienne">mordienne*</ref> je ne suis point satisfait de toy.</p>
+                mais <ref target="#morguienne">mordienne</ref> je ne suis point satisfait de toy.</p>
           </sp>
           <sp xml:id="I03-15" who="charlote">
             <speaker>Charlote.</speaker>
@@ -1564,7 +1564,7 @@
           <sp xml:id="I03-18" who="pierrot">
             <speaker>Pierrot.</speaker>
             <pb n="19"/>
-            <p><ref target="#testedienne">Testedienne*</ref>, tu ne m’aimes point.</p>
+            <p><ref target="#testedienne">Testedienne</ref>, tu ne m’aimes point.</p>
           </sp>
           <sp xml:id="I03-19" who="charlote">
             <speaker>Charlote.</speaker>
@@ -1590,7 +1590,7 @@
           </sp>
           <sp xml:id="I03-24" who="pierrot">
             <speaker>Pierrot.</speaker>
-            <p><ref target="#jernidenne">Jernidienne*</ref> je veux que tu m’aimes.</p>
+            <p><ref target="#jernidenne">Jernidienne</ref> je veux que tu m’aimes.</p>
           </sp>
           <sp xml:id="I03-25" who="charlote">
             <speaker>Charlote.</speaker>
@@ -1638,14 +1638,14 @@
             <p>Non, quand ça est ça se voit, et l’an fait mille petites singeries, quand on les
                 aime du bon du cœur. Regarde la grosse Thomase, comme elle est assotée<note n="58" place="bottom"><hi rend="i">Etre assoté de quelqu’un</hi>, c’est en être follement
                   amoureux.</note> du jeune Robain, alle est toûjours entour de luy à l’agasser, et
-                ne le laisse jamais en repos, toûjours alle luy fait queuque niche, ou ly <ref target="#bailler">baille*</ref>
+                ne le laisse jamais en repos, toûjours alle luy fait queuque niche, ou ly <ref target="#bailler">baille</ref>
                 quelque taloche en passant ; et l’autre jour qu’il estoit assis sur un escabeau alle
-                fut le tirer de dessous ly, et le fit choir de tout son long par tarre. <ref target="#jernidenne">Jarny*</ref> vela
+                fut le tirer de dessous ly, et le fit choir de tout son long par tarre. <ref target="#jernidenne">Jarny</ref> vela
                 où on voit les gens qui aimon ; mais toy tu ne me dis jamais mot ; tés toûjours là
                 comme une vray souche de bois, et je passerois vingt fois devant toy que tu ne te
                   groüillerois<note n="59" place="bottom"><hi rend="i">Groüiller</hi> : « Ne se dit
-                    qu’avec le pronom personnel. Se remuer. » Idem.</note> pas pour me <ref target="#bailler">bailler*</ref> le
-                moindre coup, ou me dire la<pb n="22"/> moindre chose. <ref target="#ventredienne">Ventredienne*</ref> ça n’est pas
+                    qu’avec le pronom personnel. Se remuer. » Idem.</note> pas pour me <ref target="#bailler">bailler</ref> le
+                moindre coup, ou me dire la<pb n="22"/> moindre chose. <ref target="#ventredienne">Ventredienne</ref> ça n’est pas
                 bian aprés tout, et tés trop froide pour les gens.</p>
           </sp>
           <sp xml:id="I03-33" who="charlote">
@@ -1664,7 +1664,7 @@
           </sp>
           <sp xml:id="I03-36" who="pierrot">
             <speaker>Pierrot.</speaker>
-            <p>Hé bian, vela pas mon conte<note n="61" place="bottom"> Il n’y a pas au XVII<hi rend="sup">e</hi> siècle de distinction orthographique entre <hi rend="i">compte</hi> et <hi rend="i">conte</hi>.</note> ; <ref target="#testedienne">testigué*</ref> si tu m’aimois me
+            <p>Hé bian, vela pas mon conte<note n="61" place="bottom"> Il n’y a pas au XVII<hi rend="sup">e</hi> siècle de distinction orthographique entre <hi rend="i">compte</hi> et <hi rend="i">conte</hi>.</note> ; <ref target="#testedienne">testigué</ref> si tu m’aimois me
                 dirois-tu ça ?</p>
           </sp>
           <sp xml:id="I03-37" who="charlote">
@@ -1673,7 +1673,7 @@
           </sp>
           <sp xml:id="I03-38" who="pierrot">
             <speaker>Pierrot.</speaker>
-            <p><ref target="#morguienne">Morgué*</ref>, queu mal te fais-je ? je<pb n="23"/> ne te demande qu’un peu plus
+            <p><ref target="#morguienne">Morgué</ref>, queu mal te fais-je ? je<pb n="23"/> ne te demande qu’un peu plus
                 d’amiquié.</p>
           </sp>
           <sp xml:id="I03-39" who="charlote">
@@ -1908,7 +1908,7 @@
           <sp xml:id="I05-5" who="pierrot">
             <speaker>Pierrot.</speaker>
             <pb n="31"/>
-            <p><ref target="#jernidenne">Jernidienne*</ref>, ce n’est pas comme ça qu’il faut pousser les gens.</p>
+            <p><ref target="#jernidenne">Jernidienne</ref>, ce n’est pas comme ça qu’il faut pousser les gens.</p>
           </sp>
           <sp xml:id="I05-6" who="charlote">
             <speaker>Charlote.</speaker>
@@ -1924,7 +1924,7 @@
           </sp>
           <sp xml:id="I05-9" who="pierrot">
             <speaker>Pierrot.</speaker>
-            <p><ref target="#testedienne">Testedienne*</ref>, parce que vous estes Monsieu, vous viendrez caresser nos femmes à
+            <p><ref target="#testedienne">Testedienne</ref>, parce que vous estes Monsieu, vous viendrez caresser nos femmes à
                 notte barbe ? Allez-vous-en caresser les vostres.</p>
           </sp>
           <sp xml:id="I05-10" who="juan">
@@ -1934,7 +1934,7 @@
           </sp>
           <sp xml:id="I05-11" who="pierrot">
             <speaker>Pierrot.</speaker>
-            <p>Hen ? <ref target="#testedienne">Tastigué*</ref> ne me frapez pas. Oh, <ref target="#jernidenne">jarnigué*</ref>, <ref target="#ventredienne">ventregué*</ref>, <ref target="#palsangué">palsangué*</ref>, <ref target="#morguienne">mordienne*</ref>,
+            <p>Hen ? <ref target="#testedienne">Tastigué</ref> ne me frapez pas. Oh, <ref target="#jernidenne">jarnigué</ref>, <ref target="#ventredienne">ventregué</ref>, <ref target="#palsangué">palsangué</ref>, <ref target="#morguienne">mordienne</ref>,
                 ça n’est pas bien de battre les gens, et ce n’est pas là la récompense de vous avoir
 <pb n="32"/> sauvé d’estre noyé.</p>
           </sp>
@@ -1948,11 +1948,11 @@
           </sp>
           <sp xml:id="I05-14" who="charlote">
             <speaker>Charlote.</speaker>
-            <p>Il n’y a pas de quoy te <ref target="#bouter">bouter*</ref> en colére.</p>
+            <p>Il n’y a pas de quoy te <ref target="#bouter">bouter</ref> en colére.</p>
           </sp>
           <sp xml:id="I05-15" who="pierrot">
             <speaker>Pierrot.</speaker>
-            <p>Quement<note n="78" place="bottom">Comment.</note>, <ref target="#jernidenne">jarny*</ref>, tu m’és promise.</p>
+            <p>Quement<note n="78" place="bottom">Comment.</note>, <ref target="#jernidenne">jarny</ref>, tu m’és promise.</p>
           </sp>
           <sp xml:id="I05-16" who="charlote">
             <speaker>Charlote.</speaker>
@@ -1961,7 +1961,7 @@
           </sp>
           <sp xml:id="I05-17" who="pierrot">
             <speaker>Pierrot.</speaker>
-            <p><ref target="#jernidenne">Jarnigué*</ref>, oüy, j’aime mieux te voir crever, que de te voir à un autre.</p>
+            <p><ref target="#jernidenne">Jarnigué</ref>, oüy, j’aime mieux te voir crever, que de te voir à un autre.</p>
           </sp>
           <sp xml:id="I05-18" who="charlote">
             <speaker>Charlote.</speaker>
@@ -1970,10 +1970,10 @@
           <sp xml:id="I05-19" who="pierrot">
             <speaker>Pierrot.</speaker>
             <pb n="33"/>
-            <p><ref target="#ventredienne">Ventredienne*</ref>, je n’y en porteray jamais quand tu m’en poirois<note n="80" place="bottom">Comprendre : quand bien même tu m’en payerais.</note> deux fois
+            <p><ref target="#ventredienne">Ventredienne</ref>, je n’y en porteray jamais quand tu m’en poirois<note n="80" place="bottom">Comprendre : quand bien même tu m’en payerais.</note> deux fois
                 autant qu’un autre ; est-ce donc comme ça que t’escoutes ce qu’il te dit ?
-                <ref target="#morguienne">Morguienne*</ref>, si j’avois sceu ça tantost, je me serois bien gardé de le tirer de
-                liau, et je luy aurois <ref target="#bailler">baillé*</ref> un bon coup d’aviron sur la teste.</p>
+                <ref target="#morguienne">Morguienne</ref>, si j’avois sceu ça tantost, je me serois bien gardé de le tirer de
+                liau, et je luy aurois <ref target="#bailler">baillé</ref> un bon coup d’aviron sur la teste.</p>
           </sp>
           <sp xml:id="I05-20" who="juan">
             <speaker>D. Juan.</speaker>
@@ -1981,7 +1981,7 @@
           </sp>
           <sp xml:id="I05-21" who="pierrot">
             <speaker>Pierrot.</speaker>
-            <p><ref target="#jernidenne">Jarniguenne*</ref>, je ne crains parsonne.</p>
+            <p><ref target="#jernidenne">Jarniguenne</ref>, je ne crains parsonne.</p>
           </sp>
           <sp xml:id="I05-22" who="juan">
             <speaker>D. Juan.</speaker>
@@ -2005,7 +2005,7 @@
             <p>Eh ! laisse-le faire, mon pauvre garçon, et ne luy dis rien.</p>
           </sp>
           <sp xml:id="I05-27" who="pierrot">
-            <speaker>Pierrot <hi rend="i">luy donnant un souflet.</hi></speaker>
+            <speaker>Pierrot </speaker><stage>luy donnant un souflet.</stage>
             <p>Je veux luy dire, moy.</p>
           </sp>
           <sp xml:id="I05-28" who="juan">
@@ -2014,7 +2014,7 @@
           </sp>
           <sp xml:id="I05-29" who="pierrot">
             <speaker>Pierrot.</speaker>
-            <p><ref target="#jernidenne">Jarny*</ref>, je vas dire à ton pere tout ce ménage-cy<note n="81" place="bottom"><hi rend="i">Tout ce ménage-cy</hi> : toute cette affaire.</note>.</p>
+            <p><ref target="#jernidenne">Jarny</ref>, je vas dire à ton pere tout ce ménage-cy<note n="81" place="bottom"><hi rend="i">Tout ce ménage-cy</hi> : toute cette affaire.</note>.</p>
           </sp>
           <sp xml:id="I05-30" who="juan">
             <speaker>D. Juan.</speaker>
@@ -2041,7 +2041,7 @@
                 conduiray la chose, je vous promets de servir vostre amour. Allons seulement faire
                 un doigt de collation.</p>
           </sp>
-          <label>Fin du premier acte.</label>
+          <trailer>Fin du premier acte.</trailer>
         </div>
       </div>
       <div xml:id="II" type="act">
@@ -2245,7 +2245,7 @@
                 ventre ; que ne le trouvay-je à cette heure, avec tout son secours ; que ne
                 paroist-il icy à mes yeux au milieu de trente personnes ; que ne le vois-je fondre
                 sur moy les armes à la main ? Comment, marauts, vous avez la hardiesse de vous
-                attaquer à moy ?*Allons, morbleu ; tüe, point de quartier ; donnons ferme ;
+                attaquer à moy ?Allons, morbleu ; tüe, point de quartier ; donnons ferme ;
                 poussons ; bon pied, bon œil. Ah, canaille, vous en voulez par là, je vous en feray
                 tâter vostre saoul. Soûtenez, marauts, soûtenez. Allons, à cette botte<note n="90" place="bottom"><hi rend="i">Botte</hi> : « En terme d’escrime, est un coup qu’on
                   porte avec un fleuret, une estocade ». <hi rend="i">Dictionnaire Universel</hi>
@@ -2255,7 +2255,7 @@
                   juge. Cette petite scène dont Gusman est complice est la « pièce assez plaisante »
                   que ce dernier a imaginé à la fin de l’acte I pour terrifier le juge et faire
                   pression sur lui afin d’obtenir Charlotte pour D. Juan.</note>.</p>
-            <stage>*Il met l’épée à la main, et pousse des bottes de tous costez, et devant les
+            <stage>Il met l’épée à la main, et pousse des bottes de tous costez, et devant les
                 yeux du Juge.</stage>
           </sp>
           <sp xml:id="II03-21" who="gusman">
@@ -2274,12 +2274,12 @@
                 diable d’homme c’est là.</p>
           </sp>
           <sp xml:id="II03-24" who="juge">
-            <speaker>le juge, <hi rend="i">bas.</hi></speaker>
+            <speaker>le juge, </speaker><stage>bas.</stage>
             <p>Oüy, oh, je me mocque de toutes ses menaces.</p>
           </sp>
           <sp xml:id="II03-25" who="silvestre">
             <speaker>silvestre.</speaker>
-            <p>Ah ventre, <ref target="#jernidenne">jarny*</ref>, que ne le puis-je trouver ?</p>
+            <p>Ah ventre, <ref target="#jernidenne">jarny</ref>, que ne le puis-je trouver ?</p>
           </sp>
           <sp xml:id="II03-26" who="juge">
             <speaker>le juge.</speaker>
@@ -2407,7 +2407,7 @@
                 rencontre !</p>
           </sp>
           <sp xml:id="II05-2" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <pb n="52"/>
             <p>Monsieur….</p>
           </sp>
@@ -2416,7 +2416,7 @@
             <p>Que je vous embrasse, M<hi rend="sup">r</hi> Dimanche.</p>
           </sp>
           <sp xml:id="II05-4" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>En verité c’est moy, Monsieur, qui suis trop heureux de vous trouver icy, et j’ay
                 bien de la joye que cela serve d’occasion à vuider…</p>
           </sp>
@@ -2425,7 +2425,7 @@
             <p>Vrayement j’ay bien du plaisir à vous voir.</p>
           </sp>
           <sp xml:id="II05-6" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Monsieur, c’est beaucoup d’honneur que vous me faites ; mais si vous y vouliez
                 joindre une grace, je me trouve icy dans quelque besoin, et….</p>
           </sp>
@@ -2434,7 +2434,7 @@
             <p>Comment se porte Madame Dimanche vostre femme ?</p>
           </sp>
           <sp xml:id="II05-8" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <pb n="53"/>
             <p>Fort à vostre service, Monsieur. Je voudrois donc vous prier….</p>
           </sp>
@@ -2443,7 +2443,7 @@
             <p>Je suis son serviteur.</p>
           </sp>
           <sp xml:id="II05-10" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Monsieur, je disois donc que si vous aviez la commodité…</p>
           </sp>
           <sp xml:id="II05-11" who="juan">
@@ -2451,7 +2451,7 @@
             <p>Et vostre fille Mademoiselle Marion ?</p>
           </sp>
           <sp xml:id="II05-12" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Elle est en bonne santé aussi, Monsieur ; mais….</p>
           </sp>
           <sp xml:id="II05-13" who="juan">
@@ -2459,7 +2459,7 @@
             <p>C’est une aimable enfant.</p>
           </sp>
           <sp xml:id="II05-14" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Elle est bien vostre petite servante, Monsieur ; je…</p>
           </sp>
           <sp xml:id="II05-15" who="juan">
@@ -2467,7 +2467,7 @@
             <p>Et qui est vrayement bien sage.</p>
           </sp>
           <sp xml:id="II05-16" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Oh, Monsieur, vous vous moc-<pb n="54"/> quez d’elle. J’ose prendre la liberté de
                 vous dire, Monsieur, qu’une certaine Lettre de Change que je dois acquiter dans peu
                 m’oblige….</p>
@@ -2477,7 +2477,7 @@
             <p>Et vostre petit garçon fait-il toûjours bien du brüit avec son tambour ?</p>
           </sp>
           <sp xml:id="II05-18" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Oh, Monsieur, il est assez semillant<note n="98" place="bottom"><hi rend="i">Semillant</hi> : « Qui est remuant, éveillé, qui ne se peut tenir en place. Il
                   ne se dit guère que des enfants qui sont toujours en action, qui font quelque
                   petite malice. Ce n’est pas un mauvais signe quand les enfants sont sémillants,
@@ -2490,7 +2490,7 @@
             <p>Il vous ressemble comme deux goutes d’eau.</p>
           </sp>
           <sp xml:id="II05-20" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Voyez-vous, Monsieur, dans le negoce si nous ne payons à jour nommé, on proteste
                 d’abord contre nous ; c’est ce qui fait, Monsieur, que nous importunons quelquefois
                 nos debiteurs ; et comme vous m’avez fait l’honneur de prendre….</p>
@@ -2505,7 +2505,7 @@
             <p>Il s’interesse pour toute la famille.</p>
           </sp>
           <sp xml:id="II05-23" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Monsieur, tout se porte fort bien.</p>
           </sp>
           <sp xml:id="II05-24" who="juan">
@@ -2514,18 +2514,18 @@
                 pour l’amour de moy, quand vous retournerez chez vous.</p>
           </sp>
           <sp xml:id="II05-25" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Monsieur, si auparavant vous trouvez bon que nous….</p>
           </sp>
           <sp xml:id="II05-26" who="juan">
-            <speaker>d. juan <hi rend="i">repousse insensiblement M. Dimanche jusques à ce qu’il
-                  soit contre la porte</hi><note n="99" place="bottom">Les scènes 4 et 5 ont lieu
+            <speaker>d. juan <note n="99" place="bottom">Les scènes 4 et 5 ont lieu
                   dans la maison que D. Juan occupe dans le village. Il s’agit donc ici de la porte
-                  des appartements de D. Juan.</note>, <hi rend="i">et puis s’en va.</hi></speaker>
+                  des appartements de D. Juan.</note>, </speaker><stage>et puis s’en va.</stage><stage>repousse insensiblement M. Dimanche jusques à ce qu’il
+                  soit contre la porte</stage>
             <p>Adieu M<hi rend="sup">r</hi> Dimanche, que je vous embrasse.</p>
           </sp>
           <sp xml:id="II05-27" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Monsieur…</p>
           </sp>
           <sp xml:id="II05-28" who="juan">
@@ -2533,7 +2533,7 @@
             <p>Je ne vous laisseray point là.</p>
           </sp>
           <sp xml:id="II05-29" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Mais Monsieur…</p>
           </sp>
           <sp xml:id="II05-30" who="juan">
@@ -2541,7 +2541,7 @@
             <p>Je sçay trop ce que je vous dois.</p>
           </sp>
           <sp xml:id="II05-31" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Et oüy Môsieur, d’accord, mais le besoin…</p>
           </sp>
           <sp xml:id="II05-32" who="juan">
@@ -2550,7 +2550,7 @@
             <p>Allons, allons, permettez-moy de vous conduire.</p>
           </sp>
           <sp xml:id="II05-33" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Monsieur, la necessité de payer…</p>
           </sp>
           <sp xml:id="II05-34" who="juan">
@@ -2558,7 +2558,7 @@
             <p>Je ne vous laisseray point là, vous dis-je.</p>
           </sp>
           <sp xml:id="II05-35" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Mais si…</p>
           </sp>
           <sp xml:id="II05-36" who="juan">
@@ -2566,7 +2566,7 @@
             <p>C’est perdre le temps.</p>
           </sp>
           <sp xml:id="II05-37" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Je…</p>
           </sp>
           <sp xml:id="II05-38" who="juan">
@@ -2574,7 +2574,7 @@
             <p>Vous vous moquez.</p>
           </sp>
           <sp xml:id="II05-39" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Point du tout.</p>
           </sp>
           <sp xml:id="II05-40" who="juan">
@@ -2582,7 +2582,7 @@
             <p>Hola, hé ? des Flambeaux, et reconduisez M<hi rend="sup">r</hi> Dimanche.</p>
           </sp>
           <sp xml:id="II05-41" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Quel diable d’homme est ce cy ? Orça, me payerez-vous de la même monnoye, vous,
                   M<hi rend="sup">r</hi> Gusman ?</p>
           </sp>
@@ -2591,7 +2591,7 @@
             <p>Plaist-il, Monsieur ?</p>
           </sp>
           <sp xml:id="II05-43" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Je vous demande s’il vous souvient bien<pb n="57"/> que vous me devez en vostre
                 particulier pour quarante écus d’Etoffe que je vous ay livré ?</p>
           </sp>
@@ -2600,7 +2600,7 @@
             <p>Comment se porte Madame Dimanche ?</p>
           </sp>
           <sp xml:id="II05-45" who="dimanche">
-            <speaker>M<hi rend="sup">r</hi> dimanche.</speaker>
+            <speaker>M</speaker><stage>r</stage>
             <p>Oh je n’entens pas raillerie, et…</p>
           </sp>
           <sp xml:id="II05-46" who="gusman">
@@ -2626,7 +2626,7 @@
                   suivre celui qui a crié haro sur elle, et l’un et l’autre demeurent en prison, ou
                   en la maison du Juge, jusqu’à ce qu’il ait prononcé sur leur différent du moins
                   par provision ». Idem.</note> sur<pb n="58"/> ce diable de Monsieur qui veut tuer
-                les Hommes, et prendre les Femmes. <ref target="#palsangué">Palsangué*</ref>, faites comme moy, je criërons
+                les Hommes, et prendre les Femmes. <ref target="#palsangué">Palsangué</ref>, faites comme moy, je criërons
                 l’allarme.</p>
             <stage>Le Juge et Pierrot se mettent à crier allarme et au feu tous deux
                 ensemble.</stage>
@@ -2636,7 +2636,7 @@
           <head>SCENE VII.</head>
           <stage>LE JUGE, PIERROT, GUSMAN.</stage>
           <sp xml:id="II07-1" who="gusman">
-            <speaker>gusman <hi rend="i">leur parlant.</hi></speaker>
+            <speaker>gusman </speaker><stage>leur parlant.</stage>
             <p>Et qu’y a-t-il, Messieurs ? à quoy bon tout ce vacarme ? Vous inquietez-vous ? J’ai
                 tourné l’esprit de mon Maistre tout comme vous le souhaitez ; il ne s’oppose plus à
                 vostre mariage, au contraire il prétend estre de la noce. Il en payera le Festin, et
@@ -2644,11 +2644,11 @@
           </sp>
           <sp xml:id="II07-2" who="pierrot">
             <speaker>pierrot.</speaker>
-            <p>Oh, <ref target="#parguenne">pargué*</ref>, vela un honneste homme cela. Oh bian vous ly diré pour l’amour de cela
+            <p>Oh, <ref target="#parguenne">pargué</ref>, vela un honneste homme cela. Oh bian vous ly diré pour l’amour de cela
                 que je sommes son sarviteur, et que j’allons décrier l’allarme et boire à sa santé.
                 Venez payer chopaine.</p>
           </sp>
-          <label>FIN</label>
+          <trailer>FIN</trailer>
         </div>
       </div>
     </body>

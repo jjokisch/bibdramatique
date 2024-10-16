@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,11 +25,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/corneille-thomas_psyche/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/corneille-thomas_psyche.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/corneille-thomas_psyche.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/corneille-thomas_psyche.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/corneille-thomas_psyche.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/corneille-thomas_psyche/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/corneille-thomas_psyche.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/corneille-thomas_psyche.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/corneille-thomas_psyche.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/corneille-thomas_psyche.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Thomas Corneille</author>. <title>Psyché. Tragédie</title>. On la vend A PARIS, A l’Entrée de la Porte de l’Académie Royale de Musique, au Palais Royal ruë Saint Honoré. Imprimé aux despens de ladite Academie. Par RENÉ BAUDRY Imprimeur ordinaire Du Roy, &amp; ladite Academie. M. DC. LXXVIII. Par Privilege du Roy.</bibl>
@@ -180,7 +179,7 @@
           <l>Craignez toûjours de vous laisser charmer.</l>
         </quote>
         <p>Dès ce moment, on oublie la puissance de l’Amour, et les dieux qui viennent de chanter son pouvoir font l’éloge de leurs propres éléments. Bacchus fait l’éloge du vin. Son nourricier Silène commence une entrée bouffonne avec deux satires. Les douceurs parfaites qu’ils trouvaient jadis dans l’amour sont maintenant, à leurs avis, cachées « au fonds des Pots. » Mome fait l’éloge de la raillerie. Mars, quoiqu’il « Cherch[e] de doux amusements, » trouve bon de « Mesl[er] l’image de la Guerre / Parmy les Jeux les plus charmants. » Il ne faut donc pas prendre trop au sérieux ce qui est dit dans les divertissements. Si on y trouve souvent des paroles fades et légères comme, « L’ardeur d’une flâme constante / Est bientôt languissante, / Veut-on d’agreables amours ? / Il faut changer toujours<note n="41" place="bottom"> Thomas Corneille, <hi rend="i">Médée</hi>, prologue.</note>, » c’est que ces paroles sont chantées par des bergers et non des philosophes. Ce que chantent les bergers leur convient, mais ces maximes ne sont nullement des vérités universelles. Dans un divertissement où les entrées sont chantées par des divinités il n’y a pas plus de sagesse. Car les dieux sont des êtres symboliques. Ils représentent un élément et comprennent tout par rapport à l’élément qu’ils représentent. La superficialité de leurs éloges montre la superficialité de ce qu’ils louent. Car ils louent tantôt l’amour, tantôt le vin, tantôt la galanterie, mais il n’y a pas d’unité ni profondeur dans ce qu’ils louent. L’ensemble est, comme le genre le demande, divertissant, mais sans plus.</p>
-        <p>Mais ce divertissement en particulier n’occupe qu’un niveau de la scène. Il est encadré, en quelque sorte, par l’intrigue principale de l’opéra et plus particulièrement par le mariage de Psyché et l’Amour. Depuis le début du divertissement, ce couple est monté sur la gloire* avec Vénus et Jupiter. Le plaisir, donc, est divertissant, mais l’amour spirituel (représenté par l’âme, c’est-à-dire Psyché, et l’Amour mariés) est littéralement et allégoriquement, au dessus de tout cela.</p>
+        <p>Mais ce divertissement en particulier n’occupe qu’un niveau de la scène. Il est encadré, en quelque sorte, par l’intrigue principale de l’opéra et plus particulièrement par le mariage de Psyché et l’Amour. Depuis le début du divertissement, ce couple est monté sur la gloire avec Vénus et Jupiter. Le plaisir, donc, est divertissant, mais l’amour spirituel (représenté par l’âme, c’est-à-dire Psyché, et l’Amour mariés) est littéralement et allégoriquement, au dessus de tout cela.</p>
       </div>
       <div>
         <head>Comment lire un livret d’opéra</head>
@@ -293,8 +292,8 @@
           <p>Le principe de cette édition est de présenter le texte en sa graphie originale, tout en le rendre le plus lisible que possible pour les lecteurs modernes. Dans ce but, nous avons conservé la ponctuation et l’orthographe du XVII<hi rend="sup">e</hi> siècle avec tout leur manque de régularité (voir surtout III, 3, avec le vers répété, « Si le plaisir d’aimer est un plaisir extrème / extrême / extréme » ). Cependant, les véritables fautes d’orthographe, grammaire et les coquilles ont été soigneusement corrigées (voir la liste de corrections ci-dessous).</p>
           <p>Cependant, dans l’intérêt de la lisibilité, nous avons apporté les modifications suivantes au texte :</p>
           <p>Nous avons changé les « ſ » en « s », les « v » en « u », les « j » en « i » et les « ß » en « ss ». Nous avons également supprimé le tilde, « ~ », qui servait généralement à économiser sur le plomb et sur l’espace. Donc, au lieu de « tous trois chantẽt ensemble » (didascalie de la dernière entrée), cette édition présente « tous trois chantent ensemble ». Nous n’avons pas maintenu la pagination originale, mais nous la signalons entre crochets. Pour les pages qui ne sont pas numérotées dans l’original, nous avons mis un / au premier vers ou première ligne de la page. La première page de chaque livret est également indiquée entre crochets.</p>
-          <p>Les mots qui ont un sens différent du sens moderne ou qui ont un sens en addition au sens moderne sont suivis d’une « * » et sont expliqués dans un lexique (voir les annexes). À cause du grand nombre de divinités et de personnages mythologiques qui apparaissent sur scène, nous avons également inclus un lexique mythologique. Dans le théâtre classique les notes peuvent être suffisantes pour expliquer les références mythologiques. Cependant, dans l’opéra il ne s’agit pas d’allusions à la mythologie ; les divinités sont les personnages mêmes. Par conséquent, la seule présence d’une divinité peut être symboliquement ou allégoriquement significative sans que cette divinité chante un seul vers. C’est pourquoi nous avons inclus des articles plus approfondis sir les divinités de l’opéra. Des notes expliquent au lecteur à quel article dans le lexique mythologique il doit se reporter.</p>
-          <p>En ce qui concerne la mise en page de l’édition, nous avons établi le texte en alphabet romain (l’original était en italiques). Nous avons supprimé les ornements tels que les petites gravures au début des actes et les lettrines. Nous avons conservé, cependant, les ornements qui marquent la division entre sections ou deux couplets d’un air (représentés par un « * <space/>* <space/>* » ). Dans l’édition originale, le format des didascalies et des indications de personnages est irrégulier en certains endroits (notablement dans l’entrée des satires et de Silène dans le divertissement final, ou dans la première itération de « Chantons les plaisirs charmants » où l’indication personnage se confond avec la didascalie précédente). Dans cette édition, toutes les didascalies et indications de personnage sont disposées de manière régulière et courante. La répercussion la plus importante de cette décision est l’insertion de lignes blanches entre les didascalies et le texte, et entre un bloc de texte et l’indication de personnage suivante (la police très grande de l’original permet le texte d’être aussi serré).</p>
+          <p>Les mots qui ont un sens différent du sens moderne ou qui ont un sens en addition au sens moderne sont suivis d’une «  » et sont expliqués dans un lexique (voir les annexes). À cause du grand nombre de divinités et de personnages mythologiques qui apparaissent sur scène, nous avons également inclus un lexique mythologique. Dans le théâtre classique les notes peuvent être suffisantes pour expliquer les références mythologiques. Cependant, dans l’opéra il ne s’agit pas d’allusions à la mythologie ; les divinités sont les personnages mêmes. Par conséquent, la seule présence d’une divinité peut être symboliquement ou allégoriquement significative sans que cette divinité chante un seul vers. C’est pourquoi nous avons inclus des articles plus approfondis sir les divinités de l’opéra. Des notes expliquent au lecteur à quel article dans le lexique mythologique il doit se reporter.</p>
+          <p>En ce qui concerne la mise en page de l’édition, nous avons établi le texte en alphabet romain (l’original était en italiques). Nous avons supprimé les ornements tels que les petites gravures au début des actes et les lettrines. Nous avons conservé, cependant, les ornements qui marquent la division entre sections ou deux couplets d’un air (représentés par un «  <space/> <space/> » ). Dans l’édition originale, le format des didascalies et des indications de personnages est irrégulier en certains endroits (notablement dans l’entrée des satires et de Silène dans le divertissement final, ou dans la première itération de « Chantons les plaisirs charmants » où l’indication personnage se confond avec la didascalie précédente). Dans cette édition, toutes les didascalies et indications de personnage sont disposées de manière régulière et courante. La répercussion la plus importante de cette décision est l’insertion de lignes blanches entre les didascalies et le texte, et entre un bloc de texte et l’indication de personnage suivante (la police très grande de l’original permet le texte d’être aussi serré).</p>
           <p>La question de la répétition des vers (surtout dans les rondeaux) peut être difficile dans l’édition d’un livret. Corneille écrit en entier toutes les réitérations des refrains et toutes les reprises des airs et des chœurs. La seule exception est la reprise d’« Ahi dolore &amp;c. come Sopra », v. 176 dans la plainte italienne. Cependant, cette plainte est tirée de la version de <hi rend="i">Psyché</hi> de 1671 et n’est pas de la composition de Corneille<note n="69" place="bottom">Pour plus de détails sur ce divertissement, voir les notes au début de la plainte (p. 63) et la « Traduction de la Plainte Italienne » dans les annexes (p. 103).</note>. Sa structure, en outre, est extrêmement variable de version en version. Dans un souci de représenter clairement la structure de cette plainte, et considérant l’attention que Corneille a portée à recopier les vers répétés dans le reste du livret, nous avons recopié la plainte en entier.</p>
           <p>Le texte de Corneille indique clairement où se trouvent les duos, trios et chœurs. Par contre, la division entre les airs et les récitatifs n’est pas du tout claire. Il aurait été très encombrant d’indiquer en note chaque changement entre air et récitatif. Au lieu d’indiquer tous les airs en note, donc, nous avons inclus une table des airs (voir les annexes). Malheureusement, nous n’avons pas pu créer une table semblable pour les ritournelles, danses, etc. Mais puisque aucun enregistrement ni partition n’est actuellement disponible, nous considérons qu’il est important de signaler les endroits où la musique peut influencer l’interprétation du texte. Nous convenons que ce système n’est pas idéal. Enfin, nous avons indiqué les effectifs vocaux (dessus, basse, haute-contre etc.) entre crochets dans les listes de personnages du prologue et de la tragédie.</p>
         </div>
@@ -333,7 +332,7 @@
         <l n="6">A s’étendre plus loin par le droit de l’espée,</l>
         <l n="7">Pour cueillir les Lauriers deûs à tes grands exploits</l>
         <l n="8">Neglige des beaux Arts les paisibles employs.</l>
-        <l n="9">Mais quand on voit d’<ref target="#ailleurs">ailleurs*</ref> que les Plaisirs tranquilles</l>
+        <l n="9">Mais quand on voit d’<ref target="#ailleurs">ailleurs</ref> que les Plaisirs tranquilles</l>
         <l n="10">Regnent avec éclat au milieu de nos Villes,</l>
         <l n="11">Pendant ces doux loisirs, qui n’asseureroit pas</l>
         <l n="12">Que la France ne peut accroistre ses Estats ?</l>
@@ -435,7 +434,7 @@
           </sp>
           <sp who="vertumne" xml:id="A02-3">
             <speaker>VERTUMNE.</speaker>
-            <l n="17" xml:id="l17">Un bel <ref target="#objet">Objet*</ref> toûjours severe</l>
+            <l n="17" xml:id="l17">Un bel <ref target="#objet">Objet</ref> toûjours severe</l>
             <l n="18" xml:id="l18">Ne se fait jamais bien aimer.</l>
           </sp>
           <sp who="palemon" xml:id="A02-4">
@@ -465,11 +464,11 @@
             <speaker>PALEMON.</speaker>
             <l n="29" xml:id="l29">C’est la beauté qui commence de plaire,</l>
             <l n="30" xml:id="l30">Mais la douceur acheve de charmer.</l>
-            <stage>Flore respond au Dialogue de Vertumne &amp; de Palemon, par un Menüet* qu’elle chante. Elle fait entendre que l’on ne doit pas perdre le temps des Plaisirs ; &amp; que c’est une folie à la Jeunesse d’estre sans amour. Les Divinitez qui suivent Vertumne &amp; Palemon, meslent leurs dances au chant de Flore, &amp; chacun fait connoistre son empressement à contribuer à la réjoüissance generale.</stage>
+            <stage>Flore respond au Dialogue de Vertumne &amp; de Palemon, par un Menüet qu’elle chante. Elle fait entendre que l’on ne doit pas perdre le temps des Plaisirs ; &amp; que c’est une folie à la Jeunesse d’estre sans amour. Les Divinitez qui suivent Vertumne &amp; Palemon, meslent leurs dances au chant de Flore, &amp; chacun fait connoistre son empressement à contribuer à la réjoüissance generale.</stage>
           </sp>
         </div>
         <div type="scene" xml:id="A03">
-          <head>MENUET DE FLORE<note n="80" place="bottom">Ce <ref target="#menuet">menuet*</ref> est joué par les violons avant l’air de Flore. Il est repris entre les deux couplets dans Vignol, et après le deuxième couplet dans Ballard.</note></head>
+          <head>MENUET DE FLORE<note n="80" place="bottom">Ce <ref target="#menuet">menuet</ref> est joué par les violons avant l’air de Flore. Il est repris entre les deux couplets dans Vignol, et après le deuxième couplet dans Ballard.</note></head>
           <sp who="flore" xml:id="A03-1">
             <speaker/>
             <lg>
@@ -512,7 +511,7 @@
             <l n="57" xml:id="l57">Pourquoy du Ciel m’obliger à descendre ?</l>
             <l n="58" xml:id="l58">Mon merite en ces lieux n’a plus rien à pretendre,</l>
             <l n="59" xml:id="l59">En vain vous m’y rendez ces honneurs solemnels.</l>
-            <l n="60" xml:id="l60">Le mespris est mon seul <ref target="#partage">partage*</ref>,</l>
+            <l n="60" xml:id="l60">Le mespris est mon seul <ref target="#partage">partage</ref>,</l>
             <l n="61" xml:id="l61">Et depuis qu’à Psyché les aveugles Mortels</l>
             <l n="62" xml:id="l62">De leurs vœux adressent l’hommage,</l>
             <l n="63" xml:id="l63">Venus demeure sans Autels.</l>
@@ -521,7 +520,7 @@
             <stage>Flore, &amp; les autres Dieux se retirent : &amp; on entend une Symphonie pendant laquelle l’Amour descend dans un petit nüage<note n="82" place="bottom">Ballard indique que cette ritournelle pour la descente de l’Amour « se jouë ordinairement deux fois tout de suitte. »</note>.</stage>
           </sp>
           <sp who="venus-prologue" xml:id="A03-4">
-            <speaker>VENUS <hi rend="i">à l’Amour.</hi></speaker>
+            <speaker>VENUS </speaker><stage>à l’Amour.</stage>
             <l n="66" xml:id="l66">Mon Fils, si tu plains mes mal-heurs</l>
             <l n="67" xml:id="l67">Fais moy voir que tu m’és fidelle.</l>
             <l n="68" xml:id="l68">Tu sçais combien Psyché me dérobe d’honneurs,</l>
@@ -711,7 +710,7 @@
             <l n="103" xml:id="l103">Il est un fatal moment,</l>
             <l n="104" xml:id="l104">Où l’Objet le plus severe</l>
             <l n="105" xml:id="l105">Se rend aux vœux d’un Amant,</l>
-            <l n="106" xml:id="l106">Et plus la Belle differe*,</l>
+            <l n="106" xml:id="l106">Et plus la Belle differe,</l>
             <l n="107" xml:id="l107">Plus elle aime tendrement.</l>
           </sp>
           <sp who="aglaure" xml:id="I01-9">
@@ -746,7 +745,7 @@
           </sp>
           <sp who="lychas" xml:id="I02-5">
             <speaker>LYCHAS</speaker>
-            <l n="114" xml:id="l114">La <ref target="#disgrace">disgrace*</ref> la plus cruelle</l>
+            <l n="114" xml:id="l114">La <ref target="#disgrace">disgrace</ref> la plus cruelle</l>
             <l n="115" xml:id="l115">Dont vous puissiez jamais avoir le cœur touché.</l>
             <l n="116" xml:id="l116">Tandis que chacun en soûpire</l>
             <l n="117" xml:id="l117">Elle seule ignore son sort,</l>
@@ -801,14 +800,14 @@
           <sp who="lychas" xml:id="I02-13">
             <speaker>LYCHAS.</speaker>
             <l n="144" xml:id="l144">Voyez comme chacun regrettant la Princesse</l>
-            <l n="145" xml:id="l145">Abandonne son cœur à l’<ref target="#ennui">ennuy*</ref> qui le presse.</l>
+            <l n="145" xml:id="l145">Abandonne son cœur à l’<ref target="#ennui">ennuy</ref> qui le presse.</l>
           </sp>
           <sp who="tous" xml:id="I02-14">
             <speaker>TOUS TROIS</speaker>
             <l n="146" xml:id="l146">Pleurons, pleurons ; en de si grands mal-heurs</l>
             <l n="147" xml:id="l147">On ne peut trop verser de pleurs.</l>
           </sp>
-          <stage>On voit arriver une Troupe de Personnes désolées qui viennent vers la Montagne déplorer la <ref target="#disgrace">disgrace*</ref> de Psyché. Leurs plaintes sont exprimées de cette sorte par une Femme désolée &amp; deux Hommes affligez. Ils sont suivis de six Personnes joüant de la Flûte, &amp; de huit autres qui portent des Flambeaux à la maniere de ceux dont les Anciens se servoient aux Pompes Funebres.<note n="89" place="bottom"> Pour une traduction de ce divertissement, voir la « Traduction de la Plainte Italienne », dans les annexes. Cette plainte commence avec un long prélude en tonalité mineure qui se joue sur les flûtes et sur les violons.</note></stage>
+          <stage>On voit arriver une Troupe de Personnes désolées qui viennent vers la Montagne déplorer la <ref target="#disgrace">disgrace</ref> de Psyché. Leurs plaintes sont exprimées de cette sorte par une Femme désolée &amp; deux Hommes affligez. Ils sont suivis de six Personnes joüant de la Flûte, &amp; de huit autres qui portent des Flambeaux à la maniere de ceux dont les Anciens se servoient aux Pompes Funebres.<note n="89" place="bottom"> Pour une traduction de ce divertissement, voir la « Traduction de la Plainte Italienne », dans les annexes. Cette plainte commence avec un long prélude en tonalité mineure qui se joue sur les flûtes et sur les violons.</note></stage>
           <label>PLAINTE ITALIENNE<note n="90" place="bottom"> Dans l’édition originale, la plainte en italien et les didascalies sont imprimées à la page gauche (paire) et une traduction française, sans didascalie, mais dont chaque vers est aligné avec le vers italien correspondant, est imprimée à la page droite (impaire). Nous avons seulement imprimé la version italienne ici, car c’est cette version qui fut mise en musique et qui contient les didascalies (qui sont en français). </note>.<pb n="6"/></label>
           <sp who="femme-affligee" xml:id="I02-15">
             <speaker>Femme désolée.</speaker>
@@ -914,9 +913,9 @@
             <l n="183" xml:id="l183">Le moyen de luy dire adieu ?</l>
           </sp>
           <sp who="psyche" xml:id="I03-3">
-            <speaker>PSYCHE’ <hi rend="i">à ses sœurs.</hi></speaker>
+            <speaker>PSYCHE’ </speaker><stage>à ses sœurs.</stage>
             <l n="184" xml:id="l184">Ainsi pour vous rendre en ce lieu</l>
-            <l n="185" xml:id="l185">Vous avez <ref target="#prevenir">prévenu*</ref> l’heure du Sacrifice ?</l>
+            <l n="185" xml:id="l185">Vous avez <ref target="#prevenir">prévenu</ref> l’heure du Sacrifice ?</l>
           </sp>
           <sp who="aglaure" xml:id="I03-4">
             <speaker>AGLAURE.</speaker>
@@ -1052,7 +1051,7 @@
             <l n="233" part="I" xml:id="l233">Arreste, que fais tu ?</l>
           </sp>
           <sp who="psyche" xml:id="I04-19">
-            <speaker>PSYCHE’ <hi rend="i">montant sur le Rocher</hi></speaker>
+            <speaker>PSYCHE’ </speaker><stage>montant sur le Rocher</stage>
             <l part="F">Je fais ce que je doy.</l>
           </sp>
           <sp who="roy" xml:id="I04-20">
@@ -1060,7 +1059,7 @@
             <l n="234" xml:id="l234">Au Monstre sans trembler tu te livres toy-mesme ?</l>
           </sp>
           <sp who="psyche" xml:id="I04-21">
-            <speaker>PSYCHE’ <hi rend="i">sur le Rocher.</hi></speaker>
+            <speaker>PSYCHE’ </speaker><stage>sur le Rocher.</stage>
             <l n="235" xml:id="l235">Ma fermeté quand vous vous alarmez</l>
             <l n="236" xml:id="l236">Doit vous plaire si vous m’aimez.</l>
           </sp>
@@ -1086,7 +1085,7 @@
             <speaker>VULCAIN.</speaker>
             <l n="242" xml:id="l242">Cyclopes, achevez ce superbe Palais,</l>
             <l n="243" xml:id="l243">Que tout vostre Art s’épuise en cét Ouvrage.</l>
-            <l n="244" xml:id="l244">Faites-y voir un <ref target="#pompeux">pompeux*</ref> Assemblage</l>
+            <l n="244" xml:id="l244">Faites-y voir un <ref target="#pompeux">pompeux</ref> Assemblage</l>
             <l n="245" xml:id="l245">Des plus rares Beautez qui parurent jamais.</l>
             <stage>Les Cyclopes se preparent icy à travailler, &amp; on entend une Symphonie qui les y excite.</stage>
           </sp>
@@ -1131,7 +1130,7 @@
             <speaker>ZEPHIRE.</speaker>
             <l n="266" xml:id="l266">Faites tout pour l’Amour, &amp; rien contre Venus.</l>
             <l n="267" xml:id="l267">Penser à la vangeance, abus, Vulcain, abus.</l>
-            <l n="268" xml:id="l268">Quelques tours que nous fasse une <ref target="#moitie">Moitié*</ref> coquette,</l>
+            <l n="268" xml:id="l268">Quelques tours que nous fasse une <ref target="#moitie">Moitié</ref> coquette,</l>
             <l n="269" xml:id="l269">Le meilleur est de n’y jamais songer.</l>
             <l n="270" xml:id="l270">Il est toûjours trop tard de s’en vanger,</l>
             <l n="271" xml:id="l271">L’affaire est faite.</l>
@@ -1140,11 +1139,11 @@
             <stage>Les huit Cyclopes commencent leur Entrée, &amp; continüent à embellir le Palais sur les ordres de Vulcain, qui leur parle pendant qu’ils travaillent<note n="100" place="bottom">On reprend ici la symphonie dont on parle dans la didascalie après le v. 245.</note>.</stage>
           </sp>
           <sp who="vulcain" xml:id="II02-6">
-            <speaker>VULCAIN <hi rend="i">AUX CYCLOPES.</hi></speaker>
+            <speaker>VULCAIN </speaker><stage>AUX CYCLOPES.</stage>
             <lg>
               <l n="274" xml:id="l274">Depeschez, preparez ces lieux</l>
               <l n="275" xml:id="l275">Pour le plus aimable des Dieux.</l>
-              <l n="276" xml:id="l276">Que chacun pour luy s’<ref target="#interesser">interesse*</ref>,</l>
+              <l n="276" xml:id="l276">Que chacun pour luy s’<ref target="#interesser">interesse</ref>,</l>
               <l n="277" xml:id="l277">N’oubliez rien des soins qu’il faut.</l>
               <l n="278" xml:id="l278">Quand l’Amour presse</l>
               <l n="279" xml:id="l279">On n’a jamais fait assez tost.</l>
@@ -1160,7 +1159,7 @@
             <lg>
               <l n="285" xml:id="l285">Servez bien un Dieu si charmant,</l>
               <l n="286" xml:id="l286">Il se plaist dans l’empressement.</l>
-              <l n="287" xml:id="l287">Que chacun pour luy s’<ref target="#interesser">interesse*</ref>,</l>
+              <l n="287" xml:id="l287">Que chacun pour luy s’<ref target="#interesser">interesse</ref>,</l>
               <l n="288" xml:id="l288">N’oubliez rien des soins qu’il faut.</l>
               <l n="289" xml:id="l289">Quand l’Amour presse,</l>
               <l n="290" xml:id="l290">On n’a jamais fait assez tost.</l>
@@ -1200,7 +1199,7 @@
           <sp who="venus" xml:id="II03-3">
             <speaker>VENUS.</speaker>
             <l n="309" xml:id="l309">Ah, que l’amour est promptement guery</l>
-            <l n="310" xml:id="l310">Quand l’Hymen a <ref target="#reduire">reduit*</ref> deux Cœurs sous sa puissance !</l>
+            <l n="310" xml:id="l310">Quand l’Hymen a <ref target="#reduire">reduit</ref> deux Cœurs sous sa puissance !</l>
             <l n="311" xml:id="l311">Que les duretez de Mary</l>
             <l n="312" xml:id="l312">Aux tendresses d’Amant ont peu de ressemblance !</l>
           </sp>
@@ -1213,7 +1212,7 @@
             <l n="317" xml:id="l317">Je ne fais pour Psyché que bâtir un Palais,</l>
             <l n="318" xml:id="l318">Vous estes encor trop heureuse.</l>
             <l n="319" xml:id="l319">Si j’estois de nature un peu plus amoureuse</l>
-            <l n="320" xml:id="l320">Vous me verriez <ref target="#adorer">adorer*</ref> ses attraits.</l>
+            <l n="320" xml:id="l320">Vous me verriez <ref target="#adorer">adorer</ref> ses attraits.</l>
             <l n="321" xml:id="l321">La vangeance seroit plus belle,</l>
             <l n="322" xml:id="l322">Mais je suis à ma Forge occupé nuit &amp; jour.</l>
             <l n="323" xml:id="l323">Je n’ay pas le loisir de luy parler d’amour,</l>
@@ -1228,7 +1227,7 @@
             <stage>Venus rentre dans son Char &amp; s’envole.</stage>
           </sp>
           <sp who="vulcain" xml:id="II03-6">
-            <speaker>VULCAIN <hi rend="i">aux Cyclopes.</hi></speaker>
+            <speaker>VULCAIN </speaker><stage>aux Cyclopes.</stage>
             <l n="329" xml:id="l329">L’Amour icy nous a mandez exprés,</l>
             <l n="330" xml:id="l330">Achevons, achevons ce qui nous reste à faire.</l>
             <stage>Un peu avant que Psyché se monstre, la Forge &amp; toutes les choses dont on s’est servy pour achever le Palais, disparoissent<note n="104" place="bottom">Elles disparaissent pendant le prélude pour la scène 4. </note>. On le voit alors dans son entiere perfection, il est orné de Vases d’or, avec de petits Amours sur des Piedestaux. Il y a dans le fonds un magnifique Portail, au travers duquel on découvre une Cour Ovale percée en plusieurs endroits sur un Jardin delicieux.</stage>
@@ -1250,7 +1249,7 @@
             <l n="340" xml:id="l340">Que par vostre lenteur je vous trouve inhumaine !</l>
             <l n="341" xml:id="l341">Venez, affreux Serpent, venez finir ma peine,</l>
             <l n="342" xml:id="l342">Vostre victime vous attend.</l>
-            <stage>On entend icy une Symphonie sans rien voir<note n="105" place="bottom"> Cette symphonie, toujours en ré mineur, rappelle la <ref target="#chaconne">chaconne*</ref> mais est plus élaborée. Dans Vignol, il y a un dialogue entre les flûtes et les violons. </note>.</stage>
+            <stage>On entend icy une Symphonie sans rien voir<note n="105" place="bottom"> Cette symphonie, toujours en ré mineur, rappelle la <ref target="#chaconne">chaconne</ref> mais est plus élaborée. Dans Vignol, il y a un dialogue entre les flûtes et les violons. </note>.</stage>
           </sp>
         </div>
         <div type="scene" xml:id="II05">
@@ -1261,7 +1260,7 @@
             <l n="343" xml:id="l343">Quels agreables sons ont frappé mes oreilles ?</l>
           </sp>
           <sp who="nymphe-cachee" xml:id="II05-2">
-            <speaker>NYMPHE <hi rend="i">cachée.</hi></speaker>
+            <speaker>NYMPHE </speaker><stage>cachée.</stage>
             <l n="344" xml:id="l344">Attens encor, Psyché, de plus grandes merveilles.</l>
             <l n="345" xml:id="l345">Tout est dans ces beaux lieux soûmis à tes appas.</l>
             <l n="346" xml:id="l346">Pour rendre ton bon-heur durable</l>
@@ -1273,11 +1272,11 @@
             <l n="349" xml:id="l349">Est-ce qu’aimer est necessaire ?</l>
           </sp>
           <sp who="zephir-cache" xml:id="II05-4">
-            <speaker>ZEPHIR <hi rend="i">caché</hi>.</speaker>
+            <speaker>ZEPHIR </speaker><stage>caché</stage>
             <l n="350" xml:id="l350">D’un jeune cœur c’est la plus douce affaire.</l>
           </sp>
           <sp who="zephir-cache" xml:id="II05-5">
-            <speaker>DEUX ZEPHIRS <hi rend="i">cachez ensemble.</hi></speaker>
+            <speaker>DEUX ZEPHIRS </speaker><stage>cachez ensemble.</stage>
             <l n="351" xml:id="l351">Aimez, il n’est de beaux ans</l>
             <l n="352" xml:id="l352">Que dans l’amoureux Empire.<pb n="21"/></l>
             <l n="353" xml:id="l353">Qui laisse échaper le temps</l>
@@ -1290,7 +1289,7 @@
             <l n="357" xml:id="l357">Et qui veut-on me faire aimer ?</l>
           </sp>
           <sp who="zephir-cache" xml:id="II05-7">
-            <speaker>ZEPHIR <hi rend="i">caché.</hi></speaker>
+            <speaker>ZEPHIR </speaker><stage>caché.</stage>
             <l n="358" xml:id="l358">Un Dieu qui se prepare à t’assurer luy-mesme</l>
             <l n="359" xml:id="l359">De son amour extrême.</l>
           </sp>
@@ -1299,7 +1298,7 @@
             <l n="360" xml:id="l360">Qui seroit donc ce Dieu que j’aurois sçeu charmer ?</l>
           </sp>
           <sp who="amour-cache" xml:id="II05-9">
-            <speaker>L’AMOUR <hi rend="i">caché</hi>.</speaker>
+            <speaker>L’AMOUR </speaker><stage>caché</stage>
             <l n="361" xml:id="l361">C’est moy, Psyché, c’est moy qui me rends à vos charmes.</l>
           </sp>
           <sp who="psyche" xml:id="II05-10">
@@ -1307,7 +1306,7 @@
             <l n="362" xml:id="l362">S’il est ainsi, paroissez en ce lieu.</l>
           </sp>
           <sp who="amour-cache" xml:id="II05-11">
-            <speaker>L’AMOUR <hi rend="i">caché.</hi></speaker>
+            <speaker>L’AMOUR </speaker><stage>caché.</stage>
             <l n="363" xml:id="l363">Le Destin vous deffend de me voir comme Dieu,</l>
             <l n="364" xml:id="l364">Où ma perte aussi-tost vous coûtera des larmes.</l>
           </sp>
@@ -1316,7 +1315,7 @@
             <l n="365" xml:id="l365">Et le moyen d’aimer ce qu’on ne voit jamais ?</l>
           </sp>
           <sp who="amour-cache" xml:id="II05-13">
-            <speaker>L’AMOUR <hi rend="i">caché</hi>.</speaker>
+            <speaker>L’AMOUR </speaker><stage>caché</stage>
             <l n="366" xml:id="l366">Pour me monstrer à vous, je vay dans ce Palais</l>
             <l n="367" xml:id="l367">Prendre d’un Mortel la figure.</l>
           </sp>
@@ -1363,7 +1362,7 @@
           </sp>
           <sp who="amour" xml:id="II06-5">
             <speaker>L’AMOUR.</speaker>
-            <l n="389" xml:id="l389">C’est peu qu’aimer, je vous <ref target="#adorer">adore*</ref>.</l>
+            <l n="389" xml:id="l389">C’est peu qu’aimer, je vous <ref target="#adorer">adore</ref>.</l>
           </sp>
           <sp who="psyche" xml:id="II06-6">
             <speaker>PSYCHE’.</speaker>
@@ -1436,7 +1435,7 @@
             <l n="434" xml:id="l434">Plus on doit à l’Amour.</l>
           </sp>
           <sp who="nymphe2" xml:id="II06-14">
-            <speaker>II<hi rend="sup">e</hi> NYMPHE.</speaker>
+            <speaker>II</speaker><stage>e</stage>
             <l n="435" xml:id="l435">Un cœur jeune &amp; tendre</l>
             <l n="436" xml:id="l436">Est fait pour se rendre,</l>
             <l n="437" xml:id="l437">Il n’a point à prendre</l>
@@ -1450,7 +1449,7 @@
             <l n="442" xml:id="l442">Plus on doit à l’Amour.</l>
           </sp>
           <sp who="nymphe3" xml:id="II06-16">
-            <speaker>III<hi rend="sup">e</hi> NYMPHE.</speaker>
+            <speaker>III</speaker><stage>e</stage>
             <l n="443" xml:id="l443">Pourquoy se défendre ?</l>
             <l n="444" xml:id="l444">Que sert-il d’attendre ?</l>
             <l n="445" xml:id="l445">Quand on perd un jour,    </l>
@@ -1465,7 +1464,7 @@
             <stage>Les petits Amours continüent leur Danse avec les Zephirs.</stage>
           </sp>
           <sp who="nymphe1" xml:id="II06-18">
-            <speaker>I<hi rend="sup">re</hi> NYMPHE.</speaker>
+            <speaker>I</speaker><stage>re</stage>
             <l n="451" xml:id="l451">L’Amour a des charmes,</l>
             <l n="452" xml:id="l452">Rendons luy les armes,</l>
             <l n="453" xml:id="l453">Ses soins &amp; ses pleurs</l>
@@ -1479,13 +1478,13 @@
           </sp>
           <sp who="nymphe3" xml:id="II06-19">
             <speaker>II. &amp; III. NYMPHE.</speaker>
-            <l n="461" xml:id="l461">S’il faut des <ref target="#soin">soins*</ref> &amp; des <ref target="#travail">travaux*</ref></l>
+            <l n="461" xml:id="l461">S’il faut des <ref target="#soin">soins</ref> &amp; des <ref target="#travail">travaux</ref></l>
             <l n="462" xml:id="l462">En aimant,</l>
             <l n="463" xml:id="l463">On est payé de mille maux</l>
             <l n="464" xml:id="l464">Par un heureux moment.</l>
           </sp>
           <sp who="nymphe2" xml:id="II06-20">
-            <speaker>II<hi rend="sup">e</hi> NYMPHE.</speaker>
+            <speaker>II</speaker><stage>e</stage>
             <l n="465" xml:id="l465">On craint, on espere,</l>
             <l n="466" xml:id="l466">Il faut du Mistere,</l>
             <l n="467" xml:id="l467">Mais on n’obtient guére</l>
@@ -1512,7 +1511,7 @@
             <l n="479" xml:id="l479">On est payé de mille maux<pb n="27"/></l>
             <l n="480" xml:id="l480">Par un heureux moment<note n="111" place="bottom">On reprend pour intermède l’« air pour les petits Amours &amp; Zéphirs » avec lequel le divertissement était commencé.</note>.</l>
           </sp>
-          <label>FIN DU SECOND ACTE.</label>
+          <trailer>FIN DU SECOND ACTE.</trailer>
         </div>
       </div>
       <div type="act" xml:id="III">
@@ -1529,7 +1528,7 @@
               <l n="483" xml:id="l483">Je ne voy rien qui ne parle en ces lieux</l>
               <l n="484" xml:id="l484">De la gloire de ma Rivale.</l>
               <l n="485" xml:id="l485">Tant de Divinitez dont elle a tous les soins</l>
-              <l n="486" xml:id="l486">Et la plus forte <ref target="#complaisance">complaisance*</ref>,</l>
+              <l n="486" xml:id="l486">Et la plus forte <ref target="#complaisance">complaisance</ref>,</l>
               <l n="487" xml:id="l487">Sont autant de honteux témoins,</l>
               <l n="488" xml:id="l488">De son pouvoir &amp; de mon impuissance.</l>
             </lg>
@@ -1557,7 +1556,7 @@
           <head>SCENE II</head>
           <stage>VENUS, PSYCHE’.</stage>
           <sp who="psyche" xml:id="III02-1">
-            <speaker>PSYCHE’ <hi rend="i">sans voir Venus</hi><note n="113" place="bottom"> Psyché bouleverse ici le récitatif de Venus avec une ritournelle et ariette très dansantes en ton majeur. Si les paroles sont languissantes, Lully nous ferait croire que Psyché s’amuse à languir.</note>.</speaker>
+            <speaker>PSYCHE’ <note n="113" place="bottom"> Psyché bouleverse ici le récitatif de Venus avec une ritournelle et ariette très dansantes en ton majeur. Si les paroles sont languissantes, Lully nous ferait croire que Psyché s’amuse à languir.</note>.</speaker><stage>sans voir Venus</stage>
             <l n="503" xml:id="l503">Que fais-tu ! montre toy, cher Objet de ma flâme,</l>
             <l n="504" xml:id="l504">Viens consoler mon ame.</l>
             <l n="505" xml:id="l505">La beauté de ces lieux est un enchantement,</l>
@@ -1568,7 +1567,7 @@
             <l n="510" xml:id="l510">Est un rigoureux tourment !<pb n="30"/></l>
           </sp>
           <sp who="psyche" xml:id="III02-2">
-            <speaker>PSYCHE’ <hi rend="i">apercevant Venus.</hi></speaker>
+            <speaker>PSYCHE’ </speaker><stage>apercevant Venus.</stage>
             <l n="511" xml:id="l511">Par quel art dans ce lieu vous rendez-vous visible ?</l>
             <l n="512" xml:id="l512">On m’y parle souvent sans qu’on se laisse voir.</l>
           </sp>
@@ -1620,7 +1619,7 @@
           </sp>
           <sp who="venus" xml:id="III02-9">
             <speaker>VENUS.</speaker>
-            <l n="541" part="I" xml:id="l541">Vous me <ref target="#decouvrir">découvrirez*</ref>.</l>
+            <l n="541" part="I" xml:id="l541">Vous me <ref target="#decouvrir">découvrirez</ref>.</l>
           </sp>
           <sp who="psyche" xml:id="III02-10">
             <speaker>PSYCHE’.</speaker>
@@ -1659,7 +1658,7 @@
             <speaker>PSYCHE’.</speaker>
             <l n="550" xml:id="l550">A la fin je vay voir mon destin éclaircy,</l>
             <l n="551" xml:id="l551">Je vay voir cét Amant dont mon ame est éprise.</l>
-            <stage>Psyché leve le Rideau qui ferme l’Alcove, &amp; on voit l’Amour endormy sur un Lict tres-riche : Il est dans la figure d’Enfant que les Peintres ont accoûtumé de luy donner. La suite d’un grand Apartement se <ref target="#decouvrir">découvre*</ref> au travers de cette Alcove.</stage>
+            <stage>Psyché leve le Rideau qui ferme l’Alcove, &amp; on voit l’Amour endormy sur un Lict tres-riche : Il est dans la figure d’Enfant que les Peintres ont accoûtumé de luy donner. La suite d’un grand Apartement se <ref target="#decouvrir">découvre</ref> au travers de cette Alcove.</stage>
             <l n="552" xml:id="l552">Approchons. Dieux ! que voy-je icy ?</l>
             <l n="553" xml:id="l553">C’est l’Amour. Quelle douce &amp; charmante surprise !</l>
             <l n="554" xml:id="l554">C’est l’Amour qui pour moy s’est blessé de ses traits.</l>
@@ -1701,7 +1700,7 @@
             <l n="580" xml:id="l580">Ma tendresse a causé mon trop d’empressement.</l>
             <l n="581" xml:id="l581">Et ne dévoit-il pas paroistre legitime</l>
             <l n="582" xml:id="l582">Du moins aux yeux de mon Amant ?</l>
-            <l n="583" xml:id="l583">Ciel ! le funeste excez de mon <ref target="#inquietude">inquietude*</ref></l>
+            <l n="583" xml:id="l583">Ciel ! le funeste excez de mon <ref target="#inquietude">inquietude</ref></l>
             <l n="584" xml:id="l584">Occupoit à tel point mon esprit affligé</l>
             <l n="585" xml:id="l585">Que je ne voyois point ce beau Palais changé</l>
             <l n="586" xml:id="l586">En une affreuse Solitude.</l>
@@ -1765,7 +1764,7 @@
             <l n="615" xml:id="l615">Escoute ; &amp; ne replique pas.</l>
             <l n="616" xml:id="l616">Pour fléchir la rigueur où mon couroux s’obstine,</l>
             <l n="617" xml:id="l617">Vers les rives du Stix il faut tourner ses pas,</l>
-            <l n="618" xml:id="l618">Et m’aporter la <ref target="#boete">Boëte*</ref> où Proserpine</l>
+            <l n="618" xml:id="l618">Et m’aporter la <ref target="#boete">Boëte</ref> où Proserpine</l>
             <l n="619" xml:id="l619">Enferme ce qui peut augmenter ses appas ;<pb n="36"/></l>
             <l n="620" xml:id="l620">C’est l’employ qu’à tes soins ma vangeance destine.</l>
           </sp>
@@ -1788,7 +1787,7 @@
             <l n="632" xml:id="l632">M’offrent celuy que je dois prendre.</l>
             <stage>Psyché estant preste à se precipiter dans les flots, le Fleuve paroist assis sur son Urne, &amp; tout environné de Roseaux.</stage>
           </sp>
-          <label>* * *<pb n="37"/></label>
+          <label>  <pb n="37"/></label>
         </div>
         <div type="scene" xml:id="III07">
           <head>SCENE VII.</head>
@@ -1811,7 +1810,7 @@
             <l n="640" xml:id="l640">Des ordres du Destin.</l>
             <stage>Psyché va s’asseoir auprés du Fleuve, &amp; il se perd avec elle sous les eaux<note n="116" place="bottom">Selon Ballard, on reprend pour entr’acte l’air des forgerons, de la fin de II, 1.</note>.</stage>
           </sp>
-          <label>FIN DU III<hi rend="sup">e</hi> ACTE.</label>
+          <trailer>FIN DU III<hi rend="sup">e</hi> ACTE.</trailer>
         </div>
       </div>
       <div type="act" xml:id="IV">
@@ -1850,7 +1849,7 @@
               <l n="661" xml:id="l661">Parmy tous vos tourments, Ombres, connoissez-vous</l>
               <l n="662" xml:id="l662">Un suplice égal à ma peine ?</l>
             </lg>
-            <stage>On entend icy une Symphonie qui marque quelque chose de furieux. Des Demons passent sur le theatre pendant cette Symphonie, &amp; commencent à épouvanter Psyché. Ils sont <ref target="#incontinent">incontinent*</ref> suivis des trois Furies<note n="119" place="bottom">Voir « EUMENIDES » et « ALECTON » dans le lexique mythologique.</note>.</stage>
+            <stage>On entend icy une Symphonie qui marque quelque chose de furieux. Des Demons passent sur le theatre pendant cette Symphonie, &amp; commencent à épouvanter Psyché. Ils sont <ref target="#incontinent">incontinent</ref> suivis des trois Furies<note n="119" place="bottom">Voir « EUMENIDES » et « ALECTON » dans le lexique mythologique.</note>.</stage>
           </sp>
         </div>
         <div type="scene" xml:id="IV02">
@@ -1928,7 +1927,7 @@
           </sp>
           <sp who="nymphes-acheron" xml:id="IV03-2">
             <speaker>LES DEUX NYMPHES.</speaker>
-            <l n="695" xml:id="l695">En vain ce <ref target="#soin">soin*</ref> vous embarasse.</l>
+            <l n="695" xml:id="l695">En vain ce <ref target="#soin">soin</ref> vous embarasse.</l>
             <l n="696" xml:id="l696">Nous avons l’ordre, allez, &amp; nous quittez la place.</l>
             <stage>Les trois Furies sortent.</stage>
             <pb n="42"/>
@@ -1956,7 +1955,7 @@
             <l n="706" xml:id="l706">Et pour vous l’aporter elle se sert de nous.</l>
           </sp>
           <sp who="psyche" xml:id="IV03-7">
-            <speaker>PSYCHE’ <hi rend="i">apres avoir pris la Boëte des mains de la Nymphe.</hi></speaker>
+            <speaker>PSYCHE’ </speaker><stage>apres avoir pris la Boëte des mains de la Nymphe.</stage>
             <l n="707" xml:id="l707">Ah, que mes peines sont charmantes</l>
             <l n="708" xml:id="l708">Puis que l’Amour cherche à les soulager !</l>
             <l n="709" xml:id="l709">Dés qu’il veut rendre un mal leger</l>
@@ -1981,7 +1980,7 @@
           </sp>
           <sp who="psyche" xml:id="IV03-11">
             <speaker>PSYCHE’.</speaker>
-            <l n="719" xml:id="l719">Et, qui s’en voudroit <ref target="#garantir">garantir*</ref><note n="122" place="bottom"> Dans ce vers, comme au v. 370, « Et » signifie « hé ». Dans la partition, ce mot est écrit « Hé » et suivi d’un demi-soupir. Nous conservons la virgule pour maintenir sa qualité d’interjection.</note> !</l>
+            <l n="719" xml:id="l719">Et, qui s’en voudroit <ref target="#garantir">garantir</ref><note n="122" place="bottom"> Dans ce vers, comme au v. 370, « Et » signifie « hé ». Dans la partition, ce mot est écrit « Hé » et suivi d’un demi-soupir. Nous conservons la virgule pour maintenir sa qualité d’interjection.</note> !</l>
             <l n="720" xml:id="l720">Mais de ces lieux par où sortir ?</l>
             <l n="721" xml:id="l721">Tout ce que j’y voy m’intimide.</l>
             <stage>Elle monstre les Demons qui sont dans les aisles du Theatre.</stage>
@@ -1993,7 +1992,7 @@
             <l n="724" xml:id="l724">Vous, Noirs Esprits, disparoissez.</l>
             <stage>Quatre Demons traversent le Theatre, &amp; vont se perdre au travers de la voûte de la Salle de Proserpine<note n="123" place="bottom">On reprend pour entr’acte l’« air des démons » de la fin de IV, 2.</note>.</stage>
           </sp>
-          <label>FIN DU IV<hi rend="sup">e</hi> ACTE.</label>
+          <trailer>FIN DU IV<hi rend="sup">e</hi> ACTE.</trailer>
         </div>
       </div>
       <div type="act" xml:id="V">
@@ -2021,9 +2020,9 @@
               <l n="736" xml:id="l736">Peut-estre en ce moment il luy parle de moy.</l>
               <l n="737" xml:id="l737">Je puis l’y rencontrer. Pour meriter sa foy</l>
               <l n="738" xml:id="l738">Cherchons jusqu’au bout à luy plaire.<pb n="45"/></l>
-              <l n="739" xml:id="l739">Si mes <ref target="#ennui">ennuis*</ref> ont pû ternir</l>
+              <l n="739" xml:id="l739">Si mes <ref target="#ennui">ennuis</ref> ont pû ternir</l>
               <l n="740" xml:id="l740">Ces attraits dont l’éclat m’a sçeu rendre coupable,</l>
-              <l n="741" xml:id="l741">Cette <ref target="#boete">Boëte*</ref> me va fournir</l>
+              <l n="741" xml:id="l741">Cette <ref target="#boete">Boëte</ref> me va fournir</l>
               <l n="742" xml:id="l742">Dequoy paroistre encor aimable.</l>
               <l n="743" xml:id="l743">Ouvrons. Quelles promptes vapeurs</l>
               <l n="744" xml:id="l744">Me font des sens perdre l’usage !</l>
@@ -2049,7 +2048,7 @@
             <l n="755" xml:id="l755">Ton sort ne seroit pas à plaindre.<pb n="46"/></l>
           </sp>
           <sp who="psyche" xml:id="V02-2">
-            <speaker>PSYCHE’ <hi rend="i">couchée sur le Gazon.</hi></speaker>
+            <speaker>PSYCHE’ </speaker><stage>couchée sur le Gazon.</stage>
             <l n="756" xml:id="l756">Pourquoy me rappeller au jour,</l>
             <l n="757" xml:id="l757">S’il ne m’est pas permis de vivre pour l’Amour ?</l>
           </sp>
@@ -2062,7 +2061,7 @@
             <l n="762" xml:id="l762">Cét amour de ton cœur ne peut estre arraché ?</l>
           </sp>
           <sp who="psyche" xml:id="V02-4">
-            <speaker>PSYCHE’ <hi rend="i">sur le Gazon.</hi></speaker>
+            <speaker>PSYCHE’ </speaker><stage>sur le Gazon.</stage>
             <l n="763" xml:id="l763">Viens, cher Amant, viens revoir ta Psyché.</l>
           </sp>
           <sp who="venus" xml:id="V02-5">
@@ -2097,7 +2096,7 @@
             <l n="777" xml:id="l777">Quand vous la poursuivez son sort dépend de vous,</l>
             <l n="778" xml:id="l778">Mais voyez dans cette entreprise</l>
             <l n="779" xml:id="l779">Quels mal-heurs ont désja suivy vostre couroux.</l>
-            <l n="780" xml:id="l780">L’Amour dont les <ref target="#ennui">ennuis*</ref> n’ont pû toucher vostre ame</l>
+            <l n="780" xml:id="l780">L’Amour dont les <ref target="#ennui">ennuis</ref> n’ont pû toucher vostre ame</l>
             <l n="781" xml:id="l781">Empoisonne les traits dont il perce les cœurs.</l>
             <l n="782" xml:id="l782">Il les ouvre à la haine, aux dédains, aux rigueurs,</l>
             <l n="783" xml:id="l783">Tout languit &amp; rien ne s’enflame.</l>
@@ -2109,7 +2108,7 @@
           <sp who="venus" xml:id="V03-4">
             <speaker>VENUS.</speaker>
             <l n="788" xml:id="l788">Ah, qu’on me laisse ma colere,</l>
-            <l n="789" xml:id="l789">Elle vange un trop juste <ref target="#ennui">ennuy*</ref>.</l>
+            <l n="789" xml:id="l789">Elle vange un trop juste <ref target="#ennui">ennuy</ref>.</l>
             <l n="790" xml:id="l790">L’Amour à l’Univers est-il si necessaire</l>
             <l n="791" xml:id="l791">Qu’on ne puisse estre heureux sans luy ?</l>
           </sp>
@@ -2127,7 +2126,7 @@
           <sp who="mercure" xml:id="V03-7">
             <speaker>MERCURE.</speaker>
             <l n="797" xml:id="l797">Jupiter qui paroist vous le dira luy-mesme.</l>
-            <stage>Il y a icy un fort grand Prélude qui répond à la magnificence dans laquelle Jupiter descend. Il est dans la <ref target="#gloire">Gloire*</ref> assis sur son Trône, au milieu de son Palais.</stage>
+            <stage>Il y a icy un fort grand Prélude qui répond à la magnificence dans laquelle Jupiter descend. Il est dans la <ref target="#gloire">Gloire</ref> assis sur son Trône, au milieu de son Palais.</stage>
           </sp>
         </div>
         <div type="scene" xml:id="V04">
@@ -2167,15 +2166,15 @@
             <l n="812" xml:id="l812">On te permet enfin de vivre pour l’Amour.</l>
           </sp>
           <sp who="psyche" xml:id="V04-7">
-            <speaker>PSYCHE’ <hi rend="i">se levant</hi>.</speaker>
+            <speaker>PSYCHE’ </speaker><stage>se levant</stage>
             <l n="813" xml:id="l813">Vous y consentez ? quelle gloire !</l>
           </sp>
           <sp who="jupiter" xml:id="V04-8">
-            <speaker>JUPITER <hi rend="i">A PSYCHE’.</hi></speaker>
+            <speaker>JUPITER </speaker><stage>A PSYCHE’.</stage>
             <l n="814" xml:id="l814">Viens prendre place auprés de ton Amant.</l>
           </sp>
           <sp who="psyche" xml:id="V04-9">
-            <speaker>PSYCHE’ <hi rend="i">à l’Amour</hi>.</speaker>
+            <speaker>PSYCHE’ </speaker><stage>à l’Amour</stage>
             <l n="815" xml:id="l815">On me rend donc à vous ? ô destin plein de charmes !</l>
           </sp>
           <sp who="amour" xml:id="V04-10">
@@ -2187,13 +2186,13 @@
             <l n="817" xml:id="l817">Aimez sans trouble &amp; sans alarmes.</l>
             <l n="818" xml:id="l818">Vous, Dieux, accourez tous, &amp; dans cet heureux jour</l>
             <l n="819" xml:id="l819">Celebrez à l’envy la gloire de l’Amour.</l>
-            <stage>Lors que Jupiter appelle l’Amour, &amp; ensuite toutes les Divinitez, l’Amour descend sur la <ref target="#gloire">Gloire*</ref>, &amp; va s’asseoir aux pieds de Jupiter. Venus &amp; Psyché estant enlevées par un nüage, vont se placer aux deux costez de l’Amour, &amp; Apollon, Bacchus, Mome &amp; Mars, descendent dans leurs Machines auprés de leurs Quadrilles. Le Jardin disparoist, &amp; tout le Theatre represente le Ciel.</stage>
+            <stage>Lors que Jupiter appelle l’Amour, &amp; ensuite toutes les Divinitez, l’Amour descend sur la <ref target="#gloire">Gloire</ref>, &amp; va s’asseoir aux pieds de Jupiter. Venus &amp; Psyché estant enlevées par un nüage, vont se placer aux deux costez de l’Amour, &amp; Apollon, Bacchus, Mome &amp; Mars, descendent dans leurs Machines auprés de leurs Quadrilles. Le Jardin disparoist, &amp; tout le Theatre represente le Ciel.</stage>
             <pb n="50"/>
-            <stage>Apollon conduit les Muses, &amp; les Arts ; Bacchus est accompagné de Silene<note n="126" place="bottom">Voir « SILENE » dans le lexique mythologique.</note>, des Ægipans &amp; des Mœnades<note n="127" place="bottom">Voir « MENADES » dans le lexique mythologique.</note> ; Mome<note n="128" place="bottom">Voir « MOMUS » dans le lexique mythologique.</note>, Dieu de la Raillerie, méne aprés luy une Troupe enjoüée de <ref target="#polichinel">Polichinelles*</ref>, &amp; de <ref target="#matassins">Matassins*</ref> ; &amp; Mars paroist à la teste d’une Troupe de Guerriers, suivis de Tymbales, de Tambours, &amp; de Trompettes.</stage>
+            <stage>Apollon conduit les Muses, &amp; les Arts ; Bacchus est accompagné de Silene<note n="126" place="bottom">Voir « SILENE » dans le lexique mythologique.</note>, des Ægipans &amp; des Mœnades<note n="127" place="bottom">Voir « MENADES » dans le lexique mythologique.</note> ; Mome<note n="128" place="bottom">Voir « MOMUS » dans le lexique mythologique.</note>, Dieu de la Raillerie, méne aprés luy une Troupe enjoüée de <ref target="#polichinel">Polichinelles</ref>, &amp; de <ref target="#matassins">Matassins</ref> ; &amp; Mars paroist à la teste d’une Troupe de Guerriers, suivis de Tymbales, de Tambours, &amp; de Trompettes.</stage>
             <stage>Apollon Dieu de l’Harmonie commence le premier à chanter, pour inviter les Dieux à se réjoüir.</stage>
           </sp>
           <sp who="apollon" xml:id="V04-12">
-            <speaker><hi rend="i">RECIT D’</hi>APOLLON<note n="129" place="bottom">Le récit d’Apollon est précédé d’un prélude sur les violons.</note></speaker>
+            <speaker><note n="129" place="bottom">Le récit d’Apollon est précédé d’un prélude sur les violons.</note></speaker><stage>RECIT D’</stage>
             <l n="820" xml:id="l820">Unissons-nous, Troupe immortelle ;</l>
             <l n="821" xml:id="l821">Le Dieu d’Amour devient heureux Amant.</l>
             <l n="822" xml:id="l822">Et Venus a repris sa douceur naturelle</l>
@@ -2214,7 +2213,7 @@
             <stage>Bacchus fait entendre qu’il n’est pas si dangereux que l’Amour.</stage>
           </sp>
           <sp who="bacchus" xml:id="V04-14">
-            <speaker><hi rend="i">RECIT DE</hi> BACCHUS<note n="130" place="bottom">Avant l’air de Bacchus se joue le « prélude pour Bacchus, Momus et Mars ».</note>.</speaker>
+            <speaker><note n="130" place="bottom">Avant l’air de Bacchus se joue le « prélude pour Bacchus, Momus et Mars ».</note>.</speaker><stage>RECIT DE</stage>
             <l n="833" xml:id="l833">Si quelque fois,</l>
             <l n="834" xml:id="l834">Suivant nos douces Loix,</l>
             <l n="835" xml:id="l835">La raison se perd &amp; s’oublie,</l>
@@ -2225,19 +2224,19 @@
             <stage>Mome declare qu’il n’a point de plus doux employ que de médire, &amp; que ce n’est qu’à l’Amour seul qu’il n’ose se joüer.</stage>
           </sp>
           <sp who="mome" xml:id="V04-15">
-            <speaker><hi rend="i">RECIT DE</hi> MOME.</speaker>
+            <speaker/><stage>RECIT DE</stage>
             <l n="840" xml:id="l840">Je cherche à médire</l>
             <l n="841" xml:id="l841">Sur la Terre &amp; dans les Cieux ;</l>
             <l n="842" xml:id="l842">Je Soûmets à ma Satire</l>
             <l n="843" xml:id="l843">Les plus grands des Dieux.</l>
-            <l n="844" xml:id="l844">Il n’est dans l’Univers que l’Amour qui m’<ref target="#etonner">étonne*</ref>,</l>
+            <l n="844" xml:id="l844">Il n’est dans l’Univers que l’Amour qui m’<ref target="#etonner">étonne</ref>,</l>
             <l n="845" xml:id="l845">Il est le seul que j’épargne aujourd’huy ;</l>
             <l n="846" xml:id="l846">Il n’apartient qu’à luy</l>
             <l n="847" xml:id="l847">De n’épargner personne.</l>
             <stage>Mars avouë que malgré toute sa valeur, il n’a pû s’empécher de ceder à l’Amour.</stage>
           </sp>
           <sp who="mars" xml:id="V04-16">
-            <speaker><hi rend="i">RECIT DE</hi> MARS.</speaker>
+            <speaker/><stage>RECIT DE</stage>
             <l n="848" xml:id="l848">Mes plus fiers Ennemis vaincus ou pleins d’éfroy</l>
             <l n="849" xml:id="l849">Ont veu toûjours ma Valeur triomphante,</l>
             <l n="850" xml:id="l850">L’Amour est le seul qui se vante</l>
@@ -2245,7 +2244,7 @@
             <stage>Tous les Dieux du Ciel unissent leurs voix, &amp; engagent les Tymbales &amp; les Trompettes à répondre à leurs Chants, &amp; à se méler avec leurs plus doux Concerts.</stage>
           </sp>
           <sp who="choeur" xml:id="V04-17">
-            <speaker><hi rend="i">CHŒUR DES</hi> DIEUX, <hi rend="i">où se mélent les Trompettes &amp; les Tymbales.</hi></speaker>
+            <speaker/><stage>où se mélent les Trompettes &amp; les Tymbales.</stage><stage>CHŒUR DES</stage>
             <l n="852" xml:id="l852">Chantons les plaisirs charmants</l>
             <l n="853" xml:id="l853">Des heureux Amants.</l>
             <l n="854" xml:id="l854">Respondez-nous Trompettes,</l>
@@ -2257,7 +2256,7 @@
             <stage>Les Arts travestis en Bergers Galants pour paroistre avec plus d’agrément dans cette Feste, commencent les premiers à dancer<note n="132" place="bottom"> Le changement abrupt de chœur éclatant en entrée pastorale est accompagné d’un changement aussi abrupt de tonalité, du ré majeur brillant, en un ré mineur plus subtil. Cette tonalité est maintenue jusqu’à la fin des airs pour les muses, après quoi Bacchus restaure une tonalité majeure.</note>. Apollon vient joindre une chanson à leurs Dances, &amp; les solicite d’oublier les soins qu’ils ont accoûtumé de prendre le jour, pour profiter des Divertissements de cette Nuit bien-heureuse.</stage>
           </sp>
           <sp who="apollon" xml:id="V04-18">
-            <speaker><hi rend="i">CHANSON D’</hi>APOLLON.</speaker>
+            <speaker/><stage>CHANSON D’</stage>
             <l n="860" xml:id="l860">Le Dieu qui nous engage</l>
             <l n="861" xml:id="l861">A luy faire la Cour,</l>
             <l n="862" xml:id="l862">Deffend qu’on soit trop sage.</l>
@@ -2277,7 +2276,7 @@
             <stage>Au milieu de l’Entrée de la Suite d’Apollon, deux des Muses qui ont toûjours évité de s’engager sous les Loix de l’Amour, conseillent aux Belles qui n’ont point encore aimé, de s’en deffendre avec soin à leur exemple.</stage>
           </sp>
           <sp who="muses" xml:id="V04-19">
-            <speaker><hi rend="i">CHANSON DES</hi> MUSES.</speaker>
+            <speaker/><stage>CHANSON DES</stage>
             <lg>
               <l n="876" xml:id="l876">Gardez-vous, Beautez severes,</l>
               <l n="877" xml:id="l877">Les Amours font trop d’affaires,</l>
@@ -2301,7 +2300,7 @@
             <stage>Les Mœnades &amp; les Ægipans viennent dancer à leur tour. Bacchus s’avance au milieu d’eux, &amp; chante une Chanson à la loüange du Vin.</stage>
           </sp>
           <sp who="bacchus" xml:id="V04-20">
-            <speaker><hi rend="i">CHANSON DE</hi> BACCHUS.</speaker>
+            <speaker/><stage>CHANSON DE</stage>
             <l n="892" xml:id="l892">Admirons le Jus de la Treille :</l>
             <l n="893" xml:id="l893">Qu’il est puissant ! qu’il a d’attraits !</l>
             <l n="894" xml:id="l894">Il sert aux douceurs de la Paix,</l>
@@ -2311,7 +2310,7 @@
             <stage>Silene Nourricier de Bacchus, paroist monté sur son Asne. Il chante une Chanson qui fait connoître les avantages que l’on trouve à suivre les Loix du Dieu du Vin<note n="133" place="bottom">Avant l’air de Silène, on joue un « deuxiéme air pour les Menades et les Satires ».</note>.</stage>
           </sp>
           <sp who="silene" xml:id="V04-21">
-            <speaker><hi rend="i">CHANSON DE</hi> SILENE.</speaker>
+            <speaker/><stage>CHANSON DE</stage>
             <lg>
               <l n="898" xml:id="l898">Bacchus veut qu’on boive à longs traits<note n="134" place="bottom"> Toutes les éditions des livrets citées dans notre Note sur l’édition donnent « Bacchus veut que l’on boive à longs traits ». Cependant, cette versification crée un vers de 9 syllabes, tandis que le premier vers du deuxième couplet est un octosyllabe. La musique exige un octosyllabe comme l’indiquent Ballard et Vignol. Par conséquent, nous avons remplacé ce faux vers par le texte de la partition.</note> ;</l>
               <l n="899" xml:id="l899">On ne se plaint jamais</l>
@@ -2359,11 +2358,11 @@
             <speaker>TOUS ENSEMBLE.</speaker>
             <l n="917" xml:id="l917">Voulez-vous des douceurs parfaites ?</l>
             <l n="918" xml:id="l918">Ne les cherchez qu’au fonds des Pots.</l>
-            <stage>Une Troupe de <ref target="#polichinel">Polichinelles*</ref> &amp; de <ref target="#matassins">Matassins*</ref> vient joindre leurs plaisanteries &amp; leurs badinages aux Divertissements de cette grande Feste<note n="136" place="bottom">Les matassins et polichinelles ont un très long air sur les violons qui restaure la tonalité mineure pour la « Chanson de Mome ».</note>. Mome qui les conduit chante au milieu d’eux une Chanson enjoüée sur le sujet des avantages &amp; des plaisirs de la Raillerie.</stage>
+            <stage>Une Troupe de <ref target="#polichinel">Polichinelles</ref> &amp; de <ref target="#matassins">Matassins</ref> vient joindre leurs plaisanteries &amp; leurs badinages aux Divertissements de cette grande Feste<note n="136" place="bottom">Les matassins et polichinelles ont un très long air sur les violons qui restaure la tonalité mineure pour la « Chanson de Mome ».</note>. Mome qui les conduit chante au milieu d’eux une Chanson enjoüée sur le sujet des avantages &amp; des plaisirs de la Raillerie.</stage>
           </sp>
           <pb n="56"/>
           <sp who="mome" xml:id="V04-29">
-            <speaker><hi rend="i">CHANSON DE</hi> MOME.</speaker>
+            <speaker/><stage>CHANSON DE</stage>
             <lg>
               <l n="919" xml:id="l919">Folâtrons, divertissons-nous,</l>
               <l n="920" xml:id="l920">Raillons, nous ne sçaurions mieux faire,</l>
@@ -2387,7 +2386,7 @@
             <stage>Mars vient au milieu du Theatre suivy de sa Troupe Guerriere, qu’il excite à profiter de leur loisir, en prenant part aux Divertissements<note n="137" place="bottom">L’« air pour les suivants de Mars » est pour les trompettes et restaure la tonalité de ré majeur pour préparer la reprise du chœur, « Chantons les Plaisirs Charmants » qui clôt l’opéra.</note>.</stage>
           </sp>
           <sp who="mars" xml:id="V04-30">
-            <speaker><hi rend="i">CHANSON DE</hi> MARS.</speaker>
+            <speaker/><stage>CHANSON DE</stage>
             <l n="935" xml:id="l935">Laissons en paix toute la Terre,</l>
             <l n="936" xml:id="l936">Cherchons de doux amusements ;</l>
             <l n="937" xml:id="l937">Parmy les Jeux les plus charmants,</l>
@@ -2395,7 +2394,7 @@
             <stage>Quatre hommes portants des Enseignes, s’en servent à faire paroistre leur adresse en dançant.</stage>
             <pb n="H, 57"/>
           </sp>
-          <label>DERNIERE ENTREE.</label>
+          <stage>DERNIERE ENTREE.</stage>
           <stage>Les quatre Troupes differentes de la Suite d’Apollon, de Bacchus, de Mome &amp; de Mars, apres avoir achevé leurs Entrées particulieres, s’unissent ensemble, &amp; forment la derniere Entrée, qui renferme toutes les autres. Un Chœur de toutes les Voix &amp; de tous les Instruments se joignent à la Dance generale, &amp; termine la Feste des Nopces de l’Amour &amp; de Psyché.</stage>
           <sp who="choeur" xml:id="V04-31">
             <speaker>CHOEUR.</speaker>
@@ -2408,7 +2407,7 @@
             <l n="945" xml:id="l945">Accordez-vous toujours</l>
             <l n="946" xml:id="l946">Avec le doux chant des Amours.</l>
           </sp>
-          <label>FIN.</label>
+          <trailer>FIN.</trailer>
         </div>
       </div>
       <div type="appendix">
@@ -2575,7 +2574,7 @@
         <p>Parmi les Nymphes existent plusieurs catégories, distinguées selon leur habitat : Les Nymphes des frênes (les <hi rend="i">Méliades</hi> [...] ) semblent être les plus anciennes ; elles sont filles d’Ouranos et non de Zeus. Puis, les Naïades [...] , qui vivent dans les sources et les cours d’eau. Très souvent, les Naïades d’un fleuve passent pour les filles de celui-ci. [...] D’autres nymphes sont attachées à un lieu particulier, voire à un arbre donné, comme les Hamadryades. (G)</p>
         <p>PALAEMON. 3. ...[L] e personnage de ce nom le plus célèbre est le fils d’Ino-Leucothée. Dans son enfance humaine, ce Palaemon s’appelait Mélicerte ; son père était Athamas. Mais, après le suicide de sa mère, Ino, qui l’entraîna avec elle dans la mort, Mélicerte devint le dieu marin Palaemon, tandis qu’Ino devenait la déesse Leucothée [...] . Par sa mère, Palaemon est le cousin germain de Dionysos [Bacchus] (Ino, en effet, est fille de Cadmos, et la soeur de Semélé, elle-même mère de Dionysos [...] ). Pour se suicider, Ino se jeta du haut de falaises voisines de Mégare, et les Mégariens racontaient que, tandis que le corps de la mère était jeté au rivage près de leur ville, et enterré par les filles de Cléson lui-même fils de l’Egyptien Lèlex, le corps de l’enfant était porté par un dauphin jusque sur l’isthme de Corinthe, où il fut recueilli par Sisyphe, qui l’enterra, et lui éleva un autel près d’un pin ; il lui accorda des honneurs divins sous le nom de Palaemon ; il lui donna ce nom parce qu’il en fit le dieu protecteur des jeux isthmiques. (G)</p>
         <p>PROSERPINE, fille de Ceres, fut enlevée par Pluton Dieu des Enfers. Aprez cela il l’épousa ; mais Ceres ne pouvant se passer de voir sa fille, fit un accord avec Pluton et on resolut que Proserpine passeroit six mois de l’année avec son mary ; &amp; qu’elle seroit durant les autres six avec sa mere sur la terre. Voilà la fable ; en voicy le sens. Ceres qui est prise pour la Terre donne la vie à Proserpine qui est la semence ; &amp; elle demeure durant les six mois de l’Hiver dans le sein de la Terre ; mais elle pousse au Printems &amp; paroit durant les autres six mois. (M)</p>
-        <p>PSYCHÉ<note n="152" place="bottom">L’article sur Psyché étant absent de l’édition de 1681, nous citons d’après l’édition de 1759.</note>, divinité des anciens, etoit proprement l’ame, que les Grecs nomment Ψνχή. Apulée &amp; Fulgence ont décrit les amours de Cupidon &amp; de cette déesse, &amp; le marriage qu’ils contracterent ensemble. On représentoit Psyché avec des aîles de papillon aux épaules, parceque la légéreté de ce volatile exprime en quelque façon la nature &amp; les propriétés de l’ame, qui n’étoit, selon eux, qu’un air &amp; qu’un souffle. Le papillon étoit aussi le symbole de l’ame, &amp; losrqu’on peignoit un homme mort, on représentoit un papillon qui paroissoit être sorti de la bouche, &amp; s’envoloit en l’air. On voit dans plusieurs monuments antiques, un Cupidant (sic) embrassant Psyché ; celui-là presque nud, &amp; celle-ci à demi vêtue : par où il semble que les anciens exhortoient les hommes à la volupté, selon la pensée de Fulgence, qui explique ces embrassemens du desir qu’a la cupidité de posseder l’ame. D’autres croient qu’ils ont voulu faire allusion à la faculté raisonnable &amp; à l’irraisonable, qu’ils supposoient être dans l’ame ; ou à l’esprit marqué par Psyché, &amp; à la concupiscence* figurée par Cupidon. (M)</p>
+        <p>PSYCHÉ<note n="152" place="bottom">L’article sur Psyché étant absent de l’édition de 1681, nous citons d’après l’édition de 1759.</note>, divinité des anciens, etoit proprement l’ame, que les Grecs nomment Ψνχή. Apulée &amp; Fulgence ont décrit les amours de Cupidon &amp; de cette déesse, &amp; le marriage qu’ils contracterent ensemble. On représentoit Psyché avec des aîles de papillon aux épaules, parceque la légéreté de ce volatile exprime en quelque façon la nature &amp; les propriétés de l’ame, qui n’étoit, selon eux, qu’un air &amp; qu’un souffle. Le papillon étoit aussi le symbole de l’ame, &amp; losrqu’on peignoit un homme mort, on représentoit un papillon qui paroissoit être sorti de la bouche, &amp; s’envoloit en l’air. On voit dans plusieurs monuments antiques, un Cupidant (sic) embrassant Psyché ; celui-là presque nud, &amp; celle-ci à demi vêtue : par où il semble que les anciens exhortoient les hommes à la volupté, selon la pensée de Fulgence, qui explique ces embrassemens du desir qu’a la cupidité de posseder l’ame. D’autres croient qu’ils ont voulu faire allusion à la faculté raisonnable &amp; à l’irraisonable, qu’ils supposoient être dans l’ame ; ou à l’esprit marqué par Psyché, &amp; à la concupiscence figurée par Cupidon. (M)</p>
         <p>SILENE, nourricier &amp; compagnon de Bacchus, que les Poëtes ont feint monté sur un âne &amp; presque toûjours ivre. Virgile en fait une plaisante description, <hi rend="i">in Ecl.</hi> (M)</p>
         <p>SILVAIN. Sylvain est une divinité romaine qui préside aux bocages (<hi rend="i">silvae</hi>). Il est assez mal distingué de Faunus, et, dans le panthéon romain hellénisé, il s’identifie rapidement à Pan. On le représentait sous les traits d’un vieillard, mais il était en réalité doué de toute la force d’un jeune homme. Son culte est lié à celui d’Hercule, et aussi celui des Lares domestiques. Simple « <hi rend="i">numen</hi> », Silvain ne possède pas de mythes bien caractérisés. Il vivait ordinairement dans des bois sacrés, auprès des villes ou en pleine campagne. (G)</p>
         <p>VENUS<note n="153" place="bottom">L’article sur Vénus étant absent de l’édition de 1681, nous citons d’après l’édition de 1759.</note>. Selon Grimal, elle est une « très vieille divinité latine [...] assimilée au II<hi rend="sup">e</hi> siècle av. J.-C. à l’Aphrodite Grecque. » Selon Moreri, « Vénus, déesse de l’amour, étoit fille de Jupiter, &amp; de Dioné ; ou, selon d’autres, naquit de l’écume de la mer, &amp; des testicules de Coelus, que Saturne jetta dans la mer. Cicéron distingue quatre Vénus différentes ; la première, fille du ciel ; la seconde, selon cet orateur, tiroit son origine de l’écume de la mer, &amp; étoit mere de Cupidon ; la troisième, fille de Jupiter &amp; de Dioné, qui epousa Vulcain, &amp; qui eut Anteros de Mars ; la quatrième de Tyr nommée Astarte, qui epousa Adonis. La première &amp; la quatrième sont apparemment la Vénus d’Assyrie, que l’on appeloit <hi rend="i">Uranie</hi> ou <hi rend="i">Céleste</hi>, &amp; dont le culte passa d’Assyrie ou de Babylone en Syrie, où elle fut appellée <hi rend="i">Astarte</hi><note n="154" place="bottom"> Grimal nous informe, par contre, que la notion de deux Vénus – Uranie déesse de l’amour pur et une déesse populaire, déesse de l’amour vulgaire – fut introduite par Platon, bien plus tard que l’époque dont parle Moreri. Voir l’article de Grimal sur Aphrodite.</note>. Sanchoniaton la fait fille du ciel, épouse de Saturne, &amp; mere des sept filles Tytanides. Cette Uranie avoit un temple très ancien à Ascalon en Phénicie, dont il est parlé dans Hérodote. Elle étoit aussi honorée en Arabie et en Perse. La seconde &amp; la troisième Vénus sont celle de Grèce, qui était particulièrement honorée dans l’isle de Chypre, où elle avoit un temple magnifique à Paphos. On tient qu’elle y étoit venue de Phénicie, &amp; que c’est ce qui a donné lien à la fable, qu’elle y était née de l’écume de la mer. La Vénus de Césarée étoit aussi venue de Phénicie, selon Pausanias &amp; Hesychius. Il y avoit à Rome un temple de Vénus <hi rend="i">Libitine</hi>. Quelques-uns ont fait Vénus mâle ou hermaphrodite. »</p>
@@ -2652,7 +2651,7 @@
         <p>Ah ! qu’on me laisse ma colere.                788-791</p>
         <p>
           <hi rend="i">Aimable Jeunesse</hi>
-          <note n="142" place="bottom"> Ballard divise ce divertissement en quatre airs. Cependant, le divertissement est effectivement un long dialogue avec des sections en solo et en duo en deux couplets. Une telle division du divertissement est très incommode, vu surtout la répétition constante de « Chacun est obligé d’aimer à son tour ». C’est pourquoi nous avons mis dans la colonne pour « Aimable jeunesse » les vers du début du divertissement jusqu’à la fin de l’acte. Nous avons mis une * dans la colonne des trois autres entrées associées à ce divertissement. Ballard a également oublié de préciser que « Chacun est obligé d’aimer à son tour » et « S’il faut des soins et des travaux » sont en duo, ce que nous avons ajouté en parenthèses.</note>
+          <note n="142" place="bottom"> Ballard divise ce divertissement en quatre airs. Cependant, le divertissement est effectivement un long dialogue avec des sections en solo et en duo en deux couplets. Une telle division du divertissement est très incommode, vu surtout la répétition constante de « Chacun est obligé d’aimer à son tour ». C’est pourquoi nous avons mis dans la colonne pour « Aimable jeunesse » les vers du début du divertissement jusqu’à la fin de l’acte. Nous avons mis une  dans la colonne des trois autres entrées associées à ce divertissement. Ballard a également oublié de préciser que « Chacun est obligé d’aimer à son tour » et « S’il faut des soins et des travaux » sont en duo, ce que nous avons ajouté en parenthèses.</note>
           <hi rend="i">421-480</hi>
         </p>
         <p>Aimez, aimez, il n’est de beaux ans.        DUO.        351-356</p>
@@ -2664,7 +2663,7 @@
         <p>Ce n’est point comme un Dieu que je pretens paroître,    413-416</p>
         <p>Cependant montrons-luy ce que ces lieux terribles. TRIO.    689-690</p>
         <p><hi rend="i">Ce seroit grand dommage</hi><note n="144" place="bottom">Cet air est le deuxième couplet de « Le dieu qui nous engage ».</note>.                    <hi rend="i">868-875</hi></p>
-        <p rend="i">Chacun est obligé d’aimer.            [DUO]            *</p>
+        <p rend="i">Chacun est obligé d’aimer.            [DUO]            </p>
         <p>D.    <hi rend="i">Deh, piangete al pianto mio</hi>. Plainte Italienne, <hi rend="i">&amp; la suite</hi>.        148-181</p>
         <p>Dépechez, preparez ces lieux.                    274-295</p>
         <p>E.    Est-on sage ?                            31-40</p>
@@ -2674,7 +2673,7 @@
         <p>I.    Il est un fatal moment.                        103-107</p>
         <p rend="i">J.    Je cherche à médire.            BASSE avec accomp.    840-847</p>
         <p rend="i">L.    Laissons en paix toute la Terre.                    935-938</p>
-        <p rend="i">L’Amour a des charmes.                        *</p>
+        <p rend="i">L’Amour a des charmes.                        </p>
         <p>L’Amour anime l’Univers.        DUO.            715-718</p>
         <p>L’Amour charme<note n="145" place="bottom">Cet air est le deuxième couplet d’ « Est-on sage ? ».</note>.                        41-50</p>
         <p rend="i">Le Dieu qui nous engage                        860-867</p>
@@ -2691,7 +2690,7 @@
         <p>S.    Si des rigueurs inhumaines.                    96-99</p>
         <p>Si je fais vanité de ma tendresse extrême ?    RECIT.    726-747</p>
         <p>S’il est quelque bonheur.                    792-795</p>
-        <p rend="i">S’il faut des soins &amp; des travaux.        [DUO]            *</p>
+        <p rend="i">S’il faut des soins &amp; des travaux.        [DUO]            </p>
         <p rend="i">Si quelquefois suivant nos douces loix.                833-839</p>
         <p>Souffrons-tous qu’Amour nous blesse<note n="148" place="bottom">Cet air est le deuxième couplet de « Rendez-vous, Beautez cruelles ».</note>.            23-30</p>
         <p>V.    Venez, Nymphes de l’Acheron.        TRIO.        691-694</p>

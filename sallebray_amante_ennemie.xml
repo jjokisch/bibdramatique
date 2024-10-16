@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-11-24T15:34:24+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><!--Odette: 2016-11-24T15:34:24+01:00--><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
   <fileDesc>
     <titleStmt>
@@ -793,10 +790,10 @@ Avec privilège du Roi</bibl>
            <div xml:id="personnages">
           <head>LES PERSONNAGES</head>
           <castList>
-            <castItem></castItem>
+            <castItem/>
           
           <castItem>
-            <role  xml:id="tersandre">TERSANDRE,</role>
+            <role xml:id="tersandre">TERSANDRE,</role>
           </castItem>
           <castItem>
             <roleDesc>Heros de la Piece.</roleDesc>
@@ -861,18 +858,18 @@ Avec privilège du Roi</bibl>
               <speaker>CLAIRONDE</speaker>
               <l n="1" xml:id="l1">Lucine, c’est icy qu’une juste vangeance</l>
               <l n="2" xml:id="l2">Doit terminer le cours de ma longue souffrance ;</l>
-              <l n="3" xml:id="l3">C’est icy que mon bras, d’un <ref target="#genereux">genereux*</ref> effort,</l>
+              <l n="3" xml:id="l3">C’est icy que mon bras, d’un <ref target="#genereux">genereux</ref> effort,</l>
               <l n="4" xml:id="l4">Doit attaquer un Tygre<note place="bottom">« Se dit figurément d’un homme méchant, furieux et cruel. » (F)</note>, et lui donner la mort.</l>
               <l n="5" xml:id="l5">Ouy, Tersandre ; ouy cruel, le Ciel seiche mes larmes,<pb n="2" xml:id="p2"/></l>
               <l n="6" xml:id="l6">Puis qu’il a reservé ta défaite à mes armes;</l>
-              <l n="7" xml:id="l7">J’apporte au bout d’un <ref target="#fer">fer*</ref> le trépas qui t’est dû,</l>
+              <l n="7" xml:id="l7">J’apporte au bout d’un <ref target="#fer">fer</ref> le trépas qui t’est dû,</l>
               <l n="8" xml:id="l8">Et ton sang à son tour doit estre répandu,</l>
               <l n="9" xml:id="l9">Conte<note place="bottom">« Faire une narration, une claire déduction d’un fait, d’une histoire. » (F)</note> ce jour fatal le dernier de ta vie:</l>
               <l n="10" xml:id="l10">Car si l’occasion<note place="bottom">Diérèse au mot « occasion ».</note> succède à mon envie,</l>
               <l n="11" xml:id="l11">Je te sacrifiray, pour finir mes tourmens,</l>
-              <l n="12" xml:id="l12">Aux Mânes de mon Pere, et de tous mes <ref target="#amant">Amans*</ref>:</l>
+              <l n="12" xml:id="l12">Aux Mânes de mon Pere, et de tous mes <ref target="#amant">Amans</ref>:</l>
               <l n="13" xml:id="l13">Toi qui sçais mon dessein, seconde mon courage,</l>
-              <l n="14" xml:id="l14">Arme toy contre luy de <ref target="#fureur">fureur*</ref> et de rage;</l>
+              <l n="14" xml:id="l14">Arme toy contre luy de <ref target="#fureur">fureur</ref> et de rage;</l>
               <l n="15" xml:id="l15">Et si preste à ce coup, tu vois trembler ma main,</l>
               <l n="16" xml:id="l16">Enfonce luy toi mesme un poignard dans le sein.</l>
             </sp>
@@ -893,7 +890,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="lucine">
               <speaker>LUCINE</speaker>
-              <l n="25" xml:id="l25">Une aveugle <ref target="#fureur">fureur*</ref>, vous gagne et vous <ref target="#transporter">transporte*</ref>,</l>
+              <l n="25" xml:id="l25">Une aveugle <ref target="#fureur">fureur</ref>, vous gagne et vous <ref target="#transporter">transporte</ref>,</l>
               <l n="26" xml:id="l26">Qui vous fait maintenant discourir de la sorte :</l>
               <l n="27" xml:id="l27">Mais si vous resistiez à cette passion<note place="bottom">« Se dit des différentes agitations de l’âme selon les divers objets qui se présentent à ses sens. » (F)</note>,<pb n="3" xml:id="p3"/></l>
               <l n="28" xml:id="l28">Qui forme le dessein d’une telle action,</l>
@@ -912,7 +909,7 @@ Avec privilège du Roi</bibl>
               <speaker>CLAIRONDE</speaker>
               <l part="F">Quoy, tu voudrois son trépas differer ?</l>
               <l n="33" xml:id="l33">Parle, parle, timide<note place="bottom">« Craintif, peureux. » (A)</note>, et conseille une femme,</l>
-              <l n="34" xml:id="l34">Qu’une juste <ref target="#fureur">fureur*</ref> excite, anime, enflame.</l>
+              <l n="34" xml:id="l34">Qu’une juste <ref target="#fureur">fureur</ref> excite, anime, enflame.</l>
             </sp>
             <sp who="lucine">
               <speaker>LUCINE</speaker>
@@ -928,7 +925,7 @@ Avec privilège du Roi</bibl>
               <l n="41" xml:id="l41">Perfide, que dis-tu ? Le meurtrier<note place="bottom">Synérèse. Le mot « meurtrier » se prononce en deux syllabes.</note> de mon frere,</l>
               <l n="42" xml:id="l42">De tant de braves Gens, et mesme de mon Pere,</l>
               <l n="43" xml:id="l43">N’aura pas merité que je l’aille égorger:<pb n="4" xml:id="p4"/></l>
-              <l n="44" xml:id="l44">Justes Dieux, <ref target="souffrir1">souffrez*</ref> vous ce tort sans me vanger ?</l>
+              <l n="44" xml:id="l44">Justes Dieux, <ref target="souffrir1">souffrez</ref> vous ce tort sans me vanger ?</l>
               <l n="45" xml:id="l45">Veux-tu point<note place="bottom">Dans une interrogation directe, l’emploi de « point » et de « pas » (<hi xml:lang="fr" rend="i">cf</hi>. v. 56) seul pour signaler la négation est très fréquent au <num>xvii<hi rend="sup">e</hi></num> siècle.</note>, apres tout, que j’appelle vaillance,</l>
               <l n="46" xml:id="l46">De son assassinat l’injuste violence ?</l>
               <l n="47" xml:id="l47">Que pour le prix encor de ses exploits guerriers,</l>
@@ -972,7 +969,7 @@ Avec privilège du Roi</bibl>
             <sp who="lucine">
               <speaker>LUCINE</speaker>
               <l part="F">Une telle entreprise</l>
-              <l n="70" xml:id="l70">S’acheve par <ref target="#valeur">valeur*</ref> bien moins que par surprise.</l>
+              <l n="70" xml:id="l70">S’acheve par <ref target="#valeur">valeur</ref> bien moins que par surprise.</l>
             </sp>
             <sp who="claironde">
               <speaker>CLAIRONDE</speaker>
@@ -992,17 +989,17 @@ Avec privilège du Roi</bibl>
               <speaker>CLAIRONDE</speaker>
               <l n="79" xml:id="l79">Ma main douce et tremblante en donnant du plaisir,</l>
               <l n="80" xml:id="l80">Deviendra rude et ferme en ce mortel desir,</l>
-              <l n="81" xml:id="l81">Si sa premiere atteinte <ref target="#enchanter">enchante*</ref> son oreille,<pb n="6" xml:id="p6"/></l>
+              <l n="81" xml:id="l81">Si sa premiere atteinte <ref target="#enchanter">enchante</ref> son oreille,<pb n="6" xml:id="p6"/></l>
               <l n="82" xml:id="l82">Croy que celle du cœur ne sera pas pareille.</l>
               <l n="83" xml:id="l83">Il nous le faut tout seul attirer dans ce bois,</l>
               <l n="84" xml:id="l84">Feignant ce lieu plus propre à faire ouïr ma voix.</l>
               <l n="85" xml:id="l85">Là je m’assure bien, favorable complice,</l>
               <l n="86" xml:id="l86">Que ce nouvel Ajax ne fera pas l’Ulysse<note place="bottom">Claironde, par sa feinte, s’assure que Tersandre ne transformera pas sa bravoure en ruse. En effet, Ajax, fils de Télamon et de Péribée, était reconnu pour sa bravoure et sa vaillance, tandis qu’Ulysse était reconnu pour être rusé et intelligent.</note>,</l>
-              <l n="87" xml:id="l87">Syrene des forests, je le sçauray <ref target="#charmer">charmer*</ref></l>
+              <l n="87" xml:id="l87">Syrene des forests, je le sçauray <ref target="#charmer">charmer</ref></l>
               <l n="88" xml:id="l88">Plus agreablement que celles de la Mer.</l>
             </sp>
             <sp who="lucine">
-              <speaker>LUCINE<hi rend="i">, bas.</hi></speaker>
+              <speaker>LUCINE</speaker><stage>, bas.</stage>
               <l n="89" xml:id="l89">Dieux ! destournez de luy cette horrible tempeste.</l>
             </sp>
             <sp who="claironde">
@@ -1015,7 +1012,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="claironde">
               <speaker>CLAIRONDE</speaker>
-              <l n="91" xml:id="l91">Ta resolution <ref target="#divertir1">divertit*</ref> mon <ref target="#soucy">soucy*</ref>,</l>
+              <l n="91" xml:id="l91">Ta resolution <ref target="#divertir1">divertit</ref> mon <ref target="#soucy">soucy</ref>,</l>
               <l n="92" xml:id="l92">Et tu me fais plaisir de me parler ainsi:</l>
               <l n="93" xml:id="l93">Mais il faut aviser, dans l’estat où nous sommes,</l>
               <l n="94" xml:id="l94">Comme des vestements, à prendre des noms d’hommes,</l>
@@ -1028,7 +1025,7 @@ Avec privilège du Roi</bibl>
             <sp who="claironde">
               <speaker>CLAIRONDE</speaker>
               <l part="F">Dorimon,</l>
-              <l n="96" xml:id="l96" part="I">Et frere d’Amitié*.<pb n="7" xml:id="p7"/></l>
+              <l n="96" xml:id="l96" part="I">Et frere d’Amitié.<pb n="7" xml:id="p7"/></l>
             </sp>
             <sp who="lucine">
               <speaker>LUCINE</speaker>
@@ -1066,7 +1063,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="lucine">
               <speaker>LUCINE<pb n="8" xml:id="p8"/></speaker>
-              <l n="111" xml:id="l111">En effet, cét <ref target="#aspect">aspect*</ref> le rendra curieux</l>
+              <l n="111" xml:id="l111">En effet, cét <ref target="#aspect">aspect</ref> le rendra curieux</l>
               <l n="112" xml:id="l112">De sçavoir aussitost qui l’a mise en ces lieux.</l>
             </sp>
             <sp who="claironde">
@@ -1093,8 +1090,8 @@ Avec privilège du Roi</bibl>
             <sp who="meliarque">
               <speaker>MELIARQUE</speaker>
               <l n="117" xml:id="l117">Enfin, c’est trop long temps me cacher ce mystere,</l>
-              <l n="118" xml:id="l118">Qui vous rend d’une <ref target="#humeur">humeur*</ref> si triste et solitaire ;</l>
-              <l n="119" xml:id="l119">C’est trop <ref target="#celer">celer*</ref> le mal qui vous semble affliger,</l>
+              <l n="118" xml:id="l118">Qui vous rend d’une <ref target="#humeur">humeur</ref> si triste et solitaire ;</l>
+              <l n="119" xml:id="l119">C’est trop <ref target="#celer">celer</ref> le mal qui vous semble affliger,</l>
               <l n="120" xml:id="l120">A qui sçait le moyen de vous en soulager.</l>
             </sp>
             <sp who="tersandre">
@@ -1105,25 +1102,25 @@ Avec privilège du Roi</bibl>
               <speaker>MELIARQUE</speaker>
               <l part="F">Le dire à Meliarque,</l>
               <l n="122" xml:id="l122">C’est d’un parfait amy la veritable marque ;</l>
-              <l n="123" xml:id="l123">Et je seray certain de vostre <ref target="#affection">affection*</ref>,</l>
+              <l n="123" xml:id="l123">Et je seray certain de vostre <ref target="#affection">affection</ref>,</l>
               <l n="124" xml:id="l124">Si vous me faites part de vostre affliction.</l>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE<pb n="10" xml:id="p10"/></speaker>
-              <l n="125" xml:id="l125">Les coups dont la <ref target="#fortune">Fortune*</ref> a mon ame blessée,</l>
+              <l n="125" xml:id="l125">Les coups dont la <ref target="#fortune">Fortune</ref> a mon ame blessée,</l>
               <l n="126" xml:id="l126">La rendent mal-heureuse, et non pas insensée,</l>
               <l n="127" xml:id="l127">Au point que d’attrister le meilleur des Amis,</l>
               <l n="128" xml:id="l128">Par le recit des maux où mon sort m’a soumis.</l>
             </sp>
             <sp who="meliarque">
               <speaker>MELIARQUE</speaker>
-              <l n="129" xml:id="l129">S’ils ont part au plaisir qui vient de la <ref target="#fortune">Fortune*</ref>,</l>
+              <l n="129" xml:id="l129">S’ils ont part au plaisir qui vient de la <ref target="#fortune">Fortune</ref>,</l>
               <l n="130" xml:id="l130">La peine également leur doit estre commune.</l>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
               <l n="131" xml:id="l131">Ouy, mais je souffre assez, en l’estat où je suis,</l>
-              <l n="132" xml:id="l132">Sans que par mon discours j’augmente mes <ref target="#ennui">ennuis*</ref>.</l>
+              <l n="132" xml:id="l132">Sans que par mon discours j’augmente mes <ref target="#ennui">ennuis</ref>.</l>
             </sp>
             <sp who="meliarque">
               <speaker>MELIARQUE</speaker>
@@ -1170,7 +1167,7 @@ Avec privilège du Roi</bibl>
             <sp who="meliarque">
               <speaker>MELIARQUE</speaker>
               <l n="149" xml:id="l149">Mais ne sçauray-je point plus au long cette histoire,</l>
-              <l n="150" xml:id="l150">Dont le succés m’<ref target="#estonner">estonne*</ref>, et vous comble de gloire.</l>
+              <l n="150" xml:id="l150">Dont le succés m’<ref target="#estonner">estonne</ref>, et vous comble de gloire.</l>
             </sp>
             <sp who="tersandre">
               <speaker> TERSANDRE<pb n="12" xml:id="p12"/></speaker>
@@ -1179,16 +1176,16 @@ Avec privilège du Roi</bibl>
               <l n="153" xml:id="l153">Ha ! ce triste discours me va couster la vie.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE, <hi rend="i">à l’escart avec Lucine.</hi></speaker>
+              <speaker>CLAIRONDE, </speaker><stage>à l’escart avec Lucine.</stage>
               <l n="154" xml:id="l154" part="I">C’est luy mesme.</l>
             </sp>
             <sp who="lucine">
-              <speaker>LUCINE, <hi rend="i">bas.</hi></speaker>
+              <speaker>LUCINE, </speaker><stage>bas.</stage>
               <l part="M">Escoutons.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE, <hi rend="i">bas.</hi></speaker>
-              <l part="F"><hi rend="i"></hi>Qui retient mon envie<note place="bottom">Le relatif « Qui » est un pronom relatif neutre. Il signifie « Qu’est-ce qui ». Il faut comprendre ce vers ainsi : « Qu’est-ce qui retient mon envie [<hi xml:lang="fr" rend="i">de me précipiter sur lui</hi>] ? »</note> ?</l>
+              <speaker>CLAIRONDE, </speaker><stage>bas.</stage>
+              <l part="F"><hi rend="i"/>Qui retient mon envie<note place="bottom">Le relatif « Qui » est un pronom relatif neutre. Il signifie « Qu’est-ce qui ». Il faut comprendre ce vers ainsi : « Qu’est-ce qui retient mon envie [<hi xml:lang="fr" rend="i">de me précipiter sur lui</hi>] ? »</note> ?</l>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
@@ -1197,13 +1194,13 @@ Avec privilège du Roi</bibl>
               <l n="157" xml:id="l157">Et que ce Medecin des douleurs incurables,</l>
               <l n="158" xml:id="l158">Le Temps avoit rendu celles-cy plus durables,</l>
               <l n="159" xml:id="l159">Apprend, (et c’est icy la source de mes pleurs,)</l>
-              <l n="160" xml:id="l160">Que nos Peres lassez de <ref target="#souffrir2">souffrir*</ref> les mal-heurs</l>
+              <l n="160" xml:id="l160">Que nos Peres lassez de <ref target="#souffrir2">souffrir</ref> les mal-heurs</l>
               <l n="161" xml:id="l161">Qui venoient traverser nostre commune joye,</l>
               <l n="162" xml:id="l162">Prirent pour les finir une tragique voye ;</l>
               <l n="163" xml:id="l163">Resolus d’arrester par un sanglant duel,</l>
               <l n="164" xml:id="l164">Le trop funeste cours d’un mal continuel.</l>
               <l n="165" xml:id="l165">Ormin (c’estoit le nom du Père de Claironde)</l>
-              <l n="166" xml:id="l166" part="I">Prend son fils pour <ref target="#second">second*</ref>.<pb n="13" xml:id="p13"/></l>
+              <l n="166" xml:id="l166" part="I">Prend son fils pour <ref target="#second">second</ref>.<pb n="13" xml:id="p13"/></l>
             </sp>
             <sp who="meliarque">
               <speaker>MELIARQUE</speaker>
@@ -1213,9 +1210,9 @@ Avec privilège du Roi</bibl>
               <speaker>TERSANDRE</speaker>
               <l n="167" xml:id="l167">Mon Père en fait de mesme, et d’un cœur assuré,</l>
               <l n="168" xml:id="l168">Contre nos Ennemis se porte sur le pré.</l>
-              <l n="169" xml:id="l169">Chacun s’y treuve armé de <ref target="#fer">fer*</ref> et de courage,</l>
+              <l n="169" xml:id="l169">Chacun s’y treuve armé de <ref target="#fer">fer</ref> et de courage,</l>
               <l n="170" xml:id="l170">Et chacun prend le sien selon le droit de l’âge.</l>
-              <l n="171" xml:id="l171">D’abord nous combattons avec tant de <ref target="#fureur">fureur*</ref>,</l>
+              <l n="171" xml:id="l171">D’abord nous combattons avec tant de <ref target="#fureur">fureur</ref>,</l>
               <l n="172" xml:id="l172">Que le penser encor m’en fait fremir d’horreur :</l>
               <l n="173" xml:id="l173">Mais si tost que du mien j’eus connu la foiblesse,</l>
               <l n="174" xml:id="l174">Je fis à tant d’ardeur succeder quelque adresse.</l>
@@ -1273,7 +1270,7 @@ Avec privilège du Roi</bibl>
               <l n="206" xml:id="l206">Et c’est ce qui rendit nostre fuitte asseurée.</l>
               <l n="207" xml:id="l207">Depuis j’ai sçû qu’Elise estoit morte de dueil,</l>
               <l n="208" xml:id="l208">Ayant vû son espoux, et son fils au Cercueil :</l>
-              <l n="209" xml:id="l209">Mais, ce qui plus m’<ref target="#estonner">estonne*</ref>, elle a perdu la vie</l>
+              <l n="209" xml:id="l209">Mais, ce qui plus m’<ref target="#estonner">estonne</ref>, elle a perdu la vie</l>
               <l n="210" xml:id="l210">Sans perdre toutefois sa haine et son envie.</l>
               <l n="211" xml:id="l211">On dit qu’estant malade, ou cedant à l’effort</l>
               <l n="212" xml:id="l212">De plusieurs maux divers qui causerent sa mort ;</l>
@@ -1284,20 +1281,20 @@ Avec privilège du Roi</bibl>
               <l n="217" xml:id="l217">Elle appela sa fille, et presque dans la Terre,</l>
               <l n="218" xml:id="l218">L’obligea de la sorte à me livrer la guerre.</l>
               <l n="219" xml:id="l219">Si vous m’aimez encore en l’estat où je suis,</l>
-              <l n="220" xml:id="l220">D’une mourante Mere allegez les <ref target="#ennui">ennuis*</ref>;</l>
+              <l n="220" xml:id="l220">D’une mourante Mere allegez les <ref target="#ennui">ennuis</ref>;</l>
               <l n="221" xml:id="l221">Jurez qu’à vostre Hymen nul ne pourra pretendre</l>
               <l n="222" xml:id="l222">Qu’en vous venant offrir la teste de Tersandre.</l>
               <l n="223" xml:id="l223">Claironde le promit, et sa Mere expira.</l>
               <l n="224" xml:id="l224">Elle a gardé depuis ce qu’elle luy jura.</l>
               <l n="225" xml:id="l225">Mais, grace aux Immortels, sa rigueur obstinée</l>
               <l n="226" xml:id="l226">N’a pû jusqu’à present forcer ma destinée ;</l>
-              <l n="227" xml:id="l227">Ses <ref target="#amant">Amans*</ref> ont perdu ce titre glorieux,</l>
+              <l n="227" xml:id="l227">Ses <ref target="#amant">Amans</ref> ont perdu ce titre glorieux,</l>
               <l n="228" xml:id="l228">Par l’effort de mon bras tousjours victorieux.</l>
               <l n="229" xml:id="l229">Me doy-je toutefois vanter de ces victoires,</l>
               <l n="230" xml:id="l230">Qui me font retracer nos tragiques histoires ?</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE, <hi rend="i">bas.</hi><pb n="16" xml:id="p16"/></speaker>
+              <speaker>CLAIRONDE, <pb n="16" xml:id="p16"/></speaker><stage>bas.</stage>
               <l n="231" xml:id="l231">Je t’empescheray bien d’en parler desormais,</l>
               <l n="232" xml:id="l232" part="I">Cruel.</l>
             </sp>
@@ -1307,23 +1304,23 @@ Avec privilège du Roi</bibl>
               <l n="233" xml:id="l233" part="I">Je n’y songerois plus.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE<hi rend="i">, bas.</hi></speaker>
+              <speaker>CLAIRONDE</speaker><stage>, bas.</stage>
               <l part="F">En paix un homicide :</l>
               <l n="234" xml:id="l234" part="I">Justes Dieux.<note place="bottom">Dans l’exemplaire RRA 483 in-8 de la Bibliothèque interuniversitaire de la Sorbonne, un lecteur anonyme a écrit le commentaire suivant à propos de cette réplique de Claironde : « + <hi xml:lang="fr" rend="i">trait sublime dans une si mauvaise pièce. »</hi></note></l>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
-              <l part="F">Le Destin du <ref target="#genereux">genereux*</ref> Alcide<note place="bottom">Il s’agit d’Héraclès, fils de Zeus et d’Alcmène. Héraclès meurt victime de la vengeance d’une femme (son épouse Déjanire).</note></l>
+              <l part="F">Le Destin du <ref target="#genereux">genereux</ref> Alcide<note place="bottom">Il s’agit d’Héraclès, fils de Zeus et d’Alcmène. Héraclès meurt victime de la vengeance d’une femme (son épouse Déjanire).</note></l>
               <l n="235" xml:id="l235" part="I">Me resout à la mort.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE, <hi rend="i">bas.</hi></speaker>
+              <speaker>CLAIRONDE, </speaker><stage>bas.</stage>
               <l part="F">Je te la porte aussi.</l>
               <l n="236" xml:id="l236" part="I">Barbare.</l>
             </sp>
             <sp who="meliarque">
               <speaker>MELIARQUE</speaker>
-              <l part="F">Qui pourroit vous causer ce <ref target="#soucy">soucy*</ref> ?</l>
+              <l part="F">Qui pourroit vous causer ce <ref target="#soucy">soucy</ref> ?</l>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
@@ -1335,11 +1332,11 @@ Avec privilège du Roi</bibl>
               <l part="F">La Puissance divine.</l>
             </sp>
             <sp who="tersandre">
-              <speaker >TERSANDRE<pb n="C, 17"/></speaker>
+              <speaker>TERSANDRE<pb n="C, 17"/></speaker>
               <l n="239" xml:id="l239">J’en doute ; et puis mon sort n’est pas si cher aux Dieux.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE, <hi rend="i">bas</hi></speaker>
+              <speaker>CLAIRONDE, </speaker><stage>bas</stage>
               <l n="240" xml:id="l240">Non lasche, apres les coups de ton bras furieux.</l>
             </sp>
             <sp who="meliarque">
@@ -1369,24 +1366,24 @@ Avec privilège du Roi</bibl>
               <l n="248" xml:id="l248">Ne me font visiter que par mes ennemis.</l>
             </sp>
             <sp who="meliarque">
-              <speaker > MELIARQUE<pb n="18" xml:id="p18"/></speaker>
-              <l n="249" xml:id="l249">Quelque <ref target="#estrange2">estrange*</ref> mal-heur qui de prés vous pourchasse,</l>
+              <speaker> MELIARQUE<pb n="18" xml:id="p18"/></speaker>
+              <l n="249" xml:id="l249">Quelque <ref target="#estrange2">estrange</ref> mal-heur qui de prés vous pourchasse,</l>
               <l n="250" xml:id="l250">Vous ne pouvez haïr le plaisir de la Chasse,</l>
               <l n="251" xml:id="l251">Sçachant que le plus juste, et le plus grand des Rois,</l>
               <l n="252" xml:id="l252">Apres le Champ de Mars se plaist mieux dans les bois :</l>
               <l n="253" xml:id="l253">Joint qu’à ce passe-temps la saison vous convie.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE<hi rend="i">, bas.</hi></speaker>
+              <speaker>CLAIRONDE</speaker><stage>, bas.</stage>
               <l n="254" xml:id="l254">Lucine, ce conseil seconde mon envie.</l>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
-              <l n="255" xml:id="l255">La Chasse, je l’avoue, a de charmans <ref target="#appas">appas*</ref>,</l>
-              <l n="256" xml:id="l256">Et je hay mon <ref target="#humeur">humeur*</ref> de ne l’y porter pas.</l>
+              <l n="255" xml:id="l255">La Chasse, je l’avoue, a de charmans <ref target="#appas">appas</ref>,</l>
+              <l n="256" xml:id="l256">Et je hay mon <ref target="#humeur">humeur</ref> de ne l’y porter pas.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE<hi rend="i">, bas.</hi></speaker>
+              <speaker>CLAIRONDE</speaker><stage>, bas.</stage>
               <l n="257" xml:id="l257">Démon, qui que tu sois, qui viens de l’en distraire,</l>
               <l n="258" xml:id="l258">Faut-il qu’à mon dessein je t’épreuve contraire.</l>
             </sp>
@@ -1398,11 +1395,11 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
-              <l part="F">C’est un <ref target="#charme">charme*</ref> où j’incline<note place="bottom">« Avoir du penchant pour quelque chose, être porté à quelque chose de son naturel ou autrement. » (A)</note></l>
+              <l part="F">C’est un <ref target="#charme">charme</ref> où j’incline<note place="bottom">« Avoir du penchant pour quelque chose, être porté à quelque chose de son naturel ou autrement. » (A)</note></l>
               <l n="262" xml:id="l262" part="I">Presque dés le berçeau.<pb n="19" xml:id="p19"/></l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE, <hi rend="i">bas.</hi></speaker>
+              <speaker>CLAIRONDE, </speaker><stage>bas.</stage>
               <l part="F">C’est à ce coup, Lucine.</l>
             </sp>
             <sp who="tersandre">
@@ -1418,13 +1415,13 @@ Avec privilège du Roi</bibl>
               <l n="267" xml:id="l267">Approchons nous, de grace, et voyons de plus prés.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE, <hi rend="i">bas.</hi></speaker>
+              <speaker>CLAIRONDE, </speaker><stage>bas.</stage>
               <l n="268" xml:id="l268">Feignons de reposer, ils tombent dans nos rets.</l>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
               <l n="269" xml:id="l269">Dieux ! n’est-ce point icy le Palais d’une Fée,</l>
-              <l n="270" xml:id="l270">Qui par <ref target="#enchantement">enchantement*</ref> nous represente Orphée<note place="bottom">Voir note du v. 555 pour plus d’informations.</note> ;</l>
+              <l n="270" xml:id="l270">Qui par <ref target="#enchantement">enchantement</ref> nous represente Orphée<note place="bottom">Voir note du v. 555 pour plus d’informations.</note> ;</l>
               <l n="271" xml:id="l271">Voy-tu cét autre objet couché dans ce valon ?</l>
               <l n="272" xml:id="l272">Sous tant de Majesté, je croy voir Apollon.</l>
             </sp>
@@ -1432,7 +1429,7 @@ Avec privilège du Roi</bibl>
               <speaker>MELIARQUE</speaker>
               <l n="273" xml:id="l273">Dans le ravissement d’une telle merveille,</l>
               <l n="274" xml:id="l274">Certes, encore un coup je doute si je veille.</l>
-              <l n="275" xml:id="l275">Dieux ! de combien d’<ref target="#appas">appas*</ref> tous deux sont-ils pourvûs ?<pb n="20" xml:id="p20"/></l>
+              <l n="275" xml:id="l275">Dieux ! de combien d’<ref target="#appas">appas</ref> tous deux sont-ils pourvûs ?<pb n="20" xml:id="p20"/></l>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
@@ -1457,25 +1454,25 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
-              <l n="285" xml:id="l285">Laisse m’en le <ref target="#soucy">soucy*</ref>, mais préte un peu l’oreille,</l>
+              <l n="285" xml:id="l285">Laisse m’en le <ref target="#soucy">soucy</ref>, mais préte un peu l’oreille,</l>
               <l n="286" xml:id="l286">Il me semble desja que l’un d’eux se réveille.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE<hi rend="i">, poussant Lucine.</hi></speaker>
+              <speaker>CLAIRONDE</speaker><stage>, poussant Lucine.</stage>
               <l n="287" xml:id="l287">Allons, frere, il est temps de chercher le couvert.</l>
             </sp>
             <sp who="tersandre">
-              <speaker>TERSANDRE<hi rend="i">, bas, et à l’écart.</hi><pb n="21" xml:id="p21"/></speaker>
+              <speaker>TERSANDRE<pb n="21" xml:id="p21"/></speaker><stage>, bas, et à l’écart.</stage>
               <l n="288" xml:id="l288" part="I">Acceptez…</l>
             </sp>
             <sp who="meliarque">
-              <speaker>MELIARQUE, <hi rend="i">bas.</hi></speaker>
+              <speaker>MELIARQUE, </speaker><stage>bas.</stage>
               <l part="F">Taisez-vous, vous serez découvert,</l>
               <l n="289" xml:id="l289">Et s’il doit exposer l’effet de sa science,</l>
               <l n="290" xml:id="l290">Vous l’en divertirez par vostre impatience.</l>
             </sp>
             <sp who="lucine">
-              <speaker>LUCINE<hi rend="i">, feignant de se réveiller.</hi></speaker>
+              <speaker>LUCINE</speaker><stage>, feignant de se réveiller.</stage>
               <l n="291" xml:id="l291" part="I">Fait-il jour ?</l>
             </sp>
             <sp who="claironde">
@@ -1484,7 +1481,7 @@ Avec privilège du Roi</bibl>
               <l n="292" xml:id="l292">Vrayment, c’est trop dormy, nous coucherons dehors.</l>
             </sp>
             <sp who="lucine">
-              <speaker>LUCINE<hi rend="i">, feignant de se vouloir lever.</hi></speaker>
+              <speaker>LUCINE</speaker><stage>, feignant de se vouloir lever.</stage>
               <l n="293" xml:id="l293">Je songeois au matin, et croyois estre au gîte,</l>
               <l n="294" xml:id="l294" part="I">Mais…</l>
             </sp>
@@ -1500,10 +1497,10 @@ Avec privilège du Roi</bibl>
               <l n="299" xml:id="l299">Prens congé de la vie,</l>
               <l n="300" xml:id="l300">Et ne te promets pas</l>
               <l n="301" xml:id="l301">D’éviter le trépas,</l>
-              <l n="302" xml:id="l302">Puis qu’à ce juste coup la <ref target="#fureur">fureur*</ref> me convie.</l>
+              <l n="302" xml:id="l302">Puis qu’à ce juste coup la <ref target="#fureur">fureur</ref> me convie.</l>
             </sp>
             <sp who="tersandre">
-              <speaker>TERSANDRE<hi rend="i">, bas.</hi></speaker>
+              <speaker>TERSANDRE</speaker><stage>, bas.</stage>
               <l n="303" xml:id="l303">O Dieux ! je suis ravy de sa charmante voix.</l>
             </sp>
             <sp who="lucine">
@@ -1511,7 +1508,7 @@ Avec privilège du Roi</bibl>
               <l n="304" xml:id="l304">Hâtons nous, je vous prie, et passons par ce bois.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE<hi rend="i">, bas.</hi></speaker>
+              <speaker>CLAIRONDE</speaker><stage>, bas.</stage>
               <l n="305" xml:id="l305">Le voicy, faisons voir une mine hardie,</l>
               <l n="306" xml:id="l306">Qui ne tesmoigne rien de nostre perfidie.</l>
             </sp>
@@ -1528,7 +1525,7 @@ Avec privilège du Roi</bibl>
               <l n="312" xml:id="l312">Nous cherchons un logis attendant son retour.</l>
             </sp>
             <sp who="tersandre">
-              <speaker > TERSANDRE <pb n="23" xml:id="p23"/></speaker>
+              <speaker> TERSANDRE <pb n="23" xml:id="p23"/></speaker>
               <l n="313" xml:id="l313">Mon Chasteau n’est pas loin de ce lieu favorable<note place="bottom">« Propice, avantageux. » (A)</note>,</l>
               <l n="314" xml:id="l314">Serais-je assez heureux qu’il vous fust agreable ?</l>
             </sp>
@@ -1556,24 +1553,24 @@ Avec privilège du Roi</bibl>
               <speaker>TERSANDRE</speaker>
               <l n="325" xml:id="l325">Le bien que me promet vostre seule presence</l>
               <l n="326" xml:id="l326">Me défend de ceder à vostre resistance :</l>
-              <l n="327" xml:id="l327">De grace, bannissez, la crainte et le <ref target="#soucy">soucy*</ref>,</l>
+              <l n="327" xml:id="l327">De grace, bannissez, la crainte et le <ref target="#soucy">soucy</ref>,</l>
               <l n="328" xml:id="l328">Et me faites l’honneur de sejourner icy.</l>
             </sp>
             <sp who="lucine">
-              <speaker > LUCINE, <hi rend="i">bas à l’escart.</hi><pb n="24" xml:id="p24"/></speaker>
+              <speaker> LUCINE, <pb n="24" xml:id="p24"/></speaker><stage>bas à l’escart.</stage>
               <l n="329" xml:id="l329">Helas ! si tu sçavais quel dessein nous ameine,</l>
               <l n="330" xml:id="l330">Tu n’aurois pas pour nous ces soins ny cette peine.</l>
             </sp>
             <sp who="claironde">
               <speaker>CLAIRONDE</speaker>
               <l n="331" xml:id="l331">Mais n’ayant pas l’honneur d’estre connus de vous,</l>
-              <l n="332" xml:id="l332">Nous ne meritons pas un <ref target="#traittement">traittement*</ref> si doux.</l>
+              <l n="332" xml:id="l332">Nous ne meritons pas un <ref target="#traittement">traittement</ref> si doux.</l>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
               <l n="333" xml:id="l333">Par vostre noble aspect je puis assez connestre</l>
               <l n="334" xml:id="l334">Que dans un rang d’honneur le Sort vous a fait naistre,</l>
-              <l n="335" xml:id="l335">Et pour le <ref target="#traittement">traittement*</ref> il n’est que des Communs<note place="bottom">Comprendre : « la manière dont je vous traite n’a rien que de normal ».</note>.</l>
+              <l n="335" xml:id="l335">Et pour le <ref target="#traittement">traittement</ref> il n’est que des Communs<note place="bottom">Comprendre : « la manière dont je vous traite n’a rien que de normal ».</note>.</l>
             </sp>
             <sp who="claironde">
               <speaker>CLAIRONDE</speaker>
@@ -1588,7 +1585,7 @@ Avec privilège du Roi</bibl>
               <speaker>CLAIRONDE</speaker>
               <l n="339" xml:id="l339">Bien donc, il faut ceder à la necessité</l>
               <l n="340" xml:id="l340">Qui nous force de faire une incivilité.</l>
-              <label>Fin du premier Acte.</label>
+              <trailer>Fin du premier Acte.</trailer>
             </sp>
           </div>
         </div>
@@ -1600,13 +1597,13 @@ Avec privilège du Roi</bibl>
             <sp who="claironde">
               <speaker>FLORIDAN<note place="bottom">Surnom de Claironde annoncé au v. 95. Elle sera nommée de la sorte jusqu’à la fin de la pièce.</note>, seule dans une chambre.</speaker>
               <l n="341" xml:id="l341">Insolens ennemis de ma nouvelle flame,</l>
-              <l n="342" xml:id="l342"><ref target="#fureur">Fureurs*</ref>, rages, <ref target="#transport">transports*</ref>,</l>
+              <l n="342" xml:id="l342"><ref target="#fureur">Fureurs</ref>, rages, <ref target="#transport">transports</ref>,</l>
               <l n="343" xml:id="l343">Abandonnez mon Ame :</l>
               <l n="344" xml:id="l344">Et contre mon vainqueur cessez tous vos efforts ;</l>
               <l n="345" xml:id="l345">Ouy, ne m’inspirez plus le sang et le carnage ;</l>
               <l n="346" xml:id="l346">J’ai des sentimens plus humains,</l>
               <l n="347" xml:id="l347">Et je sens tomber de mes mains</l>
-              <l n="348" xml:id="l348">Le <ref target="#fer">fer*</ref> que contre luy preparoit mon courage.</l>
+              <l n="348" xml:id="l348">Le <ref target="#fer">fer</ref> que contre luy preparoit mon courage.</l>
               <l n="349" xml:id="l349">On ne peut l’offencer puis qu’un Dieu le défent,</l>
               <l n="350" xml:id="l350">Et l’Amour est plus fort, bien qu’il ne soit qu’Enfant.</l>
               <l n="351" xml:id="l351">En vain pour m’irriter vous le chargez de crimes,<pb n="26" xml:id="p26"/></l>
@@ -1616,42 +1613,42 @@ Avec privilège du Roi</bibl>
               <l n="355" xml:id="l355">Je cesse d’accuser le bon-heur de ses Armes,</l>
               <l n="356" xml:id="l356">Mon destin me porte à l’aimer,</l>
               <l n="357" xml:id="l357">Et si ma voix l’a sçû charmer,</l>
-              <l n="358" xml:id="l358">Mon cœur cede à son tour au pouvoir de ses <ref target="#charmes">charmes*</ref> ;</l>
+              <l n="358" xml:id="l358">Mon cœur cede à son tour au pouvoir de ses <ref target="#charmes">charmes</ref> ;</l>
               <l n="359" xml:id="l359">Ne l’attaquez donc plus puis qu’un Dieu le défent,</l>
               <l n="360" xml:id="l360">Je sens l’Amour plus fort bien qu’il ne soit qu’Enfant.</l>
-              <l n="361" xml:id="l361">Mais suivant le dessein d’une ame <ref target="#genereux">genereuse*</ref>,</l>
+              <l n="361" xml:id="l361">Mais suivant le dessein d’une ame <ref target="#genereux">genereuse</ref>,</l>
               <l n="362" xml:id="l362">Doy-je pas estouffer</l>
               <l n="363" xml:id="l363">Qui me rend mal-heureuse,</l>
               <l n="364" xml:id="l364">Et donner le trépas à ce Monstre d’Enfer ?</l>
-              <l n="365" xml:id="l365">Ha ! revenez, <ref target="#fureur">Fureurs*</ref>, pour perdre ce vipere<note place="bottom">Le mot est normalement féminin : il est ici accordé au masculin pour obtenir le bon nombre de pieds.</note>.</l>
+              <l n="365" xml:id="l365">Ha ! revenez, <ref target="#fureur">Fureurs</ref>, pour perdre ce vipere<note place="bottom">Le mot est normalement féminin : il est ici accordé au masculin pour obtenir le bon nombre de pieds.</note>.</l>
               <l n="366" xml:id="l366">Revenez, rage, desespoir,</l>
               <l n="367" xml:id="l367">Et faites par vostre pouvoir</l>
               <l n="368" xml:id="l368">Que je vange sur luy le meurtre de mon Père.</l>
-              <l n="369" xml:id="l369">Toutefois <ref target="#demeurer">demeurez*</ref>, un Dieu me le défent,</l>
+              <l n="369" xml:id="l369">Toutefois <ref target="#demeurer">demeurez</ref>, un Dieu me le défent,</l>
               <l n="370" xml:id="l370">Et l’Amour est plus fort bien qu’il ne soit qu’Enfant.</l>
               <l n="371" xml:id="l371">Quoy donc, je fausseray pour moins qu’une chimere<pb n="27" xml:id="p27"/></l>
               <l n="372" xml:id="l372">Le solemnel serment</l>
               <l n="373" xml:id="l373">Que je fis à ma Mere,</l>
               <l n="374" xml:id="l374">De le persecuter jusques au monument<note place="bottom">« Tombeau. » (F) Voir aussi v. 1046.</note> ?</l>
-              <l n="375" xml:id="l375">Ha ! revenez, <ref target="#fureur">Fureurs*</ref>, pour perdre ce Barbare ;</l>
-              <l n="376" xml:id="l376">Revenez à moy mes <ref target="#transport">transports*</ref>,</l>
+              <l n="375" xml:id="l375">Ha ! revenez, <ref target="#fureur">Fureurs</ref>, pour perdre ce Barbare ;</l>
+              <l n="376" xml:id="l376">Revenez à moy mes <ref target="#transport">transports</ref>,</l>
               <l n="377" xml:id="l377">Et renouvellez vos efforts,</l>
               <l n="378" xml:id="l378">Pour me resoudre au coup que mon bras luy prepare :</l>
-              <l n="379" xml:id="l379">Toutefois <ref target="#demeurer">demeurez*</ref>, un Dieu me le défent,</l>
+              <l n="379" xml:id="l379">Toutefois <ref target="#demeurer">demeurez</ref>, un Dieu me le défent,</l>
               <l n="380" xml:id="l380">Et l’Amour est plus fort bien qu’il ne soit qu’Enfant.</l>
               <l n="381" xml:id="l381">Dieux ! quand tout s’offre à moy je manque de courage</l>
               <l n="382" xml:id="l382">Et ne me souviens plus</l>
               <l n="383" xml:id="l383">Que ce meurtrier nage</l>
               <l n="384" xml:id="l384">Dans des fleuves de sang par son bras répandus :</l>
               <l n="385" xml:id="l385">Ha ! revenez à moy pour perdre cet Infame ;</l>
-              <l n="386" xml:id="l386">Haine, <ref target="#transport">transports*</ref>, rage, <ref target="#fureur">fureurs*</ref>,</l>
+              <l n="386" xml:id="l386">Haine, <ref target="#transport">transports</ref>, rage, <ref target="#fureur">fureurs</ref>,</l>
               <l n="387" xml:id="l387">Et par un trépas plein d’horreurs</l>
               <l n="388" xml:id="l388">De son perfide corps allons arracher l’ame :</l>
-              <l n="389" xml:id="l389">Toutefois <ref target="#demeurer">demeurez*</ref>, un Dieu me le défent,</l>
+              <l n="389" xml:id="l389">Toutefois <ref target="#demeurer">demeurez</ref>, un Dieu me le défent,</l>
               <l n="390" xml:id="l390">Et l’Amour est plus fort bien qu’il ne soit qu’Enfant.</l>
               <l n="391" xml:id="l391">Pourrois-je assassiner un homme que j’adore :<pb n="28" xml:id="p28"/></l>
               <l n="392" xml:id="l392">Mais puis-je conserver celuy qui seigne encore<note place="bottom">Comprendre : « celui qui est encore couvert du sang de ma famille. »</note>.</l>
-              <l n="393" xml:id="l393">Arreste ma <ref target="#fureur">fureur*</ref>, ouy, Tersandre me plaist,</l>
+              <l n="393" xml:id="l393">Arreste ma <ref target="#fureur">fureur</ref>, ouy, Tersandre me plaist,</l>
               <l n="394" xml:id="l394">Tout fier, tout criminel, et tout sanglant qu’il est :</l>
               <l n="395" xml:id="l395">Ouy, Tersandre me plaist, et la perfide lame</l>
               <l n="396" xml:id="l396">Qui perceroit son corps, iroit jusqu’à mon ame ;</l>
@@ -1683,7 +1680,7 @@ Avec privilège du Roi</bibl>
               <l n="405" xml:id="l405">Tersandre ne vit plus, et tant de bon accueil</l>
               <l n="406" xml:id="l406">Ne t’a donc obligé qu’à le mettre au cerceuil.</l>
               <l n="407" xml:id="l407">Tersandre ne vit plus, et ta main meurtriere</l>
-              <l n="408" xml:id="l408">Profanant ses <ref target="#appas">appas*</ref> l’a privé de lumiere.</l>
+              <l n="408" xml:id="l408">Profanant ses <ref target="#appas">appas</ref> l’a privé de lumiere.</l>
               <l n="409" xml:id="l409" part="I">O rage ! ô desespoir !</l>
             </sp>
             <sp who="lucine">
@@ -1693,7 +1690,7 @@ Avec privilège du Roi</bibl>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
               <l n="410" xml:id="l410">Cruelle, dy plutost qu’il falloit me trahir,</l>
-              <l n="411" xml:id="l411">Puisque dans les <ref target="#transport">transports*</ref> de mon ame agitée,</l>
+              <l n="411" xml:id="l411">Puisque dans les <ref target="#transport">transports</ref> de mon ame agitée,</l>
               <l n="412" xml:id="l412">La Raison deffendoit que je fusse escoutée.</l>
               <l n="413" xml:id="l413">Tersandre par ta main vient d’estre assassiné ;</l>
               <l n="414" xml:id="l414">Est-ce là ce plaisir que tu m’as destiné ?</l>
@@ -1712,7 +1709,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="lucine">
               <speaker>DORIMON</speaker>
-              <l n="427" xml:id="l427">La Raison, dites vous, estant si <ref target="#transporter">transportée*</ref>,</l>
+              <l n="427" xml:id="l427">La Raison, dites vous, estant si <ref target="#transporter">transportée</ref>,</l>
               <l n="428" xml:id="l428">Deffend qu’en cét estat sous soyez escoutée.</l>
             </sp>
             <sp who="claironde">
@@ -1732,13 +1729,13 @@ Avec privilège du Roi</bibl>
             <sp who="lucine">
               <speaker>DORIMON</speaker>
               <l n="434" xml:id="l434">Madame, terminez ces regrets superflus ;</l>
-              <l n="435" xml:id="l435">Tersandre vit encore, j’ai respecté ses <ref target="#charme">charmes*</ref>,</l>
+              <l n="435" xml:id="l435">Tersandre vit encore, j’ai respecté ses <ref target="#charme">charmes</ref>,</l>
               <l n="436" xml:id="l436">Et je n’ay répandu pour son sang que des larmes.</l>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
               <l n="437" xml:id="l437">O doux ravissement ! ô favorable erreur !</l>
-              <l n="438" xml:id="l438">O bien-heureux effet d’une extréme <ref target="#fureur">fureur*</ref> !<pb n="31" xml:id="p31"/></l>
+              <l n="438" xml:id="l438">O bien-heureux effet d’une extréme <ref target="#fureur">fureur</ref> !<pb n="31" xml:id="p31"/></l>
               <l n="439" xml:id="l439">Mais dans les mouvemens de mon ame confuse,</l>
               <l n="440" xml:id="l440">Je crains, avec raison, que ce soit une ruse.</l>
             </sp>
@@ -1747,7 +1744,7 @@ Avec privilège du Roi</bibl>
               <l n="441" xml:id="l441">Non, non, rendez l’usage à vos sens interdis,</l>
               <l n="442" xml:id="l442">Et pour ne point douter de ce que je vous dis</l>
               <l n="443" xml:id="l443">Apprenez en trois mots le dessein de ma feinte ;</l>
-              <l n="444" xml:id="l444">Repassant sur l’<ref target="#ennui">ennuy*</ref> dont vostre ame est atteinte,</l>
+              <l n="444" xml:id="l444">Repassant sur l’<ref target="#ennui">ennuy</ref> dont vostre ame est atteinte,</l>
               <l n="445" xml:id="l445">Et voyant que Tersandre en estoit le sujet,</l>
               <l n="446" xml:id="l446">J’allois executer ce damnable projet,</l>
               <l n="447" xml:id="l447">Pour finir vos douleurs par mon obéïssance ;</l>
@@ -1763,7 +1760,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="lucine">
               <speaker>DORIMON</speaker>
-              <l n="453" xml:id="l453">Mais, Madame, apres tout, par quel <ref target="#enchantement">enchantement*</ref></l>
+              <l n="453" xml:id="l453">Mais, Madame, apres tout, par quel <ref target="#enchantement">enchantement</ref></l>
               <l n="454" xml:id="l454">Passez-vous d’un extréme à l’autre en un moment ?</l>
               <l n="455" xml:id="l455">Et qu’est donc devenu ce furieux courage,</l>
               <l n="456" xml:id="l456">Qui ne s’entretenoit que d’espoir de carnage ?</l>
@@ -1774,10 +1771,10 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
-              <l n="461" xml:id="l461">Lucine, tu le vois, le <ref target="#charmeur">charmeur*</ref> est <ref target="#charmer">charmé*</ref>,</l>
+              <l n="461" xml:id="l461">Lucine, tu le vois, le <ref target="#charmeur">charmeur</ref> est <ref target="#charmer">charmé</ref>,</l>
               <l n="462" xml:id="l462">Et le plus resolu se trouve desarmé :</l>
               <l n="463" xml:id="l463">Mais, dis la verité, pouvois-je me deffendre</l>
-              <l n="464" xml:id="l464">De ces <ref target="trait1">traits*</ref> glorieux que décoche Tersandre ?</l>
+              <l n="464" xml:id="l464">De ces <ref target="trait1">traits</ref> glorieux que décoche Tersandre ?</l>
               <l n="465" xml:id="l465">Ses yeux dont les regards peuvent tout enflamer,</l>
               <l n="466" xml:id="l466">N’auroient-ils pas contraint Diane<note place="bottom">Déesse de la chasse ayant demandé à son père Jupiter de lui donner une virginité perpétuelle.</note> à les aimer ?</l>
             </sp>
@@ -1791,13 +1788,13 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="lucine">
               <speaker>DORIMON</speaker>
-              <l n="469" xml:id="l469">Il est vray : mais sortons de ces lieux <ref target="#enchanter">enchantez*</ref>,</l>
+              <l n="469" xml:id="l469">Il est vray : mais sortons de ces lieux <ref target="#enchanter">enchantez</ref>,</l>
               <l n="470" xml:id="l470">Où nostre œil ébloüy ne voit que raretez ;</l>
               <stage>(Ce sont des tableaux.)</stage>
-              <l n="471" xml:id="l471">Et quoy que ces <ref target="amant">Amans*</ref> ayent le don de se taire,</l>
+              <l n="471" xml:id="l471">Et quoy que ces <ref target="amant">Amans</ref> ayent le don de se taire,</l>
               <l n="472" xml:id="l472">Cherchons dedans ce Parc quelque lieu solitaire ;</l>
               <l n="473" xml:id="l473">C’est là que sans témoins nous pourrons librement</l>
-              <l n="474" xml:id="l474">Discourir des <ref target="#appas">appas*</ref> d’un objet si charmant.</l>
+              <l n="474" xml:id="l474">Discourir des <ref target="#appas">appas</ref> d’un objet si charmant.</l>
             </sp>
           </div>
           <div type="scene">
@@ -1810,7 +1807,7 @@ Avec privilège du Roi</bibl>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
               <l n="476" xml:id="l476">Traistres, si mon sort veut qu’elle me soit ravie,</l>
-              <l n="477" xml:id="l477">Ce <ref target="#fer">fer*</ref> auparavant, que vous allez sentir,</l>
+              <l n="477" xml:id="l477">Ce <ref target="#fer">fer</ref> auparavant, que vous allez sentir,</l>
               <l n="478" xml:id="l478">Ira dans vostre cœur porter le repentir.</l>
             </sp>
             <sp who="claironde">
@@ -1826,11 +1823,11 @@ Avec privilège du Roi</bibl>
               <l part="F">Courons sur eux, Lucine.</l>
             </sp>
             <sp who="lucine">
-              <speaker >DORIMON<pb n="34" xml:id="p34"/></speaker>
+              <speaker>DORIMON<pb n="34" xml:id="p34"/></speaker>
               <l n="481" xml:id="l481" part="I">C’est trop pour nous.</l>
             </sp>
             <sp who="troisvoleurs">
-              <speaker>LE VOLEUR, <hi rend="i">fuyant.</hi></speaker>
+              <speaker>LE VOLEUR, </speaker><stage>fuyant.</stage>
               <l part="F">Rentrons<note place="bottom">Terme théâtral. On disait « rentrer (dans la coulisse) » là où nous disons « sortir (de scène) ».</note>, il luy vient du secours.</l>
             </sp>
             <sp who="claironde">
@@ -1840,7 +1837,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
-              <l n="484" xml:id="l484">Et vostre seul <ref target="#aspect">>aspect*</ref> a causé leur défaite.</l>
+              <l n="484" xml:id="l484">Et vostre seul <ref target="#aspect">&gt;aspect</ref> a causé leur défaite.</l>
               <l n="485" xml:id="l485">Jeune Mars, dont le cœur égale la beauté,</l>
               <l n="486" xml:id="l486">Apres ce noble effet de generosité ;</l>
               <l n="487" xml:id="l487">Je serois plus qu’ingrat si je n’avois envie</l>
@@ -1848,8 +1845,8 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
-              <l n="489" xml:id="l489">Je croy, mon <ref target="#cavalier">Cavalier*</ref>, qu’en ce pressant mal-heur,</l>
-              <l n="490" xml:id="l490">Vous la tenez du Ciel, et de vostre <ref target="#valeur">valeur*</ref>.</l>
+              <l n="489" xml:id="l489">Je croy, mon <ref target="#cavalier">Cavalier</ref>, qu’en ce pressant mal-heur,</l>
+              <l n="490" xml:id="l490">Vous la tenez du Ciel, et de vostre <ref target="#valeur">valeur</ref>.</l>
             </sp>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
@@ -1857,7 +1854,7 @@ Avec privilège du Roi</bibl>
               <l n="492" xml:id="l492">Que je la tiens du Ciel, et de vostre assistance.</l>
             </sp>
             <sp who="claironde">
-              <speaker >FLORIDAN<pb n="35" xml:id="p35"/></speaker>
+              <speaker>FLORIDAN<pb n="35" xml:id="p35"/></speaker>
               <l n="493" xml:id="l493">Pour me gratifier d’un titre avantageux,</l>
               <l n="494" xml:id="l494">Ne vous dérobez pas celuy de courageux.</l>
             </sp>
@@ -1868,7 +1865,7 @@ Avec privilège du Roi</bibl>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
               <l part="F">Laissons là ce discours de loüange,</l>
-              <l n="496" xml:id="l496">Quel dessein vous ameine en ce païs <ref target="#estrange1">estrange*</ref> ?</l>
+              <l n="496" xml:id="l496">Quel dessein vous ameine en ce païs <ref target="#estrange1">estrange</ref> ?</l>
               <l n="497" xml:id="l497">Est-ce un desir de voir ? Ma curiosité<note place="bottom">Diérèse au mot « curiosité ».</note></l>
               <l n="498" xml:id="l498">Peut-estre passera pour incivilité.</l>
             </sp>
@@ -1879,19 +1876,19 @@ Avec privilège du Roi</bibl>
               <l n="501" xml:id="l501">Je vous diray, Monsieur, que deux Monstres sans yeux<note place="bottom">L’Amour et la Vengeance étaient représentées les yeux bandés dans certaines œuvres iconographiques.</note>,</l>
               <l n="502" xml:id="l502">La Vangeance et l’Amour m’ont conduit en ces lieux.</l>
               <l n="503" xml:id="l503">Claironde est la Beauté par qui la Renommée,</l>
-              <l n="504" xml:id="l504">M’apprenant son merite a mon ame <ref target="#charmer">charmée*</ref> ;</l>
+              <l n="504" xml:id="l504">M’apprenant son merite a mon ame <ref target="#charmer">charmée</ref> ;</l>
               <l n="505" xml:id="l505">D’où vient qu’à ce discours vous changez de couleur ?</l>
             </sp>
             <sp who="claironde">
-              <speaker>FLORIDAN<hi rend="i">, se retirant à l’écart.</hi></speaker>
+              <speaker>FLORIDAN</speaker><stage>, se retirant à l’écart.</stage>
               <l n="506" xml:id="l506">Ce n’est pas ce discours qui cause ma douleur.</l>
               <l n="507" xml:id="l507">(Bas.) Soustiens moy Dorimon. Il en veut à Tersandre.<pb n="36" xml:id="p36"/></l>
               <l n="508" xml:id="l508">Et ce cruel m’attaque en venant me deffendre.</l>
             </sp>
             <sp who="alcinor">
-              <speaker>ALCINOR, <hi rend="i">à part.</hi></speaker>
+              <speaker>ALCINOR, </speaker><stage>à part.</stage>
               <l n="509" xml:id="l509">Si le mesme dessein les amenoit icy :</l>
-              <l n="510" xml:id="l510">Mais ces jeunes Cadets n’ont pas un tel <ref target="#soucy">soucy*</ref>.</l>
+              <l n="510" xml:id="l510">Mais ces jeunes Cadets n’ont pas un tel <ref target="#soucy">soucy</ref>.</l>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
@@ -1911,14 +1908,14 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
-              <l n="521" xml:id="l521" part="I">Je m’offre pour <ref target="#second">second*</ref>.</l>
+              <l n="521" xml:id="l521" part="I">Je m’offre pour <ref target="#second">second</ref>.</l>
             </sp>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
               <l part="F">Je n’en puis accepter.</l>
             </sp>
             <sp who="claironde">
-              <speaker > FLORIDAN<pb n="37" xml:id="p37"/></speaker>
+              <speaker> FLORIDAN<pb n="37" xml:id="p37"/></speaker>
               <l n="522" xml:id="l522" part="I">Pourquoy ?</l>
             </sp>
             <sp who="alcinor">
@@ -1928,19 +1925,19 @@ Avec privilège du Roi</bibl>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
               <l n="523" xml:id="l523">Si je suis inutile à vuider<note place="bottom">« Terminer, finir une affaire, un différend. » (F)</note> la querelle,</l>
-              <l n="524" xml:id="l524">Au moins de vostre part <ref target="#souffrir1">souffrez*</ref> que je l’appelle.</l>
+              <l n="524" xml:id="l524">Au moins de vostre part <ref target="#souffrir1">souffrez</ref> que je l’appelle.</l>
             </sp>
             <sp who="alcinor">
-              <speaker>ALCINOR, <hi rend="i">à part.</hi></speaker>
+              <speaker>ALCINOR, </speaker><stage>à part.</stage>
               <l n="525" xml:id="l525">Puisque j’ay le mal-heur d’avoir perdu mes gens<note place="bottom">« Domestiques » (A)</note>,</l>
-              <l n="526" xml:id="l526"><ref target="souffrir1">Souffrons*</ref> mettre en effet<note place="bottom">« Mettre en effet » signifie « donner réalité à ».</note> ces discours <ref target="#obligeant">obligeans*</ref>.</l>
+              <l n="526" xml:id="l526"><ref target="souffrir1">Souffrons</ref> mettre en effet<note place="bottom">« Mettre en effet » signifie « donner réalité à ».</note> ces discours <ref target="#obligeant">obligeans</ref>.</l>
               <l n="527" xml:id="l527">Dans un doute incertain dont mon ame est saisie,</l>
               <l n="528" xml:id="l528">J’aurois peur d’abuser de vostre courtoisie.</l>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
-              <l n="529" xml:id="l529">Entre nous <ref target="#cavalier">Cavaliers*</ref>, tréve de Compliment,</l>
-              <l n="530" xml:id="l530">Montrez moy le <ref target="#cartel">cartel*</ref> et le lieu seulement.</l>
+              <l n="529" xml:id="l529">Entre nous <ref target="#cavalier">Cavaliers</ref>, tréve de Compliment,</l>
+              <l n="530" xml:id="l530">Montrez moy le <ref target="#cartel">cartel</ref> et le lieu seulement.</l>
             </sp>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
@@ -1954,7 +1951,7 @@ Avec privilège du Roi</bibl>
               <speaker>FLORIDAN</speaker>
               <l n="536" xml:id="l536">Nous allons de ce pas travailler à sa perte.</l>
               <l n="537" xml:id="l537">Heureux d’estre chargez d’une Comission,</l>
-              <l n="538" xml:id="l538">Qui prepare le prix à vostre <ref target="#affection">affection*</ref> :</l>
+              <l n="538" xml:id="l538">Qui prepare le prix à vostre <ref target="#affection">affection</ref> :</l>
               <l n="539" xml:id="l539">Cependant donnez ordre<note place="bottom">Expression qui signifie « pourvoir ». (A)</note> à l’apprest necessaire.</l>
             </sp>
             <sp who="alcinor">
@@ -1966,7 +1963,7 @@ Avec privilège du Roi</bibl>
               <l n="541" xml:id="l541">Dans une heure au plus tard serez vous par icy ?</l>
             </sp>
             <sp who="alcinor">
-              <speaker>ALCINOR, <hi rend="i">sortant</hi>.</speaker>
+              <speaker>ALCINOR, </speaker><stage>sortant</stage>
               <l n="542" xml:id="l542" part="I">Je n’y manqueray pas.</l>
             </sp>
           </div>
@@ -1974,21 +1971,21 @@ Avec privilège du Roi</bibl>
             <head>Scène IV.</head><pb n="39" xml:id="p39"/>
             <stage>FLORIDAN, DORIMON</stage>
             <sp who="claironde">
-              <speaker> FLORIDAN, <hi rend="i">bas.</hi></speaker>
-              <l  part="F">Tu m’y verras aussi.</l>
+              <speaker> FLORIDAN, </speaker><stage>bas.</stage>
+              <l part="F">Tu m’y verras aussi.</l>
               <l n="543" xml:id="l543">Mais cachons en ce lieu le dessein qui m’excite,</l>
               <l n="544" xml:id="l544">A perdre un Inconnu dont le zele m’irrite.</l>
               <l n="545" xml:id="l545">Lucine, que dis-tu de ce nouveau mal-heur ?545</l>
             </sp>
             <sp who="lucine">
               <speaker>DORIMON</speaker>
-              <l n="546" xml:id="l546">Madame, esperez mieux de sa rare <ref target="#valeur">valeur*</ref>.</l>
+              <l n="546" xml:id="l546">Madame, esperez mieux de sa rare <ref target="#valeur">valeur</ref>.</l>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
               <l n="547" xml:id="l547">C’est par là que le Sort pretend m’oster la vie :</l>
               <l n="548" xml:id="l548">Mais de peur qu’à Tersandre elle ne soit ravie,</l>
-              <l n="549" xml:id="l549">Sans nous entretenir de ses charmants <ref target="#appas">appas*</ref>,</l>
+              <l n="549" xml:id="l549">Sans nous entretenir de ses charmants <ref target="#appas">appas</ref>,</l>
               <l n="550" xml:id="l550">Empeschons bien plustost qu’il ne se batte pas.</l>
             </sp>
           </div>
@@ -2000,7 +1997,7 @@ Avec privilège du Roi</bibl>
               <l n="551" xml:id="l551">Quel bon-heur, Meliarque, est au mien comparable ?</l>
               <l n="552" xml:id="l552">Pouvois-je désirer un Sort plus favorable ?</l>
               <l n="553" xml:id="l553">Que ce jeune Inconnu des accens de sa voix</l>
-              <l n="554" xml:id="l554"><ref target="#charme">Charme*</ref> agreablement les soucis que j’avois,</l>
+              <l n="554" xml:id="l554"><ref target="#charme">Charme</ref> agreablement les soucis que j’avois,</l>
               <l n="555" xml:id="l555">La gloire d’Amphion, et du fameux Orfée<note place="bottom">Amphion et Orphée étaient tous deux musiciens et poètes dans la mythologie grecque. Ils jouent tous deux de la lyre : Amphion a la capacité de déplacer les pierres grâce au chant, et Orphée d’entraîner les animaux de la même façon.</note>,</l>
               <l n="556" xml:id="l556">Est par ses doux accords justement estouffée.</l>
             </sp>
@@ -2015,7 +2012,7 @@ Avec privilège du Roi</bibl>
               <l n="559" xml:id="l559">Qui venez mettre fin à mes peines diverses.</l>
               <l n="560" xml:id="l560">Que ce bien m’est aimable apres tant de traverses<note place="bottom">« Obstacle, empeschement, affliction, opposition. » (A)</note> !</l>
               <l n="561" xml:id="l561">Je benis, juste Ciel, les maux que j’ay souffers,<pb n="F, 41"/></l>
-              <l n="562" xml:id="l562">Si cette Compagnie est le prix de mes <ref target="#fer">fers*</ref>.</l>
+              <l n="562" xml:id="l562">Si cette Compagnie est le prix de mes <ref target="#fer">fers</ref>.</l>
             </sp>
             <sp who="meliarque">
               <speaker>MELIARQUE</speaker>
@@ -2044,12 +2041,12 @@ Avec privilège du Roi</bibl>
             <sp who="meliarque">
               <speaker>MELIARQUE</speaker>
               <l n="575" xml:id="l575">Pour moy, de la plus belle on me verroit distraire</l>
-              <l n="576" xml:id="l576">Pour une où je verrois un seul <ref target="#trait2">trait*</ref> de son frere.</l>
+              <l n="576" xml:id="l576">Pour une où je verrois un seul <ref target="#trait2">trait</ref> de son frere.</l>
             </sp>
             <sp who="tersandre">
-              <speaker >TERSANDRE<pb n="42" xml:id="p42"/></speaker>
+              <speaker>TERSANDRE<pb n="42" xml:id="p42"/></speaker>
               <l n="577" xml:id="l577">Helas ! il me souvient<note place="bottom">Le verbe « se souvenir » est souvent impersonnel au <num>xvii<hi rend="sup">e</hi></num> siècle.</note> quand je le voy de prés,</l>
-              <l n="578" xml:id="l578">Du frere de Claironde, il en a tous les <ref target="#trait2">traits*</ref> ;</l>
+              <l n="578" xml:id="l578">Du frere de Claironde, il en a tous les <ref target="#trait2">traits</ref> ;</l>
               <l n="579" xml:id="l579">Et si par cette main il ne cessoit de vivre,</l>
               <l n="580" xml:id="l580">Je pourrois croire encor qu’il viendroit me poursuivre.</l>
               <l n="581" xml:id="l581">Mais desja le Soleil d’un visage riant</l>
@@ -2058,7 +2055,7 @@ Avec privilège du Roi</bibl>
               <l n="584" xml:id="l584">A de ses trois Pavots délivré sa paupiere.</l>
               <l n="585" xml:id="l585">Dieux ! un Demon m’arreste, et je me sens surpris ;</l>
               <l n="586" xml:id="l586">Quel sujet de frayeur vient troubler mes esprits ?</l>
-              <l n="587" xml:id="l587">D’où vient qu’à chaque pas je <ref target="#demeurer">demeure*</ref> et je tremble ?</l>
+              <l n="587" xml:id="l587">D’où vient qu’à chaque pas je <ref target="#demeurer">demeure</ref> et je tremble ?</l>
               <l n="588" xml:id="l588" part="I">Quoi ! je ne voy personne.</l>
             </sp>
             <sp who="meliarque">
@@ -2073,7 +2070,7 @@ Avec privilège du Roi</bibl>
               <l n="591" xml:id="l591">Ha ! c’est là de leur fuitte une preuve assurée :</l>
               <l n="592" xml:id="l592">Que mes felicitez sont de peu de durée !</l>
               <l n="593" xml:id="l593">Aimables Estrangers, pourquoy me fuyez-vous ?</l>
-              <l n="594" xml:id="l594">Qui vous fait mépriser un <ref target="#traittement">traittement*</ref> si doux ?</l>
+              <l n="594" xml:id="l594">Qui vous fait mépriser un <ref target="#traittement">traittement</ref> si doux ?</l>
               <l n="595" xml:id="l595">Est-ce un Arrest du Sort qui de moy vous separe ?<pb n="43" xml:id="p43"/></l>
               <l n="596" xml:id="l596">Est-ce un nouveau tourment que le Ciel me prepare ?</l>
               <l n="597" xml:id="l597">Helas ! ouy c’en est un de tous le plus cruel,</l>
@@ -2081,7 +2078,7 @@ Avec privilège du Roi</bibl>
               <l n="599" xml:id="l599">O Destins rigoureux ! ennemis de ma joye,</l>
               <l n="600" xml:id="l600">Qui me privez d’un bien si tost qu’on me l’envoye ;</l>
               <l n="601" xml:id="l601">N’est-ce point à dessein que me l’ayant osté,</l>
-              <l n="602" xml:id="l602">Je <ref target="#souffrir2">souffre*</ref> plus de mal apres l’avoir gousté ?</l>
+              <l n="602" xml:id="l602">Je <ref target="#souffrir2">souffre</ref> plus de mal apres l’avoir gousté ?</l>
               <l n="603" xml:id="l603">Ha ! je n’en doute plus, la chose est trop certaine,</l>
               <l n="604" xml:id="l604">Je connois vos rigueurs, et vostre vieille haine ;</l>
               <l n="605" xml:id="l605">Aussi quelque bon-heur qui me vienne à present,</l>
@@ -2106,7 +2103,7 @@ Avec privilège du Roi</bibl>
             <stage>FLAVIANE, CLYMENE</stage>
             <sp who="flaviane">
               <speaker>FLAVIANE</speaker>
-              <l n="617" xml:id="l617">Clymene, que dis-tu de mon nouvel <ref target="#amant">Amant*</ref> ?</l>
+              <l n="617" xml:id="l617">Clymene, que dis-tu de mon nouvel <ref target="#amant">Amant</ref> ?</l>
               <l n="618" xml:id="l618">Est-il sous le Soleil un objet plus charmant ?</l>
               <l n="619" xml:id="l619">Et dans le sentiment de mon ame amoureuse,</l>
               <l n="620" xml:id="l620" part="I">S’il répond à mes vœux…</l>
@@ -2114,8 +2111,8 @@ Avec privilège du Roi</bibl>
             <sp who="clymene">
               <speaker>CLYMENE</speaker>
               <l part="F">Que vous serez heureuse :</l>
-              <l n="621" xml:id="l621">Tous deux riches d’<ref target="#appas">appas*</ref>, et vos cœurs bien unis,</l>
-              <l n="622" xml:id="l622">On vous croira Venus, qui <ref target="#charmer">charmez*</ref> Adonis.<note place="bottom">Amant d’Aphrodite (Vénus chez les romains), déesse de l’amour, dans la mythologie grecque.</note></l>
+              <l n="621" xml:id="l621">Tous deux riches d’<ref target="#appas">appas</ref>, et vos cœurs bien unis,</l>
+              <l n="622" xml:id="l622">On vous croira Venus, qui <ref target="#charmer">charmez</ref> Adonis.<note place="bottom">Amant d’Aphrodite (Vénus chez les romains), déesse de l’amour, dans la mythologie grecque.</note></l>
             </sp>
             <sp who="flaviane">
               <speaker>FLAVIANE</speaker>
@@ -2135,7 +2132,7 @@ Avec privilège du Roi</bibl>
             <sp who="clymene">
               <speaker>CLYMENE</speaker>
               <l n="629" xml:id="l629">Si vous luy témoignez que sa discretion</l>
-              <l n="630" xml:id="l630">L’honore d’une place en vostre <ref target="#affection">affection*</ref>,</l>
+              <l n="630" xml:id="l630">L’honore d’une place en vostre <ref target="#affection">affection</ref>,</l>
               <l n="631" xml:id="l631">Esperant de sa part une telle assurance,</l>
               <l n="632" xml:id="l632">Croyez que les effets suivront vostre esperance.</l>
             </sp>
@@ -2160,7 +2157,7 @@ Avec privilège du Roi</bibl>
             <sp who="clymene">
               <speaker>CLYMENE</speaker>
               <l n="642" xml:id="l642">Madame, esperez tout de vos perfections ;</l>
-              <l n="643" xml:id="l643">A vos charmans <ref target="#appas">appas*</ref> il n’est rien d’impossible,</l>
+              <l n="643" xml:id="l643">A vos charmans <ref target="#appas">appas</ref> il n’est rien d’impossible,</l>
               <l n="644" xml:id="l644">Et ce cœur est à vous pour peu qu’il soit sensible :</l>
               <l n="645" xml:id="l645">Mais la crainte me reste en vous donnant l’espoir.</l>
             </sp>
@@ -2182,27 +2179,27 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="flaviane">
               <speaker>FLAVIANE</speaker>
-              <l n="649" xml:id="l649">Quoy, tu te laisses prendre à de mesmes <ref target="#appas">appas*</ref> ?</l>
+              <l n="649" xml:id="l649">Quoy, tu te laisses prendre à de mesmes <ref target="#appas">appas</ref> ?</l>
             </sp>
             <sp who="clymene">
               <speaker>CLYMENE</speaker>
               <l n="650" xml:id="l650">Ce m’est beaucoup d’honneur de marcher sur vos pas.</l>
             </sp>
             <sp who="flaviane">
-              <speaker>FLAVIANE, <hi rend="i">à part.</hi></speaker>
+              <speaker>FLAVIANE, </speaker><stage>à part.</stage>
               <l n="651" xml:id="l651">M’est-elle Confidente, ou si c’est ma Rivale ?</l>
             </sp>
             <sp who="clymene">
-              <speaker >CLYMENE<pb n="47" xml:id="p47"/></speaker>
+              <speaker>CLYMENE<pb n="47" xml:id="p47"/></speaker>
               <l n="652" xml:id="l652">Qu’un poison amoureux est doux quand on l’avale !</l>
             </sp>
             <sp who="flaviane">
-              <speaker>FLAVIANE, <hi rend="i">à part.</hi></speaker>
-              <l n="653" xml:id="l653">Ces mots à double sens réveillent mon <ref target="#soucy">soucy*</ref>,</l>
+              <speaker>FLAVIANE, </speaker><stage>à part.</stage>
+              <l n="653" xml:id="l653">Ces mots à double sens réveillent mon <ref target="#soucy">soucy</ref>,</l>
               <l n="654" xml:id="l654">Il faut m’en éclaircir tandis qu’elle est icy.</l>
               <l n="655" xml:id="l655">De sorte que ton coeur en un âge si tendre,</l>
               <l n="656" xml:id="l656">Desja du feu d’Amour se voit reduire en cendre :</l>
-              <l n="657" xml:id="l657">Mais de ce beau <ref target="#charmeur">charmeur*</ref> ne sçay-je point le nom ?</l>
+              <l n="657" xml:id="l657">Mais de ce beau <ref target="#charmeur">charmeur</ref> ne sçay-je point le nom ?</l>
             </sp>
             <sp who="clymene">
               <speaker>CLYMENE</speaker>
@@ -2210,7 +2207,7 @@ Avec privilège du Roi</bibl>
               <l n="659" xml:id="l659" part="I">C’est luy…</l>
             </sp>
             <sp who="flaviane">
-              <speaker>FLAVIANE<hi rend="i">, bas</hi>.</speaker>
+              <speaker>FLAVIANE</speaker><stage>, bas</stage>
               <l part="M">Ne craignons plus.</l>
             </sp>
             <sp who="clymene">
@@ -2220,7 +2217,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="flaviane">
               <speaker>FLAVIANE</speaker>
-              <l n="661" xml:id="l661">Ouy, j’apperçoy l’objet de mon plus doux <ref target="#soucy">soucy*</ref>.</l>
+              <l n="661" xml:id="l661">Ouy, j’apperçoy l’objet de mon plus doux <ref target="#soucy">soucy</ref>.</l>
             </sp>
             <sp who="clymene">
               <speaker>CLYMENE</speaker>
@@ -2253,7 +2250,7 @@ Avec privilège du Roi</bibl>
               <l n="672" xml:id="l672">J’eusse esté vous chercher au Ciel de vostre Mere.</l>
             </sp>
             <sp who="flaviane">
-              <speaker>FLAVIANE<hi rend="i">, les surprenant.</hi></speaker>
+              <speaker>FLAVIANE</speaker><stage>, les surprenant.</stage>
               <l n="673" xml:id="l673">Quoy que ce beau séjour soit assez éloigné,</l>
               <l n="674" xml:id="l674">Sa sœur pour ce sujet l’auroit accompagné.</l>
             </sp>
@@ -2268,7 +2265,7 @@ Avec privilège du Roi</bibl>
               <speaker>FLAVIANE</speaker>
               <l n="679" xml:id="l679">Nous quiter. Ha ! ce mot sensiblement me touche ;</l>
               <l n="680" xml:id="l680">Qu’il ne parte jamais de vostre belle bouche :</l>
-              <l n="681" xml:id="l681">Mais afin d’<ref target="#obliger">obliger*</ref> un coeur qui vous cherit,</l>
+              <l n="681" xml:id="l681">Mais afin d’<ref target="#obliger">obliger</ref> un coeur qui vous cherit,</l>
               <l n="682" xml:id="l682">Que ce dessein plustost sorte de vostre esprit.</l>
             </sp>
             <sp who="tersandre">
@@ -2285,15 +2282,15 @@ Avec privilège du Roi</bibl>
               <l n="689" xml:id="l689" part="I">Nous sommes tout à vous.<pb n="50" xml:id="p50"/></l>
             </sp>
             <sp who="flaviane">
-              <speaker>FLAVIANE, <hi rend="i">à part.</hi></speaker>
+              <speaker>FLAVIANE, </speaker><stage>à part.</stage>
               <l part="F">Dieux ! que d’humilité,</l>
               <l n="690" xml:id="l690">Et que de complaisance avec tant de beauté ;</l>
               <l n="691" xml:id="l691">De moment en moment je me sens enflamée,</l>
-              <l n="692" xml:id="l692">Par le feu de ses yeux dont mon ame est <ref target="#charmer">charmée*</ref>.</l>
+              <l n="692" xml:id="l692">Par le feu de ses yeux dont mon ame est <ref target="#charmer">charmée</ref>.</l>
             </sp>
             <sp who="tersandre">
-              <speaker>TERSANDRE, <hi rend="i">à Floridan.</hi></speaker>
-              <l n="693" xml:id="l693">Que vous nous <ref target="#obliger">obligez*</ref> par ce consentement !</l>
+              <speaker>TERSANDRE, </speaker><stage>à Floridan.</stage>
+              <l n="693" xml:id="l693">Que vous nous <ref target="#obliger">obligez</ref> par ce consentement !</l>
               <l n="694" xml:id="l694">Ma Sœur, je vous procure un divertissement.</l>
             </sp>
             <sp who="flaviane">
@@ -2307,22 +2304,22 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="flaviane">
               <speaker>FLAVIANE</speaker>
-              <l n="697" xml:id="l697" part="I">Vrayment vous m’<ref target="#obliger">obligez*</ref>.</l>
+              <l n="697" xml:id="l697" part="I">Vrayment vous m’<ref target="#obliger">obligez</ref>.</l>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
               <l part="F">Ha ! n’en croyez pas tant.</l>
             </sp>
             <sp who="tersandre">
-              <speaker>TERSANDRE, <hi rend="i">à Clymene.</hi></speaker>
+              <speaker>TERSANDRE, </speaker><stage>à Clymene.</stage>
               <l n="698" xml:id="l698" part="I">Elle est auprés du lit.</l>
             </sp>
             <sp who="clymene">
-              <speaker>CLYMENE, <hi rend="i">sortant.</hi></speaker>
+              <speaker>CLYMENE, </speaker><stage>sortant.</stage>
               <l part="F">Je l’apporte à l’instant.</l>
             </sp>
             <sp who="flaviane">
-              <speaker >FLAVIANE<pb n="51" xml:id="p51"/></speaker>
+              <speaker>FLAVIANE<pb n="51" xml:id="p51"/></speaker>
               <l n="699" xml:id="l699">Je n’espere pas moins que de rares merveilles.</l>
             </sp>
             <sp who="tersandre">
@@ -2330,7 +2327,7 @@ Avec privilège du Roi</bibl>
               <l n="700" xml:id="l700">Il sçait l’Art de ravir le cœur par les oreilles.</l>
             </sp>
             <sp who="flaviane">
-              <speaker>FLAVIANE<hi rend="i">, à part.</hi></speaker>
+              <speaker>FLAVIANE</speaker><stage>, à part.</stage>
               <l n="701" xml:id="l701">Ses yeux mieux que sa voix me l’ont desja ravy,</l>
               <l n="702" xml:id="l702">Et dessous leur pouvoir il se trouve asservy :</l>
               <stage>Elle voit Clymene qui rentre avec la guiterre.</stage>
@@ -2341,7 +2338,7 @@ Avec privilège du Roi</bibl>
               <l n="706" xml:id="l706">Et par ce doux concert nous combler de plaisirs.</l>
             </sp>
             <sp who="claironde">
-              <speaker>FLORIDAN, <hi rend="i">la prenant.</hi></speaker>
+              <speaker>FLORIDAN, </speaker><stage>la prenant.</stage>
               <l n="707" xml:id="l707">Je serois vain, Madame, autant que temeraire,</l>
               <l n="708" xml:id="l708">Si j’osois aspirer à l’honneur de vous plaire :</l>
               <l n="709" xml:id="l709">Mais je seray content, et plus que satisfait,</l>
@@ -2362,7 +2359,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="clymene">
               <speaker>CLYMENE</speaker>
-              <l n="717" xml:id="l717" part="I">O Dieux ! Je suis <ref target="#charmer">charmée*</ref>.</l>
+              <l n="717" xml:id="l717" part="I">O Dieux ! Je suis <ref target="#charmer">charmée</ref>.</l>
             </sp>
             <sp who="flaviane">
               <speaker>FLAVIANE</speaker>
@@ -2392,7 +2389,7 @@ Avec privilège du Roi</bibl>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
               <l n="726" xml:id="l726">Vous avez trop de soin pour qui ne le vaut pas.</l>
-              <label>Fin du second Acte.</label>
+              <trailer>Fin du second Acte.</trailer>
             </sp>
           </div>
         </div>
@@ -2402,7 +2399,7 @@ Avec privilège du Roi</bibl>
           <div type="scene">
             <head>Scène première.</head>
             <sp who="claironde">
-              <speaker>FLORIDAN<hi rend="i">, seule dans une chambre, sortant de dessus un lit.</hi></speaker>
+              <speaker>FLORIDAN</speaker><stage>, seule dans une chambre, sortant de dessus un lit.</stage>
               <l n="727" xml:id="l727">Puissant Dieu du Sommeil, en vain tu veux m’abattre,</l>
               <l n="728" xml:id="l728">Je ne sçaurois dormir lors que je doy combattre ;</l>
               <l n="729" xml:id="l729">Mars me donne un employ meilleur que ton repos,</l>
@@ -2410,7 +2407,7 @@ Avec privilège du Roi</bibl>
               <l n="731" xml:id="l731">Il faut vaincre ou mourir où ce Dieu nous appelle,</l>
               <l n="732" xml:id="l732">Nostre mort en ce lieu ne peut estre que belle ;</l>
               <l n="733" xml:id="l733">Et si mon bras terrace un Barbare amoureux,</l>
-              <l n="734" xml:id="l734">On parlera par tout de ce coup <ref target="#genereux">genereux*</ref>.</l>
+              <l n="734" xml:id="l734">On parlera par tout de ce coup <ref target="#genereux">genereux</ref>.</l>
               <l n="735" xml:id="l735">Ouy, les neveux<note place="bottom">« La postérité, ceux qui viendront après nous. » (A)</note> diront, apprenant mon histoire,<pb n="55" xml:id="p55"/></l>
               <l n="736" xml:id="l736">Elle estoit de son sexe, et l’honneur et la gloire.</l>
               <l n="737" xml:id="l737">Mais, lasches sentimens d’un amour aveuglé,</l>
@@ -2441,7 +2438,7 @@ Avec privilège du Roi</bibl>
               <l n="762" xml:id="l762">Ce que trois assassins auroient sans toy commis.</l>
               <l n="763" xml:id="l763">Qu’il meure, ce Barbare, ennemy de ma joye,<pb n="56" xml:id="p56"/></l>
               <l n="764" xml:id="l764">Il faut que dans son sang mon déplaisir se noye ;</l>
-              <l n="765" xml:id="l765">Tu sçais depuis long temps ce mestier <ref target="#genereux">genereux*</ref>,</l>
+              <l n="765" xml:id="l765">Tu sçais depuis long temps ce mestier <ref target="#genereux">genereux</ref>,</l>
               <l n="766" xml:id="l766">Et que tes moindres coups sont tousjours dangereux.</l>
               <l n="767" xml:id="l767">Mais j’apperçoy desja ce superbe Aversaire,</l>
               <l n="768" xml:id="l768">En faveur de l’Enfant dont tu cheris la Mere.</l>
@@ -2465,7 +2462,7 @@ Avec privilège du Roi</bibl>
               <l n="773" xml:id="l773">Ces Complimens à part, voyons à qui le sort</l>
               <l n="774" xml:id="l774">Dans ce duel égal a preparé la mort.</l>
               <stage>Alcinor tombe par hasard au premier coup qu’il porte, et Floridan le désarme.</stage>
-              <l n="775" xml:id="l775">Hé bien, mon <ref target="#cavalier">Cavalier*</ref>, en l’estat où vous estes, 775</l>
+              <l n="775" xml:id="l775">Hé bien, mon <ref target="#cavalier">Cavalier</ref>, en l’estat où vous estes, 775</l>
               <l n="776" xml:id="l776">Approuvez-vous encor le combat que vous faites ?</l>
               <l n="777" xml:id="l777">Soustenez vous Claironde, et son mauvais party ? <pb n="H, 57"/></l>
             </sp>
@@ -2481,7 +2478,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
-              <l n="785" xml:id="l785">Amant trop <ref target="#genereux">genereux*</ref>, vôtre insigne<note place="bottom">« Remarquable, excellent, qui se fait distinguer de ses semblables. Il se dit tant en bonne qu’en mauvaise part. » (F) Voir aussi v. 1098.</note> vertu785</l>
+              <l n="785" xml:id="l785">Amant trop <ref target="#genereux">genereux</ref>, vôtre insigne<note place="bottom">« Remarquable, excellent, qui se fait distinguer de ses semblables. Il se dit tant en bonne qu’en mauvaise part. » (F) Voir aussi v. 1098.</note> vertu785</l>
               <l n="786" xml:id="l786">Releve hautement vôtre corps abbatu ;</l>
               <l n="787" xml:id="l787">Et je voudrois plûtost, d’une belle esperance,</l>
               <l n="788" xml:id="l788">Pouvoir favoriser cette perseverance.</l>
@@ -2500,11 +2497,11 @@ Avec privilège du Roi</bibl>
               <l n="795" xml:id="l795">Et c’est une faveur dont mon coeur vous conjure.795<pb n="58" xml:id="p58"/></l>
             </sp>
             <sp who="alcinor">
-              <speaker>ALCINOR, <hi rend="i">sortant</hi></speaker>
+              <speaker>ALCINOR, </speaker><stage>sortant</stage>
               <l n="796" xml:id="l796">Ouy, j’irai reparer une si lasche injure.</l>
             </sp>
             <sp who="claironde">
-              <speaker>FLORIDAN, <hi rend="i">seule</hi>.</speaker>
+              <speaker>FLORIDAN, </speaker><stage>seule</stage>
               <l n="797" xml:id="l797">De quelle fermeté ne me puy-je vanter,</l>
               <l n="798" xml:id="l798">Si l’extréme peril n’a sçû m’épouvanter ?</l>
               <l n="799" xml:id="l799">Aussi l’heureux succés<note place="bottom">Phrase suspendue. On mettrait aujourd’hui des points de suspension.</note>. Mais, voy-je pas Lucine ?</l>
@@ -2520,18 +2517,18 @@ Avec privilège du Roi</bibl>
               <l n="801" xml:id="l801">D’un secret sentiment mon esprit agité,</l>
               <l n="802" xml:id="l802">Me fait croire le coup dont il s’estoit douté.</l>
               <l n="803" xml:id="l803">Ce n’est pas sans dessein que Claironde est sortie,</l>
-              <l n="804" xml:id="l804">De l’<ref target="#humeur">humeur*</ref> dont elle est, sans m’avoir avertie.</l>
+              <l n="804" xml:id="l804">De l’<ref target="#humeur">humeur</ref> dont elle est, sans m’avoir avertie.</l>
               <l n="805" xml:id="l805">Tout cela m’est suspect, et j’attens de ma peur805</l>
               <l n="806" xml:id="l806">Un effet que le Ciel vueille rendre trompeur.</l>
               <l n="807" xml:id="l807">Mais que fait ce guerrier dans cette solitude,<pb n="59" xml:id="p59"/></l>
               <l n="808" xml:id="l808">Seroit-ce point l’autheur de mon inquietude,</l>
-              <l n="809" xml:id="l809">Et de qui le <ref target="#cartel">Cartel*</ref> me cause tant d’<ref target="#ennuy">ennuy*</ref> ?</l>
+              <l n="809" xml:id="l809">Et de qui le <ref target="#cartel">Cartel</ref> me cause tant d’<ref target="#ennuy">ennuy</ref> ?</l>
               <l n="810" xml:id="l810">Approchons hardiment, et sçachons si c’est luy.810</l>
               <l n="811" xml:id="l811" part="I">Mon brave.</l>
             </sp>
             <sp who="claironde">
-              <speaker>FLORIDAN<hi rend="i">, levant la visiere.</hi></speaker>
-              <l part="M">>Que veux-tu ?</l>
+              <speaker>FLORIDAN</speaker><stage>, levant la visiere.</stage>
+              <l part="M">&gt;Que veux-tu ?</l>
             </sp>
             <sp who="lucine">
               <speaker>DORIMON</speaker>
@@ -2541,21 +2538,21 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
-              <l n="814" xml:id="l814">Vaincre, comme j’ay fait, ce temeraire <ref target="#amant">Amant*</ref>,</l>
+              <l n="814" xml:id="l814">Vaincre, comme j’ay fait, ce temeraire <ref target="#amant">Amant</ref>,</l>
               <l n="815" xml:id="l815">Apres une si belle, et si noble conqueste,815</l>
               <l n="816" xml:id="l816">As-tu là des Lauriers pour couronner ma teste !</l>
             </sp>
             <sp who="lucine">
               <speaker>DORIMON</speaker>
-              <l n="817" xml:id="l817">Pour bien recompenser cét acte <ref target="#genereux">genereux*</ref>,</l>
+              <l n="817" xml:id="l817">Pour bien recompenser cét acte <ref target="#genereux">genereux</ref>,</l>
               <l n="818" xml:id="l818">Il faut joindre aux Lauriers les Myrthes<note place="bottom">« Se prend figurément et poétiquement pour le symbole de l’amour. » (F) Le myrte était associée à Vénus dans l’Antiquité.</note> amoureux ;</l>
               <l n="819" xml:id="l819">Et que deux Deïtez secondent vôtre attente,</l>
-              <l n="820" xml:id="l820">Par le prix d’un Vainqueur, et celuy d’une <ref target="#amant">Amante*</ref>.</l>
+              <l n="820" xml:id="l820">Par le prix d’un Vainqueur, et celuy d’une <ref target="#amant">Amante</ref>.</l>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
               <l n="821" xml:id="l821">Tersandre mon espoir, je ne veux que ton coeur,</l>
-              <l n="822" xml:id="l822">Qu’il soit le prix d’<ref target="#amant">Amante*</ref>, et celuy de Vainqueur ;</l>
+              <l n="822" xml:id="l822">Qu’il soit le prix d’<ref target="#amant">Amante</ref>, et celuy de Vainqueur ;</l>
               <l n="823" xml:id="l823">Je croy que c’est un bien auquel je puis pretendre :<pb n="60" xml:id="p60"/></l>
               <l n="824" xml:id="l824">Est-il mieux dû qu’à moy qui viens de le deffendre ?</l>
             </sp>
@@ -2572,9 +2569,9 @@ Avec privilège du Roi</bibl>
               <speaker>DORIMON</speaker>
               <l n="828" xml:id="l828">Ne vous éloignez pas, il ne vous peut connestre ;</l>
               <l n="829" xml:id="l829">Et pour luy faire un tour dont il sera deçû,</l>
-              <l n="830" xml:id="l830">Donnez moy le <ref target="#cartel">Cartel*</ref> que vous avez reçû,830</l>
+              <l n="830" xml:id="l830">Donnez moy le <ref target="#cartel">Cartel</ref> que vous avez reçû,830</l>
               <l n="831" xml:id="l831">Aussi bien est-ce à luy que ce papier s’adresse.</l>
-              <stage>(Elle luy donne ce <ref target="#cartel">Cartel*</ref>, et se tire à l’écart.)</stage>
+              <stage>(Elle luy donne ce <ref target="#cartel">Cartel</ref>, et se tire à l’écart.)</stage>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
@@ -2603,11 +2600,11 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="lucine">
               <speaker>DORIMON</speaker>
-              <l n="837" xml:id="l837">Solitaire qu’il est, et d’<ref target="#humeur">humeur*</ref> à réver,</l>
+              <l n="837" xml:id="l837">Solitaire qu’il est, et d’<ref target="#humeur">humeur</ref> à réver,</l>
               <l n="838" xml:id="l838">Je croy que dans ce Parc nous le pourrions treuver,</l>
             </sp>
             <sp who="tersandre">
-              <speaker >TERSANDRE<pb n="62" xml:id="p62"/></speaker>
+              <speaker>TERSANDRE<pb n="62" xml:id="p62"/></speaker>
               <l n="839" xml:id="l839">J’approuve cét avis, allons-y donc ensemble.</l>
             </sp>
             <sp who="lucine">
@@ -2636,29 +2633,29 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
-              <l n="848" xml:id="l848">En vain vous me <ref target="#celer">celez*</ref> ce que je puis apprendre ;</l>
+              <l n="848" xml:id="l848">En vain vous me <ref target="#celer">celez</ref> ce que je puis apprendre ;</l>
               <l n="849" xml:id="l849">Ou dites-moy qui c’est, ou je le vay treuver.</l>
             </sp>
             <sp who="lucine">
-              <speaker >DORIMON<hi rend="i">, l’arrestant.</hi><pb n="63" xml:id="p63"/></speaker>
+              <speaker>DORIMON<pb n="63" xml:id="p63"/></speaker><stage>, l’arrestant.</stage>
               <l n="850" xml:id="l850">Vous jugez à peu prés ce qui doit arriver,850</l>
               <l n="851" xml:id="l851">Et puis qu’il faut icy vous declarer le reste ;</l>
               <l n="852" xml:id="l852">Vous le pourrez sçavoir de ce papier funeste,</l>
               <l n="853" xml:id="l853">Que je me suis chargé de vous faire tenir.</l>
             </sp>
             <sp who="tersandre">
-              <speaker>TERSANDRE<hi rend="i">, lit ce Cartel qui suit.</hi></speaker>
+              <speaker>TERSANDRE</speaker><stage>, lit ce Cartel qui suit.</stage>
               <l n="854" xml:id="l854">Apres avoir détruit une illustre famille,</l>
               <l n="855" xml:id="l855">Tu ne merites pas de respirer le jour ;855</l>
               <l n="856" xml:id="l856">Je viens te le ravir, pour vanger une Fille</l>
               <l n="857" xml:id="l857">Qui sera par ta mort le prix de mon Amour.</l>
             </sp>
             <sp who="tersandre">
-              <speaker>TERSANDRE, <hi rend="i">sortant.</hi></speaker>
+              <speaker>TERSANDRE, </speaker><stage>sortant.</stage>
               <l n="858" xml:id="l858">Qu’il attende un moment, je m’en vay revenir.</l>
             </sp>
             <sp who="claironde">
-              <speaker>FLORIDAN, <hi rend="i">à Dorimon.</hi></speaker>
+              <speaker>FLORIDAN, </speaker><stage>à Dorimon.</stage>
               <l n="859" xml:id="l859">Cours vîte l’arrester, et fay si bien en sorte</l>
               <l n="860" xml:id="l860">Que je puisse avant luy rentrer par l’autre porte ;</l>
               <l n="861" xml:id="l861">Ce harnois, dont sans doute il se sert aux combats,</l>
@@ -2688,9 +2685,9 @@ Avec privilège du Roi</bibl>
               <l n="878" xml:id="l878">Choisissons pour amy son ennemy mortel ;</l>
               <l n="879" xml:id="l879">Aussi bien j’ay promis de luy rendre Visite,</l>
               <l n="880" xml:id="l880">C’est le moins que je doive à son rare merite.</l>
-              <l n="881" xml:id="l881">Dieux, qu’est-ce que je voy ! Si mon œil n’est charmé*,<pb n="I, 65"/></l>
+              <l n="881" xml:id="l881">Dieux, qu’est-ce que je voy ! Si mon œil n’est charmé,<pb n="I, 65"/></l>
               <l n="882" xml:id="l882">C’est luy mesme ; d’où vient qu’il est encore armé ?</l>
-              <l n="883" xml:id="l883">Sans doute un autre <ref target="#amant">Amant*</ref> l’oblige à se deffendre.</l>
+              <l n="883" xml:id="l883">Sans doute un autre <ref target="#amant">Amant</ref> l’oblige à se deffendre.</l>
               <l n="884" xml:id="l884" part="I">Offrons luy nostre bras.</l>
             </sp>
           </div>
@@ -2704,24 +2701,24 @@ Avec privilège du Roi</bibl>
               <l n="886" xml:id="l886">Pour repousser l’effort de cét Hydre inhumain ?</l>
             </sp>
             <sp who="tersandre">
-              <speaker > TERSANDRE<hi rend="i">, croyant parler à Meliarque.</hi></speaker>
+              <speaker> TERSANDRE</speaker><stage>, croyant parler à Meliarque.</stage>
               <l n="887" xml:id="l887">Amy, c’est à ce coup qu’éclatera ma rage,</l>
               <l n="888" xml:id="l888">Et que ma cruauté passera mon courage,</l>
-              <l n="889" xml:id="l889">Afin que desormais ces <ref target="#amant">Amans*</ref> refroidis,</l>
+              <l n="889" xml:id="l889">Afin que desormais ces <ref target="#amant">Amans</ref> refroidis,</l>
               <l n="890" xml:id="l890">A venir m’attaquer ne soient plus si hardis ;</l>
               <l n="891" xml:id="l891">J’assure mon repos par ce coup necessaire.</l>
             </sp>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
-              <l n="892" xml:id="l892">Pour moy de son <ref target="#amant">Amant*</ref> je deviens aversaire ;</l>
+              <l n="892" xml:id="l892">Pour moy de son <ref target="#amant">Amant</ref> je deviens aversaire ;</l>
               <l n="893" xml:id="l893">Et pour vous tesmoigner que je dis verité,<pb n="66"/></l>
-              <l n="894" xml:id="l894">Je m’offre pour <ref target="#second">second*</ref> contre cette Beauté.</l>
+              <l n="894" xml:id="l894">Je m’offre pour <ref target="#second">second</ref> contre cette Beauté.</l>
             </sp>
             <sp who="tersandre">
-              <speaker>TERSANDRE, <hi rend="i">levant la visiere.</hi></speaker>
-              <l n="895" xml:id="l895">Quel <ref target="#estrange2">estrange*</ref> discours a frappé mes oreilles ?</l>
+              <speaker>TERSANDRE, </speaker><stage>levant la visiere.</stage>
+              <l n="895" xml:id="l895">Quel <ref target="#estrange2">estrange</ref> discours a frappé mes oreilles ?</l>
               <l n="896" xml:id="l896">N’est-ce point le sommeil qui produit ces merveilles ?</l>
-              <l n="897" xml:id="l897">Vous, l’<ref target="#amant">Amant*</ref> de Claironde ; est-ce vous que l’Amour</l>
+              <l n="897" xml:id="l897">Vous, l’<ref target="#amant">Amant</ref> de Claironde ; est-ce vous que l’Amour</l>
               <l n="898" xml:id="l898">Avoit conduit icy pour me ravir le jour ?</l>
               <l n="899" xml:id="l899">Qui vous estes servy pour faire ce message,</l>
               <l n="900" xml:id="l900">D’un jeune Gentil-homme assez beau de visage ?</l>
@@ -2753,10 +2750,10 @@ Avec privilège du Roi</bibl>
               <speaker>ALCINOR</speaker>
               <l part="F">Ha, quelqu’un nous abuse :</l>
               <l n="912" xml:id="l912">Mais je sçay le moyen de descouvrir sa ruse.</l>
-              <l n="913" xml:id="l913">Voyons si le <ref target="#cartel">Cartel*</ref> est écrit de ma main.</l>
+              <l n="913" xml:id="l913">Voyons si le <ref target="#cartel">Cartel</ref> est écrit de ma main.</l>
             </sp>
             <sp who="tersandre">
-              <speaker>TERSANDRE, <hi rend="i">luy donne à lire.</hi></speaker>
+              <speaker>TERSANDRE, </speaker><stage>luy donne à lire.</stage>
               <l n="914" xml:id="l914">L’Autheur avoit l’Amour et la vangeance au sein ;</l>
               <l n="915" xml:id="l915">Voyez si je me trompe, et si ces Caracteres</l>
               <l n="916" xml:id="l916">A vos sens ébaïs passeront pour chimeres.</l>
@@ -2770,7 +2767,7 @@ Avec privilège du Roi</bibl>
               <speaker>TERSANDRE</speaker>
               <l n="919" xml:id="l919">Ce qui devoit servir à dissiper l’ombrage,</l>
               <l n="920" xml:id="l920">Nous cache plus la chose, et broüille davantage ;</l>
-              <l n="921" xml:id="l921">Pourtant, il n’en faut pas <ref target="#demeurer">demeurer*</ref> à ce point.</l>
+              <l n="921" xml:id="l921">Pourtant, il n’en faut pas <ref target="#demeurer">demeurer</ref> à ce point.</l>
               <l n="922" xml:id="l922">Nous sommes trop avant pour ne poursuivre point</l>
               <l n="923" xml:id="l923">Celuy qui dit de vous avoir pris cette Lettre,</l>
               <l n="924" xml:id="l924">Croyez vous que vos yeux le peussent reconnoistre ?</l>
@@ -2786,7 +2783,7 @@ Avec privilège du Roi</bibl>
               <l n="928" xml:id="l928">Qui nous pourroit causer beaucoup d’inquietude ;</l>
               <l n="929" xml:id="l929">Faites moy la faveur de venir avec moy,</l>
               <l n="930" xml:id="l930">Nous serons éclaircis à ce que je prévoy.</l>
-              <label>Fin du troisiesme Acte.</label>
+              <trailer>Fin du troisiesme Acte.</trailer>
             </sp>
           </div>
         </div>
@@ -2839,7 +2836,7 @@ Avec privilège du Roi</bibl>
               <l n="947" xml:id="l947">Ouy, car dans ce duel tu n’avois rien à craindre.</l>
             </sp>
             <sp who="lucine">
-              <speaker >DORIMON<pb n="71" xml:id="p71"/></speaker>
+              <speaker>DORIMON<pb n="71" xml:id="p71"/></speaker>
               <l n="948" xml:id="l948">N’estoit-ce pas assez puisque j’avois à feindre.</l>
             </sp>
             <sp who="claironde">
@@ -2871,7 +2868,7 @@ Avec privilège du Roi</bibl>
               <l n="964" xml:id="l964">Parle confidamment de l’ardeur qui la presse,</l>
               <l n="965" xml:id="l965">Et qui par son moyen espere du secours ;965<pb n="72" xml:id="p72"/></l>
               <l n="966" xml:id="l966">C’est à vous maintenant que nous avons recours,</l>
-              <l n="967" xml:id="l967">Traitez plus doucement une si belle <ref target="#amant">Amante*</ref>.</l>
+              <l n="967" xml:id="l967">Traitez plus doucement une si belle <ref target="#amant">Amante</ref>.</l>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
@@ -2925,14 +2922,14 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="flaviane">
               <speaker>FLAVIANE</speaker>
-              <l part="F">J’ay vû mon frere avec un <ref target="#cavalier">Cavalier*</ref>,</l>
+              <l part="F">J’ay vû mon frere avec un <ref target="#cavalier">Cavalier</ref>,</l>
               <l n="983" xml:id="l983">De qui le procédé m’est de mauvais augure.<pb n="74" xml:id="p74"/></l>
             </sp>
             <sp who="clymene">
               <speaker>CLYMENE</speaker>
               <l n="984" xml:id="l984">C’est trop s’épouvanter sur une conjecture,</l>
               <l n="985" xml:id="l985">Peut-estre est-ce quelqu’un qui cherche avecque luy985</l>
-              <l n="986" xml:id="l986">Le moyen de finir ses maux, et vostre <ref target="#ennui">ennuy*</ref>,</l>
+              <l n="986" xml:id="l986">Le moyen de finir ses maux, et vostre <ref target="#ennui">ennuy</ref>,</l>
               <l n="987" xml:id="l987">Et l’accueil qu’ils se font m’est un meilleur presage.</l>
             </sp>
             <sp who="claironde">
@@ -2943,12 +2940,12 @@ Avec privilège du Roi</bibl>
               <l n="991" xml:id="l991">Ainsi leur bon accueil ne détruit pas ma crainte.</l>
             </sp>
             <sp who="lucine">
-              <speaker>DORIMON<hi rend="i">, bas.</hi></speaker>
+              <speaker>DORIMON</speaker><stage>, bas.</stage>
               <l n="992" xml:id="l992">Allez flatter le mal dont son ame est atteinte.</l>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
-              <l n="993" xml:id="l993">Allons, et paroissons moins <ref target="#charmeur">charmeurs*</ref> que <ref target="#charmer">charmez*</ref>.</l>
+              <l n="993" xml:id="l993">Allons, et paroissons moins <ref target="#charmeur">charmeurs</ref> que <ref target="#charmer">charmez</ref>.</l>
             </sp>
             <sp who="clymene">
               <speaker>CLYMENE</speaker>
@@ -2960,7 +2957,7 @@ Avec privilège du Roi</bibl>
               <l n="996" xml:id="l996">Quel Destin favorable en ce lieu nous ameine ?</l>
             </sp>
             <sp who="flaviane">
-              <speaker >FLAVIANE</speaker><pb n="75" xml:id="p75"/>
+              <speaker>FLAVIANE</speaker><pb n="75" xml:id="p75"/>
               <l n="997" xml:id="l997">Le bien de ce rencontre<note place="bottom">Voir la note du v. 281.</note> est pour nous seulement.</l>
             </sp>
             <sp who="claironde">
@@ -2980,7 +2977,7 @@ Avec privilège du Roi</bibl>
               <l n="1006" xml:id="l1006">Je deusse vous cacher l’excés de mon tourment ;</l>
               <l n="1007" xml:id="l1007">Si ne puy-je pourtant que je ne vous declare</l>
               <l n="1008" xml:id="l1008">La crainte que me donne une fille barbare,</l>
-              <l n="1009" xml:id="l1009">Dont les lasches <ref target="#amant">Amans*</ref> se font, pour sa beauté,</l>
+              <l n="1009" xml:id="l1009">Dont les lasches <ref target="#amant">Amans</ref> se font, pour sa beauté,</l>
               <l n="1010" xml:id="l1010">Ministres de sa rage, et de sa cruauté.</l>
             </sp>
             <sp who="claironde">
@@ -2990,16 +2987,16 @@ Avec privilège du Roi</bibl>
               <l n="1013" xml:id="l1013">Commandez seulement que je l’aille étouffer.</l>
             </sp>
             <sp who="flaviane">
-              <speaker > FLAVIANE<pb n="76" xml:id="p76"/></speaker>
+              <speaker> FLAVIANE<pb n="76" xml:id="p76"/></speaker>
               <l n="1014" xml:id="l1014">Elle en veut bien à moy cette peste d’Enfer,</l>
               <l n="1015" xml:id="l1015">Puisque faisant mon frere objet de leur conqueste,</l>
-              <l n="1016" xml:id="l1016">Au bout d’un <ref target="#fer">fer*</ref> sanglant elle veut voir sa teste :</l>
+              <l n="1016" xml:id="l1016">Au bout d’un <ref target="#fer">fer</ref> sanglant elle veut voir sa teste :</l>
               <l n="1017" xml:id="l1017">Mais traistre, si tu viens seconder son dessein,</l>
               <l n="1018" xml:id="l1018">Je jure de te mettre un poignard dans le sein,</l>
               <l n="1019" xml:id="l1019">En deussay-je mourir, nous perirons ensemble ;</l>
               <l n="1020" xml:id="l1020">Et si là bas encor le Destin nous assemble,</l>
               <l n="1021" xml:id="l1021">Mon ombre furieuse au milieu des Enfers</l>
-              <l n="1022" xml:id="l1022">Te tourmentera plus que les feux et les <ref target="#fer">fers*</ref>.</l>
+              <l n="1022" xml:id="l1022">Te tourmentera plus que les feux et les <ref target="#fer">fers</ref>.</l>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
@@ -3020,7 +3017,7 @@ Avec privilège du Roi</bibl>
               <l n="1030" xml:id="l1030">Et s’il n’arrive ainsi ne m’estimez jamais.</l>
             </sp>
             <sp who="flaviane">
-              <speaker > FLAVIANE<pb n="77" xml:id="p77"/></speaker>
+              <speaker> FLAVIANE<pb n="77" xml:id="p77"/></speaker>
               <l n="1031" xml:id="l1031">Tygresse qui ne vis que de fiel et d’envie,</l>
               <l n="1032" xml:id="l1032">Donques tant de combats ne t’ont point assouvie ?</l>
               <l n="1033" xml:id="l1033">Donques l’ardante soif qui te brule le coeur</l>
@@ -3036,7 +3033,7 @@ Avec privilège du Roi</bibl>
               <l n="1043" xml:id="l1043">Mais sçaches que l’effet de ce vœu sanguinaire</l>
               <l n="1044" xml:id="l1044">Te coustera la vie aussi tost qu’à mon frere :</l>
               <l n="1045" xml:id="l1045">Ouy, ne te promets pas de survivre<note place="bottom">Le verbe était encore transitif au <num>xvii<hi rend="sup">e</hi></num> siècle mais ne l’est plus aujourd’hui.</note> un moment</l>
-              <l n="1046" xml:id="l1046">Celuy que ta <ref target="#fureur">fureur*</ref> veut mettre au monument,</l>
+              <l n="1046" xml:id="l1046">Celuy que ta <ref target="#fureur">fureur</ref> veut mettre au monument,</l>
               <l n="1047" xml:id="l1047">Un mortel ennemy te reste en ma personne,</l>
               <l n="1048" xml:id="l1048">Et pour te déchirer je deviendray Lionne :</l>
               <l n="1049" xml:id="l1049">Monte pour te sauver dedans le Firmament,</l>
@@ -3051,8 +3048,8 @@ Avec privilège du Roi</bibl>
               <l n="1058" xml:id="l1058">Tu ne peux eviter le supplice ou la mort.</l>
             </sp>
             <sp who="claironde">
-              <speaker>FLORIDAN, <hi rend="i">bas à l’écart.</hi></speaker>
-              <l n="1059" xml:id="l1059">Ressentimens, courroux, <ref target="#transport">transports*</ref>, <ref target="#fureur">fureurs*</ref>, audace,</l>
+              <speaker>FLORIDAN, </speaker><stage>bas à l’écart.</stage>
+              <l n="1059" xml:id="l1059">Ressentimens, courroux, <ref target="#transport">transports</ref>, <ref target="#fureur">fureurs</ref>, audace,</l>
               <l n="1060" xml:id="l1060">Faisons la repentir de sa fiere menace :</l>
               <l n="1061" xml:id="l1061">Mais le coup de sa mort me perd en la perdant ;</l>
               <l n="1062" xml:id="l1062">Amour console moy dans ce triste accident.</l>
@@ -3064,14 +3061,14 @@ Avec privilège du Roi</bibl>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
               <l part="F">Madame, c’est Tersandre</l>
-              <l n="1064" xml:id="l1064">Avec ce <ref target="#cavalier">Cavalier*</ref>: mais laissons nous surprendre.</l>
+              <l n="1064" xml:id="l1064">Avec ce <ref target="#cavalier">Cavalier</ref>: mais laissons nous surprendre.</l>
             </sp>
           </div>
           <div type="scene">
             <head>Scène III.</head><pb n="79" xml:id="p79"/>
             <stage>TERSANDRE, ALCINOR, FLORIDAN, FLAVIANE.</stage>
             <sp who="alcinor">
-              <speaker>ALCINOR, <hi rend="i">reconnessant Floridan.</hi></speaker>
+              <speaker>ALCINOR, </speaker><stage>reconnessant Floridan.</stage>
               <l n="1065" xml:id="l1065">Enfin nostre bon-heur nous le fait rencontrer.</l>
             </sp>
             <sp who="tersandre">
@@ -3082,7 +3079,7 @@ Avec privilège du Roi</bibl>
               <speaker>ALCINOR</speaker>
               <l n="1067" xml:id="l1067">C’est luy mesme pourtant, si mon œil ne s’abuse,</l>
               <l n="1068" xml:id="l1068">Qui peut rendre le jour à mon ame confuse,</l>
-              <l n="1069" xml:id="l1069">Et nous tirer tous deux d’un extréme <ref target="#soucy">soucy*</ref>,</l>
+              <l n="1069" xml:id="l1069">Et nous tirer tous deux d’un extréme <ref target="#soucy">soucy</ref>,</l>
               <l n="1070" xml:id="l1070">Ayant reçeu de moy le papier que voicy.</l>
             </sp>
             <sp who="tersandre">
@@ -3093,7 +3090,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
-              <l n="1074" xml:id="l1074">Luy mesme s’est offert à porter le <ref target="#cartel">Cartel*</ref>.</l>
+              <l n="1074" xml:id="l1074">Luy mesme s’est offert à porter le <ref target="#cartel">Cartel</ref>.</l>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
@@ -3110,7 +3107,7 @@ Avec privilège du Roi</bibl>
               <speaker>TERSANDRE</speaker>
               <l n="1080" xml:id="l1080">Nous apprendre une chose incertaine et douteuse,</l>
               <l n="1081" xml:id="l1081">Qui nous couste desja tant de pas et de vœux,</l>
-              <l n="1082" xml:id="l1082">Est en quoy vous pouvez nous <ref target="#obliger">obliger*</ref> tous deux.</l>
+              <l n="1082" xml:id="l1082">Est en quoy vous pouvez nous <ref target="#obliger">obliger</ref> tous deux.</l>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
@@ -3119,7 +3116,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
-              <l n="1085" xml:id="l1085">Apres avoir tiré d’un effort <ref target="#genereux">genereux*</ref></l>
+              <l n="1085" xml:id="l1085">Apres avoir tiré d’un effort <ref target="#genereux">genereux</ref></l>
               <l n="1086" xml:id="l1086">D’entre trois assassins ce guerrier valeureux,</l>
               <l n="1087" xml:id="l1087">Vous ayant declaré qu’un dessein de vangeance</l>
               <l n="1088" xml:id="l1088">L’obligeoit à me voir armé pour ma deffence ;</l>
@@ -3186,7 +3183,7 @@ Avec privilège du Roi</bibl>
               <l n="1118" xml:id="l1118">Pouvoient de cette peur delivrer mon esprit ;</l>
               <l n="1119" xml:id="l1119">Aussi ne croyez pas que pour vostre deffence,</l>
               <l n="1120" xml:id="l1120">Je me sentisse atteint de cette défiance ;</l>
-              <l n="1121" xml:id="l1121">Plutost j’avois dépit que ce nouvel <ref target="#amant">Amant*</ref></l>
+              <l n="1121" xml:id="l1121">Plutost j’avois dépit que ce nouvel <ref target="#amant">Amant</ref></l>
               <l n="1122" xml:id="l1122">Osa vous attaquer si fort insolamment ;</l>
               <l n="1123" xml:id="l1123">Et pour mettre un obstacle à sa funeste envie,<pb n="83" xml:id="p83"/></l>
               <l n="1124" xml:id="l1124">J’exposerois encore, et mon sang et ma vie :</l>
@@ -3195,7 +3192,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
-              <l n="1127" xml:id="l1127">Ce <ref target="#genereux">genereux*</ref> discours ne sert qu’à me confondre.</l>
+              <l n="1127" xml:id="l1127">Ce <ref target="#genereux">genereux</ref> discours ne sert qu’à me confondre.</l>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
@@ -3217,7 +3214,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
-              <l n="1137" xml:id="l1137">Et moy que par deux fois vous avez obligé*</l>
+              <l n="1137" xml:id="l1137">Et moy que par deux fois vous avez obligé</l>
               <l n="1138" xml:id="l1138">Dans le peril de mort où j’estois engagé,</l>
               <l n="1139" xml:id="l1139">Quels devoirs assez grands faut-il que je vous rende,<pb n="84" xml:id="p84"/></l>
               <l n="1140" xml:id="l1140">Qui puissent m’acquitter d’une faveur si grande ?</l>
@@ -3251,14 +3248,14 @@ Avec privilège du Roi</bibl>
               <l n="1156" xml:id="l1156">Que je suis quelque Dieu puis qu’un Ange me louë.</l>
             </sp>
             <sp who="flaviane">
-              <speaker > FLAVIANE<pb n="85" xml:id="p85"/></speaker>
+              <speaker> FLAVIANE<pb n="85" xml:id="p85"/></speaker>
               <l n="1157" xml:id="l1157">Vrayment voila railler<note place="bottom">« Badiner, ne parler pas sérieusement. » (A)</note> avec tant de douceur</l>
               <l n="1158" xml:id="l1158">Qu’on ne se peut fascher contre un si beau gausseur ;</l>
               <l n="1159" xml:id="l1159">Espargnez, toutefois, celle qui vous estime,</l>
               <l n="1160" xml:id="l1160">Et ne me flattez point d’un titre illegitime.</l>
             </sp>
             <sp who="alcinor">
-              <speaker>ALCINOR, <hi rend="i">devenu amoureux de Flaviane.</hi></speaker>
+              <speaker>ALCINOR, </speaker><stage>devenu amoureux de Flaviane.</stage>
               <l n="1161" xml:id="l1161">Si les puissans attraits d’une rare Beauté</l>
               <l n="1162" xml:id="l1162">Eslevent à l’honneur de cette dignité,</l>
               <l n="1163" xml:id="l1163">Ce n’est pas vous flatter d’une injuste loüange,</l>
@@ -3266,20 +3263,20 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="flaviane">
               <speaker>FLAVIANE</speaker>
-              <l n="1165" xml:id="l1165">Si la fiere Beauté, dont le <ref target="#charme">charme*</ref> vainqueur</l>
+              <l n="1165" xml:id="l1165">Si la fiere Beauté, dont le <ref target="#charme">charme</ref> vainqueur</l>
               <l n="1166" xml:id="l1166">Vous a troublé les sens, vous a ravy le coeur,</l>
               <l n="1167" xml:id="l1167">Oyoit vostre discours si plein de courtoisie,</l>
               <l n="1168" xml:id="l1168">Elle auroit bien sujet d’entrer en jalousie.</l>
             </sp>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
-              <l n="1169" xml:id="l1169">L’adorable Beauté, dont le <ref target="#charme">charme*</ref> vainqueur</l>
-              <l n="1170" xml:id="l1170">A mes sens <ref target="#enchanter">enchantez*</ref>, et m’a ravy le coeur,</l>
+              <l n="1169" xml:id="l1169">L’adorable Beauté, dont le <ref target="#charme">charme</ref> vainqueur</l>
+              <l n="1170" xml:id="l1170">A mes sens <ref target="#enchanter">enchantez</ref>, et m’a ravy le coeur,</l>
               <l n="1171" xml:id="l1171">M’écoute proferer ce discours veritable,</l>
               <l n="1172" xml:id="l1172">Et ne s’en fasche point le jugeant équitable.</l>
             </sp>
             <sp who="claironde">
-              <speaker>FLORIDAN, <hi rend="i">bas à l’écart.</hi><pb n="86" xml:id="p86"/></speaker>
+              <speaker>FLORIDAN, <pb n="86" xml:id="p86"/></speaker><stage>bas à l’écart.</stage>
               <l n="1173" xml:id="l1173">Sortons, cét équivoque est par trop hazardeux,</l>
               <l n="1174" xml:id="l1174">Laissons-les quelque temps s’entretenir tous deux.</l>
               <stage>Elle dit ce Vers bas à Tersandre qui se retire avec elle, sans que les autres s’en apperçoivent.</stage>
@@ -3306,7 +3303,7 @@ Avec privilège du Roi</bibl>
               <speaker>ALCINOR</speaker>
               <l part="F">Et moy, de vous, Madame,</l>
               <l n="1180" xml:id="l1180">Qui seule absolument regnez dedans mon ame.</l>
-              <l n="1181" xml:id="l1181">Pardonnez ces <ref target="#transport">transports*</ref> à ma sainte amitié*,</l>
+              <l n="1181" xml:id="l1181">Pardonnez ces <ref target="#transport">transports</ref> à ma sainte amitié,</l>
               <l n="1182" xml:id="l1182">Et rendez vous sensible aux traits de la pitié ;</l>
               <l n="1183" xml:id="l1183">Je sçay que j’ay failly dans le dessein barbare,<pb n="87" xml:id="p87"/></l>
               <l n="1184" xml:id="l1184">Qui m’a fait attaquer une vertu si rare :</l>
@@ -3315,12 +3312,12 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="flaviane">
               <speaker>FLAVIANE</speaker>
-              <l n="1187" xml:id="l1187" part="I">Vous m’<ref target="#obliger">obligez*</ref> beaucoup.</l>
+              <l n="1187" xml:id="l1187" part="I">Vous m’<ref target="#obliger">obligez</ref> beaucoup.</l>
             </sp>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
               <l part="F">Que ne vous ay-je veuë</l>
-              <l n="1188" xml:id="l1188">Avec tous ces <ref target="#appas">appas*</ref> dont vous estes pourveuë ;</l>
+              <l n="1188" xml:id="l1188">Avec tous ces <ref target="#appas">appas</ref> dont vous estes pourveuë ;</l>
               <l n="1189" xml:id="l1189">Vous m’auriez fait tomber les armes de la main,</l>
               <l n="1190" xml:id="l1190">Et rompre au mesme instant ce projet inhumain.</l>
             </sp>
@@ -3347,7 +3344,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
-              <l n="1203" xml:id="l1203">Je n’en connois pas un qui <ref target="#charme">charme*</ref> mieux les ames,</l>
+              <l n="1203" xml:id="l1203">Je n’en connois pas un qui <ref target="#charme">charme</ref> mieux les ames,</l>
               <l n="1204" xml:id="l1204">Et les fasse languir en de plus douces flames.</l>
             </sp>
             <sp who="flaviane">
@@ -3371,7 +3368,7 @@ Avec privilège du Roi</bibl>
               <l n="1211" xml:id="l1211">Plus je suis avec vous, plus mon ame est ravie,</l>
               <l n="1212" xml:id="l1212">Et c’est en vous quittant que j’en ay plus d’envie :</l>
               <l n="1213" xml:id="l1213">Mais donnons quelque tréve à nos discours charmans,</l>
-              <l n="1214" xml:id="l1214">Pour regagner l’endroit où sont nos deux <ref target="#amant">Amans*</ref>.</l>
+              <l n="1214" xml:id="l1214">Pour regagner l’endroit où sont nos deux <ref target="#amant">Amans</ref>.</l>
             </sp>
             <sp who="clymene">
               <speaker>CLYMENE</speaker>
@@ -3392,7 +3389,7 @@ Avec privilège du Roi</bibl>
               <l n="1220" xml:id="l1220">L’heure n’est qu’un moment alors qu’ils sont ensemble.</l>
             </sp>
             <sp who="clymene">
-              <speaker >CLYMENE<pb n="90" xml:id="p90"/></speaker>
+              <speaker>CLYMENE<pb n="90" xml:id="p90"/></speaker>
               <l n="1221" xml:id="l1221">Il est vray, Dorimon, qu’estant avecque vous,</l>
               <l n="1222" xml:id="l1222" part="I">On ne peut s’ennuyer.</l>
             </sp>
@@ -3402,7 +3399,7 @@ Avec privilège du Roi</bibl>
               <l n="1223" xml:id="l1223">Et que je suis heureux qu’une si belle bouche</l>
               <l n="1224" xml:id="l1224">Allege quelquefois la douleur qui me touche.</l>
               <stage>Elle la baise.</stage>
-              <l n="1225" xml:id="l1225">Ma Reine, mon Soleil. Ha ! que je voy d’<ref target="#appas">appas*</ref></l>
+              <l n="1225" xml:id="l1225">Ma Reine, mon Soleil. Ha ! que je voy d’<ref target="#appas">appas</ref></l>
               <l n="1226" xml:id="l1226" part="I">Dans ces yeux plus brillans.</l>
             </sp>
             <sp who="clymene">
@@ -3413,7 +3410,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="lucine">
               <speaker>DORIMON</speaker>
-              <l n="1229" xml:id="l1229">J’obeïs, mon <ref target="#soucy">soucy*</ref> : Mais pourqyoy m’empescher</l>
+              <l n="1229" xml:id="l1229">J’obeïs, mon <ref target="#soucy">soucy</ref> : Mais pourqyoy m’empescher</l>
               <l n="1230" xml:id="l1230">De vanter un tresor que j’estime si cher ?</l>
             </sp>
             <sp who="clymene">
@@ -3457,7 +3454,7 @@ Avec privilège du Roi</bibl>
             <head>Scène VI.</head><pb n="92" xml:id="p92"/>
             <stage>MELIARQUE, DORIMON, CLYMENE.</stage>
             <sp who="meliarque">
-              <speaker>MELIARQUE, les voyant se baiser.</speaker>
+              <speaker>MELIARQUE,</speaker> <stage>les voyant se baiser.</stage>
               <l n="1245" xml:id="l1245">En fin je vous y prens, au milieu des plaisirs.</l>
             </sp>
             <sp who="lucine">
@@ -3467,7 +3464,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="meliarque">
               <speaker>MELIARQUE</speaker>
-              <l n="1248" xml:id="l1248">Il faut pour le present qu’elle soit <ref target="#divertir1">divertie*</ref>,</l>
+              <l n="1248" xml:id="l1248">Il faut pour le present qu’elle soit <ref target="#divertir1">divertie</ref>,</l>
               <l n="1249" xml:id="l1249">Flaviane au logis est en peine de vous.</l>
             </sp>
             <sp who="clymene">
@@ -3484,7 +3481,7 @@ Avec privilège du Roi</bibl>
               <speaker>CLYMENE</speaker>
               <l part="F"> L’effet me plaira mieux.</l>
               <l n="1254" xml:id="l1254">Allons, cher Dorimon, suivez nous envieux.</l>
-              <stage>Fin du quatriesme Acte.</stage>
+              <trailer>Fin du quatriesme Acte.</trailer>
             </sp>
           </div>
         </div>
@@ -3494,8 +3491,8 @@ Avec privilège du Roi</bibl>
           <div type="scene">
             <head>Scène première.</head>
             <sp who="diomede">
-              <speaker>DIOMEDE, <hi rend="i">seul.</hi></speaker>
-              <l n="1255" xml:id="l1255">Apres avoir cherché sur la Terre et sur l’<ref target="#onde">Onde*</ref>,</l>
+              <speaker>DIOMEDE, </speaker><stage>seul.</stage>
+              <l n="1255" xml:id="l1255">Apres avoir cherché sur la Terre et sur l’<ref target="#onde">Onde</ref>,</l>
               <l n="1256" xml:id="l1256">Où verray-je finir ma course vagabonde ?</l>
               <l n="1257" xml:id="l1257">Et quel antre écarté cache encore à mes yeux</l>
               <l n="1258" xml:id="l1258">Le sujet d’un voyage aussi long qu’ennuyeux ?</l>
@@ -3507,7 +3504,7 @@ Avec privilège du Roi</bibl>
               <l n="1264" xml:id="l1264">A quel Dieu desormais <pb n="faut"/>-il que je m’adresse ?</l>
               <l n="1265" xml:id="l1265">Ciel, termine aujourd’huy le mal-heur de mon sort,</l>
               <l n="1266" xml:id="l1266">Et me fais rencontrer, ou Claironde, ou la mort :</l>
-              <l n="1267" xml:id="l1267">Voicy deux <ref target="#cavaliers">Cavaliers*</ref>, tente encor la <ref target="#fortune">Fortune*</ref>,</l>
+              <l n="1267" xml:id="l1267">Voicy deux <ref target="#cavaliers">Cavaliers</ref>, tente encor la <ref target="#fortune">Fortune</ref>,</l>
               <l n="1268" xml:id="l1268">Ta demande, apres tout, ne peut estre importune.</l>
             </sp>
           </div>
@@ -3528,7 +3525,7 @@ Avec privilège du Roi</bibl>
               <l n="1272" xml:id="l1272">Dont le sujet me cause une peine tres-grande.</l>
             </sp>
             <sp who="tersandre">
-              <speaker > TERSANDRE<pb n="96" xml:id="p96"/></speaker>
+              <speaker> TERSANDRE<pb n="96" xml:id="p96"/></speaker>
               <l n="1273" xml:id="l1273">Dites ce que de nous vous desirez sçavoir,</l>
               <l n="1274" xml:id="l1274">Nous vous contenterons de tout nostre pouvoir.</l>
             </sp>
@@ -3562,10 +3559,10 @@ Avec privilège du Roi</bibl>
               <l n="1284" xml:id="l1284">Ce discours les rendroit plustost reconnessables.</l>
             </sp>
             <sp who="diomede">
-              <speaker >DIOMEDE[N, 97]</speaker>
-              <l n="1285" xml:id="l1285">Outre les dons du corps et les charmans <ref target="#appas">appas*</ref>,</l>
+              <speaker>DIOMEDE[N, 97]</speaker>
+              <l n="1285" xml:id="l1285">Outre les dons du corps et les charmans <ref target="#appas">appas</ref>,</l>
               <l n="1286" xml:id="l1286">Pour qui mille Guerriers ont souffert le trépas ;</l>
-              <l n="1287" xml:id="l1287">La plus belle des deux, <ref target="#charme">charme*</ref>, ravit, <ref target="#enchanter">enchante*</ref>,</l>
+              <l n="1287" xml:id="l1287">La plus belle des deux, <ref target="#charme">charme</ref>, ravit, <ref target="#enchanter">enchante</ref>,</l>
               <l n="1288" xml:id="l1288">Accordant la guiterre aux doux airs qu’elle chante.</l>
             </sp>
             <sp who="tersandre">
@@ -3578,7 +3575,7 @@ Avec privilège du Roi</bibl>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
-              <l n="1291" xml:id="l1291">Et moy, dans les <ref target="#transport">transports*</ref> de mon ame estonnée,</l>
+              <l n="1291" xml:id="l1291">Et moy, dans les <ref target="#transport">transports</ref> de mon ame estonnée,</l>
               <l n="1292" xml:id="l1292">Je ne sçay quel destin me parle d’Hymenée.</l>
             </sp>
             <sp who="meliarque">
@@ -3596,12 +3593,12 @@ Avec privilège du Roi</bibl>
               <l n="1296" xml:id="l1296">Et songez à finir vostre course incertaine.</l>
             </sp>
             <sp who="diomede">
-              <speaker > DIOMEDE<pb n="98" xml:id="p98"/></speaker>
+              <speaker> DIOMEDE<pb n="98" xml:id="p98"/></speaker>
               <l n="1297" xml:id="l1297">Quoy donc, m’assurez-vous qu’elles soient prés d’icy ?</l>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE</speaker>
-              <l n="1298" xml:id="l1298">Chassez de vostre esprit le doute et le <ref target="#soucy">soucy*</ref>,</l>
+              <l n="1298" xml:id="l1298">Chassez de vostre esprit le doute et le <ref target="#soucy">soucy</ref>,</l>
               <l n="1299" xml:id="l1299">Et tardez en ce lieu seulement un quart d’heure.</l>
             </sp>
             <sp who="meliarque">
@@ -3617,13 +3614,13 @@ Avec privilège du Roi</bibl>
           <div type="scene">
             <head>Scène III.</head>
             <sp who="diomede">
-              <speaker>DIOMEDE, <hi rend="i">seul.</hi></speaker>
+              <speaker>DIOMEDE, </speaker><stage>seul.</stage>
               <l n="1303" xml:id="l1303">O vous dont l’équité reigle icy toutes choses,</l>
-              <l n="1304" xml:id="l1304">Qui de nos <ref target="#soin">soins*</ref> piquans faites naistre des roses ;</l>
+              <l n="1304" xml:id="l1304">Qui de nos <ref target="#soin">soins</ref> piquans faites naistre des roses ;</l>
               <l n="1305" xml:id="l1305">Qui voulez qu’au travail succede le repos,<pb n="99" xml:id="p99"/></l>
               <l n="1306" xml:id="l1306">Et qui nous secourez quand il est à propos !</l>
               <l n="1307" xml:id="l1307">Quelles graces, bon Dieu, faut-il que je vous rende,</l>
-              <l n="1308" xml:id="l1308">Pour m’avoir obligé* d’une faveur si grande ?</l>
+              <l n="1308" xml:id="l1308">Pour m’avoir obligé d’une faveur si grande ?</l>
               <l n="1309" xml:id="l1309">Soyez à l’infini, reveré des mortels,</l>
               <l n="1310" xml:id="l1310">Que tousjours leur Encens fume sur vos Autels,</l>
               <l n="1311" xml:id="l1311">Qu’ils n’obmettent jamais ce devoir legitime,</l>
@@ -3631,7 +3628,7 @@ Avec privilège du Roi</bibl>
               <l n="1313" xml:id="l1313">Mais attendant le bien qu’on m’a fait esperer,</l>
               <l n="1314" xml:id="l1314">Joüissons du repos sans plus le differer,</l>
               <l n="1315" xml:id="l1315">Mon œil cede au sommeil que le travail attire,</l>
-              <l n="1316" xml:id="l1316">Maintenant que je suis sans <ref target="#soin">soin*</ref> et sans martyre.</l>
+              <l n="1316" xml:id="l1316">Maintenant que je suis sans <ref target="#soin">soin</ref> et sans martyre.</l>
               <stage>Il va reposer à l’un des bouts du Theatre.</stage>
             </sp>
           </div>
@@ -3647,11 +3644,11 @@ Avec privilège du Roi</bibl>
               <l n="1321" xml:id="l1321">De quel nouveau tourment pretens-tu m’affliger ; <pb n="100" xml:id="p100"/></l>
               <l n="1322" xml:id="l1322">Toy qui me promettois dequoy me soulager ?</l>
               <l n="1323" xml:id="l1323">Doy-je perdre l’espoir dont tu m’avois flatée ?</l>
-              <l n="1324" xml:id="l1324">Déja de mille <ref target="#soin">soins*</ref> je me sens agitée,</l>
+              <l n="1324" xml:id="l1324">Déja de mille <ref target="#soin">soins</ref> je me sens agitée,</l>
               <l n="1325" xml:id="l1325">Et la voix du Destin me prédit un mal-heur,</l>
               <l n="1326" xml:id="l1326">Qui me fait par avance une extréme douleur.</l>
               <stage>Alcinor parest.</stage>
-              <l n="1327" xml:id="l1327">Dieux ! voicy cét <ref target="#amant">Amant*</ref> dont la seule infortune</l>
+              <l n="1327" xml:id="l1327">Dieux ! voicy cét <ref target="#amant">Amant</ref> dont la seule infortune</l>
               <l n="1328" xml:id="l1328">Me peut faire treuver sa rencontre importune.</l>
               <l n="1329" xml:id="l1329">Que ne puy-je approuver son amoureux dessein,</l>
               <l n="1330" xml:id="l1330">Une plus juste ardeur peut-elle estre en mon sein ?</l>
@@ -3668,7 +3665,7 @@ Avec privilège du Roi</bibl>
               <l n="1334" xml:id="l1334">Je n’ay plus rien à craindre ayant perdu le coeur.</l>
               <l n="1335" xml:id="l1335">Madame, je sçay bien que c’est trop entreprendre :</l>
               <l n="1336" xml:id="l1336">Mais si j’ose approcher, c’est pour tascher d’apprendre</l>
-              <l n="1337" xml:id="l1337">Quel cours vous ordonnez à mes tristes <ref target="#ennui">ennuis*</ref>, <pb n="101" xml:id="p101"/></l>
+              <l n="1337" xml:id="l1337">Quel cours vous ordonnez à mes tristes <ref target="#ennui">ennuis</ref>, <pb n="101" xml:id="p101"/></l>
               <l n="1338" xml:id="l1338">Et m’enquerir de vous de l’estat où je suis.</l>
             </sp>
             <sp who="flaviane">
@@ -3705,9 +3702,9 @@ Avec privilège du Roi</bibl>
               <l n="1346" xml:id="l1346">Ils sont cruels pour nous ; ils vous sont glorieux.</l>
             </sp>
             <sp who="flaviane">
-              <speaker > FLAVIANE[102]</speaker>
+              <speaker> FLAVIANE[102]</speaker>
               <l n="1347" xml:id="l1347">Ne donnez point de gloire à qui porte une chaine,</l>
-              <l n="1348" xml:id="l1348">Parlez de cruauté pour qui <ref target="#souffrir2">souffre*</ref> la gesne<note place="bottom">« Question, torture. » (F)</note>.</l>
+              <l n="1348" xml:id="l1348">Parlez de cruauté pour qui <ref target="#souffrir2">souffre</ref> la gesne<note place="bottom">« Question, torture. » (F)</note>.</l>
             </sp>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
@@ -3740,7 +3737,7 @@ Avec privilège du Roi</bibl>
               <l n="1356" xml:id="l1356" part="I">Moy, bons Dieux ! que dit-elle ?</l>
             </sp>
             <sp who="flaviane">
-              <speaker > FLAVIANE[103]</speaker>
+              <speaker> FLAVIANE[103]</speaker>
               <l part="F">Et mon coeur en soupire.</l>
             </sp>
             <sp who="alcinor">
@@ -3852,7 +3849,7 @@ Avec privilège du Roi</bibl>
               <speaker>ALCINOR</speaker>
               <l n="1375" xml:id="l1375">Mal-heureux Alcinor, quelle est ta destinée,</l>
               <l n="1376" xml:id="l1376">Et quel Astre inclement la rend infortunée ?</l>
-              <l n="1377" xml:id="l1377">Tu deviens amoureux d’une fille en <ref target="#fureur">fureur*</ref>,</l>
+              <l n="1377" xml:id="l1377">Tu deviens amoureux d’une fille en <ref target="#fureur">fureur</ref>,</l>
               <l n="1378" xml:id="l1378">De qui la cruauté te devoit faire horreur :</l>
               <l n="1379" xml:id="l1379">Ton ame est bien icy de raison dépourveuë,</l>
               <l n="1380" xml:id="l1380">Tu prens ses interests sans l’avoir jamais veuë,</l>
@@ -3921,15 +3918,15 @@ Avec privilège du Roi</bibl>
               <l n="1422" xml:id="l1422">Je douterois plustost que je fusse Garçon.</l>
               <l n="1423" xml:id="l1423">Aussi ne pense pas que mon coeur dissimule, <pb n="109" xml:id="p109"/></l>
               <l n="1424" xml:id="l1424">Lors que je t’entretiens du beau feu qui me brule,</l>
-              <l n="1425" xml:id="l1425">Ce seroit faire tort à tes charmans <ref target="#appas">appas*</ref>,</l>
+              <l n="1425" xml:id="l1425">Ce seroit faire tort à tes charmans <ref target="#appas">appas</ref>,</l>
               <l n="1426" xml:id="l1426">Qu’à moins que d’estre Fille on ne peut n’aimer pas.</l>
             </sp>
             <sp who="clymene">
               <speaker>CLYMENE</speaker>
-              <l n="1427" xml:id="l1427" part="I">Ha ! trop heureuse <ref target="#amant">Amante*</ref>.</l>
+              <l n="1427" xml:id="l1427" part="I">Ha ! trop heureuse <ref target="#amant">Amante</ref>.</l>
             </sp>
             <sp who="lucine">
-              <speaker>DORIMON,<hi rend="i"> bas.</hi></speaker>
+              <speaker>DORIMON,</speaker><stage> bas.</stage>
               <l part="F">O trop aveugle Fille !</l>
             </sp>
             <sp who="clymene">
@@ -3953,7 +3950,7 @@ Avec privilège du Roi</bibl>
               <l n="1435" xml:id="l1435">L’humeur de vostre sexe, inconstant et volage.</l>
             </sp>
             <sp who="clymene">
-              <speaker >CLYMENE<pb n="110" xml:id="p110"/></speaker>
+              <speaker>CLYMENE<pb n="110" xml:id="p110"/></speaker>
               <l n="1436" xml:id="l1436">Vous aurez du contraire un parfait tesmoignage.</l>
             </sp>
             <sp who="lucine">
@@ -3963,11 +3960,11 @@ Avec privilège du Roi</bibl>
             <sp who="clymene">
               <speaker>CLYMENE</speaker>
               <l part="F">Il ne tiendra qu’à vous</l>
-              <l n="1438" xml:id="l1438">De joindre au nom d’<ref target="#amant">Amant*</ref> la qualité d’Epoux ;</l>
+              <l n="1438" xml:id="l1438">De joindre au nom d’<ref target="#amant">Amant</ref> la qualité d’Epoux ;</l>
               <l n="1439" xml:id="l1439">Et j’espere qu’en fin vous romprez tout obstacle.</l>
             </sp>
             <sp who="lucine">
-              <speaker>DORIMON<hi rend="i">, bas.</hi></speaker>
+              <speaker>DORIMON</speaker><stage>, bas.</stage>
               <l n="1440" xml:id="l1440">Isis<note place="bottom">Dans l’Antiquité, Isis a souvent été associée à d’autres déesses. Dans le cas présent, Isis est la déesse de la fécondité et de l’amour.</note> encore un coup fera donc le miracle :</l>
               <l n="1441" xml:id="l1441">Mais voicy Floridan, dont le triste maintien</l>
               <l n="1442" xml:id="l1442">Semble me preparer un pareil entretien<note place="bottom">Voir note du v. 611.</note>.</l>
@@ -3993,16 +3990,16 @@ Avec privilège du Roi</bibl>
               <l n="1449" xml:id="l1449">Craignez-vous plus d’orage en approchant du Port,</l>
               <l n="1450" xml:id="l1450">Et l’horreur qu’on nous fait presage-t’il la mort ?</l>
               <l n="1451" xml:id="l1451">Tout le monde est pour nous, Frere, Soeur, Confidente,</l>
-              <l n="1452" xml:id="l1452">Domestiques, Amis, un regard les <ref target="#enchanter">enchante*</ref>,</l>
+              <l n="1452" xml:id="l1452">Domestiques, Amis, un regard les <ref target="#enchanter">enchante</ref>,</l>
               <l n="1453" xml:id="l1453">La Soeur, de vos beaux yeux implore la pitié,</l>
-              <l n="1454" xml:id="l1454">Le Frere vous fait vœu d’éternelle amitié*,</l>
+              <l n="1454" xml:id="l1454">Le Frere vous fait vœu d’éternelle amitié,</l>
               <l n="1455" xml:id="l1455">Clymene et Meliarque en font pour moy de mesme,</l>
               <l n="1456" xml:id="l1456">Quel sujet avons-nous de craindre qui nous aime ?</l>
               <l n="1457" xml:id="l1457">Madame, croyez moy, le temps est preparé</l>
               <l n="1458" xml:id="l1458">A dissiper ces flots par un calme assuré.</l>
             </sp>
             <sp who="claironde">
-              <speaker > FLORIDAN<pb n="112" xml:id="p112"/></speaker>
+              <speaker> FLORIDAN<pb n="112" xml:id="p112"/></speaker>
               <l n="1459" xml:id="l1459">Ha ! Lucine, en ce point que n’es-tu veritable<note place="bottom">« Lorsqu’il se dit des personnes, il signifie qui dit la vérité, qui dit vrai. » (R)</note>.</l>
             </sp>
             <sp who="lucine">
@@ -4037,7 +4034,7 @@ Avec privilège du Roi</bibl>
               <l n="1472" xml:id="l1472">La mort suivroit de prés cette reconnessance.</l>
             </sp>
             <sp who="lucine">
-              <speaker >DORIMON<pb n="P, 113"/></speaker>
+              <speaker>DORIMON<pb n="P, 113"/></speaker>
               <l n="1473" xml:id="l1473">Ouy bien si leur esprit n’estoit préoccupé.</l>
             </sp>
             <sp who="claironde">
@@ -4055,10 +4052,10 @@ Avec privilège du Roi</bibl>
               <l n="1478" xml:id="l1478">Et faire en ce miracle éclater son pouvoir.</l>
             </sp>
             <sp who="diomede">
-              <speaker > DIOMEDE, <hi rend="i">se réveillant. Il prend Floridan et Dorimon pour Tersandre et Meliarque.</hi></speaker>
+              <speaker> DIOMEDE, </speaker><stage>se réveillant. Il prend Floridan et Dorimon pour Tersandre et Meliarque.</stage>
               <l n="1479" xml:id="l1479">Mon œil s’ouvre à propos, afin que je revoye</l>
-              <l n="1480" xml:id="l1480">Ces courtois <ref target="#cavaliers">Cavaliers*</ref> les autheurs de ma joye ;</l>
-              <l n="1481" xml:id="l1481">Que je suis redevable à vos soins <ref target="#obligeant">obligeans*</ref>,</l>
+              <l n="1480" xml:id="l1480">Ces courtois <ref target="#cavaliers">Cavaliers</ref> les autheurs de ma joye ;</l>
+              <l n="1481" xml:id="l1481">Que je suis redevable à vos soins <ref target="#obligeant">obligeans</ref>,</l>
               <l n="1482" xml:id="l1482">Il ne falloit, Messieurs, que quelqu’un de vos gens.</l>
             </sp>
             <sp who="claironde">
@@ -4071,7 +4068,7 @@ Avec privilège du Roi</bibl>
               <l n="1484" xml:id="l1484">Apres m’en estre enquis sur la Terre et sur l’Onde ?</l>
             </sp>
             <sp who="claironde">
-              <speaker > FLORIDAN<pb n="114" xml:id="p114"/></speaker>
+              <speaker> FLORIDAN<pb n="114" xml:id="p114"/></speaker>
               <l n="1485" xml:id="l1485" part="I">O Dieu ! c’est Diomede.</l>
             </sp>
             <sp who="diomede">
@@ -4087,7 +4084,7 @@ Avec privilège du Roi</bibl>
               <speaker>DIOMEDE</speaker>
               <l n="1488" xml:id="l1488">O merveilleux effets de la Bonté divine !</l>
               <l n="1489" xml:id="l1489">Je rends grace au Destin qui termine aujourd’huy,</l>
-              <l n="1490" xml:id="l1490">Par vostre aimable <ref target="#aspect2">aspect*</ref>, ma course et mon <ref target="#ennuy">ennuy*</ref>.</l>
+              <l n="1490" xml:id="l1490">Par vostre aimable <ref target="#aspect2">aspect</ref>, ma course et mon <ref target="#ennuy">ennuy</ref>.</l>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
@@ -4139,7 +4136,7 @@ Avec privilège du Roi</bibl>
               <l part="F">C’est qu’il envoya par des chemins divers</l>
               <l n="1506" xml:id="l1506">Un nombre de ses gens visiter l’Univers,</l>
               <l n="1507" xml:id="l1507">Esperant que quelqu’un pourroit faire rencontre<pb n="116" xml:id="p116"/></l>
-              <l n="1508" xml:id="l1508">De celle qu’aujourd’huy la <ref target="#fortune">Fortune*</ref> me montre.</l>
+              <l n="1508" xml:id="l1508">De celle qu’aujourd’huy la <ref target="#fortune">Fortune</ref> me montre.</l>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
@@ -4176,12 +4173,12 @@ Avec privilège du Roi</bibl>
             <head>Scène IX.</head><pb n="117" xml:id="p117"/>
             <stage>TERSANDRE, FLORIDAN, DORIMON, DIOMEDE.</stage>
             <sp who="tersandre">
-              <speaker>TERSANDRE,<hi rend="i"> à part.</hi></speaker>
+              <speaker>TERSANDRE,</speaker><stage> à part.</stage>
               <l n="1513" xml:id="l1513">Où puy-je rencontrer cette rare Beauté</l>
               <l n="1514" xml:id="l1514">Dont le merite extréme a mon coeur enchanté ?</l>
               <l n="1515" xml:id="l1515">Quel obstacle importun me prive de sa veuë ?</l>
               <l n="1516" xml:id="l1516">Dans l’espoir incertain dont mon ame est pourveuë,</l>
-              <l n="1517" xml:id="l1517">Si je ne voy bien tost vos ravissans <ref target="#appas">appas*</ref> ;</l>
+              <l n="1517" xml:id="l1517">Si je ne voy bien tost vos ravissans <ref target="#appas">appas</ref> ;</l>
               <l n="1518" xml:id="l1518">Beaux yeux il est certain que je cours au trépas :</l>
               <l n="1519" xml:id="l1519">Mais je les voy briller ces astres de ma vie,</l>
               <l n="1520" xml:id="l1520">Feignons d’ignorer tout, et sçachons son envie.</l>
@@ -4220,7 +4217,7 @@ Avec privilège du Roi</bibl>
               <l n="1543" xml:id="l1543">Mais un pouvoir plus fort que ma rage excessive,</l>
               <l n="1544" xml:id="l1544">Au premier de vos coups m’a fait vostre captive,</l>
               <l n="1545" xml:id="l1545">Et ce doux esclavage où mes jours sont réduis</l>
-              <l n="1546" xml:id="l1546">Avec des fers dorez enchainent mes <ref target="#ennui">ennuis*</ref>.</l>
+              <l n="1546" xml:id="l1546">Avec des fers dorez enchainent mes <ref target="#ennui">ennuis</ref>.</l>
             </sp>
             <sp who="tersandre">
               <speaker>TERSANDRE<pb n="119" xml:id="p119"/></speaker>
@@ -4228,11 +4225,11 @@ Avec privilège du Roi</bibl>
               <l n="1548" xml:id="l1548">Depuis hier au soir je croy que je sommeille ;</l>
               <l n="1549" xml:id="l1549">Vous Claironde, Madame, ha ! bon-heur sans pareil.</l>
               <l n="1550" xml:id="l1550">O le plus heureux jour qu’ait produit le Soleil !</l>
-              <l n="1551" xml:id="l1551">Dans de si doux <ref target="#transport">transports*</ref>, quel assez humble hommage</l>
+              <l n="1551" xml:id="l1551">Dans de si doux <ref target="#transport">transports</ref>, quel assez humble hommage</l>
               <l n="1552" xml:id="l1552">Rendray-je à vos beaux yeux dont j’adorois l’image ?</l>
               <l n="1553" xml:id="l1553">Faut-il pour terminer d’injustes differens,</l>
               <l n="1554" xml:id="l1554">Que ma main soit trempée au sang de vos parens,</l>
-              <l n="1555" xml:id="l1555">Et que tant de Guerriers, esclaves de vos <ref target="#charme">charmes*</ref></l>
+              <l n="1555" xml:id="l1555">Et que tant de Guerriers, esclaves de vos <ref target="#charme">charmes</ref></l>
               <l n="1556" xml:id="l1556">Ayent perdu cét honneur par l’effort de mes armes.</l>
               <l n="1557" xml:id="l1557">Mais je ne songe pas que ces crimes commis</l>
               <l n="1558" xml:id="l1558">Me font le plus mortel de tous vos ennemis,</l>
@@ -4253,7 +4250,7 @@ Avec privilège du Roi</bibl>
               <l n="1570" xml:id="l1570">J’aurois sujet de craindre un tourment eternel.</l>
             </sp>
             <sp who="tersandre">
-              <speaker >TERSANDRE<pb n="120" xml:id="p120"/></speaker>
+              <speaker>TERSANDRE<pb n="120" xml:id="p120"/></speaker>
               <l n="1571" xml:id="l1571">Ha ! ne me flates point d’une fausse innocence,</l>
               <l n="1572" xml:id="l1572">En cela seulement se fait voir vostre offence ;</l>
               <l n="1573" xml:id="l1573">C’est moy, c’est moy plustost qui suis ce criminel,</l>
@@ -4294,7 +4291,7 @@ Avec privilège du Roi</bibl>
               <l n="1596" xml:id="l1596">Puisque vostre clemence a ma teste affermie,</l>
               <l n="1597" xml:id="l1597">Et semble couronner, oubliant le passé,</l>
               <l n="1598" xml:id="l1598">Ce front qui dût rougir du sang que j’ay versé.</l>
-              <l n="1599" xml:id="l1599">Si vous croyant garçon mon amitié* fut forte,</l>
+              <l n="1599" xml:id="l1599">Si vous croyant garçon mon amitié fut forte,</l>
               <l n="1600" xml:id="l1600">Jugez, vous sçachant fille, où mon amour me porte.</l>
             </sp>
           </div>
@@ -4302,7 +4299,7 @@ Avec privilège du Roi</bibl>
             <head>Scène X.</head>
             <stage>MELIARQUE, TERSANDRE, FLORIDAN, DORIMON, DIOMEDE.</stage>
             <sp who="meliarque">
-              <speaker>MELIARQUE<hi rend="i">, à part.</hi></speaker>
+              <speaker>MELIARQUE</speaker><stage>, à part.</stage>
               <l n="1601" xml:id="l1601">Apres beaucoup de pas, apres beaucoup de vœux,</l>
               <l n="1602" xml:id="l1602">A la fin j’apperçoy le sujet de mes feux,</l>
               <l n="1603" xml:id="l1603">Et ce rencontre heureux dont mon ame est ravie,</l>
@@ -4315,7 +4312,7 @@ Avec privilège du Roi</bibl>
               <l n="1607" xml:id="l1607">Apres, cher Confident de mes peines passées, <pb n="122" xml:id="p122"/></l>
               <l n="1608" xml:id="l1608">Que Claironde aujourd’huy les a recompensées,</l>
               <l n="1609" xml:id="l1609">Adore comme moy, sous ces faux vestemens</l>
-              <l n="1610" xml:id="l1610">Cette rare Beauté, l’espoir de mille <ref target="#amant">Amans*</ref>.</l>
+              <l n="1610" xml:id="l1610">Cette rare Beauté, l’espoir de mille <ref target="#amant">Amans</ref>.</l>
             </sp>
             <sp who="meliarque">
               <speaker>MELIARQUE</speaker>
@@ -4326,7 +4323,7 @@ Avec privilège du Roi</bibl>
               <l n="1615" xml:id="l1615">Que nos ravissemens et vos metamorphoses,</l>
               <l n="1616" xml:id="l1616">Apres tant de soucis vont produire de roses,</l>
               <l n="1617" xml:id="l1617">Si cette Belle ajouste à mon contentement</l>
-              <l n="1618" xml:id="l1618">L’honneur de la servir en qualité d’<ref target="#amant">Amant*</ref>.</l>
+              <l n="1618" xml:id="l1618">L’honneur de la servir en qualité d’<ref target="#amant">Amant</ref>.</l>
             </sp>
             <sp who="claironde">
               <speaker>FLORIDAN</speaker>
@@ -4344,9 +4341,9 @@ Avec privilège du Roi</bibl>
               <l part="F">Ouy, ce l’est, et tu me fais plaisir.</l>
             </sp>
             <sp who="meliarque">
-              <speaker >MELIARQUE<pb n="123" xml:id="p123"/></speaker>
+              <speaker>MELIARQUE<pb n="123" xml:id="p123"/></speaker>
               <l n="1623" xml:id="l1623">O bon-heur sans egal ! les Dieux pour ces delices</l>
-              <l n="1624" xml:id="l1624">Vous vueillent preserver de <ref target="#soin">soins*</ref> et de supplices.</l>
+              <l n="1624" xml:id="l1624">Vous vueillent preserver de <ref target="#soin">soins</ref> et de supplices.</l>
               <l n="1625" xml:id="l1625">Et vous qu’un bon genie a conduite en ces lieux,</l>
               <l n="1626" xml:id="l1626">Pour asservir mon ame au pouvoir de vos yeux ;</l>
               <l n="1627" xml:id="l1627">De quoy puy-je payer cette aimable réponce,</l>
@@ -4368,7 +4365,7 @@ Avec privilège du Roi</bibl>
             <stage>ALCINOR, FLAVIANE, FLORIDAN, TERSANDRE, CLYMENE, MELIARQUE, DORIMON, DIOMEDE.</stage>
             <sp who="alcinor">
               <speaker>ALCINOR</speaker>
-              <l n="1633" xml:id="l1633">Quoy, n’esperer jamais un plus doux <ref target="#traittement">traittement*</ref>.</l>
+              <l n="1633" xml:id="l1633">Quoy, n’esperer jamais un plus doux <ref target="#traittement">traittement</ref>.</l>
             </sp>
             <sp who="flaviane">
               <speaker>FLAVIANE</speaker>
@@ -4378,7 +4375,7 @@ Avec privilège du Roi</bibl>
               <l n="1637" xml:id="l1637" part="I">Floridan a mon coeur.</l>
             </sp>
             <sp who="claironde">
-              <speaker>FLORIDAN,<hi rend="i"> la surprenant.</hi></speaker>
+              <speaker>FLORIDAN,</speaker><stage> la surprenant.</stage>
               <l part="F">En mourant à vos piés,</l>
               <l n="1638" xml:id="l1638">Il vous rend ce Tresor dont vous le gratifiez.</l>
             </sp>
@@ -4391,7 +4388,7 @@ Avec privilège du Roi</bibl>
               <l part="F">Ouy, je meurs, pour devenir Claironde.</l>
             </sp>
             <sp who="flaviane">
-              <speaker >FLAVIANE<pb n="125" xml:id="p125"/></speaker>
+              <speaker>FLAVIANE<pb n="125" xml:id="p125"/></speaker>
               <l n="1640" xml:id="l1640">Si l’éclaircissement ce discours ne seconde,</l>
               <l n="1641" xml:id="l1641">Le moyen<note place="bottom">« On dit dans ce sens, et par manière d’interrogation pour dire que la chose dont on parle ne se peut faire. » (A)</note> de comprendre un secret si caché.</l>
             </sp>
@@ -4426,7 +4423,7 @@ Avec privilège du Roi</bibl>
               <l n="1649" xml:id="l1649" part="I">O mal-heur de mon sort !</l>
             </sp>
             <sp who="alcinor">
-              <speaker > ALCINOR,<hi rend="i"> à Flaviane.</hi><pb n="126" xml:id="p126"/></speaker>
+              <speaker> ALCINOR,<pb n="126" xml:id="p126"/></speaker><stage> à Flaviane.</stage>
               <l part="F">Dans ce rare accident,</l>
               <l n="1650" xml:id="l1650">Qui sera l’héritier du bien de Floridan ?</l>
             </sp>
@@ -4458,7 +4455,7 @@ Avec privilège du Roi</bibl>
               <l n="1662" xml:id="l1662">Vous n’en ayez pas fait presque à chaque moment.</l>
             </sp>
             <sp who="claironde">
-              <speaker > FLORIDAN[127]</speaker>
+              <speaker> FLORIDAN[127]</speaker>
               <l n="1663" xml:id="l1663">Lors que l’occasion secondera l’envie,</l>
               <l n="1664" xml:id="l1664">Que vous donne le cours de deux mois de ma vie ;</l>
               <l n="1665" xml:id="l1665">Vous sçaurez des sujets dont un jour à venir</l>
@@ -4475,7 +4472,7 @@ Avec privilège du Roi</bibl>
           <div type="scene">
             <head>Scène Dernière.</head>
             <sp who="clymene">
-              <speaker>CLYMENE, <hi rend="i">seule</hi>.</speaker>
+              <speaker>CLYMENE, </speaker><stage>seule</stage>
               <l n="1671" xml:id="l1671">Cesse, mon coeur, de regretter</l>
               <l n="1672" xml:id="l1672">L’apparence d’un bien offerte,</l>
               <l n="1673" xml:id="l1673">Puisque tu ne peux la quitter</l>
@@ -4494,7 +4491,7 @@ Avec privilège du Roi</bibl>
               <l n="1686" xml:id="l1686">Seiche nos oeillets et nos roses :</l>
               <l n="1687" xml:id="l1687">Une fille sur l’âge est comme un lys fané,</l>
               <l n="1688" xml:id="l1688">Qui, vieilly sur sa tyge, est tousjours profané.</l>
-              <label>FIN.</label>
+              <trailer>FIN.</trailer>
             </sp>
           </div>
         </div>
@@ -4502,11 +4499,11 @@ Avec privilège du Roi</bibl>
     <back>
       <div>
         <head>Lexique</head>
-        <p >ACADÉMIE FRANÇAISE, <hi rend="i">Dictionnaire de l’Académie française</hi>, Paris, Loignard, 1694. (A)</p>
-        <p >FURETIÈRE Antoine<hi rend="i">, Dictionnaire universel</hi>, La Haye et Rotterdam, Arnout et Reinier LEERS, 1690, 3 vol. [réed.], réimpr. Paris, SNL-Le Robert, 1978. (F)</p>
-        <p >CAYROU Gaston, <hi rend="i">Le Français classique. Lexique de la langue du dix-septième siècle</hi>, Paris, chez Henri Didier, 1924. (C)</p>
+        <p>ACADÉMIE FRANÇAISE, <hi rend="i">Dictionnaire de l’Académie française</hi>, Paris, Loignard, 1694. (A)</p>
+        <p>FURETIÈRE Antoine<hi rend="i">, Dictionnaire universel</hi>, La Haye et Rotterdam, Arnout et Reinier LEERS, 1690, 3 vol. [réed.], réimpr. Paris, SNL-Le Robert, 1978. (F)</p>
+        <p>CAYROU Gaston, <hi rend="i">Le Français classique. Lexique de la langue du dix-septième siècle</hi>, Paris, chez Henri Didier, 1924. (C)</p>
         <p>RICHELET Pierre, <hi rend="i">Dictionnaire français</hi>, Genève, Widerhold, 1680, 2 vol. (R)</p>
-        <p >SANCIER-CHÂTEAU Anne, <hi rend="i">Introduction à la langue du XVII<hi rend="sup">è</hi> siècle. I. Vocabulaire</hi>, Paris, Nathan, 1993. (S)</p>
+        <p>SANCIER-CHÂTEAU Anne, <hi rend="i">Introduction à la langue du XVII<hi rend="sup">è</hi> siècle. I. Vocabulaire</hi>, Paris, Nathan, 1993. (S)</p>
         <entryFree xml:id="affection">
           <form>Affection</form>
           <def>Passion de l’âme qui nous fait vouloir du bien à quelqu’un. (F)</def>
@@ -4571,12 +4568,12 @@ Avec privilège du Roi</bibl>
         </entryFree>
         <entryFree>
           <form>Divertir</form>
-          <def  xml:id="divertir1">1. Détourner, distraire. (A)</def>
+          <def xml:id="divertir1">1. Détourner, distraire. (A)</def>
           <xr>v. <ref target="#l91">91</ref>, <ref target="#l290">290</ref>, <ref target="#l1248">1248</ref>.</xr>
-          <def  xml:id="divertir2">2. Désennuyer, réjouir. (A)</def>
+          <def xml:id="divertir2">2. Désennuyer, réjouir. (A)</def>
           <xr>v. <ref target="#l296">296</ref>.</xr>
         </entryFree>
-        <entryFree  xml:id="enchantement">
+        <entryFree xml:id="enchantement">
           <form>Enchantement</form>
           <def>Charme, effet merveilleux procédant d’une puissance magique, d’un art diabolique. (F)</def>
           <xr>v. <ref target="#l270">270</ref>, <ref target="#l453">453</ref>, <ref target="#l1169">1169</ref>.</xr>
@@ -4699,34 +4696,34 @@ Avec privilège du Roi</bibl>
           <head>I ) Sources</head>
           <div>
             <head>Dictionnaires</head>
-            <p >DE LA PORTE Joseph et DE CHAMFORT Sébastien-Roch-Nicolas, <hi rend="i">Dictionnaire dramatique, contenant l’histoire des théâtres, les règles du genre dramatique, les observations des maîtres les plus célèbres et des réflexions nouvelles sur les spectacles</hi>, Tome 3, Paris, chez Lacombe, 1776.</p>
-            <p >DE LÉRIS Antoine, <hi rend="i">Dictionnaire portatif historique et littéraire des théâtres, contenant l’origine des différens théâtres de Paris</hi>, Paris, chez C. A. Jombert, 1763.</p>
-            <p >LA VALLIÈRE Louis-César de la Baume Le Blanc, CAPPERONNIER Jean et BOUDOT Pierre-Jean, <hi rend="i">Bibliothèque du théâtre françois depuis son origine, contenant un extrait de tous les ouvrages composés pour ce théâtre</hi>, III, Dresde, chez M. Groell, 1768.</p>
-            <p >MAUPOINT (avocat), <hi rend="i">Bibliothèque des théâtres contenant le catalogue alphabétique des pièces dramatiques et opéra, le nom des auteurs et le temps de la représentation de ces pièces, avec des anecdotes sur les auteurs et sur la plupart des pièces contenues en ce recueil</hi>, Paris, chez Laurent-François Prault, 1733.</p>
-            <p >MORVAL Georges, <hi rend="i">Lettres au Mercure sur Molière, sa vie, ses œuvres et les comédiens de son temps</hi>, Paris, Librairie des Bibliophiles, 1887.</p>
+            <p>DE LA PORTE Joseph et DE CHAMFORT Sébastien-Roch-Nicolas, <hi rend="i">Dictionnaire dramatique, contenant l’histoire des théâtres, les règles du genre dramatique, les observations des maîtres les plus célèbres et des réflexions nouvelles sur les spectacles</hi>, Tome 3, Paris, chez Lacombe, 1776.</p>
+            <p>DE LÉRIS Antoine, <hi rend="i">Dictionnaire portatif historique et littéraire des théâtres, contenant l’origine des différens théâtres de Paris</hi>, Paris, chez C. A. Jombert, 1763.</p>
+            <p>LA VALLIÈRE Louis-César de la Baume Le Blanc, CAPPERONNIER Jean et BOUDOT Pierre-Jean, <hi rend="i">Bibliothèque du théâtre françois depuis son origine, contenant un extrait de tous les ouvrages composés pour ce théâtre</hi>, III, Dresde, chez M. Groell, 1768.</p>
+            <p>MAUPOINT (avocat), <hi rend="i">Bibliothèque des théâtres contenant le catalogue alphabétique des pièces dramatiques et opéra, le nom des auteurs et le temps de la représentation de ces pièces, avec des anecdotes sur les auteurs et sur la plupart des pièces contenues en ce recueil</hi>, Paris, chez Laurent-François Prault, 1733.</p>
+            <p>MORVAL Georges, <hi rend="i">Lettres au Mercure sur Molière, sa vie, ses œuvres et les comédiens de son temps</hi>, Paris, Librairie des Bibliophiles, 1887.</p>
           </div>
           <div>
             <head>Sur le théâtre du XVII<hi rend="sup">e</hi> siècle</head>
-            <p >CHAPPUZEAU Samuel, <hi rend="i">Le Théâtre François, divisé en trois livres, où il est traité : I. de l’Usage de la comédie ; II. Des Auteurs qui soutiennent le théâtre ; III. De la Conduite des comédiens</hi>, Lyon, chez M. Mayer, 1674.</p>
-            <p >CLÉMENT Jean Marie Bernard et DE LA PORTE Joseph, <hi rend="i">Anecdotes dramatiques</hi>, Tome 3, Paris, chez la Veuve Duchesne, 1775.</p>
-            <p >HOWE Alan, <hi rend="i">Le Théâtre professionnel à Paris, 1600-1649</hi>, Paris, Centre historique des archives nationales, p. 147.</p>
-            <p >LANCASTER Henry Carrington éd., <hi rend="i">Le Mémoire de Mahelot, Laurent et d’autres décorateurs de l’Hôtel de Bourgogne et de la Comédie-Française au XVIIe siècle</hi>, Paris, Champion, 1920.</p>
-            <p >PARFAICT Claude et François, <hi rend="i">Histoire du théatre françois, depuis son origine jusqu’à présent</hi>, VI, Paris, chez P. G. Le Mercier et Saillant, 1745.</p>
+            <p>CHAPPUZEAU Samuel, <hi rend="i">Le Théâtre François, divisé en trois livres, où il est traité : I. de l’Usage de la comédie ; II. Des Auteurs qui soutiennent le théâtre ; III. De la Conduite des comédiens</hi>, Lyon, chez M. Mayer, 1674.</p>
+            <p>CLÉMENT Jean Marie Bernard et DE LA PORTE Joseph, <hi rend="i">Anecdotes dramatiques</hi>, Tome 3, Paris, chez la Veuve Duchesne, 1775.</p>
+            <p>HOWE Alan, <hi rend="i">Le Théâtre professionnel à Paris, 1600-1649</hi>, Paris, Centre historique des archives nationales, p. 147.</p>
+            <p>LANCASTER Henry Carrington éd., <hi rend="i">Le Mémoire de Mahelot, Laurent et d’autres décorateurs de l’Hôtel de Bourgogne et de la Comédie-Française au XVIIe siècle</hi>, Paris, Champion, 1920.</p>
+            <p>PARFAICT Claude et François, <hi rend="i">Histoire du théatre françois, depuis son origine jusqu’à présent</hi>, VI, Paris, chez P. G. Le Mercier et Saillant, 1745.</p>
           </div>
           <div>
             <head>Autour de Sallebray</head>
-            <p >BESONGNE Nicolas, <hi rend="i">L’État de France, où l’on voit tous les princes, ducs et pairs, maréchaux de France et autres officiers de la couronne : les évêques, les cours qui jugent en dernier ressort, les gouverneurs des Provinces, les Chevaliers des trois Ordres du Roi, etc</hi>, Tome 1, Paris, 1661-1698.</p>
-            <p >DA VINHA Mathieu,<hi rend="i"> Les Valets de chambre de Louis XIV</hi>, Paris, Perrin, Coll. « tempus », 2009.</p>
-            <p >DE LA CHESNAYE-DESBOIS François Alexandre Aubert, <hi rend="i">Dictionnaire de la noblesse, contenant les Généalogies, l’Histoire &amp; la Chronologie des Familles Nobles de France</hi>, Tome 1, A Paris, chez la Veuve Duchesne et l’Auteur, 1770.</p>
-            <p >GUIFFREY Jules, <hi rend="i">Comptes des bâtiments sous le règne de Louis XIV</hi>, Paris, Imprimerie Nationale, 1881-1901.</p>
-            <p >HERBET Félix, <hi rend="i">Extrait d’actes et notes concernant des artistes de Fontainebleau</hi>, Fontainebleau, Imprimerie de Maurice Bourges, 1901.</p>
-            <p >TRABOUILLET Louis, <hi rend="i">L’État de France, où l’on voit tous les princes, ducs et pairs, maréchaux de France et autres officiers de la couronne : les évêques, les cours qui jugent en dernier ressort, les gouverneurs des Provinces, les Chevaliers des trois Ordres du Roi, etc</hi>, Tome 1, Paris, 1699 et 1702.</p>
+            <p>BESONGNE Nicolas, <hi rend="i">L’État de France, où l’on voit tous les princes, ducs et pairs, maréchaux de France et autres officiers de la couronne : les évêques, les cours qui jugent en dernier ressort, les gouverneurs des Provinces, les Chevaliers des trois Ordres du Roi, etc</hi>, Tome 1, Paris, 1661-1698.</p>
+            <p>DA VINHA Mathieu,<hi rend="i"> Les Valets de chambre de Louis XIV</hi>, Paris, Perrin, Coll. « tempus », 2009.</p>
+            <p>DE LA CHESNAYE-DESBOIS François Alexandre Aubert, <hi rend="i">Dictionnaire de la noblesse, contenant les Généalogies, l’Histoire &amp; la Chronologie des Familles Nobles de France</hi>, Tome 1, A Paris, chez la Veuve Duchesne et l’Auteur, 1770.</p>
+            <p>GUIFFREY Jules, <hi rend="i">Comptes des bâtiments sous le règne de Louis XIV</hi>, Paris, Imprimerie Nationale, 1881-1901.</p>
+            <p>HERBET Félix, <hi rend="i">Extrait d’actes et notes concernant des artistes de Fontainebleau</hi>, Fontainebleau, Imprimerie de Maurice Bourges, 1901.</p>
+            <p>TRABOUILLET Louis, <hi rend="i">L’État de France, où l’on voit tous les princes, ducs et pairs, maréchaux de France et autres officiers de la couronne : les évêques, les cours qui jugent en dernier ressort, les gouverneurs des Provinces, les Chevaliers des trois Ordres du Roi, etc</hi>, Tome 1, Paris, 1699 et 1702.</p>
           </div>
           <div>
             <head>Autres œuvres</head>
             <p>Sallebray, <hi rend="i">Le Jugement de Pâris et le ravissement d’Hélène</hi>, Paris, chez Toussainct Quinet, Paris, 1639.
 </p>
-            <p >Sallebray, <hi rend="i">La Troade</hi>, Paris, chez Toussainct Quinet, 1640.
+            <p>Sallebray, <hi rend="i">La Troade</hi>, Paris, chez Toussainct Quinet, 1640.
 </p>
             <p>Sallebray, <hi rend="i">La Belle Egyptienne</hi>, Paris, chez Antoine de Sommaville et Augustin Courbé, 1642.
 </p>
@@ -4741,7 +4738,7 @@ Avec privilège du Roi</bibl>
           </p>
           <div>
             <head>Sur la littérature</head>
-            <p >Arbour Roméo, <title>L'ère baroque en France : répertoire chronologique des éditions de textes littéraires</title>, t. III, 
+            <p>Arbour Roméo, <title>L'ère baroque en France : répertoire chronologique des éditions de textes littéraires</title>, t. III, 
               <title>1629-1643</title>, Genève, Droz, 1980.
             </p>
             <p> Arbour Roméo, <title>L'ère baroque en France : répertoire chronologique des éditions de textes littéraires</title>, t. IV, 
@@ -4750,40 +4747,40 @@ Avec privilège du Roi</bibl>
           </div>
           <div>
             <head>Sur le théâtre</head>
-            <p >Forestier Georges,
+            <p>Forestier Georges,
               <title>Essai de génétique théâtrale. Corneille à l’œuvre
               </title>, Genève, Droz, 2004,            </p>
-            <p >Forestier Georges, <hi rend="i">Esthétique de l’identité dans le théâtre français, 1550-1680 : le déguisement et ses avatars</hi>, Genève, Droz, 1988.</p>
-            <p >FORESTIER Georges, <hi rend="i">Introduction à l’analyse des textes classiques</hi>, Armand Colin, 2017 (5<hi rend="sup">e</hi> édition).</p>
-            <p >FORESTIER Georges, <hi rend="i">Le Théâtre dans le théâtre</hi>, Genève, Droz, 1996.</p>
-            <p >MASTROIANNI Michele, <hi rend="i">Lungo i sentieri del tragico. La rielaborazione teatrale in Francia dal Rinascimento al Barocco</hi>, « Studi umanistici », Mercurio, 2009.</p>
-            <p >SCHERER Jacques, <hi rend="i">La Dramaturgie classique en France</hi>, Nizet, Paris, 1950 ; rééd. Armand Colin, 2014.</p>
-            <p >UBERSFELD Anne, <hi rend="i">Lire le théâtre (I et II)</hi>, Belin, Lettres Sup, 1996.</p>
+            <p>Forestier Georges, <hi rend="i">Esthétique de l’identité dans le théâtre français, 1550-1680 : le déguisement et ses avatars</hi>, Genève, Droz, 1988.</p>
+            <p>FORESTIER Georges, <hi rend="i">Introduction à l’analyse des textes classiques</hi>, Armand Colin, 2017 (5<hi rend="sup">e</hi> édition).</p>
+            <p>FORESTIER Georges, <hi rend="i">Le Théâtre dans le théâtre</hi>, Genève, Droz, 1996.</p>
+            <p>MASTROIANNI Michele, <hi rend="i">Lungo i sentieri del tragico. La rielaborazione teatrale in Francia dal Rinascimento al Barocco</hi>, « Studi umanistici », Mercurio, 2009.</p>
+            <p>SCHERER Jacques, <hi rend="i">La Dramaturgie classique en France</hi>, Nizet, Paris, 1950 ; rééd. Armand Colin, 2014.</p>
+            <p>UBERSFELD Anne, <hi rend="i">Lire le théâtre (I et II)</hi>, Belin, Lettres Sup, 1996.</p>
           </div>
           <div>
             <head>Sur la tragi-comédie</head>
-            <p >Baby Hélène,<title>La Tragi-comédie de Corneille à Quinault
+            <p>Baby Hélène,<title>La Tragi-comédie de Corneille à Quinault
               </title>, Klincksieck, 2001.</p>
-            <p >GUICHEMERRE Roger, <hi rend="i">La Tragi-comédie</hi>, PUF, 1981.</p>
+            <p>GUICHEMERRE Roger, <hi rend="i">La Tragi-comédie</hi>, PUF, 1981.</p>
           </div>
         </div>
         <div>
           <head>III ) Sur la langue du XVII<hi rend="sup">e</hi> siècle</head>
           <div>
             <head>Dictionnaires</head>
-            <p >ACADÉMIE FRANÇAISE, <hi rend="i">Dictionnaire de l’Académie française</hi>, Paris, Loignard, 1694.</p>
-            <p >FURETIÈRE Antoine, <hi rend="i">Dictionnaire universel</hi>, La Haye et Rotterdam, Arnout et Reinier LEERS, 1690, 3 vol. [réed.], réimpr. Paris, SNL-Le Robert, 1978.</p>
-            <p >CAYROU Gaston, <hi rend="i">Le Français classique. Lexique de la langue du dix-septième siècle</hi>, Paris, chez Henri Didier, 1924.</p>
-            <p >RICHELET Pierre, <hi rend="i">Dictionnaire français</hi>, Genève, Widerhold, 1680, 2 vol.</p>
-            <p >SANCIER-CHÂTEAU Anne, <hi rend="i">Introduction à la langue du XVII<hi rend="sup">e</hi> siècle. I. Vocabulaire</hi>, Paris, Nathan, 1993.</p>
+            <p>ACADÉMIE FRANÇAISE, <hi rend="i">Dictionnaire de l’Académie française</hi>, Paris, Loignard, 1694.</p>
+            <p>FURETIÈRE Antoine, <hi rend="i">Dictionnaire universel</hi>, La Haye et Rotterdam, Arnout et Reinier LEERS, 1690, 3 vol. [réed.], réimpr. Paris, SNL-Le Robert, 1978.</p>
+            <p>CAYROU Gaston, <hi rend="i">Le Français classique. Lexique de la langue du dix-septième siècle</hi>, Paris, chez Henri Didier, 1924.</p>
+            <p>RICHELET Pierre, <hi rend="i">Dictionnaire français</hi>, Genève, Widerhold, 1680, 2 vol.</p>
+            <p>SANCIER-CHÂTEAU Anne, <hi rend="i">Introduction à la langue du XVII<hi rend="sup">e</hi> siècle. I. Vocabulaire</hi>, Paris, Nathan, 1993.</p>
           </div>
           <div>
             <head>Grammaires</head>
-            <p >Fournier Nathalie, <title>
+            <p>Fournier Nathalie, <title>
                 Grammaire du français classique
               </title>, Belin, 1998
             </p>
-            <p >HAASE A., <hi rend="i">Syntaxe française du XVII<hi rend="sup">e</hi> siècle</hi>, Paris, Delagrave, 1935, traduction de M. OBERT.</p>
+            <p>HAASE A., <hi rend="i">Syntaxe française du XVII<hi rend="sup">e</hi> siècle</hi>, Paris, Delagrave, 1935, traduction de M. OBERT.</p>
           </div>
         </div>
       </div>

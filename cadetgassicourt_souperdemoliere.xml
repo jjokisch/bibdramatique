@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -26,11 +26,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/cadet-gassicourt_souper-moliere/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/cadet-gassicourt_souper-moliere.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/cadet-gassicourt_souper-moliere.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/cadet-gassicourt_souper-moliere.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/cadet-gassicourt_souper-moliere.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/cadet-gassicourt_souper-moliere/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/cadet-gassicourt_souper-moliere.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/cadet-gassicourt_souper-moliere.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/cadet-gassicourt_souper-moliere.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/cadet-gassicourt_souper-moliere.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Cadet de Gassicourt</author>. <title>Le Souper de Molière, ou La Soirée d'Auteuil. Fait historique en un acte, mêlé de vaudevilles.</title>. <hi rend="i">A PARIS,</hi> Chez  les  Libraires  Au Théâtre de Vaudeville  Au Théâtre Martin, ci-devant Molière.  Et à l’Imprimerie rue des Droits  de l’Homme, N°.44.  <hi rend="i">Floréal, an Troisième.</hi></bibl>
@@ -479,13 +479,13 @@
               <head>Boileau (-Despréaux ; 1636-1711)</head>
               <p>Lorsque Molière s’inquiète, à l’arrivée de son ami Boileau, à la fin de la scène VII : « (<hi rend="i">Il jette son manuscrit dans un tiroir</hi>). Vite, vite, mettons mon plan à l’ombre ; ce n’est qu’une esquisse<note n="277" place="bottom"> Scène VII, P. 22.</note> », cela correspond sans doute à un clin d’œil, de la part de Gassicourt, au surnom attribué à Boileau de « Législateur du Parnasse », ainsi qu’à ses fameux vers :</p>
               <quote>
-                <l>C’est par là que Molière illustrant ses écrits </l>
+                <l>C’est par là que Molière illustrant ses écrits</l>
                 <l>Peut-être de son art eût remporté le prix,</l>
-                <l>Si, moins ami du peuple en ses doctes peintures,  </l>
+                <l>Si, moins ami du peuple en ses doctes peintures, </l>
                 <l>Il n’eût point fait souvent grimacer ses figures,</l>
-                <l>Quitté pour le bouffon, l’agréable et le fin,  </l>
-                <l>Et sans honte à Térence allié Tabarin. </l>
-                <l>Dans ce sac ridicule où Scapin s’enveloppe,  </l>
+                <l>Quitté pour le bouffon, l’agréable et le fin, </l>
+                <l>Et sans honte à Térence allié Tabarin.</l>
+                <l>Dans ce sac ridicule où Scapin s’enveloppe, </l>
                 <l>Je ne reconnais plus l’auteur du Misanthrope<note n="278" place="bottom"> BOILEAU, <hi rend="i">Art poétique</hi>, III, V.391-400, cité dans DESCOTES (Maurice), <hi rend="i">op. cit.</hi>, p. 40.</note>.</l>
               </quote>
               <p>En effet, nous pouvons par exemple faire un lien entre le vers : « Si, moins ami du peuple en ses doctes peintures », et ce qui précède cette fin de scène, c’est-à-dire la lecture de Molière à sa servante Laforest. Néanmoins, à l’époque où l’on a envisagé l’action du <hi rend="i">Souper</hi> (à la fin des années 1660), Boileau est encore « très loin de faire figure de Législateur du Parnasse ; c’est un jeune homme audacieux, railleur, qui écrit et récite un peu partout de joyeuses satires<note n="279" place="bottom"> MONGRÉDIEN (Georges), <hi rend="i">La Vie privée de Molière</hi>, Paris, Hachette, Collection « Les vies privées », 1950, p. 144.</note>. » Et, Molière aurait, de fait, si l’on essaie de suivre la chronologie, déjà écrit <hi rend="i">Le Misanthrope</hi> (4 juin 1666), mais pas encore <hi rend="i">Les Fourberies de Scapin</hi> (24 mai 1671), puisque cette pièce vient justement après <hi rend="i">Le Bourgeois gentilhomme</hi> (23 novembre 1670), que Molière est en train d’écrire dans la pièce. Si Gassicourt a donc pu s’inspirer de ces vers de Boileau, et, de manière générale, s’être servi de ses connaissances des relations entre Boileau et Molière pour y faire discrètement référence dans sa pièce, ce fut sans privilégier, une fois encore, la véracité chronologique, au profit d’une intelligence plus intuitive des relations entre les personnages. Dans cet esprit, on peut en outre souligner que Mongrédien évoque bien à cette époque des débuts de Boileau une amitié « solide et durable » avec Molière<note n="280" place="bottom"><hi rend="i">Ibid</hi>.</note> ; ce qui est également le cas dans <hi rend="i">Le Souper</hi>.</p>
@@ -749,7 +749,7 @@
             <actor>Jourdan.</actor>
           </castItem>
           <castItem>
-            <role xml:id="un-tabellion" rend="male exterior">UN <ref target="#tabellion">TABELLION*</ref>.</role>
+            <role xml:id="un-tabellion" rend="male exterior">UN <ref target="#tabellion">TABELLION</ref>.</role>
           </castItem>
           <castItem>
             <role xml:id="villageois" rend="male exterior">VILLAGEOIS D’AUTEUIL.</role>
@@ -763,7 +763,7 @@
         <stage>Le Théâtre représente un sallon de campagne. Une porte vitrée laisse voir le jardin. Sur le devant de la scène est un chevalet avec le portrait de Molière, une table et un violon </stage>
         <div type="scene" xml:id="I01">
           <head>SCENE PREMIERE.</head>
-          <stage>ANTOINE, LAFOREST, tenant un <ref target="#houssoir">houssoir*</ref>.</stage>
+          <stage>ANTOINE, LAFOREST, tenant un <ref target="#houssoir">houssoir</ref>.</stage>
           <sp xml:id="I01-1" who="laforest">
             <speaker>LAFOREST.</speaker>
             <p>ALLONS, Antoine, laisse-moi ; nous avons du monde ce soir, et je n’ai pas plus de tems qu’il ne m’en faut...</p>
@@ -774,7 +774,7 @@
           </sp>
           <sp xml:id="I01-3" who="laforest">
             <speaker> LAFOREST.</speaker>
-            <p>Je vois bien qu’il me faut débarrasser de toi… Eh bien ! oui, mon garçon ; tout est arrangé, et j’en ai la parole ; mais il faut te le dire : j’ai bien eu de la peine. Sans mon maitre, qui a promis de fouiller à l’<ref target="#escarcelle">escarcelle*</ref>, et de payer la dot de Madelon, ma foi je n’obtenois rien.<pb n="3 ; A2" xml:id="p3"/></p>
+            <p>Je vois bien qu’il me faut débarrasser de toi… Eh bien ! oui, mon garçon ; tout est arrangé, et j’en ai la parole ; mais il faut te le dire : j’ai bien eu de la peine. Sans mon maitre, qui a promis de fouiller à l’<ref target="#escarcelle">escarcelle</ref>, et de payer la dot de Madelon, ma foi je n’obtenois rien.<pb n="3 ; A2" xml:id="p3"/></p>
           </sp>
           <sp xml:id="I01-4" who="antoine">
             <speaker>ANTOINE.</speaker>
@@ -804,7 +804,7 @@
             <p><space/>Sans doute<note n="393" place="bottom"> « Façon de parler adverbiale, qui signifie hors de <hi rend="i">doute</hi>, certainement. » (<hi rend="i">Dictionnaire universel</hi> de Furetière, 1690).</note>, car je l’aime bien.</p>
           </sp>
           <sp xml:id="I01-9" who="laforest">
-            <speaker>LAFOREST, <hi rend="i">avec ironie.</hi></speaker>
+            <speaker>LAFOREST, </speaker><stage>avec ironie.</stage>
             <p>Et puis, épouser le jardinier de M. Boileau ; dame<note n="394" place="bottom"> « Une espèce d’adverbe qui sert à affirmer. <hi rend="i">Dame, si vous ne vous arrêtez. Dame, vous m’en direz tant que je ne saurais plus que répondre</hi>. Il est bas. » (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1694). L’édition de 1762 reprend la même définition, à l’exception près de la fin : « il est populaire » et non « bas ».</note>, c’est bien flatteur !</p>
             <l n="8" xml:id="l8" rend="center">AIR : <hi rend="i">Du haut en bas.</hi></l>
             <l n="9" xml:id="l9" rend="center">Tiens, c’est un fait :</l>
@@ -876,7 +876,7 @@
             <p>ALLONS, mon ami, mettons-nous à l’ouvrage... Ah ! bonjour, Laforest.</p>
           </sp>
           <sp xml:id="I02-2" who="laforest">
-            <speaker>LAFOREST, <hi rend="i">un peu émue.</hi></speaker>
+            <speaker>LAFOREST, </speaker><stage>un peu émue.</stage>
             <p><space/>Bonjour, M. Mignard.</p>
           </sp>
           <sp xml:id="I02-3" who="lulli">
@@ -937,11 +937,11 @@
             <l n="33" xml:id="l33" rend="center">Qu'il renaîtrait par l’amitié.</l>
           </sp>
           <sp xml:id="I03-3" who="lulli">
-            <speaker> LULLI, <hi rend="i">à part.</hi></speaker>
-            <p>Oui, l’air doit être grave... la mesure bien marquée...<pb n="7" xml:id="p7"/> Ces médecins dans leur épaisse fourrure ; ces <ref target="#apothicaire">apothicaires*</ref> dans leur figure blême, enterrée dans une perruque noire... tout cela marche à pas comptés, et la musique doit avoir une cadence bien prononcée... <hi rend="i">Sol, mi, sol, ut, ut, ré, sol, fa...</hi> C'est cela.</p>
+            <speaker> LULLI, </speaker><stage>à part.</stage>
+            <p>Oui, l’air doit être grave... la mesure bien marquée...<pb n="7" xml:id="p7"/> Ces médecins dans leur épaisse fourrure ; ces <ref target="#apothicaire">apothicaires</ref> dans leur figure blême, enterrée dans une perruque noire... tout cela marche à pas comptés, et la musique doit avoir une cadence bien prononcée... <hi rend="i">Sol, mi, sol, ut, ut, ré, sol, fa...</hi> C'est cela.</p>
             <l n="34" xml:id="l34" rend="center">AIR : <hi rend="i">De la marche du malade imaginaire.</hi></l>
-            <l n="35" xml:id="l35" rend="center"><hi rend="i">Dignus, dignus est intrare</hi></l>
-            <l n="36" xml:id="l36" rend="center"><hi rend="i">In nostro, in nostro</hi></l>
+            <l n="35" xml:id="l35" rend="center i">Dignus, dignus est intrare</l>
+            <l n="36" xml:id="l36" rend="center i">In nostro, in nostro</l>
             <l n="37" xml:id="l37" rend="center">
               <hi rend="i">In nostro docto corporo.</hi>
               <note n="407" place="bottom"> Cf. Le troisième intermède du <hi rend="i">Malade Imaginaire</hi> (Édition de 1682) : « Bene, bene, bene, bene respondere. / Dignus, dignus est intrare / In nostro docto corpore. », transcrit par l’édition de 2010 de La Pléiade (Georges Forestier et Claude Bourqui) : « Bien, bien, bien, bien répondu ; / Il est digne, digne d’entrer / Dans notre docte corps. » Il convient en outre de noter que le compositeur de la musique du <hi rend="i">Malade Imaginaire</hi> n’est pas Lully, mais Charpentier. Quant au terme « corporo » au lieu de « corpore » : il s’agit probablement là d’une coquille.</note>
@@ -964,11 +964,11 @@
             <p>Qui voulait te faire médecin ?</p>
           </sp>
           <sp xml:id="I03-8" who="laforest">
-            <speaker>LAFOREST, <hi rend="i">accourant.</hi></speaker>
+            <speaker>LAFOREST, </speaker><stage>accourant.</stage>
             <p>Comment donc ? Médecin ! Ah ! mon dieu.</p>
           </sp>
           <sp xml:id="I03-9" who="lulli">
-            <speaker> LULLI,<hi rend="i">gaiement.</hi></speaker>
+            <speaker> LULLI,</speaker><stage>gaiement.</stage>
             <p><space/>Oui, Laforest : ne l’ai-je pas vu, pendant trois ans, suivre tous les pas d’un fameux docteur... en <hi rend="i">us</hi><note n="409" place="bottom"> Cf. Certains érudits qui latinisaient leurs noms en leur donnant une finale en –us. On se reportera par exemple à Molière lui-même (pour ne pas citer Diafoirus) : « Oui, je suis un savant charmé de vos vertus, / Non pas de ces savants dont le nom n’est qu’en <hi rend="i">us</hi>, / Il n’est rien si commun qu’un nom à la latine : / Ceux qu’on habille en grec ont bien meilleure mine ; / Et pour en avoir un qui se termine en <hi rend="i">ès</hi>, / Je me fais appeler monsieur Caritidès. », (<hi rend="i">Les Fâcheux</hi>, Acte III, scène 2).</note>, et faire avec lui toutes les visites, le pauvre garçon !</p>
           </sp>
           <sp xml:id="I03-10" who="mignard">
@@ -1023,7 +1023,7 @@
           </sp>
           <sp xml:id="I03-18" who="lulli">
             <speaker>LULLI.</speaker>
-            <l n="56" xml:id="l56" rend="center"><hi rend="i">Même air.</hi></l>
+            <l n="56" xml:id="l56" rend="center i">Même air.</l>
             <l n="57" xml:id="l57" rend="center">Oui, mes amis, je l’avouerai :</l>
             <l n="58" xml:id="l58" rend="center">Voyez jusqu’où la peur nous mène ;</l>
             <l n="59" xml:id="l59" rend="center">A mon confesseur je livrai</l>
@@ -1035,7 +1035,7 @@
             <l n="64" xml:id="l64" rend="center">J'en avois gardé la copie.</l>
           </sp>
           <sp xml:id="I03-19" who="mignard">
-            <speaker>MIGNARD,<hi rend="i">l’embrassant.</hi></speaker>
+            <speaker>MIGNARD,</speaker><stage>l’embrassant.</stage>
             <p>Bravo ! Lulli ; je te pardonne, mon ami, je te pardonne, et ce soir à souper je veux te réhabiliter.</p>
           </sp>
           <sp xml:id="I03-20" who="lulli">
@@ -1202,7 +1202,7 @@
             <stage>(Ils tressent des fleurs.) </stage>
           </sp>
           <sp xml:id="I04-23" who="mignard">
-            <speaker>MIGNARD,<hi rend="i">montrant son portrait.</hi></speaker>
+            <speaker>MIGNARD,</speaker><stage>montrant son portrait.</stage>
             <p>Dites-moi, mes enfans, ai-je bien réussi ?</p>
             <l n="92" xml:id="l92" rend="center">AIR : <hi rend="i">Il est, il est, il est toujours le même.</hi></l>
             <l n="93" xml:id="l93" rend="center">C'est lui ! c’est lui !</l>
@@ -1254,7 +1254,7 @@
             <p>Quelle bienfaisance !</p>
           </sp>
           <sp xml:id="I04-35" who="mignard">
-            <speaker>MIGNARD,<hi rend="i">avec enthousiasme.</hi></speaker>
+            <speaker>MIGNARD,</speaker><stage>avec enthousiasme.</stage>
             <p>Quelle réunion de tous les talens ! de toutes les vertus !</p>
             <stage>(Il prend une couronne dans le panier d’Antoine.)</stage>
             <p>Ah ! je le vois ! L'admiration, l’amitié, la reconnaissance n’ont ici qu’une même pensée...</p>
@@ -1308,7 +1308,7 @@
             <l n="118" xml:id="l118" rend="center">Qu'il aime à faire deux fois.</l>
           </sp>
           <sp xml:id="I05-6" who="antoine">
-            <speaker>ANTOINE, <hi rend="i">à Molière.</hi></speaker>
+            <speaker>ANTOINE, </speaker><stage>à Molière.</stage>
             <p>Votre présence sera bien agréable pour nous.<pb n="16" xml:id="p16"/></p>
           </sp>
           <sp xml:id="I05-7" who="moliere">
@@ -1320,7 +1320,7 @@
             <p>Comment !</p>
           </sp>
           <sp xml:id="I05-9" who="madelon">
-            <speaker>MADELON,<hi rend="i">d’un air chagrin.</hi></speaker>
+            <speaker>MADELON,</speaker><stage>d’un air chagrin.</stage>
             <p>Et... pourquoi ?</p>
           </sp>
           <sp xml:id="I05-10" who="moliere">
@@ -1340,7 +1340,7 @@
             <p>Ce que c’est !... Tous les ans, ma chère, le pape défend l’entrée de l’église aux rats, aux sorciers, aux sauterelles, au diable et aux comédiens... à lui sur-tout.</p>
           </sp>
           <sp xml:id="I05-14" who="madelon">
-            <speaker>MADELON <hi rend="i">à Molière.</hi></speaker>
+            <speaker>MADELON </speaker><stage>à Molière.</stage>
             <p>Quel mal avez-vous donc fait ?</p>
           </sp>
           <sp xml:id="I05-15" who="lulli">
@@ -1349,7 +1349,7 @@
           </sp>
           <sp xml:id="I05-16" who="moliere">
             <speaker>MOLIERE.</speaker>
-            <p>Laissons-là les <ref target="#imprecation">imprécations*</ref> des prêtres,</p>
+            <p>Laissons-là les <ref target="#imprecation">imprécations</ref> des prêtres,</p>
             <l n="119" xml:id="l119" rend="center">AIR : <hi rend="i">Avec les jeux dans le village.</hi></l>
             <l n="120" xml:id="l120" rend="center">Par-tout l’auteur de la nature</l>
             <l n="121" xml:id="l121" rend="center">Reçoit notre encens et nos vœux,</l>
@@ -1369,10 +1369,10 @@
             <p>Oui... par jalousie de métier.</p>
           </sp>
           <sp xml:id="I05-19" who="moliere">
-            <speaker> MOLIERE, <hi rend="i">à part.</hi></speaker>
+            <speaker> MOLIERE, </speaker><stage>à part.</stage>
             <p>Ce mot-là ne sera pas perdu.</p>
             <stage> (À Antoine et Madelon.)</stage>
-            <p>Demain la noce se fera ici ; mais ce soir venez me retrouver avec le <ref target="#tabellion">tabellion*</ref> ; nous avons une petite affaire à terminer, et je vous promets d’assister aux fiançailles, si elles se font assez tard pour que j’y paraisse... sans scandaliser. Adieu, mes enfans... A ce soir.</p>
+            <p>Demain la noce se fera ici ; mais ce soir venez me retrouver avec le <ref target="#tabellion">tabellion</ref> ; nous avons une petite affaire à terminer, et je vous promets d’assister aux fiançailles, si elles se font assez tard pour que j’y paraisse... sans scandaliser. Adieu, mes enfans... A ce soir.</p>
           </sp>
         </div>
         <div type="scene" xml:id="I06">
@@ -1384,7 +1384,7 @@
           </sp>
           <sp xml:id="I06-2" who="laforest">
             <speaker> LAFOREST.</speaker>
-            <p>Vous voulez faire grande <ref target="#chere">chère*</ref> ?<pb n="18" xml:id="p18"/></p>
+            <p>Vous voulez faire grande <ref target="#chere">chère</ref> ?<pb n="18" xml:id="p18"/></p>
           </sp>
           <sp xml:id="I06-3" who="moliere">
             <speaker>MOLIERE. </speaker>
@@ -1432,7 +1432,7 @@
           </sp>
           <sp xml:id="I06-12" who="moliere">
             <speaker>MOLIERE.</speaker>
-            <p>Ah !... Lulli ! trève pour les <ref target="#pointe">pointes*</ref>,... jusqu’au dessert.<pb n="19" xml:id="p19"/></p>
+            <p>Ah !... Lulli ! trève pour les <ref target="#pointe">pointes</ref>,... jusqu’au dessert.<pb n="19" xml:id="p19"/></p>
           </sp>
           <sp xml:id="I06-13" who="laforest">
             <speaker>LAFOREST. </speaker>
@@ -1461,7 +1461,7 @@
           <stage>MOLIERE, LAFOREST, MIGNARD.</stage>
           <stage>(Mignard travaille, et Laforest, appuyée sur un balai, l’examine).</stage>
           <sp xml:id="I07-1" who="moliere">
-            <speaker>MOLIERE,<hi rend="i">s’approchant de son bureau.</hi></speaker>
+            <speaker>MOLIERE,</speaker><stage>s’approchant de son bureau.</stage>
             <p>COMBIEN j’ai de choses en arrière<note n="436" place="bottom"> Comprendre : « combien j’ai d’affaires en retard, à régler. »</note> ! ... Voici des lettres que je n’ai pas encore lues... Voyons... De la Thorillière<note n="437" place="bottom"> François Le Noir, sieur de La Thorillière (1626-1680), ancien officier du régiment de Lorraine, devenu comédien. Il est notamment rédacteur du fameux registre de la Troupe de Molière à Paris, dont il fait partie dès juin 1662. Cadet de Gassicourt est donc mal renseigné : La Thorillière ne peut en effet pas informer Molière d’un succès auquel ce dernier serait étranger, dans la mesure où c’est un acteur qui ne quittera sa troupe qu’après sa mort. </note> ? Que me mande-t-il ? Un nouveau succès... Bravo !... Ecoutez, écoutez... voici du comique. <hi rend="i">Je te préviens, mon ami, que les Poquelins</hi><note n="438" place="bottom"> Nathalie Fournier, lors d’une communication électronique, nous a personnellement indiqué sur ce point : « les débats sont ouverts au XVIII<hi rend="sup">e</hi> siècle sur le problème du pluriel des noms propres. », et nous a conseillé de lire les pages 1428 et 1429 de l’<hi rend="i">Histoire de la Langue française des origines à 1900</hi>, par Alexis François, tome VI : « Les éditeurs de Voltaire à Khel […] le constatent, à propos de la phrase : <hi rend="i">les Desfontaines, les Fréron, les Paulian</hi>.[…] La note suggère de rendre les noms propres dans tous les cas “indéclinables“, sauf licence poétique. » On trouve en tout cas bel et bien dans la <hi rend="i">Vie de Molière</hi> de Voltaire la formule « arbre généalogique de la famille des Poquelins. » (p.23), tout comme chez M.Bret, <hi rend="i">Œuvres de Molière</hi> (p.52).</note>, <hi rend="i">pour assurer leur nouvelle noblesse, viennent de faire dresser leur généalogie.</hi><pb n="20" xml:id="p20"/></p>
           </sp>
           <sp xml:id="I07-2" who="mignard">
@@ -1491,25 +1491,25 @@
             <l n="159" xml:id="l159" rend="center">On n’oubliera jamais Molière.</l>
           </sp>
           <sp xml:id="I07-5" who="moliere">
-            <speaker>MOLIERE, <hi rend="i">à Laforest.</hi></speaker>
+            <speaker>MOLIERE, </speaker><stage>à Laforest.</stage>
             <p>Je ne travaille que pour cela. -- Je crois que j’aurai le tems avant le souper de te lire une scène de mon <hi rend="i">Bourgeois gentilhomme</hi><note n="441" place="bottom"> Comédie-Ballet de Molière, en cinq actes et en prose, faite à Chambord, pour le divertissement du Roi au mois d’octobre 1670, et représentée, en public, à Paris, pour la première fois, sur le théâtre du Palais-Royal, le 23 novembre 1670 par la Troupe du Roi.</note>... Il y a dans cette pièce une certaine Nicole, qui t’est, je crois, un peu parente... Mets-toi là : écoute-moi sérieusement.</p>
           </sp>
           <sp xml:id="I07-6" who="laforest">
             <speaker>LAFOREST.</speaker>
-            <p><space/>Le moyen !<note n="442" place="bottom"> Comprendre : « Et comment le pourrais-je ? ». <hi rend="i">Dictionnaires de l’Académie française</hi> (1694 et 1762) : « On dit dans ce sens, et par manière d’interrogation, <hi rend="i">Eh le moyen ! Eh quel moyen</hi> ! pour dire que la chose dont on parle ne se peut faire. <hi rend="i">Vous voulez que je fasse telle chose, eh le moyen, quel moyen</hi> ! » </note>* vous me faites toujours rire.</p>
+            <p><space/>Le moyen !<note n="442" place="bottom"> Comprendre : « Et comment le pourrais-je ? ». <hi rend="i">Dictionnaires de l’Académie française</hi> (1694 et 1762) : « On dit dans ce sens, et par manière d’interrogation, <hi rend="i">Eh le moyen ! Eh quel moyen</hi> ! pour dire que la chose dont on parle ne se peut faire. <hi rend="i">Vous voulez que je fasse telle chose, eh le moyen, quel moyen</hi> ! » </note> vous me faites toujours rire.</p>
             <stage>(Elle s’assied.)</stage>
             <pb n="21" xml:id="p21"/>
           </sp>
           <sp xml:id="I07-7" who="moliere">
-            <speaker>MOLIERE,<hi rend="i">tenant un cahier.</hi></speaker>
+            <speaker>MOLIERE,</speaker><stage>tenant un cahier.</stage>
             <p>Tant mieux !... C'est le moment où M. Jourdain reçoit son tailleur. <hi rend="i">M. Jourdain, Ah ! vous voilà ! je m’allais mettre en colère contre vous ; vous m’avez envoyé des bas de soie si étroits que j’ai eu...</hi> Mais quelqu’un vient, ce me semble, vois qui ce peut être.</p>
           </sp>
           <sp xml:id="I07-8" who="laforest">
-            <speaker>LAFOREST,<hi rend="i">après avoir regardé.</hi></speaker>
+            <speaker>LAFOREST,</speaker><stage>après avoir regardé.</stage>
             <p>C'est M. Boileau.</p>
           </sp>
           <sp xml:id="I07-9" who="mignard">
-            <speaker> MIGNARD, <hi rend="i">vivement.</hi></speaker>
+            <speaker> MIGNARD, </speaker><stage>vivement.</stage>
             <p>Boileau ! gare la critique<note n="443" place="bottom"> L’expression se construit à l’époque de manière directe : « gare » : « Il se dit par manière d’interjection. <hi rend="i">Gare</hi> l’eau !  Il se dit aussi par menaces : <hi rend="i">Gare le</hi> fouet, <hi rend="i">le</hi> bâton, etc. » (<hi rend="i">Dictionnaire critique de la langue française</hi>, Féraud, 1787-1788 ; même sens pour le <hi rend="i">Dictionnaire de l’Académie française</hi> de 1694 : « Espèce d’interjection pour avertir que l’on se mette à l’écart, pour laisser passer, ou pour éviter quelque danger. <hi rend="i">gare l’eau. gare le fouet. gare le bâton</hi>. »). Cette réaction de Mignard est peut-être un clin d’œil de Gassicourt au surnom donné à Boileau : le « législateur du Parnasse ».</note> !</p>
             <stage>(Il enlève et cache son tableau.)</stage>
             <p>Ne laissons pas voir un ouvrage qui n’est pas terminé.</p>
@@ -1525,7 +1525,7 @@
           <head>SCENE VIII.</head>
           <stage>BOILEAU, MIGNARD, MOLIERE, (un instant après) CHAPELLE.</stage>
           <sp xml:id="I08-1" who="moliere">
-            <speaker>MOLIERE, <hi rend="i">à Boileau.</hi></speaker>
+            <speaker>MOLIERE, </speaker><stage>à Boileau.</stage>
             <p>TU viens de bonne heure, et c’est me faire plaisir : on m’avait fait craindre de ne pas te voir ce soir.</p>
           </sp>
           <sp xml:id="I08-2" who="boileau">
@@ -1533,7 +1533,7 @@
             <p>Oui, mon ami, j’étais dans un de ces accès de misantropie où mon œil ne cherche et ne voit que des ridicules, où mon esprit se plaît à les peindre ; et comme on n’en trouve pas chez toi, j’avais peine à perdre ma journée.<pb n="22" xml:id="p22"/></p>
           </sp>
           <sp xml:id="I08-3" who="moliere">
-            <speaker>MOLIERE, <hi rend="i">avec gaité.</hi> </speaker>
+            <speaker>MOLIERE, </speaker><stage>avec gaité.</stage>
             <p>Ne dirait-on pas à tes regrets que c’est la journée de Titus<note n="444" place="bottom"> L’expression « journée de Titus » qualifie une journée au cours de laquelle on n’a malheureusement pas fait le bien autour de soi. Surnommé « les délices du genre humain », Titus (Titus Flavius Sabinus Vespasianus), empereur romain (fils de l’empereur Vespasien) du 1<hi rend="sup">er</hi> siècle après J.-C., laissa la légende d’un règne court de vingt-sept mois, mais réparateur et marqué par la prodigalité et la popularité. L’expression vient en effet de la formule que Titus prononça « un jour à souper », lorsqu’il « se souvint d’avoir passé la journée sans avoir fait de bien à personne » : « Ô, mes amis, s’écria-t-il alors, voilà un jour que j’ai perdu » ; « parole mémorable, et qui conservera à jamais sa juste célébrité. » (SUÉTONE, <hi rend="i">Vie des douze Césars</hi> (1556), Tome quatrième, « Vie de Titus », Paris, Saillant et Nyon, 1771, p. 278).</note> ! Va, mon pauvre Despreaux, Chapelle et Lulli sauront dissiper tes sombres idées.</p>
           </sp>
           <sp xml:id="I08-4" who="boileau">
@@ -1541,7 +1541,7 @@
             <p>Chapelle !</p>
           </sp>
           <sp xml:id="I08-5" who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">entrant.</hi></speaker>
+            <speaker>CHAPELLE, </speaker><stage>entrant.</stage>
             <p>N'en dites pas de mal ?</p>
           </sp>
           <sp xml:id="I08-6" who="boileau">
@@ -1549,11 +1549,11 @@
             <p>Si j’avais su qu’il soupât ici, je me serais rendu plus difficile encore.</p>
           </sp>
           <sp xml:id="I08-7" who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">riant.</hi></speaker>
+            <speaker>CHAPELLE, </speaker><stage>riant.</stage>
             <p>Quoi ! toujours de la rancune ? Ah ! ah ! ah !</p>
           </sp>
           <sp xml:id="I08-8" who="moliere">
-            <speaker>MOLIERE, <hi rend="i">à Boileau.</hi></speaker>
+            <speaker>MOLIERE, </speaker><stage>à Boileau.</stage>
             <p>Chapelle t’aurait-il offensé ? Il en est incapable... à jeun.</p>
           </sp>
           <sp xml:id="I08-9" who="boileau">
@@ -1571,14 +1571,14 @@
             <l n="161" xml:id="l161" rend="center">Pour soustraire au vent, à l’orage,</l>
             <l n="162" xml:id="l162" rend="center">Un moraliste aussi parfait,</l>
             <l n="163" xml:id="l163" rend="center">Mon amitié prudente et sage</l>
-            <l n="164" xml:id="l164" rend="center">L'abrita dans un <ref target="#cabaret">cabaret*</ref><note n="445" place="bottom"> À ne pas confondre avec taverne. Cf. Glossaire.</note>.<pb n="23" xml:id="p23"/></l>
+            <l n="164" xml:id="l164" rend="center">L'abrita dans un <ref target="#cabaret">cabaret</ref><note n="445" place="bottom"> À ne pas confondre avec taverne. Cf. Glossaire.</note>.<pb n="23" xml:id="p23"/></l>
             <l n="165" xml:id="l165" rend="center">Là, son énergique éloquence</l>
             <l n="166" xml:id="l166" rend="center">Contre le vin se déchaîna,</l>
             <l n="167" xml:id="l167" rend="center">Et puis enfin il s’enivra</l>
             <l n="168" xml:id="l168" rend="center">En me vantant la tempérance.</l>
           </sp>
           <sp xml:id="I08-12" who="moliere">
-            <speaker>MOLIERE,<hi rend="i">riant, à Boileau.</hi></speaker>
+            <speaker>MOLIERE,</speaker><stage>riant, à Boileau.</stage>
             <p>Quoi ! tout de bon<note n="446" place="bottom"> « Tout de bon » signifie « sérieusement » (<hi rend="i">Dictionnaires de l’Académie française</hi>, 1694 et 1762). Exemple de l’édition de 1762 : « <hi rend="i">Vous parlez tout de bon</hi> ? ».</note> ?</p>
           </sp>
           <sp xml:id="I08-13" who="boileau">
@@ -1586,7 +1586,7 @@
             <p>Le traître dit vrai<note n="447" place="bottom"> M.Bret dit à ce propos : « Chapelle avait rendu Boileau presque aussi buveur que lui ; on sait qu’il l’enivra une fois en écoutant ses conseils sur la sobriété, mais peu de gens connaissent le quatrain qu’il fit un jour sur le plaisir qu’il avait à déranger quelquefois la raison du satirique : le voici. “O Dieux ! que j’épargne de bile / Et d’injures au genre humain, / Lorsque versant ta lampe d’huile, / Je te mets le verre à la main ! ” » (<hi rend="i">Œuvres de Molière</hi>, volume 1, 1778, « Supplément à la vie de Molière », note p. 65-66).</note>.</p>
           </sp>
           <sp xml:id="I08-14" who="moliere">
-            <speaker>MOLIERE, <hi rend="i">à part.</hi></speaker>
+            <speaker>MOLIERE, </speaker><stage>à part.</stage>
             <p>C'est une scène !</p>
           </sp>
           <sp xml:id="I08-15" who="boileau">
@@ -1598,7 +1598,7 @@
             <p rend="margin">Je fus obligé de le reconduire, moi ! et ce qu’il y a de plus plaisant, c’est que nous fûmes rencontrés par Cottin et par Chapelain<note n="449" place="bottom"> « Cotin ou Cottin (Charles) : « Si maltraité dans les <hi rend="i">satires</hi> de Boileau, et dans la scène de Trissotin et de Vadius, qui est la cinquième du troisième acte des <hi rend="i">femmes savantes</hi> de Molière, était parisien, poète et prédicateur. Il était conseiller et aumônier du roi, fut reçu à l’Académie française, et mourut en janvier 1682. » (MORÉRI, <hi rend="i">op. cit</hi>., Tome quatrième, p. 187). Quant à Chapelain : « (Jean) Conseiller du roi en ses conseils, l’un des premiers membres de l’Académie française. Il fit une étude particulière de la poétique, et l’on vit qu’il entendait cette matière, lorsqu’il donna sa <hi rend="i">lettre</hi> ou son <hi rend="i">discours</hi>, où il donne son opinion <hi rend="i">sur le poème d’Adonis du chevalier Marino</hi>, à la tête de ce poème, à Paris, <hi rend="i">in-folio</hi> en 1623. Le succès de cette pièce lui fit croire qu’il était appelé à faire un poème épique. Mais il eut lieu de prouver que l’on peut savoir parfaitement les règles de l’art poétique, sans être poète. Il prit pour sujet de son poème <hi rend="i">Jeanne d’Arc</hi>, ou <hi rend="i">la Pucelle d’Orléans</hi>, ou autrement <hi rend="i">la France délivrée</hi>. Il avait 34 ans quand il mit la main à l’œuvre, et il fut de plus de vingt ans à l’achever. Le plan fait d’abord en prose sous ce titre : <hi rend="i">La Pucelle, ou la France délivrée</hi>, poème héroïque, à Paris, <hi rend="i">in-folio</hi>, en 1656. Il n’y eut que les douze premiers chants qui parurent, c’est-à-dire, que l’on eut que la moitié de l’ouvrage, pour lequel la prévention fut d’abord victorieuse. Mais on ne tarda pas à ne plus s’imaginer y voir des beautés qui n’y étaient pas, et on y aperçut les défauts sans nombre qui y étaient. […]  Au reste, Chapelain fut le mieux renté de tous les beaux esprits de son temps. » (MORÉRI, <hi rend="i">op. cit</hi>., Tome troisième, p. 471-472).</note>.</p>
           </sp>
           <sp xml:id="I08-17" who="boileau">
-            <speaker>BOILEAU,<hi rend="i">avec emphâse.</hi></speaker>
+            <speaker>BOILEAU,</speaker><stage>avec emphâse.</stage>
             <p>Le père des douze fois douze cents vers de la pucelle !<note n="450" place="bottom"> Dans sa <hi rend="i">Nouvelle allégorique ou Histoire des derniers troubles arrivés au Royaume d’Éloquence</hi> (1658), Furetière évoque ainsi Chapelain : « Il se trouva aussi un <hi rend="i">Aventurier</hi> inconnu qui ne leva jamais la visière de son armée ; qui de gaieté de cœur vint faire un défi au grand <hi rend="i">Chapelain</hi>, prétendant qu’il avait maltraité une <hi rend="i">Pucelle</hi> de grand mérite. » L’ « Aventurier » évoqué est un livre fait par un inconnu sous le nom de « du Rivage » contre la Pucelle, comme l’indique l’annotation de Furetière.</note></p>
           </sp>
           <sp xml:id="I08-18" who="mignard">
@@ -1622,7 +1622,7 @@
             <p>Je choisis toujours le meilleur, mon ami ; tiens, vois la réponse que j’ai faite.</p>
           </sp>
           <sp xml:id="I08-23" who="moliere">
-            <speaker>MOLIERE,<hi rend="i">prenant un papier que donne Chapelle.</hi></speaker>
+            <speaker>MOLIERE,</speaker><stage>prenant un papier que donne Chapelle.</stage>
             <p>En vers !</p>
           </sp>
           <sp xml:id="I08-24" who="chapelle">
@@ -1651,7 +1651,7 @@
             <l n="183" xml:id="l183" rend="center">Y soutiendra notre gaîté,</l>
             <l n="184" xml:id="l184" rend="center">Et nous croirons à votre table</l>
             <l n="185" xml:id="l185" rend="center">Aux charmes de la liberté.</l>
-            <p>Le <ref target="#trait">trait*</ref> est hardi... mais il est juste.</p>
+            <p>Le <ref target="#trait">trait</ref> est hardi... mais il est juste.</p>
           </sp>
           <sp xml:id="I08-26" who="mignard">
             <speaker>MIGNARD.</speaker>
@@ -1695,11 +1695,11 @@
             <p>Il a quelque grande affaire ?</p>
           </sp>
           <sp xml:id="I09-3" who="boileau">
-            <speaker> BOILEAU,<hi rend="i">malignement.</hi></speaker>
-            <p>Oui, un renard, une fourmi l’occupe<note n="454" place="bottom"> Cf. « Le Corbeau et le Renard » (Livre I, fable 2), « Le Renard et la Cigogne » (Livre I, fable 18), « Le Loup plaidant contre le Renard par-devant le Singe »   (Livre II - Fable 3), « Le Coq et le Renard » (Livre II, fable 15), « Le Renard et le Bouc » (Livre III, fable 5), « Le Renard et les Raisins » (Livre III, fable 11), « Le Renard et le Buste » (Livre IV, fable 14), « Le Renard ayant la queue coupée » (Livre V, fable 5), « Le Renard, le Singe et les Animaux » (Livre VI, fable 6), « Le Lion malade et le Renard » (Livre VI, fable 14) ; « La Cigale et la Fourmi » (Livre I, fable 1), « La Colombe et la Fourmi » (Livre II, fable 12), « La Mouche et la Fourmi » (Livre IV, fable 3). Il s’agit là des <hi rend="i">Fables</hi> concernant « un renard », « une fourmi », composant les six premiers livres actuels (qui correspondent au premier recueil de l’époque), publiés en 1668 : nous n’avons pas cité les fables contenues dans les livres suivants, afin de respecter le contexte de ce souper (cf. Introduction, IV).</note>.</p>
+            <speaker> BOILEAU,</speaker><stage>malignement.</stage>
+            <p>Oui, un renard, une fourmi l’occupe<note n="454" place="bottom"> Cf. « Le Corbeau et le Renard » (Livre I, fable 2), « Le Renard et la Cigogne » (Livre I, fable 18), « Le Loup plaidant contre le Renard par-devant le Singe »  (Livre II - Fable 3), « Le Coq et le Renard » (Livre II, fable 15), « Le Renard et le Bouc » (Livre III, fable 5), « Le Renard et les Raisins » (Livre III, fable 11), « Le Renard et le Buste » (Livre IV, fable 14), « Le Renard ayant la queue coupée » (Livre V, fable 5), « Le Renard, le Singe et les Animaux » (Livre VI, fable 6), « Le Lion malade et le Renard » (Livre VI, fable 14) ; « La Cigale et la Fourmi » (Livre I, fable 1), « La Colombe et la Fourmi » (Livre II, fable 12), « La Mouche et la Fourmi » (Livre IV, fable 3). Il s’agit là des <hi rend="i">Fables</hi> concernant « un renard », « une fourmi », composant les six premiers livres actuels (qui correspondent au premier recueil de l’époque), publiés en 1668 : nous n’avons pas cité les fables contenues dans les livres suivants, afin de respecter le contexte de ce souper (cf. Introduction, IV).</note>.</p>
           </sp>
           <sp xml:id="I09-4" who="moliere">
-            <speaker>MOLIERE, <hi rend="i">à part.</hi></speaker>
+            <speaker>MOLIERE, </speaker><stage>à part.</stage>
             <p>Le grand homme !<pb n="26" xml:id="p26"/></p>
           </sp>
           <sp xml:id="I09-5" who="chapelle">
@@ -1715,7 +1715,7 @@
             <l n="191" xml:id="l191" rend="center">Pour une fable.</l>
           </sp>
           <sp xml:id="I09-7" who="la-fontaine">
-            <speaker>LA FONTAINE<hi rend="i">se lève sans témoigner de surprise.</hi></speaker>
+            <speaker>LA FONTAINE</speaker><stage>se lève sans témoigner de surprise.</stage>
             <p><space/>Oui, mes amis, c’est une fable que je viens d’achever, et c’est le plaisir de souper chez Molière qui me l’a inspirée.</p>
           </sp>
           <sp xml:id="I09-8" who="moliere">
@@ -1745,7 +1745,7 @@
             <p><space/>Mais cela est bon... fort bon.</p>
           </sp>
           <sp xml:id="I09-11" who="la-fontaine">
-            <speaker> LA FONTAINE, <hi rend="i">naïvement.</hi></speaker>
+            <speaker> LA FONTAINE, </speaker><stage>naïvement.</stage>
             <p><space/>Je le crois.<pb n="27" xml:id="p27"/></p>
           </sp>
           <sp xml:id="I09-12" who="moliere">
@@ -1753,7 +1753,7 @@
             <p>Je te sais gré d’avoir pensé à nous en faisant cet apologue<note n="456" place="bottom"> « Instruction morale qu’on tire de quelque fable inventée exprès. L’<hi rend="i">apologue</hi> de l’âne et du roussin de Rabelais. Ce mot vient du Grec <hi rend="i">apologein</hi>, qui signifie <hi rend="i">raconter, rapporter</hi>. » (<hi rend="i">Dictionnaire universel</hi> de Furetière).</note>.</p>
           </sp>
           <sp xml:id="I09-13" who="boileau">
-            <speaker>BOILEAU, <hi rend="i">malignement.</hi></speaker>
+            <speaker>BOILEAU, </speaker><stage>malignement.</stage>
             <p>Ce n’est pas une fable... Mais c’est l’ouvrage d’un poëte exercé.</p>
           </sp>
           <sp xml:id="I09-14" who="mignard">
@@ -1775,7 +1775,7 @@
           </sp>
           <sp xml:id="I10-2" who="la-fontaine">
             <speaker>LA FONTAINE.</speaker>
-            <p>Par la <ref target="#galiote">galiote*</ref>.</p>
+            <p>Par la <ref target="#galiote">galiote</ref>.</p>
           </sp>
           <sp xml:id="I10-3" who="moliere">
             <speaker>MOLIERE.</speaker>
@@ -1851,7 +1851,7 @@
           </sp>
           <sp xml:id="I11-7" who="chapelle">
             <speaker>CHAPELLE.</speaker>
-            <l n="215" xml:id="l215" rend="center"><hi rend="i"><ref target="#recitatif">Récitatif*</ref>.</hi></l>
+            <l n="215" xml:id="l215" rend="center i"><ref target="#recitatif">Récitatif</ref>.</l>
             <l n="216" xml:id="l216" rend="center">Pardon, sage Lulli, pardon, sage Boileau ;</l>
             <l n="217" xml:id="l217" rend="center">Je suis, mes bons amis, plus difficile à table,</l>
             <l n="218" xml:id="l218" rend="center">Et je crois au vin blanc le rouge préférable,</l>
@@ -1891,7 +1891,7 @@
           </sp>
           <sp xml:id="I11-14" who="chapelle">
             <speaker> CHAPELLE.</speaker>
-            <p>Encore une <ref target="#turlupinade">turlupinade*</ref>.</p>
+            <p>Encore une <ref target="#turlupinade">turlupinade</ref>.</p>
           </sp>
           <sp xml:id="I11-15" who="moliere">
             <speaker>MOLIERE.</speaker>
@@ -1905,7 +1905,7 @@
             <p>Nous allons boire à ta meilleure santé.</p>
           </sp>
           <sp xml:id="I11-17" who="laforest">
-            <speaker>LAFOREST,<hi rend="i">à part, en contemplant la table.</hi></speaker>
+            <speaker>LAFOREST,</speaker><stage>à part, en contemplant la table.</stage>
             <p>On dit que les auteurs ne peuvent pas vivre ensemble, il me semble cependant que l’on est ici de fort bonne intelligence<note n="461" place="bottom"> « Correspondance, communication entre des personnes qui s’entendent l’une avec l’autre. <hi rend="i">Ils sont en bonne intelligence, en parfaite intelligence</hi> ». (<hi rend="i">Dictionnaires de l’Académie française</hi>, même acception pour les éditions de 1694, 1762 et 1798). </note>... Que cet accord fait plaisir ! Un souper d’amis comme ceux-là n’est pas facile à trouver.</p>
             <l n="229" xml:id="l229" rend="center">AIR : <hi rend="i">Une fille est un oiseau.</hi></l>
             <l n="230" xml:id="l230" rend="center">Au milieu de l’univers,</l>
@@ -1925,7 +1925,7 @@
             <p>Pour nous mettre en train, Lulli... fais-nous rire.</p>
           </sp>
           <sp xml:id="I11-19" who="chapelle">
-            <speaker> CHAPELLE,<hi rend="i">versant à boire à Lulli.</hi></speaker>
+            <speaker> CHAPELLE,</speaker><stage>versant à boire à Lulli.</stage>
             <p>Ah ! laisse-le souper.</p>
           </sp>
           <sp xml:id="I11-20" who="lulli">
@@ -2005,11 +2005,11 @@
             <p>Mignard a raison. La société n’offre qu’un plaisir, c’est celui d’y saisir des ridicules à censurer, ou des vices à combattre.</p>
           </sp>
           <sp xml:id="I11-32" who="moliere">
-            <speaker>MOLIERE, <hi rend="i">gaiement.</hi></speaker>
+            <speaker>MOLIERE, </speaker><stage>gaiement.</stage>
             <p>Je puis vous consulter, à ce que je vois, pour retoucher mon Misantrope.</p>
           </sp>
           <sp xml:id="I11-33" who="chapelle">
-            <speaker> CHAPELLE,<hi rend="i">versant à boire.</hi></speaker>
+            <speaker> CHAPELLE,</speaker><stage>versant à boire.</stage>
             <p>Il faut en convenir, les hommes sont plus traîtres... que le vin.</p>
           </sp>
           <sp xml:id="I11-34" who="la-fontaine">
@@ -2021,7 +2021,7 @@
             <p>Dis plutôt des momens de raison ; car c’est quand le vin me fait perdre la mienne, que je puis seulement supporter la vie... (<hi rend="i">Il verse à boire</hi>.) Buvons.</p>
           </sp>
           <sp xml:id="I11-36" who="boileau">
-            <speaker>BOILEAU,<hi rend="i">avec exaltation.</hi></speaker>
+            <speaker>BOILEAU,</speaker><stage>avec exaltation.</stage>
             <p>Lorsque l’amour, la table, le vin, le jeu, la gloire, satisfont nos passions, nous appellons cela des plaisirs, et ce ne sont que des erreurs. L'amour enfante la jalousie.<pb n="34" xml:id="p34"/></p>
           </sp>
           <sp xml:id="I11-37" who="la-fontaine">
@@ -2038,7 +2038,7 @@
             <stage>(Depuis ce moment, l’ivresse et l’exaltation augmentent par degrés.)</stage>
           </sp>
           <sp xml:id="I11-40" who="laforest">
-            <speaker>LAFOREST, <hi rend="i">à part.</hi></speaker>
+            <speaker>LAFOREST, </speaker><stage>à part.</stage>
             <p>Voilà pour des gens gais une bien singulière conversation !</p>
           </sp>
           <sp xml:id="I11-41" who="chapelle">
@@ -2050,7 +2050,7 @@
             <p>Nous heureux ! Qui peut dire cela ?</p>
           </sp>
           <sp xml:id="I11-43" who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">à Boileau.</hi></speaker>
+            <speaker>CHAPELLE, </speaker><stage>à Boileau.</stage>
             <p>Par exemple, toi, je ne sais pas comment tu peux exister, oui, toi, Boileau... On promet une pension à un poëte, tout Paris te nomme, et c’est Chapelain qui l’obtient.</p>
           </sp>
           <sp xml:id="I11-44" who="boileau">
@@ -2083,7 +2083,7 @@
             <l n="249" xml:id="l249" rend="center">Par le mal qu’on pouvait nous faire.<note n="471" place="bottom"> Cette idée de confiance dans le bonheur, de sérénité, rappelle la pensée d’Épicure, que l’abbé Batteux définit dans <hi rend="i">La Morale d’Épicure tirée de ses propres écrits</hi>, en faisant référence à la « volupté » et au « bien être de l’homme en cette vie » comme étant « le centre unique » de cette philosophie (1758, Avant-propos, p. 5). Cf. Introduction (V).</note></l>
           </sp>
           <sp xml:id="I11-49" who="chapelle">
-            <speaker>CHAPELLE,<hi rend="i">avec le plus grand enthousiasme.</hi></speaker>
+            <speaker>CHAPELLE,</speaker><stage>avec le plus grand enthousiasme.</stage>
             <p>Tu ne disais pas cela quand on arrêtait le Tartuffe, quand on n’allait qu’avec peine au Misantrope, tandis que tout Paris courait aux pièces de Pradon<note n="472" place="bottom"> Jacques Pradon (1644-1698) : « Poète français, était de Rouen. Il a donné au public quelques pièces de théâtre assez médiocres. » (MORÉRI, <hi rend="i">op. cit</hi>., Tome huitième, p. 538). Là encore, on constate que Cadet de Gassicourt ne prête pas une attention rigoureuse à la chronologie : Pradon commence en effet sa carrière vers le moment de la mort de Molière, <hi rend="i">Pyrame et Thisbé</hi>, représentée en 1674, étant sa première pièce. </note>.</p>
           </sp>
           <sp xml:id="I11-50" who="boileau">
@@ -2107,7 +2107,7 @@
             <p>Déchirés par les journalistes<note n="475" place="bottom"> Il s’agit là d’un anachronisme : le mot est en effet absent chez Furetière, et dans la première édition du <hi rend="i">Dictionnaire de l’Académie française</hi> ; il apparaît dans celle de 1762 : « Celui qui fait un Journal. »</note>.</p>
           </sp>
           <sp xml:id="I11-55" who="moliere">
-            <speaker> MOLIERE, <hi rend="i">à part.</hi></speaker>
+            <speaker> MOLIERE, </speaker><stage>à part.</stage>
             <p>Que penser des hommes, si les plus sages, les plus éclairés peuvent s’oublier ainsi ?<pb n="36" xml:id="p36"/></p>
           </sp>
           <sp xml:id="I11-56" who="boileau">
@@ -2135,7 +2135,7 @@
             <p>Dans un désert<note n="477" place="bottom"> Avant tout : lieu « qui n’est guère fréquenté. <hi rend="i">Ville déserte, campagne déserte</hi>. » (<hi rend="i">Dictionnaires de l’Académie française</hi>, 1694, 1762, et <hi rend="i">Dictionnaire de Féraud</hi>, 1787-88).</note> !</p>
           </sp>
           <sp xml:id="I11-62" who="la-fontaine lulli chapelle boileau laforest mignard">
-            <speaker>TOUS,<hi rend="i">hors Moliere.</hi></speaker>
+            <speaker>TOUS,</speaker><stage>hors Moliere.</stage>
             <p>Dans un désert.</p>
           </sp>
           <sp xml:id="I11-63" who="la-fontaine">
@@ -2154,7 +2154,7 @@
             <l n="252" xml:id="l252" rend="center">Un cloître pour moi, je vous jure,</l>
             <l n="253" xml:id="l253" rend="center">Est sans appas :</l>
             <l n="254" xml:id="l254" rend="center">Un désert ne nous convient pas.</l>
-            <p>Mais <ref target="#parbleu">parbleu*</ref> ! je pense que nous ne sommes pas loin du pont...</p>
+            <p>Mais <ref target="#parbleu">parbleu</ref> ! je pense que nous ne sommes pas loin du pont...</p>
             <p>Eh bien ! mes amis,</p>
             <l n="255" xml:id="l255" rend="center">Vers ce pont allons en droiture,</l>
             <l n="256" xml:id="l256" rend="center">Et prenons-en tous la mesure</l>
@@ -2165,19 +2165,19 @@
             <p>Bravo ! bravo ! Oui, le pont... du haut en bas.</p>
           </sp>
           <sp xml:id="I11-67" who="moliere">
-            <speaker> MOLIERE, <hi rend="i">à part.</hi></speaker>
+            <speaker> MOLIERE, </speaker><stage>à part.</stage>
             <p>Voyons jusqu’où l’enthousiasme ira.</p>
           </sp>
           <sp xml:id="I11-68" who="chapelle">
-            <speaker> CHAPELLE, <hi rend="i">se levant.</hi></speaker>
+            <speaker> CHAPELLE, </speaker><stage>se levant.</stage>
             <p>Allons !</p>
           </sp>
           <sp xml:id="I11-69" who="laforest">
-            <speaker>LAFOREST, <hi rend="i">effrayée.</hi></speaker>
+            <speaker>LAFOREST, </speaker><stage>effrayée.</stage>
             <p>Ah ! mon dieu !</p>
           </sp>
           <sp xml:id="I11-70" who="lulli">
-            <speaker> LULLI,<hi rend="i">se levant.</hi></speaker>
+            <speaker> LULLI,</speaker><stage>se levant.</stage>
             <p>Cette idée est grande, elle peut nous immortaliser.</p>
           </sp>
           <sp xml:id="I11-71" who="mignard">
@@ -2193,7 +2193,7 @@
             <stage>(Il se lève.) </stage>
           </sp>
           <sp xml:id="I11-72" who="boileau">
-            <speaker>BOILEAU, <hi rend="i">se lève.</hi></speaker>
+            <speaker>BOILEAU, </speaker><stage>se lève.</stage>
             <p>Enfin je n’entendrai plus parler de la Serre, ni de l’abbé Depure<note n="479" place="bottom"> De Pure (orthographe du XVII<hi rend="sup">e</hi> siècle) (1620-1680) : <hi rend="i">L’Abrégé de l’histoire du théâtre français : depuis son origine jusqu’au premier juin de l’année 1780</hi>, par M. le Chevalier Mouhy (Paris, 1780, p. 352-353) évoque « <hi rend="i">Ostorius</hi>, tragédie de l’Abbé De Pure, représentée en 1659, à l’Hôtel de Bourgogne, imprimée dans la même année, in-12 : très faible et digne de la censure de Despréaux ; le même Abbé est aussi l’auteur d’une comédie qui a pour titre les <hi rend="i">Précieuses</hi>. » </note>.</p>
           </sp>
           <sp xml:id="I11-73" who="mignard">
@@ -2201,7 +2201,7 @@
             <p>Je ne verrai plus de croutes<note n="480" place="bottom"> Forme d’anachronisme : le mot est absent chez Furetière, et la première édition du <hi rend="i">Dictionnaire de l’Académie française</hi> orthographie « crouste », et n’indique pas le sens employé ici ; celle de 1762 contient l’orthographe moderne, mais n’évoque pas non plus ce sens. Le <hi rend="i">Dictionnaire</hi> de Trévoux (1771) est à cet égard plus significatif, car il ajoute : « en terme de peinture, un tableau douteux, une copie qu’on voudrait faire passer pour original, et généralement un tableau noir, écaillé, et dont le plus grand mérite est souvent d’être fort ancien » (sens qui apparaît dans l’édition de 1798 du <hi rend="i">Dictionnaire de l’Académie française</hi>).</note>.</p>
           </sp>
           <sp xml:id="I11-74" who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">à Moliere.</hi></speaker>
+            <speaker>CHAPELLE, </speaker><stage>à Moliere.</stage>
             <p>Toi, plus de Tartuffes.</p>
           </sp>
           <sp xml:id="I11-75" who="lulli">
@@ -2213,7 +2213,7 @@
             <p>Partons !<pb n="38" xml:id="p38"/></p>
           </sp>
           <sp xml:id="I11-77" who="moliere">
-            <speaker>MOLIERE, <hi rend="i">les arrêtant.</hi> (I)</speaker>
+            <speaker>MOLIERE, </speaker><stage>les arrêtant.</stage>
             <p>Un moment. O mes amis ! que faisons nous ? N'abandonnons point une résolution si belle aux fausses interprétations qu’on peut lui donner. On saura qu’à la suite d’un long souper nous aurons fait le sacrifice de notre existence, et la calomnie, avide de tout dénigrer, répandra le bruit que l’ivresse nous a plus inspirés que la philosophie. Amis, sauvons notre sagesse, attendons le retour prochain du soleil ; alors, aux yeux de tout le monde, nous donnerons cette leçon publique du mépris de la vie.</p>
           </sp>
           <sp xml:id="I11-78" who="boileau">
@@ -2221,7 +2221,7 @@
             <p>Il a raison ; c’est pour notre gloire que nous travaillons : il nous faut des témoins. Eh bien ! jurons que demain, à la pointe du jour...</p>
           </sp>
           <sp xml:id="I11-79" who="la-fontaine lulli chapelle boileau laforest moliere mignard">
-            <speaker>TOUS,<hi rend="i">excepté Moliere.</hi></speaker>
+            <speaker>TOUS,</speaker><stage>excepté Moliere.</stage>
             <p>Nous le jurons !</p>
           </sp>
           <sp xml:id="I11-80" who="moliere">
@@ -2279,7 +2279,7 @@
           <sp xml:id="I13-2" who="moliere">
             <speaker>MOLIERE.</speaker>
             <p>Ce m’est un grand plaisir ; mais il y manque encore une clause, père Mathurin.</p>
-            <stage>(Au <ref target="#tabellion">Tabellion*</ref>.)</stage>
+            <stage>(Au <ref target="#tabellion">Tabellion</ref>.)</stage>
             <p>Mettez que Madelon a deux cents écus<note n="486" place="bottom"> L’écu est une monnaie d’argent. Un écu équivaut à trois livres. </note> de dot.</p>
           </sp>
           <sp xml:id="I13-3" who="madelon">
@@ -2312,7 +2312,7 @@
             <l n="268" xml:id="l268" rend="center">D'un <hi rend="i">Misantrope sombre</hi>, quinteux<note n="487" place="bottom"> « Capricieux, fanatique, qui est sujet à des quintes. On le dit tant de l’homme, que des chevaux qui sont ombrageux. » (<hi rend="i">Dictionnaire universel</hi> de Furetière).</note>,</l>
             <l n="269" xml:id="l269" rend="center">D'un <hi rend="i">Etourdi</hi>, de quelques Fâcheux,</l>
             <l n="270" xml:id="l270" rend="center">Et d’un <hi rend="i">Malade bisarre.</hi></l>
-            <l n="271" xml:id="l271" rend="center">Ces gens-là peuvent bien se <ref target="#gener">gêner*</ref> ;</l>
+            <l n="271" xml:id="l271" rend="center">Ces gens-là peuvent bien se <ref target="#gener">gêner</ref> ;</l>
             <l n="272" xml:id="l272" rend="center">Mais ce qui va tous vous étonner,</l>
             <l n="273" xml:id="l273" rend="center">Mes enfans, j’ai, pour vous le donner,</l>
             <l n="274" xml:id="l274" rend="center">Fait contribuer un <hi rend="i">Avare.</hi></l>
@@ -2326,7 +2326,7 @@
             <p>Nous n’avons jamais vu chez vous ces hommes-là.</p>
           </sp>
           <sp xml:id="I13-11" who="laforest">
-            <speaker> LAFOREST,<hi rend="i">avec orgeuil.</hi></speaker>
+            <speaker> LAFOREST,</speaker><stage>avec orgeuil.</stage>
             <p>Je les ai vus, moi, et je vous mettrai au fait.</p>
           </sp>
           <sp xml:id="I13-12" who="mathurin">
@@ -2388,7 +2388,7 @@
             <l n="288" xml:id="l288" rend="center">Paix !</l>
           </sp>
           <sp xml:id="I13-26" who="lulli">
-            <speaker> LULLI,<hi rend="i">se réveillant.</hi></speaker>
+            <speaker> LULLI,</speaker><stage>se réveillant.</stage>
             <p>Ah !... Mais où suis-je ? Chapelle, Mignard, Boileau... Ah ! dieu ! j’avais oublié qu’hier... O funeste résolution ! J'étais ivre sans doute... Oui, j’étais ivre, et ce qu’on promet dans l’ivresse... Si je pouvais m’échapper... Quelle lâcheté ! Quel opprobre !... Boileau s’éveille... feignons de dormir encore.<pb n="43" xml:id="p43"/></p>
           </sp>
           <sp xml:id="I13-27" who="boileau">
@@ -2443,7 +2443,7 @@
             <p>Si nous éveillons nos camarades ?</p>
           </sp>
           <sp xml:id="I13-38" who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">avec crainte.</hi></speaker>
+            <speaker>CHAPELLE, </speaker><stage>avec crainte.</stage>
             <p>Non... non... pourquoi ? il n’est pas encore tems.</p>
           </sp>
           <sp xml:id="I13-39" who="la-fontaine">
@@ -2491,7 +2491,7 @@
             <p>Comment ! vous ne répondez rien ? Ne vous souvient-il plus de votre résolution ? Faut-il vous la répéter ?</p>
           </sp>
           <sp xml:id="I14-5" who="antoine">
-            <speaker>ANTOINE, <hi rend="i">à Chapelle.</hi></speaker>
+            <speaker>ANTOINE, </speaker><stage>à Chapelle.</stage>
             <l n="303" xml:id="l303" rend="center">AIR : <hi rend="i">Amusez-vous, jeunes fillettes.</hi></l>
             <l n="304" xml:id="l304" rend="center">Ne point accepter la partie,</l>
             <l n="305" xml:id="l305" rend="center">C'est vouloir nuire à not’ bonheur.</l>
@@ -2503,7 +2503,7 @@
             <p>Certainement (<hi rend="i">à part</hi>.) Quel chien d’honneur<note n="489" place="bottom"> Dès la première édition du <hi rend="i">Dictionnaire de l’Académie française</hi>, l’acception suivante est mentionnée : « Se dit fig. des personnes et des choses par injure et par mépris. <hi rend="i">Quel chien de musicien ! Quel chien de poète ! Voilà une chienne de musique, de comédie.</hi> » </note> !</p>
           </sp>
           <sp xml:id="I14-7" who="madelon">
-            <speaker>MADELON, <hi rend="i">à Lulli.</hi></speaker>
+            <speaker>MADELON, </speaker><stage>à Lulli.</stage>
             <l n="308" xml:id="l308" rend="center">Vous avez fait une promesse :</l>
             <l n="309" xml:id="l309" rend="center">Vous coûterait-elle à remplir ?</l>
             <l n="310" xml:id="l310" rend="center">Voyez la foule qui vous presse,</l>
@@ -2526,7 +2526,7 @@
             <p>Comptez maintenant sur vos amis.</p>
           </sp>
           <sp xml:id="I14-12" who="mignard">
-            <speaker>MIGNARD,<hi rend="i">montrant Moliere</hi></speaker>
+            <speaker>MIGNARD,</speaker><stage>montrant Moliere</stage>
             <p>Comme il est content, radieux !<pb n="46" xml:id="p46"/></p>
           </sp>
           <sp xml:id="I14-13" who="mathurin">
@@ -2558,7 +2558,7 @@
             <p>Comment ! Mais nous ne voulons pas autrement ; nous ne sommes pas excommuniés nous autres.</p>
           </sp>
           <sp xml:id="I14-20" who="moliere">
-            <speaker>MOLIERE,<hi rend="i">aux Villageois.</hi></speaker>
+            <speaker>MOLIERE,</speaker><stage>aux Villageois.</stage>
             <p>Allons, mes amis, distribuez-nous des fleurs.</p>
             <stage>(On donne des bouquets.) </stage>
           </sp>
@@ -2601,11 +2601,11 @@
           </sp>
           <sp xml:id="I14-30" who="lulli">
             <speaker>LULLI.</speaker>
-            <p><space/>La noce ! Je veux en être le <ref target="#menetrier">ménétrier*</ref>.</p>
+            <p><space/>La noce ! Je veux en être le <ref target="#menetrier">ménétrier</ref>.</p>
             <stage>(Il prend le violon.) </stage>
           </sp>
           <sp xml:id="I14-31" who="moliere">
-            <speaker>MOLIERE, <hi rend="i">riant.</hi></speaker>
+            <speaker>MOLIERE, </speaker><stage>riant.</stage>
             <p><space/>Avouez, Messieurs les esprits forts, que votre frayeur a été complette. Apprenez une autre fois à vous défier de votre imagination, et croyez que l’homme le plus malheureux tient à ce monde plus qu’il ne pense.</p>
           </sp>
           <sp xml:id="I14-32" who="chapelle">
@@ -2660,7 +2660,7 @@
             <l n="346" xml:id="l346" rend="center">Une ou deux pages de Cottin.</l>
           </sp>
           <sp xml:id="I14-37" who="la-fontaine">
-            <speaker>LA FONTAINE, <hi rend="i">aux Spectateurs.</hi> </speaker>
+            <speaker>LA FONTAINE, </speaker><stage>aux Spectateurs.</stage>
             <l n="347" xml:id="l347" rend="center">Un peintre avait perdu son ami le plus tendre,</l>
             <l n="348" xml:id="l348" rend="center">Jour et nuit il versait des pleurs :</l>
             <l n="349" xml:id="l349" rend="center">Son élève le voit. Touché de ses malheurs,</l>
@@ -2683,7 +2683,7 @@
             <l n="366" xml:id="l366" rend="center">Molière l’ami regretté ;</l>
             <l n="367" xml:id="l367" rend="center">Je suis l’élève de la fable :</l>
             <l n="368" xml:id="l368" rend="center">Puissai-je être aussi bien traité !</l>
-            <p rend="center">FIN.<pb n="50" xml:id="p50"/></p>
+            <trailer rend="center">FIN.<pb n="50" xml:id="p50"/></trailer>
           </sp>
         </div>
       </div>
@@ -2951,7 +2951,7 @@
             <head>Sites internet (consultés de janvier à septembre 2014)</head>
             <p><ref target="http://www.cesar.org.uk">http://www.cesar.org.uk</ref> (Calendrier Électronique des Spectacles sous l’Ancien Régime et sous la Révolution).</p>
             <p>
-              <ref target="http://www.moliere.paris-sorbonne.fr">http://www.moliere.paris-sorbonne.fr</ref>
+              <ref target="http://www.moliere.huma-num.fr">http://www.moliere.huma-num.fr</ref>
             </p>
             <p>
               <ref target="http://www.site-moliere.com">http://www.site-moliere.com</ref>

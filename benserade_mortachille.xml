@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -28,7 +25,7 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/benserade_mort-achille/</idno>
+        <idno>http://bibdramatique.huma-num.fr/benserade_mort-achille/</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Benserade, Isaac de</author>. <title>La Mort d'Achille</title>. </bibl>
@@ -427,7 +424,7 @@
           <head>SCENE TROISIESME.</head>
           <stage>PRIAM. HECUBE. POLIXENE. ACHILLE. BRISEIDE. ALCIMEDE.</stage>
           <sp who="achille" xml:id="I03-1">
-            <speaker>ACHILLE <hi rend="i">allant recevoir Priam.</hi></speaker>
+            <speaker>ACHILLE </speaker><stage>allant recevoir Priam.</stage>
             <l n="121" xml:id="l121">Certes mes ennemis sont trop officieux<note n="80" place="bottom">« Empressé, qui se mêle de tout (Dictionnaire de l’Académie française). »</note>,</l>
             <l n="122" xml:id="l122">Vous me faictes rougir de venir en ces lieux,</l>
             <l n="123" xml:id="l123">Je respecte dans vous, &amp; l’âge, &amp; le merite,</l>
@@ -479,7 +476,7 @@
             <l part="F">Levez vous, &amp; priez.</l>
           </sp>
           <sp who="briseide" xml:id="I03-10">
-            <speaker>BRISEIDE <hi rend="i">tout bas</hi>.</speaker>
+            <speaker>BRISEIDE </speaker><stage>tout bas</stage>
             <l n="143" xml:id="l143">Tenir pour un fils mort cette lasche posture !</l>
             <l n="144" xml:id="l144">A quoy ne nous réduit le sang, &amp; la nature ?</l>
           </sp>
@@ -575,7 +572,7 @@
             <l n="216" xml:id="l216">C’est vostre deshonneur plutost que vostre gloire.</l>
           </sp>
           <sp who="achille" xml:id="I03-17">
-            <speaker>ACHILLE <hi rend="i">tout bas.</hi></speaker>
+            <speaker>ACHILLE </speaker><stage>tout bas.</stage>
             <l n="217" xml:id="l217">Rien sur ma volonté ne peut estre absolu :</l>
             <l n="218" xml:id="l218">Ils ne l’auront jamais, j’y suis trop resolu.</l>
           </sp>
@@ -712,7 +709,7 @@
             <l part="F">Ce nouveau changement</l>
             <l n="306" xml:id="l306">Me donne de la crainte, &amp; de l’<ref target="#estonnement">estonnement</ref>.</l>
           </sp>
-          <label rend="b">Fin du premier Acte.</label>
+          <trailer rend="b">Fin du premier Acte.</trailer>
         </div>
       </div>
       <div type="act" xml:id="II">
@@ -802,7 +799,7 @@
         <div type="scene" xml:id="II02">
           <head>SCENE DEUXIESME.</head>
           <sp who="priam" xml:id="II02-1">
-            <speaker>PRIAM <hi rend="i">(luy allant à la rencontre.)</hi></speaker>
+            <speaker>PRIAM </speaker><stage>(luy allant à la rencontre.)</stage>
             <l n="361" xml:id="l361">Nous venons de pleurer sur les cendres d’Hector,</l>
             <l n="362" xml:id="l362">Et de ses os bruslez le bucher fume encor,</l>
             <l n="363" xml:id="l363">Depuis que nous menons cette vie affligée,</l>
@@ -978,7 +975,7 @@
         <div type="scene" xml:id="II03">
           <head>SCENE TROISIESME.</head>
           <sp who="alcimede" xml:id="II03-1">
-            <speaker>ALCIMEDE <hi rend="i">demeure seul</hi><note n="105" place="bottom"> Première apparition de ce personnage dont le nom tient à la fois d’Alkimos et d’Automédon. Mentionnés tous les deux dans l’<hi rend="i">Iliade</hi>, le premier est le rejeton d’Arès (XXIV) ; le second, qui occupe une place plus importante dans le récit homérique, est le conducteur du char d’Achille dont il est le compagnon de combat. Il joue un rôle non négligeable dans la guerre de Troie. Bien qu’Alcimède n’ait pas été mentionné auparavant, il semble avoir assisté à l’entretien entre Achille et le camp troyen.</note>.</speaker>
+            <speaker>ALCIMEDE <note n="105" place="bottom"> Première apparition de ce personnage dont le nom tient à la fois d’Alkimos et d’Automédon. Mentionnés tous les deux dans l’<hi rend="i">Iliade</hi>, le premier est le rejeton d’Arès (XXIV) ; le second, qui occupe une place plus importante dans le récit homérique, est le conducteur du char d’Achille dont il est le compagnon de combat. Il joue un rôle non négligeable dans la guerre de Troie. Bien qu’Alcimède n’ait pas été mentionné auparavant, il semble avoir assisté à l’entretien entre Achille et le camp troyen.</note>.</speaker><stage>demeure seul</stage>
             <l n="479" xml:id="l479">Où va ce pauvre aveugle ? il court au precipice,</l>
             <l n="480" xml:id="l480">“ Ha je voy bien qu’Achille est foible sans Ulisse,</l>
             <l n="481" xml:id="l481">“ Que la force ne peut divertir un mal-heur,</l>
@@ -1201,7 +1198,7 @@
             <l n="637" xml:id="l637">Voyons leurs Majestés devant que mon <ref target="#conseil">conseil</ref></l>
             <l n="638" xml:id="l638">Applique sur vos maux un premier appareil<note n="116" place="bottom">« Ce qu’on prepare pour faire une chose plus ou moins solemnelle (Furetière). » Achille veut parler de l’arrêt de la guerre et de la paix éternelle qu’il veut conclure avec les Troyens.</note>.</l>
           </sp>
-          <label rend="b">Fin du 2. Acte.</label>
+          <trailer rend="b">Fin du 2. Acte.</trailer>
         </div>
       </div>
       <div type="act" xml:id="III">
@@ -1323,7 +1320,7 @@
             <l n="717" xml:id="l717">Troye a bien de la force, &amp; son pouvoir est grand.</l>
           </sp>
           <sp who="ulisse" xml:id="III01-12">
-            <speaker>ULISSE, <hi rend="i">un peu bas.</hi></speaker>
+            <speaker>ULISSE, </speaker><stage>un peu bas.</stage>
             <l n="718" xml:id="l718">Elle est forte, il est vray, puis qu’Achille s’y rend,</l>
           </sp>
           <sp who="achille" xml:id="III01-13">
@@ -1371,7 +1368,7 @@
             <l n="740" xml:id="l740">Et ne perdons pas tout pour gaigner un seul homme.</l>
           </sp>
           <sp who="ulisse" xml:id="III01-20">
-            <speaker>ULISSE <hi rend="i">en r’entrant.</hi></speaker>
+            <speaker>ULISSE </speaker><stage>en r’entrant.</stage>
             <l n="741" xml:id="l741">“ Achille, un ennemy ne se doit frequenter,</l>
             <l n="742" xml:id="l742">“ C’est gloire de le perdre, &amp; non de le hanter.</l>
           </sp>
@@ -1451,7 +1448,7 @@
             <l n="794" xml:id="l794">“ Et qu’il est dangereux d’aymer son ennemy.</l>
           </sp>
           <sp who="achille" xml:id="III02-7">
-            <speaker>ACHILLE <hi rend="i">en la baisant.</hi></speaker>
+            <speaker>ACHILLE </speaker><stage>en la baisant.</stage>
             <l n="795" xml:id="l795">Ne croy point, mon soucy, que je change de flame,</l>
             <l n="796" xml:id="l796">Et qu’un objet nouveau te chasse de mon ame.</l>
           </sp>
@@ -1496,7 +1493,7 @@
         <div type="scene" xml:id="III03">
           <head>SCENE TROISIESME.</head>
           <sp who="briseide" xml:id="III03-1">
-            <speaker>BRISEIDE <hi rend="i">seule</hi>.</speaker>
+            <speaker>BRISEIDE </speaker><stage>seule</stage>
             <l n="827" xml:id="l827">Taisons-nous, il le faut, &amp; mon maistre l’ordonne,</l>
             <l n="828" xml:id="l828">“ Heureux qui n’a de loy que celle qu’il se donne,</l>
             <l n="829" xml:id="l829">“ Dont toujours la fortune est en un mesme point,</l>
@@ -1719,7 +1716,7 @@
           <head>SCENE SIXIESME.</head>
           <stage>ACHILLE, ALCIMEDE.</stage>
           <sp who="achille" xml:id="III06-1">
-            <speaker>ACHILLE, <hi rend="i">Il sort armé l’espée à la main.</hi></speaker>
+            <speaker>ACHILLE, </speaker><stage>Il sort armé l’espée à la main.</stage>
             <l n="973" xml:id="l973">Ha c’est trop, Alcimede, à ma gloire estre lent,</l>
             <l n="974" xml:id="l974">Il faut que je responde à ce jeune insolent,</l>
             <l n="975" xml:id="l975">Que je me satisface, &amp; que je le contente,</l>
@@ -1762,7 +1759,7 @@
             <l n="991" xml:id="l991">Allons, je vay gagner une telle victoire</l>
             <l n="992" xml:id="l992">Que mesme les vaincus auront part à ma gloire.</l>
           </sp>
-          <label rend="b">Fin du troisiesme Acte.</label>
+          <trailer rend="b">Fin du troisiesme Acte.</trailer>
         </div>
       </div>
       <div type="act" xml:id="IV">
@@ -2142,11 +2139,11 @@
           <head>SCENE QUATRIESME.</head>
           <stage>PARIS, DEIPHOBE cachez. ACHILLE, ALCIMEDE<note n="157" place="bottom">La scène est presque réduite à un échange de stichomythies qui renforcent le paroxysme de l’action dramatique. Hardy n’utilise pas la stichomythie : Achille s’étale en injures contre ses agresseurs et traite Pâris d’efféminé parce qu’il n’a pas eu le courage de l’affronter.</note>.</stage>
           <sp who="achille" xml:id="IV04-1">
-            <speaker>ACHILLE <hi rend="i">continüe son discours.</hi></speaker>
+            <speaker>ACHILLE </speaker><stage>continüe son discours.</stage>
             <l n="1247" xml:id="l1247">Crains-tu quelque ennemy quand ton oeil me contemple ?</l>
           </sp>
           <sp who="paris" xml:id="IV04-2">
-            <speaker>PARIS <hi rend="i">à Deiphobe.</hi></speaker>
+            <speaker>PARIS </speaker><stage>à Deiphobe.</stage>
             <l n="1248" part="I" xml:id="l1248">Nos gens ne sont pas loin ?</l>
           </sp>
           <sp who="deiphobe" xml:id="IV04-3">
@@ -2162,7 +2159,7 @@
             <l n="1250" part="I" xml:id="l1250">Mais vous estes mortel.</l>
           </sp>
           <sp who="paris" xml:id="IV04-6">
-            <speaker>PARIS <hi rend="i">l’apercevant.</hi></speaker>
+            <speaker>PARIS </speaker><stage>l’apercevant.</stage>
             <l part="F">Le voicy, je te tiens.</l>
           </sp>
           <sp who="alcimede" xml:id="IV04-7">
@@ -2185,7 +2182,7 @@
             <l part="F">Et c’est pourquoy je crains.</l>
           </sp>
           <sp who="paris" xml:id="IV04-10">
-            <speaker>PARIS <hi rend="i">prest à porter son coup.</hi></speaker>
+            <speaker>PARIS </speaker><stage>prest à porter son coup.</stage>
             <l n="1259" xml:id="l1259">Je sçay l’endroit fatal où je dois faire breche,</l>
             <l n="1260" xml:id="l1260">Juste Ciel, vange Troye, &amp; conduis cette fleche<note n="158" place="bottom"> Dictys cite Virgile qui rapporte qu’Apollon lui-même aurait dirigé le trait contre Achille : « <hi rend="i">Phabe, graves Troya semper miserante dolores</hi>, / <hi rend="i">Dardana qui Paridis direxit tela, manusque</hi>, / <hi rend="i">Corpus in íacidae</hi> (<hi rend="i">Énéide</hi>, VI). »</note>.</l>
           </sp>
@@ -2195,15 +2192,15 @@
             <l n="1262" xml:id="l1262">Qui viendroit m’attaquer ? mais Dieux ! je suis blessé.</l>
           </sp>
           <sp who="paris" xml:id="IV04-12">
-            <speaker>PARIS <hi rend="i">parest, &amp; les Troyens accourent.</hi></speaker>
+            <speaker>PARIS </speaker><stage>parest, &amp; les Troyens accourent.</stage>
             <l n="1263" part="I" xml:id="l1263">A nous, Troyens, à nous.</l>
           </sp>
           <sp who="alcimede" xml:id="IV04-13">
-            <speaker>ALCIMEDE <hi rend="i">l’espée à la main.</hi></speaker>
+            <speaker>ALCIMEDE </speaker><stage>l’espée à la main.</stage>
             <l part="F">Assassins execrables !</l>
           </sp>
           <sp who="achille" xml:id="IV04-14">
-            <speaker>ACHILLE <hi rend="i">se voulant deffendre</hi><note n="159" place="bottom">La résistance du héros est faible par rapport à celle dont il fait preuve dans le récit de Darès qui raconte comment, après une longue lutte contre leurs assaillants, Achille et Antiloque succombèrent à leurs multiples blessures.</note>.</speaker>
+            <speaker>ACHILLE <note n="159" place="bottom">La résistance du héros est faible par rapport à celle dont il fait preuve dans le récit de Darès qui raconte comment, après une longue lutte contre leurs assaillants, Achille et Antiloque succombèrent à leurs multiples blessures.</note>.</speaker><stage>se voulant deffendre</stage>
             <l n="1264" xml:id="l1264">Je vengeray ma mort, infames, detestables,</l>
             <l n="1265" xml:id="l1265">Mais Achille succombe à l’effort de vos coups,</l>
             <l n="1266" xml:id="l1266">Percez, percez ce coeur, il se fioit à vous.</l>
@@ -2230,11 +2227,11 @@
             <l n="1272" part="I" xml:id="l1272">Et qui l’a conspiré ?</l>
           </sp>
           <sp who="paris" xml:id="IV04-20">
-            <speaker>PARIS <hi rend="i">s’en allant.</hi></speaker>
+            <speaker>PARIS </speaker><stage>s’en allant.</stage>
             <l part="F">Moy, Polixene, &amp; Troye.</l>
           </sp>
           <sp who="alcimede" xml:id="IV04-21">
-            <speaker>ALCIMEDE <hi rend="i">mourant.</hi></speaker>
+            <speaker>ALCIMEDE </speaker><stage>mourant.</stage>
             <l n="1273" xml:id="l1273">Pour vous faire éviter ce funeste accident,</l>
             <l n="1274" xml:id="l1274">Alcimede vivoit, il meurt vous deffendant.</l>
           </sp>
@@ -2242,7 +2239,7 @@
         <div type="scene" xml:id="IV05">
           <head>SCENE CINQUIESME.</head>
           <sp who="achille" xml:id="IV05-1">
-            <speaker>ACHILLE <hi rend="i">Seul accoudé sur l’Autel.</hi></speaker>
+            <speaker>ACHILLE </speaker><stage>Seul accoudé sur l’Autel.</stage>
             <l n="1275" xml:id="l1275">Sçachez, vous qui tremblez aux actions hardies,</l>
             <l n="1276" xml:id="l1276">Qu’il est des chastimens, s’il est des perfidies,</l>
             <l n="1277" xml:id="l1277">Les Dieux me vangeront, non pas ces foibles Dieux,</l>
@@ -2297,7 +2294,7 @@
             <l n="1302" xml:id="l1302">Et ne vous vangez pas de moy, mais vangez moy<note n="161" place="bottom"><hi rend="i">« Adieu, je vay mourir, je ne laisse qu’un fils, / Sous toy futur vangeur des Troyens déconfits ; / Car vous ferez passer les antiques Pergames, / Priam suivy des siens, par le fer et les flames</hi> (Hardy, <hi rend="i">La Mort d’Achille</hi>, IV, 2). »</note>.</l>
           </sp>
           <sp who="ajax" xml:id="IV06-7">
-            <speaker>AJAX <hi rend="i">en l’embrassant.</hi></speaker>
+            <speaker>AJAX </speaker><stage>en l’embrassant.</stage>
             <l n="1303" xml:id="l1303">Ouy, j’useray contre eux de ta valeur extréme,</l>
             <l n="1304" xml:id="l1304">Et je m’efforceray d’heriter de toy-mesme.</l>
           </sp>
@@ -2314,7 +2311,7 @@
             <l n="1310" part="I" xml:id="l1310">Voilà comme il nous flatte.</l>
           </sp>
           <sp who="achille" xml:id="IV06-10">
-            <speaker>ACHILLE, <hi rend="i">il meurt</hi>.</speaker>
+            <speaker>ACHILLE, </speaker><stage>il meurt</stage>
             <l part="F">Il est vray, mais je meurs.</l>
           </sp>
           <sp who="ulisse" xml:id="IV06-11">
@@ -2340,7 +2337,7 @@
         <div type="scene" xml:id="IV07">
           <head>SCENE SEPTIESME.</head>
           <sp who="soldat" xml:id="IV07-1">
-            <speaker>SOLDAT <hi rend="i">voyant Achille mort.</hi></speaker>
+            <speaker>SOLDAT </speaker><stage>voyant Achille mort.</stage>
             <l part="F">Funestes aventures !</l>
             <l n="1324" xml:id="l1324">Je voy ce qu’ont predit tant de tristes augures,</l>
             <l n="1325" xml:id="l1325">Le camp sans les sçavoir commence à s’attrister,</l>
@@ -2360,7 +2357,7 @@
             <l n="1333" xml:id="l1333">Un superbe tombeau luy doit estre erigé,</l>
             <l n="1334" xml:id="l1334">Aussi-tost mis en cendre, apres plaint, puis vangé<note n="164" place="bottom">Le quatrième acte s’achève sur l’idée de la vengeance qui doit suivre la mort d’Achille. En fait, le cinquième acte ne développera pas ce thème : l’action principale s’interrompt définitivement ici.</note>.</l>
           </sp>
-          <label rend="b">Fin du quatriesme Acte.</label>
+          <trailer rend="b">Fin du quatriesme Acte.</trailer>
         </div>
       </div>
       <div type="act" xml:id="V">
@@ -2735,12 +2732,12 @@
             <l n="1670" xml:id="l1670">Au dessus de ce prix, mais Ulisse l’emporte.</l>
           </sp>
           <sp who="ulisse" xml:id="V02-6">
-            <speaker>ULISSE <hi rend="i">prend les armes.</hi></speaker>
+            <speaker>ULISSE </speaker><stage>prend les armes.</stage>
             <l n="1671" xml:id="l1671">Pour ces armes mon coeur a fait des voeux ardens,</l>
             <l n="1672" xml:id="l1672">Assurez-vous (Gregeois) que je mourray dedans.</l>
           </sp>
           <sp who="agamemnon" xml:id="V02-7">
-            <speaker>AGAMEMNON <hi rend="i">à Ulisse</hi>.</speaker>
+            <speaker>AGAMEMNON </speaker><stage>à Ulisse</stage>
             <l n="1673" xml:id="l1673">Ses yeux, &amp; son silence expliquent bien sa rage,</l>
             <l n="1674" xml:id="l1674">Ulysse, adoucissons ce violent courage.</l>
           </sp>
@@ -2754,7 +2751,7 @@
             <l n="1680" xml:id="l1680">Et personne que toy ne les sçauroit porter.</l>
           </sp>
           <sp who="ajax" xml:id="V02-9">
-            <speaker>AJAX <hi rend="i">monstrant l’espée d’Achille au costé d’Ulisse.</hi></speaker>
+            <speaker>AJAX </speaker><stage>monstrant l’espée d’Achille au costé d’Ulisse.</stage>
             <l n="1681" xml:id="l1681">Vous avez pour ce fer des mains assez robustes,</l>
             <l n="1682" xml:id="l1682">Ajax est moins qu’Ulisse, &amp; mes juges sont justes.</l>
           </sp>
@@ -2796,7 +2793,7 @@
             <l part="F">Ha ! sa fureur l’emporte.</l>
           </sp>
           <sp who="ajax" xml:id="V02-13">
-            <speaker>AJAX, <hi rend="i">Il tire son espée.</hi></speaker>
+            <speaker>AJAX, </speaker><stage>Il tire son espée.</stage>
             <l n="1710" xml:id="l1710">Mais sçachez que ma cause est tousjours la plus forte,</l>
             <l n="1711" xml:id="l1711">Ce fer au lieu de vous me recompensera,</l>
             <l n="1712" xml:id="l1712">Et d’Ajax seulement Ajax triomphera,</l>
@@ -2811,7 +2808,7 @@
             <l n="1718" xml:id="l1718">Vous aurez tout vaincu vous surmontant vous-mesme.</l>
           </sp>
           <sp who="ajax" xml:id="V02-15">
-            <speaker>AJAX <hi rend="i">le regardant de travers.</hi></speaker>
+            <speaker>AJAX </speaker><stage>le regardant de travers.</stage>
             <l n="1719" xml:id="l1719">Qu’on ne m’aproche pas, ou je me vangeray</l>
             <l n="1720" xml:id="l1720">Dy moy, mon desespoir, quel chemin je suivray,</l>
             <l n="1721" part="I" xml:id="l1721">Que feray-je vaincu ?</l>
@@ -2826,7 +2823,7 @@
             <l n="1723" xml:id="l1723">Empeschons seulement qu’il ne se fasse tort.</l>
           </sp>
           <sp who="ajax" xml:id="V02-18">
-            <speaker>AJAX <hi rend="i">dans une irresolution</hi><note n="184" place="bottom"> Benserade s’inspire de l’<hi rend="i">Ajax</hi> de Sophocle.</note>.</speaker>
+            <speaker>AJAX <note n="184" place="bottom"> Benserade s’inspire de l’<hi rend="i">Ajax</hi> de Sophocle.</note>.</speaker><stage>dans une irresolution</stage>
             <l n="1724" xml:id="l1724">Voicy mes ennemis, voilà Troye, &amp; ma mort,</l>
             <l n="1725" xml:id="l1725">Nous vangerons nous d’eux ? j’aurois trop peu de gloire,</l>
             <l n="1726" xml:id="l1726">Feray-je qu’Ilion ait sur eux la victoire ?</l>
@@ -2841,11 +2838,11 @@
             <stage>Il se donne un coup<note n="185" place="bottom">Ovide et Dictys rapportent le suicide d’Ajax, tandis que dans le récit de Darès, Ajax meurt au combat, tué par Pâris.</note></stage>
           </sp>
           <sp who="agamemnon" xml:id="V02-19">
-            <speaker>AGAMEMNON <hi rend="i">&amp; les autres.</hi></speaker>
+            <speaker>AGAMEMNON </speaker><stage>&amp; les autres.</stage>
             <l n="1735" part="I" xml:id="l1735">Hé, de grace !</l>
           </sp>
           <sp who="ajax" xml:id="V02-20">
-            <speaker>AJAX, <hi rend="i">il s’en donne encore un.</hi></speaker>
+            <speaker>AJAX, </speaker><stage>il s’en donne encore un.</stage>
             <l part="F">Mourons, ha qu’aujourd’huy ma mort</l>
             <l n="1736" xml:id="l1736">Affoiblit, &amp; r’enforce, est utille, &amp; fait tort !</l>
             <l n="1737" xml:id="l1737">Mais dans mon sang ma vie, &amp; ma honte se noye,</l>
@@ -2877,7 +2874,7 @@
             <l n="1753" xml:id="l1753">Affin que le Troyen n’y puisse rien comprendre,</l>
             <l n="1754" xml:id="l1754">Nous en pleurerons deux sur une mesme cendre<note n="186" place="bottom">La mort d’Achille ne sera donc pas vengée. Chez Hardy, c’est Néoptolème, le fils d’Achille, qui est chargé par Ajax de venger la mort de son père.</note>.</l>
           </sp>
-          <label>FIN</label>
+          <trailer>FIN</trailer>
         </div>
       </div>
       <div type="postface">

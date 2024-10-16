@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,11 +25,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/boyer_jeune-marius/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boyer_jeune-marius.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boyer_jeune-marius.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boyer_jeune-marius.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boyer_jeune-marius.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/boyer_jeune-marius/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/boyer_jeune-marius.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/boyer_jeune-marius.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/boyer_jeune-marius.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/boyer_jeune-marius.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Boyer, Claude</author>. <title>Le Jeune Marius. Tragédie.</title>. A PARIS, Chez GABRIEL QUINET, au Palais, dans la Gallerie des Prisonniers, à l’Ange Gabriel. M. DC. LXX. AVEC PRIVILEGE DU ROY.</bibl>
@@ -705,7 +704,7 @@
       <div n="1" type="dedication" xml:id="dedicace">
         <head>A Monseigneur <hi rend="b">colbert.</hi> Ministre et secretaire d’<hi rend="sc">Estat</hi><note n="23" place="bottom">. COLBERT (Jean-Baptiste) 1619-1683 Il fut ministre de Louis XIV dès 1661 aux Finances, à l’économie nationale, aux bâtiments royaux, aux travaux publics. Il fut contrôleur général des Finances en 1665 puis secrétaire d’État à la Marine et à la Maison du Roi (deux des quatre secrétariats d’État existants) en 1669. Il conserva ces fonctions jusqu’à sa mort.</note>.</head>
         <p><hi rend="i">Monseigneur</hi>,</p>
-        <p xml:id="dedicace_2">Quelque impatience que j’eusse de vous donner des marques publiques de ma reconnoissance au nom de toutes les Muses en general, et de la mienne en particulier, quoy que j’en fusse sollicité par la bonne <hi rend="sup">*</hi><ref target="#fortune">fortune</ref> de quelqu’une de mes Pieces qui ont precedé celle-cy, j’ay senty mon devoir arresté par une juste defiance et par une crainte respectueuse. Mais enfin ne pouvant plus diferer de satisfaire à ma gratitude, j’ay ramassé toutes mes forces avant que d’entreprendre l’ouvrage que je vous destinois, j’ay pris la Scene la plus magnifique, j’ay choisi un des Heros de l’ancienne Rome, et pour vous le rendre plus agreable, j’ay tâché de le representer avec quelques-uns de ces traits, que nous admirons dans vostre incomparable Heros, Je parle de nostre grand Roy<note n="24" place="bottom">. Louis XIV 1638-1715.</note>, qui rassemble en luy seul tout ce que l’Histoire a de plus incroyable et de plus merveilleux. Plein d’une si haute idée, et soustenu par la dignité de mon sujet, je vous ay consacré mon travail avant que de le commencer ; J’ay envisagé toute la gloire que je pouvois attendre de vostre approbation ; J’ay invoqué avec plus de ferveur que jamais le Dieu qui nous inspire, et je me suis dit sans cesse, qu’ayant esté choisi pour estre un des sujets des gratifications du Roy<note n="25" place="bottom">. Les gratifications financières que Boyer recevait depuis 1663 venaient juste de reprendre après quelques mois d’interruption. Voir biographie p. 3-4.</note>, je devois soustenir , ou plûtost justifier un choix si honorable. C’est avec ce grand secours, MONSEIGNEUR, que j’ay travaillé assez heureusement : quoy que la <hi rend="sup">*</hi><ref target="#fortune">fortune</ref> et la cabale se meslent aujourd’huy de faire le bon et le mauvais destin des ouvrages du Theatre<note n="26" place="bottom">. Allusion aux critiques qui accompagnent toutes pièces. Voir biographie p. 6.</note>, celuy que je vous ay consacré n’a pas succombé sous leur injustice. Ce n’est que vous, MONSEIGNEUR, que j’ay lieu d’apprehender, quand je l’expose à vos yeux : je sçay que rien n’échape à la penetration de vostre esprit, et que vous possedez le precieux talent de juger finement de toutes choses : Je sçay que c’est de cette idée generale, que vous avez du beau et du parfait que se répandent sans cesse de nouvelles beautez et de nouvelles lumieres sur tous les Arts et sur toutes les Sciences<note n="27" place="bottom">. En 1663 Colbert fonda l’Académie des Inscriptions et en 1666 celle des Sciences, il est souvent considéré comme un mécène des arts, il décidait des gratifications royales.</note> : C’est de là que vient ce grand amour que vous avez pour elles, ces soins continuels et cette magnifique protection, dont vous honorez l’empire des belles Lettres, au milieu de ces grandes occupations que vous donnez avec une application étonnante et sans exemple à la premiere Monarchie de la terre. Que j’aurois de choses à dire, MONSEIGNEUR, sur un si vaste sujet, et qu’il seroit doux à une ame reconnoissante comme la mienne de s’abandonner à la loüange de son bienfaicteur ! Mais je sçay trop quelle est la delicatesse de vostre modestie, et avec quelle discretion il faut manier toutes les matieres qui regardent vostre gloire. Agréez au moins, MONSEIGNEUR, que je laisse échaper devant vous une louange qui est dans la bouche de tout le monde.</p>
+        <p xml:id="dedicace_2">Quelque impatience que j’eusse de vous donner des marques publiques de ma reconnoissance au nom de toutes les Muses en general, et de la mienne en particulier, quoy que j’en fusse sollicité par la bonne <hi rend="sup"/><ref target="#fortune">fortune</ref> de quelqu’une de mes Pieces qui ont precedé celle-cy, j’ay senty mon devoir arresté par une juste defiance et par une crainte respectueuse. Mais enfin ne pouvant plus diferer de satisfaire à ma gratitude, j’ay ramassé toutes mes forces avant que d’entreprendre l’ouvrage que je vous destinois, j’ay pris la Scene la plus magnifique, j’ay choisi un des Heros de l’ancienne Rome, et pour vous le rendre plus agreable, j’ay tâché de le representer avec quelques-uns de ces traits, que nous admirons dans vostre incomparable Heros, Je parle de nostre grand Roy<note n="24" place="bottom">. Louis XIV 1638-1715.</note>, qui rassemble en luy seul tout ce que l’Histoire a de plus incroyable et de plus merveilleux. Plein d’une si haute idée, et soustenu par la dignité de mon sujet, je vous ay consacré mon travail avant que de le commencer ; J’ay envisagé toute la gloire que je pouvois attendre de vostre approbation ; J’ay invoqué avec plus de ferveur que jamais le Dieu qui nous inspire, et je me suis dit sans cesse, qu’ayant esté choisi pour estre un des sujets des gratifications du Roy<note n="25" place="bottom">. Les gratifications financières que Boyer recevait depuis 1663 venaient juste de reprendre après quelques mois d’interruption. Voir biographie p. 3-4.</note>, je devois soustenir , ou plûtost justifier un choix si honorable. C’est avec ce grand secours, MONSEIGNEUR, que j’ay travaillé assez heureusement : quoy que la <hi rend="sup"/><ref target="#fortune">fortune</ref> et la cabale se meslent aujourd’huy de faire le bon et le mauvais destin des ouvrages du Theatre<note n="26" place="bottom">. Allusion aux critiques qui accompagnent toutes pièces. Voir biographie p. 6.</note>, celuy que je vous ay consacré n’a pas succombé sous leur injustice. Ce n’est que vous, MONSEIGNEUR, que j’ay lieu d’apprehender, quand je l’expose à vos yeux : je sçay que rien n’échape à la penetration de vostre esprit, et que vous possedez le precieux talent de juger finement de toutes choses : Je sçay que c’est de cette idée generale, que vous avez du beau et du parfait que se répandent sans cesse de nouvelles beautez et de nouvelles lumieres sur tous les Arts et sur toutes les Sciences<note n="27" place="bottom">. En 1663 Colbert fonda l’Académie des Inscriptions et en 1666 celle des Sciences, il est souvent considéré comme un mécène des arts, il décidait des gratifications royales.</note> : C’est de là que vient ce grand amour que vous avez pour elles, ces soins continuels et cette magnifique protection, dont vous honorez l’empire des belles Lettres, au milieu de ces grandes occupations que vous donnez avec une application étonnante et sans exemple à la premiere Monarchie de la terre. Que j’aurois de choses à dire, MONSEIGNEUR, sur un si vaste sujet, et qu’il seroit doux à une ame reconnoissante comme la mienne de s’abandonner à la loüange de son bienfaicteur ! Mais je sçay trop quelle est la delicatesse de vostre modestie, et avec quelle discretion il faut manier toutes les matieres qui regardent vostre gloire. Agréez au moins, MONSEIGNEUR, que je laisse échaper devant vous une louange qui est dans la bouche de tout le monde.</p>
         <lg rend="i">
           <l>    Permettez que j’apprenne à la posterité,</l>
           <l>Que vous avez executé</l>
@@ -768,7 +767,7 @@
           <stage>MARIUS. MAXIME.</stage>
           <sp who="marius" xml:id="I01-1">
             <speaker>MARIUS.</speaker>
-            <l n="1" xml:id="l1">Quel zele, quel <hi rend="sup">*</hi><ref target="#bonheur">bon-heur</ref> t’a conduit en ces lieux,</l>
+            <l n="1" xml:id="l1">Quel zele, quel <hi rend="sup"/><ref target="#bonheur">bon-heur</ref> t’a conduit en ces lieux,</l>
             <l n="2" xml:id="l2">Et t’a fait traverser un Camp victorieux ?</l>
             <l n="3" xml:id="l3">Enfermé dans Preneste, où Sylla nous assiege<note n="33" place="bottom">. En 82 avant J.-C., un combat opposa Marius et Sylla et se conclut par le siège de Préneste, Marius vaincu fuit vers Préneste. Appien en rappelle les détails : « Ses hommes, écrasés, se sauvèrent tous à Préneste, où Sylla les poursuivit en grande hâte. Les habitants de Préneste laissèrent entrer les premiers des fuyards qui se présentèrent ; mais, voyant arriver Sylla, ils fermèrent les portes et introduisirent Marius avec des cordes » (ch. 10, §. 87) . Voir aussi Plutarque (<hi rend="i">Vie de Sylla</hi>, LX) .</note>...</l>
           </sp>
@@ -777,7 +776,7 @@
             <pb n="2"/>
             <l n="4" xml:id="l4">De nos troubles, Seigneur, c’est le seul privilege,</l>
             <l n="5" xml:id="l5">Qu’un seul peuple formant deux partis differens<note n="34" place="bottom">. Nous sommes en pleine guerre civile.</note>,</l>
-            <l n="6" xml:id="l6">Parmy nos ennemis nous trouvons des <hi rend="sup">*</hi><ref target="#parents">parens</ref>.</l>
+            <l n="6" xml:id="l6">Parmy nos ennemis nous trouvons des <hi rend="sup"/><ref target="#parents">parens</ref>.</l>
             <l n="7" xml:id="l7">J’ay penetré le Camp par leur intelligence<note n="35" place="bottom">. Désigne une relation secrète entre des personnes de camps opposés (espionnage) , encore employé au pluriel.</note>,</l>
             <l n="8" xml:id="l8">Pressé de vous donner un avis d’importance,</l>
             <l n="9" xml:id="l9">Et de faire à vous-mesme un fidele rapport,</l>
@@ -822,7 +821,7 @@
             <l n="39" xml:id="l39">Fils du grand Marius, dont le sort trop contraire</l>
             <l n="40" xml:id="l40">Combla ses derniers jours d’horreur et de misere<note n="46" place="bottom">. Le Grand Marius mourut en 86 au cours de son septième consulat. Ce dernier laissa à tous les historiens un souvenir de cruauté aveugle : « sanglante et cruelle tyrannie » (Plutarque, <hi rend="i">Vie de Marius</hi>, LXXXIX) . Il finit sa vie sous la menace de la guerre civile et de Sylla toujours dangereux, ce qui l’inquiéta suffisamment pour hâter sa fin : « Étant déjà extrêmement affligé, partie pour la crainte de l’avenir, et partie pour le fait et le comble de malheur présent, il lui fallut bien peu de rengrègement pour le faire tomber en la maladie dont il mourut, qui fut une pleurésie. » (Plutarque, <hi rend="i">Vie de Marius</hi>, LXXXV) .</note>,</l>
             <l n="41" xml:id="l41">Plus malheureux encor dans ce triste sejour</l>
-            <l n="42" xml:id="l42">J’éprouve à mesme temps la <hi rend="sup">*</hi>fortune et l’amour.</l>
+            <l n="42" xml:id="l42">J’éprouve à mesme temps la <hi rend="sup"/>fortune et l’amour.</l>
           </sp>
           <sp who="maxime" xml:id="I01-6">
             <speaker>MAXIME.</speaker>
@@ -838,7 +837,7 @@
           </sp>
           <sp who="marius" xml:id="I01-9">
             <speaker>MARIUS.</speaker>
-            <l n="45" xml:id="l45">Oüy Maxime, et l’amour aprés tant de <hi rend="sup">*</hi><ref target="#hasards">hazards</ref>,</l>
+            <l n="45" xml:id="l45">Oüy Maxime, et l’amour aprés tant de <hi rend="sup"/><ref target="#hasards">hazards</ref>,</l>
             <l n="46" xml:id="l46">Acheve icy sur moy le triomphe de Mars.</l>
           </sp>
           <sp who="maxime" xml:id="I01-10">
@@ -851,10 +850,10 @@
             <l n="48" xml:id="l48">Sont plus forts que son pere avec toutes ses armes.</l>
             <l n="49" xml:id="l49">Mais aprens quel destin l’a menée en ces lieux.</l>
             <l n="50" xml:id="l50">Je ne veux point icy retracer à tes yeux</l>
-            <l n="51" xml:id="l51">Les troubles intestins, la sanglante <hi rend="sup">*</hi><ref target="#furie">furie</ref>,</l>
+            <l n="51" xml:id="l51">Les troubles intestins, la sanglante <hi rend="sup"/><ref target="#furie">furie</ref>,</l>
             <l n="52" xml:id="l52">Dont mon Pere et Sylla déchiroient leur Patrie<note n="47" place="bottom">. Leur rivalité commença dès la guerre contre Jugurtha (112-105 avant J.-C.) et s’exacerba en un conflit politico-militaire jusqu’à la guerre civile, chacun luttant pour obtenir le pouvoir.</note> ;</l>
             <l n="53" xml:id="l53">Il suffit de sçavoir tout ce qu’a mis d’horreur</l>
-            <l n="54" xml:id="l54">Entre nos deux <hi rend="sup">*</hi><ref target="#maison">maisons</ref> la jalouse fureur.</l>
+            <l n="54" xml:id="l54">Entre nos deux <hi rend="sup"/><ref target="#maison">maisons</ref> la jalouse fureur.</l>
             <l n="55" xml:id="l55">Sylla faisant la guerre, et craignant pour sa fille</l>
             <l n="56" xml:id="l56">La haine que mon pere avoit pour sa famille,<pb n="4"/></l>
             <l n="57" xml:id="l57">Il l’envoye à Preneste en secret et sans bruit<note n="48" place="bottom">. Ceci justifie la présence de Cécilie à Préneste et à la scène 1 de l’acte II l’acharnement de Sylla. Mais il n’y avait pas à Préneste de membres de la famille de Sylla.</note>.</l>
@@ -863,8 +862,8 @@
             <l n="60" xml:id="l60">Je signale par tout mon desespoir extréme,</l>
             <l n="61" xml:id="l61">Et de mon pere mort devenu successeur<note n="49" place="bottom">. À la mort de Marius père, Valerius Flaccus puis Carbon le remplacèrent. Ce n’est qu’en 82 que Marius le Jeune devint consul (<hi rend="i">Velleius Paterculus</hi>, Livre II, ch. XXVI, 1 ; Appien, ch. 10, §. 87) . Cependant selon Plutarque : « Peu de jours après (la mort de Marius père) ils (les Romains) connurent, à leurs dépens, qu’ils avaient changé un vieux maître qui s’en allait de ce monde, à un jeune qui ne faisait que venir tant son fils, le jeune Marius, fit de cruautés [...] » (<hi rend="i">Vie de Marius</hi>, LXXXIX) . </note>,</l>
             <l n="62" xml:id="l62">Pour vanger mon amour, j’imite sa fureur.</l>
-            <l n="63" xml:id="l63">Sylla revient d’Asie enflé d’<hi rend="sup">*</hi><ref target="#bonheur">heur</ref> et de gloire<note n="50" place="bottom">. En 82-83 Sylla quitta l’Asie en passant par la Grèce et débarqua à Brindes. Et la gloire est grande : mars 86, prise d’Athènes, 86, victoire de Chéronée et 85, victoire d’Orchomène contre les troupes de Mithridate roi du Pont, 84, paix de Dardanos.</note> ;</l>
-            <l n="64" xml:id="l64">Tout mon <hi rend="sup">*</hi><ref target="#parti">party</ref> s’ébranle au bruit de sa victoire.</l>
+            <l n="63" xml:id="l63">Sylla revient d’Asie enflé d’<hi rend="sup"/><ref target="#bonheur">heur</ref> et de gloire<note n="50" place="bottom">. En 82-83 Sylla quitta l’Asie en passant par la Grèce et débarqua à Brindes. Et la gloire est grande : mars 86, prise d’Athènes, 86, victoire de Chéronée et 85, victoire d’Orchomène contre les troupes de Mithridate roi du Pont, 84, paix de Dardanos.</note> ;</l>
+            <l n="64" xml:id="l64">Tout mon <hi rend="sup"/><ref target="#parti">party</ref> s’ébranle au bruit de sa victoire.</l>
             <l n="65" xml:id="l65">Je l’attaque<note n="51" place="bottom">. « Voici arriver Marius à cheval, marchant bravement devant sa troupe [...] » (Plutarque, <hi rend="i">Vie de Sylla</hi>, LX) .</note>, il triomphe, et trahy des Romains<note n="52" place="bottom">. La défection de certaines de ses troupes « marqua immédiatement le début de sa défaite »</note>,</l>
             <l n="66" xml:id="l66">Je me voy sur le point de tomber dans ses mains.</l>
             <l n="67" xml:id="l67">Valere Gouverneur pour luy dans cette Ville,</l>
@@ -892,12 +891,12 @@
             <speaker>MAXIME.</speaker>
             <l n="87" xml:id="l87">Quoy qu’il en soit enfin, c’est vostre prisonniere ;</l>
             <l n="88" xml:id="l88">C’est le plus cher tresor de Rome et de son pere,<pb n="5"/></l>
-            <l n="89" xml:id="l89">Et ce bien, qu’en vos mains la <hi rend="sup">*</hi><ref target="#fortune">fortune</ref> a remis,</l>
+            <l n="89" xml:id="l89">Et ce bien, qu’en vos mains la <hi rend="sup"/><ref target="#fortune">fortune</ref> a remis,</l>
             <l n="90" xml:id="l90">Balance le pouvoir de tous vos ennemis.</l>
           </sp>
           <sp who="marius" xml:id="I01-13">
             <speaker>MARIUS.</speaker>
-            <l n="91" xml:id="l91">Maxime, connois mieux les droits d’une <hi rend="sup">*</hi><ref target="#maistresse">Maistresse</ref></l>
+            <l n="91" xml:id="l91">Maxime, connois mieux les droits d’une <hi rend="sup"/><ref target="#maistresse">Maistresse</ref></l>
             <l n="92" xml:id="l92">Et ce que dans un cœur l’amour met de foiblesse,</l>
             <l n="93" xml:id="l93">Ou si l’amour n’a rien qui te puisse charmer,</l>
             <l n="94" xml:id="l94">N’en juge que par moy, qui suis né pour aimer.</l>
@@ -921,7 +920,7 @@
             <l n="109" xml:id="l109">Ah, Seigneur, pensez-vous que ce soit un moyen,</l>
             <l n="110" xml:id="l110">De meriter un jour, un cœur comme le sien ?</l>
             <l n="111" xml:id="l111">Sauvez vostre vertu de l’indigne foiblesse,</l>
-            <l n="112" xml:id="l112">Qui la tient abbatuë aux pieds d’une <hi rend="sup">*</hi><ref target="#maistresse">Maistresse</ref>.</l>
+            <l n="112" xml:id="l112">Qui la tient abbatuë aux pieds d’une <hi rend="sup"/><ref target="#maistresse">Maistresse</ref>.</l>
             <l n="113" xml:id="l113">Allez forcer Sylla de suivre vostre choix ;</l>
             <l n="114" xml:id="l114">Faites parler pour vous cent glorieux exploits ;</l>
             <l n="115" xml:id="l115">Prenez sans plus tarder un temps si favorable,</l>
@@ -973,7 +972,7 @@
             <l n="148" xml:id="l148">M’a fait de nos voisins mandier l’assistance.</l>
             <l n="149" xml:id="l149">C’est me traiter, Madame, avec trop de rigueur :</l>
             <l n="150" xml:id="l150">Ce reproche cruel acheve mon malheur,</l>
-            <l n="151" xml:id="l151">Et c’est trop d’accuser un <hi rend="sup">*</hi>Amant miserable</l>
+            <l n="151" xml:id="l151">Et c’est trop d’accuser un <hi rend="sup"/>Amant miserable</l>
             <l n="152" xml:id="l152">D’estre envers Rome et vous infidele et coupable.</l>
             <l n="153" xml:id="l153">N’accusez que Sylla ; loin de la secourir,</l>
             <l n="154" xml:id="l154">Il met toute sa gloire à me faire perir :</l>
@@ -986,14 +985,14 @@
           <sp who="cecilie" xml:id="I02-3">
             <speaker>CECILIE.</speaker>
             <l n="160" xml:id="l160">Non, quoy que de mon sang la gloire me soit chere,</l>
-            <l n="161" xml:id="l161">Je ne puis excuser cet étrange <hi rend="sup">*</hi><ref target="#courroux">courroux</ref>,</l>
+            <l n="161" xml:id="l161">Je ne puis excuser cet étrange <hi rend="sup"/><ref target="#courroux">courroux</ref>,</l>
             <l n="162" xml:id="l162">Qui de tant d’ennemis ne veut perdre que vous.</l>
             <l n="163" xml:id="l163">Mais puisque ma prison fait toute sa colere,</l>
             <l n="164" xml:id="l164">Ostez ce grand pretexte à la fureur d’un pere.</l>
           </sp>
           <sp who="marius" xml:id="I02-4">
             <speaker>MARIUS.</speaker>
-            <l n="165" xml:id="l165">Dure, dure à jamais la guerre et son <hi rend="sup">*</hi><ref target="#courroux">courroux</ref><note n="59" place="bottom">. Voir <hi rend="i">La Thébaïde</hi> de Racine, édition de 1662, à la scène 3 de l’acte I, vers 87-90 : « Dure-t-elle à jamais cette cruelle Guerre / Dont le flambeau fatal désole cette terre. / Prolongez nos malheurs, augmentez-les toujours, Plutôt qu’un si grand crime en arrête le cours. »</note>,</l>
+            <l n="165" xml:id="l165">Dure, dure à jamais la guerre et son <hi rend="sup"/><ref target="#courroux">courroux</ref><note n="59" place="bottom">. Voir <hi rend="i">La Thébaïde</hi> de Racine, édition de 1662, à la scène 3 de l’acte I, vers 87-90 : « Dure-t-elle à jamais cette cruelle Guerre / Dont le flambeau fatal désole cette terre. / Prolongez nos malheurs, augmentez-les toujours, Plutôt qu’un si grand crime en arrête le cours. »</note>,</l>
             <l n="166" xml:id="l166">Si cette paix me couste et mon amour et vous.</l>
           </sp>
           <sp who="cecilie" xml:id="I02-5">
@@ -1015,7 +1014,7 @@
           <sp who="marius" xml:id="I02-6">
             <speaker>MARIUS.</speaker>
             <l part="F">Je l’écoute, Madame ;</l>
-            <l n="180" xml:id="l180">Mais m’écouterez-vous en faveur de ma <hi rend="sup">*</hi><ref target="#flame">flâme</ref> ?</l>
+            <l n="180" xml:id="l180">Mais m’écouterez-vous en faveur de ma <hi rend="sup"/><ref target="#flame">flâme</ref> ?</l>
             <l n="181" xml:id="l181">Si je livre à Sylla Preneste et nos Soldats,</l>
             <l n="182" xml:id="l182">Si mon cœur se trahit, ne le trahissez pas.</l>
             <l n="183" xml:id="l183">Rome appelle Sylla, je suis prest à le suivre ;</l>
@@ -1038,12 +1037,12 @@
             <l n="194" xml:id="l194">Je sçay trop ce qu’il doit à son ressentiment ;</l>
             <l n="195" xml:id="l195">Fils de son ennemy, j’ay tort d’aimer sa fille<note n="61" place="bottom">. Voir <hi rend="i">Pyrame et Thisbé</hi> de Théophile de Viau à la scène 2 de l’Acte I : « D’un ennemy mortel la fille rechercher » et aussi <hi rend="i">Roméo et Juliette</hi> de Shakespeare ou <hi rend="i">Le Cid</hi> de Corneille.</note> ;</l>
             <l n="196" xml:id="l196">Tout mon sang fut toûjours l’horreur de sa famille,</l>
-            <l n="197" xml:id="l197">Mais si mon mauvais sort m’arrache à tant d’<hi rend="sup">*</hi><ref target="#apas">apas</ref>,</l>
+            <l n="197" xml:id="l197">Mais si mon mauvais sort m’arrache à tant d’<hi rend="sup"/><ref target="#apas">apas</ref>,</l>
             <l n="198" xml:id="l198">A toute sa rigueur ne m’abandonnez pas ;</l>
             <l n="199" xml:id="l199">Prestez à mon amour une foible esperance</l>
             <l n="200" xml:id="l200">Un seul mot, ou du moins cét aimable silence,</l>
             <l n="201" xml:id="l201">Ou la foible pitié se laissant entrevoir</l>
-            <l n="202" xml:id="l202">Aux fureurs d’un <hi rend="sup">*</hi><ref target="#amant">Amant</ref> mesle un rayon d’espoir.<pb n="9"/></l>
+            <l n="202" xml:id="l202">Aux fureurs d’un <hi rend="sup"/><ref target="#amant">Amant</ref> mesle un rayon d’espoir.<pb n="9"/></l>
           </sp>
           <sp who="cecilie" xml:id="I02-9">
             <speaker>CECILIE.</speaker>
@@ -1068,7 +1067,7 @@
             <l n="218" xml:id="l218">Ce privilege est seur pour les cœurs des Romains</l>
             <l n="219" xml:id="l219">Ne m’opposez donc plus l’authorité d’un pere ;</l>
             <l n="220" xml:id="l220">Ou bien si c’est luy seul qui doit m’estre contraire,</l>
-            <l n="221" xml:id="l221">Souffrez qu’une victoire authorisant mon <hi rend="sup">*</hi><ref target="#feu">feu</ref></l>
+            <l n="221" xml:id="l221">Souffrez qu’une victoire authorisant mon <hi rend="sup"/><ref target="#feu">feu</ref></l>
             <l n="222" xml:id="l222">Luy demande ou plustost arrache son adveu.</l>
           </sp>
           <sp who="cecilie" xml:id="I02-11">
@@ -1099,7 +1098,7 @@
             <l n="237" xml:id="l237">Oüy, Madame, je croy qu’un cœur qui n’aime rien</l>
             <l n="238" xml:id="l238">Tient mal contre un amour aussi grand que le mien.</l>
             <l n="239" xml:id="l239">Mais c’est trop contester, je le voy bien, Madame,</l>
-            <l n="240" xml:id="l240">Il faut chercher ailleurs le secours de ma <hi rend="sup">*</hi><ref target="#flame">flâme</ref>.</l>
+            <l n="240" xml:id="l240">Il faut chercher ailleurs le secours de ma <hi rend="sup"/><ref target="#flame">flâme</ref>.</l>
             <l n="241" xml:id="l241">Fille d’un ennemy qui fait tous mes malheurs,</l>
             <l n="242" xml:id="l242">Vous bravez comme luy mes soûpirs et mes pleurs.</l>
             <l n="243" xml:id="l243">En deusse-je perir, pour avoir ce que j’ayme,</l>
@@ -1108,7 +1107,7 @@
             <l n="246" xml:id="l246">A me rendre l’espoir que vous m’avez osté.</l>
           </sp>
           <sp who="cecilie" xml:id="I02-15">
-            <speaker>CECILIE <hi rend="i">l’arrestant.</hi></speaker>
+            <speaker>CECILIE </speaker><stage>l’arrestant.</stage>
             <l n="247" xml:id="l247">Où courrez-vous, Seigneur ? Helas qu’allez-vous faire ?</l>
           </sp>
           <sp who="marius" xml:id="I02-16">
@@ -1121,7 +1120,7 @@
           </sp>
           <sp who="marius" xml:id="I02-18">
             <speaker>MARIUS.</speaker>
-            <l n="249" xml:id="l249">Vous voulez donc ainsi, <hi rend="sup">*</hi><ref target="#cruelle">cruelle</ref>, m’arrester ;</l>
+            <l n="249" xml:id="l249">Vous voulez donc ainsi, <hi rend="sup"/><ref target="#cruelle">cruelle</ref>, m’arrester ;</l>
             <l n="250" xml:id="l250">Vous sçavez que ce nom se fera respecter ;</l>
             <l n="251" xml:id="l251">Que dans mon ennemy j’aymeray vostre pere :</l>
             <l n="252" xml:id="l252">Vous sçavez que ces pleurs charmeront ma colere,</l>
@@ -1130,7 +1129,7 @@
             <l n="255" xml:id="l255">Peut-estre qu’un Rival partage vos allarmes,</l>
             <l n="256" xml:id="l256">Moy seul je suis privé de l’honneur de vos larmes :</l>
             <l n="257" xml:id="l257">Mais quel que soit l’objet de ces tendres douleurs</l>
-            <l n="258" xml:id="l258"><hi rend="sup">*</hi><ref target="#cruelle">Cruelle</ref>, servez-vous du pouvoir de vos pleurs.</l>
+            <l n="258" xml:id="l258"><hi rend="sup"/><ref target="#cruelle">Cruelle</ref>, servez-vous du pouvoir de vos pleurs.</l>
             <l n="259" xml:id="l259">Oüy, Madame, pour vous je renonce à ma gloire,</l>
             <l n="260" xml:id="l260">Je renonce à l’espoir d’une illustre victoire,</l>
             <l n="261" xml:id="l261">Je me rends à Sylla, je me livre à ses coups,</l>
@@ -1160,10 +1159,10 @@
             <l n="273" xml:id="l273">Et puisque c’est un bien qu’un Rival peut m’oster,</l>
             <l n="274" xml:id="l274">Je m’en vay le chercher pour le luy disputer.</l>
             <l n="275" xml:id="l275">Ces pleurs coulent encor pour punir ma colere.</l>
-            <l n="276" xml:id="l276">Est-ce pour les perils d’un <hi rend="sup">*</hi><ref target="#amant">Amant</ref> ou d’un pere ?</l>
+            <l n="276" xml:id="l276">Est-ce pour les perils d’un <hi rend="sup"/><ref target="#amant">Amant</ref> ou d’un pere ?</l>
             <l n="277" xml:id="l277">Ne craignez rien pour eux ; des jours si precieus</l>
             <l n="278" xml:id="l278">Et qui vous sont si chers, le sont trop à nos Dieux,</l>
-            <l n="279" xml:id="l279">Et si vous vous plaignez du <hi rend="sup">*</hi><ref target="#bonheur">bon-heur</ref> de mes armes,</l>
+            <l n="279" xml:id="l279">Et si vous vous plaignez du <hi rend="sup"/><ref target="#bonheur">bon-heur</ref> de mes armes,</l>
             <l n="280" xml:id="l280">Vous aurez tout mon sang pour le prix de vos larmes.</l>
           </sp>
         </div>
@@ -1173,7 +1172,7 @@
           <stage>CECILIE. SABINE. MARCELLE.</stage>
           <sp who="marcelle" xml:id="I03-1">
             <speaker>MARCELLE.</speaker>
-            <l n="281" xml:id="l281">Ce malheureux <hi rend="sup">*</hi><ref target="#amant">Amant</ref>, que vous traitez si mal,</l>
+            <l n="281" xml:id="l281">Ce malheureux <hi rend="sup"/><ref target="#amant">Amant</ref>, que vous traitez si mal,</l>
             <l n="282" xml:id="l282">N’a t-il point deviné, quand il croit qu’un Rival</l>
             <l n="283" xml:id="l283">Luy dérobe aujourd’huy toute son esperance ?</l>
           </sp>
@@ -1183,8 +1182,8 @@
             <l n="285" xml:id="l285">Je sçay que vostre cœur est fidele et discret,</l>
             <l n="286" xml:id="l286">Et que je puis sans peur vous confier mon secret.</l>
             <l n="287" xml:id="l287">Sçachez donc qu’un Rival plus heureux dans mon ame,</l>
-            <l n="288" xml:id="l288">Plus fort que Marius triomphe de sa <hi rend="sup">*</hi>flame :</l>
-            <l n="289" xml:id="l289">Mais parmy deux <hi rend="sup">*</hi>Amans qui disputoient mon cœur,</l>
+            <l n="288" xml:id="l288">Plus fort que Marius triomphe de sa <hi rend="sup"/>flame :</l>
+            <l n="289" xml:id="l289">Mais parmy deux <hi rend="sup"/>Amans qui disputoient mon cœur,</l>
             <l n="290" xml:id="l290">Pourrez-vous toutes deux advoüer mon vainqueur ?</l>
             <l n="291" xml:id="l291">Puisqu’enfin j’ay choisi, soit raison ou caprice,</l>
             <l n="292" xml:id="l292">Songez, si je l’ay pû, sans faire une injustice.</l>
@@ -1197,11 +1196,11 @@
             <l n="299" xml:id="l299">Ayant sçeu surpasser la gloire de son pere</l>
             <l n="300" xml:id="l300">S’est fait une vertu, qui n’a rien de severe ;</l>
             <l n="301" xml:id="l301">Jamais il n’a soüillé cét air auguste et doux,</l>
-            <l n="302" xml:id="l302">Par quelque emportement d’orgueil et de <hi rend="sup">*</hi><ref target="#courroux">courroux</ref> :</l>
+            <l n="302" xml:id="l302">Par quelque emportement d’orgueil et de <hi rend="sup"/><ref target="#courroux">courroux</ref> :</l>
             <l n="303" xml:id="l303">Rome tient de luy seul toute la politesse,</l>
             <l n="304" xml:id="l304">Que le reste du monde envioit à la Grece<note n="65" place="bottom">. Ce portrait idyllique contraste avec les commentaires des historiens. Plutarque en souligne pourtant la cruauté (<hi rend="i">Vie de Marius</hi>, LXXXIX) , voir la note 27.</note>.</l>
             <l n="305" xml:id="l305">Quand il s’agit d’aimer, toute Rome aujourd’huy</l>
-            <l n="306" xml:id="l306">Ne sçauroit luy fournir un <hi rend="sup">*</hi><ref target="#amant">Amant</ref> comme luy :</l>
+            <l n="306" xml:id="l306">Ne sçauroit luy fournir un <hi rend="sup"/><ref target="#amant">Amant</ref> comme luy :</l>
             <l n="307" xml:id="l307">Il a pour exprimer ce qu’il sent, ce qu’il pense</l>
             <l n="308" xml:id="l308">De la bouche et des yeux la plus tendre éloquence.</l>
             <l n="309" xml:id="l309">Si l’on voit à la guerre au milieu des combats</l>
@@ -1216,7 +1215,7 @@
             <l n="318" xml:id="l318">Luy-mesme est le plus grand et le plus beau de tous.</l>
             <l n="319" xml:id="l319">Mais aussi parmy nous tu sçais comme on le nomme,</l>
             <l n="320" xml:id="l320">Tu sçais que Marius paroist aux yeux de Rome</l>
-            <l n="321" xml:id="l321">Un Heros dans la Paix comme dans les <hi rend="sup">*</hi><ref target="#hasards">hazars</ref>,</l>
+            <l n="321" xml:id="l321">Un Heros dans la Paix comme dans les <hi rend="sup"/><ref target="#hasards">hazars</ref>,</l>
             <l n="322" xml:id="l322">Dans l’un fils de Venus, dans l’autre fils de Mars<note n="66" place="bottom">. Plutarque : « On le tint du commencement pour homme aventureux et hardi, à l’occasion de quoi on le surnomma fils de Mars ; mais bientôt après ses effets montrèrent bien le contraire ; tellement qu’il en fut surnommé fils de Vénus » (<hi rend="i">Vie de Marius</hi>, LXXXIX) . Seul historien à citer ces termes.</note>.</l>
           </sp>
           <sp who="sabine" xml:id="I03-3">
@@ -1250,14 +1249,14 @@
             <speaker>SABINE.</speaker>
             <l n="343" xml:id="l343">A ces traits, dont je voy que vostre ame est frapée,</l>
             <l n="344" xml:id="l344">Il n’est pas mal-aisé de connoistre Pompée :</l>
-            <l n="345" xml:id="l345">Mais dans ce grand Heros où brillent tant d’<hi rend="sup">*</hi><ref target="#apas">appas</ref>,</l>
+            <l n="345" xml:id="l345">Mais dans ce grand Heros où brillent tant d’<hi rend="sup"/><ref target="#apas">appas</ref>,</l>
             <l n="346" xml:id="l346">Tout manque selon moy, quand l’amour n’en est pas.</l>
           </sp>
           <sp who="cecilie" xml:id="I03-6">
             <speaker>CECILIE.</speaker>
             <l n="347" xml:id="l347">Ah ! que tu connois mal le goust des grandes ames.</l>
-            <l n="348" xml:id="l348">Cette façon d’aimer produit bien d’autres <hi rend="sup">*</hi>flames.</l>
-            <l n="349" xml:id="l349">Quand un illustre <hi rend="sup">*</hi><ref target="#amant">Amant</ref> se fait de nostre cœur</l>
+            <l n="348" xml:id="l348">Cette façon d’aimer produit bien d’autres <hi rend="sup"/>flames.</l>
+            <l n="349" xml:id="l349">Quand un illustre <hi rend="sup"/><ref target="#amant">Amant</ref> se fait de nostre cœur</l>
             <l n="350" xml:id="l350">Un secours à sa gloire, une aide à sa grandeur,</l>
             <l n="351" xml:id="l351">L’amour propre éblouy d’une si haute estime<pb n="15"/></l>
             <l n="352" xml:id="l352">Se flate et s’applaudit d’un merite sublime,</l>
@@ -1266,18 +1265,18 @@
           </sp>
           <sp who="sabine" xml:id="I03-7">
             <speaker>SABINE.</speaker>
-            <l n="355" xml:id="l355">Ainsi cet autre <hi rend="sup">*</hi><ref target="#amant">Amant</ref> si charmant et si tendre...</l>
+            <l n="355" xml:id="l355">Ainsi cet autre <hi rend="sup"/><ref target="#amant">Amant</ref> si charmant et si tendre...</l>
           </sp>
           <sp who="cecilie" xml:id="I03-8">
             <speaker>CECILIE.</speaker>
             <l n="356" xml:id="l356">Ah ! Sabine, il n’est pas aisé de s’en defendre,</l>
             <l n="357" xml:id="l357">Et de quelques honneurs, dont un cœur soit jaloux,</l>
             <l n="358" xml:id="l358">Estre aymé tendrement est un plaisir bien doux :</l>
-            <l n="359" xml:id="l359">Mais contre Marius le <hi rend="sup">*</hi><ref target="#courroux">courroux</ref> de mon pere</l>
+            <l n="359" xml:id="l359">Mais contre Marius le <hi rend="sup"/><ref target="#courroux">courroux</ref> de mon pere</l>
             <l n="360" xml:id="l360">Laissoit-il quelque espoir à ce choix temeraire ?</l>
-            <l n="361" xml:id="l361">Les plus tendres amours avec tous leurs <hi rend="sup">*</hi><ref target="#apas">appas</ref></l>
-            <l n="362" xml:id="l362">Allument peu de <hi rend="sup">*</hi>flame où l’espoir ne luit pas ;</l>
-            <l n="363" xml:id="l363">C’est à ses doux rayons que mes <hi rend="sup">*</hi><ref target="#feu">feux</ref> s’allumerent ;</l>
+            <l n="361" xml:id="l361">Les plus tendres amours avec tous leurs <hi rend="sup"/><ref target="#apas">appas</ref></l>
+            <l n="362" xml:id="l362">Allument peu de <hi rend="sup"/>flame où l’espoir ne luit pas ;</l>
+            <l n="363" xml:id="l363">C’est à ses doux rayons que mes <hi rend="sup"/><ref target="#feu">feux</ref> s’allumerent ;</l>
             <l n="364" xml:id="l364">C’est pour le plus heureux que mes vœux se formerent,</l>
             <l n="365" xml:id="l365">Et mon cœur à Pompée estoit mal asseuré,</l>
             <l n="366" xml:id="l366">Si pour son cher Rival mon cœur eut esperé.</l>
@@ -1292,13 +1291,13 @@
             <l n="369" xml:id="l369">L’espoir de mon hymen flate ses courtisans,</l>
             <l n="370" xml:id="l370">Et luy fait tous les jours de nouveaux partisans.</l>
             <l n="371" xml:id="l371">Esclave malgré moy de cette politique</l>
-            <l n="372" xml:id="l372">Mon cœur aime en secret, sans que mon <hi rend="sup">*</hi><ref target="#feu">feu</ref> s’explique,</l>
+            <l n="372" xml:id="l372">Mon cœur aime en secret, sans que mon <hi rend="sup"/><ref target="#feu">feu</ref> s’explique,</l>
             <l n="373" xml:id="l373">Et se cache à Pompée avec tant de rigueur,</l>
             <l n="374" xml:id="l374">Qu’il m’en pourra couster la perte de son cœur.</l>
             <l n="375" xml:id="l375">Mais pourquoy s’amuser à d’inutiles plaintes,<pb n="16"/></l>
             <l n="376" xml:id="l376">Pour cacher à mon cœur ses veritables craintes ?</l>
             <l n="377" xml:id="l377">Peut-estre Marius attaque en ce moment,</l>
-            <l n="378" xml:id="l378">Peut-estre il fait perir mon pere ou mon <hi rend="sup">*</hi><ref target="#amant">Amant</ref> :</l>
+            <l n="378" xml:id="l378">Peut-estre il fait perir mon pere ou mon <hi rend="sup"/><ref target="#amant">Amant</ref> :</l>
             <l n="379" xml:id="l379">Peut-estre que luy-mesme expire sous leurs armes.</l>
             <l n="380" xml:id="l380">L’un et l’autre demande et mon cœur et mes larmes,</l>
             <l n="381" xml:id="l381">L’un brigue ma pitié quand l’autre a mon amour,</l>
@@ -1309,7 +1308,7 @@
             <l n="386" xml:id="l386">Mon pere devroit seul occuper ma douleur.</l>
             <l n="387" xml:id="l387">Va du haut de la tour, va voir ce qui se passe,</l>
             <l n="388" xml:id="l388">Va voir, Marcelle, à qui le sort veut faire grace,</l>
-            <l n="389" xml:id="l389">Tandis que dans mon cœur mon pere et deux <hi rend="sup">*</hi>Amans</l>
+            <l n="389" xml:id="l389">Tandis que dans mon cœur mon pere et deux <hi rend="sup"/>Amans</l>
             <l n="390" xml:id="l390">Semblent se disputer mes tendres sentimens.</l>
           </sp>
         </div>
@@ -1324,7 +1323,7 @@
             <speaker>CECILIE.</speaker>
             <l n="391" xml:id="l391">maxime<note n="71" place="bottom">. La bataille s’est déroulée entre les deux actes, à l’extérieur du palais : « Va du haut de la tour [...] » (vers 387-388) . Elle n’est donc connue que par un récit. Cécilie envoie Marcelle, sa confidente et le récit est de Maxime, ami et compagnon d’armes de Marius, témoin et acteur de la bataille. Leur différence de statut est renforcée par la place de premier mot du premier vers de l’acte. Voir introduction p. 37-38.</note>, je sçay tout ; cent messagers fideles</l>
             <l n="392" xml:id="l392">N’ont que trop annoncé ces funestes nouvelles.</l>
-            <l n="393" xml:id="l393">Marius a vaincu ; mais apres ce <hi rend="sup">*</hi><ref target="#bonheur">bon-heur</ref></l>
+            <l n="393" xml:id="l393">Marius a vaincu ; mais apres ce <hi rend="sup"/><ref target="#bonheur">bon-heur</ref></l>
             <l n="394" xml:id="l394">Il devoit pour le moins respecter ma douleur.</l>
             <l n="395" xml:id="l395">Tu viens donc de sa part me vanter sa victoire,</l>
             <l n="396" xml:id="l396">Tu viens me reprocher nostre honte et sa gloire ;</l>
@@ -1355,13 +1354,13 @@
             <l n="412" xml:id="l412">L’amour au desespoir a fait tous ces miracles<note n="73" place="bottom">. L’amour est ici présenté comme la cause première de la bataille et de la victoire, c’est-à-dire de l’enchaînement des faits (voir aussi vers 244-248) . </note>.</l>
             <l n="413" xml:id="l413">Admirez cét amour. Plein d’un soupçon jalous,</l>
             <l n="414" xml:id="l414">Qui se fait un Rival qu’il croit aimé de vous,</l>
-            <l n="415" xml:id="l415">Il demande par tout l’<hi rend="sup">*</hi><ref target="#amant">Amant</ref> de Cecilie,</l>
+            <l n="415" xml:id="l415">Il demande par tout l’<hi rend="sup"/><ref target="#amant">Amant</ref> de Cecilie,</l>
             <l n="416" xml:id="l416">Le cherche dans le Camp, le brave, le défie,</l>
             <l n="417" xml:id="l417">Et n’en voyant aucun qui s’ose presenter,</l>
             <l n="418" xml:id="l418">Il se voit seur de vaincre et de vous meriter.</l>
             <l n="419" xml:id="l419">Mais apprenez aussi malgré tant de colere,</l>
             <l n="420" xml:id="l420">Ce que ce mesme amour a fait pour vostre pere.</l>
-            <l n="421" xml:id="l421">Sylla voyant les siens <hi rend="sup">*</hi><ref target="#estonner">étonnez</ref> ou vaincus</l>
+            <l n="421" xml:id="l421">Sylla voyant les siens <hi rend="sup"/><ref target="#estonner">étonnez</ref> ou vaincus</l>
             <l n="422" xml:id="l422">Ou combattre en desordre ou ne resister plus,</l>
             <l n="423" xml:id="l423">Court avec tant d’ardeur, pour porter sa presence</l>
             <l n="424" xml:id="l424">Aux lieux où le besoin appelle sa vaillance,</l>
@@ -1372,7 +1371,7 @@
             <l n="429" xml:id="l429">Et relevant Sylla, rends grace à mon amour,</l>
             <l n="430" xml:id="l430">Luy dit-il, c’est luy seul qui t’a sauvé le jour<note n="75" place="bottom">. Ce geste ajoute à la dette de reconnaissance de Cécilie et de Sylla envers Marius. Voir note 39 et vers 522, 885 et suivants, 1115, 1674.</note>.</l>
             <l n="431" xml:id="l431">Le fier Sylla honteux de luy devoir la vie</l>
-            <l n="432" xml:id="l432">Des mains de Marius s’arrache avec <hi rend="sup">*</hi><ref target="#furie">furie</ref>.</l>
+            <l n="432" xml:id="l432">Des mains de Marius s’arrache avec <hi rend="sup"/><ref target="#furie">furie</ref>.</l>
             <l n="433" xml:id="l433">Marius, qui le veut vaincre sans le fraper,</l>
             <l n="434" xml:id="l434">Par crainte ou par respect tâche à l’enveloper,<pb n="19"/></l>
             <l n="435" xml:id="l435">Quand un gros d’ennemis<note n="76" place="bottom">. Expression identique à celle du vers 971 d’Alexandre le Grand de Racine (Acte III, scène 6) : « Lorsqu’un gros de soldats se jetant entre nous » .</note> le joint et le dégage.</l>
@@ -1395,7 +1394,7 @@
             <l n="446" xml:id="l446">Dans ses murs où Sylla l’a fait son Lieutenant<note n="78" place="bottom">. Historiquement, Pompée, pendant que Sylla enfermait Marius dans Préneste, vainquit Marcius Censorinus à Séna (actuel Senigallia) en mai 82, Carbon près de Carrinas en juin 82, puis de nouveau Marcius (Appien, ch. 10 §. 88 et §. 90) . Pompée bloqua ensuite Télésinus par derrière dans sa marche vers Préneste (Plutarque, <hi rend="i">Vie de Sylla</hi>, LXI) . Sylla quant à lui est devant Rome (voir la fin de la note 22) . Bref, Pompée n’est ni à Rome, d’ailleurs tenue par les marianistes, ni son « seul défenseur » , ni à Préneste où il ne vint pas. Et pour l’intrigue, absent de Préneste, il est dégagé de toute responsabilité et libre d’agir selon son cœur. Boyer enfin lui ménage une entrée en scène facile : c’est en défenseur et libérateur de Rome qu’il intervient à l’acte III.</note>.</l>
           </sp>
           <sp who="cecilie" xml:id="II01-7">
-            <speaker>CECILIE. <hi rend="i">bas.</hi></speaker>
+            <speaker>CECILIE. </speaker><stage>bas.</stage>
             <l n="447" xml:id="l447">Quoy Pompée est dans Rome ! Ah la joye est extréme,</l>
             <l n="448" xml:id="l448">Sabine, de pouvoir excuser ce qu’on aime.</l>
           </sp>
@@ -1420,7 +1419,7 @@
             <speaker>MARIUS.</speaker>
             <l part="F">Pardonnez si je montre à vos yeux</l>
             <l n="458" xml:id="l458">Pour un foible succez un front victorieux.</l>
-            <l n="459" xml:id="l459">Quand je doy soupirer du <hi rend="sup">*</hi><ref target="#bonheur">bon-heur</ref> de mes armes,</l>
+            <l n="459" xml:id="l459">Quand je doy soupirer du <hi rend="sup"/><ref target="#bonheur">bon-heur</ref> de mes armes,</l>
             <l n="460" xml:id="l460">D’avoir à ces beaux yeux fait répandre des larmes,</l>
             <l n="461" xml:id="l461">Quand je devrois trembler de crainte à leur aspect,</l>
             <l n="462" xml:id="l462">Vous voyez quelle joye échape à mon respect.</l>
@@ -1442,7 +1441,7 @@
             <l n="472" xml:id="l472">Les Romains reünis, et Rome secouruë.</l>
             <l n="473" xml:id="l473">Mais ce n’est pas assez, ce que j’attens de vous</l>
             <l n="474" xml:id="l474">Me livre tout entier à des transports si dous.</l>
-            <l n="475" xml:id="l475">Pardonnez cette erreur à l’orgueil de ma <hi rend="sup">*</hi><ref target="#flame">flâme</ref> :</l>
+            <l n="475" xml:id="l475">Pardonnez cette erreur à l’orgueil de ma <hi rend="sup"/><ref target="#flame">flâme</ref> :</l>
             <l n="476" xml:id="l476">Je sens un doux espoir s’élever en mon ame,</l>
             <l n="477" xml:id="l477">Quand cherchant dans le Camp l’objet de ma fureur</l>
             <l n="478" xml:id="l478">Ce Rival trop heureux, qui m’oste vostre cœur,</l>
@@ -1450,7 +1449,7 @@
             <l n="480" xml:id="l480">Nul n’a presque un moment balancé la victoire,<pb n="21"/></l>
             <l n="481" xml:id="l481">Et qu’ainsi mon amour se promet d’emporter</l>
             <l n="482" xml:id="l482">Un cœur que mon Rival ne sçauroit meriter.</l>
-            <l n="483" xml:id="l483">C’est dequoy s’applaudit un <hi rend="sup">*</hi><ref target="#amant">Amant</ref> miserable,</l>
+            <l n="483" xml:id="l483">C’est dequoy s’applaudit un <hi rend="sup"/><ref target="#amant">Amant</ref> miserable,</l>
             <l n="484" xml:id="l484">Qui pour se faire un sort un peu plus favorable,</l>
             <l n="485" xml:id="l485">Tâche de s’épargner les tourmens d’un jalous,</l>
             <l n="486" xml:id="l486">Et croit n’avoir plus rien à combatre que vous.</l>
@@ -1464,9 +1463,9 @@
             <l n="490" xml:id="l490">Et voyant un succés trop facile et trop prompt,</l>
             <l n="491" xml:id="l491">Vous deviez presumer qu’en ce malheur extréme</l>
             <l n="492" xml:id="l492">Il n’est dans tout le Camp aucun Romain que j’aime,</l>
-            <l n="493" xml:id="l493">Et que si quelque <hi rend="sup">*</hi><ref target="#amant">Amant</ref> pour moy s’estoit armé</l>
+            <l n="493" xml:id="l493">Et que si quelque <hi rend="sup"/><ref target="#amant">Amant</ref> pour moy s’estoit armé</l>
             <l n="494" xml:id="l494">Peut-estre il eut vaincu, si je l’avois aimé.</l>
-            <l n="495" xml:id="l495">Ne croirez-vous jamais, Seigneur, que vostre <hi rend="sup">*</hi><ref target="#flame">flâme</ref> ?</l>
+            <l n="495" xml:id="l495">Ne croirez-vous jamais, Seigneur, que vostre <hi rend="sup"/><ref target="#flame">flâme</ref> ?</l>
             <l n="496" xml:id="l496">Sera-t-elle toûjours Maistresse de vostre ame ?</l>
             <l n="497" xml:id="l497">Par ses mauvais conseils nous verrons nous toûjours</l>
             <l n="498" xml:id="l498">Sans espoir de la paix, et Rome sans secours ?</l>
@@ -1488,8 +1487,8 @@
             <l n="511" xml:id="l511">Ce n’est pas, puisqu’il faut enfin que je m’explique,</l>
             <l n="512" xml:id="l512">Et mesle à mon amour un peu de politique,</l>
             <l n="513" xml:id="l513">Que pour ce grand hymen je manque de raisons.</l>
-            <l n="514" xml:id="l514">Une haine immortelle entre nos deux <hi rend="sup">*</hi><ref target="#maison">maisons</ref></l>
-            <l n="515" xml:id="l515">La <hi rend="sup">*</hi><ref target="#fier">fierté</ref> de Sylla qui peut tout entreprendre,</l>
+            <l n="514" xml:id="l514">Une haine immortelle entre nos deux <hi rend="sup"/><ref target="#maison">maisons</ref></l>
+            <l n="515" xml:id="l515">La <hi rend="sup"/><ref target="#fier">fierté</ref> de Sylla qui peut tout entreprendre,</l>
             <l n="516" xml:id="l516">Me defendent la paix, si je ne suis son gendre.</l>
             <l n="517" xml:id="l517">Mais ces precautions sont bien peu de saison,</l>
             <l n="518" xml:id="l518">Quand je veux que l’amour soit toute ma raison.</l>
@@ -1499,16 +1498,16 @@
             <l n="519" xml:id="l519">Ces ombrages, Seigneur, contre une paix sincere</l>
             <l n="520" xml:id="l520">Se doivent dissiper sur la foy de mon pere.</l>
             <l n="521" xml:id="l521">Si ce n’est pas assez, venez-vous pas Seigneur,</l>
-            <l n="522" xml:id="l522">De luy sauver la vie en<hi rend="sup"> *</hi><ref target="#genereux">genereux</ref> vainqueur ?</l>
+            <l n="522" xml:id="l522">De luy sauver la vie en<hi rend="sup"> </hi><ref target="#genereux">genereux</ref> vainqueur ?</l>
           </sp>
           <sp who="marius" xml:id="II02-7">
             <speaker>MARIUS.</speaker>
             <l n="523" xml:id="l523">Avec ces seuretez n’ay-je plus rien à craindre ?</l>
             <l n="524" xml:id="l524">La fureur de Sylla se doit-elle contraindre ?</l>
-            <l n="525" xml:id="l525">A moins d’un sacré nœud plus fort que son <hi rend="sup">*</hi><ref target="#courroux">courrous</ref>,</l>
+            <l n="525" xml:id="l525">A moins d’un sacré nœud plus fort que son <hi rend="sup"/><ref target="#courroux">courrous</ref>,</l>
             <l n="526" xml:id="l526">Dois-je m’en asseurer, et m’en reprendrez vous ?</l>
             <l n="527" xml:id="l527">Dois-je vous immoler tous les soins de ma vie ?</l>
-            <l n="528" xml:id="l528">Aymez-vous mon Rival avec tant de <hi rend="sup">*</hi><ref target="#furie">furie</ref> ?</l>
+            <l n="528" xml:id="l528">Aymez-vous mon Rival avec tant de <hi rend="sup"/><ref target="#furie">furie</ref> ?</l>
             <l n="529" xml:id="l529">Pardonnez si ce mot échape à ma douleur,</l>
             <l n="530" xml:id="l530">Vostre pere me traite avec moins de rigueur :</l>
             <l n="531" xml:id="l531">Pour le prix de la paix vous ayant demandée,</l>
@@ -1564,12 +1563,12 @@
             <speaker>MARIUS.</speaker>
             <l n="560" xml:id="l560">Ah je consens à tout pour avoir ce que j’aime.</l>
             <l n="561" xml:id="l561">Retournez à Sylla, dites-luy qu’aujourd’huy</l>
-            <l n="562" xml:id="l562">Il me fait partager sa <hi rend="sup">*</hi><ref target="#fortune">fortune</ref> avec luy,</l>
+            <l n="562" xml:id="l562">Il me fait partager sa <hi rend="sup"/><ref target="#fortune">fortune</ref> avec luy,</l>
             <l n="563" xml:id="l563">Que comme sa grandeur ma gloire est sans seconde,</l>
             <l n="564" xml:id="l564">Et qu’il jouysse en paix de l’Empire du monde.</l>
           </sp>
           <sp who="cecilie" xml:id="II03-6">
-            <speaker>CECILIE. <hi rend="i">bas.</hi></speaker>
+            <speaker>CECILIE. </speaker><stage>bas.</stage>
             <l n="565" xml:id="l565">Quoy jusques-là mon pere abbaisse sa fierté,</l>
             <l n="566" part="I" xml:id="l566">Sabine ?</l>
           </sp>
@@ -1586,7 +1585,7 @@
             <l n="574" xml:id="l574">Un rayon d’esperance à qui n’espere rien</l>
             <l n="575" xml:id="l575">Peut produire une joye aveugle et temeraire :</l>
             <l n="576" xml:id="l576">J’en suis assez puny quand vous m’estes contraire,</l>
-            <l n="577" xml:id="l577">Et rien n’est si cruel, quand on voit tant d’<hi rend="sup">*</hi><ref target="#apas">appas</ref>,</l>
+            <l n="577" xml:id="l577">Et rien n’est si cruel, quand on voit tant d’<hi rend="sup"/><ref target="#apas">appas</ref>,</l>
             <l n="578" xml:id="l578">Qu’un espoir qui nous charme, et qui ne vous plaist pas.</l>
           </sp>
           <sp who="cecilie" xml:id="II03-8">
@@ -1597,7 +1596,7 @@
             <l n="582" xml:id="l582">Que tout autre que moy dispose de mon cœur :</l>
             <l n="583" xml:id="l583">Quand je vous renvoyois au pouvoir de mon pere</l>
             <l n="584" xml:id="l584">Pour ne pas me montrer à vos vœux trop contraire,</l>
-            <l n="585" xml:id="l585">J’ay crû que son pouvoir consultant son <hi rend="sup">*</hi><ref target="#courroux">courrous</ref></l>
+            <l n="585" xml:id="l585">J’ay crû que son pouvoir consultant son <hi rend="sup"/><ref target="#courroux">courrous</ref></l>
             <l n="586" xml:id="l586">Sans le secours du mien me sauveroit de vous.</l>
             <l n="587" xml:id="l587">Mais enfin je voy bien que sa vertu l’emporte,</l>
             <l n="588" xml:id="l588">Que sa haine se rend, que Rome est la plus forte.</l>
@@ -1606,14 +1605,14 @@
             <l n="591" xml:id="l591">Voudra-t’il me devoir à mon obeyssance ?</l>
             <l n="592" xml:id="l592">Car enfin il est temps de rompre le silence.</l>
             <l n="593" xml:id="l593">Oüy, Seigneur, j’ayme ailleurs, et c’estoit justement</l>
-            <l n="594" xml:id="l594">Que vous me soupçonniez d’aimer un autre <hi rend="sup">*</hi><ref target="#amant">Amant</ref>.</l>
+            <l n="594" xml:id="l594">Que vous me soupçonniez d’aimer un autre <hi rend="sup"/><ref target="#amant">Amant</ref>.</l>
             <l n="595" xml:id="l595">C’est ce secret amour qui combatoit le vostre,</l>
             <l n="596" xml:id="l596">Et puisqu’enfin le Ciel fit ce cœur pour un autre,</l>
             <l n="597" xml:id="l597">Vous pourrez vous resoudre à vouloir malgré luy...</l>
           </sp>
           <sp who="marius" xml:id="II03-9">
             <speaker>MARIUS.</speaker>
-            <l n="598" xml:id="l598"><hi rend="sup">*</hi><ref target="#cruelle">Cruelle</ref> en me montrant ce cœur aux mains d’autruy</l>
+            <l n="598" xml:id="l598"><hi rend="sup"/><ref target="#cruelle">Cruelle</ref> en me montrant ce cœur aux mains d’autruy</l>
             <l n="599" xml:id="l599">Par ce fatal adveu vous voulez vous dédire,</l>
             <l n="600" xml:id="l600">Couvrir vostre revolte, et m’y faire souscrire ;</l>
             <l n="601" xml:id="l601">C’est contre nos traitez vostre dernier secours.</l>
@@ -1663,14 +1662,14 @@
             <l n="636" xml:id="l636">Et puisque ce devoir vous semble trop severe,</l>
             <l n="637" xml:id="l637">Rendez-le, s’il se peut plus facile et plus doux ;<pb n="27"/></l>
             <l n="638" xml:id="l638">Gardez tout vostre amour quand je me donne à vous,</l>
-            <l n="639" xml:id="l639">Et bien loin de combatre une <hi rend="sup">*</hi><ref target="#flame">flâme</ref> si belle,</l>
+            <l n="639" xml:id="l639">Et bien loin de combatre une <hi rend="sup"/><ref target="#flame">flâme</ref> si belle,</l>
             <l n="640" xml:id="l640">Conservez-moy ce cœur toûjours tendre et fidelle :</l>
             <l n="641" xml:id="l641">Que je me puisse dire, en voyant tant d’ardeur</l>
             <l n="642" xml:id="l642">Marius m’aime trop pour n’avoir pas mon cœur,</l>
-            <l n="643" xml:id="l643">Et si d’un autre <hi rend="sup">*</hi><ref target="#amant">Amant</ref> mon ame fut charmée,</l>
+            <l n="643" xml:id="l643">Et si d’un autre <hi rend="sup"/><ref target="#amant">Amant</ref> mon ame fut charmée,</l>
             <l n="644" xml:id="l644">Je l’aime trop peut-estre, et j’en suis moins aimée.</l>
             <l n="645" xml:id="l645">C’est ainsi que je puis me consoler un peu</l>
-            <l n="646" xml:id="l646">Du malheur de ma <hi rend="sup">*</hi>flàme auprés d’un si beau <hi rend="sup">*</hi><ref target="#feu">feu</ref>,</l>
+            <l n="646" xml:id="l646">Du malheur de ma <hi rend="sup"/>flàme auprés d’un si beau <hi rend="sup"/><ref target="#feu">feu</ref>,</l>
             <l n="647" xml:id="l647">Et répondre à mon cœur en acceptant le vostre,</l>
             <l n="648" xml:id="l648">Qu’il seroit trop heureux, s’il n’en aimoit un autre.</l>
           </sp>
@@ -1680,7 +1679,7 @@
             <l n="650" xml:id="l650">Que ce n’est pas mon cœur qui se defend d’aimer.</l>
             <l n="651" xml:id="l651">Quand il combat pour vous une tendresse extréme,</l>
             <l n="652" xml:id="l652">C’est alors seulement qu’il est vray qu’il vous aime :</l>
-            <l n="653" xml:id="l653">Car enfin est-ce aimer de vouloir ces <hi rend="sup">*</hi><ref target="#apas">appas</ref></l>
+            <l n="653" xml:id="l653">Car enfin est-ce aimer de vouloir ces <hi rend="sup"/><ref target="#apas">appas</ref></l>
             <l n="654" xml:id="l654">Et d’accepter un cœur qui ne se donne pas ?</l>
             <l n="655" xml:id="l655">Que mon sort est étrange, et que je suis à plaindre !</l>
             <l n="656" xml:id="l656">A l’offre qu’on me fait je voulois vous contraindre,</l>
@@ -1688,7 +1687,7 @@
             <l n="658" xml:id="l658">J’ay suivy les transports d’un desespoir jalous,</l>
             <l n="659" xml:id="l659">J’ay cherché mon Rival, j’ay defendu Preneste,</l>
             <l n="660" xml:id="l660">J’ay mis Rome en peril, et vous sçavez le reste ;</l>
-            <l n="661" xml:id="l661">J’ay vaincu Sylla mesme, et fléchy son <hi rend="sup">*</hi><ref target="#courroux">courroux</ref>,</l>
+            <l n="661" xml:id="l661">J’ay vaincu Sylla mesme, et fléchy son <hi rend="sup"/><ref target="#courroux">courroux</ref>,</l>
             <l n="662" xml:id="l662">J’ay fait tout ces efforts pour vous et contre vous.</l>
             <l n="663" xml:id="l663">Cependant, quand Sylla m’offre tout ce que j’aime,</l>
             <l n="664" xml:id="l664">Quand je voy son present advoüé de luy mesme<pb n="28"/></l>
@@ -1718,7 +1717,7 @@
             <l n="685" xml:id="l685">Il pourroit soupçonner que son ordre est trahy,</l>
             <l n="686" xml:id="l686">Et que mon cœur rebelle auroit mal obey ;</l>
             <l n="687" xml:id="l687">Il croiroit qu’abusant de ce pouvoir suprême</l>
-            <l n="688" xml:id="l688">Qu’un <hi rend="sup">*</hi><ref target="#genereux">genereux</ref> <hi rend="sup">*</hi><ref target="#amant">Amant</ref> me donne sur luy-mesme,</l>
+            <l n="688" xml:id="l688">Qu’un <hi rend="sup"/><ref target="#genereux">genereux</ref> <hi rend="sup"/><ref target="#amant">Amant</ref> me donne sur luy-mesme,</l>
             <l n="689" xml:id="l689">Je m’oppose à son ordre, et suis un autre choix.</l>
             <l n="690" xml:id="l690">Va, dy-luy que je veux me soûmettre à ses loix ;</l>
             <l n="691" xml:id="l691">Sur tout ce qu’il a dit, garde un profond silence.</l>
@@ -1758,7 +1757,7 @@
             <speaker>CECILIE.</speaker>
             <l n="711" xml:id="l711">Seigneur ne craignez rien d’une juste tendresse</l>
             <l n="712" xml:id="l712">Dont la raison toujours doit estre la maistresse.</l>
-            <l n="713" xml:id="l713">D’un <hi rend="sup">*</hi><ref target="#feu">feu</ref> qui vous déplaist ne vous laissant rien voir,</l>
+            <l n="713" xml:id="l713">D’un <hi rend="sup"/><ref target="#feu">feu</ref> qui vous déplaist ne vous laissant rien voir,</l>
             <l n="714" xml:id="l714">Vous prendrez pour amour les soins de mon devoir,<pb n="30"/></l>
             <l n="715" xml:id="l715">Ce devoir plein de zele à l’amour si semblable</l>
             <l n="716" xml:id="l716">Se changera bien-tost en amour veritable :</l>
@@ -1767,7 +1766,7 @@
             <l n="719" xml:id="l719">Ha ! Si l’amour mutuel entre les belles ames,</l>
             <l n="720" xml:id="l720">Du<note n="84" place="bottom">. Coquille : Deus... Nous corrigeons.</note> flambeau de l’hymen doit allumer les flâmes,</l>
             <l n="721" xml:id="l721">Pour le commun bonheur j’espere qu’à son tour</l>
-            <l n="722" xml:id="l722">L’hymen allumera les <hi rend="sup">*</hi><ref target="#flame">flâmes</ref> de l’amour.</l>
+            <l n="722" xml:id="l722">L’hymen allumera les <hi rend="sup"/><ref target="#flame">flâmes</ref> de l’amour.</l>
           </sp>
           <sp who="marius" xml:id="II03-19">
             <speaker>MARIUS.</speaker>
@@ -1777,10 +1776,10 @@
             <l n="726" xml:id="l726">Me rendre quelque jour un peu digne de vous.</l>
             <l n="727" xml:id="l727">Pour acquerir enfin une gloire si grande,</l>
             <l n="728" xml:id="l728">Ne songeons qu’au secours que Rome nous demande.</l>
-            <l n="729" xml:id="l729">Reyne de l’univers, Rome excuse un <hi rend="sup">*</hi><ref target="#amant">Amant</ref></l>
+            <l n="729" xml:id="l729">Reyne de l’univers, Rome excuse un <hi rend="sup"/><ref target="#amant">Amant</ref></l>
             <l n="730" xml:id="l730">Qui t’a deu preferer un objet si charmant,</l>
             <l n="731" xml:id="l731">Sylla vient d’accorder mon zele et ma tendresse,</l>
-            <l n="732" xml:id="l732">Ma <hi rend="sup">*</hi><ref target="#flame">flâme</ref> et mon devoir, Rome avec ma <hi rend="sup">*</hi><ref target="#maistresse">Maistresse</ref> :</l>
+            <l n="732" xml:id="l732">Ma <hi rend="sup"/><ref target="#flame">flâme</ref> et mon devoir, Rome avec ma <hi rend="sup"/><ref target="#maistresse">Maistresse</ref> :</l>
             <l n="733" xml:id="l733">Mais sans plus differer allons le recevoir ;</l>
             <l n="734" xml:id="l734">Et de sa propre bouche apprendre mon espoir.</l>
           </sp>
@@ -1793,7 +1792,7 @@
           <head>SCENE PREMIERE.</head>
           <stage>SYLLA. MARIUS. CECILIE. SUITE.</stage>
           <sp who="marius" xml:id="III01-1">
-            <speaker>marius.</speaker>
+            <speaker>MARIUS.</speaker>
             <l n="735" xml:id="l735">des mains du grand Sylla recevoir Cecilie ?</l>
           </sp>
           <sp who="sylla" xml:id="III01-2">
@@ -1857,7 +1856,7 @@
           <sp who="marius" xml:id="III01-11">
             <speaker>MARIUS.</speaker>
             <l n="766" xml:id="l766">La victoire par tout a suivy vos exploits,</l>
-            <l n="767" xml:id="l767">Et ce dernier succés que la <hi rend="sup">*</hi><ref target="#fortune">fortune</ref> lasse,</l>
+            <l n="767" xml:id="l767">Et ce dernier succés que la <hi rend="sup"/><ref target="#fortune">fortune</ref> lasse,</l>
             <l n="768" xml:id="l768">Vous oste par caprice, et me donne par grace,</l>
             <l n="769" xml:id="l769">Vous laisse tout entier le grand nom de vainqueur,</l>
             <l n="770" xml:id="l770">Avec tout son pouvoir, et toute sa splendeur.</l>
@@ -1871,9 +1870,9 @@
           <head>SCENE II.</head>
           <stage>SYLLA. CECILIE. PISON.</stage>
           <sp who="sylla" xml:id="III02-1">
-            <speaker>SYLLA. <hi rend="i">bas.</hi></speaker>
+            <speaker>SYLLA. </speaker><stage>bas.</stage>
             <l n="775" xml:id="l775">Comprens-tu bien l’effort que je viens de me faire,</l>
-            <l n="776" xml:id="l776"><hi rend="sup">*</hi><ref target="#fortune">Fortune</ref>, en contraignant ma haine et ma colere :</l>
+            <l n="776" xml:id="l776"><hi rend="sup"/><ref target="#fortune">Fortune</ref>, en contraignant ma haine et ma colere :</l>
             <l n="777" xml:id="l777">Je ne puis oublier ce que tu fis pour moy,</l>
             <l n="778" xml:id="l778">Mais tu m’ostes enfin plus que je ne le doy,</l>
             <l n="779" xml:id="l779">Et si de tes faveurs je tiens quelque avantage,</l>
@@ -1912,17 +1911,17 @@
             <l n="795" xml:id="l795">Pardonnez cét adveu, ma faute est excusable,</l>
             <l n="796" xml:id="l796">Si j’aimay sans vostre ordre un Heros trop aimable :</l>
             <l n="797" xml:id="l797">Je le puis advoüer ; quand pour mon châtiment</l>
-            <l n="798" xml:id="l798">L’injustice du sort m’oste un si digne <hi rend="sup">*</hi><ref target="#amant">Amant</ref>.</l>
+            <l n="798" xml:id="l798">L’injustice du sort m’oste un si digne <hi rend="sup"/><ref target="#amant">Amant</ref>.</l>
           </sp>
           <sp who="sylla" xml:id="III02-7">
             <speaker>SYLLA.</speaker>
             <l n="799" xml:id="l799">Ah ! qu’il nous couste cher d’affermir ta puissance.</l>
-            <l n="800" xml:id="l800">Rome ! il faut t’immoler sa <hi rend="sup">*</hi><ref target="#flame">flâme</ref> et ma vengeance,</l>
+            <l n="800" xml:id="l800">Rome ! il faut t’immoler sa <hi rend="sup"/><ref target="#flame">flâme</ref> et ma vengeance,</l>
             <l n="801" xml:id="l801">Et nous devons tous deux, de peur de te trahir,</l>
             <l n="802" xml:id="l802">Perdre la liberté d’aimer et de haïr.</l>
             <l n="803" xml:id="l803">Tâche par mon exemple à te vaincre toy-mesme :</l>
             <l n="804" xml:id="l804">C’est un puissant effort de perdre ce qu’on aime,</l>
-            <l n="805" xml:id="l805">Mais au rang où je suis<note n="91" place="bottom">. Rappel : il est, selon l’Histoire, général de l’armée, proconsul, c’est-à-dire ancien consul, s’opposant aux consuls en titre. Il montre ici son orgueil, comme il le fera au vers 868.</note> dompter tout son <hi rend="sup">*</hi><ref target="#courroux">courrous</ref>,</l>
+            <l n="805" xml:id="l805">Mais au rang où je suis<note n="91" place="bottom">. Rappel : il est, selon l’Histoire, général de l’armée, proconsul, c’est-à-dire ancien consul, s’opposant aux consuls en titre. Il montre ici son orgueil, comme il le fera au vers 868.</note> dompter tout son <hi rend="sup"/><ref target="#courroux">courrous</ref>,</l>
             <l n="806" xml:id="l806">Triompher de sa haine est le plus grand de tous.</l>
           </sp>
           <sp who="cecilie" xml:id="III02-8">
@@ -1945,7 +1944,7 @@
             <speaker>OCTAVE.</speaker>
             <l n="815" xml:id="l815">Seigneur. Pompée arrive, et le bruit de sa gloire</l>
             <l n="816" xml:id="l816">Déja de toutes parts annonce sa victoire<note n="92" place="bottom">. Retournement décisif de l’intrigue. Quant à la vérité historique, voir notes 22 et 56.</note> ;</l>
-            <l n="817" xml:id="l817">Cent Messagers <hi rend="sup">*</hi><ref target="#haster">hastez</ref> de nous faire sçavoir...</l>
+            <l n="817" xml:id="l817">Cent Messagers <hi rend="sup"/><ref target="#haster">hastez</ref> de nous faire sçavoir...</l>
           </sp>
           <sp who="sylla" xml:id="III03-2">
             <speaker>SYLLA.</speaker>
@@ -1971,7 +1970,7 @@
           </sp>
           <sp who="cecilie" xml:id="III03-5">
             <speaker>CECILIE.</speaker>
-            <l n="831" xml:id="l831">Quoy, trahir Marius, cét <hi rend="sup">*</hi><ref target="#amant">Amant</ref> si fidelle ?</l>
+            <l n="831" xml:id="l831">Quoy, trahir Marius, cét <hi rend="sup"/><ref target="#amant">Amant</ref> si fidelle ?</l>
           </sp>
           <sp who="sylla" xml:id="III03-6">
             <speaker>SYLLA.</speaker>
@@ -1980,16 +1979,16 @@
             <l n="834" xml:id="l834">Dispose Marius à ce grand changement :</l>
             <l n="835" xml:id="l835">Sans luy parler de moy ny de mon inconstance,</l>
             <l n="836" xml:id="l836">Dy-luy ce que ton cœur se fait de violence,</l>
-            <l n="837" xml:id="l837">Qu’ayant un autre <hi rend="sup">*</hi><ref target="#amant">Amant</ref>, il est trop <hi rend="sup">*</hi><ref target="#genereux">genereux</ref>,</l>
+            <l n="837" xml:id="l837">Qu’ayant un autre <hi rend="sup"/><ref target="#amant">Amant</ref>, il est trop <hi rend="sup"/><ref target="#genereux">genereux</ref>,</l>
             <l n="838" xml:id="l838">Pour vouloir malgré toy rompre de si beaux nœux,</l>
-            <l n="839" xml:id="l839">Et luy faisant valoir une <hi rend="sup">*</hi><ref target="#flame">flâme</ref> si belle,</l>
+            <l n="839" xml:id="l839">Et luy faisant valoir une <hi rend="sup"/><ref target="#flame">flâme</ref> si belle,</l>
             <l n="840" xml:id="l840">Epargne-moy l’affront de paroistre infidelle.</l>
           </sp>
           <sp who="cecilie" xml:id="III03-7">
             <speaker>CECILIE.</speaker>
             <l n="841" xml:id="l841">Mais s’il faut de Pompée essuyer un refus ;</l>
             <l n="842" xml:id="l842">Car, enfin, s’il m’aimoit, il peut ne m’aimer plus.</l>
-            <l n="843" xml:id="l843">Quand par respect pour vous je luy cachois ma <hi rend="sup">*</hi><ref target="#flame">flâme</ref>,</l>
+            <l n="843" xml:id="l843">Quand par respect pour vous je luy cachois ma <hi rend="sup"/><ref target="#flame">flâme</ref>,</l>
             <l n="844" xml:id="l844">L’orgueil que j’affectois a passé dans son ame</l>
             <l n="845" xml:id="l845">Et peut-estre, Seigneur, qu’en le traitant si mal...</l>
           </sp>
@@ -2001,7 +2000,7 @@
             <l n="849" xml:id="l849">S’il faut rompre avec luy ; sauve par ces moyens</l>
             <l n="850" xml:id="l850">L’honneur de ma parole et du rang que je tiens.</l>
             <l n="851" xml:id="l851">Comme enfin Marius doit ceder à Pompée,</l>
-            <l n="852" xml:id="l852">Fais qu’on t’impute tout, si sa <hi rend="sup">*</hi><ref target="#flame">flâme</ref> est trompée.</l>
+            <l n="852" xml:id="l852">Fais qu’on t’impute tout, si sa <hi rend="sup"/><ref target="#flame">flâme</ref> est trompée.</l>
           </sp>
           <sp who="cecilie" xml:id="III03-9">
             <speaker>CECILIE.</speaker>
@@ -2045,14 +2044,14 @@
             <l n="867" xml:id="l867">Fidelle compagnon des travaux d’une guerre,</l>
             <l n="868" xml:id="l868">Qui m’a presque asseuré l’empire de la terre,</l>
             <l n="869" xml:id="l869">Cher Pison, dont le zele avec tant de chaleur</l>
-            <l n="870" xml:id="l870">A dans tous mes succés secondé mon <hi rend="sup">*</hi><ref target="#bonheur">bon-heur</ref>,</l>
+            <l n="870" xml:id="l870">A dans tous mes succés secondé mon <hi rend="sup"/><ref target="#bonheur">bon-heur</ref>,</l>
             <l n="871" xml:id="l871">C’est à tes yeux, enfin qu’il faut que je déploye</l>
             <l n="872" xml:id="l872">Tout l’espoir de ma haine et ma secrete joye.</l>
             <l n="873" xml:id="l873">Mes fureurs n’ont osé contre mon ennemy<pb n="38"/></l>
             <l n="874" xml:id="l874">Aux yeux de Cecilie éclater qu’à demy.</l>
             <l n="875" xml:id="l875">Sa vertu me fait peine, et ce n’est qu’à sa veuë</l>
             <l n="876" xml:id="l876">Que mon cœur veut forcer toute sa retenuë.</l>
-            <l n="877" xml:id="l877">La <hi rend="sup">*</hi><ref target="#fortune">fortune</ref>, Pison, par ses derniers bien-faits,</l>
+            <l n="877" xml:id="l877">La <hi rend="sup"/><ref target="#fortune">fortune</ref>, Pison, par ses derniers bien-faits,</l>
             <l n="878" xml:id="l878">Va briser tous les fers d’une honteuse paix,</l>
             <l n="879" xml:id="l879">Qui forçant mon orgueil dans le fonds de mon ame,</l>
             <l n="880" xml:id="l880">Alloit à ma maison joindre une race infame ;</l>
@@ -2078,7 +2077,7 @@
             <l n="894" xml:id="l894">Et changé mes fureurs en des embrassemens.</l>
             <l n="895" xml:id="l895">J’advoüeray qu’autrefois mon ame ambitieuse</l>
             <l n="896" xml:id="l896">Par une complaisance et superbe et flateuse,</l>
-            <l n="897" xml:id="l897">Commença ma <hi rend="sup">*</hi><ref target="#fortune">fortune</ref>, et la sçeut achever ;</l>
+            <l n="897" xml:id="l897">Commença ma <hi rend="sup"/><ref target="#fortune">fortune</ref>, et la sçeut achever ;</l>
             <l n="898" xml:id="l898">Je m’abaissois alors afin de m’élever ;</l>
             <l n="899" xml:id="l899">J’oubliay sans rougir le sang qui m’a fait naistre ;</l>
             <l n="900" xml:id="l900">Voulant le devenir, je me fis plus d’un maistre ;</l>
@@ -2087,7 +2086,7 @@
             <l n="903" xml:id="l903">Par une ambitieuse et sage déferance</l>
             <l n="904" xml:id="l904">Je montay par degrez à la toute-puissance<note n="93" place="bottom">. Un rappel de la carrière politique de Sylla : quoique né dans une famille de patriciens, son père lui laissa peu de biens (vers 899) . Pauvre en ses débuts, mais ambitieux et opportuniste, il commença sa carrière comme questeur sous le consulat de Marius, sa réputation grandit sur les champs de bataille de Numidie où Jugurtha lui fut livré par Bacchus même, roi des Numides. Il s’éleva peu à peu selon les étapes de la carrière politique. Élu prêteur « moyennant ce qu’il gagna partie du peuple par caresses et partie par argent » , il est élu consul à cinquante ans (Plutarque, <hi rend="i">Vie de Sylla</hi>, VI) .</note>.</l>
             <l n="905" xml:id="l905">Mais quand je voy qu’il faut du haut de ma grandeur</l>
-            <l n="906" xml:id="l906">Décendre à Marius et flater son <hi rend="sup">*</hi><ref target="#bonheur">bon-heur</ref>,</l>
+            <l n="906" xml:id="l906">Décendre à Marius et flater son <hi rend="sup"/><ref target="#bonheur">bon-heur</ref>,</l>
             <l n="907" xml:id="l907">Je sens cette grandeur, heureuse indépendante,</l>
             <l n="908" xml:id="l908">En devenir jalouse, ingrate et violente,</l>
             <l n="909" xml:id="l909">Et prés d’un ennemy, je rougis, quand je voy,</l>
@@ -2109,7 +2108,7 @@
             <l n="919" xml:id="l919">La fortune et l’amour, quand ils font des parjures,</l>
             <l n="920" xml:id="l920">Ne font à Jupiter que de foibles injures,</l>
             <l n="921" xml:id="l921">Et ce Dieu que l’on fait le vangeur du serment<note n="94" place="bottom">. Jupiter, équivalent latin de Zeus, est le souverain suprême des dieux, possesseur de la foudre et du tonnerre. C’est un dieu à faces multiples : du ciel, de la lumière, de la pluie, du monde souterrain, protecteur des mœurs, de la famille, de la cité, conducteur des destinées et gardien des serments. Il refuse le parjure et sanctionne ceux qui bafouent les serments.</note></l>
-            <l n="922" xml:id="l922">Absout l’ambitieux aussi bien que l’<hi rend="sup">*</hi><ref target="#amant">Amant</ref>.</l>
+            <l n="922" xml:id="l922">Absout l’ambitieux aussi bien que l’<hi rend="sup"/><ref target="#amant">Amant</ref>.</l>
             <l n="923" xml:id="l923">Si ces sortes de crimes occupent son tonnerre,</l>
             <l n="924" xml:id="l924">Tout son temps se perdroit à foudroyer la terre,</l>
             <l n="925" xml:id="l925">Et consumant ses traits sur l’infidelité</l>
@@ -2122,14 +2121,14 @@
           <sp who="pison" xml:id="III04-6">
             <speaker>PISON.</speaker>
             <l n="931" xml:id="l931">Si le respect des Dieux n’est pour vous que foiblesse,</l>
-            <l n="932" xml:id="l932">Le <hi rend="sup">*</hi><ref target="#genereux">genereux</ref> Pompée aura-t’il la bassesse</l>
+            <l n="932" xml:id="l932">Le <hi rend="sup"/><ref target="#genereux">genereux</ref> Pompée aura-t’il la bassesse</l>
             <l n="933" xml:id="l933">De s’entendre avec vous pour trahir Marius ?</l>
           </sp>
           <sp who="sylla" xml:id="III04-7">
             <speaker>SYLLA.</speaker>
             <l n="934" xml:id="l934">Pompée aime la gloire, et voyant ses vertus,</l>
             <l n="935" xml:id="l935">J’ay besoin d’un peu d’art pour surprendre son ame,</l>
-            <l n="936" xml:id="l936">Sa jeunesse<note n="95" place="bottom">. Né en 106 avant J.-C., il a 24 ans en 82.</note> ayant moins de clarté que de <hi rend="sup">*</hi><ref target="#flame">flâme</ref>,</l>
+            <l n="936" xml:id="l936">Sa jeunesse<note n="95" place="bottom">. Né en 106 avant J.-C., il a 24 ans en 82.</note> ayant moins de clarté que de <hi rend="sup"/><ref target="#flame">flâme</ref>,</l>
             <l n="937" xml:id="l937">Se peut laisser gagner par un éclat trompeur,</l>
             <l n="938" xml:id="l938">Embrasser un fantôme en courant à l’honneur,</l>
             <l n="939" xml:id="l939">Se laisser ébloüir d’une haute esperance,</l>
@@ -2143,8 +2142,8 @@
             <speaker>SYLLA.</speaker>
             <l n="942" xml:id="l942">Pompée aime ma fille, ou du moins sa grandeur.</l>
             <l n="943" xml:id="l943">La mienne indépendante, et peut estre importune,</l>
-            <l n="944" xml:id="l944">Tient captifs malgré luy son cœur et sa <hi rend="sup">*</hi><ref target="#fortune">fortune</ref>.</l>
-            <l n="945" xml:id="l945">Car enfin, quel qu’il soit, ambitieux, <hi rend="sup">*</hi><ref target="#amant">Amant</ref>,</l>
+            <l n="944" xml:id="l944">Tient captifs malgré luy son cœur et sa <hi rend="sup"/><ref target="#fortune">fortune</ref>.</l>
+            <l n="945" xml:id="l945">Car enfin, quel qu’il soit, ambitieux, <hi rend="sup"/><ref target="#amant">Amant</ref>,</l>
             <l n="946" xml:id="l946">L’espoir de ma faveur l’attache également.</l>
             <l n="947" xml:id="l947">Pour le faire en aveugle entrer dans ma famille,</l>
             <l n="948" xml:id="l948">Et courir sans scrupule à l’hymen de ma fille,</l>
@@ -2163,14 +2162,14 @@
           <head>SCENE V.</head>
           <stage>SYLLA. POMPEE. PISON. SUITE.</stage>
           <sp who="sylla" xml:id="III05-1">
-            <speaker>SYLLA <hi rend="i">continuë.</hi></speaker>
+            <speaker>SYLLA </speaker><stage>continuë.</stage>
             <l part="F">Peut on jamais, Seigneur, d’assez de gloire,</l>
             <l n="958" xml:id="l958">D’un triomphe assez beau payer vostre victoire ?</l>
             <l n="959" xml:id="l959">Digne Heros issu du plus beau sang Romain ?</l>
           </sp>
           <sp who="pompee" xml:id="III05-2">
             <speaker>POMPEE.</speaker>
-            <l n="960" xml:id="l960">Rome et vostre <hi rend="sup">*</hi><ref target="#fortune">fortune</ref> ont vaincu par ma main.</l>
+            <l n="960" xml:id="l960">Rome et vostre <hi rend="sup"/><ref target="#fortune">fortune</ref> ont vaincu par ma main.</l>
           </sp>
           <sp who="sylla" xml:id="III05-3">
             <speaker>SILLA.</speaker>
@@ -2231,7 +2230,7 @@
             <l n="1003" xml:id="l1003">Quoy que vous choisissiez, je m’abandonne à vous ;</l>
             <l n="1004" xml:id="l1004">Sa perte ou son hymen tout me semblera dous.</l>
             <l n="1005" xml:id="l1005">Que si quelque scrupule embarasse vostre ame,</l>
-            <l n="1006" xml:id="l1006">Vous pourrez consulter l’objet de vostre <hi rend="sup">*</hi><ref target="#flame">flâme</ref>,</l>
+            <l n="1006" xml:id="l1006">Vous pourrez consulter l’objet de vostre <hi rend="sup"/><ref target="#flame">flâme</ref>,</l>
             <l n="1007" xml:id="l1007">Tandis que pour ma gloire et pour vostre bon-heur</l>
             <l n="1008" xml:id="l1008">Je m’en vay prendre au Camp le nom de Dictateur.</l>
           </sp>
@@ -2277,7 +2276,7 @@
             <speaker>POMPEE.</speaker>
             <l n="1023" xml:id="l1023">Voy quelle trahison on exige de moy.</l>
             <l n="1024" xml:id="l1024">Dy-moy, toy qui par tout m’as signalé ta foy,</l>
-            <l n="1025" xml:id="l1025">Toy qui sçays ce que peut ton illustre <hi rend="sup">*</hi><ref target="#maistresse">Maistresse</ref>,</l>
+            <l n="1025" xml:id="l1025">Toy qui sçays ce que peut ton illustre <hi rend="sup"/><ref target="#maistresse">Maistresse</ref>,</l>
             <l n="1026" xml:id="l1026">Dois-je à tant de merite exposer ma foiblesse ?</l>
             <l n="1027" xml:id="l1027">Puis-je la voir Marcelle et faire mon devoir ?</l>
           </sp>
@@ -2299,7 +2298,7 @@
           <sp who="pompee" xml:id="IV01-6">
             <speaker>POMPEE.</speaker>
             <l n="1033" xml:id="l1033">Cependant, voy quel est le trouble de mon ame</l>
-            <l n="1034" xml:id="l1034">Et quelles laschetez on impose à ma <hi rend="sup">*</hi><ref target="#flame">flâme</ref>.</l>
+            <l n="1034" xml:id="l1034">Et quelles laschetez on impose à ma <hi rend="sup"/><ref target="#flame">flâme</ref>.</l>
             <l n="1035" xml:id="l1035">L’hymen de Cecilie, est tout ce que je veux,</l>
             <l n="1036" xml:id="l1036">L’espoir de l’acquerir alluma tous mes feux.</l>
             <l n="1037" xml:id="l1037">Dans les troubles de Rome, on m’a veu pour luy plaire</l>
@@ -2311,7 +2310,7 @@
             <l n="1043" xml:id="l1043">Cependant, tu vois bien que pour avoir sa main,</l>
             <l n="1044" xml:id="l1044">Il faut trahir moy-mesme un illustre Romain ;</l>
             <l n="1045" xml:id="l1045">Cecilie est le prix de ce projet infame.</l>
-            <l n="1046" xml:id="l1046">Cette affreuse pensée éteint toute ma <hi rend="sup">*</hi><ref target="#flame">flâme</ref>,</l>
+            <l n="1046" xml:id="l1046">Cette affreuse pensée éteint toute ma <hi rend="sup"/><ref target="#flame">flâme</ref>,</l>
             <l n="1047" xml:id="l1047">Et je ne sens plus rien que l’horreur seulement</l>
             <l n="1048" xml:id="l1048">De me voir soupçonné d’aimer si laschement.</l>
             <l n="1049" xml:id="l1049">Plus d’amour, plus d’espoir, si par la perfidie</l>
@@ -2376,7 +2375,7 @@
             <l n="1084" xml:id="l1084">Qui remet dans mes mains le sort de mon Rival.</l>
             <l n="1085" xml:id="l1085">Aprés m’avoir osté toute mon esperance,</l>
             <l n="1086" xml:id="l1086">Vostre fausse bonté veut m’oster l’innocence,</l>
-            <l n="1087" xml:id="l1087">Et me faisant trahir un Rival <hi rend="sup">*</hi><ref target="#genereux">genereux</ref></l>
+            <l n="1087" xml:id="l1087">Et me faisant trahir un Rival <hi rend="sup"/><ref target="#genereux">genereux</ref></l>
             <l n="1088" xml:id="l1088">Me rendre criminel autant que malheureux.</l>
           </sp>
           <sp who="cecilie" xml:id="IV02-3">
@@ -2390,7 +2389,7 @@
             <l n="1095" xml:id="l1095">D’un dehors affecté l’apparente froideur</l>
             <l n="1096" xml:id="l1096">Tenoit ce feu couvert dans le fonds de mon cœur ;</l>
             <l n="1097" xml:id="l1097">Sylla qui vouloit seul disposer de mon ame,</l>
-            <l n="1098" xml:id="l1098">Aujourd’huy seulement laisse échaper ma <hi rend="sup">*</hi><ref target="#flame">flâme</ref>.</l>
+            <l n="1098" xml:id="l1098">Aujourd’huy seulement laisse échaper ma <hi rend="sup"/><ref target="#flame">flâme</ref>.</l>
             <l n="1099" xml:id="l1099">Et vous pouvez penser, Seigneur, qu’il m’est bien dous,</l>
             <l n="1100" xml:id="l1100">De ne vous plus cacher ce que je sens pour vous.</l>
           </sp>
@@ -2402,15 +2401,15 @@
           <sp who="cecilie" xml:id="IV02-5">
             <speaker>CECILIE.</speaker>
             <pb n="49"/>
-            <l n="1103" xml:id="l1103">Que ces transports plairoient au beau <hi rend="sup">*</hi><ref target="#feu">feu</ref> que je sens,</l>
+            <l n="1103" xml:id="l1103">Que ces transports plairoient au beau <hi rend="sup"/><ref target="#feu">feu</ref> que je sens,</l>
             <l n="1104" xml:id="l1104">Qu’ils seroient doux, Seigneur, s’ils estoient innocens !</l>
             <l n="1105" xml:id="l1105">Mais loin de s’applaudir d’un adveu legitime,</l>
             <l n="1106" xml:id="l1106">Songez-vous bien, Seigneur, qu’il vous demande un crime,</l>
-            <l n="1107" xml:id="l1107">Que mon <hi rend="sup">*</hi><ref target="#feu">feu</ref> ne paroist que pour vous éblouyr,</l>
+            <l n="1107" xml:id="l1107">Que mon <hi rend="sup"/><ref target="#feu">feu</ref> ne paroist que pour vous éblouyr,</l>
             <l n="1108" xml:id="l1108">Et ne me donne à vous qu’afin de vous trahir.</l>
             <l n="1109" xml:id="l1109">Songez-vous bien qu’il faut que Marius perisse ;</l>
             <l n="1110" xml:id="l1110">Quand Sylla le trahit avec tant d’injustice,</l>
-            <l n="1111" xml:id="l1111">Qu’est-ce qui desormais retiendra son <hi rend="sup">*</hi><ref target="#courroux">courroux</ref>,</l>
+            <l n="1111" xml:id="l1111">Qu’est-ce qui desormais retiendra son <hi rend="sup"/><ref target="#courroux">courroux</ref>,</l>
             <l n="1112" xml:id="l1112">S’il ne respecte en luy le nom de mon Epoux ?</l>
             <l n="1113" xml:id="l1113">Marius est perdu, s’il ne devient son gendre ;</l>
             <l n="1114" xml:id="l1114">Nous le verrons perir, sans le pouvoir defendre,</l>
@@ -2421,7 +2420,7 @@
           </sp>
           <sp who="pompee" xml:id="IV02-6">
             <speaker>POMPEE.</speaker>
-            <l n="1119" xml:id="l1119">Oüy, sans doute, excusez les transports d’un <hi rend="sup">*</hi><ref target="#amant">Amant</ref> ;</l>
+            <l n="1119" xml:id="l1119">Oüy, sans doute, excusez les transports d’un <hi rend="sup"/><ref target="#amant">Amant</ref> ;</l>
             <l n="1120" xml:id="l1120">Aveuglé de l’espoir d’un adveu trop charmant,</l>
             <l n="1121" xml:id="l1121">J’oubliois les perils d’un Rival magnanime ;</l>
             <l n="1122" xml:id="l1122">Ravy de mon bon-heur j’oubliois tout mon crime.</l>
@@ -2429,7 +2428,7 @@
             <l n="1124" xml:id="l1124">Reprenez les bontez que vous avez pour moy,</l>
             <l n="1125" xml:id="l1125">Ah ! Madame, pourquoy rompre un heureux silence,</l>
             <l n="1126" xml:id="l1126">Qui de tant de perils sauvoit mon innocence ?<pb n="50"/></l>
-            <l n="1127" xml:id="l1127">Puis-je voir tant d’<hi rend="sup">*</hi><ref target="#apas">appas</ref>, puis-je les adorer,</l>
+            <l n="1127" xml:id="l1127">Puis-je voir tant d’<hi rend="sup"/><ref target="#apas">appas</ref>, puis-je les adorer,</l>
             <l n="1128" xml:id="l1128">Puis-je avec tant d’amour oser mesme esperer,</l>
             <l n="1129" xml:id="l1129">Et ne pas acheter l’espoir de tant de charmes,</l>
             <l n="1130" xml:id="l1130">Du sang de mon Rival, et de toutes ses larmes ?</l>
@@ -2514,10 +2513,10 @@
             <speaker>SYLLA.</speaker>
             <l part="F">Ah ! non j’entens sa fuite et ton silence,</l>
             <l n="1155" xml:id="l1155">Alors que par mon ordre il voit en sa faveur</l>
-            <l n="1156" xml:id="l1156">Le secret de ta <hi rend="sup">*</hi><ref target="#flame">flâme</ref> arraché de ton cœur :</l>
+            <l n="1156" xml:id="l1156">Le secret de ta <hi rend="sup"/><ref target="#flame">flâme</ref> arraché de ton cœur :</l>
             <l n="1157" xml:id="l1157">L’ingrat ose braver, sans peur de nous déplaire,</l>
             <l n="1158" xml:id="l1158">Et l’amour de la fille, et la haine du pere.</l>
-            <l n="1159" xml:id="l1159">Ton <hi rend="sup">*</hi><ref target="#amant">Amant</ref> a donc pu s’oublier jusques-là ?</l>
+            <l n="1159" xml:id="l1159">Ton <hi rend="sup"/><ref target="#amant">Amant</ref> a donc pu s’oublier jusques-là ?</l>
             <l n="1160" xml:id="l1160">Il épargne un Rival et méprise Sylla.</l>
             <l n="1161" xml:id="l1161">Je luy fais esperer l’honneur d’estre mon gendre,</l>
             <l n="1162" xml:id="l1162">Jusques à cét adveu je te force à décendre,</l>
@@ -2560,7 +2559,7 @@
           <sp who="sylla" xml:id="IV03-7">
             <speaker>SILLA.</speaker>
             <l n="1189" xml:id="l1189">Non, non, je t’aime trop, et n’osant seul resoudre</l>
-            <l n="1190" xml:id="l1190">Sur quel de tes <hi rend="sup">*</hi>Amans doit tomber cette foudre.</l>
+            <l n="1190" xml:id="l1190">Sur quel de tes <hi rend="sup"/>Amans doit tomber cette foudre.</l>
           </sp>
           <sp who="cecilie" xml:id="IV03-8">
             <speaker>CECILIE.</speaker>
@@ -2605,7 +2604,7 @@
             <l n="1219" xml:id="l1219">Et voulant m’asseurer mon repos et mon rang,</l>
             <l n="1220" xml:id="l1220">Je puis avec honneur répandre un peu de sang.</l>
             <l n="1221" xml:id="l1221">Pour Marius, tu sçais qu’il a toute ma haine ;</l>
-            <l n="1222" xml:id="l1222">Mais tu dois à sa <hi rend="sup">*</hi><ref target="#flame">flâme</ref> et ta vie et la mienne :</l>
+            <l n="1222" xml:id="l1222">Mais tu dois à sa <hi rend="sup"/><ref target="#flame">flâme</ref> et ta vie et la mienne :</l>
             <l n="1223" xml:id="l1223">Ainsi prens sur ce choix le reste de ce jour,</l>
             <l n="1224" xml:id="l1224">Fais justice à ta gloire ou grace à ton amour.</l>
           </sp>
@@ -2627,7 +2626,7 @@
             <l n="1234" xml:id="l1234">Et songez qu’il y va de toute ma puissance.</l>
           </sp>
           <sp who="cecilie" xml:id="IV03-14">
-            <speaker>CECILIE. <hi rend="i">en s’en allant.</hi></speaker>
+            <speaker>CECILIE. </speaker><stage>en s’en allant.</stage>
             <l n="1235" xml:id="l1235">O ! Dieux qui d’un tel sang avez formé le mien,</l>
             <l n="1236" xml:id="l1236">Que ne me donnez-vous un cœur comme le sien</l>
           </sp>
@@ -2636,7 +2635,7 @@
           <pb n="56"/>
           <head>SCENE IV.</head>
           <sp who="pison" xml:id="IV04-1">
-            <speaker>PISON <hi rend="i">à SILLA</hi>.</speaker>
+            <speaker>PISON </speaker><stage>à SILLA</stage>
             <l n="1237" xml:id="l1237">Vous puis-je demander quelle rigueur extréme</l>
             <l n="1238" xml:id="l1238">Oblige vostre fille à choisir elle-mesme ?</l>
             <l n="1239" xml:id="l1239">Vous luy deviez cacher, pour choisir l’un des deux,</l>
@@ -2651,7 +2650,7 @@
           </sp>
           <sp who="pison" xml:id="IV04-3">
             <speaker>PISON.</speaker>
-            <l n="1245" xml:id="l1245">Et depuis cét adveu cét <hi rend="sup">*</hi><ref target="#amant">Amant</ref> miserable</l>
+            <l n="1245" xml:id="l1245">Et depuis cét adveu cét <hi rend="sup"/><ref target="#amant">Amant</ref> miserable</l>
             <l n="1246" xml:id="l1246">Ne peut dissimuler la douleur qui l’accable,</l>
             <l n="1247" xml:id="l1247">Ennemy de la feinte et du déguisement,</l>
             <l n="1248" xml:id="l1248">Son grand cœur sans rien craindre éclate hautement,</l>
@@ -2717,7 +2716,7 @@
             <l n="1294" xml:id="l1294">Qu’ayant sçeu parvenir jusqu’à la Dictature,</l>
             <l n="1295" xml:id="l1295">Tes sermens violez, et mon espoir trompé</l>
             <l n="1296" xml:id="l1296">Seroient le digne essay d’un pouvoir usurpé.</l>
-            <l n="1297" xml:id="l1297">Non, soit<note n="110" place="bottom">. = que ce soit, ou ma faiblesse, ou [...]</note> ou ma foiblesse, ou l’erreur de ma <hi rend="sup">*</hi><ref target="#flame">flâme</ref>,<pb n="59"/></l>
+            <l n="1297" xml:id="l1297">Non, soit<note n="110" place="bottom">. = que ce soit, ou ma faiblesse, ou [...]</note> ou ma foiblesse, ou l’erreur de ma <hi rend="sup"/><ref target="#flame">flâme</ref>,<pb n="59"/></l>
             <l n="1298" xml:id="l1298">Je n’ay pû concevoir tant d’horreurs dans une ame :</l>
             <l n="1299" xml:id="l1299">Quiconque pour les croire auroit assez de foy,</l>
             <l n="1300" xml:id="l1300">Devroit estre meschant et cruel comme toy.</l>
@@ -2730,7 +2729,7 @@
             <l n="1304" xml:id="l1304">Vous dire que j’ay pû trahir innocemment,</l>
             <l n="1305" xml:id="l1305">Le fils d’un ennemy, qui né dans la bassesse</l>
             <l n="1306" xml:id="l1306">Fut le persecuteur de toute la noblesse<note n="111" place="bottom">. Marius père « était de fort petit lieu, né de père et mère pauvres, qui gagnaient leur vie à la sueur de leur corps » (Plutarque, <hi rend="i">Vie de Marius</hi>, III) . Et il « se posait en ennemi irréductible des nobles dont il avait toujours été l’adversaire » (Salluste, <hi rend="i">Guerre de Jugurtha</hi>, LXXXIV, 1 et LXXXV, 24) . Dans son discours rapporté par Salluste contre les nobles, Marius indique : « Il me manque des aïeux, je le confesse, mais je puis parler de mes exploits personnels, et cela vaut mieux. » </note>,</l>
-            <l n="1307" xml:id="l1307">Le fils d’un vieux <hi rend="sup">*</hi>Tyran qui fit par ses forfaits</l>
+            <l n="1307" xml:id="l1307">Le fils d’un vieux <hi rend="sup"/>Tyran qui fit par ses forfaits</l>
             <l n="1308" xml:id="l1308">Une sanglante guerre au milieu de la paix.</l>
             <l n="1309" xml:id="l1309">Je pouvois écouter cette haine invincible</l>
             <l n="1310" xml:id="l1310">Qui rend avec mon sang le vostre incompatible.</l>
@@ -2738,7 +2737,7 @@
             <l n="1312" xml:id="l1312">J’ay deu tout oublier dans nos embrassemens,</l>
             <l n="1313" xml:id="l1313">Et separer, malgré la haine hereditaire</l>
             <l n="1314" xml:id="l1314">L’innocence du fils et les crimes du pere<note n="112" place="bottom">. L’innocence du fils en comparaison du père est justifiée par sa conduite en héros dans la tragédie. Mais cette innocence semble contredite par l’Histoire : « fit de cruautés et d’inhumanités depuis la mort de son père, faisant mourir tous les plus apparents et plus notables personnages de la ville » (Plutarque, <hi rend="i">Vie de Marius</hi>, LXXXIX) . Voir note 43.</note>.</l>
-            <l n="1315" xml:id="l1315">Supprimons ces raisons de haine et de <hi rend="sup">*</hi><ref target="#courroux">courrous</ref>,</l>
+            <l n="1315" xml:id="l1315">Supprimons ces raisons de haine et de <hi rend="sup"/><ref target="#courroux">courrous</ref>,</l>
             <l n="1316" xml:id="l1316">J’en ay, qui malgré moy parlent trop contre vous.</l>
             <l n="1317" xml:id="l1317">Regardez en quel temps l’offre de Cecilie</l>
             <l n="1318" xml:id="l1318">Suivit l’heureuse paix qui nous reconcilie :</l>
@@ -2783,7 +2782,7 @@
           <sp who="sylla" xml:id="IV05-6">
             <speaker>SYLLA.</speaker>
             <l n="1353" xml:id="l1353">Croyez-moy, remettez le calme dans vostre ame,</l>
-            <l n="1354" xml:id="l1354">Vous n’avez qu’un moyen pour servir vostre <hi rend="sup">*</hi><ref target="#flame">flâme</ref>.</l>
+            <l n="1354" xml:id="l1354">Vous n’avez qu’un moyen pour servir vostre <hi rend="sup"/><ref target="#flame">flâme</ref>.</l>
             <l n="1355" xml:id="l1355">Sans parler de traité, de serment, ny de foy,</l>
             <l n="1356" xml:id="l1356">Souffrez que Cecilie en ordonne sans moy.</l>
             <l n="1357" xml:id="l1357">Quoy que de son amour un peu preoccupée,</l>
@@ -2792,7 +2791,7 @@
             <l n="1360" xml:id="l1360">Et qu’un pareil bien-fait vaut bien un peu d’amour.</l>
             <l n="1361" xml:id="l1361">Pour flater vos Rivaux, souffrez qu’elle choisisse,</l>
             <l n="1362" xml:id="l1362">Ne vous figurez pas que c’est un artifice,</l>
-            <l n="1363" xml:id="l1363">Pompée est un ingrat, et mon juste <hi rend="sup">*</hi><ref target="#courroux">courrous</ref></l>
+            <l n="1363" xml:id="l1363">Pompée est un ingrat, et mon juste <hi rend="sup"/><ref target="#courroux">courrous</ref></l>
             <l n="1364" xml:id="l1364">Vous rend ce qu’il avoit d’avantage sur vous.</l>
             <l n="1365" xml:id="l1365">Ainsi souffrez qu’un choix et juste et raisonnable...</l>
           </sp>
@@ -2808,7 +2807,7 @@
           <pb n="62"/>
           <head>SCENE VI.</head>
           <sp who="sylla" xml:id="IV06-1">
-            <speaker>SYLLA <hi rend="i">seul à PISON.</hi></speaker>
+            <speaker>SYLLA </speaker><stage>seul à PISON.</stage>
             <l part="F">Voy maintenant le secret de ma haine.</l>
             <l n="1370" xml:id="l1370">Pour perdre Marius et sans honte et sans peine,</l>
             <l n="1371" xml:id="l1371">Le choix de Cecilie est un moyen certain :</l>
@@ -2842,7 +2841,7 @@
             <l n="1385" xml:id="l1385">Qui pouvoit rebuter toute autre obeïssance,</l>
             <l n="1386" xml:id="l1386">A-t’il trouvé chez moy la moindre resistance ?</l>
             <l n="1387" xml:id="l1387">Il m’offre Marius, n’ay-je pas obey ?</l>
-            <l n="1388" xml:id="l1388">Il m’oste à cét <hi rend="sup">*</hi><ref target="#amant">Amant</ref>, je l’ay presque trahy :</l>
+            <l n="1388" xml:id="l1388">Il m’oste à cét <hi rend="sup"/><ref target="#amant">Amant</ref>, je l’ay presque trahy :</l>
             <l n="1389" xml:id="l1389">Mais quand il veut trahir Marius et Pompée,</l>
             <l n="1390" xml:id="l1390">Alors que sa vengeance incertaine ou trompée,</l>
             <l n="1391" xml:id="l1391">Demande une victime, et par des soins pressans</l>
@@ -2862,7 +2861,7 @@
             <l n="1402" xml:id="l1402">Il pretend que Pompée emporte la balance ;</l>
             <l n="1403" xml:id="l1403">Car, enfin vous sçavez, que Sylla dans son cœur</l>
             <l n="1404" xml:id="l1404">L’a toujours honoré de toute sa faveur.</l>
-            <l n="1405" xml:id="l1405">Ainsi, s’il vous propose un choix qui vous <hi rend="sup">*</hi><ref target="#estonner">étonne</ref>,</l>
+            <l n="1405" xml:id="l1405">Ainsi, s’il vous propose un choix qui vous <hi rend="sup"/><ref target="#estonner">étonne</ref>,</l>
             <l n="1406" xml:id="l1406">Expliquez comme il faut les terreurs qu’il vous donne.</l>
             <l n="1407" xml:id="l1407">Sur l’ordre de ce choix je vous diray bien plus,</l>
             <l n="1408" xml:id="l1408">Quand il se sert de vous pour trahir Marius,</l>
@@ -2879,7 +2878,7 @@
             <l n="1416" xml:id="l1416">De ce que je luy dois le tendre souvenir ;</l>
             <l n="1417" xml:id="l1417">Et c’est dans cet estat que je l’offre à moy-mesme ;</l>
             <l n="1418" xml:id="l1418">Quand j’estois comme luy dans un peril extréme ;</l>
-            <l n="1419" xml:id="l1419">Quand un peuple en fureur massacroit mes <hi rend="sup">*</hi><ref target="#parents">parens</ref></l>
+            <l n="1419" xml:id="l1419">Quand un peuple en fureur massacroit mes <hi rend="sup"/><ref target="#parents">parens</ref></l>
             <l n="1420" xml:id="l1420">Et les traisnoit dans Rome égorgez ou mourans,</l>
             <l n="1421" xml:id="l1421">Quand mon Palais détruit, le desespoir dans l’ame,</l>
             <l n="1422" xml:id="l1422">Pàle, errante, au milieu du sang et de la flâme,</l>
@@ -2890,11 +2889,11 @@
             <l n="1427" xml:id="l1427">Prisonniere de guerre au milieu de sa cour,</l>
             <l n="1428" xml:id="l1428">Et sous les douces loix d’un prisonnier d’amour,</l>
             <l n="1429" xml:id="l1429">Voy comme il m’a traitée, avec quelle tendresse,</l>
-            <l n="1430" xml:id="l1430">D’une ingrate captive il a fait sa <hi rend="sup">*</hi><ref target="#maistresse">Maistresse</ref>.</l>
+            <l n="1430" xml:id="l1430">D’une ingrate captive il a fait sa <hi rend="sup"/><ref target="#maistresse">Maistresse</ref>.</l>
             <l n="1431" xml:id="l1431">Le ferons-nous perir, luy l’honneur de nos jours,</l>
             <l n="1432" xml:id="l1432">Les delices de Rome et ses tendres amours,</l>
-            <l n="1433" xml:id="l1433">L’exemple des <hi rend="sup">*</hi>Amans, en qui l’amour assemble</l>
-            <l n="1434" xml:id="l1434">Plus de <hi rend="sup">*</hi><ref target="#feu">feux</ref> que n’en ont tous les <hi rend="sup">*</hi>Amans ensemble ?</l>
+            <l n="1433" xml:id="l1433">L’exemple des <hi rend="sup"/>Amans, en qui l’amour assemble</l>
+            <l n="1434" xml:id="l1434">Plus de <hi rend="sup"/><ref target="#feu">feux</ref> que n’en ont tous les <hi rend="sup"/>Amans ensemble ?</l>
           </sp>
           <sp who="marcelle" xml:id="V01-5">
             <speaker>MARCELLE.</speaker>
@@ -2956,19 +2955,19 @@
           <sp who="marius" xml:id="V02-1">
             <speaker>MARIUS.</speaker>
             <l n="1463" xml:id="l1463">Je sçay ce que Sylla vient de vous ordonner ;</l>
-            <l n="1464" xml:id="l1464">Madame, et mon abord semble vous <hi rend="sup">*</hi><ref target="#estonner">étonner</ref>.</l>
+            <l n="1464" xml:id="l1464">Madame, et mon abord semble vous <hi rend="sup"/><ref target="#estonner">étonner</ref>.</l>
             <l n="1465" xml:id="l1465">Je sçay trop bien aimer pour vouloir vous contraindre ;</l>
             <l n="1466" xml:id="l1466">Choisissez hardiment, vous n’avez rien à craindre :</l>
             <l n="1467" xml:id="l1467">Vous aymez, je le sçay, par vostre propre adveu,</l>
-            <l n="1468" xml:id="l1468">Vous ne pourrez jamais brusler d’un plus beau <hi rend="sup">*</hi><ref target="#feu">feu</ref>.<pb n="67"/></l>
-            <l n="1469" xml:id="l1469">Abandonnez aux Dieux un <hi rend="sup">*</hi><ref target="#amant">Amant</ref> miserable,</l>
+            <l n="1468" xml:id="l1468">Vous ne pourrez jamais brusler d’un plus beau <hi rend="sup"/><ref target="#feu">feu</ref>.<pb n="67"/></l>
+            <l n="1469" xml:id="l1469">Abandonnez aux Dieux un <hi rend="sup"/><ref target="#amant">Amant</ref> miserable,</l>
             <l n="1470" xml:id="l1470">Que les crimes d’un pere ont rendu trop coupable.</l>
             <l n="1471" xml:id="l1471">Et sans plus balancer vostre amour et le mien,</l>
             <l n="1472" xml:id="l1472">Croyez en vostre cœur ; tout le reste n’est rien.</l>
           </sp>
           <sp who="cecilie" xml:id="V02-2">
             <speaker>CECILIE.</speaker>
-            <l n="1473" xml:id="l1473">Je vous ay dit l’<hi rend="sup">*</hi><ref target="#amant">Amant</ref> pour qui mon cœur soûpire,</l>
+            <l n="1473" xml:id="l1473">Je vous ay dit l’<hi rend="sup"/><ref target="#amant">Amant</ref> pour qui mon cœur soûpire,</l>
             <l n="1474" xml:id="l1474">Je vous l’ay dit, Seigneur et ne puis m’en dédire ;</l>
             <l n="1475" xml:id="l1475">Et si la trahison avoit moins de fureur,</l>
             <l n="1476" xml:id="l1476">J’obeïrois peut-estre aux ordres de mon cœur ;</l>
@@ -2988,16 +2987,16 @@
             <l n="1487" xml:id="l1487">Et je puis me flater pour le prix de ma foy,</l>
             <l n="1488" xml:id="l1488">Qu’elle doute un moment entre Pompée et moy,</l>
             <l n="1489" xml:id="l1489">Mais il est temps enfin de vous faire justice :</l>
-            <l n="1490" xml:id="l1490">Craignez, que comme vous vostre <hi rend="sup">*</hi><ref target="#amant">Amant</ref> se trahisse,</l>
+            <l n="1490" xml:id="l1490">Craignez, que comme vous vostre <hi rend="sup"/><ref target="#amant">Amant</ref> se trahisse,</l>
             <l n="1491" xml:id="l1491">Je l’ay veu ce grand cœur rendre un cruel combat.</l>
-            <l n="1492" xml:id="l1492">Pompée est <hi rend="sup">*</hi><ref target="#genereux">genereux</ref>, et je suis un ingrat :</l>
+            <l n="1492" xml:id="l1492">Pompée est <hi rend="sup"/><ref target="#genereux">genereux</ref>, et je suis un ingrat :</l>
             <l n="1493" xml:id="l1493">Je ne pourray jamais par un effort semblable</l>
             <l n="1494" xml:id="l1494">Ce qu’un Rival heureux fait pour un miserable ;</l>
             <l n="1495" xml:id="l1495">Madame, ma vertu n’ira jamais si loin,</l>
             <l n="1496" xml:id="l1496">Je ne puis, comme luy la trouver au besoin<note n="115" place="bottom">. Comprendre : quand j’en ai besoin.</note>.</l>
             <l n="1497" xml:id="l1497">Et bien loin d’imiter l’effort qu’il se veut faire,<pb n="68"/></l>
             <l n="1498" xml:id="l1498">Je garde obstinement un espoir temeraire,</l>
-            <l n="1499" xml:id="l1499">Je ne puis renoncer à ces divins <hi rend="sup">*</hi><ref target="#apas">appas</ref>,</l>
+            <l n="1499" xml:id="l1499">Je ne puis renoncer à ces divins <hi rend="sup"/><ref target="#apas">appas</ref>,</l>
             <l n="1500" xml:id="l1500">Que j’ay veu presque miens et presque entre mes bras :</l>
             <l n="1501" xml:id="l1501">Non, rien ne peut m’oster l’espoir de Cecilie,</l>
             <l n="1502" xml:id="l1502">Et c’est le seul lien qui m’attache à la vie.</l>
@@ -3020,20 +3019,20 @@
             <l n="1509" xml:id="l1509">Echapez promptement aux fureurs de mon pere,</l>
             <l n="1510" xml:id="l1510">Ce choix qu’il me demande, et que je crains de faire,</l>
             <l n="1511" xml:id="l1511">Quel qu’il puisse estre enfin, ou pour ou contre vous,</l>
-            <l n="1512" xml:id="l1512">Ne fera que <hi rend="sup">*</hi><ref target="#haster">haster</ref> l’effet de son <hi rend="sup">*</hi><ref target="#courroux">courrous</ref>.</l>
+            <l n="1512" xml:id="l1512">Ne fera que <hi rend="sup"/><ref target="#haster">haster</ref> l’effet de son <hi rend="sup"/><ref target="#courroux">courrous</ref>.</l>
           </sp>
           <sp who="marius" xml:id="V02-7">
             <speaker>MARIUS.</speaker>
             <l n="1513" xml:id="l1513">Je sçay trop que ce choix, où Sylla me renvoye,</l>
             <l n="1514" xml:id="l1514">N’est pour ma seureté qu’une infidelle voye.</l>
             <l n="1515" xml:id="l1515">Pour derniere faveur souffrez moy seulement</l>
-            <l n="1516" xml:id="l1516">Tout ce que peut tenter un malheureux <hi rend="sup">*</hi><ref target="#amant">Amant</ref>.</l>
+            <l n="1516" xml:id="l1516">Tout ce que peut tenter un malheureux <hi rend="sup"/><ref target="#amant">Amant</ref>.</l>
             <l n="1517" xml:id="l1517">Quoy qu’il me fust permis dans mon malheur extréme,</l>
             <l n="1518" xml:id="l1518">De n’en prendre aujourd’huy l’ordre que de moy-mesme,</l>
             <l n="1519" xml:id="l1519">Je dépens de l’amour, et de vostre pouvoir,</l>
             <l n="1520" xml:id="l1520">Vous pouvez d’un seul mot éteindre mon espoir ;</l>
             <l n="1521" xml:id="l1521">Mais pour me l’arracher, il faut m’arracher l’ame,</l>
-            <l n="1522" xml:id="l1522">Je ne vis que d’espoir au milieu de ma <hi rend="sup">*</hi><ref target="#flame">flâme</ref>,<pb n="69"/></l>
+            <l n="1522" xml:id="l1522">Je ne vis que d’espoir au milieu de ma <hi rend="sup"/><ref target="#flame">flâme</ref>,<pb n="69"/></l>
             <l n="1523" xml:id="l1523">Luy seul soûtient mes jours, luy seul est tout mon bien ,</l>
             <l n="1524" xml:id="l1524">Et je meurs à vos pieds, si je n’espere rien.</l>
             <l n="1525" xml:id="l1525">Ordonnez à ce cœur que mon respect vous livre,</l>
@@ -3052,7 +3051,7 @@
             <speaker>MARIUS.</speaker>
             <l n="1532" xml:id="l1532">Au peril de ce choix dois-je m’abandonner ?</l>
             <l n="1533" xml:id="l1533">Sylla qui m’a vanté cette douce esperance,</l>
-            <l n="1534" xml:id="l1534">Voudroit sous un <hi rend="sup">*</hi><ref target="#apas">appas</ref> endormir ma prudence :</l>
+            <l n="1534" xml:id="l1534">Voudroit sous un <hi rend="sup"/><ref target="#apas">appas</ref> endormir ma prudence :</l>
             <l n="1535" xml:id="l1535">Mais s’il a pu manquer à la foy d’un traité,</l>
             <l n="1536" xml:id="l1536">Puis-je prendre avec luy quelqu’autre seureté ?</l>
             <l n="1537" part="I" xml:id="l1537">S’il le faut toutefois...</l>
@@ -3066,14 +3065,14 @@
           </sp>
           <sp who="marius" xml:id="V02-11">
             <speaker>MARIUS.</speaker>
-            <l n="1541" xml:id="l1541">Quelques soins que je donne au secours de ma <hi rend="sup">*</hi><ref target="#flame">flâme</ref>,</l>
+            <l n="1541" xml:id="l1541">Quelques soins que je donne au secours de ma <hi rend="sup"/><ref target="#flame">flâme</ref>,</l>
             <l n="1542" xml:id="l1542">Jamais rien de honteux n’entrera dans mon ame,</l>
             <l n="1543" xml:id="l1543">Et je serois indigne et de vous et du jour</l>
             <l n="1544" xml:id="l1544">Si la gloire n’estoit du party de l’amour :</l>
             <l n="1545" xml:id="l1545">Il n’est point de fureur que mon devoir n’arreste :</l>
             <l n="1546" xml:id="l1546">Si vous me soupçonnez, je vous livre ma teste,<pb n="70"/></l>
             <l n="1547" xml:id="l1547">Et je ne vous instruis des perils où je cours,</l>
-            <l n="1548" xml:id="l1548">Que pour mettre en vos mains ma <hi rend="sup">*</hi><ref target="#fortune">fortune</ref> et mes jours.</l>
+            <l n="1548" xml:id="l1548">Que pour mettre en vos mains ma <hi rend="sup"/><ref target="#fortune">fortune</ref> et mes jours.</l>
           </sp>
           <sp who="cecilie" xml:id="V02-12">
             <speaker>CECILIE.</speaker>
@@ -3099,7 +3098,7 @@
           <head>SCENE III.</head>
           <stage> CECILIE. MARCELLE.</stage>
           <sp who="cecilie" xml:id="V03-1">
-            <speaker>CECILIE <hi rend="i">continuë</hi>.</speaker>
+            <speaker>CECILIE </speaker><stage>continuë</stage>
             <l part="F">Que son sort est à plaindre !</l>
           </sp>
           <sp who="marcelle" xml:id="V03-2">
@@ -3127,7 +3126,7 @@
             <l n="1565" xml:id="l1565">Je cours prés de Sylla luy vanter ma victoire ;</l>
             <l n="1566" xml:id="l1566">Je cours sacrifier mon amour à ma gloire :</l>
             <l n="1567" xml:id="l1567">Mais faut-il vous trouver encore sur mes pas ?</l>
-            <l n="1568" xml:id="l1568">Ah ! ne m’opposez plus ces dangereux <hi rend="sup">*</hi><ref target="#apas">appas</ref>.</l>
+            <l n="1568" xml:id="l1568">Ah ! ne m’opposez plus ces dangereux <hi rend="sup"/><ref target="#apas">appas</ref>.</l>
             <l n="1569" xml:id="l1569">Madame, c’en est fait ; il faut que je réponde,</l>
             <l n="1570" xml:id="l1570">Malgré tout mon amour aux vœux de tout le monde,</l>
             <l n="1571" xml:id="l1571">Et vous devez souffrir qu’un cœur trop combatu</l>
@@ -3139,7 +3138,7 @@
             <l n="1577" xml:id="l1577">Et Sylla qui le voit outré de sa disgrace</l>
             <l n="1578" xml:id="l1578">Par des ordres cachez en previent la menace,</l>
             <l n="1579" xml:id="l1579">Et songe à rejetter sur moy-mesme et sur vous,</l>
-            <l n="1580" xml:id="l1580">Tout ce que va produire un injuste <hi rend="sup">*</hi><ref target="#courroux">courrous</ref>.<pb n=" 72"/></l>
+            <l n="1580" xml:id="l1580">Tout ce que va produire un injuste <hi rend="sup"/><ref target="#courroux">courrous</ref>.<pb n=" 72"/></l>
             <l n="1581" xml:id="l1581">C’est à nous de sauver de ce peril extréme,</l>
             <l n="1582" xml:id="l1582">Sylla, la paix, l’estat, Marius et vous-mesme.</l>
             <l n="1583" xml:id="l1583">Puisque Sylla pour nous va rompre le traité</l>
@@ -3150,7 +3149,7 @@
             <l n="1588" xml:id="l1588">Le plus visible éclat de la gloire des Dieux,</l>
             <l n="1589" xml:id="l1589">Il n’est rien qu’à vos yeux mon cœur ne sacrifie.</l>
             <l n="1590" xml:id="l1590">Mais voyant à quel prix on m’offre Cecilie,</l>
-            <l n="1591" xml:id="l1591">Mon cœur tout indigné renonce à ses <hi rend="sup">*</hi><ref target="#apas">appas</ref> ;</l>
+            <l n="1591" xml:id="l1591">Mon cœur tout indigné renonce à ses <hi rend="sup"/><ref target="#apas">appas</ref> ;</l>
             <l n="1592" xml:id="l1592">L’amour n’est plus amour, où la gloire n’est pas ;</l>
             <l n="1593" xml:id="l1593">Ce Dieu n’est que fureur, foiblesse, extravagance,</l>
             <l n="1594" xml:id="l1594">Quand son emportement nous couste l’innocence</l>
@@ -3188,7 +3187,7 @@
             <l n="1616" xml:id="l1616">Et que je dois combatre un pere et mon amour ;</l>
             <l n="1617" xml:id="l1617">Mais un pere cruel, puisqu’il vous faut tout dire,</l>
             <l n="1618" xml:id="l1618">Qui vous voyant douter sur le choix qu’il desire,</l>
-            <l n="1619" xml:id="l1619">Veut qu’entre deux <hi rend="sup">*</hi><ref target="#amant">Amants</ref> arbitre de leur sort,</l>
+            <l n="1619" xml:id="l1619">Veut qu’entre deux <hi rend="sup"/><ref target="#amant">Amants</ref> arbitre de leur sort,</l>
             <l n="1620" xml:id="l1620">Je partage aujourd’huy mon hymen et la mort<note n="118" place="bottom">. Voir vers 1509, 1576-1578. Les héros s’informent mutuellement du danger qui les menace tous quoique différemment (et en informent en même temps les spectateurs) .</note>.</l>
           </sp>
           <sp who="pompee" xml:id="V04-6">
@@ -3213,7 +3212,7 @@
             <l n="1626" xml:id="l1626">J’ay choisi Marius Seigneur, et j’en fais gloire.</l>
           </sp>
           <sp who="sylla" xml:id="V05-3">
-            <speaker>SYLLA. <hi rend="i">à part</hi>.</speaker>
+            <speaker>SYLLA. </speaker><stage>à part</stage>
             <l n="1627" part="I" xml:id="l1627">Dieux !</l>
           </sp>
           <sp who="cecilie" xml:id="V05-4">
@@ -3233,7 +3232,7 @@
             <l n="1633" xml:id="l1633">Seigneur, j’aime la gloire, et la trouve trop belle</l>
             <l n="1634" xml:id="l1634">Pour rien faire jamais qui soit indigne d’elle.</l>
             <l n="1635" xml:id="l1635">Quoy que pour Cecilie, et l’amour et l’honneur</l>
-            <l n="1636" xml:id="l1636">D’une <hi rend="sup">*</hi><ref target="#flame">flâme</ref> immortelle ait embrasé mon cœur,</l>
+            <l n="1636" xml:id="l1636">D’une <hi rend="sup"/><ref target="#flame">flâme</ref> immortelle ait embrasé mon cœur,</l>
             <l n="1637" xml:id="l1637">Quand la seule vertu doit estre consultée,</l>
             <l n="1638" xml:id="l1638">L’amour perd tous ses droits, sa voix n’est point contée.<pb n="75"/></l>
             <l n="1639" xml:id="l1639">Je sçay bien qu’immoler sa gloire à ses beaux yeux,</l>
@@ -3248,7 +3247,7 @@
             <l n="1648" xml:id="l1648">Pour refuser au monde un exemple nouveau.</l>
             <l n="1649" xml:id="l1649">L’univers apprendra que pour l’honneur de Rome,</l>
             <l n="1650" xml:id="l1650">Sous le regne du crime il est encore un home,</l>
-            <l n="1651" xml:id="l1651">Qui fait voir à Sylla malgré tout son <hi rend="sup">*</hi><ref target="#courroux">courrous</ref>,</l>
+            <l n="1651" xml:id="l1651">Qui fait voir à Sylla malgré tout son <hi rend="sup"/><ref target="#courroux">courrous</ref>,</l>
             <l n="1652" xml:id="l1652">Que le bien de la gloire est le plus grand de tous.</l>
           </sp>
           <sp who="sylla" xml:id="V05-7">
@@ -3279,7 +3278,7 @@
             <l n="1673" xml:id="l1673">Epargner à Sylla l’ingrate barbarie</l>
             <l n="1674" xml:id="l1674">D’attenter sur celuy qui nous sauve la vie,</l>
             <l n="1675" xml:id="l1675">Et garentir la paix, Rome et vostre pouvoir</l>
-            <l n="1676" xml:id="l1676">Des fureurs d’un <hi rend="sup">*</hi><ref target="#amant">Amant</ref> qu’on met au desespoir.</l>
+            <l n="1676" xml:id="l1676">Des fureurs d’un <hi rend="sup"/><ref target="#amant">Amant</ref> qu’on met au desespoir.</l>
             <l n="1677" xml:id="l1677">Si par ce digne amour vostre haine est trompée,</l>
             <l n="1678" xml:id="l1678">Voilà ce que vous vaut Cecilie et Pompée,</l>
             <l n="1679" xml:id="l1679">Rendez graces au Ciel, qui vous preste aujourd’huy</l>
@@ -3288,7 +3287,7 @@
           <sp who="sylla" xml:id="V05-9">
             <speaker>SYLLA.</speaker>
             <l n="1681" xml:id="l1681">J’admire ce beau zele , et ne puis m’en defendre,</l>
-            <l n="1682" xml:id="l1682">Je voy par vos conseils quel <hi rend="sup">*</hi><ref target="#parti">party</ref> je doy prendre</l>
+            <l n="1682" xml:id="l1682">Je voy par vos conseils quel <hi rend="sup"/><ref target="#parti">party</ref> je doy prendre</l>
             <l n="1683" xml:id="l1683">Il faut vous contenter. Qu’on l’aille donc chercher,</l>
             <l n="1684" xml:id="l1684">Ce precieux Rival, cet ennemy si cher.</l>
           </sp>
@@ -3320,12 +3319,12 @@
             <l n="1692" xml:id="l1692">Grace à son desespoir, j’ay tout ce que je veux,</l>
             <l n="1693" xml:id="l1693">Puisqu’il m’ose attaquer, il n’est plus temps de feindre :</l>
             <l n="1694" xml:id="l1694">Vains scrupules d’estat cessez de me contraindre,</l>
-            <l n="1695" xml:id="l1695">Déguisement honteux d’un <hi rend="sup">*</hi><ref target="#courroux">courrous</ref> violent</l>
+            <l n="1695" xml:id="l1695">Déguisement honteux d’un <hi rend="sup"/><ref target="#courroux">courrous</ref> violent</l>
             <l n="1696" xml:id="l1696">Laisse agir ma fureur ton secours est trop lent.<pb n="78"/></l>
             <l n="1697" xml:id="l1697">Viens Pison, il est temps de me faire connoistre.</l>
             <l n="1698" xml:id="l1698">Tremblez mes ennemis, tout Sylla va parestre.</l>
             <l n="1699" xml:id="l1699">Vous pouvez demeurer, et vous aider tous deux</l>
-            <l n="1700" xml:id="l1700">A plaindre dignement un <hi rend="sup">*</hi><ref target="#amant">Amant</ref> malheureux.</l>
+            <l n="1700" xml:id="l1700">A plaindre dignement un <hi rend="sup"/><ref target="#amant">Amant</ref> malheureux.</l>
           </sp>
         </div>
         <div type="scene" xml:id="V07">
@@ -3367,7 +3366,7 @@
             <l n="1712" xml:id="l1712">Je sçay jusqu’à quel point Marius sçait aimer.</l>
             <l n="1713" xml:id="l1713">Mais je n’abuse point de cét amour extréme.</l>
             <l n="1714" xml:id="l1714">Perisse tout plustost, perisse Rome mesme,</l>
-            <l n="1715" xml:id="l1715">Perisse Cecilie, et toute ma <hi rend="sup">*</hi><ref target="#maison">maison</ref>,</l>
+            <l n="1715" xml:id="l1715">Perisse Cecilie, et toute ma <hi rend="sup"/><ref target="#maison">maison</ref>,</l>
             <l n="1716" xml:id="l1716">Si je les dois sauver par une trahison,</l>
             <l n="1717" xml:id="l1717">Quand tu vois Marius prest à se satisfaire.</l>
             <l n="1718" part="I" xml:id="l1718">Veux-tu...</l>
@@ -3380,7 +3379,7 @@
           <sp who="cecilie" xml:id="V08-4">
             <speaker>CECILIE.</speaker>
             <l part="F">Pourquoy m’allarmes-tu ?</l>
-            <l n="1720" xml:id="l1720">Pourquoy d’un nom si cher <hi rend="sup">*</hi><ref target="#estonner">étonner</ref> ma vertu ?</l>
+            <l n="1720" xml:id="l1720">Pourquoy d’un nom si cher <hi rend="sup"/><ref target="#estonner">étonner</ref> ma vertu ?</l>
             <l n="1721" xml:id="l1721">Faut-il avec un pere estre d’intelligence,</l>
             <l n="1722" xml:id="l1722">Alors qu’il faut trahir l’honneur et l’innocence ?</l>
             <l n="1723" xml:id="l1723">Pour un pere sans foy, le sang est sans pouvoir</l>
@@ -3406,7 +3405,7 @@
           </sp>
           <sp who="marcelle" xml:id="V09-4">
             <speaker>MARCELLE.</speaker>
-            <l part="F">Le <hi rend="sup">*</hi><ref target="#fier">fier</ref> Sylla se presente aux mutins,</l>
+            <l part="F">Le <hi rend="sup"/><ref target="#fier">fier</ref> Sylla se presente aux mutins,</l>
             <l n="1728" xml:id="l1728">Comme s’il estoit seul maistre de leurs destins :</l>
             <l n="1729" xml:id="l1729">Son intrepidité desarme leur audace,</l>
             <l n="1730" xml:id="l1730">Et toute leur ardeur se convertit en glace,</l>
@@ -3449,10 +3448,10 @@
             <l n="1746" xml:id="l1746">D’horreur et de pitié mon cœur tremble et soûpire.</l>
             <l n="1747" xml:id="l1747">Marius, m’adressant sa voix et ses soûpirs,</l>
             <l n="1748" xml:id="l1748">Mon trépas, cher Rival, vange tes déplaisirs ;</l>
-            <l n="1749" xml:id="l1749">Adieu, joüis en paix du bon-heur de ta <hi rend="sup">*</hi><ref target="#flame">flâme</ref><note n="122" place="bottom">. Marius confie ici à son rival celle qu’il aime. De même que Cécilie et Pompée avaient renoncé à leur amour réciproque en faveur de Marius (vers 1566, 1626...) Le renoncement à la personne aimée est un thème fréquent dans la tragédie du XVII<hi rend="sup">e</hi> siècle où l’amour est si présent. Voir introduction p. 46-48.</note>.</l>
-            <l n="1750" xml:id="l1750">Attendri par ces mots jusques aux <hi rend="sup">*</hi><ref target="#feu">feux</ref> de l’ame,</l>
+            <l n="1749" xml:id="l1749">Adieu, joüis en paix du bon-heur de ta <hi rend="sup"/><ref target="#flame">flâme</ref><note n="122" place="bottom">. Marius confie ici à son rival celle qu’il aime. De même que Cécilie et Pompée avaient renoncé à leur amour réciproque en faveur de Marius (vers 1566, 1626...) Le renoncement à la personne aimée est un thème fréquent dans la tragédie du XVII<hi rend="sup">e</hi> siècle où l’amour est si présent. Voir introduction p. 46-48.</note>.</l>
+            <l n="1750" xml:id="l1750">Attendri par ces mots jusques aux <hi rend="sup"/><ref target="#feu">feux</ref> de l’ame,</l>
             <l n="1751" xml:id="l1751">Je change tout d’un coup ma tendresse en horreur,</l>
-            <l n="1752" xml:id="l1752">Voyant le <hi rend="sup">*</hi><ref target="#fier">fier</ref> Sylla d’un œil plein de fureur<pb n="82"/></l>
+            <l n="1752" xml:id="l1752">Voyant le <hi rend="sup"/><ref target="#fier">fier</ref> Sylla d’un œil plein de fureur<pb n="82"/></l>
             <l n="1753" xml:id="l1753">Jouyr de ce spectacle, et charmé de son crime</l>
             <l n="1754" xml:id="l1754">D’un avide regard devorer sa victime.</l>
             <l n="1755" xml:id="l1755">Apres avoir soulé toute sa cruauté,</l>
@@ -3475,7 +3474,7 @@
             <l n="1772" xml:id="l1772">Se livrer à quiconque aura soif de son sang.</l>
             <l n="1773" xml:id="l1773">Cependant pour combler ses remors et ses crimes</l>
             <l n="1774" xml:id="l1774">Il cherche à s’immoler mille et mille victimes.</l>
-            <l n="1775" xml:id="l1775">Et si vous n’avez soin de calmer son <hi rend="sup">*</hi><ref target="#courroux">courrous</ref>,</l>
+            <l n="1775" xml:id="l1775">Et si vous n’avez soin de calmer son <hi rend="sup"/><ref target="#courroux">courrous</ref>,</l>
             <l n="1776" xml:id="l1776">Je crains tout pour luy-mesme, et pour Rome et pour nous.</l>
           </sp>
         </div>
@@ -3493,9 +3492,9 @@
           <sp who="cecilie" xml:id="V11-2">
             <speaker>CECILIE.</speaker>
             <l n="1781" xml:id="l1781">Allons, allons nous mettre entre Rome et mon pere,</l>
-            <l n="1782" xml:id="l1782">Et mourir à ses pieds ou fléchir sa colere.</l>    
+            <l n="1782" xml:id="l1782">Et mourir à ses pieds ou fléchir sa colere.</l>
+            <trailer>FIN.</trailer>
           </sp>
-          <label>FIN.</label>
         </div>
       </div>
       <div n="1" xml:id="privilege" type="appendix">

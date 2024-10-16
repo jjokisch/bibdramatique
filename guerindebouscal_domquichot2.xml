@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2016-11-24T15:34:24+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><!--Odette: 2016-11-24T15:34:24+01:00--><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
   <fileDesc>
     <titleStmt>
@@ -29,11 +26,11 @@
       <availability status="restricted">
         <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
       </availability>
-      <idno>http://bibdramatique.paris-sorbonne.fr//</idno>
-      <idno type="tei">http://bibdramatique.paris-sorbonne.fr/guerindebouscal_domquichot2.xml</idno>
-      <idno type="html">http://bibdramatique.paris-sorbonne.fr/guerindebouscal_domquichot2.html</idno>
-      <idno type="text">http://bibdramatique.paris-sorbonne.fr/guerindebouscal_domquichot2.txt</idno>
-      <idno type="epub">http://bibdramatique.paris-sorbonne.fr/guerindebouscal_domquichot2.epub</idno>
+      <idno>http://bibdramatique.huma-num.fr//</idno>
+      <idno type="tei">http://bibdramatique.huma-num.fr/guerindebouscal_domquichot2.xml</idno>
+      <idno type="html">http://bibdramatique.huma-num.fr/guerindebouscal_domquichot2.html</idno>
+      <idno type="text">http://bibdramatique.huma-num.fr/guerindebouscal_domquichot2.txt</idno>
+      <idno type="epub">http://bibdramatique.huma-num.fr/guerindebouscal_domquichot2.epub</idno>
     </publicationStmt>
     <sourceDesc>
       <bibl><title>Dom Quichot de la Manche, comédie. Seconde partie</title>
@@ -515,11 +512,11 @@
           </castItem>
           <castItem>
             <role xml:id="premierheraut">DEUX HERAUTS du Sophy.</role>
-            <role xml:id="secondheraut"></role>
+            <role xml:id="secondheraut"/>
           </castItem>
           <castItem>
             <role xml:id="premiereinfante">DEUX INFANTES de Perse.</role>
-            <role xml:id="secondeinfante"></role>
+            <role xml:id="secondeinfante"/>
           </castItem>
           <castItem>
             <role xml:id="lediable">UN DEMON.</role>
@@ -535,9 +532,9 @@
             <role xml:id="dulcinee">DULCINEE.</role>
           </castItem>
             <castItem>
-              <role xml:id="unvieillard"></role>
-              <role xml:id="unautrevieillard"></role>
-              <role xml:id="secondvalet"></role>
+              <role xml:id="unvieillard"/>
+              <role xml:id="unautrevieillard"/>
+              <role xml:id="secondvalet"/>
             </castItem>
           </castList>
           <stage>La Scene est à la Manche.</stage>
@@ -559,7 +556,7 @@
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
               <l part="F">Il le faut.</l>
-              <l n="2" xml:id="l2">Le monde souffre trop quand ce bras luy <ref target="#defaillir">defaut*</ref>.<pb n="2" xml:id="p2"/></l>
+              <l n="2" xml:id="l2">Le monde souffre trop quand ce bras luy <ref target="#defaillir">defaut</ref>.<pb n="2" xml:id="p2"/></l>
               <l n="3" xml:id="l3">Depuis que j’ay cessé de courir la campagne,</l>
               <l n="4" xml:id="l4">Les Geants à leur gré pillent toute l’Espagne,</l>
               <l n="5" xml:id="l5">On ne sçauroit sortir sans voir errer quelqu’ame</l>
@@ -577,8 +574,8 @@
               <l n="13" xml:id="l13">Monsieur, si vous pensez à quitter le village,</l>
               <l n="14" xml:id="l14">J’iray dire par tout que vous n’estes pas sage :</l>
               <l n="15" xml:id="l15">Mesmes j’en feray voir tant de bonnes raisons,</l>
-              <l n="16" xml:id="l16">Qu’on vous mettra <ref target="#sansdoute">sans doute*</ref> aux <ref target="#petitesmaisons">petites Maisons*</ref>.</l>
-              <l n="17" xml:id="l17">Quels <ref target="#transport">transports*</ref> sont-ce cy ? quelles <ref target="#melancolie">melancholies*</ref>?</l>
+              <l n="16" xml:id="l16">Qu’on vous mettra <ref target="#sansdoute">sans doute</ref> aux <ref target="#petitesmaisons">petites Maisons</ref>.</l>
+              <l n="17" xml:id="l17">Quels <ref target="#transport">transports</ref> sont-ce cy ? quelles <ref target="#melancolie">melancholies</ref>?</l>
               <l n="18" xml:id="l18">Quels Geants ? quelles voix ? plustost quelles folies ?</l>
               <l n="19" xml:id="l19">Vous avez veu comment on s’est moqué de vous,</l>
               <l n="20" xml:id="l20">Que l’on vous a traité comme on traite les fous.</l>
@@ -595,7 +592,7 @@
               <l n="27" xml:id="l27">Comme je delivray deux amants enchantez,</l>
               <l n="28" xml:id="l28">Qui depuis deux mil ans estoient persecutez ;</l>
               <l n="29" xml:id="l29">Comme je mis à bas des barbes authentiques,</l>
-              <l n="30" xml:id="l30">Comme <ref target="#facher">fasché*</ref> de voir tant de noires <ref target="#pratiques">pratiques*</ref></l>
+              <l n="30" xml:id="l30">Comme <ref target="#facher">fasché</ref> de voir tant de noires <ref target="#pratiques">pratiques</ref></l>
               <l n="31" xml:id="l31">Je me mis en colere, &amp; par un seul regard</l>
               <l n="32" xml:id="l32">J’en brûlay l’instrument en brûlant Chevillard.</l>
               <l n="33" xml:id="l33">Vous ignorez aussi qu’une charmante Reine</l>
@@ -629,10 +626,10 @@
               <l n="54" xml:id="l54">Infantes je m’en vay prendre vostre querelle,</l>
               <l n="55" xml:id="l55">Princes depossedez je cours vous restablir,</l>
               <l n="56" xml:id="l56">Orphelins, mon secours ne vous sçauroit faillir,</l>
-              <l n="57" xml:id="l57">En vain pour <ref target="#divertir">divertir*</ref> une si belle envie,</l>
+              <l n="57" xml:id="l57">En vain pour <ref target="#divertir">divertir</ref> une si belle envie,</l>
               <l n="58" xml:id="l58">On me veut faire prendre un autre train de vie.</l>
               <l n="59" xml:id="l59">Infantes, Orphelins, Princes ne craignez rien,</l>
-              <l n="60" xml:id="l60">On ne peut me <ref target="#forcer">forcer*</ref>, je m’eschaperay bien.</l>
+              <l n="60" xml:id="l60">On ne peut me <ref target="#forcer">forcer</ref>, je m’eschaperay bien.</l>
               <l n="61" xml:id="l61">Fussay-je dans la tour où la fille d’Acrise<note place="bottom"><p>Références mythologiques : vers 61, Danaé que Zeus sédusit en pénétrant sa prison sous la forme d’une pluie d’or ;</p><p>vers 64, le Minotaure, fils de Pasiphée, enfermé dans le labyrinthe.</p></note></l>
               <l n="62" xml:id="l62">Par le Dieu Jupiter fut autresfois surprise ;</l>
               <l n="63" xml:id="l63">Fussé-je au labyrinthe où logeoit autresfois</l>
@@ -657,7 +654,7 @@
               <speaker>LA NIEPCE.</speaker>
               <l n="76" xml:id="l76">Dom Lope &amp; le Barbier vous viennent visiter,</l>
               <l n="77" xml:id="l77">Messieurs, mon oncle sort retenez-le de grace,</l>
-              <l n="78" xml:id="l78">Et sauvez aujourd’huy l’honneur de nostre <ref target="#race">race*</ref>.</l>
+              <l n="78" xml:id="l78">Et sauvez aujourd’huy l’honneur de nostre <ref target="#race">race</ref>.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
@@ -669,11 +666,11 @@
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
-              <l n="80" xml:id="l80">Vos seuls commandemens m’en peuvent <ref target="#divertir">divertir*</ref>,</l>
-              <l n="81" xml:id="l81">C’est trop, c’est trop souffrir que l’injuste <ref target="#licence">licence*</ref></l>
+              <l n="80" xml:id="l80">Vos seuls commandemens m’en peuvent <ref target="#divertir">divertir</ref>,</l>
+              <l n="81" xml:id="l81">C’est trop, c’est trop souffrir que l’injuste <ref target="#licence">licence</ref></l>
               <l n="82" xml:id="l82">Des Geants orgueilleux opprime l’innocence,</l>
               <l n="83" xml:id="l83">C’est trop rester oisif dans ce siecle maudit,<pb n="6" xml:id="p6"/></l>
-              <l n="84" xml:id="l84">Où le vice commande avec tant de <ref target="#credit">credit*</ref>,</l>
+              <l n="84" xml:id="l84">Où le vice commande avec tant de <ref target="#credit">credit</ref>,</l>
               <l n="85" xml:id="l85">Où l’on ne voit par tout que villes desolées,</l>
               <l n="86" xml:id="l86">Que Princes exilez, qu’Infantes violées.</l>
             </sp>
@@ -689,19 +686,19 @@
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
-              <l n="90" xml:id="l90">Ma niepce <ref target="#encetendroit">en cet endroit*</ref> peche par ignorance,</l>
+              <l n="90" xml:id="l90">Ma niepce <ref target="#encetendroit">en cet endroit</ref> peche par ignorance,</l>
               <l n="91" xml:id="l91">Elle n’a jamais leu les insignes explois</l>
               <l n="92" xml:id="l92">Des Chevaliers errants, de qui je suy les loix,</l>
               <l n="93" xml:id="l93">J’en connoy plus de cent dont le moindre a fait teste</l>
               <l n="94" xml:id="l94">A dix mille geants armez pour sa defaite,</l>
-              <l n="95" xml:id="l95">Et qui sans se peiner à coups de <ref target="#coutelas">coutelas*</ref></l>
+              <l n="95" xml:id="l95">Et qui sans se peiner à coups de <ref target="#coutelas">coutelas</ref></l>
               <l n="96" xml:id="l96">Leur a dans un matin coupé jambes &amp; bras.</l>
               <l n="97" xml:id="l97">Que n’a point fait Rolland pour l’amour d’Angelique ?</l>
               <l n="98" xml:id="l98">(Il avoit tort pourtant puisqu’elle estoit lubrique.)</l>
               <l n="99" xml:id="l99">Que n’a point fait encor Renaud de Montauban,</l>
               <l n="100" xml:id="l100">Richard, Roger de Grece, &amp; son frere Artaban ;</l>
               <l n="101" xml:id="l101">Mais sur tous Amadis lors qu’il avoit des armes</l>
-              <l n="102" xml:id="l102">Qui pouvoient resister à la force des <ref target="#charme">charmes*</ref>?</l>
+              <l n="102" xml:id="l102">Qui pouvoient resister à la force des <ref target="#charme">charmes</ref>?</l>
               <l n="103" xml:id="l103">On leur a veu souvent abatre à coups de main<pb n="7" xml:id="p7"/></l>
               <l n="104" xml:id="l104">Des murs que les beliers avoient battus en vain.</l>
               <l n="105" xml:id="l105">Mais ce n’estoit que jeu pour les simples novices,</l>
@@ -713,7 +710,7 @@
               <l n="111" xml:id="l111">Comme deux grosses tours leurs jambes paroissoient,</l>
               <l n="112" xml:id="l112">Leurs cuisses &amp; leur corps à mesure croissoient ;</l>
               <l n="113" xml:id="l113">Leurs bras longs d’une lieuë alloient frappant les nuës,</l>
-              <l n="114" xml:id="l114">Armez de <ref target="#coutelas">coutelas*</ref> &amp; de fortes massuës,</l>
+              <l n="114" xml:id="l114">Armez de <ref target="#coutelas">coutelas</ref> &amp; de fortes massuës,</l>
               <l n="115" xml:id="l115">Dont la moindre égaloit la grandeur d’un clocher :</l>
               <l n="116" xml:id="l116">En chacun de leurs yeux on voyoit un bucher</l>
               <l n="117" xml:id="l117">Tel que celuy qu’Hercule en sa fureur extreme</l>
@@ -738,7 +735,7 @@
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
               <l part="F">On se trompoit pourtant,</l>
-              <l n="125" xml:id="l125">Il est vray qu’Osiris l’assista par ses <ref target="#charme">charmes*</ref>.</l>
+              <l n="125" xml:id="l125">Il est vray qu’Osiris l’assista par ses <ref target="#charme">charmes</ref>.</l>
               <l n="126" xml:id="l126">Je ne vous diray rien des progrez de mes armes,</l>
               <l n="127" xml:id="l127">Vous les avez pû voir, tout le monde les sçait,</l>
               <l n="128" xml:id="l128">Gerileon fit bien, &amp; je n’ay pas mal fait.</l>
@@ -753,8 +750,8 @@
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
-              <l n="130" xml:id="l130">L’ennemy d’Amadis, &amp; de toute sa <ref target="#race">race*</ref>,</l>
-              <l n="131" xml:id="l131">L’enchanteur Archelaus <ref target="#traverser">traverse*</ref> mes desseins,</l>
+              <l n="130" xml:id="l130">L’ennemy d’Amadis, &amp; de toute sa <ref target="#race">race</ref>,</l>
+              <l n="131" xml:id="l131">L’enchanteur Archelaus <ref target="#traverser">traverse</ref> mes desseins,</l>
               <l n="132" xml:id="l132" part="I">Mais ses enchantements sont moins forts que mes</l>
               <l part="F">mains,</l>
               <l n="133" xml:id="l133">Il changea l’autre jour par un excez d’envie</l>
@@ -774,7 +771,7 @@
               <speaker>LE BARBIER.</speaker>
               <l part="F">Il fait de grands miracles,</l>
               <l n="142" xml:id="l142">Et je croy qu’apres tout de si puissants obstacles</l>
-              <l n="143" xml:id="l143">Ne vous sont opposez que pour vous <ref target="#divertir">divertir*</ref></l>
+              <l n="143" xml:id="l143">Ne vous sont opposez que pour vous <ref target="#divertir">divertir</ref></l>
               <l n="144" xml:id="l144">De ce dessein fatal qui vous force à partir :</l>
               <l n="145" xml:id="l145">Vous y devriez penser, &amp; craindre la Magie.</l>
             </sp>
@@ -782,7 +779,7 @@
               <speaker>D. QUICHOT.</speaker>
               <l n="146" xml:id="l146">Barbier, ce fait icy n’est pas de Chirurgie,</l>
               <l n="147" xml:id="l147">Et nos armes aussi ne se ressemblent pas,</l>
-              <l n="148" xml:id="l148">Vous portez un razoir, je porte un <ref target="#coutelas">coutelas*</ref>.</l>
+              <l n="148" xml:id="l148">Vous portez un razoir, je porte un <ref target="#coutelas">coutelas</ref>.</l>
             </sp>
             <sp who="lebarbier">
               <speaker>LE BARBIER.</speaker>
@@ -803,7 +800,7 @@
               <l part="F">C’est trop vous contredire :</l>
               <l n="154" xml:id="l154">Que le grand Dom Quichot fasse ce qu’il desire,</l>
               <l n="155" xml:id="l155">Je ne l’arreste plus, allez vaillant Heros,</l>
-              <l n="156" xml:id="l156">Ainsi vostre <ref target="#travail">travail*</ref> soit suivy du repos,</l>
+              <l n="156" xml:id="l156">Ainsi vostre <ref target="#travail">travail</ref> soit suivy du repos,</l>
               <l n="157" xml:id="l157">Ainsi vos beaux exploits secondent vostre attente ;</l>
               <l n="158" xml:id="l158">Ainsi puissiez-vous voir cette bande arrogante</l>
               <l n="159" xml:id="l159">D’enchanteurs mise à bas ; &amp; puisse ainsi tousjours</l>
@@ -831,14 +828,14 @@
               <l n="166" xml:id="l166">Dans ce casque ou bassin ne mange du fromage !</l>
               <l n="167" xml:id="l167">Ainsi jamais lyon ne vous veuille assaillir !</l>
               <l n="168" xml:id="l168">Ainsi jamais le pain ne vous puisse faillir !</l>
-              <l n="169" xml:id="l169"><ref target="#rencontrer">Rencontriez*</ref>-vous tousjours ou chasteaux ou taverne</l>
-              <l n="170" xml:id="l170" part="I">Sans que l’on vous y <ref target="#pelauder">pelaude*</ref>, ou que l’on vous y <ref target="#berner">berne*</ref></l>
+              <l n="169" xml:id="l169"><ref target="#rencontrer">Rencontriez</ref>-vous tousjours ou chasteaux ou taverne</l>
+              <l n="170" xml:id="l170" part="I">Sans que l’on vous y <ref target="#pelauder">pelaude</ref>, ou que l’on vous y <ref target="#berner">berne</ref></l>
               <l n="171" xml:id="l171">Ainsi jamais forçats ne vous mettent à nu :</l>
-              <l n="172" xml:id="l172">Que le <ref target="#grison">grison*</ref> de Sanche enfin soit reconnu,</l>
+              <l n="172" xml:id="l172">Que le <ref target="#grison">grison</ref> de Sanche enfin soit reconnu,</l>
               <l n="173" xml:id="l173">Qu’on le luy rende sain &amp; tout parfumé d’ambre,</l>
               <l n="174" xml:id="l174">Jamais More enchanté n’approche vostre chambre</l>
               <l n="175" xml:id="l175">Pour vous ravir l’Infante, &amp; troubler le repos !</l>
-              <l n="176" xml:id="l176">Que jamais Muletier ne vous <ref target="#froisser">froisse*</ref> les os :</l>
+              <l n="176" xml:id="l176">Que jamais Muletier ne vous <ref target="#froisser">froisse</ref> les os :</l>
               <l n="177" xml:id="l177">Mais qu’enfin triomphant, &amp; suivy d’Hymenée</l>
               <l n="178" xml:id="l178">Vous puissiez revenir couronner Dulcinée.</l>
             </sp>
@@ -882,19 +879,19 @@
               <speaker>LA NIEPCE.</speaker>
               <l n="186" xml:id="l186">Ne fais-tu point courir apres les adventures</l>
               <l n="187" xml:id="l187">Ton maistre que voilà ? ne l’as-tu point mené</l>
-              <l n="188" xml:id="l188">Dans des <ref target="#desert">deserts*</ref> affreux comme un esprit damné ?</l>
+              <l n="188" xml:id="l188">Dans des <ref target="#desert">deserts</ref> affreux comme un esprit damné ?</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker><pb n="13" xml:id="p13"/>
               <l n="189" xml:id="l189">Ah, n’estoit le respect que je dois à mon maistre,</l>
               <l n="190" xml:id="l190" part="I">Deux ou trois coups de poing vous feroient bien</l>
-              <l part="F"><ref target="#connaitre">connestre*</ref></l>
+              <l part="F"><ref target="#connaitre">connestre</ref></l>
               <l n="191" xml:id="l191">Que vous vous méprenez : c’est luy qui me conduit</l>
-              <l n="192" xml:id="l192">Dans des mondes <ref target="#desert">deserts*</ref> &amp; de jour &amp; de nuit,</l>
+              <l n="192" xml:id="l192">Dans des mondes <ref target="#desert">deserts</ref> &amp; de jour &amp; de nuit,</l>
               <l n="193" xml:id="l193">Je ne fay que le suivre avec beaucoup de peine</l>
               <l n="194" xml:id="l194">Aux mal-heureux endroits où le Diable le mene ;</l>
               <l n="195" xml:id="l195">C’est moy qui suis enfin le seduit, le mené,</l>
-              <l n="196" xml:id="l196">Le <ref target="#froisser">froissé*</ref>, le trompé, le battu, le berné,</l>
+              <l n="196" xml:id="l196">Le <ref target="#froisser">froissé</ref>, le trompé, le battu, le berné,</l>
               <l n="197" xml:id="l197">Et tout pour aborder à cett’isle promise</l>
               <l n="198" xml:id="l198">Que je doy gouverner &amp; qui n’est pas conquise ;</l>
               <l n="199" xml:id="l199" part="I">J’enrage quand j’y pense.</l>
@@ -902,8 +899,8 @@
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
               <l part="F">Ah, Sanche c’est assez,</l>
-              <l n="200" xml:id="l200">Vous serez satisfait de vos <ref target="#travail">travaux*</ref> passez :</l>
-              <l n="201" xml:id="l201"><ref target="#cependant">Cependant*</ref> retenez vostre langue indiscrete.</l>
+              <l n="200" xml:id="l200">Vous serez satisfait de vos <ref target="#travail">travaux</ref> passez :</l>
+              <l n="201" xml:id="l201"><ref target="#cependant">Cependant</ref> retenez vostre langue indiscrete.</l>
             </sp>
             <sp who="lebarbier">
               <speaker>LE BARBIER.</speaker>
@@ -912,7 +909,7 @@
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
               <l n="203" xml:id="l203">Nenny c’est un Royaume où je doy gouverner :</l>
-              <l n="204" xml:id="l204">Mais Monsieur le Barbier, c’est trop nous <ref target="#lanterner">lanterner*</ref>,</l>
+              <l n="204" xml:id="l204">Mais Monsieur le Barbier, c’est trop nous <ref target="#lanterner">lanterner</ref>,</l>
               <l n="205" xml:id="l205">Vous deussiez respecter des gens de nostre sorte.</l><pb n="14" xml:id="p14"/>
               <l n="206" xml:id="l206">Monseigneur, commandez que tout le monde sorte.</l>
             </sp>
@@ -926,7 +923,7 @@
             </sp>
             <sp who="laniepce">
               <speaker>LA NIEPCE.</speaker>
-              <l n="209" xml:id="l209">Ils s’en vont comploter leur troisiesme <ref target="#saillir">saillie*</ref>.</l>
+              <l n="209" xml:id="l209">Ils s’en vont comploter leur troisiesme <ref target="#saillir">saillie</ref>.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. LOPE.</speaker>
@@ -953,7 +950,7 @@
               <l n="216" xml:id="l216">J’escrivisse avec vous avant nostre depart,</l>
               <l n="217" xml:id="l217">Et quoy qu’on puisse dire, on est digne de blâme</l>
               <l n="218" xml:id="l218">De mespriser tousjours les conseils d’une femme,</l>
-              <l n="219" xml:id="l219">La mienne <ref target="#encetendroit">en cet endroit*</ref> parle avec jugement.</l>
+              <l n="219" xml:id="l219">La mienne <ref target="#encetendroit">en cet endroit</ref> parle avec jugement.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
@@ -963,7 +960,7 @@
               <speaker>SANCHE.</speaker>
               <l n="221" xml:id="l221">Vous sçavés que la mort ne respecte personne,</l>
               <l n="222" xml:id="l222">Et qu’il faut malgré nous vouloir ce qu’elle ordonne,</l>
-              <l n="223" xml:id="l223">Fussiés-vous mieux armé que n’est un <ref target="#jacquemart">Jaquemard*</ref>,</l>
+              <l n="223" xml:id="l223">Fussiés-vous mieux armé que n’est un <ref target="#jacquemart">Jaquemard</ref>,</l>
               <l n="224" xml:id="l224">Vous ne sçauriés parer la pointe de son dard ;</l>
               <l n="225" xml:id="l225">Lors que moins on y pense elle nous vient surprendre,</l>
               <l n="226" xml:id="l226">Et le mesme Amadis ne s’en peut pas defendre ;</l>
@@ -982,8 +979,8 @@
               <l n="233" xml:id="l233">Je dy donc que la mort cette vieille damnée</l>
               <l n="234" xml:id="l234">Vous peut exterminer dans une matinée,</l>
               <l n="235" xml:id="l235">Et ce coup quoy que grand ne me surprendroit pas ;</l>
-              <l n="236" xml:id="l236">Car sa faux tranche mieux que vostre <ref target="#coutelas">coutelas*</ref>.</l>
-              <l n="237" xml:id="l237">En vain contre sa force on oppose les <ref target="#charme">charmes*</ref></l>
+              <l n="236" xml:id="l236">Car sa faux tranche mieux que vostre <ref target="#coutelas">coutelas</ref>.</l>
+              <l n="237" xml:id="l237">En vain contre sa force on oppose les <ref target="#charme">charmes</ref></l>
               <l n="238" xml:id="l238">Que les magiciens marmotent sur les armes,</l>
               <l n="239" xml:id="l239">Le Cimeterre ardent, Flamberge, Durandal<note place="bottom">Respectivement, armes d’Amadis de Grèce, de Renaud et de Roland.</note></l>
               <l n="240" xml:id="l240">Qui coupoient comme beurre, acier, marbre &amp; metal,</l>
@@ -997,7 +994,7 @@
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
               <l n="244" xml:id="l244">Tous ceux qui les portoient ont veu finir leurs jours,</l>
-              <l n="245" xml:id="l245">Et malgré leurs armets, leurs lances &amp; leurs <ref target="#brette">bretes*</ref><note place="bottom">Sorte d’épée, plus longue que celle que les gentilhommes portent d’ordinaire, <hi rend="i">Fur</hi>.</note>,</l>
+              <l n="245" xml:id="l245">Et malgré leurs armets, leurs lances &amp; leurs <ref target="#brette">bretes</ref><note place="bottom">Sorte d’épée, plus longue que celle que les gentilhommes portent d’ordinaire, <hi rend="i">Fur</hi>.</note>,</l>
               <l n="246" xml:id="l246">Ces fendeurs de nazeaux sont morts comme des bestes.</l>
               <l n="247" xml:id="l247">Mais ce qui plus m’estonne, est de voir que sans chois</l>
               <l n="248" xml:id="l248">La mort fauche en tout temps les subjects &amp;les Roys,</l>
@@ -1115,7 +1112,7 @@
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
               <l n="283" xml:id="l283">Ah bon ! je m’en souviens, ma femme m’a donc dit</l>
-              <l n="284" xml:id="l284">Que je ne devoy pas m’engager à <ref target="#credit">credit*</ref>,</l>
+              <l n="284" xml:id="l284">Que je ne devoy pas m’engager à <ref target="#credit">credit</ref>,</l>
               <l n="285" xml:id="l285">Et qu’en attendant l’Isle ou bien quelque Royaume,</l>
               <l n="286" xml:id="l286">Qui doibt changer en dais mon pauvre toict de chaume,</l>
               <l n="287" xml:id="l287">Il seroit à propos pour nourrir mes enfans</l>
@@ -1243,7 +1240,7 @@
               <l part="F">Je vay me faire Roy :</l>
               <l n="333" xml:id="l333">Nous l’avons resolu, la chose est bien certaine :</l>
               <l n="334" xml:id="l334">Mais comme dans la vie on n’a nul bien sans peine,</l>
-              <l n="335" xml:id="l335">Il faut que je te quitte, aimable &amp; cher <ref target="#souci">soucy*</ref>,</l>
+              <l n="335" xml:id="l335">Il faut que je te quitte, aimable &amp; cher <ref target="#souci">soucy</ref>,</l>
               <l n="336" xml:id="l336">Les Escuyers errans doivent parler ainsi.</l>
               <l n="337" xml:id="l337">Le Ciel jaloux de voir nos ardeurs infinies,</l>
               <l n="338" xml:id="l338">Veut separer les corps de deux ames unies :</l>
@@ -1315,7 +1312,7 @@
               <l n="366" xml:id="l366">Qu’il faut que nous tâchions à loger nostre fille,</l>
               <l n="367" xml:id="l367">Non pas dans des palais &amp; parmy le tracas,</l>
               <l n="368" xml:id="l368">Où la moitié du temps on ne l’entendroit pas,</l>
-              <l n="369" xml:id="l369">Où le Comte <ref target="#sansdoute">sans doute*</ref> à la moindre colere</l>
+              <l n="369" xml:id="l369">Où le Comte <ref target="#sansdoute">sans doute</ref> à la moindre colere</l>
               <l n="370" xml:id="l370">Luy mettroit sur le nez sa maison &amp; son pere,</l>
               <l n="371" xml:id="l371">L’appelleroit paysane, &amp; de mille autres noms<pb n="27" xml:id="p27"/></l>
               <l n="372" xml:id="l372">Qui peuvent convenir aux fils des bûcherons.</l>
@@ -1360,9 +1357,8 @@
               <l n="390" xml:id="l390">Il faut pour mon mal-heur que vous soyez Comtesse :</l>
               <l n="391" xml:id="l391">Nos marys peuvent tant sur nous &amp; sur nos biens,</l>
               <l n="392" xml:id="l392">Qu’il leur faut obeïr quand ils seroient des chiens.</l>
-              </sp>
-            <label>Fin du premier Acte.</label>
-            
+              <trailer>Fin du premier Acte.</trailer>
+            </sp>
           </div>
         </div>
         <div type="act">
@@ -1389,7 +1385,7 @@
             </sp>
             <sp who="domquichot">
               <speaker>D. LOPE.</speaker>
-              <l part="F">L’<ref target="#apparence">apparence*</ref> est pour nous.</l>
+              <l part="F">L’<ref target="#apparence">apparence</ref> est pour nous.</l>
             </sp>
             <sp who="lebarbier">
               <speaker>LE BARBIER.</speaker><pb n="30" xml:id="p30"/>
@@ -1397,7 +1393,7 @@
             </sp>
             <sp who="domquichot">
               <speaker>D. LOPE.</speaker>
-              <l n="397" xml:id="l397">C’est veritablement la <ref target="#creance">creance*</ref> commune,</l>
+              <l n="397" xml:id="l397">C’est veritablement la <ref target="#creance">creance</ref> commune,</l>
               <l n="398" xml:id="l398">Mais contre nos desseins que pourroit la fortune.</l>
             </sp>
             <sp who="lebarbier">
@@ -1457,7 +1453,7 @@
               <l n="413" xml:id="l413">Quel jour, ô belle nuict, peut égaler tes ombres,</l>
               <l n="414" xml:id="l414">Tu vois briller dans ces lieux sombres,</l>
               <l n="415" xml:id="l415">Au lieu du beau Soleil qui regle nos saisons,</l>
-              <l n="416" xml:id="l416">L’astre des <ref target="#petitesmaisons">petites Maisons*</ref>.</l>
+              <l n="416" xml:id="l416">L’astre des <ref target="#petitesmaisons">petites Maisons</ref>.</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
@@ -1520,7 +1516,7 @@
               <speaker>LE BARBIER.</speaker><pb n="34" xml:id="p34"/>
               <l n="441" xml:id="l441">Malgré Therese Pance, &amp; le project d’une isle</l>
               <l n="442" xml:id="l442">Tu seras mis au vau-de-ville,</l>
-              <l n="443" xml:id="l443">Et l’on <ref target="#berner">bernera*</ref> tant Sanchique &amp; tous les tiens,</l>
+              <l n="443" xml:id="l443">Et l’on <ref target="#berner">bernera</ref> tant Sanchique &amp; tous les tiens,</l>
               <l n="444" xml:id="l444">Qu’ils ne seront pas bons aux chiens.</l>
             </sp>
             <sp who="domquichot">
@@ -1537,7 +1533,7 @@
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
-              <l n="450" xml:id="l450">Sanche avez-vous finy cette <ref target="#galanterie">galanterie*</ref>?</l>
+              <l n="450" xml:id="l450">Sanche avez-vous finy cette <ref target="#galanterie">galanterie</ref>?</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
@@ -1596,7 +1592,7 @@
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
-              <l part="F">Oüy, c’est elle <ref target="#sansdoute">sans doute*</ref>.</l>
+              <l part="F">Oüy, c’est elle <ref target="#sansdoute">sans doute</ref>.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
@@ -1651,7 +1647,7 @@
               <speaker>SANCHE.</speaker>
               <l n="493" xml:id="l493">Cet’Echo me déplaist : Mais, Monseigneur, de grace,</l>
               <l n="494" xml:id="l494">Souffrez encore un coup que je me satisfasse,</l>
-              <l n="495" xml:id="l495">Je crain la moquerie en ce <ref target="#rencontrer">rencontre*</ref> icy. <pb n="38" xml:id="p38"/></l>
+              <l n="495" xml:id="l495">Je crain la moquerie en ce <ref target="#rencontrer">rencontre</ref> icy. <pb n="38" xml:id="p38"/></l>
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
@@ -1669,7 +1665,7 @@
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
               <l part="F">Harangere insolente,</l>
-              <l n="498" xml:id="l498">Qui brocardes l’honneur de la <ref target="#milice">milice*</ref> errante,</l>
+              <l n="498" xml:id="l498">Qui brocardes l’honneur de la <ref target="#milice">milice</ref> errante,</l>
               <l n="499" xml:id="l499">Maistresse des crapaux, des lutins, des hibous,</l>
               <l n="500" xml:id="l500">Que l’horreur a placez dans les plus sales trous,</l>
               <l n="501" xml:id="l501">Taupe, chauve-souris : compagne des sorcieres</l>
@@ -1719,7 +1715,7 @@
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
-              <l part="F">Je veux un peu <ref target="#rever">resver*</ref>.</l>
+              <l part="F">Je veux un peu <ref target="#rever">resver</ref>.</l>
               <l n="512" xml:id="l512">C’est dans les Amadis que j’en pourroy trouver</l>
               <l n="513" xml:id="l513">Premier, second, troisiesme, ou dans Robert le Diable.<pb n="40" xml:id="p40"/></l>
             </sp>
@@ -1774,7 +1770,7 @@
             </sp>
             <sp who="lebarbier">
               <speaker>LE BARBIER.</speaker>
-              <l part="F">Ils s’eschapent <ref target="#sansdoute">sans doute*</ref>.</l>
+              <l part="F">Ils s’eschapent <ref target="#sansdoute">sans doute</ref>.</l>
               <l n="530" xml:id="l530" part="I">Commencez.</l>
               <stage>D. Lope jouë de la guitarre.</stage>
             </sp>
@@ -1789,7 +1785,7 @@
             <sp who="domlope">
               <speaker>D. LOPE,</speaker>
               <stage>chante.</stage>
-              <l n="531" xml:id="l531">Erreray-je tousjours dans ce <ref target="#desert">desert*</ref> sauvage</l>
+              <l n="531" xml:id="l531">Erreray-je tousjours dans ce <ref target="#desert">desert</ref> sauvage</l>
               <l n="532" xml:id="l532">A la mercy des loups<pb n="42" xml:id="p42"/></l>
               <l n="533" xml:id="l533">Moins bestes que vous,</l>
               <l n="534" xml:id="l534">Sans voir fleschir vostre courage,</l>
@@ -1854,18 +1850,18 @@
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
-              <l part="F">Qui va là ? <ref target="#ca">ça*</ref> ma lance.</l>
+              <l part="F">Qui va là ? <ref target="#ca">ça</ref> ma lance.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. LOPE.</speaker><pb n="44" xml:id="p44"/>
               <l n="562" xml:id="l562">O vous qui me troublez dans mes tristes souspirs !</l>
-              <l n="563" xml:id="l563">Si vous avez un cœur sensible aux <ref target="#deplaisir">déplaisirs*</ref>,</l>
+              <l n="563" xml:id="l563">Si vous avez un cœur sensible aux <ref target="#deplaisir">déplaisirs</ref>,</l>
               <l n="564" xml:id="l564">Approchez-vous de moy pour apprendre une histoire</l>
               <l n="565" xml:id="l565">Dont les siecles futurs garderont la memoire,</l>
               <l n="566" xml:id="l566">Et qui fera pleurer pendant plus de mille ans</l>
               <l n="567" xml:id="l567">Les femmes de village &amp; les petits enfans.</l>
               <stage>Parlant au Barbier.</stage>
-              <l n="568" xml:id="l568"><ref target="#amuser">Amusés*</ref> l’Escuyer, j’escarteray le Maistre.</l>
+              <l n="568" xml:id="l568"><ref target="#amuser">Amusés</ref> l’Escuyer, j’escarteray le Maistre.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
@@ -1891,7 +1887,7 @@
             <sp who="domquichot">
               <speaker>D. LOPE.</speaker><pb n="45" xml:id="p45"/>
               <l part="F">Apres tous ces exploits,</l>
-              <l n="579" xml:id="l579">Un jeune enfant tout nud m’a <ref target="#ranger">rangé*</ref> sous ses Lois,</l>
+              <l n="579" xml:id="l579">Un jeune enfant tout nud m’a <ref target="#ranger">rangé</ref> sous ses Lois,</l>
               <l n="580" xml:id="l580" part="I">Amour.</l>
             </sp>
             <sp who="domquichot">
@@ -1903,7 +1899,7 @@
             </sp>
             <sp who="domquichot">
               <speaker>D. LOPE.</speaker>
-              <l n="584" xml:id="l584">Quoy que dans mes mal-heurs je <ref target="#gehenne">gehenne*</ref> ma pensée,</l>
+              <l n="584" xml:id="l584">Quoy que dans mes mal-heurs je <ref target="#gehenne">gehenne</ref> ma pensée,</l>
               <l n="585" xml:id="l585">Si je la reflechis sur ma gloire passée,</l>
               <l n="586" xml:id="l586">Je veux bien pour vous plaire aggraver ma douleur,</l>
               <l n="587" xml:id="l587">Et faire encore un coup triompher ma valeur ;</l>
@@ -1966,7 +1962,7 @@
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
-              <l part="F">Voicy l’Echo <ref target="#sansdoute">sans doute*</ref>.</l>
+              <l part="F">Voicy l’Echo <ref target="#sansdoute">sans doute</ref>.</l>
             </sp>
             <sp who="lebarbier">
               <speaker>LE BARBIER.</speaker>
@@ -2005,7 +2001,7 @@
               <l n="613" xml:id="l613">Mais je ne puis dompter le desir qui m’emporte</l>
               <l n="614" xml:id="l614">De posseder une isle avant que de mourir,</l>
               <l n="615" xml:id="l615">Et si je ne suis fou je ne puis l’acquerir :</l>
-              <l n="616" xml:id="l616">Au lieu qu’en me <ref target="#ranger">rangeant*</ref> à l’humeur de mon maistre,</l>
+              <l n="616" xml:id="l616">Au lieu qu’en me <ref target="#ranger">rangeant</ref> à l’humeur de mon maistre,</l>
               <l n="617" xml:id="l617">C’est d’un gouvernement qu’il me doit reconnestre ;</l>
               <l n="618" xml:id="l618">Car dans deux ou trois jours il va se faire Roy,<pb n="G,49" xml:id="p49"/></l>
               <l n="619" xml:id="l619">Et conquerir aussi quelques isles pour moy.</l>
@@ -2086,11 +2082,11 @@
             <sp who="lebarbier">
               <speaker>LE BARBIER.</speaker>
               <l part="F">Je n’en sçay rien, mais mon diable de maistre,</l>
-              <l n="661" xml:id="l661">Si vous estiez à luy, vous le feroit <ref target="#connaitre">connestre*</ref>,</l>
+              <l n="661" xml:id="l661">Si vous estiez à luy, vous le feroit <ref target="#connaitre">connestre</ref>,</l>
               <l n="662" xml:id="l662">Et pour une vetille, une espingle, un bouton,</l>
               <l n="663" xml:id="l663">Vous donneroit par jour deux cens coups de baston,</l>
               <l n="664" xml:id="l664">Ou peut-estre par-fois pour mesler les matieres,</l>
-              <l n="665" xml:id="l665">Il vous <ref target="#partager">partageroit*</ref> de cent coups d’estrivieres,</l>
+              <l n="665" xml:id="l665">Il vous <ref target="#partager">partageroit</ref> de cent coups d’estrivieres,</l>
               <l n="666" xml:id="l666">Soustenant contre tous que ces mets differens</l>
               <l n="667" xml:id="l667">Sont ceux qu’on doibt servir aux Escuyers errans.</l>
             </sp>
@@ -2112,7 +2108,7 @@
               <l n="677" xml:id="l677">Tousjours quelque estocade esquive ma cuirasse,</l>
               <l n="678" xml:id="l678">Et me perce le cuir avec tant de douleur</l>
               <l n="679" xml:id="l679">Que j’en pers bien souvent la force &amp; la couleur ;</l>
-              <l n="680" xml:id="l680">Cette fatalité me <ref target="#facher">fasche*</ref> &amp; m’importune ;</l>
+              <l n="680" xml:id="l680">Cette fatalité me <ref target="#facher">fasche</ref> &amp; m’importune ;</l>
               <l n="681" xml:id="l681">Mais qui peut resister aux loix de la fortune ;</l>
               <l n="682" xml:id="l682">Nos maistres se battront à la pointe du jour,</l>
               <l n="683" xml:id="l683">Et nous devons aussi nous battre à nostre tour.</l>
@@ -2134,7 +2130,7 @@
             </sp>
             <sp who="lebarbier">
               <speaker>LE BARBIER.</speaker>
-              <l n="688" xml:id="l688">A nous faire estimer par la <ref target="#race">race*</ref> suivante.</l>
+              <l n="688" xml:id="l688">A nous faire estimer par la <ref target="#race">race</ref> suivante.</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
@@ -2205,7 +2201,7 @@
               <l n="724" xml:id="l724">Et dont j’ay surmonté la force &amp; le courage,</l>
               <l n="725" xml:id="l725">Est de moyenne taille, assez beau de visage,</l>
               <l n="726" xml:id="l726">Resveur, mais si subtil dans toutes ses raisons,</l>
-              <l n="727" xml:id="l727">Qu’il peut estre Recteur aux <ref target="#petitesmaisons">petites Maisons*</ref>:</l>
+              <l n="727" xml:id="l727">Qu’il peut estre Recteur aux <ref target="#petitesmaisons">petites Maisons</ref>:</l>
               <l n="728" xml:id="l728">Il est le vray falot de la valeur errante,</l>
               <l n="729" xml:id="l729">Et son digne coursier s’appelle Rossinante,</l>
               <l n="730" xml:id="l730">Son Escuyer Dom Sanche, &amp; ce Dom Sanche encor</l>
@@ -2231,14 +2227,14 @@
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
               <l n="736" xml:id="l736">Je commence à voir clair dans toute cett’affaire,</l>
-              <l n="737" xml:id="l737">Ce Dom Quichot que j’aime à l’<ref target="#egal">égal*</ref> de mon frere,</l>
+              <l n="737" xml:id="l737">Ce Dom Quichot que j’aime à l’<ref target="#egal">égal</ref> de mon frere,</l>
               <l n="738" xml:id="l738">A plusieurs enchanteurs qui choquent ses desseins,</l>
-              <l n="739" xml:id="l739">Et <ref target="#sansdoute">sans doute*</ref> ce coup est party de leurs mains :</l>
+              <l n="739" xml:id="l739">Et <ref target="#sansdoute">sans doute</ref> ce coup est party de leurs mains :</l>
               <l n="740" xml:id="l740">Quelqu’un d’eux pour ternir sa gloire &amp; son courage,</l>
-              <l n="741" xml:id="l741">Dedans cette <ref target="#rencontrer">rencontre*</ref> aura pris son image,</l>
+              <l n="741" xml:id="l741">Dedans cette <ref target="#rencontrer">rencontre</ref> aura pris son image,</l>
               <l n="742" xml:id="l742">Et vous aura trompé, n’en doutez nullement :</l>
               <l n="743" xml:id="l743">Ce que vous avez dit ne peut estre autrement.</l>
-              <l n="744" xml:id="l744">Que si vous persistez dedans vostre <ref target="#creance">creance*</ref>,</l>
+              <l n="744" xml:id="l744">Que si vous persistez dedans vostre <ref target="#creance">creance</ref>,</l>
               <l n="745" xml:id="l745">Sçachez que Dom Quichot est en vostre presence</l>
               <l n="746" xml:id="l746">Prest à vous faire voir qu’il aime trop l’honneur</l>
               <l n="747" xml:id="l747">Pour faire une action indigne de son coeur.</l>
@@ -2280,7 +2276,7 @@
               <l n="765" xml:id="l765">Je pourray m’éclaircir si vous estes palpable,</l>
               <l n="766" xml:id="l766">De peur qu’un Enchanteur ne trompe encor mes sens,</l>
               <l n="767" xml:id="l767">Et si je suis vainqueur comme je le pretens,</l>
-              <l n="768" xml:id="l768">Si vous n’avez recours à la force des <ref target="#charme">charmes*</ref>,</l>
+              <l n="768" xml:id="l768">Si vous n’avez recours à la force des <ref target="#charme">charmes</ref>,</l>
               <l n="769" xml:id="l769">Je pourray vous contraindre à mettre bas les armes,</l>
               <l n="770" xml:id="l770">Et demeurer chez vous l’espace de dix ans</l>
               <l n="771" xml:id="l771">Sans lire aucun Roman des Chevaliers errans.</l>
@@ -2288,7 +2284,7 @@
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
               <l n="772" xml:id="l772">Vous devez dire aussi que si j’ay la victoire,</l>
-              <l n="773" xml:id="l773">Comme il est <ref target="#apparent">apparent*</ref>, vous cesserez de croire</l>
+              <l n="773" xml:id="l773">Comme il est <ref target="#apparent">apparent</ref>, vous cesserez de croire</l>
               <l n="774" xml:id="l774">Que jamais vostre bras ait pû vaincre mon coeur.</l>
             </sp>
             <sp who="domquichot">
@@ -2354,7 +2350,7 @@
             </sp>
             <sp who="leduc">
               <speaker>LE DUC.</speaker>
-              <l part="F">O <ref target="#rencontrer">rencontre*</ref> aggreable !</l>
+              <l part="F">O <ref target="#rencontrer">rencontre</ref> aggreable !</l>
               <l n="790" xml:id="l790">Valeureux D. Quichot, est-ce vous que je voy ?<pb n="61" xml:id="p61"/></l>
             </sp>
             <sp who="sanche">
@@ -2387,7 +2383,7 @@
             </sp>
             <sp who="laduchesse">
               <speaker>LA DUCHESSE.</speaker>
-              <l n="799" xml:id="l799">Mais <ref target="#sansdoute">sans doute*</ref> moins bien que vous ne meritez.</l>
+              <l n="799" xml:id="l799">Mais <ref target="#sansdoute">sans doute</ref> moins bien que vous ne meritez.</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
@@ -2397,9 +2393,8 @@
             <sp who="leduc">
               <speaker>LE DUC.</speaker>
               <l part="F">Hé que nous allons rire.</l>
-              </sp>
-            <label>Fin du II. Acte.</label>
-            
+              <trailer>Fin du II. Acte.</trailer>
+            </sp>
           </div>
         </div>
         <div type="act">
@@ -2424,7 +2419,7 @@
               <speaker>D. QUICHOT.</speaker><pb n="63" xml:id="p63"/>
               <l n="812" xml:id="l812">C’est le propre d’un cœur purement magnanime.</l>
               <l n="813" xml:id="l813">Je sçay bien toutesfois que cette haute estime</l>
-              <l n="814" xml:id="l814">Dont vous me <ref target="#partager">partagez*</ref> si liberalement,</l>
+              <l n="814" xml:id="l814">Dont vous me <ref target="#partager">partagez</ref> si liberalement,</l>
               <l n="815" xml:id="l815" part="I">Vous convient mieux qu’à moy.</l>
             </sp>
             <sp who="leduc">
@@ -2467,7 +2462,7 @@
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
-              <l n="828" xml:id="l828" part="I"><ref target="#sansdoute">Sans doute*</ref>.</l>
+              <l n="828" xml:id="l828" part="I"><ref target="#sansdoute">Sans doute</ref>.</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker><pb n="I,65" xml:id="p65"/>
@@ -2547,7 +2542,7 @@
               <speaker>SANCHE.</speaker>
               <l n="846" xml:id="l846">Que vostre Majesté vive eternellement !</l>
               <l n="847" xml:id="l847">Madame, ce discours, quoy que sans fondement,</l>
-              <l n="848" xml:id="l848">Efface tout le <ref target="#deuil">deuil*</ref> que je faisois parestre</l>
+              <l n="848" xml:id="l848">Efface tout le <ref target="#deuil">deuil</ref> que je faisois parestre</l>
               <l n="849" xml:id="l849">Pour n’avoir un manteau de mesme que mon maistre,</l>
               <l n="850" xml:id="l850">Et craignant de tomber encor une autre fois</l>
               <l n="851" xml:id="l851">Entre les rudes mains de l’Escuyer du Bois ;</l>
@@ -2622,7 +2617,7 @@
             <sp who="leduc">
               <speaker>LE DUC.</speaker>
               <l n="878" xml:id="l878">Ce conte est ravissant, &amp; qui le veut blâmer</l>
-              <l n="879" xml:id="l879">N’a jamais bien <ref target="#connaitre">connu*</ref> ce qu’on doit estimer.</l>
+              <l n="879" xml:id="l879">N’a jamais bien <ref target="#connaitre">connu</ref> ce qu’on doit estimer.</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
@@ -2639,7 +2634,7 @@
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
               <l part="F">C’est un mot de Gazete,</l>
-              <l n="886" xml:id="l886">Qui veut dire traitter, accueillir, <ref target="#bienveigner">bien veigner*</ref>:</l>
+              <l n="886" xml:id="l886">Qui veut dire traitter, accueillir, <ref target="#bienveigner">bien veigner</ref>:</l>
               <l n="887" xml:id="l887">Mais vray’ment c’est bien vous que je dois enseigner ?</l>
             </sp>
             <sp who="domquichot">
@@ -2654,7 +2649,7 @@
             <sp who="laumosnier">
               <speaker>L’AUMOSNIER.</speaker>
               <l n="891" xml:id="l891">Monsieur l’Historien, c’est assez contesté,</l>
-              <l n="892" xml:id="l892" part="I">Tirez-nous de la <ref target="#gehenne">gehene*</ref>.</l>
+              <l n="892" xml:id="l892" part="I">Tirez-nous de la <ref target="#gehenne">gehene</ref>.</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
@@ -2673,7 +2668,7 @@
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
-              <l n="901" xml:id="l901">Son pere fut le <ref target="#coq">coq*</ref> de tout le voisinage,</l>
+              <l n="901" xml:id="l901">Son pere fut le <ref target="#coq">coq</ref> de tout le voisinage,</l>
               <l n="902" xml:id="l902" part="I">Son ayeul.</l>
             </sp>
             <sp who="laumosnier">
@@ -2849,13 +2844,13 @@
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
-              <l part="F">Me tirer de <ref target="#souci">soucy*</ref>.</l>
-              <l n="963" xml:id="l963">J’ay laissé mon <ref target="#grison">grison*</ref> à quatre pas d’icy,</l>
+              <l part="F">Me tirer de <ref target="#souci">soucy</ref>.</l>
+              <l n="963" xml:id="l963">J’ay laissé mon <ref target="#grison">grison</ref> à quatre pas d’icy,</l>
               <l n="964" xml:id="l964">C’est mon asne, Madame, honorable monture</l>
-              <l n="965" xml:id="l965">Dont le nom sera cher à la <ref target="#race">race*</ref> future :</l>
+              <l n="965" xml:id="l965">Dont le nom sera cher à la <ref target="#race">race</ref> future :</l>
               <l n="966" xml:id="l966">Je voudrois qu’il vous pleust le faire entrer ceans,</l>
               <l n="967" xml:id="l967">C’est un pauvre innocent qui n’a que quatorze ans,</l>
-              <l n="968" xml:id="l968">Et qui seche d’<ref target="#ennui">ennuy*</ref> dés que je l’abandonne,</l>
+              <l n="968" xml:id="l968">Et qui seche d’<ref target="#ennui">ennuy</ref> dés que je l’abandonne,</l>
               <l n="969" xml:id="l969">Il vous remerci’ra du soin que je vous donne.</l>
             </sp>
             <sp who="domquichot">
@@ -2869,19 +2864,19 @@
               <speaker>SANCHE.</speaker>
               <l n="974" xml:id="l974">Mon maistre toutesfois, qui n’est nullement sot,</l>
               <l n="975" xml:id="l975">M’a dit assez souvent, parlant de Lancelot,</l>
-              <l n="976" xml:id="l976">Qu’au retour de Bretagne il receut des <ref target="#caresse">caresses*</ref></l>
+              <l n="976" xml:id="l976">Qu’au retour de Bretagne il receut des <ref target="#caresse">caresses</ref></l>
               <l n="977" xml:id="l977">(Leur honneur à couvert) de cinq ou six Princesses,</l>
               <l n="978" xml:id="l978">Tandis que son cheval mangeoit come un seigneur</l>
               <l n="979" xml:id="l979">Son avoine au giron de leurs Dames d’honneur.</l>
-              <l n="980" xml:id="l980">Et qu’a fait mon <ref target="#grison">grison*</ref> ? qui l’empesche de croire</l>
+              <l n="980" xml:id="l980">Et qu’a fait mon <ref target="#grison">grison</ref> ? qui l’empesche de croire</l>
               <l n="981" xml:id="l981">Qu’il peut avoir un jour une pareille gloire ?</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. RODRIGUE.</speaker>
               <l n="982" xml:id="l982">Si vous avez dessein de faire le plaisant,</l>
-              <l n="983" xml:id="l983"><ref target="#trousser">Troussez*</ref> vostre bagage, allez ailleurs, paysant,</l>
+              <l n="983" xml:id="l983"><ref target="#trousser">Troussez</ref> vostre bagage, allez ailleurs, paysant,</l>
               <l n="984" xml:id="l984">Gros vilain, farcy d’aulx, vous n’aurez à cett’heure</l>
-              <l n="985" xml:id="l985" part="I">Qu’une <ref target="#figue">figue*</ref> de moy.</l>
+              <l n="985" xml:id="l985" part="I">Qu’une <ref target="#figue">figue</ref> de moy.</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
@@ -2904,7 +2899,7 @@
               <speaker>LA DUCHESSE.</speaker>
               <l part="F">Quel bruit ay-je entendu ?</l>
               <l n="992" xml:id="l992">Qu’est-ce qui vous oblige à courir de la sorte,</l>
-              <l n="993" xml:id="l993" part="I">Vous voudroit-on <ref target="#forcer">forcer*</ref>?</l>
+              <l n="993" xml:id="l993" part="I">Vous voudroit-on <ref target="#forcer">forcer</ref>?</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
@@ -2916,7 +2911,7 @@
             </sp>
             <sp who="domquichot">
               <speaker>D. RODRIGUE.</speaker>
-              <l n="995" xml:id="l995">Ce vilain me chargeoit du soin de son <ref target="#grison">grison*</ref>,</l>
+              <l n="995" xml:id="l995">Ce vilain me chargeoit du soin de son <ref target="#grison">grison</ref>,</l>
               <l n="996" xml:id="l996">Et vouloit m’obliger à le panser moy-mesme.</l>
             </sp>
             <sp who="sanche">
@@ -2940,7 +2935,7 @@
             <sp who="laduchesse">
               <speaker>LA DUCHESSE.</speaker>
               <l part="F">Ah !c’est bien là le Diable,</l>
-              <l n="1006" xml:id="l1006">Ce reproche est <ref target="#facher">fascheux*</ref>, &amp; ne vaut du tout rien,</l>
+              <l n="1006" xml:id="l1006">Ce reproche est <ref target="#facher">fascheux</ref>, &amp; ne vaut du tout rien,</l>
               <l n="1007" xml:id="l1007">Dame Rodrigue est jeune &amp; vous le voyez bien.</l>
             </sp>
             <sp who="sanche">
@@ -2959,7 +2954,7 @@
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker><pb n="80" xml:id="p80"/>
               <l part="F">Parlez, estoit-ce la saison</l>
-              <l n="1011" xml:id="l1011">Et le lieu de parler de vostre beau <ref target="#grison">grison*</ref> ?</l>
+              <l n="1011" xml:id="l1011">Et le lieu de parler de vostre beau <ref target="#grison">grison</ref> ?</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
@@ -3005,7 +3000,7 @@
               <l n="1031" xml:id="l1031">De meschans Enchanteurs ont fait ce changement.</l>
               <l n="1032" xml:id="l1032">O chere Dulcinée ! ô ma douce geoliere,</l>
               <l n="1033" xml:id="l1033">Qui n’as rien aujourd’huy de ta forme premiere !</l>
-              <l n="1034" xml:id="l1034">Astre vestu de <ref target="#deuil">deuil*</ref>, beau Soleil eclypsé,</l>
+              <l n="1034" xml:id="l1034">Astre vestu de <ref target="#deuil">deuil</ref>, beau Soleil eclypsé,</l>
               <l n="1035" xml:id="l1035">Phare qui ne luis plus, miroir ardent cassé,</l>
               <l n="1036" xml:id="l1036">Bois qu’on a degradé, vive source tarie,</l>
               <l n="1037" xml:id="l1037">Parterre foudroyé, belle rose flestrie,</l>
@@ -3055,12 +3050,12 @@
               <l n="1065" xml:id="l1065">De tout leur procedé, leurs discours me font honte.</l>
               <l n="1066" xml:id="l1066">Et vous ame de cruche, homme sans jugement,</l>
               <l n="1067" xml:id="l1067">Qui peut vous avoir mis dedans l’entendement</l>
-              <l n="1068" xml:id="l1068">Tout ce qu’on nous a dit de vostre <ref target="#reverie">resverie*</ref></l>
+              <l n="1068" xml:id="l1068">Tout ce qu’on nous a dit de vostre <ref target="#reverie">resverie</ref></l>
               <l n="1069" xml:id="l1069">Concernant les Romans de la Chevalerie ?</l>
               <l n="1070" xml:id="l1070">Où vistes-vous jamais des Chevaliers errans ?</l>
               <l n="1071" xml:id="l1071">En quel lieu de l’Espagne a-t-on veu des Geans ?</l>
               <l n="1072" xml:id="l1072">Où sont ces Enchanteurs &amp; cette Dulcinée</l>
-              <l n="1073" xml:id="l1073">Que vous avez forgés <ref target="#souslacheminee">dessous la cheminée*</ref>?</l>
+              <l n="1073" xml:id="l1073">Que vous avez forgés <ref target="#souslacheminee">dessous la cheminée</ref>?</l>
               <l n="1074" xml:id="l1074">Retournez mal-heureux, mal-heureux retournez</l>
               <l n="1075" xml:id="l1075">Chercher vostre bon sens au lieu d’où vous venez,</l>
               <l n="1076" xml:id="l1076">Et cessez de courir apres les avantures</l>
@@ -3194,7 +3189,7 @@
               <l n="1147" xml:id="l1147">A quelque Chevalier un peu plus violent,</l>
               <l n="1148" xml:id="l1148">Que de coups de baston sur sa <ref target="#jaquette">jaquette</ref> noire !</l>
               <l n="1149" xml:id="l1149">Tousjours cet accident vivroit dans sa memoire,</l>
-              <l n="1150" xml:id="l1150">Renault de Montauban eust esté son <ref target="#ballot">balot*</ref>,</l>
+              <l n="1150" xml:id="l1150">Renault de Montauban eust esté son <ref target="#ballot">balot</ref>,</l>
               <l n="1151" xml:id="l1151">Il l’auroit estranglé sans luy dire un seul mot.</l>
             </sp>
           </div>
@@ -3213,7 +3208,7 @@
             <sp who="domlope">
               <speaker>D. LOPE, </speaker>
               <stage>parlant au Duc.</stage>
-              <l n="1153" xml:id="l1153">Genereux protecteur de la <ref target="#milice">milice*</ref> errante !</l>
+              <l n="1153" xml:id="l1153">Genereux protecteur de la <ref target="#milice">milice</ref> errante !</l>
             </sp>
             <sp who="lebarbier">
               <speaker>LE BARBIER,</speaker>
@@ -3263,7 +3258,7 @@
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
-              <l part="F">Ce n’est pas ma <ref target="#creance">creance*</ref>.</l>
+              <l part="F">Ce n’est pas ma <ref target="#creance">creance</ref>.</l>
             </sp>
             <sp who="lebarbier">
               <speaker>LE BARBIER.</speaker><pb n="90" xml:id="p90"/>
@@ -3309,7 +3304,7 @@
               <l n="1176" xml:id="l1176">J’emploiray tous mes soins à seconder les vostres,</l>
               <l n="1177" xml:id="l1177">Mesmes, si je le puis, j’en inventeray d’autres :</l>
               <l n="1178" xml:id="l1178">Mais je desire aussi qu’auparavant partir,</l>
-              <l n="1179" xml:id="l1179">Sa <ref target="#rencontrer">rencontre*</ref> en ce lieu serve à nous <ref target="#divertir">divertir*</ref>.</l>
+              <l n="1179" xml:id="l1179">Sa <ref target="#rencontrer">rencontre</ref> en ce lieu serve à nous <ref target="#divertir">divertir</ref>.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. LOPE.</speaker>
@@ -3317,17 +3312,17 @@
             </sp>
             <sp who="leduc">
               <speaker>LE DUC.</speaker>
-              <l part="F">La <ref target="#fourbe">fourbe*</ref> est inventée,</l>
+              <l part="F">La <ref target="#fourbe">fourbe</ref> est inventée,</l>
               <l n="1181" xml:id="l1181">Il pleure nuit &amp; jour sa maistresse enchantée,</l>
               <l n="1182" xml:id="l1182">Je veux la luy monstrer dans son enchantement,</l>
               <l n="1183" xml:id="l1183">Et faire là dessus cent pieces de Romant ;</l>
-              <l n="1184" xml:id="l1184">Entrons, allons les voir, remettez la <ref target="#salade">salade*</ref>.</l>
+              <l n="1184" xml:id="l1184">Entrons, allons les voir, remettez la <ref target="#salade">salade</ref>.</l>
             </sp>
             <sp who="lebarbier">
               <speaker>LE BARBIER.</speaker>
               <l n="1185" xml:id="l1185">Nous pourrons bien crier place à la mascarade.</l>
-         </sp>
-            <label>Fin du III. Acte.</label>
+              <trailer>Fin du III. Acte.</trailer>
+            </sp>
           </div>
         </div>
         <div type="act">
@@ -3348,7 +3343,7 @@
               <speaker>LA DUCHESSE.</speaker>
               <l part="F">Vous estes Gouverneur,</l>
               <l n="1188" xml:id="l1188">Et cette qualité vous donne la puissance</l>
-              <l n="1189" xml:id="l1189">D’en user parmy nous avec toute <ref target="#licence">licence*</ref>.</l>
+              <l n="1189" xml:id="l1189">D’en user parmy nous avec toute <ref target="#licence">licence</ref>.</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
@@ -3356,7 +3351,7 @@
               <stage>Il s’assied.</stage>
               <l n="1191" xml:id="l1191">La place où je me voy me rend un peu confus ;</l>
               <l n="1192" xml:id="l1192">Car je puis bien jurer qu’une pareille grace<pb n="93" xml:id="p93"/></l>
-              <l n="1193" xml:id="l1193">N’a jamais esté faite à pas un de ma <ref target="#race">race*</ref>.</l>
+              <l n="1193" xml:id="l1193">N’a jamais esté faite à pas un de ma <ref target="#race">race</ref>.</l>
             </sp>
             <sp who="laduchesse">
               <speaker>LA DUCHESSE.</speaker>
@@ -3377,7 +3372,7 @@
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
-              <l n="1202" xml:id="l1202">Je le feray <ref target="#sansdoute">sans doute*</ref> avec facilité.</l>
+              <l n="1202" xml:id="l1202">Je le feray <ref target="#sansdoute">sans doute</ref> avec facilité.</l>
             </sp>
             <sp who="laduchesse">
               <speaker>LA DUCHESSE.</speaker>
@@ -3409,7 +3404,7 @@
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
-              <l n="1213" xml:id="l1213">Je n’y feus point du tout, je craignois trop la <ref target="#berner">berne*</ref></l>
+              <l n="1213" xml:id="l1213">Je n’y feus point du tout, je craignois trop la <ref target="#berner">berne</ref></l>
               <l n="1214" xml:id="l1214">Qui le jour precedent m’avoit fort mal traité,</l>
               <l n="1215" xml:id="l1215">Et qui parle autrement choque la verité.</l>
             </sp>
@@ -3429,7 +3424,7 @@
               <l n="1225" xml:id="l1225">A present que j’ay veu que nul ne nous escoute,</l>
               <l n="1226" xml:id="l1226">Et que je puis parler avecques liberté,</l>
               <l n="1227" xml:id="l1227">Je vay faire cesser vostre difficulté.</l>
-              <l n="1228" xml:id="l1228">Desja depuis long-temps j’ay <ref target="#connaitre">connu*</ref> que mon maistre</l>
+              <l n="1228" xml:id="l1228">Desja depuis long-temps j’ay <ref target="#connaitre">connu</ref> que mon maistre</l>
               <l n="1229" xml:id="l1229">Estoit fou par la teste autant qu’on le peut estre,</l>
               <l n="1230" xml:id="l1230">Quoy que dans ses discours &amp; ses raisonnemens</l>
               <l n="1231" xml:id="l1231">Il montre quelque-fois de si bons sentimens</l>
@@ -3475,17 +3470,17 @@
               <l n="1257" xml:id="l1257">A l’heure que les bœufs s’en vont au labourage,</l>
               <l n="1258" xml:id="l1258">Je ne sçay quel chemin son asne aura tenu,</l>
               <l n="1259" xml:id="l1259">Mais il s’en retourna comme il estoit venu.</l>
-              <l n="1260" xml:id="l1260">Marchant donc sur ses pas, le pauvret <ref target="#rever">resve*</ref> &amp; songe<pb n="N,97" xml:id="p97"/></l>
+              <l n="1260" xml:id="l1260">Marchant donc sur ses pas, le pauvret <ref target="#rever">resve</ref> &amp; songe<pb n="N,97" xml:id="p97"/></l>
               <l n="1261" xml:id="l1261">Pour pouvoir sur le champ trouver quelque mensonge</l>
               <l n="1262" xml:id="l1262">Qui le puisse exempter du reproche qu’il craint,</l>
               <l n="1263" xml:id="l1263">Mais il n’en trouve aucun, &amp; c’est là qu’il se plaint :</l>
-              <l n="1264" xml:id="l1264">Le voilà <ref target="#cependant">cependant*</ref> à trois pas de son maistre</l>
+              <l n="1264" xml:id="l1264">Le voilà <ref target="#cependant">cependant</ref> à trois pas de son maistre</l>
               <l n="1265" xml:id="l1265">Qui luy vient au devant dés qu’il le voit parestre ;</l>
               <l n="1266" xml:id="l1266">Si Monsieur l’Escuyer est lors dans l’embarras,</l>
               <l n="1267" xml:id="l1267">Je croy certainement que vous n’en doutez pas.</l>
               <l n="1268" xml:id="l1268">Que luy pourras-tu dire, Escuyer miserable,</l>
               <l n="1269" xml:id="l1269">Qui puisse t’empescher de parestre coupable ?</l>
-              <l n="1270" xml:id="l1270">Il se plaignoit ainsi tout accablé d’<ref target="#ennui">ennuy*</ref>.</l>
+              <l n="1270" xml:id="l1270">Il se plaignoit ainsi tout accablé d’<ref target="#ennui">ennuy</ref>.</l>
             </sp>
             <sp who="laduchesse">
               <speaker>LA DUCHESSE.</speaker>
@@ -3495,7 +3490,7 @@
               <speaker>SANCHE.</speaker>
               <l n="1272" xml:id="l1272">Quand par quelque miracle il vit trois païzanes</l>
               <l n="1273" xml:id="l1273">S’en venir droit à luy sur autant de beaux asnes.</l>
-              <l n="1274" xml:id="l1274"><ref target="#dabord">D’abord*</ref> quelque démon luy souffla dans l’esprit</l>
+              <l n="1274" xml:id="l1274"><ref target="#dabord">D’abord</ref> quelque démon luy souffla dans l’esprit</l>
               <l n="1275" xml:id="l1275">La resolution de faire ce qu’il fit.</l>
             </sp>
             <sp who="laduchesse">
@@ -3505,16 +3500,16 @@
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
               <l part="F">De soustenir que c’estoit Dulcinée</l>
-              <l n="1277" xml:id="l1277">Qui venoit apres luy dessus un’<ref target="#haquenee">haquenée*</ref>,</l>
+              <l n="1277" xml:id="l1277">Qui venoit apres luy dessus un’<ref target="#haquenee">haquenée</ref>,</l>
               <l n="1278" xml:id="l1278">Et deux Dames d’honneur toutes brillantes d’or,</l>
               <l n="1279" xml:id="l1279">De qui les seuls chevaux valoient mieux qu’un tresor.<pb n="98" xml:id="p98"/></l>
               <l n="1280" xml:id="l1280">Dom Quichot qui le croit ; pique, galope, presse</l>
               <l n="1281" xml:id="l1281">Son coursier Roussinant vers sa chere maistresse ;</l>
-              <l n="1282" xml:id="l1282">Et <ref target="#rencontrer">rencontre*</ref> à la fin les Dames des Grisons</l>
+              <l n="1282" xml:id="l1282">Et <ref target="#rencontrer">rencontre</ref> à la fin les Dames des Grisons</l>
               <l n="1283" xml:id="l1283">Qui la faux à la main s’en alloient aux moissons.</l>
               <l n="1284" xml:id="l1284">Cet objet le surprend, mais son Escuyer jure</l>
               <l n="1285" xml:id="l1285">Qu’un meschant Enchanteur a changé leur figure,</l>
-              <l n="1286" xml:id="l1286">Et ses sermens enfin eurent tant de <ref target="#credit">credit*</ref></l>
+              <l n="1286" xml:id="l1286">Et ses sermens enfin eurent tant de <ref target="#credit">credit</ref></l>
               <l n="1287" xml:id="l1287">Que son maistre le crut comme il a desja dit :</l>
               <l n="1288" xml:id="l1288">Voyez apres cela s’il n’est pas bien credule ?</l>
             </sp>
@@ -3531,9 +3526,9 @@
               <l n="1294" xml:id="l1294">Ce scrupule est fort juste, &amp; l’Escuyer du Bois,</l>
               <l n="1295" xml:id="l1295">Qui m’a fait tant de peur, me l’a dit autre-fois.</l>
               <l n="1296" xml:id="l1296">Mais je ne sçay comment, ny par quelle aventure</l>
-              <l n="1297" xml:id="l1297">Je me suis embroüillé dedans cette <ref target="#target">tissure*</ref>:</l>
+              <l n="1297" xml:id="l1297">Je me suis embroüillé dedans cette <ref target="#target">tissure</ref>:</l>
               <l n="1298" xml:id="l1298">Mon maistre m’a long-temps nourry dans sa maison,</l>
-              <l n="1299" xml:id="l1299">C’est de sa propre main que je tiens le <ref target="#grison">grison*</ref>.</l>
+              <l n="1299" xml:id="l1299">C’est de sa propre main que je tiens le <ref target="#grison">grison</ref>.</l>
               <l n="1300" xml:id="l1300">Je l’aime, il me cherit, il n’est nullemnt rude,<pb n="99" xml:id="p99"/></l>
               <l n="1301" xml:id="l1301">Je ne le puis quitter que par ingratitude :</l>
               <l n="1302" xml:id="l1302">Et comme qu’il en soit, je n’imagine pas</l>
@@ -3546,7 +3541,7 @@
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
-              <l n="1306" xml:id="l1306">Si pour cette raison c’est vostre <ref target="#sentiment">sentiment*</ref></l>
+              <l n="1306" xml:id="l1306">Si pour cette raison c’est vostre <ref target="#sentiment">sentiment</ref></l>
               <l n="1307" xml:id="l1307">De ne pas m’enchasser dans mon gouvernement,</l>
               <l n="1308" xml:id="l1308">Je pretends de monstrer par mon indifference</l>
               <l n="1309" xml:id="l1309">Que je le meritois beaucoup mieux qu’on ne pense :</l>
@@ -3566,30 +3561,30 @@
               <l n="1322" xml:id="l1322">Et souvent un bouvier qui vit avec honneur<pb n="100" xml:id="p100"/></l>
               <l n="1323" xml:id="l1323" part="I">Dessous son pauvre toict, meurt mieux qu’un</l>
               <l part="F">Gouverneur.</l>
-              <l n="1324" xml:id="l1324">Je dis encor cecy pour vous faire <ref target="#connaitre">connestre*</ref></l>
+              <l n="1324" xml:id="l1324">Je dis encor cecy pour vous faire <ref target="#connaitre">connestre</ref></l>
               <l n="1325" xml:id="l1325">Que je m’ayme Escuyer autant ou plus que maistre,</l>
-              <l n="1326" xml:id="l1326">Et que je voy sans <ref target="#deuil">deuil*</ref> &amp; sans ressentiment</l>
+              <l n="1326" xml:id="l1326">Et que je voy sans <ref target="#deuil">deuil</ref> &amp; sans ressentiment</l>
               <l n="1327" xml:id="l1327">Le naufrage prochain de mon Gouvernement.</l>
             </sp>
             <sp who="laduchesse">
               <speaker>LA DUCHESSE.</speaker>
-              <l n="1328" xml:id="l1328">Tout Chevalier d’honneur, quand sa foy <ref target="#sinteresser">l’interesse*</ref>,</l>
+              <l n="1328" xml:id="l1328">Tout Chevalier d’honneur, quand sa foy <ref target="#sinteresser">l’interesse</ref>,</l>
               <l n="1329" xml:id="l1329">Sans jamais barguigner accomplit sa promesse,</l>
-              <l n="1330" xml:id="l1330">Et le Duc Monseigneur est des plus <ref target="#apparent">apparens*</ref>,</l>
+              <l n="1330" xml:id="l1330">Et le Duc Monseigneur est des plus <ref target="#apparent">apparens</ref>,</l>
               <l n="1331" xml:id="l1331">Encor qu’il ne soit pas de l’ordre des errans :</l>
               <l n="1332" xml:id="l1332">Partant, quoy que j’en die, il est indubitable</l>
               <l n="1333" xml:id="l1333">Qu’il vous illustrera de ce titre honorable.</l>
               <l n="1334" xml:id="l1334">Mais revenant au poinct de vostre enchantement,</l>
               <l n="1335" xml:id="l1335">Je sçay de bonne part qu’il fut reellement,</l>
               <l n="1336" xml:id="l1336">Et que Sanche croyant avoir trompé son maistre</l>
-              <l n="1337" xml:id="l1337">Fut luy-mesme trompé, comme il pourra <ref target="#connaitre">connestre*</ref></l>
+              <l n="1337" xml:id="l1337">Fut luy-mesme trompé, comme il pourra <ref target="#connaitre">connestre</ref></l>
               <l n="1338" xml:id="l1338">Avant la fin du jour par des objects puissans,</l>
               <l n="1339" xml:id="l1339">Qui sans enchantement parestront à ses sens.</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
               <l n="1340" xml:id="l1340">Je m’en doutois aussi, car il n’est pas croyable</l>
-              <l n="1341" xml:id="l1341">Que j’eusse pû forger cette <ref target="#fourbe">fourbe*</ref> admirable :</l>
+              <l n="1341" xml:id="l1341">Que j’eusse pû forger cette <ref target="#fourbe">fourbe</ref> admirable :</l>
               <l n="1342" xml:id="l1342">Mais comme qu’il en soit, cett’affaire se fit</l>
               <l n="1343" xml:id="l1343">Comme je desirois ; &amp; cela me suffit.</l>
             </sp>
@@ -3637,7 +3632,7 @@
               <l n="1350" xml:id="l1350">Madame, pardonnez mon incivilité,</l>
               <l n="1351" xml:id="l1351">Je sçay ce que je dois à vostre qualité :</l>
               <l n="1352" xml:id="l1352">Mais un voeu solennel de monstrer mon courage</l>
-              <l n="1353" xml:id="l1353">En ce <ref target="#rencontrer">rencontre*</ref>-icy plustost que mon visage,</l>
+              <l n="1353" xml:id="l1353">En ce <ref target="#rencontrer">rencontre</ref>-icy plustost que mon visage,</l>
               <l n="1354" xml:id="l1354">M’empesche d’y respondre, &amp; cloüe en ce moment</l>
               <l n="1355" xml:id="l1355">Mon armet à mon front avec des clous d’aimant.</l>
             </sp>
@@ -3664,7 +3659,7 @@
             </sp>
             <sp who="leduc">
               <speaker>LE DUC.</speaker>
-              <l n="1360" xml:id="l1360">Je m’en vay <ref target="#cependant">cependant*</ref> vous conter une histoire</l>
+              <l n="1360" xml:id="l1360">Je m’en vay <ref target="#cependant">cependant</ref> vous conter une histoire</l>
               <l n="1361" xml:id="l1361">Que l’on vient de m’apprendre, &amp; que je ne puis croire :</l>
               <l n="1362" xml:id="l1362">Deux Infantes de Perse, embrasées d’amour,</l>
               <l n="1363" xml:id="l1363">Cherchent un Chevalier dans les lieux d’alentour :</l>
@@ -3686,7 +3681,7 @@
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
-              <l part="F">C’estoit bien ma <ref target="#creance">creance*</ref>:</l>
+              <l part="F">C’estoit bien ma <ref target="#creance">creance</ref>:</l>
               <l n="1369" xml:id="l1369">Mais ce diable de nez m’en ostoit l’esperance,</l>
               <l n="1370" xml:id="l1370">En effect je suis mort s’il approche de moy.</l>
             </sp>
@@ -3728,7 +3723,7 @@
               <stage>Ce demy vers &amp; le suivant se disent bas
 à D. Lope &amp; à la Duchesse.</stage>
               <l part="F">La piece est assez mal bastie,</l>
-              <l n="1381" xml:id="l1381">Mais c’est pour <ref target="#balloter">baloter*</ref> en attendant partie.</l>
+              <l n="1381" xml:id="l1381">Mais c’est pour <ref target="#balloter">baloter</ref> en attendant partie.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
@@ -3761,7 +3756,7 @@
               <speaker>PREMIER DES HERAUTS.</speaker><pb n="106" xml:id="p106"/>
               <l n="1387" xml:id="l1387">Miracle de la terre &amp; delice des Cieux,</l>
               <l n="1388" xml:id="l1388">Valeureux Dom Quichot ! ces deux grandes Princesses</l>
-              <l n="1389" xml:id="l1389">Viennent la larme à l’oeil mendier vos <ref target="#caresse">caresses*</ref>:</l>
+              <l n="1389" xml:id="l1389">Viennent la larme à l’oeil mendier vos <ref target="#caresse">caresses</ref>:</l>
               <l n="1390" xml:id="l1390">La Nature en naissant leur mit le sceptre en main,</l>
               <l n="1391" xml:id="l1391">Elles ont herité du pouvoir souverain,</l>
               <l n="1392" xml:id="l1392">Voyez quelle des deux vostre Grandeur desire,</l>
@@ -3805,11 +3800,11 @@
             </sp>
             <sp who="secondeinfante">
               <speaker>LA II. INFANTE.</speaker>
-              <l n="1419" xml:id="l1419">Monstre, monstre mon coeur, ton <ref target="#transport">transport*</ref> violent.</l>
+              <l n="1419" xml:id="l1419">Monstre, monstre mon coeur, ton <ref target="#transport">transport</ref> violent.</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
-              <l n="1420" xml:id="l1420">Si vous la refusez, vous ferez mal <ref target="#sansdoute">sans doute*</ref>.</l>
+              <l n="1420" xml:id="l1420">Si vous la refusez, vous ferez mal <ref target="#sansdoute">sans doute</ref>.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
@@ -3881,11 +3876,11 @@
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker><pb n="110" xml:id="p110"/>
-              <l part="F">Ah comble de <ref target="#souci">soucy*</ref> !</l>
+              <l part="F">Ah comble de <ref target="#souci">soucy</ref> !</l>
             </sp>
             <sp who="leduc">
               <speaker>LE DUC.</speaker>
-              <l n="1460" xml:id="l1460">C’est desja trop <ref target="#rever">resvé*</ref> dessus cette matiere,</l>
+              <l n="1460" xml:id="l1460">C’est desja trop <ref target="#rever">resvé</ref> dessus cette matiere,</l>
               <l n="1461" xml:id="l1461" part="I">Il faut parler François.</l>
             </sp>
             <sp who="sanche">
@@ -3927,7 +3922,7 @@
               <speaker>LA II. INFANTE.</speaker>
               <l n="1477" xml:id="l1477">Mon amour en ce point me defend le reproche,</l>
               <l n="1478" xml:id="l1478">Adieu, je vay mourir, &amp; souhaiter pourtant</l>
-              <l n="1479" xml:id="l1479">Malgré mon <ref target="#deplaisir">déplaisir*</ref> que tu vives content.</l>
+              <l n="1479" xml:id="l1479">Malgré mon <ref target="#deplaisir">déplaisir</ref> que tu vives content.</l>
             </sp>
           </div>
           <div type="scene">
@@ -3936,9 +3931,9 @@
 LA DUCHESSE, D. LOPE.</stage>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
-              <l n="1480" xml:id="l1480">Le coeur me fend de <ref target="#deuil">deuil*</ref>, ah Monseigneur &amp; maistre !</l>
+              <l n="1480" xml:id="l1480">Le coeur me fend de <ref target="#deuil">deuil</ref>, ah Monseigneur &amp; maistre !</l>
               <l n="1481" xml:id="l1481">Ce dernier accident me fait bien reconnestre<pb n="112" xml:id="p112"/></l>
-              <l n="1482" xml:id="l1482">Que j’ay fort bien <ref target="#connaitre">connu*</ref> ce qu’on <ref target="#connaitre">connoist*</ref> en vous,</l>
+              <l n="1482" xml:id="l1482">Que j’ay fort bien <ref target="#connaitre">connu</ref> ce qu’on <ref target="#connaitre">connoist</ref> en vous,</l>
               <l n="1483" xml:id="l1483">Sans mentir, vous &amp; moy sommes d’estranges fous !</l>
             </sp>
             <sp who="domquichot">
@@ -3989,13 +3984,13 @@ LA DUCHESSE, D. LOPE.</stage>
               <speaker>SANCHE.</speaker>
               <l part="F">Je ne diray plus mot,</l>
               <l n="1503" xml:id="l1503">Mais on dira par tout que vous estes un sot ;</l>
-              <l n="1504" xml:id="l1504">Et c’est ce qui me <ref target="#facher">fasche*</ref>, &amp; qui m’esmeut la bile.</l>
+              <l n="1504" xml:id="l1504">Et c’est ce qui me <ref target="#facher">fasche</ref>, &amp; qui m’esmeut la bile.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
               <l n="1505" xml:id="l1505">Qu’il fait le suffisant depuis qu’il a son isle !</l>
-              <l n="1506" xml:id="l1506">Ah si je l’<ref target="#entreprendre">entreprens*</ref>! à foy d’homme d’honneur,</l>
-              <l n="1507" xml:id="l1507">Je vous <ref target="#ranger">rangeray*</ref> bien, Monsieur le Gouverneur.</l>
+              <l n="1506" xml:id="l1506">Ah si je l’<ref target="#entreprendre">entreprens</ref>! à foy d’homme d’honneur,</l>
+              <l n="1507" xml:id="l1507">Je vous <ref target="#ranger">rangeray</ref> bien, Monsieur le Gouverneur.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. LOPE.</speaker>
@@ -4023,8 +4018,8 @@ LA DUCHESSE, D. LOPE.</stage>
             <sp who="leduc">
               <speaker>LE DUC.</speaker>
               <l n="1515" xml:id="l1515">Allons-y, le combat se fera sur le soir.</l>
-             </sp>
-            <label>Fin du IV. Acte.</label>
+              <trailer>Fin du IV. Acte.</trailer>
+            </sp>
           </div>
         </div>
         <div type="act">
@@ -4038,7 +4033,7 @@ D. LOPE ou le Chevalier des Miroirs, LE BARBIER.</stage>
               <l n="1516" xml:id="l1516">Puisque dans ce combat la gloire vous anime,</l>
               <l n="1517" xml:id="l1517">Que vous ne voulez point de sanglante victime,</l>
               <l n="1518" xml:id="l1518">Recevez de ma main ces armes que voicy.</l>
-              <stage>Il leur <ref target="#bailler">baille*</ref> des fleurets.</stage>
+              <stage>Il leur <ref target="#bailler">baille</ref> des fleurets.</stage>
             </sp>
             <sp who="lebarbier">
               <speaker>LE BARBIER,</speaker>
@@ -4057,7 +4052,7 @@ D. LOPE ou le Chevalier des Miroirs, LE BARBIER.</stage>
             <sp who="sanche">
               <speaker>SANCHE.</speaker><pb n="116" xml:id="p116"/>
               <l n="1522" xml:id="l1522">Monseigneur l’Escuyer, je vous ay desja dit</l>
-              <l n="1523" xml:id="l1523">Que je ne voulois point m’exposer à <ref target="#credit">credit*</ref>:</l>
+              <l n="1523" xml:id="l1523">Que je ne voulois point m’exposer à <ref target="#credit">credit</ref>:</l>
               <l n="1524" xml:id="l1524" part="I">Qu’il ne s’en parle plus.</l>
               <stage>Il se doit faire un grand bruit.</stage>
             </sp>
@@ -4180,13 +4175,13 @@ D. LOPE ou le Chevalier des Miroirs, LE BARBIER.</stage>
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
-              <l n="1566" xml:id="l1566">Traistre, qu’<ref target="#encetendroit">en cet endroit*</ref> ta <ref target="#malice">malice*</ref> fut noire !</l>
+              <l n="1566" xml:id="l1566">Traistre, qu’<ref target="#encetendroit">en cet endroit</ref> ta <ref target="#malice">malice</ref> fut noire !</l>
             </sp>
             <sp who="laduchesse">
               <speaker>LA DUCHESSE.</speaker>
               <l n="1567" xml:id="l1567">Sanche, qu’en dites-vous ? oseriez-vous décroire</l>
               <l n="1568" xml:id="l1568">La pure verité de cet enchantement,</l>
-              <l n="1569" xml:id="l1569">Et persuader encor dans vostre <ref target="#sentiment">sentiment*</ref>?</l>
+              <l n="1569" xml:id="l1569">Et persuader encor dans vostre <ref target="#sentiment">sentiment</ref>?</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
@@ -4276,10 +4271,10 @@ D. LOPE ou le Chevalier des Miroirs, LE BARBIER.</stage>
               <stage>sur un Chariot.</stage>
               <l n="1596" xml:id="l1596">Je suis Archelaus, cet insigne Enchanteur,</l>
               <l n="1597" xml:id="l1597">De qui le Diable a peur :</l>
-              <l n="1598" xml:id="l1598">Ennemy d’Amadis &amp; de toute sa <ref target="#race">race*</ref>,</l>
+              <l n="1598" xml:id="l1598">Ennemy d’Amadis &amp; de toute sa <ref target="#race">race</ref>,</l>
               <l n="1599" xml:id="l1599">Je changeay l’autre jour trois robes de velous</l>
               <l n="1600" xml:id="l1600">En de pauvres lambeaux, trois brides en licous,</l>
-              <l n="1601" xml:id="l1601">En faucilles trois arcs, trois <ref target="#trousse">trousses*</ref> en filasse.</l>
+              <l n="1601" xml:id="l1601">En faucilles trois arcs, trois <ref target="#trousse">trousses</ref> en filasse.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
@@ -4311,11 +4306,11 @@ D. LOPE ou le Chevalier des Miroirs, LE BARBIER.</stage>
             </sp>
             <sp who="leduc">
               <speaker>LE DUC.</speaker>
-              <l n="1614" xml:id="l1614">Luy descouvrant la <ref target="#fourbe">fourbe*</ref> il se corrigera.</l>
+              <l n="1614" xml:id="l1614">Luy descouvrant la <ref target="#fourbe">fourbe</ref> il se corrigera.</l>
             </sp>
             <sp who="lebarbier">
               <speaker>LE BARBIER.</speaker>
-              <l n="1615" xml:id="l1615">Je pense que Dieu seul <ref target="#connaitre">connoist*</ref> ce qu’il fera :</l>
+              <l n="1615" xml:id="l1615">Je pense que Dieu seul <ref target="#connaitre">connoist</ref> ce qu’il fera :</l>
               <l n="1616" xml:id="l1616">Mais si nous l’attrapons, il aura de la peine</l>
               <l n="1617" xml:id="l1617">A revenir jamais faire le Capitaine.</l>
             </sp>
@@ -4327,7 +4322,7 @@ D. LOPE ou le Chevalier des Miroirs, LE BARBIER.</stage>
               <l n="1621" xml:id="l1621">Et de grace &amp; de pompe encore environnée.</l>
               <l n="1622" xml:id="l1622">Il me sera permis d’adorer tes appas,</l>
               <l n="1623" xml:id="l1623">Et je pourray baiser la trace de tes pas.</l>
-              <l n="1624" xml:id="l1624">Heureux tous mes <ref target="#travail">travaux*</ref>, heureuse ma souffrance,</l>
+              <l n="1624" xml:id="l1624">Heureux tous mes <ref target="#travail">travaux</ref>, heureuse ma souffrance,</l>
               <l n="1625" xml:id="l1625">Bien-heureux mon dédain &amp; ma perseverance,</l>
               <l n="1626" xml:id="l1626">S’il est vray que par eux je doy gagner un bien<pb n="125" xml:id="p125"/></l>
               <l n="1627" xml:id="l1627">Qui me met en estat de ne desirer rien.</l>
@@ -4355,7 +4350,7 @@ D. LOPE ou le Chevalier des Miroirs, LE BARBIER.</stage>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
-              <l n="1633" xml:id="l1633">Elle est à mon avis un peu <ref target="#melancolie">melancholique*</ref>.</l>
+              <l n="1633" xml:id="l1633">Elle est à mon avis un peu <ref target="#melancolie">melancholique</ref>.</l>
               <stage>Dulcinée chante derriere le theatre.</stage>
             </sp>
             <sp who="dulcinee">
@@ -4494,7 +4489,7 @@ avec DULCINEE.</stage>
             <sp who="dulcinee">
               <speaker>DULCINEE.</speaker>
               <l n="1704" xml:id="l1704">Insensible Escuyer, ame barbare &amp; basse,</l>
-              <l n="1705" xml:id="l1705">Honte de ton village, &amp; digne de ta <ref target="#race">race*</ref>!</l>
+              <l n="1705" xml:id="l1705">Honte de ton village, &amp; digne de ta <ref target="#race">race</ref>!</l>
               <l n="1706" xml:id="l1706">Si l’on te commandait de courir au trespas,</l>
               <l n="1707" xml:id="l1707">Ou bien de te jetter d’un haut clocher en bas,</l>
               <l n="1708" xml:id="l1708">D’avaler des crapaux, de manger des viperes,</l>
@@ -4505,7 +4500,7 @@ avec DULCINEE.</stage>
               <l n="1713" xml:id="l1713">Trois mille coups de foüet, &amp; c’est si peu de chose,</l>
               <l n="1714" xml:id="l1714">Il n’est point d’escolier au College aujourd’huy</l>
               <l n="1715" xml:id="l1715">Qui n’en ait veu tomber trois fois autant sur luy.</l>
-              <l n="1716" xml:id="l1716">Ah combien nos <ref target="#neveux">Neveux*</ref> auront de peine à croire</l>
+              <l n="1716" xml:id="l1716">Ah combien nos <ref target="#neveux">Neveux</ref> auront de peine à croire</l>
               <l n="1717" xml:id="l1717">Une si lamentable &amp; si honteuse histoire !</l>
               <l n="1718" xml:id="l1718">Et tout par ton defaut, gros larron, gros mastin,</l>
               <l n="1719" xml:id="l1719">Je croy bien qu’apres tout tu te rendras enfin,</l>
@@ -4562,7 +4557,7 @@ avec DULCINEE.</stage>
               <l n="1754" xml:id="l1754">Quoy vous m’abandonnez, mon ame, ma pensée,</l>
               <l n="1755" xml:id="l1755">Et je ne verray point ma foy recompensée ?</l>
               <l n="1756" xml:id="l1756">Beau soleil de mon coeur, me laissez-vous ainsi</l>
-              <l n="1757" xml:id="l1757">Plongé dans une nuict de <ref target="#deuil">deuil*</ref> &amp; de <ref target="#souci">soucy*</ref>?</l>
+              <l n="1757" xml:id="l1757">Plongé dans une nuict de <ref target="#deuil">deuil</ref> &amp; de <ref target="#souci">soucy</ref>?</l>
               <l n="1758" xml:id="l1758">O belle fugitive ! ô passagere Aurore !</l>
               <l n="1759" xml:id="l1759">Revenez éclairer celuy qui vous adore,</l>
               <l n="1760" xml:id="l1760">Rendez-moy le bon-heur que vous m’avez osté,</l>
@@ -4663,7 +4658,7 @@ LE BARBIER son Escuyer.</stage>
             </sp>
             <sp who="domquichot">
               <speaker>D. LOPE.</speaker>
-              <l n="1786" xml:id="l1786">Tout ce qui vous plaira, mais n’usons point de <ref target="#charme">charmes*</ref>.</l>
+              <l n="1786" xml:id="l1786">Tout ce qui vous plaira, mais n’usons point de <ref target="#charme">charmes</ref>.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
@@ -4700,7 +4695,7 @@ LE BARBIER son Escuyer.</stage>
             </sp>
             <sp who="domquichot">
               <speaker>D. LOPE.</speaker>
-              <l part="F">Dieu ! le coeur me <ref target="#defaillir">defaut*</ref>.</l>
+              <l part="F">Dieu ! le coeur me <ref target="#defaillir">defaut</ref>.</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
@@ -4770,7 +4765,7 @@ LE BARBIER son Escuyer.</stage>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
               <l part="F">Ah la belle aventure !</l>
-              <l n="1810" xml:id="l1810" part="I">Mais Dom Lope <ref target="#revenir">revient*</ref>.</l>
+              <l n="1810" xml:id="l1810" part="I">Mais Dom Lope <ref target="#revenir">revient</ref>.</l>
             </sp>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
@@ -4813,7 +4808,7 @@ D. LOPE, LE BARBIER.</stage>
             <sp who="leduc">
               <speaker>LE DUC.</speaker>
               <l part="F">Il vous le faut bien croire,</l>
-              <l n="1823" xml:id="l1823" part="I">Puisque c’est luy <ref target="#sansdoute">sans doute*</ref>.</l>
+              <l n="1823" xml:id="l1823" part="I">Puisque c’est luy <ref target="#sansdoute">sans doute</ref>.</l>
             </sp>
             <sp who="sanche">
               <speaker>SANCHE.</speaker>
@@ -4838,7 +4833,7 @@ D. LOPE, LE BARBIER.</stage>
               <l part="F">On m’a donné ce nom</l>
               <l n="1828" xml:id="l1828">Qui ne convenoit point avec mon innocence.</l>
               <l n="1829" xml:id="l1829">On dit que les laquais sont diables tout de bon,</l>
-              <l n="1830" xml:id="l1830">Mais ce n’est pas bien ma <ref target="#creance">creance*</ref> :</l>
+              <l n="1830" xml:id="l1830">Mais ce n’est pas bien ma <ref target="#creance">creance</ref> :</l>
               <l n="1831" xml:id="l1831">Ainsi valeureux Dom Quichot,</l>
               <l n="1832" xml:id="l1832">Si vous me croyez tel, vous estes un grand sot.</l>
             </sp>
@@ -4903,7 +4898,7 @@ D. LOPE, LE BARBIER.</stage>
               <l part="F">On veut que je me montre,</l>
               <l n="1858" xml:id="l1858">Et je n’y veux pas resister :</l>
               <stage>Elle découvre une barbe.</stage>
-              <l n="1859" xml:id="l1859">Mais si dedans cette <ref target="#rencontrer">rencontre*</ref></l>
+              <l n="1859" xml:id="l1859">Mais si dedans cette <ref target="#rencontrer">rencontre</ref></l>
               <l n="1860" xml:id="l1860">On vouloit encor persister</l>
               <l n="1861" xml:id="l1861">A croire que je suis l’Infante du Tobose,</l>
               <l n="1862" xml:id="l1862">Ce seroit estrange chose.</l>
@@ -4939,7 +4934,7 @@ D. LOPE, LE BARBIER.</stage>
             <sp who="domquichot">
               <speaker>D. QUICHOT.</speaker>
               <l n="1870" xml:id="l1870">Je croy certainement que dans tout cet affaire</l>
-              <l n="1871" xml:id="l1871">De meschans Enchanteurs ont <ref target="#fasciner">fasciné*</ref> nos yeux,</l>
+              <l n="1871" xml:id="l1871">De meschans Enchanteurs ont <ref target="#fasciner">fasciné</ref> nos yeux,</l>
               <l n="1872" xml:id="l1872">Retournons chez le Duc, où nous le sçaurons mieux.</l>
             </sp>
             <sp who="sanche">
@@ -4949,7 +4944,7 @@ D. LOPE, LE BARBIER.</stage>
               <l n="1875" xml:id="l1875">Je croyois de tenir un bon gouvernement,[144]</l>
               <l n="1876" xml:id="l1876">Et sans supercherie &amp; sans enchantement,</l>
               <l n="1877" xml:id="l1877">De regner dans une isle, où trois de mes paroles</l>
-              <l n="1878" xml:id="l1878">Me feroient apporter deux cens <ref target="#muid">muids*</ref> de <ref target="#pistole">pistoles*</ref>,</l>
+              <l n="1878" xml:id="l1878">Me feroient apporter deux cens <ref target="#muid">muids</ref> de <ref target="#pistole">pistoles</ref>,</l>
               <l n="1879" xml:id="l1879">Où je pourrois manger &amp; boire tout mon sou</l>
               <l n="1880" xml:id="l1880">Sans conter avec l’hoste, &amp; sans payer un sou :</l>
               <l n="1881" xml:id="l1881">Mais je ne sçay comment mon isle est submergée,</l>
@@ -4966,8 +4961,8 @@ D. LOPE, LE BARBIER.</stage>
               <l n="1886" xml:id="l1886">De vous abandonner, allassiez-vous au Diable :</l>
               <l n="1887" xml:id="l1887">Poursuivez seulement le dessein d’estre Roy,</l>
               <l n="1888" xml:id="l1888">Je vous responds tousjours de mon asne &amp; de moy.</l>
+              <trailer>Fin du V. &amp; dernier Acte.</trailer>
             </sp>
-            <label>Fin du V. &amp; dernier Acte.</label>
           </div>
         </div>
        </body>

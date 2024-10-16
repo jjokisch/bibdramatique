@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +9,7 @@
         <principal>Georges Forestier</principal>
       </titleStmt>
       <editionStmt>
-        <edition></edition>
+        <edition/>
         <respStmt>
           <name>Georges Forestier</name>
           <resp>CELLF 16e-18e/Université Paris-Sorbonne</resp>
@@ -19,7 +18,7 @@
       <publicationStmt>
         <publisher>publié par Amélie Canu pour le CELLF 16e-18e</publisher>
         <date when="2016"/>
-        <idno>http://bibdramatique.paris-sorbonne.fr/chapelle_zaide/</idno>
+        <idno>?</idno>
         <availability status="restricted">
           <licence target="?">CELLF 16e-18e</licence>
         </availability>
@@ -641,13 +640,13 @@
           <head>Préface</head><pb n="I-a" xml:id="pI"/>
           <p>Cette Pièce est d’un caractere si singulier, qu’il y avoit lieu de craindre qu’elle ne fût pas au goust de tout le monde ; il est aisé de se perdre lors qu’on veut s’écarter des routes ordinaires : Cependant je dois estre assez content du succez de Zaïde.</p>
           <p>Ce n’est pas qu’on n’ait fait beaucoup de remarques tres judicieuses, &amp; qu’il n’y ait beaucoup de fautes que j’ay connuës<note place="bottom">Ici dans le sens de « reconnues ».</note> moy-mesme &amp; dont je suis tombé d’accord avec les gens de bonne foy ; mais je ne pense pas que quelques legeres imperfections doivent faire condamner un ouvrage.</p>
-          <p>Quelques-uns m’ont reproché <pb n="II" xml:id="pII"/> que j’ay mal suivi mon histoire, &amp; ils n’ont pas pris garde que je n’ay point d’autre histoire que celle que j’ay voulu me faire. Zaïde est une pure invention, dont il n’y a aucun fondement dans l’Histoire de Grenade. Les noms des Zegris, &amp; des Abencerrages, &amp; cette haine celebre entre leurs deux familles sont les seules choses qui ont quelque apparence de verité ; tout le reste est imaginé. J’ay crû que je pouvais <ref target="#hazarder">hazarder*</ref><note place="bottom">Les astérisques (*) renvoient au lexique en fin de volume.</note> cette espece de Roman sur le Theatre, où il y a longtemps qu’on est ennuyé de ne voir que des Romains &amp; des Grecs : J’ay choisi la Nation la plus avanturiere du monde, afin que la vraysemblance ne fut point blessée par la nouveauté d’un rôle de femme en homme  qui soutient toute une piece.</p>
+          <p>Quelques-uns m’ont reproché <pb n="II" xml:id="pII"/> que j’ay mal suivi mon histoire, &amp; ils n’ont pas pris garde que je n’ay point d’autre histoire que celle que j’ay voulu me faire. Zaïde est une pure invention, dont il n’y a aucun fondement dans l’Histoire de Grenade. Les noms des Zegris, &amp; des Abencerrages, &amp; cette haine celebre entre leurs deux familles sont les seules choses qui ont quelque apparence de verité ; tout le reste est imaginé. J’ay crû que je pouvais <ref target="#hazarder">hazarder</ref><note place="bottom">Les astérisques () renvoient au lexique en fin de volume.</note> cette espece de Roman sur le Theatre, où il y a longtemps qu’on est ennuyé de ne voir que des Romains &amp; des Grecs : J’ay choisi la Nation la plus avanturiere du monde, afin que la vraysemblance ne fut point blessée par la nouveauté d’un rôle de femme en homme  qui soutient toute une piece.</p>
           <p>D’autres dont le métier est fort opposé à la profession des belles lettres, &amp; qui ont pourtant dans leurs jugemens toute la fierté qui <pb n="III" xml:id="pIII"/> accompagne d’ordinaire les demy sçavans, se sont élevez contre les sacrifices, les Dieux &amp; les Prestres, expressions Poëtiques &amp; figurées, dont j’ay voulu orner cette Piece : S’imaginent-ils que je n’aye pas sceu quelle estoit l’origine des Maures de Grenade, Peuples sortis de l’Arabie, où la premiere Religion estoit la Payene. Le Mahometisme succeda au culte des faux Dieux, mais il ne l’abolit pas si entierement qu’il n’en restât encore dans les derniers siecles quelques vestiges, mesme à Grenade. De la vient que presque tous les vieux Romanciers, qui ont parlé des Grenadins, les ont fait Payens, &amp; leur ont donné plusieurs Dieux, dont ils en nomment mesme quelques-uns de noms assez bizares. J’ay crû que leur exemple m’authorisait assez dans une piece, où comme j’ay déja dit, il n’y a rien d’historique, &amp; <pb n="IV" xml:id="pIV"/> où les faux Dieux &amp; l’idée des sacrifices font un assez agreable ornement.</p>
           <p>Voila les deux objections qui ont fait le plus de bruit dans le monde. Je pense y avoir assez bien répondu, &amp; je croy qu’on me dispensera volontiers de faire une grande dissertation pour répondre aux autres qui m’ont paru de moindre consequence : Les Prefaces ne sont guere de mon goust, &amp; il me semble que celle-cy est déja trop longue.</p>
         </div>
         <div xml:id="privilege">
           <head>Extrait du Privilege du Roy</head><pb n="V" xml:id="pV"/>
-          <p>Par grace &amp; privilege du Roy, donné à saint Germain en Laye le treiziéme de Mars 1681. signé par le Roy en son Conseil, GAMART : Il est permis au Sieur de la Chapelle de faire imprimer, vendre, &amp; debiter par tel Libraire ou Imprimeur qu’il voudra choisir une Tragedie de sa composition, intitulée, <hi rend="i">Zaïde</hi> : Pendant le temps de six années, à compter du jour qu’elle sera achevée d’imprimer pour la premiere fois ; &amp; défence sont faites à toutes personnes de l’imprimer ou faire imprimer, vendre ny debiter d’autre Edition que celle de l’Exposant, ou ceux qui auront droit de luy, à peine de trois mille livres d’amende, confiscation des exemplaires contre-faits, &amp; de tous <ref target="#depens">dépens*</ref>, dommages &amp; interests ; ainsi qu’il est porté plus au long par lesdites lettres de privilege.</p>
+          <p>Par grace &amp; privilege du Roy, donné à saint Germain en Laye le treiziéme de Mars 1681. signé par le Roy en son Conseil, GAMART : Il est permis au Sieur de la Chapelle de faire imprimer, vendre, &amp; debiter par tel Libraire ou Imprimeur qu’il voudra choisir une Tragedie de sa composition, intitulée, <hi rend="i">Zaïde</hi> : Pendant le temps de six années, à compter du jour qu’elle sera achevée d’imprimer pour la premiere fois ; &amp; défence sont faites à toutes personnes de l’imprimer ou faire imprimer, vendre ny debiter d’autre Edition que celle de l’Exposant, ou ceux qui auront droit de luy, à peine de trois mille livres d’amende, confiscation des exemplaires contre-faits, &amp; de tous <ref target="#depens">dépens</ref>, dommages &amp; interests ; ainsi qu’il est porté plus au long par lesdites lettres de privilege.</p>
           <p>Et ledit Sieur de la Chapelle a cedé &amp; transporté son droit de Privilege à Jean Ribou pour en joüir par luy, suivant l’accord fait entr’eux.</p>
           <p rend="i">Registré sur le Livre de la Communauté le dix-huitiéme jour de  Mars 1681 ;</p>
           <p>Achevé d’imprimer pour la premiere fois le vingtiéme de Mars 1681.</p>
@@ -711,7 +710,7 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Il suffit, Osmar, je vais l’attendre.</l>
+              <l part="F">Il suffit, Osmar, je vais l’attendre.</l>
             </sp>
           </div>
           <div type="scene">
@@ -732,7 +731,7 @@
               <l n="15" xml:id="l15">M’exposoit chaque jour à de nouveaux outrages,</l>
               <l n="16" xml:id="l16">Et les Zegris cedoient aux fiers Abincerages.</l>
               <l n="17" xml:id="l17">Déjà mon desespoir m’entrainoit à la mort,</l>
-              <l n="18" xml:id="l18">Lorsque le Roy touché de mon funeste <ref target="#sort3">sort*</ref></l>
+              <l n="18" xml:id="l18">Lorsque le Roy touché de mon funeste <ref target="#sort3">sort</ref></l>
               <l n="19" xml:id="l19">Jetta sur mes malheurs un regard favorable,</l>
               <l n="20" xml:id="l20">Sa bonté rappella dans son cœur équitable</l>
               <l n="21" xml:id="l21">Des Princes mes ayeux la valeur &amp; la foy,</l>
@@ -754,14 +753,14 @@
               <speaker>ABENDAX</speaker>
               <l n="35" xml:id="l35">N’en doutez point, Seigneur, il est toûjours le mesme</l>
               <l n="36" xml:id="l36">Il craint son inconstance, &amp; cependant il l’aime,</l>
-              <l n="37" xml:id="l37">Des bruits que j’ay semez trop vivement <ref target="#frapper">frappé*</ref><note place="bottom">Comprendre « touché violemment par les bruits de rivalité au sujet de Fatime dont Abendax a fait courir le bruit» (voir v. 397 à 400).</note>,</l>
-              <l n="38" xml:id="l38">De mille soins jaloux de <ref target="#crainte">craintes*</ref> occupé</l>
+              <l n="37" xml:id="l37">Des bruits que j’ay semez trop vivement <ref target="#frapper">frappé</ref><note place="bottom">Comprendre « touché violemment par les bruits de rivalité au sujet de Fatime dont Abendax a fait courir le bruit» (voir v. 397 à 400).</note>,</l>
+              <l n="38" xml:id="l38">De mille soins jaloux de <ref target="#crainte">craintes</ref> occupé</l>
               <l n="39" xml:id="l39">Il veut par son retour confondre une infidelle.</l>
               <l n="40" xml:id="l40" part="I">Il revient.</l>
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Quoy sans ordre, &amp; sans qu’on le rappelle.</l>
+              <l part="F">Quoy sans ordre, &amp; sans qu’on le rappelle.</l>
               <l n="41" xml:id="l41">Abendax il revient, il se pert, c’en est fait.</l>
             </sp>
             <sp who="abendax">
@@ -776,28 +775,28 @@
               <l n="49" xml:id="l49">Vaincus en cent combats, dispersez &amp; défaits,</l>
               <l n="50" xml:id="l50">Ils offrent un tribut, &amp; demandent la paix.</l>
               <l n="51" xml:id="l51">Quoy qu’ait fait<note place="bottom">Variante édition de 1700 « qu’ait fait, Alamir » remplacé par « quoi que fasse Alamir ».</note> Alamir, cette grande victoire</l>
-              <l n="52" xml:id="l52">Met trop en asseurance &amp; ses jours &amp; sa <ref target="#gloire">gloire*</ref>.</l>
+              <l n="52" xml:id="l52">Met trop en asseurance &amp; ses jours &amp; sa <ref target="#gloire">gloire</ref>.</l>
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l n="53" xml:id="l53">Non, ne croy pas que <ref target="#rien">rien*</ref> excuse son retour,</l>
+              <l n="53" xml:id="l53">Non, ne croy pas que <ref target="#rien">rien</ref> excuse son retour,</l>
               <l n="54" xml:id="l54">Je le voy bien, amy, tu connois mal la Cour :</l>
               <l n="55" xml:id="l55">Des services passez on a peu de memoire,</l>
-              <l n="56" xml:id="l56">Plus les sujets fameux se sont acquis de <ref target="#gloire">gloire*</ref>,</l>
+              <l n="56" xml:id="l56">Plus les sujets fameux se sont acquis de <ref target="#gloire">gloire</ref>,</l>
               <l n="57" xml:id="l57">Plus ils sont enviez, &amp; moins leurs grands exploits</l>
               <l n="58" xml:id="l58">Les mettent à couvert de la rigueur des loix.</l>
               <l n="59" xml:id="l59" part="I">Il est perdu, te dis-je. <pb n="4" xml:id="p4"/></l>
             </sp>
             <sp who="abendax">
               <speaker>ABENDAX</speaker>
-              <l  part="F">Hé bien par sa disgrace,</l>
-              <l n="60" xml:id="l60">Le destin à vos vœux offre une <ref target="#auguste1">auguste*</ref> place ;</l>
+              <l part="F">Hé bien par sa disgrace,</l>
+              <l n="60" xml:id="l60">Le destin à vos vœux offre une <ref target="#auguste1">auguste</ref> place ;</l>
               <l n="61" xml:id="l61">Que la mort soit le prix de sa temerité,</l>
               <l n="62" xml:id="l62" part="I">Vous l’avez souhaité.</l>
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Moy, je l’ay souhaité ?</l>
+              <l part="F">Moy, je l’ay souhaité ?</l>
             </sp>
             <sp who="abendax">
               <speaker>ABENDAX</speaker>
@@ -807,7 +806,7 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Helas !</l>
+              <l part="F">Helas !</l>
             </sp>
             <sp who="abendax">
               <speaker>ABENDAX</speaker>
@@ -816,19 +815,19 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l n="68" xml:id="l68">J’ay cent fois éprouvé ta <ref target="#prudence">prudence*</ref> &amp; ton <ref target="#zele1">zele*</ref>,</l>
+              <l n="68" xml:id="l68">J’ay cent fois éprouvé ta <ref target="#prudence">prudence</ref> &amp; ton <ref target="#zele1">zele</ref>,</l>
               <l n="69" xml:id="l69">Et je vais confier des secrets à ta Foy,</l>
               <l n="70" xml:id="l70">Amy, qui ne sont sceus que des Dieux &amp; de moy.</l>
-              <l n="71" xml:id="l71">Je les tairois encor si mon ame <ref target="#etonner1">étonnée*</ref></l>
+              <l n="71" xml:id="l71">Je les tairois encor si mon ame <ref target="#etonner1">étonnée</ref></l>
               <l n="72" xml:id="l72">Pouvoit vaincre ou changer la triste destinée ;</l>
-              <l n="73" xml:id="l73">Mais par un cruel <ref target="#sort1">sort*</ref> blessé de tous costez,</l>
-              <l n="74" xml:id="l74">Pour détourner ses <ref target="#traits1">traits*</ref> j’implore tes clartez.</l>
+              <l n="73" xml:id="l73">Mais par un cruel <ref target="#sort1">sort</ref> blessé de tous costez,</l>
+              <l n="74" xml:id="l74">Pour détourner ses <ref target="#traits1">traits</ref> j’implore tes clartez.</l>
               <l n="75" xml:id="l75">Aprens donc de mes jours le secret déplorable,</l>
               <l n="76" xml:id="l76">Au milieu des honneurs, dont tu voy qu’on m’accable,</l>
               <l n="77" xml:id="l77">Parmy tant de grandeurs, sous ces titres pompeux,</l>
               <l n="78" xml:id="l78">Qui semblent relever le nom de mes ayeux,</l>
               <l n="79" xml:id="l79">Et soutenir l’espoir d’une illustre famille ;</l>
-              <l n="80" xml:id="l80">Enfin sous cet habit tu ne vois qu’une <ref target="#fille">fille*</ref>.</l>
+              <l n="80" xml:id="l80">Enfin sous cet habit tu ne vois qu’une <ref target="#fille">fille</ref>.</l>
             </sp>
             <sp who="abendax">
               <speaker>ABENDAX</speaker>
@@ -836,8 +835,8 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Ecoute, &amp; me laisse<note place="bottom">Comprendre « Laisse-moi ».</note> parler. <pb n="5" xml:id="p5"/></l>
-              <l n="82" xml:id="l82">Je <ref target="#penetrer2">penetre*</ref>, je voy ce qui peut te troubler :</l>
+              <l part="F">Ecoute, &amp; me laisse<note place="bottom">Comprendre « Laisse-moi ».</note> parler. <pb n="5" xml:id="p5"/></l>
+              <l n="82" xml:id="l82">Je <ref target="#penetrer2">penetre</ref>, je voy ce qui peut te troubler :</l>
               <l n="83" xml:id="l83">Ce fut toy qui pris soin d’élever mon enfance,</l>
               <l n="84" xml:id="l84">Mais mon pere aisement trompa ta vigilance,</l>
               <l n="85" xml:id="l85">Déjà vieux, sans enfans, seul du nom de Zegris ;</l>
@@ -853,11 +852,11 @@
               <l n="95" xml:id="l95">Fut le seul confident de ce vain artifice,</l>
               <l n="96" xml:id="l96">Dont aujourd’huy les Dieux confondent l’injustice :</l>
               <l n="97" xml:id="l97">Enfin de cent Heros on me crût l’heritier<note place="bottom">Variante édition de 1700 « l’heritier » remplacé par « heritier ».</note>,</l>
-              <l n="98" xml:id="l98">Tu m’apris à domter un superbe <ref target="#coursier">Coursier*</ref>.</l>
+              <l n="98" xml:id="l98">Tu m’apris à domter un superbe <ref target="#coursier">Coursier</ref>.</l>
               <l n="99" xml:id="l99">Tous les jours au travers d’une épaisse poussiere,</l>
-              <l n="100" xml:id="l100">On me voyoit fournir une noble <ref target="#carriere">cariere*</ref><note place="bottom">Syllepse, car si le cotexte qui précède renvoie à la carrière où l’on monte à cheval, le cotexte qui suit renvoie lui à la manière d’organiser sa vie, de faire carrière.</note>.</l>
+              <l n="100" xml:id="l100">On me voyoit fournir une noble <ref target="#carriere">cariere</ref><note place="bottom">Syllepse, car si le cotexte qui précède renvoie à la carrière où l’on monte à cheval, le cotexte qui suit renvoie lui à la manière d’organiser sa vie, de faire carrière.</note>.</l>
               <l n="101" xml:id="l101">La chasse estoit l’objet de mes plus chers desirs.</l>
-              <l n="102" xml:id="l102">L’arc &amp; les javelots faisoient tous mes <ref target="#plaisir1">plaisirs*</ref>.</l>
+              <l n="102" xml:id="l102">L’arc &amp; les javelots faisoient tous mes <ref target="#plaisir1">plaisirs</ref>.</l>
               <l n="103" xml:id="l103">Je vivois dans les bois, &amp; souvent croyois estre</l>
               <l n="104" xml:id="l104">Ce que mesme à tes yeux j’affectois de paroistre.</l>
               <l n="105" xml:id="l105">Je trompay tes regards, ceux du Roy, de la Cour,</l>
@@ -866,11 +865,11 @@
               <l n="108" xml:id="l108">Jour qui sera long-temps present à ma memoire.</l>
               <l n="109" xml:id="l109">Il revenoit suivy d’Ennemis enchesnez,</l>
               <l n="110" xml:id="l110">De Generaux captifs, de Princes détrônez.</l>
-              <l n="111" xml:id="l111">Ses Soldats <ref target="#envy">à l’envy*</ref> sur leurs armes brillantes,</l>
+              <l n="111" xml:id="l111">Ses Soldats <ref target="#envy">à l’envy</ref> sur leurs armes brillantes,</l>
               <l n="112" xml:id="l112">Etaloient des vaincus les dépoüilles sanglantes.</l>
               <l n="113" xml:id="l113">Il marchoit entouré de faisseaux<note place="bottom">Variante édition de 1700 « faisseaux » remplacé par « drapeaux ».</note>, d’étandarts ;</l>
               <l n="114" xml:id="l114">Fier sans estre orgueilleux,  tel qu’on peint le Dieu Mars.</l>
-              <l n="115" xml:id="l115"><ref target="#auguste2">Auguste*</ref> dans son port, sans <ref target="#art1">art*</ref>&amp; sans <ref target="#contrainte1">contrainte*</ref>,<pb n="6" xml:id="p6"/></l>
+              <l n="115" xml:id="l115"><ref target="#auguste2">Auguste</ref> dans son port, sans <ref target="#art1">art</ref>&amp; sans <ref target="#contrainte1">contrainte</ref>,<pb n="6" xml:id="p6"/></l>
               <l n="116" xml:id="l116">Imprimant aux mortels le respect &amp; la crainte.</l>
               <l n="117" xml:id="l117">Il n’estoit point chargé d’un vain ajustement ;</l>
               <l n="118" xml:id="l118">Son nom fameux estoit son unique ornement.</l>
@@ -881,7 +880,7 @@
               <speaker>ABENDAX</speaker>
               <l n="121" xml:id="l121">Surpris, confus, troublé de ce déguisement,</l>
               <l n="122" xml:id="l122">A peine je reviens de mon étonnement.</l>
-              <l n="123" xml:id="l123">Qu’entens-je ! Zulemar est une <ref target="#fille">fille*</ref> ! elle aime !</l>
+              <l n="123" xml:id="l123">Qu’entens-je ! Zulemar est une <ref target="#fille">fille</ref> ! elle aime !</l>
               <l n="124" xml:id="l124">Hé qui ? Quel est l’objet de son amour extrême !</l>
               <l n="125" xml:id="l125">Grands Dieux ! c’est Alamir l’ennemy des Zegris !</l>
               <l n="126" xml:id="l126">Avez vous oublié ses injustes mépris ?</l>
@@ -890,11 +889,11 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l n="129" xml:id="l129">Que dis-tu ? cet amour qui cause ton <ref target="#ennuy">ennuy*</ref>,</l>
+              <l n="129" xml:id="l129">Que dis-tu ? cet amour qui cause ton <ref target="#ennuy">ennuy</ref>,</l>
               <l n="130" xml:id="l130">Encor plus que ma haine est funeste pour luy.</l>
-              <l n="131" xml:id="l131">Tu le vois, insensée, <ref target="#envieux">envieuse*</ref>, cruelle,</l>
+              <l n="131" xml:id="l131">Tu le vois, insensée, <ref target="#envieux">envieuse</ref>, cruelle,</l>
               <l n="132" xml:id="l132">J’ay voulu qu’Alamir crût Fatime infidelle.</l>
-              <l n="133" xml:id="l133">Mes vœux sont exaucez, tous tes <ref target="#traits2">traits*</ref> ont porté,</l>
+              <l n="133" xml:id="l133">Mes vœux sont exaucez, tous tes <ref target="#traits2">traits</ref> ont porté,</l>
               <l n="134" xml:id="l134">Il revient de fureur &amp; d’amour agité.</l>
               <l n="135" xml:id="l135">Gloire, devoir, respect, danger rien ne l’arreste,</l>
               <l n="136" xml:id="l136">Par ce retour sans ordre il expose sa teste.</l>
@@ -920,7 +919,7 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Oüy, Seigneur.</l>
+              <l part="F">Oüy, Seigneur.</l>
             </sp>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
@@ -928,7 +927,7 @@
               <l n="147" xml:id="l147">De ce presomptueux humilier l’audace :</l>
               <l n="148" xml:id="l148">Zulemar, que l’effet devance la menace,</l>
               <l n="149" xml:id="l149">Prenez ma Garde, allez l’arrester aujourd’huy,</l>
-              <l n="150" xml:id="l150">Qu’une obscure prison me <ref target="#repondre">réponde*</ref> de luy.</l>
+              <l n="150" xml:id="l150">Qu’une obscure prison me <ref target="#repondre">réponde</ref> de luy.</l>
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
@@ -939,18 +938,18 @@
             </sp>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
-              <l  part="F">Arrestez.</l>
+              <l part="F">Arrestez.</l>
               <l n="155" xml:id="l155">Ce n’est pas un avis qu’icy je vous demande,</l>
               <l n="156" xml:id="l156">Zulemar, apprenez qu’un Roy lors qu’il commande,</l>
               <l n="157" xml:id="l157">Veut de l’obeïssance, &amp; non pas des raisons ;</l>
               <l n="158" xml:id="l158">Vostre esprit va trop loin chercher de vains soupçons.</l>
-              <l n="159" xml:id="l159">Prenez ma garde, allez que rien ne vous <ref target="#etonner2">étonne*</ref>,</l>
+              <l n="159" xml:id="l159">Prenez ma garde, allez que rien ne vous <ref target="#etonner2">étonne</ref>,</l>
               <l n="160" xml:id="l160">Partez, obeïssez, c’est moy qui vous l’ordonne. <pb n="8" xml:id="p8"/></l>
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
               <l n="161" xml:id="l161">Dust mon refus, Seigneur, m’exposer à la mort,</l>
-              <l n="162" xml:id="l162">Lors que vostre bonté daigna porter mon <ref target="#sort3">sort*</ref>,</l>
+              <l n="162" xml:id="l162">Lors que vostre bonté daigna porter mon <ref target="#sort3">sort</ref>,</l>
               <l n="163" xml:id="l163">Du neant où j’estois, au comble de la gloire ;</l>
               <l n="164" xml:id="l164">La Loy la plus presente encor à ma memoire,</l>
               <l n="165" xml:id="l165">Que vous sceûtes prescrire à ma sincerité,</l>
@@ -967,15 +966,15 @@
               <l n="176" xml:id="l176">Il faut qu’un Roy prudent dissimule ou pardonne.</l>
               <l n="177" xml:id="l177">Alamir ne vient point les armes à la main</l>
               <l n="178" xml:id="l178">Refuser ce qu’il doit au pouvoir souverain.</l>
-              <l n="179" xml:id="l179">Si l’on en veut, Seigneur, croire la <ref target="#renommee">renommée*</ref>,</l>
+              <l n="179" xml:id="l179">Si l’on en veut, Seigneur, croire la <ref target="#renommee">renommée</ref>,</l>
               <l n="180" xml:id="l180">Pour un soin amoureux il quitte vostre Armée :</l>
               <l n="181" xml:id="l181">L’amour sur son devoir luy fait fermer les yeux,</l>
-              <l n="182" xml:id="l182">Et Fatime est l’<ref target="#objet">objet*</ref> qui l’appelle en ces lieux.</l>
+              <l n="182" xml:id="l182">Et Fatime est l’<ref target="#objet">objet</ref> qui l’appelle en ces lieux.</l>
               <l n="183" xml:id="l183" part="I">C’est elle….</l>
             </sp>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
-              <l  part="F">Ah ! Zulemar, que me venez vous dire.</l>
+              <l part="F">Ah ! Zulemar, que me venez vous dire.</l>
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
@@ -992,7 +991,7 @@
             <stage>LE ROY<note place="bottom">Variante édition de 1700 « LE ROY »remplacé par « ABDERAMEN ».</note>, ZULEMAR</stage>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
-              <l n="187" xml:id="l187">Quoy qu’ait fait d’Alamir la valeur <ref target="#sans-seconde">sans seconde*</ref>,</l>
+              <l n="187" xml:id="l187">Quoy qu’ait fait d’Alamir la valeur <ref target="#sans-seconde">sans seconde</ref>,</l>
               <l n="188" xml:id="l188">Eust-il sauvé l’Etat, fust-il vainqueur du monde,</l>
               <l n="189" xml:id="l189">Rien ne l’arracheroit aux rigueurs de la Loy,</l>
               <l n="190" xml:id="l190">Si le Ciel ne m’avoit fait naistre que son Roy ;</l>
@@ -1036,10 +1035,10 @@
               <l n="222" xml:id="l222">Mieux que tu n’aurois crû répondent à tes vœux,</l>
               <l n="223" xml:id="l223">A l’amour d’un Monarque, à son pouvoir supréme,</l>
               <l n="224" xml:id="l224">Il faudra qu’Alamir cede tout<note place="bottom">Variante édition de 1700 « tout » remplacé par « enfin ».</note> ce qu’il aime ;</l>
-              <l n="225" xml:id="l225">Ce <ref target="#divorce">divorce*</ref> à mon cœur offre un heureux succez,</l>
+              <l n="225" xml:id="l225">Ce <ref target="#divorce">divorce</ref> à mon cœur offre un heureux succez,</l>
               <l n="226" xml:id="l226">Ma flâme auprés de luy trouvera plus d’accez ;</l>
               <l n="227" xml:id="l227">Cette haine qu’il a pour toute ma famille</l>
-              <l n="228" xml:id="l228">Pourra se dissiper à l’aspect d’une <ref target="#fille">fille*</ref>.</l>
+              <l n="228" xml:id="l228">Pourra se dissiper à l’aspect d’une <ref target="#fille">fille</ref>.</l>
               <l n="229" xml:id="l229">Helas !où m’emportay-je !à cet espoir flateur !</l>
               <l n="230" xml:id="l230">O Ciel !m’est-il permis d’abandonner mon cœur ?</l>
               <l n="231" xml:id="l231">Oüy, pour le<note place="bottom">Variante édition de 1700 « le » remplacé par « l’y ».</note> confirmer allons trouver Fatime ;</l>
@@ -1071,12 +1070,12 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Vous, le Roy ne veut plus que j’ignore</l>
+              <l part="F">Vous, le Roy ne veut plus que j’ignore</l>
               <l n="244" xml:id="l244">Les secretes bontez dont son chois<note place="bottom">Graphie conservatrice, ici, puisque Furetière le graphie dans son dictionnaire « choix », dans le <hi rend="i">dictionnaire de l’ancien français</hi> de Greimas, Larousse, Paris, 1968, on peut lire : « <hi rend="i">chois</hi> (1<hi rend="sup">re</hi> occurrence 1155, Wace) : choix, élection » nous soulignons. Dans l’édition de 1700 : « choix ».</note> vous honore,</l>
               <l n="245" xml:id="l245">Sa main répand sur vous, rang, titres, dignitez,</l>
               <l n="246" xml:id="l246">Bien-faits, moins glorieux que vous ne meritez,</l>
               <l n="247" xml:id="l247">Et je viens avec joye à ces grands avantages,</l>
-              <l n="248" xml:id="l248">Rendre mes premiers soins, &amp; mes premiers <ref target="#hommages">hommages*</ref>.</l>
+              <l n="248" xml:id="l248">Rendre mes premiers soins, &amp; mes premiers <ref target="#hommages">hommages</ref>.</l>
             </sp>
             <sp who="fatime">
               <speaker>FATIME</speaker>
@@ -1085,26 +1084,26 @@
               <l n="251" xml:id="l251">Ses regards, ses soûpirs, &amp; son silence mesme, <pb n="12" xml:id="p12"/></l>
               <l n="252" xml:id="l252">Tout me dit, tout m’apprend<note place="bottom">Variante édition de 1700  «, tout m’apprend » remplacé par « en effet ».</note>, tout confirme qu’il m’aime :</l>
               <l n="253" xml:id="l253">Cependant oseray-je à vostre esprit discret,</l>
-              <l n="254" xml:id="l254">De mon bizare <ref target="#sort2">sort*</ref> confier le secret ?</l>
+              <l n="254" xml:id="l254">De mon bizare <ref target="#sort2">sort</ref> confier le secret ?</l>
               <l n="255" xml:id="l255">Le Ciel ne m’a point fait une ame ambitieuse,</l>
               <l n="256" xml:id="l256">Et l’espoir de regner ne me rend point heureuse.</l>
               <l n="257" xml:id="l257">Le Roy m’accable en vain, de biens à tous momens,</l>
               <l n="258" xml:id="l258">Je ne sens point pour luy ces tendres mouvemens,</l>
               <l n="259" xml:id="l259">Dont les Amans se font de douces habitudes,</l>
-              <l n="260" xml:id="l260">Soins de plaire, transports, <ref target="#crainte">craintes*</ref>, inquietudes,</l>
+              <l n="260" xml:id="l260">Soins de plaire, transports, <ref target="#crainte">craintes</ref>, inquietudes,</l>
               <l n="261" xml:id="l261">Je souffre sans regret qu’il s’éloigne de moy ;</l>
               <l n="262" xml:id="l262">Mon ame est sans plaisir lors que je le revoy,</l>
               <l n="263" xml:id="l263">Distraite auprés de luy, tranquille en son absence,</l>
               <l n="264" xml:id="l264">Ce qu’il dit, ce qu’il fait ne me plaist ny m’offense ;</l>
-              <l n="265" xml:id="l265">Non<note place="bottom">Variante édition de 1700 « Non, ».</note> que <ref target="#rien">rien*</ref> ait caché son merite à mon cœur,</l>
+              <l n="265" xml:id="l265">Non<note place="bottom">Variante édition de 1700 « Non, ».</note> que <ref target="#rien">rien</ref> ait caché son merite à mon cœur,</l>
               <l n="266" xml:id="l266">L’air grand, jeune Heros, tendre Amant, Roy vainqueur ;</l>
-              <l n="267" xml:id="l267">Je connois tout le prix de sa personne <ref target="#auguste1">auguste*</ref>,</l>
+              <l n="267" xml:id="l267">Je connois tout le prix de sa personne <ref target="#auguste1">auguste</ref>,</l>
               <l n="268" xml:id="l268">Et mon aveugle erreur ne me rent point injuste ;</l>
               <l n="269" xml:id="l269">Mais qui peut de l’amour éviter le poison ?</l>
               <l n="270" xml:id="l270">L’ame est-elle toûjours soumise à la raison ?</l>
               <l n="271" xml:id="l271">Le Roy par ses bien-faits n’aspire qu’à me plaire ;</l>
               <l n="272" xml:id="l272">Je le voy, je le sçay ; tout ce que je puis faire,</l>
-              <l n="273" xml:id="l273">C’est malgré mon penchant de voir avec <ref target="#ennuy">ennuy*</ref></l>
+              <l n="273" xml:id="l273">C’est malgré mon penchant de voir avec <ref target="#ennuy">ennuy</ref></l>
               <l n="274" xml:id="l274">Les foiblesses d’un coeur qui n’est pas fait pour luy.</l>
             </sp>
             <sp who="zulemar">
@@ -1113,15 +1112,15 @@
               <l n="276" xml:id="l276">Pour qui mille beautez secretement soûpirent ;</l>
               <l n="277" xml:id="l277">Puissant, heureux, vainqueur de cent Peuples divers,</l>
               <l n="278" xml:id="l278">Est-il donc un captif indigne de vos fers ?</l>
-              <l n="279" xml:id="l279">Mais de vostre froideur je <ref target="#penetrer1">penetre*</ref> la cause,</l>
+              <l n="279" xml:id="l279">Mais de vostre froideur je <ref target="#penetrer1">penetre</ref> la cause,</l>
               <l n="280" xml:id="l280">A l’amour de ce Prince, un autre amour s’oppose</l>
               <l n="281" xml:id="l281" part="I">Alamir….</l>
             </sp>
             <sp who="fatime">
               <speaker>FATIME </speaker><pb n="13, B" xml:id="p13"/>
-              <l  part="F">Oüy, Seigneur, il a sceu me toucher,</l>
+              <l part="F">Oüy, Seigneur, il a sceu me toucher,</l>
               <l n="282" xml:id="l282">Il m’a plû, je ne veux, je ne puis m’en cacher,</l>
-              <l n="283" xml:id="l283">Sa grande ame a la <ref target="#gloire">gloire*</ref> uniquement sensible,</l>
+              <l n="283" xml:id="l283">Sa grande ame a la <ref target="#gloire">gloire</ref> uniquement sensible,</l>
               <l n="284" xml:id="l284">Au milieu des flatteurs, constante, incorruptible,</l>
               <l n="285" xml:id="l285">Cette droite vertu, cette intrepidité,</l>
               <l n="286" xml:id="l286">Ce mépris des honneurs, cette sincerité :</l>
@@ -1136,7 +1135,7 @@
             </sp>
             <sp who="fatime">
               <speaker>FATIME</speaker>
-              <l  part="F">L’aveu qu’icy je vous confie,</l>
+              <l part="F">L’aveu qu’icy je vous confie,</l>
               <l n="292" xml:id="l292">Offense le devoir, blesse la modestie :</l>
               <l n="293" xml:id="l293">Avant que d’en venir à cette extremité,</l>
               <l n="294" xml:id="l294">Quels efforts, quels combats ne m’a-t’il point coûté.</l>
@@ -1144,7 +1143,7 @@
               <l n="296" xml:id="l296">Qu’il n’est rien qu’on ne souffre avant que de le dire ;</l>
               <l n="297" xml:id="l297">Un destin rigoureux m’entraîne malgré moy.</l>
               <l n="298" xml:id="l298">Mais n’en redoublez point le trouble où je vous voy :</l>
-              <l n="299" xml:id="l299">Si j’ai trop de mes <ref target="#feu">feux*</ref> montré la violence,</l>
+              <l n="299" xml:id="l299">Si j’ai trop de mes <ref target="#feu">feux</ref> montré la violence,</l>
               <l n="300" xml:id="l300">Je sçauray m’en punir par une longue absence,</l>
               <l n="301" xml:id="l301">Et mon cœur trop sensible à ces folles amours,</l>
               <l n="302" xml:id="l302">Vous les dit une fois pour les taire toûjours.</l>
@@ -1156,10 +1155,10 @@
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
               <l n="303" xml:id="l303">Elle me quitte. Où suis-je, &amp; que viens-je d’apprendre !</l>
-              <l n="304" xml:id="l304">Juste Ciel….Ah ! sçais-tu ce qu’on m’a fait <ref target="#entendre2">entendre*</ref> !</l>
+              <l n="304" xml:id="l304">Juste Ciel….Ah ! sçais-tu ce qu’on m’a fait <ref target="#entendre2">entendre</ref> !</l>
               <l n="305" xml:id="l305">Fatime…Mais suy moy, sortons de ce Palais :</l>
-              <l n="306" xml:id="l306">Abendax, viens m’<ref target="#entendre1">entendre*</ref> en des lieux moins suspects.</l>
-              <l n="307" xml:id="l307">Heureuse si les Dieux finissent la <ref target="#contrainte2">contrainte*</ref>…</l>
+              <l n="306" xml:id="l306">Abendax, viens m’<ref target="#entendre1">entendre</ref> en des lieux moins suspects.</l>
+              <l n="307" xml:id="l307">Heureuse si les Dieux finissent la <ref target="#contrainte2">contrainte</ref>…</l>
             </sp>
             <sp who="abendax">
               <speaker>ABENDAX</speaker>
@@ -1167,8 +1166,8 @@
               <l n="309" xml:id="l309">Aprenez d’Alamir le retour en ces lieux ;</l>
               <l n="310" xml:id="l310">Ce heros qu’on plaçoit au rang des demy Dieux,</l>
               <l n="311" xml:id="l311">Qui voyoit autrefois retournant de l’Armée,</l>
-              <l n="312" xml:id="l312">Au devant de son char voler la <ref target="#renommee">renommée*</ref> <note place="bottom">Métaphore  cf lexique et description de Virgile (Eneide IV).</note> ;</l>
-              <l n="313" xml:id="l313">Et le <ref target="#zele1">zele*</ref> empressé d’un Peuple adorateur</l>
+              <l n="312" xml:id="l312">Au devant de son char voler la <ref target="#renommee">renommée</ref> <note place="bottom">Métaphore  cf lexique et description de Virgile (Eneide IV).</note> ;</l>
+              <l n="313" xml:id="l313">Et le <ref target="#zele1">zele</ref> empressé d’un Peuple adorateur</l>
               <l n="314" xml:id="l314">Parfumer son chemin, exalter sa valeur,</l>
               <l n="315" xml:id="l315">Accablé maintenant d’une douleur profonde,</l>
               <l n="316" xml:id="l316">Sans pompe, sans honneur, &amp; fuy de tout le monde,</l>
@@ -1202,7 +1201,7 @@
               <l n="331" xml:id="l331">Je ne m’aveugle point sur ma triste conduite,<note place="bottom">Variante édition de 1700 « Non, je ne prétens pas excuser ma conduite ».</note></l>
               <l n="332" xml:id="l332">Je sçay quel est mon crime, &amp; j’en prevoy la suite ;</l>
               <l n="333" xml:id="l333">Mais qu’il me fasse grace, ou m’envoye à la mort,</l>
-              <l n="334" xml:id="l334">Je verray du mesme œil &amp; l’un &amp; l’autre <ref target="#sort3">sort*</ref>.</l>
+              <l n="334" xml:id="l334">Je verray du mesme œil &amp; l’un &amp; l’autre <ref target="#sort3">sort</ref>.</l>
             </sp>
             <sp who="gazul">
               <speaker>GAZUL</speaker>
@@ -1214,7 +1213,7 @@
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
               <l n="339" xml:id="l339">Non, le trouble où tu vois que mon cœur s’abandonne,</l>
-              <l n="340" xml:id="l340">N’est point<note place="bottom">Négation fréquente au XVIIe siècle, qui renforce la négation, déjà portée par « n’ », comme le note <hi rend="sc">Haase</hi>, A., <hi rend="i">Syntaxe française du XVIIe siècle</hi>, Paris, Delagrave, 1935 p. 263.</note> d’un mal-heureux que le suplice <ref target="#etonner2">étonne*</ref> ;</l>
+              <l n="340" xml:id="l340">N’est point<note place="bottom">Négation fréquente au XVIIe siècle, qui renforce la négation, déjà portée par « n’ », comme le note <hi rend="sc">Haase</hi>, A., <hi rend="i">Syntaxe française du XVIIe siècle</hi>, Paris, Delagrave, 1935 p. 263.</note> d’un mal-heureux que le suplice <ref target="#etonner2">étonne</ref> ;</l>
               <l n="341" xml:id="l341">Mais de tant d’ennemis, triomphant &amp; vainqueur,</l>
               <l n="342" xml:id="l342">Puis-je me regarder moy-mesme sans douleur ?</l>
               <l n="343" xml:id="l343">Lors qu’il faut qu’un pardon honteux à ma memoire,</l>
@@ -1227,7 +1226,7 @@
               <l n="350" xml:id="l350">Par tout à nos vertus on dresse des Autels,</l>
               <l n="351" xml:id="l351">Mais Helas ! tost ou tard nous détrompons les hommes,</l>
               <l n="352" xml:id="l352">Et toûjours quelque foible aprend ce que nous sommes :</l>
-              <l n="353" xml:id="l353">De cette triste Loy, moy-mesme à nos <ref target="#neveux">neveux*</ref>,</l>
+              <l n="353" xml:id="l353">De cette triste Loy, moy-mesme à nos <ref target="#neveux">neveux</ref>,</l>
               <l n="354" xml:id="l354">Cher amy, je vais estre un exemple fameux,</l>
               <l n="355" xml:id="l355">J’abandonne l’Armée, &amp; je trahis ma gloire,</l>
               <l n="356" xml:id="l356">Pour des raisons qu’un jour on aura peine à croire.</l>
@@ -1240,18 +1239,18 @@
               <l n="360" xml:id="l360">Plus cherchant vos raisons, mon ame est interdite.</l>
               <l n="361" xml:id="l361">Je sçay que Zulemar, jeune, presomptueux<note place="bottom">Variante édition de 1700 « jeune, presomptueux » remplacé par « jeune presomptueux, ».</note></l>
               <l n="362" xml:id="l362">Des passions du Roy, flatteur, respectueux,<note place="bottom">Variante édition de 1700 « flatteur, respectueux, » remplacé par « flateur respectueux, ».</note></l>
-              <l n="363" xml:id="l363">Nouveau dans les secrets du grand <ref target="#art2">art*</ref> Militaire.</l>
-              <l n="364" xml:id="l364">Et pour toute vertu, sçavant en l’<ref target="#art2">art*</ref> de plaire ;</l>
+              <l n="363" xml:id="l363">Nouveau dans les secrets du grand <ref target="#art2">art</ref> Militaire.</l>
+              <l n="364" xml:id="l364">Et pour toute vertu, sçavant en l’<ref target="#art2">art</ref> de plaire ;</l>
               <l n="365" xml:id="l365">Depuis six mois à peine à la Cour arrivé, <pb n="17" xml:id="p17"/></l>
-              <l n="366" xml:id="l366">Est déjà par la <ref target="#brigue">brigue*</ref> aux employs élevé,</l>
+              <l n="366" xml:id="l366">Est déjà par la <ref target="#brigue">brigue</ref> aux employs élevé,</l>
               <l n="367" xml:id="l367">Son credit vous irrite, &amp; par vostre presence</l>
-              <l n="368" xml:id="l368">Vous venez balancer sa nouvelle <ref target="#puissance3">puissance*</ref>.</l>
+              <l n="368" xml:id="l368">Vous venez balancer sa nouvelle <ref target="#puissance3">puissance</ref>.</l>
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
               <l n="369" xml:id="l369">Tu fais à ma foiblesse encore trop d’honneur,</l>
               <l n="370" xml:id="l370">L’ambition n’est pas ce qui trouble mon cœur :</l>
-              <l n="371" xml:id="l371">Je suis, je l’avoüeray jaloux de cette <ref target="#gloire">gloire*</ref>,</l>
+              <l n="371" xml:id="l371">Je suis, je l’avoüeray jaloux de cette <ref target="#gloire">gloire</ref>,</l>
               <l n="372" xml:id="l372">Qui fait vivre à jamais les grands noms dans l’Histoire.</l>
               <l n="373" xml:id="l373">Dés ma plus tendre enfance ennemy du repos,</l>
               <l n="374" xml:id="l374">Je me suis proposé l’exemple des Heros,</l>
@@ -1263,10 +1262,10 @@
               <l n="380" xml:id="l380">Estre seul à l’Etat, &amp; toujours necessaire</l>
               <l n="381" xml:id="l381">Pour commander l’Armée, &amp; dispenser ses Loix.</l>
               <l n="382" xml:id="l382">Le Roy peut honorer Zulemar de son choix,</l>
-              <l n="383" xml:id="l383">On ne me verra point par de secretes <ref target="#brigue">brigues*</ref>,</l>
+              <l n="383" xml:id="l383">On ne me verra point par de secretes <ref target="#brigue">brigues</ref>,</l>
               <l n="384" xml:id="l384">De l’heureux Favory détruire les intrigues ;</l>
-              <l n="385" xml:id="l385">Son credit n’aura rien de <ref target="#chagrinant">chagrinant*</ref> pour moy,</l>
-              <l n="386" xml:id="l386">Et ma seule vertu me tiendra lieu d’<ref target="#employ">employ*</ref>,</l>
+              <l n="385" xml:id="l385">Son credit n’aura rien de <ref target="#chagrinant">chagrinant</ref> pour moy,</l>
+              <l n="386" xml:id="l386">Et ma seule vertu me tiendra lieu d’<ref target="#employ">employ</ref>,</l>
               <l n="387" xml:id="l387">Tels sont mes sentiments, telle est ma politique,</l>
               <l n="388" xml:id="l388">Et je pense en effet ce que ma bouche explique.</l>
               <l n="389" xml:id="l389">Cependant ce cœur plein  de ces grands sentimens,</l>
@@ -1280,13 +1279,13 @@
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
-              <l  part="F">Non, je ne rougis pas</l>
+              <l part="F">Non, je ne rougis pas</l>
               <l n="394" xml:id="l394">D’avoir d’une Princesse adoré les appas :</l>
               <l n="395" xml:id="l395">Il n’est point de vertu que l’amour ne surmonte, <pb n="18" xml:id="p18"/></l>
               <l n="396" xml:id="l396">Fatime m’ecoutoit, j’ay pû l’aimer sans honte,</l>
               <l n="397" xml:id="l397">Mais que l’amour sur moy prenne tant de pouvoir,</l>
-              <l n="398" xml:id="l398">Qu’une <ref target="#crainte">crainte*</ref>, un soupçon m’arrache à mon devoir,</l>
-              <l n="399" xml:id="l399">C’est-là le seul moyen que je preste à l’<ref target="#envie">envie*</ref>,</l>
+              <l n="398" xml:id="l398">Qu’une <ref target="#crainte">crainte</ref>, un soupçon m’arrache à mon devoir,</l>
+              <l n="399" xml:id="l399">C’est-là le seul moyen que je preste à l’<ref target="#envie">envie</ref>,</l>
               <l n="400" xml:id="l400">Pour ternir quelque jour tout l’éclat de ma vie.</l>
             </sp>
             <sp who="gazul">
@@ -1314,7 +1313,7 @@
               <l n="411" xml:id="l411">L’honneur de vous revoir est le seul où j’aspire</l>
               <l n="412" xml:id="l412">Heureux, &amp; plus heureux que je ne vous puis dire ;</l>
               <l n="413" xml:id="l413">Si de ce prompt retour vous aprouvez l’ardeur,</l>
-              <l n="414" xml:id="l414">Et si je vous retrouve avec le mesme cœur.<hi rend="b"></hi><pb n="19" xml:id="p19"/></l>
+              <l n="414" xml:id="l414">Et si je vous retrouve avec le mesme cœur.<hi rend="b"/><pb n="19" xml:id="p19"/></l>
             </sp>
             <sp who="fatime">
               <speaker>FATIME</speaker>
@@ -1322,7 +1321,7 @@
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
-              <l  part="F">Jusqu’icy j’ay tout fait pour la gloire,</l>
+              <l part="F">Jusqu’icy j’ay tout fait pour la gloire,</l>
               <l n="416" xml:id="l416">Madame, aprés avoir asseuré ma memoire :</l>
               <l n="417" xml:id="l417">Cherchant à respirer, ne pourray-je un moment</l>
               <l n="418" xml:id="l418">Paroistre moins vainqueur, pour estre plus Amant.</l>
@@ -1330,7 +1329,7 @@
             <sp who="fatime">
               <speaker>FATIME</speaker>
               <l n="419" xml:id="l419">Mais du couroux du Roy, qui pourra vous défendre ?</l>
-              <l n="420" xml:id="l420">Sur son authorité vous semblez <ref target="#entreprendre">entreprendre*</ref>,</l>
+              <l n="420" xml:id="l420">Sur son authorité vous semblez <ref target="#entreprendre">entreprendre</ref>,</l>
               <l n="421" xml:id="l421">Sans son ordre il vous voit revenir en ces lieux,</l>
               <l n="422" xml:id="l422">Lors que vous paroistrez tantost devant ses yeux,</l>
               <l n="423" xml:id="l423">Qu’à vous interroger il descendra luy-mesme :</l>
@@ -1338,7 +1337,7 @@
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
-              <l  part="F">Que je vous aime.</l>
+              <l part="F">Que je vous aime.</l>
               <l n="425" xml:id="l425">L’Amour a fait mon crime, il me justifiera.</l>
             </sp>
             <sp who="fatime">
@@ -1346,7 +1345,7 @@
               <l n="426" xml:id="l426">Ne vous y fiez pas, cet amour vous perdra.</l>
               <l n="427" xml:id="l427">Vous le diray-je enfin, quittez un lieu funeste ;</l>
               <l n="428" xml:id="l428">De vostre vie, ailleurs allez porter le reste,</l>
-              <l n="429" xml:id="l429">Sous un Ciel plus serein, loin de vos <ref target="#envieux">envieux*</ref>,</l>
+              <l n="429" xml:id="l429">Sous un Ciel plus serein, loin de vos <ref target="#envieux">envieux</ref>,</l>
               <l n="430" xml:id="l430">Courez mettre à l’abry des jours si precieux.</l>
               <l n="431" xml:id="l431">On ne voit plus regner icy que l’injustice,</l>
               <l n="432" xml:id="l432">Fuyez, abandonnez une Cour où le vice</l>
@@ -1367,14 +1366,14 @@
               <speaker>FATIME</speaker>
               <l n="442" xml:id="l442">Que dites-vous ? quelle est l’erreur où je vous voy ?</l>
               <l n="443" xml:id="l443">C’est trop vous affermir dans cette confiance,</l>
-              <l n="444" xml:id="l444">Icy trop de <ref target="#malheur1">malheurs*</ref> ont suivy vostre absence,</l>
+              <l n="444" xml:id="l444">Icy trop de <ref target="#malheur1">malheurs</ref> ont suivy vostre absence,</l>
               <l n="445" xml:id="l445">Et je ne me sens point assez de fermeté,</l>
               <l n="446" xml:id="l446">Pour cacher à vos yeux la triste verité,</l>
               <l n="447" xml:id="l447">Vous avez en ces lieux, Seigneur, qui l’eust pû croire,</l>
               <l n="448" xml:id="l448">Des Rivaux pour l’amour, ainsi que pour la gloire.</l>
               <l n="449" xml:id="l449">Par le trouble où je suis, jugez de ma douleur,</l>
               <l n="450" xml:id="l450">Et pour ne point moy-mesme affliger votre coeur,</l>
-              <l n="451" xml:id="l451">Souffrez que je vous cache un <ref target="#ennuy">ennuy*</ref> qui m’accable.</l>
+              <l n="451" xml:id="l451">Souffrez que je vous cache un <ref target="#ennuy">ennuy</ref> qui m’accable.</l>
             </sp>
           </div>
           <div type="scene">
@@ -1390,19 +1389,19 @@
               <l n="457" xml:id="l457">Son credit prés du Roy, ses nouvelles grandeurs,</l>
               <l n="458" xml:id="l458">Cette haine, Gazul, qui divise nos coeurs,</l>
               <l n="459" xml:id="l459">Tout me le dit, percé d’une douleur trop vive,<note place="bottom">Variante édition de 1700 « Tout me le dit. Percé d’une douleur trop vive, ».</note></l>
-              <l n="460" xml:id="l460">J’abandonne mon camp, ma <ref target="#gloire">gloire*</ref>, tout, j’arrive,</l>
+              <l n="460" xml:id="l460">J’abandonne mon camp, ma <ref target="#gloire">gloire</ref>, tout, j’arrive,</l>
               <l n="461" xml:id="l461">Ce soupçon par Fatime est enfin confirmé,</l>
               <l n="462" xml:id="l462" part="I">N’en doutons point, il l’aime.</l>
             </sp>
             <sp who="gazul">
               <speaker>GAZUL</speaker>
-              <l  part="F">En seroit-t’il aimé ? <pb n="21" xml:id="p21"/></l>
+              <l part="F">En seroit-t’il aimé ? <pb n="21" xml:id="p21"/></l>
               <l n="463" xml:id="l463" part="I">Luy, Seigneur.</l>
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
-              <l  part="F">De l’amour la foiblesse est commune ;</l>
-              <l n="464" xml:id="l464">Les yeux les mieux fermez s’ouvrent à la <ref target="#fortune1">fortune*</ref>,</l>
+              <l part="F">De l’amour la foiblesse est commune ;</l>
+              <l n="464" xml:id="l464">Les yeux les mieux fermez s’ouvrent à la <ref target="#fortune1">fortune</ref>,</l>
               <l n="465" xml:id="l465">D’un Favory naissant, l’éclat est seducteur,</l>
               <l n="466" xml:id="l466">Mais je connois Fatime, &amp; répons de son coeur,</l>
               <l n="467" xml:id="l467">Son trouble, ses regards, ses discours, son silence,</l>
@@ -1420,7 +1419,7 @@
             <stage>ALAMIR, GAZUL, OSMAR</stage>
             <sp who="osmar">
               <speaker>OSMAR</speaker>
-              <l  part="F">Seigneur, le Roy vous défent de le voir.</l>
+              <l part="F">Seigneur, le Roy vous défent de le voir.</l>
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
@@ -1428,11 +1427,11 @@
             </sp>
             <sp who="osmar">
               <speaker>OSMAR</speaker>
-              <l  part="F">Votre retour sans ordre est une offense,</l>
-              <l n="476" xml:id="l476">Qui soustrait à vos yeux son <ref target="#auguste1">auguste*</ref> presence.</l>
+              <l part="F">Votre retour sans ordre est une offense,</l>
+              <l n="476" xml:id="l476">Qui soustrait à vos yeux son <ref target="#auguste1">auguste</ref> presence.</l>
               <l n="477" xml:id="l477">Zulemar est chargé de ses ordres secrets,</l>
               <l n="478" xml:id="l478">Pour vous en avertir, je les devance exprés.</l>
-              <l n="479" xml:id="l479">Ce Prince de sa part vous les doit faire <ref target="#entendre2">entendre*</ref>,</l>
+              <l n="479" xml:id="l479">Ce Prince de sa part vous les doit faire <ref target="#entendre2">entendre</ref>,</l>
               <l n="480" xml:id="l480">Il va se rendre icy, c’est à vous de l’attendre.</l>
             </sp>
             <sp who="alamir">
@@ -1442,21 +1441,21 @@
             </sp>
             <sp who="osmar">
               <speaker>OSMAR</speaker>
-              <l  part="M">Seigneur, le voicy.</l>
+              <l part="M">Seigneur, le voicy.</l>
             </sp>
           </div>
           <div type="scene">
             <head>SCENE V</head>
             <stage>ALAMIR, ZULEMAR, OSMAR, GAZUL</stage>
             <sp who="zulemar">
-              <speaker>ZULEMAR, <hi rend="i">à Osmar</hi></speaker>
-              <l  part="F">Laissez-nous,</l>
+              <speaker>ZULEMAR, </speaker><stage>à Osmar</stage>
+              <l part="F">Laissez-nous,</l>
               <l n="483" xml:id="l483">Seigneur, avant qu’icy ma bouche vous explique</l>
               <l n="484" xml:id="l484">Tout ce que m’a du Roy prescrit la politique,</l>
               <l n="485" xml:id="l485">Permetez qu’à vos yeux je montre avec respect</l>
               <l n="486" xml:id="l486">Cette admiration qu’imprime votre aspect ;</l>
               <l n="487" xml:id="l487">Et souffrez que mon coeur plein de vostre memoire,<note place="bottom">Variante édition de 1700 « Et souffrez que mon cœur, quoy que vous puissiez croire, ».</note></l>
-              <l n="488" xml:id="l488">Vous rende les tributs qu’on doit à vostre <ref target="#gloire">gloire*</ref> :</l>
+              <l n="488" xml:id="l488">Vous rende les tributs qu’on doit à vostre <ref target="#gloire">gloire</ref> :</l>
               <l n="489" xml:id="l489">L’aversion qui regne entre nos deux maisons,</l>
               <l n="490" xml:id="l490">Jettant dans les esprits mille nouveaux soubçons,</l>
               <l n="491" xml:id="l491">S’est fait de nous aigrir une loy souveraine :</l>
@@ -1466,14 +1465,14 @@
               <l n="495" xml:id="l495">De cette indigne haine humilions l’audace,</l>
               <l n="496" xml:id="l496">Je veux bien le premier implorer cette grace,</l>
               <l n="497" xml:id="l497">Et ne voit point de honte à briguer devant tous</l>
-              <l n="498" xml:id="l498">L’estime &amp; l’<ref target="#amitie">amitié*</ref><note place="bottom">Première déclaration de sa flamme. Voir aussi v. 880.</note> d’un Heros tel que vous.</l>
+              <l n="498" xml:id="l498">L’estime &amp; l’<ref target="#amitie">amitié</ref><note place="bottom">Première déclaration de sa flamme. Voir aussi v. 880.</note> d’un Heros tel que vous.</l>
               <l n="499" xml:id="l499">Pourray-je me flater d’un union si chere ?</l>
               <l n="500" xml:id="l500">Le Roy de ses secrets m’a fait depositaire :</l>
               <l n="501" xml:id="l501">Vostre retour sans ordre excite son couroux,</l>
               <l n="502" xml:id="l502">J’ay son pouvoir en main : Ah ! qu’il me seroit doux<pb n="23" xml:id="p23"/></l>
               <l n="503" xml:id="l503">D’arracher vostre teste au coup qui la menace,</l>
               <l n="504" xml:id="l504">De vous rendre en ces lieux vostre premiere place,</l>
-              <l n="505" xml:id="l505">Et de vous inspirer de <ref target="#pret1">prester*</ref> vostre coeur</l>
+              <l n="505" xml:id="l505">Et de vous inspirer de <ref target="#pret1">prester</ref> vostre coeur</l>
               <l n="506" xml:id="l506">Aux sinceres avis d’un amy plein d’ardeur ;</l>
               <l n="507" xml:id="l507">Auprés du Roy pour vous je puis tout entreprendre,</l>
               <l n="508" xml:id="l508">Prés de vous pour moy-mesme, à quoy puis-je m’attendre.</l>
@@ -1489,7 +1488,7 @@
               <l n="515" xml:id="l515">Aprens moy quels explois<note place="bottom">Variante édition de 1700 « Quels exploits parmy nous ».</note> t’ont rendu  remarquable ?</l>
               <l n="516" xml:id="l516">Et qu’a fait jusqu’icy ton bras de memorable ?</l>
               <l n="517" xml:id="l517">De cent jeunes beautez qui brillent à la Cour ;</l>
-              <l n="518" xml:id="l518">Frivole adorateur tu sçais faire l’<ref target="#amour">amour*</ref> ;</l>
+              <l n="518" xml:id="l518">Frivole adorateur tu sçais faire l’<ref target="#amour">amour</ref> ;</l>
               <l n="519" xml:id="l519">Et c’est enfin sur quoy tout ton orgueil se fonde.</l>
               <l n="520" xml:id="l520">Mais puis qu’à tes bontez il faut que je réponde :</l>
               <l n="521" xml:id="l521">Ecoute &amp; suis l’avis que je vais te donner,</l>
@@ -1505,10 +1504,10 @@
               <l n="528" xml:id="l528">Rien ne m’empescheroit de le mettre en usage,</l>
               <l n="529" xml:id="l529">Et mon ame si loin en porteroit l’excez,</l>
               <l n="530" xml:id="l530">Que tel qui me dedaigne en craindroit les effets,</l>
-              <l n="531" xml:id="l531">Mais, Seigneur, je <ref target="#penetrer1">penetre*</ref>, &amp; voy vostre pensée :</l>
+              <l n="531" xml:id="l531">Mais, Seigneur, je <ref target="#penetrer1">penetre</ref>, &amp; voy vostre pensée :</l>
               <l n="532" xml:id="l532">Vous croyez que paré d’une vertu forcée,</l>
               <l n="533" xml:id="l533">Cherchant à profiter du trouble des esprits,</l>
-              <l n="534" xml:id="l534">Je pretens élever mon <ref target="#sort3">sort*</ref> sur vos débris,</l>
+              <l n="534" xml:id="l534">Je pretens élever mon <ref target="#sort3">sort</ref> sur vos débris,</l>
               <l n="535" xml:id="l535">Et que pour vous cacher cette lasche esperance, <pb n="24" xml:id="p24"/></l>
               <l n="536" xml:id="l536">D’une fausse pitié j’emprunte l’apparence :</l>
               <l n="537" xml:id="l537">Plust au Ciel que mon coeur vous pust estre connu,</l>
@@ -1516,7 +1515,7 @@
               <l n="539" xml:id="l539">Loin de blâmer en luy cet excés de tendresse,</l>
               <l n="540" xml:id="l540">Un secret mouvement vous apprendroit sans cesse,</l>
               <l n="541" xml:id="l541">Que vous estes l’autheur du trouble où je me voy,</l>
-              <l n="542" xml:id="l542">Et que sans vous l’amour n’eust pas fait mon <ref target="#employ">employ*</ref> ;</l>
+              <l n="542" xml:id="l542">Et que sans vous l’amour n’eust pas fait mon <ref target="#employ">employ</ref> ;</l>
               <l n="543" xml:id="l543">Mais le Roy veut sçavoir quel sujet vous amene,</l>
               <l n="544" xml:id="l544">C’est son ordre, je dois, ou m’attirer sa haine</l>
               <l n="545" xml:id="l545">En rendre un compte exact de tout notre entretien</l>
@@ -1524,15 +1523,15 @@
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
-              <l  part="F">Rien.</l>
+              <l part="F">Rien.</l>
               <l n="547" xml:id="l547">Si sçavoir mes desseins est son ordre supréme :</l>
               <l n="548" xml:id="l548">Me voila prest, il peut m’interroger luy-mesme ;</l>
-              <l n="549" xml:id="l549">Pourquoy m’évite-t’il ? Si le <ref target="#sort1">sort*</ref> envieux</l>
+              <l n="549" xml:id="l549">Pourquoy m’évite-t’il ? Si le <ref target="#sort1">sort</ref> envieux</l>
               <l n="550" xml:id="l550">M’avoit fait en vaincu  retourner dans ces lieux ;</l>
               <l n="551" xml:id="l551">Dy moy que ferait-t’on de plus pour me confondre ?</l>
               <l n="552" xml:id="l552">Enfin ce n’est qu’au Roy que je pretens répondre,</l>
               <l n="553" xml:id="l553">Et je verray couler sans regret tout mon sang,</l>
-              <l n="554" xml:id="l554">Plûtost que de <ref target="#rien">rien*</ref> faire indigne de mon rang. <note place="bottom">Comprendre « Plutôt que de faire quelque chose indigne de mon rang ».</note></l>
+              <l n="554" xml:id="l554">Plûtost que de <ref target="#rien">rien</ref> faire indigne de mon rang. <note place="bottom">Comprendre « Plutôt que de faire quelque chose indigne de mon rang ».</note></l>
               <l n="555" xml:id="l555" part="I">Adieu.</l>
             </sp>
           </div>
@@ -1541,31 +1540,31 @@
             <stage>ZULEMAR, ABENDAX</stage>
             <sp who="abendax">
               <speaker>ABENDAX</speaker>
-              <l  part="F">Vous le voyez ; une haine invincible</l>
+              <l part="F">Vous le voyez ; une haine invincible</l>
               <l n="556" xml:id="l556">A toutes vos bontez rend son coeur insensible :</l>
-              <l n="557" xml:id="l557">Hé bien pour vous <ref target="#marquer">marquer*</ref>, qu’il dedaigne vos <ref target="#soin">soins*</ref> ;</l>
-              <l n="558" xml:id="l558" part="I">En peut-il faire plus ? <hi rend="b"></hi><pb n="25, C" xml:id="p25"/></l>
+              <l n="557" xml:id="l557">Hé bien pour vous <ref target="#marquer">marquer</ref>, qu’il dedaigne vos <ref target="#soin">soins</ref> ;</l>
+              <l n="558" xml:id="l558" part="I">En peut-il faire plus ? <hi rend="b"/><pb n="25, C" xml:id="p25"/></l>
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">En doit-il faire moins ?</l>
+              <l part="F">En doit-il faire moins ?</l>
               <l n="559" xml:id="l559">Quoy que de la douceur j’emprunte le langage,</l>
               <l n="560" xml:id="l560">D’un ennemy toûjours il croit voir le visage,</l>
               <l n="561" xml:id="l561">S’il sçavoit qui je suis ; à cet aveu crois-tu</l>
               <l n="562" xml:id="l562">Qu’il conservait encor la cruelle vertu ?</l>
-              <l n="563" xml:id="l563">Non, Abendax, il faut dévoiler ce <ref target="#mistere2">mistere*</ref> :</l>
+              <l n="563" xml:id="l563">Non, Abendax, il faut dévoiler ce <ref target="#mistere2">mistere</ref> :</l>
               <l n="564" xml:id="l564" part="I">Allons, il faut luy dire...</l>
             </sp>
             <sp who="abendax">
               <speaker>ABENDAX</speaker>
-              <l  part="F">O Dieux ! qu’allez-vous faire ?</l>
+              <l part="F">O Dieux ! qu’allez-vous faire ?</l>
               <l n="565" xml:id="l565">Luy croyez-vous un coeur capable de pitié ?</l>
               <l n="566" xml:id="l566">Pensez-vous triompher de son inimitié ;</l>
               <l n="567" xml:id="l567">Enfin ignorez-vous qu’il adore Fatime,</l>
               <l n="568" xml:id="l568">Il luy sacrifiera l’aveu de vostre estime.</l>
               <l n="569" xml:id="l569">Quelle honte ! &amp; le Roy pour comble de malheur,</l>
-              <l n="570" xml:id="l570">Apprenant vostre <ref target="#sort3">sort*</ref> verra-t’il sans douleur,</l>
-              <l n="571" xml:id="l571">Qu’il a mis ses secrets dans le sein d’une <ref target="#fille">fille*</ref>,</l>
+              <l n="570" xml:id="l570">Apprenant vostre <ref target="#sort3">sort</ref> verra-t’il sans douleur,</l>
+              <l n="571" xml:id="l571">Qu’il a mis ses secrets dans le sein d’une <ref target="#fille">fille</ref>,</l>
               <l n="572" xml:id="l572">Vous estes tout l’espoir d’une illustre famille ;</l>
               <l n="573" xml:id="l573">Songez, si vous parlez dans quel triste embarras...</l>
             </sp>
@@ -1573,7 +1572,7 @@
               <speaker>ZULEMAR</speaker>
               <l n="574" xml:id="l574">Mais Alamir se perd si je ne parle pas ;</l>
               <l n="575" xml:id="l575">Sur son retour icy le Roy veut qu’il prononce.</l>
-              <l n="576" xml:id="l576">Si je vais raporter sa <ref target="#superbe">superbe*</ref> réponse,</l>
+              <l n="576" xml:id="l576">Si je vais raporter sa <ref target="#superbe">superbe</ref> réponse,</l>
               <l n="577" xml:id="l577">Cét orgueilleux refus terminera ses jours.</l>
               <l n="578" xml:id="l578">Que faire ? en ce moment le Ciel m’offre un secours ;</l>
               <l n="579" xml:id="l579">Si Fatime avec moy vouloit d’intelligence,</l>
@@ -1594,7 +1593,7 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Madame, il est perdu.</l>
+              <l part="F">Madame, il est perdu.</l>
               <l n="587" xml:id="l587">Et si dans ce moment vous n’obtenez sa grace,</l>
               <l n="588" xml:id="l588">Rien ne peut arrester le coup qui le menace,</l>
               <l n="589" xml:id="l589">Vous seule auprés du Roy vous pouvez tout pour luy :</l>
@@ -1630,17 +1629,17 @@
               <l n="610" xml:id="l610">Que me demandez-vous, à quelle extremité ?</l>
               <l n="611" xml:id="l611">Portez-vous de mon coeur l’innocence tendresse ?</l>
               <l n="612" xml:id="l612">Ah ! de grace, Seigneur, épargnez ma foiblesse !</l>
-              <l n="613" xml:id="l613">Moy luy dire son <ref target="#sort2">sort*</ref>, ignorante du mien ?</l>
+              <l n="613" xml:id="l613">Moy luy dire son <ref target="#sort2">sort</ref>, ignorante du mien ?</l>
               <l n="614" xml:id="l614">Helas ! suis-je en état de l’instruire du sien ?</l>
               <l n="615" xml:id="l615">Non il vaut mieux suivant ma triste destinée,</l>
               <l n="616" xml:id="l616">Aller traîner ailleurs ma vie infortunée :</l>
-              <l n="617" xml:id="l617">De <ref target="#souffrir">souffrir*</ref> mon départ, je vais presser le Roy,</l>
+              <l n="617" xml:id="l617">De <ref target="#souffrir">souffrir</ref> mon départ, je vais presser le Roy,</l>
               <l n="618" xml:id="l618">Venez, Seigneur, venez vous joindre avec[que]<note place="bottom">Correction présente dans l’édition de 1700 pour permettre au vers d’être un alexandrin.</note> moy.</l>
               <l n="619" xml:id="l619">Icy par mon exil tout changera de face ;</l>
               <l n="620" xml:id="l620">Alamir obtiendra facilement sa grace :</l>
               <l n="621" xml:id="l621">L’équitable raison éclairera le Roy,</l>
               <l n="622" xml:id="l622">Chacun sera content, tout sera calme : Et moy</l>
-              <l n="623" xml:id="l623">Je fuiray des regards que ma presence <ref target="#gesner">gesne*</ref>,</l>
+              <l n="623" xml:id="l623">Je fuiray des regards que ma presence <ref target="#gesner">gesne</ref>,</l>
               <l n="624" xml:id="l624">Et qui sur moy, Seigneur, ne tombent qu’avec peine.</l>
             </sp>
             <sp who="zulemar">
@@ -1649,7 +1648,7 @@
             </sp>
             <sp who="fatime">
               <speaker>FATIME</speaker>
-              <l  part="F">Au nom des Dieux ne me resistez pas,</l>
+              <l part="F">Au nom des Dieux ne me resistez pas,</l>
               <l n="626" xml:id="l626">Je sçay que ce dessein avance mon trépas ;</l>
               <l n="627" xml:id="l627">Mais cette vie, helas ! que chacun tient si chere ,</l>
               <l n="628" xml:id="l628">Ne me plaisoit qu’autant qu’elle pouvoit vous plaire ;</l>
@@ -1658,7 +1657,7 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l n="631" xml:id="l631">Helas ! quelle est la fin que le <ref target="#sort1">sort*</ref> me destine !</l>
+              <l n="631" xml:id="l631">Helas ! quelle est la fin que le <ref target="#sort1">sort</ref> me destine !</l>
               <l n="632" xml:id="l632">Le Ciel détruit toûjours tout ce que j’imagine !</l>
               <l n="633" xml:id="l633">Mais ne la quitons pas, profitons de l’erreur</l>
               <l n="634" xml:id="l634">Qui  me rend malgré moy maîtresse de son coeur ;</l>
@@ -1666,7 +1665,7 @@
               <l n="636" xml:id="l636">A ce prix, s’il le faut, écoutons sa tendresse,</l>
               <l n="637" xml:id="l637">Trompons-là, tout est juste, &amp; tout est glorieux,</l>
               <l n="638" xml:id="l638">Pour sauver du trépas ce qu’on aime le mieux.</l>
-              <p rend="center">Fin du second Acte.</p>
+              <trailer rend="center">Fin du second Acte.</trailer>
             </sp>
           </div>
         </div>
@@ -1687,7 +1686,7 @@
               <l n="645" xml:id="l645">Grace au penchant secret qui luy parle pour moy,</l>
               <l n="646" xml:id="l646">Elle mesme a couru flechir l’esprit du Roy :</l>
               <l n="647" xml:id="l647">Que te diray-je enfin, il n’a pû s’en défendre,</l>
-              <l n="648" xml:id="l648">Il doit voir Alamir en ces lieux et l’<ref target="#entendre1">entendre*</ref>,</l>
+              <l n="648" xml:id="l648">Il doit voir Alamir en ces lieux et l’<ref target="#entendre1">entendre</ref>,</l>
               <l n="649" xml:id="l649">C’est ce qu’on vient déja de luy faire sçavoir ;</l>
               <l n="650" xml:id="l650">Tu vois qu’avec raison je reprens quelque espoir,</l>
               <l n="651" xml:id="l651">En daignant l’asseurer du pardon de son crime,</l>
@@ -1696,7 +1695,7 @@
               <l n="654" xml:id="l654">De son manque de foy ne luy cachera rien.</l>
               <l n="655" xml:id="l655">Juge de sa douleur à ce revers funeste.</l>
               <l n="656" xml:id="l656">Pense-tu qu’il m’evite, encor qu’il me deteste ;</l>
-              <l n="657" xml:id="l657">Lors qu’expliquant mon <ref target="#sort3">sort*</ref>, implorant son apuy<pb n="30" xml:id="p30"/></l>
+              <l n="657" xml:id="l657">Lors qu’expliquant mon <ref target="#sort3">sort</ref>, implorant son apuy<pb n="30" xml:id="p30"/></l>
               <l n="658" xml:id="l658">Ma bouche luy dira ce que je sens pour luy,</l>
               <l n="659" xml:id="l659">Non, son grand coeur touché de ma perseverance,</l>
               <l n="660" xml:id="l660">Ne mettra plus de borne à sa reconnoissance.</l>
@@ -1720,17 +1719,17 @@
               <l n="671" xml:id="l671">Au reste quand pour vous tout s’unit, tout conspire,</l>
               <l n="672" xml:id="l672">Vous-mesme en ce moment n’allez pas vous détruire,</l>
               <l n="673" xml:id="l673">Ménagez avec soin un Monarque irrité ;</l>
-              <l n="674" xml:id="l674">Voyez-le sans <ref target="#chagrin">chagrin*</ref>, parlez luy sans fierté,</l>
+              <l n="674" xml:id="l674">Voyez-le sans <ref target="#chagrin">chagrin</ref>, parlez luy sans fierté,</l>
               <l n="675" xml:id="l675">Il a toûjours pour vous une sincere estime,</l>
               <l n="676" xml:id="l676">Il ne peut soubçonner<note place="bottom">Graphie étymologique (voir aussi v. 839).</note> vostre vertu d’un crime,</l>
               <l n="677" xml:id="l677">Et s’il veut qu’attachés toûjours à leur devoir,</l>
               <l n="678" xml:id="l678">Les plus grands soient les plus soûmis à son pouvoir :</l>
-              <l n="679" xml:id="l679">Si pour vous <ref target="#etonner1">étonner*</ref> il montre en apparence</l>
+              <l n="679" xml:id="l679">Si pour vous <ref target="#etonner1">étonner</ref> il montre en apparence</l>
               <l n="680" xml:id="l680">Trop de ressentiment d’une legere offense,</l>
               <l n="681" xml:id="l681">Cette severité ne tient rien des tirans,</l>
               <l n="682" xml:id="l682">Ses desseins sont toûjours aussi justes que grands,</l>
               <l n="683" xml:id="l683">Et soit que son pouvoir récompense ou punisse,</l>
-              <l n="684" xml:id="l684">La raison le <ref target="#conduire2">conduit*</ref>, &amp; non pas le caprice :<pb n="31" xml:id="p31"/></l>
+              <l n="684" xml:id="l684">La raison le <ref target="#conduire2">conduit</ref>, &amp; non pas le caprice :<pb n="31" xml:id="p31"/></l>
               <l n="685" xml:id="l685">Mais les Princes, Seigneur, que l’équité soûtient,</l>
               <l n="686" xml:id="l686">Veulent estre absolus, vous le sçavez. Il vient</l>
               <l n="687" xml:id="l687" part="I">Je vous laisse.</l>
@@ -1741,11 +1740,11 @@
             <stage>ABDERAMEN, ALAMIR</stage>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
-              <l  part="M">Seigneur...</l>
+              <l part="M">Seigneur...</l>
             </sp>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
-              <l  part="F">Observez le silence,</l>
+              <l part="F">Observez le silence,</l>
               <l n="688" xml:id="l688">Alamir ; vostre orgueil demande ma presence,</l>
               <l n="689" xml:id="l689">Je l’accorde, je fais ce que vous souhaitez,</l>
               <l n="690" xml:id="l690">Mais avant qu’expliquer vos raisons, écoutez.</l>
@@ -1768,10 +1767,10 @@
               <l n="707" xml:id="l707">Vous n’avez pas daigné profiter de ma grace, <pb n="32" xml:id="p32"/></l>
               <l n="708" xml:id="l708">Au contraire à cet offre augmentant vostre audace,</l>
               <l n="709" xml:id="l709">Vous avez demandé fierement à me voir.</l>
-              <l n="710" xml:id="l710">Me voicy ; vostre <ref target="#sort3">sort*</ref> n’est plus en mon pouvoir,</l>
+              <l n="710" xml:id="l710">Me voicy ; vostre <ref target="#sort3">sort</ref> n’est plus en mon pouvoir,</l>
               <l n="711" xml:id="l711">Aux Loix de mon Etat il faut que j’obeïsse,</l>
               <l n="712" xml:id="l712">Que je vous récompense, ou que je vous punisse.</l>
-              <l n="713" xml:id="l713">Voila ce qu’ont produit vos desirs <ref target="#prudence">imprudens*</ref><note place="bottom">Voir prudence.</note>,</l>
+              <l n="713" xml:id="l713">Voila ce qu’ont produit vos desirs <ref target="#prudence">imprudens</ref><note place="bottom">Voir prudence.</note>,</l>
               <l n="714" xml:id="l714">Il suffit ; à presant parlez, je vous entens.</l>
             </sp>
             <sp who="alamir">
@@ -1780,13 +1779,13 @@
               <l n="716" xml:id="l716">Tout ce qui peut icy demander ma presence ;</l>
               <l n="717" xml:id="l717">J’aurois mille raisons pour me justifier,</l>
               <l n="718" xml:id="l718">Si sur de tels secours je voulois m’appuyer ;</l>
-              <l n="719" xml:id="l719">Je l’avouë, &amp; ma <ref target="#gloire">gloire*</ref> en ce moment blessée</l>
+              <l n="719" xml:id="l719">Je l’avouë, &amp; ma <ref target="#gloire">gloire</ref> en ce moment blessée</l>
               <l n="720" xml:id="l720">Ne me punit que trop d’une ardeur insensée...</l>
               <l n="721" xml:id="l721">J’aime : si de l’amour les trop puissantes Loix,</l>
               <l n="722" xml:id="l722">Dans toutes leur rigueur pressoient le coeur des Roys ;</l>
               <l n="723" xml:id="l723">Si de son ascendant vous connoissiez l’empire,</l>
               <l n="724" xml:id="l724">Pour paroistre innocent je n’aurois rien à dire.</l>
-              <l n="725" xml:id="l725">Oüy, Seigneur, entraîné par ce <ref target="#fatal">fatal*</ref> pouvoir,</l>
+              <l n="725" xml:id="l725">Oüy, Seigneur, entraîné par ce <ref target="#fatal">fatal</ref> pouvoir,</l>
               <l n="726" xml:id="l726">J’ay violé les Loix, j’ai trahy mon devoir ;</l>
               <l n="727" xml:id="l727">J’ay merité la mort, &amp; perds toute esperance,</l>
               <l n="728" xml:id="l728">Si la justice en vous ne cede à la clemence,</l>
@@ -1805,7 +1804,7 @@
               <l n="741" xml:id="l741">Vostre seul interest a pû dans vostre Cour</l>
               <l n="742" xml:id="l742">Pour quelque temps encor prolonger mon sejour.</l>
               <l n="743" xml:id="l743">Objet infortuné d’une haine trop juste,</l>
-              <l n="744" xml:id="l744">Mal-heureux &amp; privé de vostre aspect <ref target="#auguste1">auguste*</ref>.</l>
+              <l n="744" xml:id="l744">Mal-heureux &amp; privé de vostre aspect <ref target="#auguste1">auguste</ref>.</l>
               <l n="745" xml:id="l745">Aurois-je osé, Seigneur, commander vos Soldats ?</l>
               <l n="746" xml:id="l746">Auroient-ils desormais voulu suivre mes pas ?</l>
               <l n="747" xml:id="l747">Lors qu’un Camp empressé nous sert &amp; nous revere,</l>
@@ -1819,17 +1818,17 @@
               <l n="752" xml:id="l752">Mais de tous vos desseins je connois l’innocence :</l>
               <l n="753" xml:id="l753">Alamir mon esprit étouffe les soupçons,<note place="bottom">Variante édition de 1700 « Mon coeur parle pour vous contre tous mes soupçons, ».</note></l>
               <l n="754" xml:id="l754">Et cede à la bonté plûtost qu’à vos raisons ;</l>
-              <l n="755" xml:id="l755">Je répandray sur vous tant de biens, tant de <ref target="#gloire">gloire*</ref></l>
+              <l n="755" xml:id="l755">Je répandray sur vous tant de biens, tant de <ref target="#gloire">gloire</ref></l>
               <l n="756" xml:id="l756">Que de vostre disgrace on perdra la memoire :</l>
               <l n="757" xml:id="l757">Mais suivy desormais du Peuple &amp; des Soldats,</l>
               <l n="758" xml:id="l758">Que vous verrez marcher en foule sur vos pas,</l>
               <l n="759" xml:id="l759">Dés ce jour mesme, allez rejoindre mon Armée</l>
-              <l n="760" xml:id="l760">Et faites pour mon choix parler la <ref target="#renommee">renommée*</ref>.</l>
+              <l n="760" xml:id="l760">Et faites pour mon choix parler la <ref target="#renommee">renommée</ref>.</l>
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
               <l n="761" xml:id="l761">Par une grace encor daignez combler mes vœux :</l>
-              <l n="762" xml:id="l762">La Princesse Fatime est l’objet de mes <ref target="#feu">feux*</ref>,</l>
+              <l n="762" xml:id="l762">La Princesse Fatime est l’objet de mes <ref target="#feu">feux</ref>,</l>
               <l n="763" xml:id="l763">Permettez qu’à jamais une foy mutuelle...</l>
             </sp>
             <sp who="abderamen">
@@ -1846,19 +1845,19 @@
             </sp>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker><pb n="34" xml:id="p34"/>
-              <l  part="F">Je l’épouse étouffant vostre espoir,</l>
+              <l part="F">Je l’épouse étouffant vostre espoir,</l>
               <l n="770" xml:id="l770">Ce n’est plus qu’en sujet que vous la devez voir.</l>
             </sp>
             <sp who="alamir">
               <speaker>Alamir</speaker>
-              <l n="771" xml:id="l771">Surpris, saisi, <ref target="#frapper">frapé*</ref> de ce que j’entens dire,</l>
-              <l n="772" xml:id="l772">Dans mon <ref target="#etonner1">étonnement*</ref> <ref target="#a-peine">à peine*</ref> je respire :</l>
+              <l n="771" xml:id="l771">Surpris, saisi, <ref target="#frapper">frapé</ref> de ce que j’entens dire,</l>
+              <l n="772" xml:id="l772">Dans mon <ref target="#etonner1">étonnement</ref> <ref target="#a-peine">à peine</ref> je respire :</l>
               <l n="773" xml:id="l773">Vous mon Rival, c’est vous qui m’enlevez la foy…</l>
               <l n="774" xml:id="l774">D’un cœur dont tous les vœux auroient été pour moi ;</l>
               <l n="775" xml:id="l775">Avant que ma douleur ait franchy les limites,</l>
               <l n="776" xml:id="l776">Des inhumaines Loix à mon respect prescrites :</l>
               <l n="777" xml:id="l777">Permettez-moy d’aller dans de sauvages lieux</l>
-              <l n="778" xml:id="l778">Me plaindre en liberté de mon <ref target="#sort3">sort*</ref> et des Dieux.</l>
+              <l n="778" xml:id="l778">Me plaindre en liberté de mon <ref target="#sort3">sort</ref> et des Dieux.</l>
             </sp>
             <sp who="abderamen">
               <speaker>Abderamen</speaker>
@@ -1867,10 +1866,10 @@
               <l n="781" xml:id="l781">Long-temps à mes désirs je me suis opposé :</l>
               <l n="782" xml:id="l782">Mais j’aime, je suis Roy. Dieux ! qu’il est mal aisé,</l>
               <l n="783" xml:id="l783">Lors que l’amour sur nous regne avec violence,</l>
-              <l n="784" xml:id="l784">De ne se pas servir de toute sa <ref target="#puissance2">puissance*</ref> ;</l>
+              <l n="784" xml:id="l784">De ne se pas servir de toute sa <ref target="#puissance2">puissance</ref> ;</l>
               <l n="785" xml:id="l785">Mais enfin pour m’oster le nom de Prince ingrat,</l>
               <l n="786" xml:id="l786">Alamir disposez, de moy, de mon Etat,</l>
-              <l n="787" xml:id="l787">Souhaitez, demandez, épuisez ma <ref target="#puissance2">puissance*</ref>,</l>
+              <l n="787" xml:id="l787">Souhaitez, demandez, épuisez ma <ref target="#puissance2">puissance</ref>,</l>
               <l n="788" xml:id="l788">Il n’est rien au dessus de vostre récompense.</l>
             </sp>
             <sp who="alamir">
@@ -1897,8 +1896,8 @@
             <head>SCENE IV</head>
             <sp who="alamir">
               <speaker>Alamir</speaker>
-              <l  part="F">Qu’ay-je à craindre en l’état où je suis :</l>
-              <l n="802" xml:id="l802">Est-il quelques malheurs plus grands que mes <ref target="#ennuy">ennuys*</ref> ?</l>
+              <l part="F">Qu’ay-je à craindre en l’état où je suis :</l>
+              <l n="802" xml:id="l802">Est-il quelques malheurs plus grands que mes <ref target="#ennuy">ennuys</ref> ?</l>
               <l n="803" xml:id="l803">Mon maistre est mon Rival, il m’enleve Fatime :</l>
               <l n="804" xml:id="l804">Roy barbare, crois-tu joüir de son estime ?</l>
               <l n="805" xml:id="l805">Crois-tu toucher son cœur, non ne t’en flatte pas.</l>
@@ -1920,12 +1919,12 @@
               <l n="814" xml:id="l814">Aux cœurs les plus hardis impriment la terreur,<pb n="36" xml:id="p36"/></l>
               <l n="815" xml:id="l815">Que je crains pour vos jours, l’orage qui s’apreste</l>
               <l n="816" xml:id="l816">De ces terribles coups détournez vostre teste,</l>
-              <l n="817" xml:id="l817"><ref target="#encore-coup">Encor un coup*</ref> quittez ces détestables lieux.</l>
+              <l n="817" xml:id="l817"><ref target="#encore-coup">Encor un coup</ref> quittez ces détestables lieux.</l>
             </sp>
             <sp who="alamir">
               <speaker>Alamir</speaker>
               <l n="818" xml:id="l818">Non, Madame, il m’est doux de mourir à vos yeux,</l>
-              <l n="819" xml:id="l819">Pour rendre à mes regards, ce <ref target="#sejour">sejour*</ref> <ref target="#formidable">formidable*</ref>,</l>
+              <l n="819" xml:id="l819">Pour rendre à mes regards, ce <ref target="#sejour">sejour</ref> <ref target="#formidable">formidable</ref>,</l>
               <l n="820" xml:id="l820">Pour me faire quitter cette Cour détestable,</l>
               <l n="821" xml:id="l821">Il faudroit qu’un Rival occupant vostre cœur,</l>
               <l n="822" xml:id="l822">Eust contre moy changé vostre amour en horreur :</l>
@@ -1942,13 +1941,13 @@
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
-              <l  part="F">Hé bien, Madame, je vous croy ;</l>
+              <l part="F">Hé bien, Madame, je vous croy ;</l>
               <l n="830" xml:id="l830">Vous l’ordonnez, je parts, mais partez avec moy.</l>
               <l n="831" xml:id="l831">Venez suivant l’amour que l’honneur authorise,</l>
               <l n="832" xml:id="l832">M’asseurer de la foy que vous m’avez promise.</l>
               <l n="833" xml:id="l833">Allons en d’autres lieux cacher nostre malheur :</l>
               <l n="834" xml:id="l834">Vous ne répondez rien, &amp; changez de couleur,</l>
-              <l n="835" xml:id="l835">Que presage à mes yeux ce silence <ref target="#timide">timide*</ref> ?</l>
+              <l n="835" xml:id="l835">Que presage à mes yeux ce silence <ref target="#timide">timide</ref> ?</l>
               <l n="836" xml:id="l836">Croyez-vous qu’Alamir soit un lâche, un perfide,</l>
               <l n="837" xml:id="l837">Qui…Non vous n’avez point ce doute injurieux,</l>
               <l n="838" xml:id="l838">Vous suivrez un Epoux approuvé par les Dieux :</l>
@@ -1957,12 +1956,12 @@
             </sp>
             <sp who="fatime">
               <speaker>FATIME</speaker>
-              <l  part="F">Où me vois-je reduite ?</l>
+              <l part="F">Où me vois-je reduite ?</l>
               <l n="841" xml:id="l841">Grands Dieux ! que mon destin est affreux, est cruel ;</l>
               <l n="842" xml:id="l842">Quand la honte m’impose un silence éternel, <pb n="37-D" xml:id="p37"/></l>
               <l n="843" xml:id="l843">Le tyrannique honneur me défend de me taire,</l>
               <l n="844" xml:id="l844">L’un &amp; l’autre à mon cœur parle d’un ton severe ;</l>
-              <l n="845" xml:id="l845">Mais de mille <ref target="#malheur2">malheurs*</ref> dust le Ciel m’accabler,</l>
+              <l n="845" xml:id="l845">Mais de mille <ref target="#malheur2">malheurs</ref> dust le Ciel m’accabler,</l>
               <l n="846" xml:id="l846">Le peril est trop grand, trop proche, il faut parler :</l>
               <l n="847" xml:id="l847">Sortez, Seigneur, sortez de l’erreur où vous estes ;</l>
               <l n="848" xml:id="l848">Apprenez qui je suis, voyez ce que vous faites :</l>
@@ -1982,9 +1981,9 @@
             <head>SCENE VI</head>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
-              <l n="859" xml:id="l859">Où suis-je, juste Ciel ! L’ay-je bien <ref target="#entendre2">entenduë*</ref>?</l>
+              <l n="859" xml:id="l859">Où suis-je, juste Ciel ! L’ay-je bien <ref target="#entendre2">entenduë</ref>?</l>
               <l n="860" xml:id="l860">Fatime se declare infidelle à ma veuë.</l>
-              <l n="861" xml:id="l861">Des <ref target="#malheur1">malheurs*</ref> que tâchoient de prevenir mes soins :</l>
+              <l n="861" xml:id="l861">Des <ref target="#malheur1">malheurs</ref> que tâchoient de prevenir mes soins :</l>
               <l n="862" xml:id="l862">Helas ! voila  celuy que je craignois le moins !</l>
               <l n="863" xml:id="l863">Lors que je la croyois de moy seul occupée.</l>
               <l n="864" xml:id="l864" part="I">La cruelle…</l>
@@ -1995,16 +1994,16 @@
             <stage>ALAMIR, OSMAR, GARDES</stage>
             <sp who="osmar">
               <speaker>OSMAR</speaker>
-              <l  part="F">Seigneur, donnez moy vostre épée :</l>
+              <l part="F">Seigneur, donnez moy vostre épée :</l>
               <l n="865" xml:id="l865" part="I">C’est par l’ordre du Roy.</l>
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
-              <l  part="M">Mon épée ?</l>
+              <l part="M">Mon épée ?</l>
             </sp>
             <sp who="osmar">
               <speaker>OSMAR</speaker>
-              <l  part="F">Oüy, Seigneur.</l>
+              <l part="F">Oüy, Seigneur.</l>
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
@@ -2013,13 +2012,13 @@
             </sp>
             <sp who="osmar">
               <speaker>OSMAR</speaker>
-              <l  part="F">C’est malgré moy qu’un ordre qui m’accable,</l>
+              <l part="F">C’est malgré moy qu’un ordre qui m’accable,</l>
               <l n="868" xml:id="l868">Fait passer dans mes mains ce fer si redoutable.</l>
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
               <l n="869" xml:id="l869">Il suffit, je rends grace, Osmar, à vos bontez.</l>
-              <l n="870" xml:id="l870" part="I">Marchez, <ref target="#conduire2">conduisez*</ref>-moy, je vous suis.</l>
+              <l n="870" xml:id="l870" part="I">Marchez, <ref target="#conduire2">conduisez</ref>-moy, je vous suis.</l>
             </sp>
           </div>
           <div type="scene">
@@ -2027,13 +2026,13 @@
             <stage>ALAMIR, ZULEMAR, OSMAR, ABENDAX, GARDES</stage>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Arrestez.</l>
+              <l part="F">Arrestez.</l>
               <l n="871" xml:id="l871">Osmar. Je viens, Seigneur, vous offrir vostre grace.</l>
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
               <l n="872" xml:id="l872">Tu me braves encor : Poursuis dans cette audace.</l>
-              <l n="873" xml:id="l873">L’ordre de m’arrester est <ref target="#conduire1">conduit*</ref> <ref target="#prudence">prudemment*</ref>.</l>
+              <l n="873" xml:id="l873">L’ordre de m’arrester est <ref target="#conduire1">conduit</ref> <ref target="#prudence">prudemment</ref>.</l>
               <l n="874" xml:id="l874">Si tu l’avois osé devancer d’un moment,</l>
               <l n="875" xml:id="l875">Mon bras t’eust épargné les peines que te donne,</l>
               <l n="876" xml:id="l876">Le soin qu’auprés du Roy tu prens de ma personne.</l>
@@ -2043,7 +2042,7 @@
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
               <l n="879" xml:id="l879">Que vous estes injuste ! Hé ! que faut-t’il donc faire ?</l>
-              <l n="880" xml:id="l880">Pour vous prouver un <ref target="#zele1">zele*</ref>, une <ref target="#amitie">amitié*</ref><note place="bottom">Syllepse puisqu’Alamir entend le dévouement que « Zulemar »  lui porte  et que Zaïde déjà lui dévoile son amour par le redoublement des mots pouvant être compris à l’époque de deux manières (voir lexique).</note> sincere :</l>
+              <l n="880" xml:id="l880">Pour vous prouver un <ref target="#zele1">zele</ref>, une <ref target="#amitie">amitié</ref><note place="bottom">Syllepse puisqu’Alamir entend le dévouement que « Zulemar »  lui porte  et que Zaïde déjà lui dévoile son amour par le redoublement des mots pouvant être compris à l’époque de deux manières (voir lexique).</note> sincere :</l>
               <l n="881" xml:id="l881">Mais contre moy, Seigneur, avant que d’éclater,</l>
               <l n="882" xml:id="l882">Voyez ce que je fais, &amp; daignez m’écouter.</l>
               <l n="883" xml:id="l883">L’amour, vous le sçavez est vostre unique crime,</l>
@@ -2056,21 +2055,21 @@
               <l n="890" xml:id="l890">Cachée à tous, n’a pû se cacher à vos yeux.</l>
               <l n="891" xml:id="l891">Vous avez dans son cœur fait naistre une tendresse, <pb n="40" xml:id="p40"/></l>
               <l n="892" xml:id="l892">Qui dans tous vos malheurs malgré vous l’interesse<note place="bottom">Intéresser quelqu’un dans , comprendre</note>.</l>
-              <l n="893" xml:id="l893">Elle vous voit souvent, &amp; <ref target="#pret2">preste*</ref><note place="bottom">Syllepse de sens puisqu’elle est à la fois « sur le point de » lui parler  mais aussi « rapide » à lui parler, ce double sens est possible par la non différenciation des deux mots qui ont la même orthographe, à l’époque.</note> à vous parler,</l>
-              <l n="894" xml:id="l894">De <ref target="#crainte">crainte*</ref> en vous voyant, elle se sent troubler.</l>
+              <l n="893" xml:id="l893">Elle vous voit souvent, &amp; <ref target="#pret2">preste</ref><note place="bottom">Syllepse de sens puisqu’elle est à la fois « sur le point de » lui parler  mais aussi « rapide » à lui parler, ce double sens est possible par la non différenciation des deux mots qui ont la même orthographe, à l’époque.</note> à vous parler,</l>
+              <l n="894" xml:id="l894">De <ref target="#crainte">crainte</ref> en vous voyant, elle se sent troubler.</l>
               <l n="895" xml:id="l895">Son nom haï de vous, la glace, l’épouvante,</l>
               <l n="896" xml:id="l896">Et retient son aveu sur sa levre tremblante :</l>
               <l n="897" xml:id="l897">Mais ses yeux attachez à vous considerer,</l>
               <l n="898" xml:id="l898">Son ame en ses discours facile à s’égarer,</l>
               <l n="899" xml:id="l899">Son trouble, mille soins que l’on ne peut comprendre,</l>
-              <l n="900" xml:id="l900">Tout vous dit son amour si vous voulez l’<ref target="#entendre2">entendre*</ref>.</l>
+              <l n="900" xml:id="l900">Tout vous dit son amour si vous voulez l’<ref target="#entendre2">entendre</ref>.</l>
               <l n="901" xml:id="l901">Seigneur si vous sçaviez ce qu’elle sent pour vous…</l>
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
               <l n="902" xml:id="l902">Qui moy ? d’une Zegri je deviendrois l’époux ?</l>
               <l n="903" xml:id="l903">Eust-elle à me donner tout l’Empire du monde,</l>
-              <l n="904" xml:id="l904">En esprit, en beauté, fust-elle <ref target="#sans-seconde">sans seconde*</ref> ;</l>
+              <l n="904" xml:id="l904">En esprit, en beauté, fust-elle <ref target="#sans-seconde">sans seconde</ref> ;</l>
               <l n="905" xml:id="l905">Son cœur d’un tendre amour fust-il épris pour moy,</l>
               <l n="906" xml:id="l906">C’est assez qu’elle soit du mesme sang que toy.</l>
               <l n="907" xml:id="l907">Pour mettre dans mon cœur, pour allumer contre elle</l>
@@ -2084,8 +2083,8 @@
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
-              <l  part="F">Je ne veux rien apprendre.</l>
-              <l n="912" xml:id="l912">Assez, &amp; trop long-temps j’ay souffert à t’<ref target="#entendre1">entendre*</ref>.</l>
+              <l part="F">Je ne veux rien apprendre.</l>
+              <l n="912" xml:id="l912">Assez, &amp; trop long-temps j’ay souffert à t’<ref target="#entendre1">entendre</ref>.</l>
               <l n="913" xml:id="l913">Gardes delivrez-moy d’un objet odieux.</l>
             </sp>
             <sp who="zulemar">
@@ -2104,7 +2103,7 @@
               <l n="918" xml:id="l918">Prince indigne du sort qui t’estoit preparé :</l>
               <l n="919" xml:id="l919">Mal-heureuse, j’allois pleine de ma tendresse,</l>
               <l n="920" xml:id="l920">Luy découvrir mon sexe, avoüer ma foiblesse.</l>
-              <l n="921" xml:id="l921">Que dis-je, tout mon <ref target="#sort3">sort*</ref> est déjà revelé,</l>
+              <l n="921" xml:id="l921">Que dis-je, tout mon <ref target="#sort3">sort</ref> est déjà revelé,</l>
               <l n="922" xml:id="l922">Il a veu mon desordre, &amp;  mes yeux ont parlé.</l>
               <l n="923" xml:id="l923"> Mais enfin, Abendax, à moy-mesme renduë,</l>
               <l n="924" xml:id="l924">Et d’un juste dépit desormais soûtenuë :</l>
@@ -2114,7 +2113,7 @@
               <l n="928" xml:id="l928">L’irriter, l’animer contre ce temeraire,</l>
               <l n="929" xml:id="l929">Sacrifier l’ingrat à ma juste fureur :</l>
               <l n="930" xml:id="l930">Dussay-je après sa mort expirer de douleur.</l>
-              <p rend="center">Fin du troisième Acte.</p>
+              <trailer rend="center">Fin du troisième Acte.</trailer>
             </sp>
           </div>
         </div>
@@ -2133,18 +2132,18 @@
               <l n="935" xml:id="l935">Le Roy mesme inquiet fuyant l’aspect du monde,</l>
               <l n="936" xml:id="l936">Jette dans les esprits une terreur profonde.</l>
               <l n="937" xml:id="l937">Il marche environné de chefs &amp; de Soldats.</l>
-              <l n="938" xml:id="l938">Un <ref target="#gros-de">gros*</ref> de Senateurs accompagne ses pas,</l>
+              <l n="938" xml:id="l938">Un <ref target="#gros-de">gros</ref> de Senateurs accompagne ses pas,</l>
               <l n="939" xml:id="l939">Tristes, épouvantez, leurs visages severes</l>
               <l n="940" xml:id="l940">N’ont point de leur vertu les marques ordinaires.</l>
               <l n="941" xml:id="l941">Ces mortels redoutez qui tiennent dans leurs mains,</l>
-              <l n="942" xml:id="l942">La <ref target="#puissance1">puissance*</ref> des Roys, &amp; le sort des humains,</l>
+              <l n="942" xml:id="l942">La <ref target="#puissance1">puissance</ref> des Roys, &amp; le sort des humains,</l>
               <l n="943" xml:id="l943">Semblent craindre aujourd’huy l’ordre qui les assemble :</l>
               <l n="944" xml:id="l944">Tout garde le silence, autour du Roy tout tremble.</l>
               <l n="945" xml:id="l945">Au milieu de la place un échafault dressé,</l>
               <l n="946" xml:id="l946">Attire les regards d’un grand Peuple amassé,</l>
               <l n="947" xml:id="l947">Qui paslit, &amp; qui craint de voir tomber la teste,</l>
               <l n="948" xml:id="l948">Que menace aujourd’huy cette horrible tempeste. <pb n="43" xml:id="p43"/></l>
-              <l n="949" xml:id="l949">De ses propres <ref target="#employ">employs*</ref> abandonnant le soin,</l>
+              <l n="949" xml:id="l949">De ses propres <ref target="#employ">employs</ref> abandonnant le soin,</l>
               <l n="950" xml:id="l950">Chacun de ce grand jour veut estre le témoin.</l>
               <l n="951" xml:id="l951">Tout fremit : Cependant parmi cette tristesse</l>
               <l n="952" xml:id="l952">On voit encor briller des marques d’allegresse.</l>
@@ -2152,7 +2151,7 @@
               <l n="954" xml:id="l954">Les Prestres revêtus, &amp; de fleurs couronnez,</l>
               <l n="955" xml:id="l955">Etallent l’appareil des plus celebres Festes ;</l>
               <l n="956" xml:id="l956">L’encens fume par tout, les victimes sont prestes.</l>
-              <l n="957" xml:id="l957">D’un juste <ref target="#etonner1">étonnement*</ref> les esprits occupez,</l>
+              <l n="957" xml:id="l957">D’un juste <ref target="#etonner1">étonnement</ref> les esprits occupez,</l>
               <l n="958" xml:id="l958">Sur tant d’objets divers dont les yeux sont frappez,</l>
               <l n="959" xml:id="l959">En discours superflus se lassent &amp; s’épuisent,</l>
               <l n="960" xml:id="l960">Inventent des raisons qu’aussi-tost ils detruisent,</l>
@@ -2162,7 +2161,7 @@
             <sp who="fatime">
               <speaker>FATIME</speaker>
               <l n="963" xml:id="l963">Pour quel dessein fait-on des apprests si contraires,</l>
-              <l n="964" xml:id="l964">Et qui m’expliquera ces funestes <ref target="#mistere1">misteres*</ref> :</l>
+              <l n="964" xml:id="l964">Et qui m’expliquera ces funestes <ref target="#mistere1">misteres</ref> :</l>
               <l n="965" xml:id="l965">Qui livrent mon esprit à de cruels soupçons ?<note place="bottom">Vers absent de l’édition de  1683 voir notes sur la présente édition.</note></l>
             </sp>
             <sp who="zindarize">
@@ -2177,8 +2176,8 @@
             <stage>ABDERAMEN, FATIME, ZINDARISE</stage>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
-              <l n="969" xml:id="l969">Tandis que mes Sujets sont dans l’<ref target="#etonner1">étonnement*</ref>,</l>
-              <l n="970" xml:id="l970">Et d’un jour si pompeux craignent l’<ref target="#evenement">évenement*</ref> :</l>
+              <l n="969" xml:id="l969">Tandis que mes Sujets sont dans l’<ref target="#etonner1">étonnement</ref>,</l>
+              <l n="970" xml:id="l970">Et d’un jour si pompeux craignent l’<ref target="#evenement">évenement</ref> :</l>
               <l n="971" xml:id="l971">Souffrez que sans témoins je vous parle, Madame,</l>
               <l n="972" xml:id="l972">Et vous découvre icy les secrets de mon ame.</l>
               <l n="973" xml:id="l973">Je vous aime : Mes soins, mes regards, mes soûpirs,</l>
@@ -2186,29 +2185,29 @@
               <l n="975" xml:id="l975">Mais jusqu’icy ma bouche auprés de vous muete,</l>
               <l n="976" xml:id="l976">D’aujourd’huy seulement en devient l’interprete.</l>
               <l n="977" xml:id="l977">Non qu’une crainte indigne, &amp; de vous &amp; de moy,</l>
-              <l n="978" xml:id="l978">Ait pû vous <ref target="#disputer">disputer*</ref> l’amour de vostre Roy :</l>
+              <l n="978" xml:id="l978">Ait pû vous <ref target="#disputer">disputer</ref> l’amour de vostre Roy :</l>
               <l n="979" xml:id="l979">Mais comme l’Etat doit regler nos hymenées,</l>
               <l n="980" xml:id="l980">Les passions des Roys sont toûjours soupçonnées :</l>
               <l n="981" xml:id="l981">Lors qu’aucun interest n’apuyant leurs projets,</l>
               <l n="982" xml:id="l982">On les voit adorer le sang de leurs Sujets.</l>
-              <l n="983" xml:id="l983">J’ay craint qu’on n’imputast mes plus tendres <ref target="#hommages">hommages*</ref>,</l>
+              <l n="983" xml:id="l983">J’ay craint qu’on n’imputast mes plus tendres <ref target="#hommages">hommages</ref>,</l>
               <l n="984" xml:id="l984">Au fol empressement de ces ardeurs volages,</l>
               <l n="985" xml:id="l985">Qui ne font naistre en nous que d’injustes desirs,</l>
-              <l n="986" xml:id="l986">Et qui n’ont pour objet que de foibles <ref target="#plaisir1">plaisirs*</ref>.</l>
-              <l n="987" xml:id="l987">Madame à vostre Roy vostre <ref target="#gloire">gloire*</ref> estoit chere,</l>
+              <l n="986" xml:id="l986">Et qui n’ont pour objet que de foibles <ref target="#plaisir1">plaisirs</ref>.</l>
+              <l n="987" xml:id="l987">Madame à vostre Roy vostre <ref target="#gloire">gloire</ref> estoit chere,</l>
               <l n="988" xml:id="l988">Je me suis fait pour elle une loy de me taire.</l>
               <l n="989" xml:id="l989">Je parle maintenant, &amp; veux que ce grand jour</l>
               <l n="990" xml:id="l990">Par un heureux hymen, vous prouve mon amour.</l>
             </sp>
             <sp who="fatime">
               <speaker>FATIME</speaker><pb n="45" xml:id="p45"/>
-              <l n="991" xml:id="l991">Seigneur de vos projets, <ref target="#etonner1">étonnée*</ref>, interdite,</l>
+              <l n="991" xml:id="l991">Seigneur de vos projets, <ref target="#etonner1">étonnée</ref>, interdite,</l>
               <l n="992" xml:id="l992">Je ne puis vous cacher le trouble qui m’agite,</l>
               <l n="993" xml:id="l993">Tant de soins, tant d’honneurs que je n’attandois pas…</l>
             </sp>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
-              <l n="994" xml:id="l994">Je <ref target="#penetrer1">penetre*</ref> aisement d’où naist vostre embaras :</l>
+              <l n="994" xml:id="l994">Je <ref target="#penetrer1">penetre</ref> aisement d’où naist vostre embaras :</l>
               <l n="995" xml:id="l995">Pour le sort d’Alamir dont le cœur vous adore,</l>
               <l n="996" xml:id="l996">Une juste pitié vous sollicite encore.</l>
               <l n="997" xml:id="l997">Vos regards attendris n’envisagent mon rang,</l>
@@ -2232,18 +2231,18 @@
             </sp>
             <sp who="fatime">
               <speaker>FATIME</speaker>
-              <l  part="F">Seigneur, qu’exigez-vous de moy ?</l>
+              <l part="F">Seigneur, qu’exigez-vous de moy ?</l>
             </sp>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
               <l n="1015" xml:id="l1015">Quand vous allez regner, lors qu’un Roy qui vous aime,</l>
               <l n="1016" xml:id="l1016">Remet entre vos mains avec son Diadéme,</l>
-              <l n="1017" xml:id="l1017">Le <ref target="#sort3">sort*</ref> d’un orgueilleux qu’il a droit de punir,</l>
+              <l n="1017" xml:id="l1017">Le <ref target="#sort3">sort</ref> d’un orgueilleux qu’il a droit de punir,</l>
               <l n="1018" xml:id="l1018">Quand tout doit vous presser, qui vous peut retenir ?</l>
             </sp>
             <sp who="fatime">
               <speaker>FATIME</speaker><pb n="46" xml:id="p46"/>
-              <l n="1019" xml:id="l1019">Si vous perdez pour moi le soin de vostre <ref target="#gloire">gloire*</ref> ;</l>
+              <l n="1019" xml:id="l1019">Si vous perdez pour moi le soin de vostre <ref target="#gloire">gloire</ref> ;</l>
               <l n="1020" xml:id="l1020">Seigneur, dois-je pour vous en perdre la memoire.</l>
               <l n="1021" xml:id="l1021">Quel est vostre dessein, lors que de toutes parts,</l>
               <l n="1022" xml:id="l1022">Vostre hymen souhaité suspend tous les regards ;</l>
@@ -2259,7 +2258,7 @@
             <sp who="abderamen">
               <speaker> ABDERAMEN</speaker>
               <l n="1031" xml:id="l1031">Ne vous informez point de ce qu’on pourra croire,</l>
-              <l n="1032" xml:id="l1032">C’est à moy d’avoir soin de mon rang, de ma <ref target="#gloire">gloire*</ref> ;</l>
+              <l n="1032" xml:id="l1032">C’est à moy d’avoir soin de mon rang, de ma <ref target="#gloire">gloire</ref> ;</l>
               <l n="1033" xml:id="l1033">Et c’est à mes Sujets sans s’en inquieter,</l>
               <l n="1034" xml:id="l1034">De voir mes passions, &amp; de les respecter.</l>
               <l n="1035" xml:id="l1035">A ce supréme honneur que je pretens vous faire,</l>
@@ -2267,7 +2266,7 @@
               <l n="1037" xml:id="l1037">Si c’est trop m’abaisser, que d’estre vostre Epoux,</l>
               <l n="1038" xml:id="l1038">Je ne m’attandois pas d’en estre instruit par vous.</l>
               <l n="1039" xml:id="l1039">Ce conseil genereux part d’un cœur magnanime,</l>
-              <l n="1040" xml:id="l1040">Mais ce cœur, est-ce enfin la <ref target="#gloire">gloire*</ref> qui l’anime.</l>
+              <l n="1040" xml:id="l1040">Mais ce cœur, est-ce enfin la <ref target="#gloire">gloire</ref> qui l’anime.</l>
               <l n="1041" xml:id="l1041">Des interests plus chers n’y sont-ils point mêlez ?</l>
               <l n="1042" xml:id="l1042">N’envelope-t’il point d’autres secrets…Parlez,</l>
               <l n="1043" xml:id="l1043">Madame, &amp; sans détour que vostre cœur s’explique.</l>
@@ -2277,7 +2276,7 @@
               <l n="1044" xml:id="l1044">Vous me le commandez, j’obeïs sans replique,</l>
               <l n="1045" xml:id="l1045">On ne peut rien cacher aux Roys, non plus qu’aux Dieux.</l>
               <l n="1046" xml:id="l1046">Si le Ciel sur le thrône avoit mis mes ayeux,</l>
-              <l n="1047" xml:id="l1047">J’aurois fait mes <ref target="#plaisir1">plaisirs*</ref>, j’aurois fait mon <ref target="#envie">envie*</ref>,</l>
+              <l n="1047" xml:id="l1047">J’aurois fait mes <ref target="#plaisir1">plaisirs</ref>, j’aurois fait mon <ref target="#envie">envie</ref>,</l>
               <l n="1048" xml:id="l1048">D’assurer le bon-heur de vostre illustre vie :</l>
               <l n="1049" xml:id="l1049">J’aurois tout employé pour meriter le choix,</l>
               <l n="1050" xml:id="l1050">Seigneur, du plus parfait, &amp; du plus grand des Roys.</l>
@@ -2293,8 +2292,8 @@
             </sp>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
-              <l  part="F">Oüy je puis perdre le temeraire,</l>
-              <l n="1060" xml:id="l1060">Qui m’ose <ref target="#disputer">disputer*</ref> le bonheur de vous plaire.</l>
+              <l part="F">Oüy je puis perdre le temeraire,</l>
+              <l n="1060" xml:id="l1060">Qui m’ose <ref target="#disputer">disputer</ref> le bonheur de vous plaire.</l>
               <l n="1061" xml:id="l1061">Le succez de mes feux decide de son sort ;</l>
               <l n="1062" xml:id="l1062">Cet aveu, vos refus precipitent sa mort.</l>
               <l n="1063" xml:id="l1063">Songez-y ; sur ce point c’est à  vous de resoudre,</l>
@@ -2307,11 +2306,11 @@
             <stage>ABDERAMEN, ZULEMAR, FATIME</stage>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="M">Seigneur.</l>
+              <l part="M">Seigneur.</l>
             </sp>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
-              <l  part="F"><ref target="#encore-coup">Encor un coup*</ref> parlez.</l>
+              <l part="F"><ref target="#encore-coup">Encor un coup</ref> parlez.</l>
               <l n="1066" xml:id="l1066">Les Juges au Senat par mon ordre assemblez,</l>
               <l n="1067" xml:id="l1067">Sur le sort d’Alamir attendent ma réponse,</l>
               <l n="1068" xml:id="l1068">Quel Arrest voulez-vous que ma bouche prononce</l>
@@ -2319,7 +2318,7 @@
             </sp>
             <sp who="fatime">
               <speaker>FATIME</speaker><pb n="48" xml:id="p48"/>
-              <l n="1070" xml:id="l1070">Le Ciel qui vous a fait le maistre de son <ref target="#sort3">sort*</ref>,</l>
+              <l n="1070" xml:id="l1070">Le Ciel qui vous a fait le maistre de son <ref target="#sort3">sort</ref>,</l>
               <l n="1071" xml:id="l1071">Daigne de ce Heros vous prouver l’innocence,</l>
               <l n="1072" xml:id="l1072">Mais n’attendez de moy qu’un mal-heureux silence :</l>
               <l n="1073" xml:id="l1073">Le don de nostre cœur ne dépend point de nous.</l>
@@ -2336,10 +2335,10 @@
             </sp>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
-              <l  part="F">En sa faveur elle ose rejetter</l>
+              <l part="F">En sa faveur elle ose rejetter</l>
               <l n="1078" xml:id="l1078">Le Sceptre que ma main vient de luy presenter.</l>
               <l n="1079" xml:id="l1079">Un sujet insolent accablé de ma haine,</l>
-              <l n="1080" xml:id="l1080">Dont l’univers sans moy se souviendroit <ref target="#a-peine">à peine*</ref> :</l>
+              <l n="1080" xml:id="l1080">Dont l’univers sans moy se souviendroit <ref target="#a-peine">à peine</ref> :</l>
               <l n="1081" xml:id="l1081">A mon Sceptre, à mon rang se verra preferé ;</l>
               <l n="1082" xml:id="l1082">Ils pourront me braver, &amp; je le souffriray ?</l>
               <l n="1083" xml:id="l1083">D’une ingrate, d’un traistre il faut que je me venge ;</l>
@@ -2347,7 +2346,7 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Qu’entens-je ?</l>
+              <l part="F">Qu’entens-je ?</l>
               <l n="1085" xml:id="l1085">Les Dieux m’en sont témoins, plus animé que vous</l>
               <l n="1086" xml:id="l1086">Je venois en ces lieux presser vostre couroux,</l>
               <l n="1087" xml:id="l1087">Accuser Alamir, demander son supplice,</l>
@@ -2376,14 +2375,14 @@
               <l n="1104" xml:id="l1104">Et plus vous le niés, plus vostre amour éclate.</l>
               <l n="1105" xml:id="l1105">Pour toy que mes bienfaits prodiguez chaque jour,</l>
               <l n="1106" xml:id="l1106">Ingrat avoient rendu le premier de ma Cour ;</l>
-              <l n="1107" xml:id="l1107">Pour toy qui de mon cœur trahis la <ref target="#confidence">confidence*</ref>,</l>
-              <l n="1108" xml:id="l1108">N’espere pas que <ref target="#rien">rien*</ref> t’arrache à ma vangeance.</l>
+              <l n="1107" xml:id="l1107">Pour toy qui de mon cœur trahis la <ref target="#confidence">confidence</ref>,</l>
+              <l n="1108" xml:id="l1108">N’espere pas que <ref target="#rien">rien</ref> t’arrache à ma vangeance.</l>
               <l n="1109" xml:id="l1109" part="I">Tu periras.</l>
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Seigneur, je n’en suis point troublé,</l>
-              <l n="1110" xml:id="l1110">Des <ref target="#malheur2">malheurs*</ref> inconnus je suis trop accablé :</l>
+              <l part="F">Seigneur, je n’en suis point troublé,</l>
+              <l n="1110" xml:id="l1110">Des <ref target="#malheur2">malheurs</ref> inconnus je suis trop accablé :</l>
               <l n="1111" xml:id="l1111">Pour voir avec frayeur une mort necessaire,</l>
               <l n="1112" xml:id="l1112">Qui peut seule finir ma honte  &amp; ma misere,</l>
               <l n="1113" xml:id="l1113">Je ne vous diray point que sans rendre de soins,</l>
@@ -2404,7 +2403,7 @@
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
               <l n="1127" xml:id="l1127">Grands Dieux<note place="bottom">Synérèse « Dieux » ne compte que pour une syllabe. </note> ! tout me dedaigne ainsi, tout m’abandonne !<note place="bottom">Variante édition de 1700 « Tout me dédaigne icy, grands Dieux tout m’abandonne. ».</note></l>
-              <l n="1128" xml:id="l1128">Le plus affreux trépas n’a rien qui les <ref target="#etonner2">étonne*</ref> : <pb n="50" xml:id="p50"/></l>
+              <l n="1128" xml:id="l1128">Le plus affreux trépas n’a rien qui les <ref target="#etonner2">étonne</ref> : <pb n="50" xml:id="p50"/></l>
               <l n="1129" xml:id="l1129">Quel est donc mon malheur ? Quel destin envieux</l>
               <l n="1130" xml:id="l1130">Me rend quoy que je fasse  à ce point odieux,</l>
               <l n="1131" xml:id="l1131">Un ingrat que mon cœur de ses bontez honore,</l>
@@ -2418,7 +2417,7 @@
             <stage>FATIME, ABDERAMEN, OSMAR, ZULEMAR, GARDES</stage>
             <sp who="osmar">
               <speaker>OSMAR</speaker>
-              <l  part="F">Seigneur,</l>
+              <l part="F">Seigneur,</l>
               <l n="1135" xml:id="l1135">Les Juges d’Alamir ont suivant nos maximes,</l>
               <l n="1136" xml:id="l1136">Ecouté sa défence, examiné ses crimes ;</l>
               <l n="1137" xml:id="l1137">On  n’attend plus de vous qu’un mot pour le punir</l>
@@ -2426,7 +2425,7 @@
             </sp>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
-              <l  part="F">Il suffit, qu’on le fasse venir.</l>
+              <l part="F">Il suffit, qu’on le fasse venir.</l>
             </sp>
           </div>
           <div type="scene">
@@ -2434,7 +2433,7 @@
             <stage>ABDERAMEN, ZULEMAR, FATIME</stage>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
-              <l n="1139" xml:id="l1139">Pensez-vous que cedant à vos lâches <ref target="#envie">envies*</ref>,</l>
+              <l n="1139" xml:id="l1139">Pensez-vous que cedant à vos lâches <ref target="#envie">envies</ref>,</l>
               <l n="1140" xml:id="l1140">Je vous laisse joüir de tant de perfidies ?</l>
               <l n="1141" xml:id="l1141">Vous n’insulterez point au malheur de mes feux.</l>
               <l n="1142" xml:id="l1142">Qu’en leurs appartements on les garde tous deux.</l>
@@ -2461,11 +2460,11 @@
               <l n="1153" xml:id="l1153">Je reçoy le pardon que vous me presentez,</l>
               <l n="1154" xml:id="l1154">Et je veux bien devoir ma grace à vos bontez ;</l>
               <l n="1155" xml:id="l1155">Seigneur ; non qu’en l’état où ma vie est reduite,</l>
-              <l n="1156" xml:id="l1156">La mort soit desormais un <ref target="#malheur1">malheur*</ref> que j’évite :</l>
+              <l n="1156" xml:id="l1156">La mort soit desormais un <ref target="#malheur1">malheur</ref> que j’évite :</l>
               <l n="1157" xml:id="l1157">Heureux si prevenant mon funeste retour,</l>
               <l n="1158" xml:id="l1158">Elle m’eust épargné la honte de ce jour.</l>
-              <l n="1159" xml:id="l1159">Je ne le <ref target="#celer">cele*</ref> point, contraint à vous déplaire,</l>
-              <l n="1160" xml:id="l1160">Sans en estre <ref target="#etonner2">étonné*</ref> j’ay veu vostre colere.</l>
+              <l n="1159" xml:id="l1159">Je ne le <ref target="#celer">cele</ref> point, contraint à vous déplaire,</l>
+              <l n="1160" xml:id="l1160">Sans en estre <ref target="#etonner2">étonné</ref> j’ay veu vostre colere.</l>
               <l n="1161" xml:id="l1161">Ce n’est point aux mortels nourris dans les combats</l>
               <l n="1162" xml:id="l1162">A demander au Ciel d’éloigner leur trépas.</l>
               <l n="1163" xml:id="l1163">Quand les bras affoiblis gemissent sous les armes,</l>
@@ -2484,7 +2483,7 @@
               <l n="1176" xml:id="l1176">Je mourois il est vray par une main infame ;</l>
               <l n="1177" xml:id="l1177">Mais dans tous les esprits le crime d’un Amant</l>
               <l n="1178" xml:id="l1178">N’est pas crime, ou du moins se pardonne aisement,</l>
-              <l n="1179" xml:id="l1179">Et d’un indigne <ref target="#sort1">sort*</ref> quelque soit le caprice,</l>
+              <l n="1179" xml:id="l1179">Et d’un indigne <ref target="#sort1">sort</ref> quelque soit le caprice,</l>
               <l n="1180" xml:id="l1180">La honte est dans le crime, &amp; non dans le supplice.</l>
             </sp>
             <sp who="abderamen">
@@ -2503,7 +2502,7 @@
               <l n="1192" xml:id="l1192">Il est sorti d’un sang que le vostre deteste,</l>
               <l n="1193" xml:id="l1193">Vous auriez triomphé déjà sans ma pitié ;</l>
               <l n="1194" xml:id="l1194">Le party des Zegris estoit humilié,</l>
-              <l n="1195" xml:id="l1195">Et j’ay craint que le <ref target="#sort2">sort*</ref> en éteignant leur race</l>
+              <l n="1195" xml:id="l1195">Et j’ay craint que le <ref target="#sort2">sort</ref> en éteignant leur race</l>
               <l n="1196" xml:id="l1196">A celle des vainqueurs n’inspirast trop d’audace ;</l>
               <l n="1197" xml:id="l1197">Mais enfin, c’en est fait, je n’écoute plus rien,</l>
               <l n="1198" xml:id="l1198">Je prens vostre party, j’abandonne le sien.</l>
@@ -2517,7 +2516,7 @@
               <l n="1203" xml:id="l1203">Permettez qu’aussi-tost, las de tant d’infortune,</l>
               <l n="1204" xml:id="l1204">J’acheve loin de vous une vie importune,</l>
               <l n="1205" xml:id="l1205">Et que de tous costez, trahi, desesperé,</l>
-              <l n="1206" xml:id="l1206">Je cache les <ref target="#ennuy">ennuys*</ref> dont je suis dechiré.</l>
+              <l n="1206" xml:id="l1206">Je cache les <ref target="#ennuy">ennuys</ref> dont je suis dechiré.</l>
             </sp>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
@@ -2525,7 +2524,7 @@
               <l n="1208" xml:id="l1208">Je veux à vostre tour que vostre avis decide,</l>
               <l n="1209" xml:id="l1209">Venez donc en resoudre, &amp; contre cet ingrat,</l>
               <l n="1210" xml:id="l1210">Faisons de nostre haine un interest d’Etat.</l>
-              <p rend="center">Fin du quatrième Acte</p>
+              <trailer rend="center">Fin du quatrième Acte</trailer>
             </sp>
           </div>
         </div>
@@ -2540,7 +2539,7 @@
               <l n="1211" xml:id="l1211">Venez. Auprés de vous le Roy mesme m’envoye,</l>
               <l n="1212" xml:id="l1212">Sans témoins en ces lieux il veut que je vous voye,</l>
               <l n="1213" xml:id="l1213">Et je puis vous parler sur l’affreux changement,</l>
-              <l n="1214" xml:id="l1214">Que dans vostre <ref target="#fortune2">fortune*</ref> a fait un seul moment.</l>
+              <l n="1214" xml:id="l1214">Que dans vostre <ref target="#fortune2">fortune</ref> a fait un seul moment.</l>
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
@@ -2552,8 +2551,8 @@
             </sp>
             <sp who="abendax">
               <speaker>ABENDAX</speaker>
-              <l  part="F">J’ai peine encor à croire,</l>
-              <l n="1220" xml:id="l1220">Qu’un seul instant ait pû détruire tant de <ref target="#gloire">gloire*</ref>,</l>
+              <l part="F">J’ai peine encor à croire,</l>
+              <l n="1220" xml:id="l1220">Qu’un seul instant ait pû détruire tant de <ref target="#gloire">gloire</ref>,</l>
               <l n="1221" xml:id="l1221">Le mesme jour vous voit dans un rang glorieux,</l>
               <l n="1222" xml:id="l1222">Sur vous seule attirer tous les cœurs, tous les yeux,</l>
               <l n="1223" xml:id="l1223">Et bien-tost du destin éprouvant l’injustice,</l>
@@ -2568,8 +2567,8 @@
               <l n="1229" xml:id="l1229">Mais d’abord que la main qui luy servoit d’appuy,</l>
               <l n="1230" xml:id="l1230">Retire les honneurs qu’elle versoit sur luy,</l>
               <l n="1231" xml:id="l1231">Sa chute ouvre aussi-tost un chemin à l’audace,</l>
-              <l n="1232" xml:id="l1232">Pour attaquer sa vie, &amp; <ref target="#disputer">disputer*</ref> sa place.</l>
-              <l n="1233" xml:id="l1233">Mes honneurs, mes <ref target="#employ">employs*</ref> sont des biens superflus,</l>
+              <l n="1232" xml:id="l1232">Pour attaquer sa vie, &amp; <ref target="#disputer">disputer</ref> sa place.</l>
+              <l n="1233" xml:id="l1233">Mes honneurs, mes <ref target="#employ">employs</ref> sont des biens superflus,</l>
               <l n="1234" xml:id="l1234">Je meurs, &amp; dans deux jours on n’y songera plus.</l>
             </sp>
             <sp who="abendax">
@@ -2598,7 +2597,7 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Garde-toy de découvrir mon <ref target="#sort3">sort*</ref></l>
+              <l part="F">Garde-toy de découvrir mon <ref target="#sort3">sort</ref></l>
               <l n="1250" xml:id="l1250">Abendax ne mets point d’obstacles à ma mort</l>
               <l n="1251" xml:id="l1251">Veux-tu que de ma main moy-mesme miserable…</l>
               <l n="1252" xml:id="l1252">Non laisse-moy mourir sans que j’en sois coupable.</l>
@@ -2620,12 +2619,12 @@
             <stage>ZULEMAR, FATIME, ABENDAX, OSMAR</stage>
             <sp who="osmar">
               <speaker>OSMAR</speaker>
-              <l  part="F">Si vous voulez sa grace,</l>
+              <l part="F">Si vous voulez sa grace,</l>
               <l n="1264" xml:id="l1264">Le Roy vous la promet, il est rien qu’il ne fasse,</l>
               <l n="1265" xml:id="l1265">Pourveu que vostre cœur propice à ses souhaits,</l>
               <l n="1266" xml:id="l1266">Soit par un doux hymen le prix de ses bienfaits ;</l>
               <l n="1267" xml:id="l1267">Zulemar par son ordre icy vient de se rendre.</l>
-              <l n="1268" xml:id="l1268">Le voicy, vous pouvez luy parler &amp; l’<ref target="#entendre1">entendre*</ref> :</l>
+              <l n="1268" xml:id="l1268">Le voicy, vous pouvez luy parler &amp; l’<ref target="#entendre1">entendre</ref> :</l>
               <l n="1269" xml:id="l1269">Madame en joüissant d’un entretien si doux,</l>
               <l n="1270" xml:id="l1270">Songez bien que son sort ne dépend que de vous.</l>
               <l n="1271" xml:id="l1271" part="I">Qu’on se retire.</l>
@@ -2636,7 +2635,7 @@
             <stage>ZULEMAR, FATIME</stage>
             <sp who="fatime">
               <speaker>FATIME</speaker>
-              <l  part="F">He, bien pour m’avoir trop sceu plaire,</l>
+              <l part="F">He, bien pour m’avoir trop sceu plaire,</l>
               <l n="1272" xml:id="l1272">Seigneur, pour avoir fait un aveu trop sincere</l>
               <l n="1273" xml:id="l1273">Des sentiments d’un cœur qui n’eust pû le trahir,</l>
               <l n="1274" xml:id="l1274">On vous fait donc coupable, &amp; vous allez mourir.</l>
@@ -2646,7 +2645,7 @@
               <l n="1275" xml:id="l1275">La mort, l’affreuse mort par qui tout se fait craindre,</l>
               <l n="1276" xml:id="l1276">Est si douce pour moy que je ne puis m’en plaindre.</l>
               <l n="1277" xml:id="l1277">Madame elle finit des jours infortunez,</l>
-              <l n="1278" xml:id="l1278">Qu’à d’éternels <ref target="#ennuy">ennuis*</ref>, les Dieux ont condamnez</l>
+              <l n="1278" xml:id="l1278">Qu’à d’éternels <ref target="#ennuy">ennuis</ref>, les Dieux ont condamnez</l>
               <l n="1279" xml:id="l1279">Aux volontez du Roy cessez d’estre rebelle,</l>
               <l n="1280" xml:id="l1280">Il vous offre sa main, son thrône vous appelle,</l>
               <l n="1281" xml:id="l1281">Sans plaindre un mal-heureux qu’on ne peut secourir :</l>
@@ -2659,7 +2658,7 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Oüy, Madame,</l>
+              <l part="F">Oüy, Madame,</l>
               <l n="1285" xml:id="l1285">Ce trépas justement prononcé par le Roy,</l>
               <l n="1286" xml:id="l1286">Je vous l’ay déjà dit n’a rien d’affreux pour moy :</l>
               <l n="1287" xml:id="l1287">Si de quelque douleur mon ame est attendrie,</l>
@@ -2686,7 +2685,7 @@
               <l n="1305" xml:id="l1305">Pour nous venger de luy tout nous sera permis,</l>
               <l n="1306" xml:id="l1306"> J’ay du pouvoir icy, vous avez des amis,</l>
               <l n="1307" xml:id="l1307">Assistez d’eux sans bruit, quittant ce lieu funeste…</l>
-              <l n="1308" xml:id="l1308">C’est assez m’expliquer, vous <ref target="#entendre2">entendez*</ref> le reste.</l>
+              <l n="1308" xml:id="l1308">C’est assez m’expliquer, vous <ref target="#entendre2">entendez</ref> le reste.</l>
               <l n="1309" xml:id="l1309">J’envisage en tremblant une telle action,</l>
               <l n="1310" xml:id="l1310">Et vos yeux sont témoins de ma confusion ;</l>
               <l n="1311" xml:id="l1311">Mais enfin pour sauver une teste si chere</l>
@@ -2694,14 +2693,14 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Qu’allez-vous faire ?</l>
+              <l part="F">Qu’allez-vous faire ?</l>
               <l n="1313" xml:id="l1313">Elle me quitte &amp; va reculant mon trépas,</l>
               <l n="1314" xml:id="l1314">M’exposer par la feinte à de nouveaux combats.</l>
-              <l n="1315" xml:id="l1315">Grands Dieux ! sur mes <ref target="#malheur2">malheurs*</ref> plus je jette la veuë,</l>
+              <l n="1315" xml:id="l1315">Grands Dieux ! sur mes <ref target="#malheur2">malheurs</ref> plus je jette la veuë,</l>
               <l n="1316" xml:id="l1316">Plus je n’y voy pour moy qu’une funeste issuë ;</l>
               <l n="1317" xml:id="l1317">Et tel est de mes jours l’astre pernicieux…</l>
               <l n="1318" xml:id="l1318">Mais que vois-je ? Alamir se presente à mes yeux,</l>
-              <l n="1319" xml:id="l1319">Quel sujet le <ref target="#conduire2">conduit*</ref>, quel mouvement le presse :</l>
+              <l n="1319" xml:id="l1319">Quel sujet le <ref target="#conduire2">conduit</ref>, quel mouvement le presse :</l>
               <l n="1320" xml:id="l1320">O Dieux, dans ce moment soûtenez ma foiblesse.</l>
             </sp>
           </div>
@@ -2722,7 +2721,7 @@
               <l n="1327" xml:id="l1327">A ta grace sans peine, on le verra souscrire,</l>
               <l n="1328" xml:id="l1328">Mille autres de sa part auroient pû te le dire,</l>
               <l n="1329" xml:id="l1329">Mais voulant par mes soins m’acquitter envers toy,</l>
-              <l n="1330" xml:id="l1330">Moy-mesme auprés de luy j’ay brigué cet <ref target="#employ">employ*</ref>.</l>
+              <l n="1330" xml:id="l1330">Moy-mesme auprés de luy j’ay brigué cet <ref target="#employ">employ</ref>.</l>
               <l n="1331" xml:id="l1331">Pour garantir tes jours d’un indigne supplice :</l>
               <l n="1332" xml:id="l1332">Croy moy, de ton amour fais luy le sacrifice,</l>
               <l n="1333" xml:id="l1333">Dans une folle ardeur cesse de t’obstiner,</l>
@@ -2742,7 +2741,7 @@
               <l n="1341" xml:id="l1341">Ce beau feu dont Fatime avoit sceu l’animer,</l>
               <l n="1342" xml:id="l1342">N’est pas un de ces feux prompts à se consommer,</l>
               <l n="1343" xml:id="l1343">Qu’un revers diminuë, &amp; qu’estein une absence ;</l>
-              <l n="1344" xml:id="l1344">J’en rougis, mais enfin malgré son inconstance,<hi rend="b"></hi><pb n="60" xml:id="p60"/></l>
+              <l n="1344" xml:id="l1344">J’en rougis, mais enfin malgré son inconstance,<hi rend="b"/><pb n="60" xml:id="p60"/></l>
               <l n="1345" xml:id="l1345">Je ne puis de Fatime oublier les attraits,</l>
               <l n="1346" xml:id="l1346">Et je sens que je l’aime encor plus que jamais.</l>
             </sp>
@@ -2752,7 +2751,7 @@
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
-              <l  part="F">Je le veux bien avoüer à ma honte.</l>
+              <l part="F">Je le veux bien avoüer à ma honte.</l>
               <l n="1348" xml:id="l1348">Non, que si le retour d’une tendresse prompte,</l>
               <l n="1349" xml:id="l1349">Forçoit en ma faveur son ame au repentir,</l>
               <l n="1350" xml:id="l1350">A l’épouser jamais je pusse consentir.</l>
@@ -2773,7 +2772,7 @@
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
               <l n="1364" xml:id="l1364">Sçay-tu ce que tu fais en me pressant de vivre ?</l>
-              <l n="1365" xml:id="l1365">Je vivrois pour servir d’obstacle à tes <ref target="#plaisir2">plaisirs*</ref>,</l>
+              <l n="1365" xml:id="l1365">Je vivrois pour servir d’obstacle à tes <ref target="#plaisir2">plaisirs</ref>,</l>
               <l n="1366" xml:id="l1366">Pour contraindre ton cœur, pour forcer tes desirs,</l>
               <l n="1367" xml:id="l1367">Pour suivre les transports qu’en mon cœur tu fais naistre,</l>
               <l n="1368" xml:id="l1368">Pour te persecuter, pour te haïr peut-estre.</l>
@@ -2793,13 +2792,13 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">Hé ! le puis-je cruel ;</l>
+              <l part="F">Hé ! le puis-je cruel ;</l>
               <l n="1379" xml:id="l1379">Pour m’opposer sans cesse une fierté barbare,</l>
               <l n="1380" xml:id="l1380">En laisse-tu moins voir la vertu qui te pare :</l>
               <l n="1381" xml:id="l1381">En es-tu moins aimable, &amp; mon coeur mal-heureux</l>
               <l n="1382" xml:id="l1382">S’abandonne-t’il moins à l’ardeur de ses feux :</l>
               <l n="1383" xml:id="l1383">Car enfin ce Rival, ce chef d’une famille</l>
-              <l n="1384" xml:id="l1384">Que tu poursuis ; aprens que ce n’est qu’une <ref target="#fille">fille*</ref>.</l>
+              <l n="1384" xml:id="l1384">Que tu poursuis ; aprens que ce n’est qu’une <ref target="#fille">fille</ref>.</l>
               <l n="1385" xml:id="l1385">Seul reste infortuné des mal-heureux Zegris,</l>
               <l n="1386" xml:id="l1386">Qui s’offre  à tes regards sous ces tristes habits.</l>
             </sp>
@@ -2809,11 +2808,11 @@
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
-              <l  part="F">En vain dés ma naissance,</l>
+              <l part="F">En vain dés ma naissance,</l>
               <l n="1388" xml:id="l1388">Instruite des raisons d’une juste vangeance,</l>
               <l n="1389" xml:id="l1389">L’esprit plein contre-toy de projets ennemis.</l>
               <l n="1390" xml:id="l1390">Je partis pour ces lieux, j’arrivay, je te vis,</l>
-              <l n="1391" xml:id="l1391">Tu revenois vainqueur &amp; tout couvert de <ref target="#gloire">gloire*</ref> :</l>
+              <l n="1391" xml:id="l1391">Tu revenois vainqueur &amp; tout couvert de <ref target="#gloire">gloire</ref> :</l>
               <l n="1392" xml:id="l1392">Ma haine en ce moment sortit de ma memoire ;<note place="bottom">Variante édition de 1700 « De nos inimitiez je perdis la memoire ».</note></l>
               <l n="1393" xml:id="l1393">Mon cœur sourd aux raisons qui devoient l’animer,</l>
               <l n="1394" xml:id="l1394">Ne sceut plus en trouver, helas ! que pour t’aimer !</l>
@@ -2832,20 +2831,20 @@
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
-              <l n="1407" xml:id="l1407">Muet d’<ref target="#etonner1">étonnement*</ref>, parmy tant de <ref target="#traverse">traverses*</ref>,</l>
-              <l n="1408" xml:id="l1408">J’ay peine à concevoir nos <ref target="#fortune3">fortunes*</ref> diverses,</l>
+              <l n="1407" xml:id="l1407">Muet d’<ref target="#etonner1">étonnement</ref>, parmy tant de <ref target="#traverse">traverses</ref>,</l>
+              <l n="1408" xml:id="l1408">J’ay peine à concevoir nos <ref target="#fortune3">fortunes</ref> diverses,</l>
               <l n="1409" xml:id="l1409">Je voy que du destin que l’on ne peut tromper…</l>
             </sp>
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
               <l n="1410" xml:id="l1410">Ah ! barbare est-ce là ce qui doit t’occuper,</l>
-              <l n="1411" xml:id="l1411">Au moment qu’à tes yeux <ref target="#etonner2">étonnée*</ref> &amp; tremblante,</l>
+              <l n="1411" xml:id="l1411">Au moment qu’à tes yeux <ref target="#etonner2">étonnée</ref> &amp; tremblante,</l>
               <l n="1412" xml:id="l1412">Je ne puis retenir une ardeur violente :</l>
               <l n="1413" xml:id="l1413">Quand pour te garantir je m’expose au trepas,</l>
               <l n="1414" xml:id="l1414">Quand je t’offre mon cœur, tu ne m’écoutes pas :</l>
               <l n="1415" xml:id="l1415">Me fais-tu voir au moins que mon malheur te touche ;</l>
               <l n="1416" xml:id="l1416">En laisse-tu sortir un soûpir de ta bouche ?</l>
-              <l n="1417" xml:id="l1417">Tes <ref target="#superbe">superbes*</ref> regards qui me glacent d’effroy,</l>
+              <l n="1417" xml:id="l1417">Tes <ref target="#superbe">superbes</ref> regards qui me glacent d’effroy,</l>
               <l n="1418" xml:id="l1418">Daignent-ils par pitié s’abaisser jusqu’à moy ?</l>
               <l n="1419" xml:id="l1419">Daigne-tu voir mes pleurs, hélas ! infortunée…</l>
               <l n="1420" xml:id="l1420">Mais que vois-je ? déja m’auroit-on condamnée.</l>
@@ -2860,7 +2859,7 @@
             </sp>
             <sp who="osmar">
               <speaker>OSMAR</speaker>
-              <l  part="F">Vostre <ref target="#sort3">sort*</ref> vient d’estre revelé :</l>
+              <l part="F">Vostre <ref target="#sort3">sort</ref> vient d’estre revelé :</l>
               <l n="1422" xml:id="l1422">Le Roy sçait votre sexe, Abendax  a parlé.</l>
               <l n="1423" xml:id="l1423">Il paroist tout en pleurs, il demande audiance ;</l>
               <l n="1424" xml:id="l1424">A ses cris douloureux chacun preste licence ;<pb n="63" xml:id="p63"/></l>
@@ -2878,7 +2877,7 @@
               <l n="1436" xml:id="l1436">Elle veut dérober sa honte aux yeux du monde,</l>
               <l n="1437" xml:id="l1437">Mais avec tant de soins, mais avec tant d’ardeur :</l>
               <l n="1438" xml:id="l1438">Le Roy sçait rasseurer sa craintive pudeur,</l>
-              <l n="1439" xml:id="l1439">Qu’à sa <ref target="#gloire">gloire*</ref>, à l’éclat de la grandeur suprême,</l>
+              <l n="1439" xml:id="l1439">Qu’à sa <ref target="#gloire">gloire</ref>, à l’éclat de la grandeur suprême,</l>
               <l n="1440" xml:id="l1440">Ouvrant enfin les yeux… mais le Roy vient luy-mesme.</l>
             </sp>
           </div>
@@ -2888,7 +2887,7 @@
             <sp who="zulemar">
               <speaker>ZULEMAR</speaker>
               <l n="1441" xml:id="l1441">Seigneur, après l’abus commis aux yeux de tous ;</l>
-              <l n="1442" xml:id="l1442" part="I">De quel <ref target="#front">front*</ref> puis-je icy paroistre ?</l>
+              <l n="1442" xml:id="l1442" part="I">De quel <ref target="#front">front</ref> puis-je icy paroistre ?</l>
             </sp>
             <sp who="abderamen">
               <speaker>ABDERAMEN</speaker>
@@ -2902,8 +2901,8 @@
             </sp>
             <sp who="alamir">
               <speaker>ALAMIR</speaker>
-              <l n="1449" xml:id="l1449">Interdit, <ref target="#etonner2">étonné*</ref> de tout ce que je voy ;</l>
-              <l n="1450" xml:id="l1450">Seigneur, pour vous répondre <ref target="#a-peine">à peine*</ref> suis-je à moy.</l>
+              <l n="1449" xml:id="l1449">Interdit, <ref target="#etonner2">étonné</ref> de tout ce que je voy ;</l>
+              <l n="1450" xml:id="l1450">Seigneur, pour vous répondre <ref target="#a-peine">à peine</ref> suis-je à moy.</l>
               <l n="1451" xml:id="l1451">Madame, cependant à vos desirs rebelle,</l>
               <l n="1452" xml:id="l1452">Mon cœur n’opose plus une fierté cruelle :</l>
               <l n="1453" xml:id="l1453">Et si l’amour déjà ne s’y fait pas sentir,</l>
@@ -2917,7 +2916,7 @@
               <l n="1458" xml:id="l1458">Donnez à vostre sexe un plus digne ornement :</l>
               <l n="1459" xml:id="l1459">Etouffez desormais une honte timide,</l>
               <l n="1460" xml:id="l1460">Et vivez dans ma Cour sous le nom de Zaïde.</l>
-              <p rend="center">FIN</p>
+              <trailer rend="center">FIN</trailer>
             </sp>
           </div>
         </div>
@@ -3079,7 +3078,7 @@
           </entryFree>
           <entryFree>
             <form>Etonner</form>
-            <def  xml:id="etonner1">« Causer à l’ame de l’émotion, soit par surprise, soit par admiration, soit par crainte »</def>
+            <def xml:id="etonner1">« Causer à l’ame de l’émotion, soit par surprise, soit par admiration, soit par crainte »</def>
             <xr>V. <ref target="#l679">679</ref> ; étonnée v. <ref target="#l71">71</ref>, <ref target="#l991">991</ref> ; étonnement v. <ref target="#l772">772</ref>, <ref target="#l957">957</ref>, <ref target="#l969">969</ref>, <ref target="#l1407">1407</ref></xr>
             <def xml:id="etonner2">« Émotion des corps qui sont esbranlez et attaquez par quelque violence »</def>
             <xr>V. <ref target="#l159">159</ref>, <ref target="#l340">340</ref>, <ref target="#l1128">1128</ref>, <ref target="#l1160">1160</ref>, <ref target="#l1411">1411</ref>, <ref target="#l1449">1449</ref></xr>

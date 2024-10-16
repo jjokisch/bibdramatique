@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -25,11 +25,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/somaize_veritables-pretieuses/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/somaize_veritables-pretieuses.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/somaize_veritables-pretieuses.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/somaize_veritables-pretieuses.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/somaize_veritables-pretieuses.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/somaize_veritables-pretieuses/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/somaize_veritables-pretieuses.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/somaize_veritables-pretieuses.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/somaize_veritables-pretieuses.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/somaize_veritables-pretieuses.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Antoine Baudeau de Somaize</author>. <title>Les Véritables Prétieuses. Comédie.</title>. A PARIS,  Chez <hi rend="sc">Jean Ribou</hi>, sur le Quay  des Augustins, à l’Image S. Louis.  M. DC. LX.  <hi rend="i">Avec Privilege du Roy.</hi></bibl>
@@ -1329,7 +1329,7 @@
         <pb n="III"/>
         <head>[EPISTRE.] <lb/>A <hi rend="b">MONSEIGNEUR</hi>, MESSIRE HENRY <hi rend="b">LOUIS HABERT</hi>, <hi rend="sc">Chevalier, Comte</hi> du Mesny Habert, Seigneur de Monmort, la Brosse, le Peray, le Fargis, &amp; autres lieux, Conseiller du Roy en tous ses Conseils, &amp; Maistre des Requestes ordinaires de son Hostel, &amp;c.<note n="205" place="bottom"> « HABERT (Henri-Louis) Seigneur de Montmor, conseiller du roi en ses conseils et maître des requêtes de son hôtel, fut reçu conseiller au parlement en 1625, et mourut doyen des maîtres des requêtes le 21 janvier 1679. Il était de l’académie française [<hi rend="i">sic</hi>], et s’est acquis une grande réputation par son intégrité, et l’amour qu’il avait pour les lettres et pour les savants. On tenait chez lui, un jour chaque semaine, une assemblée de savants, où l’on traitait des matières de physique. […] Le célèbre philosophe Gassendi vécut chez lui pendant plusieurs années, et y mourut » (Moreri, <hi rend="i">Le Grand Dictionnaire historique</hi>, éd. de 1759). </note></head>
         <p rend="i">Monseigneur,</p>
-        <p><hi rend="i">Je n’étaleray point icy la grandeur de vostre <ref target="#naissance">Naissance*</ref>, ny les services considerables que vous avez rendus, &amp; que vous rendez tous les jours à l’Estat.</hi><pb n="IV"/><hi rend="i">Je ne diray point que quelque éclat dont vous soyez environné, &amp; que quelques Illustres que soient vos Charges, elles en tirent plus de vous, qu’elles ne vous en donnent. Ce n’est pas à moy</hi><note n="206" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « Mais ce n’est pas à moy ».</note><hi rend="i">d’entreprendre un Panegerique</hi><note n="207" place="bottom"> Eloge.</note>, <hi rend="i">où le merite surpasse de bien loin la plus haute Idée que l’on s’en puisse former : Vous vous devez à vous-mesme toute vostre gloire, &amp; il vous appartient seul de faire quelque chose à vostre avantage, &amp; pour moy, bien que j’aye assez d’ardeur pour souhaitter de dire quelque chose à vostre loüange, je n’ay pas assez de temerité pour l’entreprendre : je seray trop heureux si je puis contribuër quelque chose à vostre divertissement, &amp; si la lecture de ces Vraies Pretieuses</hi><note n="208" place="bottom"> Orthographe classique de « précieuses », dérivée du latin <hi rend="i">pretiosus</hi>. L’orthographe contemporaine ne commence à se répandre qu’à la fin du XVII<hi rend="sup">e</hi>  (elle est recensée à partir de 1687 par le Dictionnaire de l’Académie Française).</note>, <hi rend="i">que je vous offre peut vous délasser un moment de vos penibles &amp; continuelles occupations. Je [ă iij]</hi><pb n="V "/><hi rend="i">sçay bien qu’à considerer cet Ouvrage sortant de mes mains, il perd quelque chose de son prix, &amp; que le nom de son Autheur pourroit, par la reputation qu’il s’est acquise, vous le rendre plus considerable</hi><note n="209" place="bottom"> L’épître est de la plume du libraire, Jean Ribou. </note> ; <hi rend="i">Mais je ne veux rien devoir à autruy, où il s’agit de vous estre obligé : Ouy, <hi rend="sc">Monseigneur</hi>, je prefere l’honneur de vous estre redevable à vous seul de la protection que je vous demande pour cette Comedie, à tous les avantages que  je pourrois avoir de vous offrir un Livre qui meriteroit &amp; par luy, &amp; par le nom de celuy qui l’auroit fait, l’<ref target="#aveu">aveu*</ref> d’une personne Illustre, comme vous ; car au moins, vous jugerez qu’un <ref target="#zele">zele*</ref> tout pur m’a fait oser ce que j’entreprends, &amp; que qui cherche à vous divertir, cherchera tousjours avecque tout l’empressement possi-/</hi><pb n="VI"/><hi rend="i">/-ble les moyens de meriter la qualité qu’il prend avec vostre permission</hi>,</p>
+        <p><hi rend="i">Je n’étaleray point icy la grandeur de vostre <ref target="#naissance">Naissance</ref>, ny les services considerables que vous avez rendus, &amp; que vous rendez tous les jours à l’Estat.</hi><pb n="IV"/><hi rend="i">Je ne diray point que quelque éclat dont vous soyez environné, &amp; que quelques Illustres que soient vos Charges, elles en tirent plus de vous, qu’elles ne vous en donnent. Ce n’est pas à moy</hi><note n="206" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « Mais ce n’est pas à moy ».</note><hi rend="i">d’entreprendre un Panegerique</hi><note n="207" place="bottom"> Eloge.</note>, <hi rend="i">où le merite surpasse de bien loin la plus haute Idée que l’on s’en puisse former : Vous vous devez à vous-mesme toute vostre gloire, &amp; il vous appartient seul de faire quelque chose à vostre avantage, &amp; pour moy, bien que j’aye assez d’ardeur pour souhaitter de dire quelque chose à vostre loüange, je n’ay pas assez de temerité pour l’entreprendre : je seray trop heureux si je puis contribuër quelque chose à vostre divertissement, &amp; si la lecture de ces Vraies Pretieuses</hi><note n="208" place="bottom"> Orthographe classique de « précieuses », dérivée du latin <hi rend="i">pretiosus</hi>. L’orthographe contemporaine ne commence à se répandre qu’à la fin du XVII<hi rend="sup">e</hi>  (elle est recensée à partir de 1687 par le Dictionnaire de l’Académie Française).</note>, <hi rend="i">que je vous offre peut vous délasser un moment de vos penibles &amp; continuelles occupations. Je [ă iij]</hi><pb n="V "/><hi rend="i">sçay bien qu’à considerer cet Ouvrage sortant de mes mains, il perd quelque chose de son prix, &amp; que le nom de son Autheur pourroit, par la reputation qu’il s’est acquise, vous le rendre plus considerable</hi><note n="209" place="bottom"> L’épître est de la plume du libraire, Jean Ribou. </note> ; <hi rend="i">Mais je ne veux rien devoir à autruy, où il s’agit de vous estre obligé : Ouy, <hi rend="sc">Monseigneur</hi>, je prefere l’honneur de vous estre redevable à vous seul de la protection que je vous demande pour cette Comedie, à tous les avantages que  je pourrois avoir de vous offrir un Livre qui meriteroit &amp; par luy, &amp; par le nom de celuy qui l’auroit fait, l’<ref target="#aveu">aveu</ref> d’une personne Illustre, comme vous ; car au moins, vous jugerez qu’un <ref target="#zele">zele</ref> tout pur m’a fait oser ce que j’entreprends, &amp; que qui cherche à vous divertir, cherchera tousjours avecque tout l’empressement possi-/</hi><pb n="VI"/><hi rend="i">/-ble les moyens de meriter la qualité qu’il prend avec vostre permission</hi>,</p>
         <p rend="i">Monseigneur,</p>
         <p rend="right">De vostre tres-humble, tres-obeïssant, &amp; tres-fidelle serviteur <hi rend="sc">Jean Ribou</hi>.</p>
       </div>
@@ -1393,7 +1393,7 @@
           <stage>ISCARIE, ISABELLE,</stage>
           <sp xml:id="I01-1" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p xml:id="pb1">Que l’attente d’Artemise, me cause de <ref target="#chagrin">chagrin*</ref>, je suis la personne du monde la plus impatiente. Allez luy dire que je suis dans le dernier<note n="217" place="bottom"><hi rend="i">Dernier</hi> : « se dit aussi des deux extrémités en bien et en mal qui se trouvent dans les choses » (Furetière). La construction superlative avait été relevée par Molière comme étant caractéristique du jargon précieux (« Cela est du dernier bourgeois ») et  Somaize en use à loisir.</note><ref target="#emportement">emportement*</ref> de ne la point voir<note n="218" place="bottom"> La première réplique d’Iscarie met immédiatement en place la convocation d’un langage extravagant, dont le développement est la pierre de touche de la pièce.</note>.<pb n="2" xml:id="pb2"/></p>
+            <p xml:id="pb1">Que l’attente d’Artemise, me cause de <ref target="#chagrin">chagrin</ref>, je suis la personne du monde la plus impatiente. Allez luy dire que je suis dans le dernier<note n="217" place="bottom"><hi rend="i">Dernier</hi> : « se dit aussi des deux extrémités en bien et en mal qui se trouvent dans les choses » (Furetière). La construction superlative avait été relevée par Molière comme étant caractéristique du jargon précieux (« Cela est du dernier bourgeois ») et  Somaize en use à loisir.</note><ref target="#emportement">emportement</ref> de ne la point voir<note n="218" place="bottom"> La première réplique d’Iscarie met immédiatement en place la convocation d’un langage extravagant, dont le développement est la pierre de touche de la pièce.</note>.<pb n="2" xml:id="pb2"/></p>
           </sp>
           <sp xml:id="I01-2" who="isabelle">
             <speaker>Isabelle.</speaker>
@@ -1406,7 +1406,7 @@
           <sp xml:id="I02-1" who="iscarie">
             <speaker>Iscarie<note n="220" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « <hi rend="sc">Iscarie</hi>
                 <hi rend="i">continuë.</hi> »</note>.</speaker>
-            <p>Vrayment ma chere<note n="221" place="bottom"> On relève sept occurrences de cette apostrophe perçue comme typiquement « précieuse » et affectée par les contemporains. </note> je suis en humeur de <ref target="#pousser">pousser*</ref> le dernier rude<note n="222" place="bottom"> Le français classique dit aussi bien « être d’humeur de » qu’« être en humeur de ». – Somaize substantive l’adjectif « rude », qui comporte les sèmes de la rigueur et de la sévérité. </note><hi rend="sup">a</hi> contre vous, vous n’avez guere d’exactitude dans vos promesses, le temps a desja marqué deux pas<hi rend="sup">b</hi> depuis que je vous attends.</p>
+            <p>Vrayment ma chere<note n="221" place="bottom"> On relève sept occurrences de cette apostrophe perçue comme typiquement « précieuse » et affectée par les contemporains. </note> je suis en humeur de <ref target="#pousser">pousser</ref> le dernier rude<note n="222" place="bottom"> Le français classique dit aussi bien « être d’humeur de » qu’« être en humeur de ». – Somaize substantive l’adjectif « rude », qui comporte les sèmes de la rigueur et de la sévérité. </note><hi rend="sup">a</hi> contre vous, vous n’avez guere d’exactitude dans vos promesses, le temps a desja marqué deux pas<hi rend="sup">b</hi> depuis que je vous attends.</p>
             <p>(a De me mettre en colère ; b Deux heures.)</p>
           </sp>
           <sp xml:id="I02-2" who="artemise">
@@ -1419,7 +1419,7 @@
           </sp>
           <sp xml:id="I02-4" who="artemise">
             <speaker>Artemise.</speaker>
-            <p>Il s’appelle le Marquis de Mazarcantara, il sçait tout à fait l’<ref target="#air">air*</ref> de la ruëlle<note n="224" place="bottom"> Des salons : <hi rend="i">ruelle</hi> se dit de « l’espace qu’on laisse entre un lit et la muraille » et, par extension, « des alcôves, et des lieux parez où les Dames reçoivent leurs visites, soit dans le lit, soit sur des sièges. Les galants, se piquent d’être gens de ruelles, d’aller faire de belles visites. Les Poètes vont lire leurs ouvrages dans les ruelles, pour briguer l’approbation des Dames » (Furetière). </note>, c’est un Galand<note n="225" place="bottom"> On retrouve la même confusion que chez Molière entre préciosité et galanterie. Le galant est celui qui fréquente les milieux mondains et en maîtrise les codes, grâce auxquels il est admis dans les cercles où sa présence enjouée séduit les dames.</note> de plein pied<hi rend="sup">c</hi> qui s’explicque sans aucune incertitude,<hi rend="sup">d</hi><note n="226" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : au lieu de « c’est un Galand de plein pied<hi rend="sup">c</hi> qui s’explicque sans aucune incertitude », on a : « il s’explique sans aucune incertitude » (la note c. disparaît). </note> &amp; je n’ay jamais veu d’homme qui dise les choses plus congrüment<note n="227" place="bottom"> Qui parle plus correctement. L’expression est consacrée ; en revanche, Molière avait détourné le mot de façon burlesque pour en faire un adjectif (« congruante »).</note>. J'ay pourtant remarqué un deffaut en luy qui m’a pensé faire<hi rend="sup">e</hi> perdre mon serieux<note n="228" place="bottom"><hi rend="i">Penser</hi> peut signifier « être prêt de faire quelque chose » (Furetière). Comprendre : qui a failli me faire rire. </note>.</p>
+            <p>Il s’appelle le Marquis de Mazarcantara, il sçait tout à fait l’<ref target="#air">air</ref> de la ruëlle<note n="224" place="bottom"> Des salons : <hi rend="i">ruelle</hi> se dit de « l’espace qu’on laisse entre un lit et la muraille » et, par extension, « des alcôves, et des lieux parez où les Dames reçoivent leurs visites, soit dans le lit, soit sur des sièges. Les galants, se piquent d’être gens de ruelles, d’aller faire de belles visites. Les Poètes vont lire leurs ouvrages dans les ruelles, pour briguer l’approbation des Dames » (Furetière). </note>, c’est un Galand<note n="225" place="bottom"> On retrouve la même confusion que chez Molière entre préciosité et galanterie. Le galant est celui qui fréquente les milieux mondains et en maîtrise les codes, grâce auxquels il est admis dans les cercles où sa présence enjouée séduit les dames.</note> de plein pied<hi rend="sup">c</hi> qui s’explicque sans aucune incertitude,<hi rend="sup">d</hi><note n="226" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : au lieu de « c’est un Galand de plein pied<hi rend="sup">c</hi> qui s’explicque sans aucune incertitude », on a : « il s’explique sans aucune incertitude » (la note c. disparaît). </note> &amp; je n’ay jamais veu d’homme qui dise les choses plus congrüment<note n="227" place="bottom"> Qui parle plus correctement. L’expression est consacrée ; en revanche, Molière avait détourné le mot de façon burlesque pour en faire un adjectif (« congruante »).</note>. J'ay pourtant remarqué un deffaut en luy qui m’a pensé faire<hi rend="sup">e</hi> perdre mon serieux<note n="228" place="bottom"><hi rend="i">Penser</hi> peut signifier « être prêt de faire quelque chose » (Furetière). Comprendre : qui a failli me faire rire. </note>.</p>
             <p rend="sub">(c Bien fait ; d Hesiter ; e Rire) </p>
           </sp>
           <sp xml:id="I02-5" who="iscarie">
@@ -1440,7 +1440,7 @@
           </sp>
           <sp xml:id="I02-9" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p>Je croy que vous avez <ref target="#dessein">dessein*</ref> de faire bien des assauts d’<ref target="#appas">appas*</ref>,<hi rend="sup">f</hi> je vous trouve dans vostre bel aymable,<hi rend="sup">g</hi> l’invisible n’a pas encore gasté l’æconomie de vostre teste,<hi rend="sup">h</hi> vous ne fustes jamais mieux sous les armes<hi rend="sup">i</hi> que vous estes, que vos tasches advantageuses sont bien placées,<hi rend="sup">k</hi> que vos graces donnent d’esclat<pb n="6" xml:id="pb6"/>à vostre <ref target="#col">col*</ref><hi rend="sup">l</hi> &amp; que les tenebres<hi rend="sup">m</hi> qui environnent vostre teste relevent bien la blancheur de ce beau tout.</p>
+            <p>Je croy que vous avez <ref target="#dessein">dessein</ref> de faire bien des assauts d’<ref target="#appas">appas</ref>,<hi rend="sup">f</hi> je vous trouve dans vostre bel aymable,<hi rend="sup">g</hi> l’invisible n’a pas encore gasté l’æconomie de vostre teste,<hi rend="sup">h</hi> vous ne fustes jamais mieux sous les armes<hi rend="sup">i</hi> que vous estes, que vos tasches advantageuses sont bien placées,<hi rend="sup">k</hi> que vos graces donnent d’esclat<pb n="6" xml:id="pb6"/>à vostre <ref target="#col">col</ref><hi rend="sup">l</hi> &amp; que les tenebres<hi rend="sup">m</hi> qui environnent vostre teste relevent bien la blancheur de ce beau tout.</p>
             <p>
               <hi rend="sub">(f Des conquestes ; g Belle ; h Le vent n’a point desfrisé vos cheveux ; i Habillée ; k Vos mouches</hi>
               <note n="231" place="bottom"> La mouche est un « petit morceau de taffetas ou de velours noir, que les Dames mettent sur leur visage par ornement, ou pour faire paraitre leur teint plus blanc » (Furetière).</note>
@@ -1449,12 +1449,12 @@
           </sp>
           <sp xml:id="I02-10" who="artemise">
             <speaker>Artemise.</speaker>
-            <p>Ah ! ma chere, vous faites trop de despence en beaux discours<hi rend="sup">n</hi> pour me dauber<note n="232" place="bottom"><hi rend="i">Dauber</hi> : littéralement, « battre sur le dos à coups de poings ». « Signifie figurément, médire de quelqu’un, le railler en son absence » (Furetière) – <hi rend="i">sérieusement</hi> : tout de bon.</note> serieusement ;º mais n’importe tout vous est licite &amp; l’<ref target="#empire">empire*</ref> que vous avez sur mon esprit fait que je n’excite pas mon fier contre vous.<hi rend="sup">p</hi></p>
+            <p>Ah ! ma chere, vous faites trop de despence en beaux discours<hi rend="sup">n</hi> pour me dauber<note n="232" place="bottom"><hi rend="i">Dauber</hi> : littéralement, « battre sur le dos à coups de poings ». « Signifie figurément, médire de quelqu’un, le railler en son absence » (Furetière) – <hi rend="i">sérieusement</hi> : tout de bon.</note> serieusement ;º mais n’importe tout vous est licite &amp; l’<ref target="#empire">empire</ref> que vous avez sur mon esprit fait que je n’excite pas mon fier contre vous.<hi rend="sup">p</hi></p>
             <p>(n Dites trop de belles choses.; o Pour me railler ; p Que je ne me mets pas en colere.)</p>
           </sp>
           <sp xml:id="I02-11" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p>Ce que vous me dites là est du dernier <ref target="#obligeant">obligeant*</ref> ; mais si vous voulez que je vous donne un quart d’heure de divertissement, entrons dans mon cabinet je vous feray voir un innocent<hi rend="sup">q</hi><pb n="7" xml:id="pb7"/> que l’on m’a envoyé ; dont l’encombrement du stil<note n="233" place="bottom"> Orthographe archaïque du mot, que l’on trouve recensée dans le Godefroy (« ESTILE, s.m : <hi rend="i">estille, stille, style, stil, setille</hi>, manière d’être, de faire, d’employer »). Toutes les autres occurrences de la pièce sont orthographiées <hi rend="i">stile</hi>.</note>, est capable de faire changer l’assiette de vostre ame<note n="234" place="bottom"> L’un des traits mis en exergue dans les rares textes qui s’attachent à décrire la prétendue société précieuse est celui de l’intérêt pour les choses littéraires, intérêt qui se développe réellement dans la société féminine mondaine à cette époque et qui est relativement nouveau. <space/></note>.</p>
+            <p>Ce que vous me dites là est du dernier <ref target="#obligeant">obligeant</ref> ; mais si vous voulez que je vous donne un quart d’heure de divertissement, entrons dans mon cabinet je vous feray voir un innocent<hi rend="sup">q</hi><pb n="7" xml:id="pb7"/> que l’on m’a envoyé ; dont l’encombrement du stil<note n="233" place="bottom"> Orthographe archaïque du mot, que l’on trouve recensée dans le Godefroy (« ESTILE, s.m : <hi rend="i">estille, stille, style, stil, setille</hi>, manière d’être, de faire, d’employer »). Toutes les autres occurrences de la pièce sont orthographiées <hi rend="i">stile</hi>.</note>, est capable de faire changer l’assiette de vostre ame<note n="234" place="bottom"> L’un des traits mis en exergue dans les rares textes qui s’attachent à décrire la prétendue société précieuse est celui de l’intérêt pour les choses littéraires, intérêt qui se développe réellement dans la société féminine mondaine à cette époque et qui est relativement nouveau. <space/></note>.</p>
             <p><hi rend="sub">(q Poulet</hi><note n="235" place="bottom"><hi rend="i">Poulet</hi> : « Petit billet amoureux qu’on envoye aux Dames galantes, ainsi nommé, parce qu’en le pliant on y faisait deux pointes qui représentaient les ailes d’un poulet. Autrefois les prudes faisaient grand scrupule de recevoir des <hi rend="i">poulets</hi>; maintenant elles en ont de pleines cassettes. On les appelle à présent <hi rend="i">billets galants, billets doux</hi> » (Furetière).</note>)</p>
           </sp>
         </div>
@@ -1464,11 +1464,11 @@
           <stage>BEATRIX, ISABELLE.</stage>
           <sp xml:id="I03-1" who="beatrix">
             <speaker>Beatrix.</speaker>
-            <p><hi rend="sc">Dites</hi> moy donc ; quelle langue est-ce que parlent nos Maistresses ; ma foy je n’<ref target="#entendre1">entends*</ref> point ce jargon &amp; s’il faut qu’elles continuënt à parler de la sorte, elles seront contraintes de nous donner un Maistre pour apprendre ce langage<note n="236" place="bottom"> Var.2<hi rend="sup">nde</hi> éd. : insertion d’une virgule, ainsi qu’à la réplique suivante après « Pretieuse ». </note> &amp; de nous remettre à l’abc.</p>
+            <p><hi rend="sc">Dites</hi> moy donc ; quelle langue est-ce que parlent nos Maistresses ; ma foy je n’<ref target="#entendre1">entends</ref> point ce jargon &amp; s’il faut qu’elles continuënt à parler de la sorte, elles seront contraintes de nous donner un Maistre pour apprendre ce langage<note n="236" place="bottom"> Var.2<hi rend="sup">nde</hi> éd. : insertion d’une virgule, ainsi qu’à la réplique suivante après « Pretieuse ». </note> &amp; de nous remettre à l’abc.</p>
           </sp>
           <sp xml:id="I03-2" who="isabelle">
             <speaker>Isabelle.</speaker>
-            <p>Que vous<pb n="9" xml:id="pb9"/> avez peu de lumiere &amp; que vostre esprit est opaque<note n="237" place="bottom"> La métaphore de l’obscurité de l’esprit figure déjà dans les <hi rend="i">Précieuses ridicules</hi>, où elle semblait être une création de Molière. Somaize reprend également celle de l’épaisseur de l’esprit (voir plus bas). </note>. Est-il possible ! que vous ayez demeuré si long-temps chez une Pretieuse<note n="238" place="bottom"> Alors que chez Molière, la préciosité laissait très rapidement la place à la notion de galanterie, les termes renvoyant explicitement aux précieuses restent nombreux tout au long de la pièce de Somaize, qui feint de les dépeindre véritablement, là où Molière semblait avoir conscience de leur nature chimérique et cachait derrière cette mascarade une caricature du galant.  </note> &amp; que vous n’ayez pas encore pris aucune <ref target="#teinture">teinture*</ref> de l’elegance de leur stile.</p>
+            <p>Que vous<pb n="9" xml:id="pb9"/> avez peu de lumiere &amp; que vostre esprit est opaque<note n="237" place="bottom"> La métaphore de l’obscurité de l’esprit figure déjà dans les <hi rend="i">Précieuses ridicules</hi>, où elle semblait être une création de Molière. Somaize reprend également celle de l’épaisseur de l’esprit (voir plus bas). </note>. Est-il possible ! que vous ayez demeuré si long-temps chez une Pretieuse<note n="238" place="bottom"> Alors que chez Molière, la préciosité laissait très rapidement la place à la notion de galanterie, les termes renvoyant explicitement aux précieuses restent nombreux tout au long de la pièce de Somaize, qui feint de les dépeindre véritablement, là où Molière semblait avoir conscience de leur nature chimérique et cachait derrière cette mascarade une caricature du galant.  </note> &amp; que vous n’ayez pas encore pris aucune <ref target="#teinture">teinture</ref> de l’elegance de leur stile.</p>
           </sp>
           <sp xml:id="I03-3" who="beatrix">
             <speaker>Beatrix.</speaker>
@@ -1476,11 +1476,11 @@
           </sp>
           <sp xml:id="I03-4" who="isabelle">
             <speaker>Isabelle.</speaker>
-            <p>Ah ! pleust à Dieu que je pusse estre l’inventrice, comme je ne suis que l’echo de ces mots graves &amp; empoullez qui par un sens <ref target="#misterieux">misterieux*</ref> estallent la vraye &amp; pure signification des choses<note n="240" place="bottom"> Ce serait là une définition de l’essence du « langage précieux », qui élèverait au spirituel et mènerait par le biais de mots alambiqués à une compréhension élevée des choses. On retrouve la même assertion plus bas dans la bouche de Flanquin : « la méthode de s’exprimer dont on se sert maintenant (…) est tout à fait dégagée de la matière » (p.[18]). On attribue en effet aux soit-disant précieuses une position philosophique de spiritualisme éthéré, négateur des réalités matérielles, d’où l’intrusion du « mystère ». </note>.<pb n="10" xml:id="pb10"/></p>
+            <p>Ah ! pleust à Dieu que je pusse estre l’inventrice, comme je ne suis que l’echo de ces mots graves &amp; empoullez qui par un sens <ref target="#misterieux">misterieux</ref> estallent la vraye &amp; pure signification des choses<note n="240" place="bottom"> Ce serait là une définition de l’essence du « langage précieux », qui élèverait au spirituel et mènerait par le biais de mots alambiqués à une compréhension élevée des choses. On retrouve la même assertion plus bas dans la bouche de Flanquin : « la méthode de s’exprimer dont on se sert maintenant (…) est tout à fait dégagée de la matière » (p.[18]). On attribue en effet aux soit-disant précieuses une position philosophique de spiritualisme éthéré, négateur des réalités matérielles, d’où l’intrusion du « mystère ». </note>.<pb n="10" xml:id="pb10"/></p>
           </sp>
           <sp xml:id="I03-5" who="beatrix">
             <speaker>Beatrix.</speaker>
-            <p>He ! bien puisque vous avez cette pensée, l’envie me prend de <ref target="#disputer">disputer*</ref> contre vous : aussi bien puisque ce langage n’est inventé que par la fantaisie de certaines femmes<note n="241" place="bottom"> Les précieuses passent pour constituer un groupe cabalistique, réduit à quelques élues. Mais à cause du vague même de la définition de la préciosité, totalement fantasmatique, on verra s’élargir progressivement leur nombre : à lire son <hi rend="i">Grand Dictionnaire des précieuses</hi>, on constate que Somaize finit par reconnaître en chaque femme une précieuse et que leur groupe ne se réduit non plus à « certaines femmes » mais à quelques centaines…</note>, une femme peut bien disputer contre sans que cela paroisse extraordinaire, &amp; pour vous monstrer qu’il n’y a rien de plus extravagant que cette façon de parler, je m’en vais vous dire de certains mots que j’ay retenus qui choquent tout à fait nostre langue naturelle<note n="242" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « Hé bien ! puisque vous avez cette pensée, l’envie me prend de disputer contre vous : &amp; pour vous monstrer qu’il n’y a rien de plus extravagant que cette façon de parler, je m’en vais vous dire de certains mots que j’ay retenus qui choquent tout  fait nostre langue naturelle. »</note>.</p>
+            <p>He ! bien puisque vous avez cette pensée, l’envie me prend de <ref target="#disputer">disputer</ref> contre vous : aussi bien puisque ce langage n’est inventé que par la fantaisie de certaines femmes<note n="241" place="bottom"> Les précieuses passent pour constituer un groupe cabalistique, réduit à quelques élues. Mais à cause du vague même de la définition de la préciosité, totalement fantasmatique, on verra s’élargir progressivement leur nombre : à lire son <hi rend="i">Grand Dictionnaire des précieuses</hi>, on constate que Somaize finit par reconnaître en chaque femme une précieuse et que leur groupe ne se réduit non plus à « certaines femmes » mais à quelques centaines…</note>, une femme peut bien disputer contre sans que cela paroisse extraordinaire, &amp; pour vous monstrer qu’il n’y a rien de plus extravagant que cette façon de parler, je m’en vais vous dire de certains mots que j’ay retenus qui choquent tout à fait nostre langue naturelle<note n="242" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « Hé bien ! puisque vous avez cette pensée, l’envie me prend de disputer contre vous : &amp; pour vous monstrer qu’il n’y a rien de plus extravagant que cette façon de parler, je m’en vais vous dire de certains mots que j’ay retenus qui choquent tout  fait nostre langue naturelle. »</note>.</p>
           </sp>
           <sp xml:id="I03-6" who="isabelle">
             <speaker>Isabelle.</speaker>
@@ -1488,19 +1488,19 @@
           </sp>
           <sp xml:id="I03-7" who="beatrix">
             <speaker>Beatrix.</speaker>
-            <p>Bon<note n="244" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : le mot est supprimé.</note>, je suis ravie que vous ayés des indulgences chés vous, j’avais fait <ref target="#dessein">dessein*</ref> d’en aller querir à Rome ; mais vous m’espargnez cette peine<note n="245" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « vous m’espargnez la peine d’en aller querir à Rome ». – Bon mot qui repose sur le double sens d’ « indulgence » et convoque un sujet sensible à l’époque, celui du trafic des Indulgences dans l’Eglise romaine. </note>.</p>
+            <p>Bon<note n="244" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : le mot est supprimé.</note>, je suis ravie que vous ayés des indulgences chés vous, j’avais fait <ref target="#dessein">dessein</ref> d’en aller querir à Rome ; mais vous m’espargnez cette peine<note n="245" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « vous m’espargnez la peine d’en aller querir à Rome ». – Bon mot qui repose sur le double sens d’ « indulgence » et convoque un sujet sensible à l’époque, celui du trafic des Indulgences dans l’Eglise romaine. </note>.</p>
           </sp>
           <sp xml:id="I03-8" who="isabelle">
             <speaker>Isabelle.</speaker>
-            <p>Voila une superfluité<note n="246" place="bottom"> « Ce qui est de trop, qui est inutile, dont on se pourrait aisément passer. Le sage est ennemi de la superfluité. Les mondains ne font parade que de superfluitez » (Furetière). Là où un discours rationnel doit éviter toute superfluité et toute redondance, les précieuses se flattent d’orner les leurs de ces « superfluités », bons mots et autres subtilités, mais qui doivent toujours arriver à-propos. </note> dite à contre-temps, venez à vostre <ref target="#dispute">dispute*</ref> &amp; n’alambiquez point mon esprit de fadaises<note n="247" place="bottom"> « Qui ne se dit que dans cette expression figurée, <hi rend="i">s’alembiquer l’esprit</hi>, pour dire, appliquer fortement son esprit à quelque étude, à chercher quelque invention nouvelle » (Furetière). Cependant, à prendre ici au sens de « s’embarrasser l’esprit » (Richelet). – <hi rend="i">Fadaise</hi> : « sottise, bagatelle » (Furetière). </note>.</p>
+            <p>Voila une superfluité<note n="246" place="bottom"> « Ce qui est de trop, qui est inutile, dont on se pourrait aisément passer. Le sage est ennemi de la superfluité. Les mondains ne font parade que de superfluitez » (Furetière). Là où un discours rationnel doit éviter toute superfluité et toute redondance, les précieuses se flattent d’orner les leurs de ces « superfluités », bons mots et autres subtilités, mais qui doivent toujours arriver à-propos. </note> dite à contre-temps, venez à vostre <ref target="#dispute">dispute</ref> &amp; n’alambiquez point mon esprit de fadaises<note n="247" place="bottom"> « Qui ne se dit que dans cette expression figurée, <hi rend="i">s’alembiquer l’esprit</hi>, pour dire, appliquer fortement son esprit à quelque étude, à chercher quelque invention nouvelle » (Furetière). Cependant, à prendre ici au sens de « s’embarrasser l’esprit » (Richelet). – <hi rend="i">Fadaise</hi> : « sottise, bagatelle » (Furetière). </note>.</p>
           </sp>
           <sp xml:id="I03-9" who="beatrix">
             <speaker>Beatrix.</speaker>
-            <p>Sça<note n="248" place="bottom"> Les deux éditions présentent la même orthographe surprenante, que l’on retrouve plus bas (p. [42]).</note> dites moy ! s’il y a rien de plus ridicule que de nommer un lavement<note n="249" place="bottom"><hi rend="i">Lavement</hi> : « petit remède qu’on prend par le fondement. Il est composé de décoction, d’herbes laxatives, (…) auxquelles on ajoute du miel, et autrefois du sucre rouge. On en fait aussi avec du lait et de l’eau simple, pour rafraîchir, pour lâcher le ventre. Beaucoup de gens en prennent par délicatesse pour se conserver le teint frais, et le ventre libre » (Furetière).</note> le boüillon des deux sœurs. A-t’on jamais ouy dire qu’un Me-/<pb n="12" xml:id="pb12"/>/decin est un Bastard d’Hypocrate<note n="250" place="bottom"> Médecin grec du V<hi rend="sup">e</hi> siècle av. J.-C., considéré comme étant le « père de la médecine » : la médecine hippocratique constitue le fondement des connaissances médicales au siècle classique.</note> : Voyla bien honorer la Medecine ma foy &amp; c’est là le moyen d’encourager ces Messieurs les Medecins à nous tirer des bras du vieil resveur, ou plustost de l’Empire de Morphée<note n="251" place="bottom"> Rappelons que Morphée est, dans la mythologie grecque, la divinité du sommeil.</note>, ou pour mieux m’expliquer du lict, à qui vos sçavantes ont donné ces noms. C'est encore assez bien <ref target="#debuter">debutter*</ref> que de nommer les pieds, les chers souffrans, le boire<note n="252" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : insertion d’une virgule, ainsi qu’après « necessaire » et « pain ».</note> le cher necessaire &amp; d’appeller le potage l’union des deux Elemens. A quoy bon !<note n="253" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : ce point d’exclamation est déplacé après « obscuritez », en lieu et place de la virgule.</note> toutes ces obscuritez, &amp; pourquoy dire en quatre mots ce que nous disons en deux. Est-ce qu’il ne seroit pas mieux dit, soufflez ce feu ? que, excitez cet Element combustible ? donnez moy du pain que, apportez le<pb n="B 13" xml:id="pb13"/> soutien de la vie, voyla une maison, que de dire voyla une garde necessaire, &amp; seriez vous bien assez opiniastre pour me vouloir soustenir que le pot de chambre que vous nommez l’urinal virginal<note n="254" place="bottom"> Contrairement au prosaïque « pot de chambre », « l’urinal » est un terme spécifique à la médecine qui désigne «  une sorte de vase qui est ordinairement fait d’un verre clair et net, qui a souvent de l’air des parties naturelles de l’homme qu’on donne aux hommes pour pisser lorsqu’ils sont malades afin d’en garder l’urine, et la montrer à Monsieur le Médecin qui tout au hazard en fera ses conjectures » (Richelet). La langue précieuse emprunte à des disciplines scientifiques leurs termes spécifiques et techniques qui, mêlés à des périphrases poétiques, visent à donner naissance à un langage sophistiqué.</note>, l’est encorre, quand les filles &amp; les garçons ont donné dans l’amour permis, qui est selon le langage de vos Pretieuses le mariage.</p>
+            <p>Sça<note n="248" place="bottom"> Les deux éditions présentent la même orthographe surprenante, que l’on retrouve plus bas (p. [42]).</note> dites moy ! s’il y a rien de plus ridicule que de nommer un lavement<note n="249" place="bottom"><hi rend="i">Lavement</hi> : « petit remède qu’on prend par le fondement. Il est composé de décoction, d’herbes laxatives, (…) auxquelles on ajoute du miel, et autrefois du sucre rouge. On en fait aussi avec du lait et de l’eau simple, pour rafraîchir, pour lâcher le ventre. Beaucoup de gens en prennent par délicatesse pour se conserver le teint frais, et le ventre libre » (Furetière).</note> le boüillon des deux sœurs. A-t’on jamais ouy dire qu’un Me-/<pb n="12" xml:id="pb12"/>/decin est un Bastard d’Hypocrate<note n="250" place="bottom"> Médecin grec du V<hi rend="sup">e</hi> siècle av. J.-C., considéré comme étant le « père de la médecine » : la médecine hippocratique constitue le fondement des connaissances médicales au siècle classique.</note> : Voyla bien honorer la Medecine ma foy &amp; c’est là le moyen d’encourager ces Messieurs les Medecins à nous tirer des bras du vieil resveur, ou plustost de l’Empire de Morphée<note n="251" place="bottom"> Rappelons que Morphée est, dans la mythologie grecque, la divinité du sommeil.</note>, ou pour mieux m’expliquer du lict, à qui vos sçavantes ont donné ces noms. C'est encore assez bien <ref target="#debuter">debutter</ref> que de nommer les pieds, les chers souffrans, le boire<note n="252" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : insertion d’une virgule, ainsi qu’après « necessaire » et « pain ».</note> le cher necessaire &amp; d’appeller le potage l’union des deux Elemens. A quoy bon !<note n="253" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : ce point d’exclamation est déplacé après « obscuritez », en lieu et place de la virgule.</note> toutes ces obscuritez, &amp; pourquoy dire en quatre mots ce que nous disons en deux. Est-ce qu’il ne seroit pas mieux dit, soufflez ce feu ? que, excitez cet Element combustible ? donnez moy du pain que, apportez le<pb n="B 13" xml:id="pb13"/> soutien de la vie, voyla une maison, que de dire voyla une garde necessaire, &amp; seriez vous bien assez opiniastre pour me vouloir soustenir que le pot de chambre que vous nommez l’urinal virginal<note n="254" place="bottom"> Contrairement au prosaïque « pot de chambre », « l’urinal » est un terme spécifique à la médecine qui désigne «  une sorte de vase qui est ordinairement fait d’un verre clair et net, qui a souvent de l’air des parties naturelles de l’homme qu’on donne aux hommes pour pisser lorsqu’ils sont malades afin d’en garder l’urine, et la montrer à Monsieur le Médecin qui tout au hazard en fera ses conjectures » (Richelet). La langue précieuse emprunte à des disciplines scientifiques leurs termes spécifiques et techniques qui, mêlés à des périphrases poétiques, visent à donner naissance à un langage sophistiqué.</note>, l’est encorre, quand les filles &amp; les garçons ont donné dans l’amour permis, qui est selon le langage de vos Pretieuses le mariage.</p>
           </sp>
           <sp xml:id="I03-10" who="isabelle">
             <speaker>Isabelle.</speaker>
-            <p>En verité vostre <ref target="#desordre">desordre*</ref> est terrible<note n="255" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « <hi rend="sc">Isabelle</hi> : En verité vostre desordre est terrible./ <hi rend="sc">Beatrix</hi> : Il n’est pas encore temps de m’interrompre./ <hi rend="sc">Isabelle</hi> : Poursuivez donc. » </note> &amp; me jette dans une souffrance inconcevable.</p>
+            <p>En verité vostre <ref target="#desordre">desordre</ref> est terrible<note n="255" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « <hi rend="sc">Isabelle</hi> : En verité vostre desordre est terrible./ <hi rend="sc">Beatrix</hi> : Il n’est pas encore temps de m’interrompre./ <hi rend="sc">Isabelle</hi> : Poursuivez donc. » </note> &amp; me jette dans une souffrance inconcevable.</p>
           </sp>
           <sp xml:id="I03-11" who="beatrix">
             <speaker>Beatrix.</speaker>
@@ -1512,7 +1512,7 @@
           </sp>
           <sp xml:id="I03-13" who="beatrix">
             <speaker>Beatrix.</speaker>
-            <p>Je vous dis encor, que quoy que vous puissiez dire, qu’il n’y a rien de plus insupportable que de nommer les dents un ameublement de bouche &amp; de dire, pour faire voir que l’on a long-temps <ref target="#balancer">balancé*</ref> à faire une chose, qu’il est monté des incertitudes à la gorge. Dites moy ! un peu<note n="256" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « Dites-moy un peu ! »</note>, y a-t’il aucun sens à cela, non plus que de dire qu’une femme a des absences de raison pour explicquer qu’elle est jeune, &amp; dites moy enfin s’il y a rien<pb n="15" xml:id="pb15"/>de plus extravagant que d’appeller des traistres, les Paravants, le Miroir<note n="257" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : virgule, ainsi qu’après « porte ».</note> un Peintre de la dernierre fidellité, un Esvantail un Zephir<note n="258" place="bottom"><hi rend="i">Zephir</hi> : « se dit poëtiquement des vents doux et agréables, et de ceux qui viennent au printemps » (Furetière).</note>, &amp; une Porte la fidelle gardienne. Si par hazard un Jaloux qui auroit fermé une porte sus sa femme &amp; en auroit la clef, estoit trompé par un Galand qui en auroit une fausse, doit-il ! venant à sçavoir la chose appeller encorre<note n="259" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : l’adverbe « encorre » disparaît.</note> la porte la fidelle gardienne. Je pourois vous en dire encor quantité ; mais je mesprise si fort cette façon de parler que je ne m’en sçaurois donner la peine<note n="260" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « Je pourrois vous en dire encore quantité ; mais je ne m’en sçaurois donner la peine. »</note>.</p>
+            <p>Je vous dis encor, que quoy que vous puissiez dire, qu’il n’y a rien de plus insupportable que de nommer les dents un ameublement de bouche &amp; de dire, pour faire voir que l’on a long-temps <ref target="#balancer">balancé</ref> à faire une chose, qu’il est monté des incertitudes à la gorge. Dites moy ! un peu<note n="256" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « Dites-moy un peu ! »</note>, y a-t’il aucun sens à cela, non plus que de dire qu’une femme a des absences de raison pour explicquer qu’elle est jeune, &amp; dites moy enfin s’il y a rien<pb n="15" xml:id="pb15"/>de plus extravagant que d’appeller des traistres, les Paravants, le Miroir<note n="257" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : virgule, ainsi qu’après « porte ».</note> un Peintre de la dernierre fidellité, un Esvantail un Zephir<note n="258" place="bottom"><hi rend="i">Zephir</hi> : « se dit poëtiquement des vents doux et agréables, et de ceux qui viennent au printemps » (Furetière).</note>, &amp; une Porte la fidelle gardienne. Si par hazard un Jaloux qui auroit fermé une porte sus sa femme &amp; en auroit la clef, estoit trompé par un Galand qui en auroit une fausse, doit-il ! venant à sçavoir la chose appeller encorre<note n="259" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : l’adverbe « encorre » disparaît.</note> la porte la fidelle gardienne. Je pourois vous en dire encor quantité ; mais je mesprise si fort cette façon de parler que je ne m’en sçaurois donner la peine<note n="260" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « Je pourrois vous en dire encore quantité ; mais je ne m’en sçaurois donner la peine. »</note>.</p>
           </sp>
           <sp xml:id="I03-14" who="isabelle">
             <speaker>Isabelle.</speaker>
@@ -1546,7 +1546,7 @@
           </sp>
           <sp xml:id="I04-5" who="flanquin">
             <speaker>Flanquin.</speaker>
-            <p>Il faut avoüer, que la <ref target="#methode">methode*</ref> de s’exprimer dont on se sert maintenant est une chose qui sert merveilleusement à nous distinguer du commun, &amp; est tout à fait desgagée de la matierre, &amp; à dire le vray, c’est quelque chose de bien satisfaisant de pouvoir fendre la presse<note n="263" place="bottom"> Percer la foule, se faire un nom (expression militaire).</note> &amp; de faire quelque nombre parmy les gens canonisez dans les ruëlles.</p>
+            <p>Il faut avoüer, que la <ref target="#methode">methode</ref> de s’exprimer dont on se sert maintenant est une chose qui sert merveilleusement à nous distinguer du commun, &amp; est tout à fait desgagée de la matierre, &amp; à dire le vray, c’est quelque chose de bien satisfaisant de pouvoir fendre la presse<note n="263" place="bottom"> Percer la foule, se faire un nom (expression militaire).</note> &amp; de faire quelque nombre parmy les gens canonisez dans les ruëlles.</p>
           </sp>
           <sp xml:id="I04-6" who="beatrix">
             <speaker>Beatrix.</speaker>
@@ -1554,8 +1554,8 @@
           </sp>
           <sp xml:id="I04-7" who="flanquin">
             <speaker>Flanquin.</speaker>
-            <p>Je vois bien que vous n’estes pas encorre instruitte de ce que je vaux, &amp; que la pauvreté de mes habits vous fait juger à mon desaventage de celle de mes pensées ; <hi rend="i">(Isabelle rentre)</hi>, mais je vous depersuaderay une autre fois. Voicy l’anthousiasme de mes yeux, l’aymant de mon Coeur, en un mot mon unique<note n="265" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : la réplique de Flanquin s’arrête ici.</note> ; il faut que je lui fasse <ref target="#connoistre">connoistre*</ref> qu’elle m’encapucine<note n="266" place="bottom"> Littéralement, recouvrir d’un capuchon. </note> l’ame &amp; qu’elle m’encendre le Coeur.<hi rend="sup">r</hi><pb n="20" xml:id="pb20"/></p>
-            <p>(r Qu’elle m’<ref target="#enflammer">enflame*</ref>.)</p>
+            <p>Je vois bien que vous n’estes pas encorre instruitte de ce que je vaux, &amp; que la pauvreté de mes habits vous fait juger à mon desaventage de celle de mes pensées ; <hi rend="i">(Isabelle rentre)</hi>, mais je vous depersuaderay une autre fois. Voicy l’anthousiasme de mes yeux, l’aymant de mon Coeur, en un mot mon unique<note n="265" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : la réplique de Flanquin s’arrête ici.</note> ; il faut que je lui fasse <ref target="#connoistre">connoistre</ref> qu’elle m’encapucine<note n="266" place="bottom"> Littéralement, recouvrir d’un capuchon. </note> l’ame &amp; qu’elle m’encendre le Coeur.<hi rend="sup">r</hi><pb n="20" xml:id="pb20"/></p>
+            <p>(r Qu’elle m’<ref target="#enflammer">enflame</ref>.)</p>
           </sp>
           <sp xml:id="I04-8" who="isabelle">
             <speaker>Isabelle.</speaker>
@@ -1571,7 +1571,7 @@
           </sp>
           <sp xml:id="I04-11" who="flanquin">
             <speaker>Flanquin.</speaker>
-            <p>Ouy, un bain interieur ou l’agrement donné entre les deux sœurs,<hi rend="sup">s</hi> peuvent maintenant empescher la metempsicose<note n="268" place="bottom"> Rappelons que la métempsychose, telle qu’elle avait notamment été théorisée par Pythagore en son temps, fait référence au « passage ou [à la] transmigration de l’âme d’un homme dans le corps d’un autre homme, ou d’une bête, lorsqu’il vient à mourir » (Furetière).</note> de mon ame, qui va bientost s’emanciper de sa demeure, si l’on ne la secourt par l’un de ces remedes, ou si vous ne <ref target="#souffrir2">souffrez*</ref> que je gouste avec vous la volupté de l’amour permis.<hi rend="sup">t</hi></p>
+            <p>Ouy, un bain interieur ou l’agrement donné entre les deux sœurs,<hi rend="sup">s</hi> peuvent maintenant empescher la metempsicose<note n="268" place="bottom"> Rappelons que la métempsychose, telle qu’elle avait notamment été théorisée par Pythagore en son temps, fait référence au « passage ou [à la] transmigration de l’âme d’un homme dans le corps d’un autre homme, ou d’une bête, lorsqu’il vient à mourir » (Furetière).</note> de mon ame, qui va bientost s’emanciper de sa demeure, si l’on ne la secourt par l’un de ces remedes, ou si vous ne <ref target="#souffrir2">souffrez</ref> que je gouste avec vous la volupté de l’amour permis.<hi rend="sup">t</hi></p>
             <p>
               <hi rend="sub">(s Lavement. ;</hi>
               <hi rend="sub">t du Mariage.)</hi>
@@ -1579,7 +1579,7 @@
           </sp>
           <sp xml:id="I04-12" who="isabelle">
             <speaker>Isabelle.</speaker>
-            <p>Voyez ! ma compagne, qu’il a bien succé<note n="269" place="bottom"><hi rend="i">Sucer</hi> « se dit figurément en choses morales » (Furetière) : c’est avoir assimilé des connaissances, des notions. </note> tout ce que la Carte de Cocquetterie luy a pû <ref target="#dogmatiser">dogmatiser*</ref> de tendresse<note n="270" place="bottom"><hi rend="i">La Carte du Royaume de Coquetterie</hi> était parue aux côtés de la <hi rend="i">Carte du Royaume des Précieuses</hi> (attribuée au Marquis de Maulévrier) dans le <hi rend="i">Recueil des pieces en prose, les plus agreables de ce temps</hi> (1658), dit « Recueil Sercy ». Celui-ci regroupait un ensemble de textes parodiques sur le thème de la préciosité, dont les fameuses <hi rend="i">Lois de la Galanterie</hi> de Charles Sorel. </note>.</p>
+            <p>Voyez ! ma compagne, qu’il a bien succé<note n="269" place="bottom"><hi rend="i">Sucer</hi> « se dit figurément en choses morales » (Furetière) : c’est avoir assimilé des connaissances, des notions. </note> tout ce que la Carte de Cocquetterie luy a pû <ref target="#dogmatiser">dogmatiser</ref> de tendresse<note n="270" place="bottom"><hi rend="i">La Carte du Royaume de Coquetterie</hi> était parue aux côtés de la <hi rend="i">Carte du Royaume des Précieuses</hi> (attribuée au Marquis de Maulévrier) dans le <hi rend="i">Recueil des pieces en prose, les plus agreables de ce temps</hi> (1658), dit « Recueil Sercy ». Celui-ci regroupait un ensemble de textes parodiques sur le thème de la préciosité, dont les fameuses <hi rend="i">Lois de la Galanterie</hi> de Charles Sorel. </note>.</p>
           </sp>
           <sp xml:id="I04-13" who="flanquin">
             <speaker>Flanquin.</speaker>
@@ -1588,7 +1588,7 @@
           </sp>
           <sp xml:id="I04-14" who="beatrix">
             <speaker>Beatrix.</speaker>
-            <p>Ce n’est pas une petite joye de voir un valet pretieux <ref target="#amour">faire l’amour*</ref><note n="272" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : cette réplique disparaît.</note>.</p>
+            <p>Ce n’est pas une petite joye de voir un valet pretieux <ref target="#amour">faire l’amour</ref><note n="272" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : cette réplique disparaît.</note>.</p>
           </sp>
           <sp xml:id="I04-15" who="isabelle">
             <speaker>Isabelle.</speaker>
@@ -1615,7 +1615,7 @@
           </sp>
           <sp xml:id="I04-20" who="flanquin">
             <speaker>Flanquin.</speaker>
-            <p>Mais j’oublie à l’opposite<note n="278" place="bottom"> En face de. Archaïsme (le dictionnaire de Godefroy précisait déjà que « cette locution est encore usitée en ce sens dans la Champagne et dans les Ardennes »).</note> de vos <ref target="#appas">appas*</ref> que la lenteur de mes chers souffrans<note n="279" place="bottom"> Périphrase prétendument « précieuse », recensée par Somaize dans son <hi rend="i">Grand Dictionnaire des précieuses</hi>, qui désigne les pieds.</note>, peut faire boüilloner<note n="280" place="bottom"> « Sortir avec impétuosité. Les sources des eaux minerales bouillonnent en sortant de leur source. Le sang bouillonne dans les veines des jeunes gens » (Furetière).</note> le benin cerveau de mon Maistre. Je m’en vais donc faire faire diette à mes yeux de leurs astres tutelaires<note n="281" place="bottom"> Priver mes yeux de la vue de ceux de mon amante. </note>.</p>
+            <p>Mais j’oublie à l’opposite<note n="278" place="bottom"> En face de. Archaïsme (le dictionnaire de Godefroy précisait déjà que « cette locution est encore usitée en ce sens dans la Champagne et dans les Ardennes »).</note> de vos <ref target="#appas">appas</ref> que la lenteur de mes chers souffrans<note n="279" place="bottom"> Périphrase prétendument « précieuse », recensée par Somaize dans son <hi rend="i">Grand Dictionnaire des précieuses</hi>, qui désigne les pieds.</note>, peut faire boüilloner<note n="280" place="bottom"> « Sortir avec impétuosité. Les sources des eaux minerales bouillonnent en sortant de leur source. Le sang bouillonne dans les veines des jeunes gens » (Furetière).</note> le benin cerveau de mon Maistre. Je m’en vais donc faire faire diette à mes yeux de leurs astres tutelaires<note n="281" place="bottom"> Priver mes yeux de la vue de ceux de mon amante. </note>.</p>
           </sp>
           <sp xml:id="I04-21" who="isabelle">
             <speaker>Isabelle.</speaker>
@@ -1636,12 +1636,12 @@
           <stage>ARTEMISE, ISCARIE, </stage>
           <stage>BEATRIX, ISABELLE.</stage>
           <sp xml:id="I05-1" who="artemise">
-            <speaker>Artemise. <hi rend="i">(tenant un papier à la main.)</hi><note n="284" place="bottom"> Artémise et Iscarie s’étaient isolées dans le cabinet de cette dernière pour y lire le billet en question.</note></speaker>
+            <speaker>Artemise. <note n="284" place="bottom"> Artémise et Iscarie s’étaient isolées dans le cabinet de cette dernière pour y lire le billet en question.</note></speaker><stage>(tenant un papier à la main.)</stage>
             <p>Quelle pauvreté ma chere, il n’y a pas une chose raisonnable là dedans !</p>
           </sp>
           <sp xml:id="I05-2" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p>Ah ! pour moy, c’est l’effroy des effrois, &amp; il faut que je vous avoüe que les bras m’en tombent.<hi rend="sup">b</hi> Quoy ! Scander cinq ou six <ref target="#stance">Stances*</ref> sans y trouver un mot de pom-/<pb n="26" xml:id="pb26"/>/peuse <ref target="#mesure">mesure*</ref>.</p>
+            <p>Ah ! pour moy, c’est l’effroy des effrois, &amp; il faut que je vous avoüe que les bras m’en tombent.<hi rend="sup">b</hi> Quoy ! Scander cinq ou six <ref target="#stance">Stances</ref> sans y trouver un mot de pom-/<pb n="26" xml:id="pb26"/>/peuse <ref target="#mesure">mesure</ref>.</p>
             <p>(b Que j’en suis fort surprise)</p>
           </sp>
           <sp xml:id="I05-3" who="artemise">
@@ -1649,8 +1649,8 @@
             <p>Il est vray que cela n’est point digerable<note n="285" place="bottom"> Néologisme.</note>, &amp; sus tout la penultiesme ou avant derniere Stance de cet insuportable portrait ne fournit rien à l’oreille qui puisse exercer son avidité. <note n="286" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : la réplique s’arrête ici. </note> Voyez plutost encore une fois si cela n’est pas du dernier inintelligible.</p>
           </sp>
           <sp xml:id="I05-4" who="iscarie">
-            <speaker>Iscarie. <hi rend="i">(prenant le papier.)</hi></speaker>
-            <p>Je me serois contentée du <ref target="#chagrin">chagrin*</ref> de la premiere lecture ; mais pour vous je veux bien faire ce passe avant<note n="287" place="bottom"><hi rend="i">Passe-avant</hi> : « Terme de Finances. C'est un billet que donnent les Commis aux recettes des Bureaux des Douanes, ou des entrées, pour donner permission ou liberté aux Marchands et Voituriers de mener leurs marchandises plus loin, soit après avoir payé les droits, ou pour marquer qu’il le faut payer en un autre Bureau, ou qu’elles ne doivent rien, quand il n’y a qu’un simple passage sans commerce » (Furetière).</note>, aussi bien à quoy tuërions-nous nostre Saturne <hi rend="sup">c</hi><note n="288" place="bottom"> Dans la mythologie romaine, Saturne présidait au temps : la rhétorique poétique contemporaine en avait ainsi fait un synonyme du temps, utilisé ici de manière abusive par Iscarie (« Dieu païen père de Jupiter et qui se prend en vers pour le temps » (Richelet))</note> dans l’expectation<note n="289" place="bottom"> L’usage du mot, qui ne s’emploie que pour les grands évènements tels l’attente du Messie, crée ici un effet comique.</note> que nous faisons icy du Baron de la Taupiniere<note n="290" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : «  Il faut que je la lise encore une fois en attendant le Baron de la Taupiniere » ; la réplique intermédiaire d’Artémise avant la lecture (« Lisez donc. ») y est supprimée.</note>.<pb n="27" xml:id="pb27"/></p>
+            <speaker>Iscarie. </speaker><stage>(prenant le papier.)</stage>
+            <p>Je me serois contentée du <ref target="#chagrin">chagrin</ref> de la premiere lecture ; mais pour vous je veux bien faire ce passe avant<note n="287" place="bottom"><hi rend="i">Passe-avant</hi> : « Terme de Finances. C'est un billet que donnent les Commis aux recettes des Bureaux des Douanes, ou des entrées, pour donner permission ou liberté aux Marchands et Voituriers de mener leurs marchandises plus loin, soit après avoir payé les droits, ou pour marquer qu’il le faut payer en un autre Bureau, ou qu’elles ne doivent rien, quand il n’y a qu’un simple passage sans commerce » (Furetière).</note>, aussi bien à quoy tuërions-nous nostre Saturne <hi rend="sup">c</hi><note n="288" place="bottom"> Dans la mythologie romaine, Saturne présidait au temps : la rhétorique poétique contemporaine en avait ainsi fait un synonyme du temps, utilisé ici de manière abusive par Iscarie (« Dieu païen père de Jupiter et qui se prend en vers pour le temps » (Richelet))</note> dans l’expectation<note n="289" place="bottom"> L’usage du mot, qui ne s’emploie que pour les grands évènements tels l’attente du Messie, crée ici un effet comique.</note> que nous faisons icy du Baron de la Taupiniere<note n="290" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : «  Il faut que je la lise encore une fois en attendant le Baron de la Taupiniere » ; la réplique intermédiaire d’Artémise avant la lecture (« Lisez donc. ») y est supprimée.</note>.<pb n="27" xml:id="pb27"/></p>
             <p rend="sub">(c Temps) </p>
           </sp>
           <sp xml:id="I05-5" who="artemise">
@@ -1658,34 +1658,34 @@
             <p>Lisez donc.</p>
           </sp>
           <sp xml:id="I05-6" who="iscarie">
-            <speaker>Iscarie. <hi rend="i">(lit.)</hi></speaker>
+            <speaker>Iscarie. </speaker><stage>(lit.)</stage>
             <lg rend="i">
               <l n="1" xml:id="l1">Puis lors que ton pinceau d’une legere touche</l>
               <l n="2" xml:id="l2">Aura tracé ses yeux, tu traceras sa bouche ;</l>
               <l n="3" xml:id="l3">Là d’un doux coloris, l’agreable rougeur</l>
               <l n="4" xml:id="l4">Par sa vivacité dementira la rose<note n="291" place="bottom"> La fera [la rose] paraître pâle en comparaison (« on dit des couleurs teintes en cramoisi qu’elles ne se démentent point, qu’elles subsistent toujours » (Furetière)).</note>,</l>
               <l n="5" xml:id="l5">&amp; s’il y manque quelque chose</l>
-              <l n="6" xml:id="l6">Pour en peindre l’esclat tu prendras mon <ref target="#ardeur1">ardeur*</ref>.</l>
+              <l n="6" xml:id="l6">Pour en peindre l’esclat tu prendras mon <ref target="#ardeur1">ardeur</ref>.</l>
             </lg>
             <stage>(Elle poursuit.)</stage>
-            <p>Peut-on voir des vers plus indigestes, &amp; ne <ref target="#connoistre">connoist*</ref> on pas bien à les voir que la severité des <ref target="#capable">capables*</ref> n’y a pas passé, &amp; que ce petit vers<pb n="28" xml:id="pb28"/> qui menace de la fin pourroit seul gaster le plus bel ouvrage, Ah ! ne m’avouërez-vous pas que ceux-cy qui dépeignent le langage des beaux yeux d’une belle, ont toute une autre pompe.</p>
+            <p>Peut-on voir des vers plus indigestes, &amp; ne <ref target="#connoistre">connoist</ref> on pas bien à les voir que la severité des <ref target="#capable">capables</ref> n’y a pas passé, &amp; que ce petit vers<pb n="28" xml:id="pb28"/> qui menace de la fin pourroit seul gaster le plus bel ouvrage, Ah ! ne m’avouërez-vous pas que ceux-cy qui dépeignent le langage des beaux yeux d’une belle, ont toute une autre pompe.</p>
             <stage>(Elle lit.)</stage>
             <lg>
-              <l n="7" xml:id="l7">Par une <ref target="#avidite">avidité*</ref> qui tient de la divine,</l>
+              <l n="7" xml:id="l7">Par une <ref target="#avidite">avidité</ref> qui tient de la divine,</l>
               <l n="8" xml:id="l8">Elle chante par tout quelle est son origine ;</l>
               <l n="9" xml:id="l9">Son langage pourtant, n’a rien que de muët,</l>
               <l n="10" xml:id="l10">Ses sourcilleux ardens font toutes ses Harangues<note n="292" place="bottom"><hi rend="i">Harangue</hi> : « sorte de discours oratoire, court, vif et brillant qu’on fait à un Prince, à une Princesse, ou à quelque personne de qualité, ou de grand mérite » (Furetière).</note>,</l>
               <l n="11" xml:id="l11">Elle brave avecque eux les plus rapides langues,</l>
-              <l n="12" xml:id="l12">Et leurs seuls branslemens* composent son caquet<note n="293" place="bottom"><hi rend="i">Sourcilleux</hi> : « Terme poétique, qui ne se dit que des montagnes et des rochers fort élevés, et qui semblent être orgueilleux par leur élévation » (Furetière). Par un déplacement de sens, l’adjectif est ici ramené à son sens littéral (en activant le sens dérivé de « sourcils »). – <hi rend="i">Ardent</hi> : « Feu sautelant autour des eaux, des lieux marécageux » (Richelet). Désigne métaphoriquement les yeux dans la « langue précieuse ». – Comprendre, au dernier vers : elle ne s’exprime que par le seul mouvement de ses yeux. Surenchère de mots insolites, associés à un vocabulaire familier (« caquet »).</note>.</l>
+              <l n="12" xml:id="l12">Et leurs seuls branslemens composent son caquet<note n="293" place="bottom"><hi rend="i">Sourcilleux</hi> : « Terme poétique, qui ne se dit que des montagnes et des rochers fort élevés, et qui semblent être orgueilleux par leur élévation » (Furetière). Par un déplacement de sens, l’adjectif est ici ramené à son sens littéral (en activant le sens dérivé de « sourcils »). – <hi rend="i">Ardent</hi> : « Feu sautelant autour des eaux, des lieux marécageux » (Richelet). Désigne métaphoriquement les yeux dans la « langue précieuse ». – Comprendre, au dernier vers : elle ne s’exprime que par le seul mouvement de ses yeux. Surenchère de mots insolites, associés à un vocabulaire familier (« caquet »).</note>.</l>
             </lg>
-            <p>Pour moy, je suis pour ces<pb n="29" xml:id="pb29"/> sortes de vers qui s’esloignent du <ref target="#vulgaire">vulgaire*</ref> ; mais nous contemplerons le reste à loisir : car voicy Monsieur le Baron<note n="294" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « mais voicy Monsieur le Baron. »</note>.<pb n="30" xml:id="pb30"/></p>
+            <p>Pour moy, je suis pour ces<pb n="29" xml:id="pb29"/> sortes de vers qui s’esloignent du <ref target="#vulgaire">vulgaire</ref> ; mais nous contemplerons le reste à loisir : car voicy Monsieur le Baron<note n="294" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « mais voicy Monsieur le Baron. »</note>.<pb n="30" xml:id="pb30"/></p>
           </sp>
         </div>
         <div type="scene" xml:id="I06">
           <head>SCENE VI.</head>
           <stage>LE BARON DE LA TAUPINIERE, ISCARIE, ARTEMISE, ISABELLE, BEATRIX.</stage>
           <sp xml:id="I06-1" who="le-baron">
-            <speaker>le Baron <hi rend="i">(les salüant.)</hi></speaker>
+            <speaker>le Baron </speaker><stage>(les salüant.)</stage>
             <p>Vous aurez sujet, mes Dames, de trouver mon procedé audacieux ; mais il est bien difficile de ne pas visiter souvent l’extrait<note n="295" place="bottom"> Expression  « précieuse » par son affectation, que Somaize pourrait avoir puisée dans le roman de l’abbé de Pure : « Vous n’avez possible pas entendu parler de la précieuse, disait Agathonte […]. C’est un précis de l’esprit et un extrait de l’intelligence humaine ».</note> de l’esprit humain.<hi rend="sup">d</hi></p>
             <p>(d L’Abregé.)</p>
           </sp>
@@ -1700,7 +1700,7 @@
           </sp>
           <sp xml:id="I06-4" who="artemise">
             <speaker>Artemise.</speaker>
-            <p>Vostre loüange se distancie trop de nostre merite, pour <ref target="#hazarder">hazarder*</ref> le paquet serieux<hi rend="sup">f</hi> contre vous.</p>
+            <p>Vostre loüange se distancie trop de nostre merite, pour <ref target="#hazarder">hazarder</ref> le paquet serieux<hi rend="sup">f</hi> contre vous.</p>
             <p rend="sub">(f Les compliments.) </p>
           </sp>
           <sp xml:id="I06-5" who="iscarie">
@@ -1741,7 +1741,7 @@
           </sp>
           <sp xml:id="I06-12" who="artemise">
             <speaker>Artemise.</speaker>
-            <p>Il est vray que l’on y en pourroit trouver qui lustrent leur visage<hi rend="sup">r</hi> ; mais outre que celles-là sont graves par leur <ref target="#antiquite">antiquité*</ref>, les trouppes auxiliaires de leur esprit soûtiennent assez leurs ambiguitez d’<ref target="#appas">appas*</ref>.<note n="303" place="bottom"> Certains soutiennent que les précieuses sont de vieilles filles contraintes au célibat par leur laideur, d’autres en font un groupe de jeunes filles vierges, prudes et effarouchées. Somaize, quant à lui, fidèle à son principe d’élargissement du mythe de la préciosité jusqu’à un flou négateur, fait de ces femmes un groupe hétérogène sur ce point, aussi bien que peu solidaire.  </note></p>
+            <p>Il est vray que l’on y en pourroit trouver qui lustrent leur visage<hi rend="sup">r</hi> ; mais outre que celles-là sont graves par leur <ref target="#antiquite">antiquité</ref>, les trouppes auxiliaires de leur esprit soûtiennent assez leurs ambiguitez d’<ref target="#appas">appas</ref>.<note n="303" place="bottom"> Certains soutiennent que les précieuses sont de vieilles filles contraintes au célibat par leur laideur, d’autres en font un groupe de jeunes filles vierges, prudes et effarouchées. Somaize, quant à lui, fidèle à son principe d’élargissement du mythe de la préciosité jusqu’à un flou négateur, fait de ces femmes un groupe hétérogène sur ce point, aussi bien que peu solidaire.  </note></p>
             <p rend="sub">(r Qui se fardent.) </p>
           </sp>
           <sp xml:id="I06-13" who="le-baron">
@@ -1751,17 +1751,17 @@
           </sp>
           <sp xml:id="I06-14" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p>Vous l’y faites <ref target="#doute">sans doute*</ref> bien avantageusement, puis que vous avez dix mil livres de rente en fonds d’esprit, qu’aucun creancier ne peut saisir ny arrester.<hi rend="sup">t</hi></p>
+            <p>Vous l’y faites <ref target="#doute">sans doute</ref> bien avantageusement, puis que vous avez dix mil livres de rente en fonds d’esprit, qu’aucun creancier ne peut saisir ny arrester.<hi rend="sup">t</hi></p>
             <p>(t Puisque vous avez beaucoup d’esprit)</p>
           </sp>
           <sp xml:id="I06-15" who="le-baron">
             <speaker>le Baron. </speaker>
-            <p>De grace, arrestez-là ce discours <ref target="#obligeant">obligeant*</ref> : car je me verrois reduit dans l’incapacité de vous répondre ; mais j’oubliois à<note n="304" place="bottom"> « Oublier à » est une construction commune en français classique.</note> vous dire qu’un de mes amis m’a amené ce matin un certain Poëte nouveau qui fait des vers scientifiquement<note n="305" place="bottom"> Néologisme.</note> bien, &amp; comme il avoit deux pieces à me li-/<pb n="35" xml:id="pb35"/>/re, je luy ay promis de l’écouter, apres avoir donné à nature les necessitez meridionnalles.<hi rend="sup">u</hi> Flanquin le doit conduire icy des qu’il sera venu, afin que nous prenions ensemble les extasiens<note n="306" place="bottom"> Néologisme forgé par Somaize à partir du substantif « extase ».</note> divertissemens de cette lecture<note n="307" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « &amp; comme il avoit une piece à me lire, Flanquin le doit conduire icy dés qu’il sera venu, afin que nous prenions ensemble les extasians divertissemens de cette lecture ». </note>.</p>
-            <p>(u <ref target="#disner">Disner*</ref>.)</p>
+            <p>De grace, arrestez-là ce discours <ref target="#obligeant">obligeant</ref> : car je me verrois reduit dans l’incapacité de vous répondre ; mais j’oubliois à<note n="304" place="bottom"> « Oublier à » est une construction commune en français classique.</note> vous dire qu’un de mes amis m’a amené ce matin un certain Poëte nouveau qui fait des vers scientifiquement<note n="305" place="bottom"> Néologisme.</note> bien, &amp; comme il avoit deux pieces à me li-/<pb n="35" xml:id="pb35"/>/re, je luy ay promis de l’écouter, apres avoir donné à nature les necessitez meridionnalles.<hi rend="sup">u</hi> Flanquin le doit conduire icy des qu’il sera venu, afin que nous prenions ensemble les extasiens<note n="306" place="bottom"> Néologisme forgé par Somaize à partir du substantif « extase ».</note> divertissemens de cette lecture<note n="307" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « &amp; comme il avoit une piece à me lire, Flanquin le doit conduire icy dés qu’il sera venu, afin que nous prenions ensemble les extasians divertissemens de cette lecture ». </note>.</p>
+            <p>(u <ref target="#disner">Disner</ref>.)</p>
           </sp>
           <sp xml:id="I06-16" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p>Ma chere, &amp; moy, aimons si demesurement les Poësmes Dramatiques, que nous ne trouvons point de paroles assez energiques pour vous rendre des graces conformes à une <ref target="#obligation">obligation*</ref> qui est dans un degré superlatif.<note n="308" place="bottom"> Malgré leur prétention à user d’un langage supérieur, Iscarie et Artémise se déclarent, de façon ironique, constamment dans l’incapacité de formuler leurs pensées et refusent régulièrement la parole, trahissant ainsi le fait que leur « magnifique élévation d’esprit » n’est que feinte. </note></p>
+            <p>Ma chere, &amp; moy, aimons si demesurement les Poësmes Dramatiques, que nous ne trouvons point de paroles assez energiques pour vous rendre des graces conformes à une <ref target="#obligation">obligation</ref> qui est dans un degré superlatif.<note n="308" place="bottom"> Malgré leur prétention à user d’un langage supérieur, Iscarie et Artémise se déclarent, de façon ironique, constamment dans l’incapacité de formuler leurs pensées et refusent régulièrement la parole, trahissant ainsi le fait que leur « magnifique élévation d’esprit » n’est que feinte. </note></p>
           </sp>
           <sp xml:id="I06-17" who="le-baron">
             <speaker>le Baron. </speaker>
@@ -1774,12 +1774,12 @@
           </sp>
           <sp xml:id="I06-19" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p>Pour moy je tiens* qu’elle a l’ame mal demeurée.<hi rend="sup">y</hi></p>
+            <p>Pour moy je tiens qu’elle a l’ame mal demeurée.<hi rend="sup">y</hi></p>
             <p rend="sub">(y Qu’elle n’a point d’esprit.) </p>
           </sp>
           <sp xml:id="I06-20" who="le-baron">
             <speaker>le Baron.</speaker>
-            <p>Et moy je ne sçay qu’en croire, il y a quantité de gens qui <ref target="#tenir">tiennent*</ref> qu’elle a un œuf caché sous la cendre.<hi rend="sup">z</hi></p>
+            <p>Et moy je ne sçay qu’en croire, il y a quantité de gens qui <ref target="#tenir">tiennent</ref> qu’elle a un œuf caché sous la cendre.<hi rend="sup">z</hi></p>
             <p rend="sub">(z Qu’elle a de l’esprit mais qu’elle n’en a pas la clef.) </p>
           </sp>
           <sp xml:id="I06-21" who="artemise">
@@ -1817,7 +1817,7 @@
             <p>Ce Poëte n’est donc pas Normand puis qu’il n’a point de Carosse.<pb n="39" xml:id="pb39"/></p>
           </sp>
           <sp xml:id="I06-28" who="le-baron">
-            <speaker>le Baron <hi rend="i">(entendant heurter.)</hi></speaker>
+            <speaker>le Baron </speaker><stage>(entendant heurter.)</stage>
             <p>On fait parler le muët,<hi rend="sup">l</hi> sans doute le voicy. Ouy c’est luy mesme que Flanquin ameine.<pb n="40" xml:id="pb40"/></p>
             <p>(l On heurte.)</p>
           </sp>
@@ -1831,24 +1831,24 @@
           </sp>
           <sp xml:id="I07-2" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p>On <ref target="#connoistre">connoist*</ref> bien !<note n="322" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : le point d’exclamation est supprimé et la réplique est écourtée (elle se finit à « Hypocrenne »).</note> Monsieur, que vous avez à commandement l’eau d’Hypocrenne, &amp; que vous estes le frere aisné des neuf sœurs.</p>
+            <p>On <ref target="#connoistre">connoist</ref> bien !<note n="322" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : le point d’exclamation est supprimé et la réplique est écourtée (elle se finit à « Hypocrenne »).</note> Monsieur, que vous avez à commandement l’eau d’Hypocrenne, &amp; que vous estes le frere aisné des neuf sœurs.</p>
           </sp>
           <sp xml:id="I07-3" who="artemise">
             <speaker>Artemise.</speaker>
-            <p>Je vous l’avoüeray, je n’ay jamais ouy de stile plus <ref target="#pompeux">pompeux*</ref> &amp; qui fasse plus de<pb n="42" xml:id="pb42"/> tours dans l’oreille que le vostre.</p>
+            <p>Je vous l’avoüeray, je n’ay jamais ouy de stile plus <ref target="#pompeux">pompeux</ref> &amp; qui fasse plus de<pb n="42" xml:id="pb42"/> tours dans l’oreille que le vostre.</p>
           </sp>
           <sp xml:id="I07-4" who="le-poete">
             <speaker>le Poete.</speaker>
-            <p>Je sçais parler emphibologetiquement<note n="323" place="bottom"> L’<hi rend="i">amphibologie</hi> est, en grammaire, « un vice du discours qui donne de l’obscurité, et qui le peut faire interpréter en divers sens. Cet homme ne veut pas qu’on l’entende, il fait de grandes <hi rend="i">amphibologies</hi> qui n’aboutissent à rien » (Furetière). L’adverbe dérivé et attesté est « amphibologiquement », mais Somaize le complexifie sans doute à dessein. C’est un lieu commun chez les poètes contemporains de prétendre n’être que les marionnettes de la voix divine. Les éloges de la verve poétique du Poète le desservent en réalité par leur ironie, au profit d’une dénonciation de l’abscondité excessive des rimailleurs. </note> : le langage des Dieux m’est ordinaire, &amp; je ne me plains point quand on me dit que l’on ne m’<ref target="#entendre1">entend*</ref> pas ; car c’est signe que je parle en oracle.</p>
+            <p>Je sçais parler emphibologetiquement<note n="323" place="bottom"> L’<hi rend="i">amphibologie</hi> est, en grammaire, « un vice du discours qui donne de l’obscurité, et qui le peut faire interpréter en divers sens. Cet homme ne veut pas qu’on l’entende, il fait de grandes <hi rend="i">amphibologies</hi> qui n’aboutissent à rien » (Furetière). L’adverbe dérivé et attesté est « amphibologiquement », mais Somaize le complexifie sans doute à dessein. C’est un lieu commun chez les poètes contemporains de prétendre n’être que les marionnettes de la voix divine. Les éloges de la verve poétique du Poète le desservent en réalité par leur ironie, au profit d’une dénonciation de l’abscondité excessive des rimailleurs. </note> : le langage des Dieux m’est ordinaire, &amp; je ne me plains point quand on me dit que l’on ne m’<ref target="#entendre1">entend</ref> pas ; car c’est signe que je parle en oracle.</p>
             <stage>(Ils s’assissent)</stage>
           </sp>
           <sp xml:id="I07-5" who="flanquin">
-            <speaker>Flanquin. <hi rend="i">(se mettant en un coin.)</hi></speaker>
+            <speaker>Flanquin. </speaker><stage>(se mettant en un coin.)</stage>
             <p>Moy, je m’en vais me mettre icy pour faire inventaire des grands mots qui se diront. Sça, n’en laissons point passer qu’ils ne soient enregistrez sur nos Tablettes<note n="324" place="bottom"><hi rend="i">Tablette</hi> : « petit livre ou agenda qu’on met en poche, qui a quelque peu de feuilles de papier ou de parchemin préparé, sur lesquelles on écrit avec une touche ou un crayon les choses dont on veut se souvenir » (Furetière).</note> &amp; joüons bien nostre rolle<note n="325" place="bottom"> Flanquin donne ici aux spectateurs un indice de la supercherie qui se déroule.</note>.<pb n="43" xml:id="pb43"/></p>
           </sp>
           <sp xml:id="I07-6" who="le-baron">
             <speaker>le Baron. </speaker>
-            <p>Dites nous donc un peu !<note n="326" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : point d’interrogation.</note> Monsieur au net, vostre sentiment sur les pieces qui se sont joüées depuis peu de temps ; car j’en ay fort peu veu : mesme je fus l’autre jour aux Pretieuses de Bourbon<note n="327" place="bottom"><hi rend="i">Les Précieuses ridicules</hi> de Molière, jouées pendant toute la saison théâtrale au Petit-Bourbon à la suite du succès de  leur première représentation le 18 novembre 1659.</note> ; mais je ne les pûs <ref target="#entendre2">entendre*</ref> parce que je ne pouvois reigler aucune posture.<hi rend="sup">m</hi></p>
+            <p>Dites nous donc un peu !<note n="326" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : point d’interrogation.</note> Monsieur au net, vostre sentiment sur les pieces qui se sont joüées depuis peu de temps ; car j’en ay fort peu veu : mesme je fus l’autre jour aux Pretieuses de Bourbon<note n="327" place="bottom"><hi rend="i">Les Précieuses ridicules</hi> de Molière, jouées pendant toute la saison théâtrale au Petit-Bourbon à la suite du succès de  leur première représentation le 18 novembre 1659.</note> ; mais je ne les pûs <ref target="#entendre2">entendre</ref> parce que je ne pouvois reigler aucune posture.<hi rend="sup">m</hi></p>
             <p rend="sub">(m J’estois trop pressé.) </p>
           </sp>
           <sp xml:id="I07-7" who="flanquin">
@@ -1861,7 +1861,7 @@
           </sp>
           <sp xml:id="I07-9" who="le-baron">
             <speaker>le Baron. </speaker>
-            <p>Le <ref target="#bruit">bruit*</ref> commun m’a desja donné quelque legere connoissance de cela ; mais Mascarille<note n="333" place="bottom"> Molière, ici désigné par son nom de scène.</note> pourtant soûtient n’avoir imité en rien celle des Italiens.</p>
+            <p>Le <ref target="#bruit">bruit</ref> commun m’a desja donné quelque legere connoissance de cela ; mais Mascarille<note n="333" place="bottom"> Molière, ici désigné par son nom de scène.</note> pourtant soûtient n’avoir imité en rien celle des Italiens.</p>
           </sp>
           <sp xml:id="I07-10" who="le-poete">
             <speaker>le Poete.</speaker>
@@ -1869,19 +1869,19 @@
           </sp>
           <sp xml:id="I07-11" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p>Ce que vous nous dites est furieusement<note n="334" place="bottom"> L’adverbe est à la mode chez les galants et fait partie des expressions recherchées que l’on aime attribuer aux précieuses. Il est relayé notamment par l’épithète « furieuse » (p.[54]). On trouve dans <hi rend="i">Le Grand Dictionnaire des Précieuses</hi> la notice suivante : «  Tout à fait : <hi rend="i">furieusement. Epouvantablement</hi> et <hi rend="i">terriblement</hi> ont aussi la même signification. <hi rend="i">Furieusement</hi>, dans la langue précieuse, combat d’antiquité avec le mot de <hi rend="i">dernière</hi>, (…) il n’est point de précieuse qui ne le dise plus de cent fois par jour, et ceux qui affectent le langage des précieuses l’ont toujours à la bouche ».</note> incroyable ; car il me souvient bien que dans ses Pretieuses, il <ref target="#improuver">improuve*</ref> ceux qui lisent leurs pieces avant qu’on les represente, &amp; par là vous me diriez qu’il s’est tourné luy-mesme en ridicule<note n="335" place="bottom"> Dans la longue scène IX des <hi rend="i">Précieuses ridicules</hi>, Molière avait en effet mis dans la bouche de Mascarille une description caricaturale de cette pratique des lectures de salon, dans la logique d’une parodie de la galanterie. Il n’est pas pour autant étonnant que, comme ses contemporains, Molière se soit lui-même consacré à la promotion de ses pièces dans les salons avant leur création. Lors du succès des <hi rend="i">Précieuses ridicules</hi>, Molière travaille en effet sur son <hi rend="i">Don Garcie de Navarre</hi>, comédie héroïque et galante, achevée dès l’automne 1659 et dont Somaize nous apprend sans doute avec raison qu’il en lit alors des extraits dans les salons. La pièce fut créée en février 1661 mais ne connut qu’un succès limité et une publication posthume. </note>.<pb n="46" xml:id="pb46"/></p>
+            <p>Ce que vous nous dites est furieusement<note n="334" place="bottom"> L’adverbe est à la mode chez les galants et fait partie des expressions recherchées que l’on aime attribuer aux précieuses. Il est relayé notamment par l’épithète « furieuse » (p.[54]). On trouve dans <hi rend="i">Le Grand Dictionnaire des Précieuses</hi> la notice suivante : «  Tout à fait : <hi rend="i">furieusement. Epouvantablement</hi> et <hi rend="i">terriblement</hi> ont aussi la même signification. <hi rend="i">Furieusement</hi>, dans la langue précieuse, combat d’antiquité avec le mot de <hi rend="i">dernière</hi>, (…) il n’est point de précieuse qui ne le dise plus de cent fois par jour, et ceux qui affectent le langage des précieuses l’ont toujours à la bouche ».</note> incroyable ; car il me souvient bien que dans ses Pretieuses, il <ref target="#improuver">improuve</ref> ceux qui lisent leurs pieces avant qu’on les represente, &amp; par là vous me diriez qu’il s’est tourné luy-mesme en ridicule<note n="335" place="bottom"> Dans la longue scène IX des <hi rend="i">Précieuses ridicules</hi>, Molière avait en effet mis dans la bouche de Mascarille une description caricaturale de cette pratique des lectures de salon, dans la logique d’une parodie de la galanterie. Il n’est pas pour autant étonnant que, comme ses contemporains, Molière se soit lui-même consacré à la promotion de ses pièces dans les salons avant leur création. Lors du succès des <hi rend="i">Précieuses ridicules</hi>, Molière travaille en effet sur son <hi rend="i">Don Garcie de Navarre</hi>, comédie héroïque et galante, achevée dès l’automne 1659 et dont Somaize nous apprend sans doute avec raison qu’il en lit alors des extraits dans les salons. La pièce fut créée en février 1661 mais ne connut qu’un succès limité et une publication posthume. </note>.<pb n="46" xml:id="pb46"/></p>
           </sp>
           <sp xml:id="I07-12" who="le-poete">
             <speaker>le Poete.</speaker>
-            <p>Il est vray que je n’aurois pas pensé qu’il eust <ref target="#briguer">brigué*</ref> comme il fait ; mais je sçay de bonne part qu’il a tiré des Limbes son despit amoureux<note n="336" place="bottom"> Jouée en province par la troupe de Molière avant leur arrivée à Paris, <hi rend="i">Le Dépit amoureux</hi> fut représenté au Petit-Bourbon à partir de décembre 1658. Pièce à imbroglio sentimental, cette petite comédie galante qui s’inspire des Italiens était une des pièces phares du répertoire de la troupe mais, à la saison de 1659-1660, elle ne rapporte que de médiocres recettes, sauf lorsqu’elle est associée aux <hi rend="i">Précieuses ridicules</hi> à trois reprises en janvier 1660.</note> à force de coups de chapeau, &amp; d’offrir les loges à deux pistolles<note n="337" place="bottom"><hi rend="i">Donner un coup de chapeau</hi> : « se découvrir, être tête nue devant quelqu’un pour le saluer, ou lui témoigner du respect ». « La paix de Casal  fut (…) un coup de chapeau, parce que Mazarin qui la  fit, en devint Cardinal » (Furetière) : Somaize accuse Molière de s’être attiré les bonnes grâces des hommes de pouvoir, influents dans le milieu du théâtre, en leur témoignant un respect intéressé.  – Au XVII<hi rend="sup">e</hi>, deux pistoles sont équivalentes à vingt livres. Une place en première loge revenait environ à six livres, sachant que le prix des places était doublé lors des créations des pièces nouvelles. Somaize laisse entendre que la troupe de Molière offre les places des loges afin de remplir la salle.  </note>.</p>
+            <p>Il est vray que je n’aurois pas pensé qu’il eust <ref target="#briguer">brigué</ref> comme il fait ; mais je sçay de bonne part qu’il a tiré des Limbes son despit amoureux<note n="336" place="bottom"> Jouée en province par la troupe de Molière avant leur arrivée à Paris, <hi rend="i">Le Dépit amoureux</hi> fut représenté au Petit-Bourbon à partir de décembre 1658. Pièce à imbroglio sentimental, cette petite comédie galante qui s’inspire des Italiens était une des pièces phares du répertoire de la troupe mais, à la saison de 1659-1660, elle ne rapporte que de médiocres recettes, sauf lorsqu’elle est associée aux <hi rend="i">Précieuses ridicules</hi> à trois reprises en janvier 1660.</note> à force de coups de chapeau, &amp; d’offrir les loges à deux pistolles<note n="337" place="bottom"><hi rend="i">Donner un coup de chapeau</hi> : « se découvrir, être tête nue devant quelqu’un pour le saluer, ou lui témoigner du respect ». « La paix de Casal  fut (…) un coup de chapeau, parce que Mazarin qui la  fit, en devint Cardinal » (Furetière) : Somaize accuse Molière de s’être attiré les bonnes grâces des hommes de pouvoir, influents dans le milieu du théâtre, en leur témoignant un respect intéressé.  – Au XVII<hi rend="sup">e</hi>, deux pistoles sont équivalentes à vingt livres. Une place en première loge revenait environ à six livres, sachant que le prix des places était doublé lors des créations des pièces nouvelles. Somaize laisse entendre que la troupe de Molière offre les places des loges afin de remplir la salle.  </note>.</p>
           </sp>
           <sp xml:id="I07-13" who="le-baron">
             <speaker>le Baron. </speaker>
-            <p>C'est assez parler de sa <ref target="#methode">methode*</ref>, &amp; puis que vous avez <ref target="#ouir">oüy*</ref> lire son Dom Garcie, dites-nous un peu ce que c’est !</p>
+            <p>C'est assez parler de sa <ref target="#methode">methode</ref>, &amp; puis que vous avez <ref target="#ouir">oüy</ref> lire son Dom Garcie, dites-nous un peu ce que c’est !</p>
           </sp>
           <sp xml:id="I07-14" who="le-poete">
             <speaker>le Poete.</speaker>
-            <p>Ma foy si nous consultons son <ref target="#dessein">dessein*</ref> il a pretendu faire une piece serieuse ; mais si nous en consultons le sens commun, c’est<pb n="47" xml:id="pb47"/> une fort <ref target="#meschant">meschante*</ref> Comedie ; car l’on y compte plus d’<ref target="#incident">incidens*</ref> que dans son Estourdy<note n="338" place="bottom"> Prenant pour sujet les accès de jalousie d’un prince italien, le <hi rend="i">Don Garcie</hi> relève en effet d’une esthétique ambiguë au regard des canons de l’époque : parue en tant que « comédie » en 1682, cette « pièce sérieuse » présente de nombreuses affinités avec les genres tragiques et tragi-comiques (le ton élevé, les personnages nobles, une toile de fonds historico-politique), tout en déroulant une action -seul critère de distinction générique réellement valable pour les contemporains- dont les caractéristiques structurelles appartiennent au genre comique. – <hi rend="i">L’étourdi ou les contretemps</hi>, comédie en cinq actes et en vers, fut présentée au public parisien dès la fin de l’année 1658, tout comme <hi rend="i">Le Dépit amoureux</hi>. Elle relève, de manière novatrice, de la tradition de la <hi rend="i">commedia dell’arte</hi>, dont le comique est structurellement lié aux enchaînements répétitifs des fourberies d’un valet. </note>.</p>
+            <p>Ma foy si nous consultons son <ref target="#dessein">dessein</ref> il a pretendu faire une piece serieuse ; mais si nous en consultons le sens commun, c’est<pb n="47" xml:id="pb47"/> une fort <ref target="#meschant">meschante</ref> Comedie ; car l’on y compte plus d’<ref target="#incident">incidens</ref> que dans son Estourdy<note n="338" place="bottom"> Prenant pour sujet les accès de jalousie d’un prince italien, le <hi rend="i">Don Garcie</hi> relève en effet d’une esthétique ambiguë au regard des canons de l’époque : parue en tant que « comédie » en 1682, cette « pièce sérieuse » présente de nombreuses affinités avec les genres tragiques et tragi-comiques (le ton élevé, les personnages nobles, une toile de fonds historico-politique), tout en déroulant une action -seul critère de distinction générique réellement valable pour les contemporains- dont les caractéristiques structurelles appartiennent au genre comique. – <hi rend="i">L’étourdi ou les contretemps</hi>, comédie en cinq actes et en vers, fut présentée au public parisien dès la fin de l’année 1658, tout comme <hi rend="i">Le Dépit amoureux</hi>. Elle relève, de manière novatrice, de la tradition de la <hi rend="i">commedia dell’arte</hi>, dont le comique est structurellement lié aux enchaînements répétitifs des fourberies d’un valet. </note>.</p>
           </sp>
           <sp xml:id="I07-15" who="le-baron">
             <speaker>le Baron. </speaker>
@@ -1896,16 +1896,16 @@
             <p>Volontiers.</p>
           </sp>
           <sp xml:id="I07-18" who="flanquin">
-            <speaker>Flanquin. <hi rend="i">(à demy bas.)</hi></speaker>
-            <p>Nous aurons <ref target="#tantost">tantost*</ref> dequoy faire une autre Pretieuse.<pb n="48" xml:id="pb48"/></p>
+            <speaker>Flanquin. </speaker><stage>(à demy bas.)</stage>
+            <p>Nous aurons <ref target="#tantost">tantost</ref> dequoy faire une autre Pretieuse.<pb n="48" xml:id="pb48"/></p>
           </sp>
           <sp xml:id="I07-19" who="le-poete">
             <speaker>le Poete.</speaker>
-            <p>Je veux bien mes Dames, vous obeïr en cette <ref target="#rencontre">rencontre*</ref>, &amp; malgré cette animosité que le <ref target="#destin">destin*</ref> du Parnasse<note n="341" place="bottom"> L’ambition d’accéder au Parnasse.</note> a semé entre les Poëtes, je les vois trop au dessous de moy pour apprehender aucunement de vous estre suspect en parlant d’eux<note n="342" place="bottom"> Comprendre : je suis trop supérieur à eux pour craindre de vous être suspect en parlant d’eux.</note>. Je vous diray donc en quel ordre il les faut mettre &amp; le cas qu’il en faut faire. Il y en a de certains qui ne meritent pas d’estre mentionnez dans le Catalogue des Illustres, pour n’estre venus au monde qu’incognito, n’y avoir paru qu’en passant, &amp; avoir fait naufrage avant que d’avoir esté en pleine mer. Il y en a d’autres aussi dont la voix publique parle assez sans que j’en dise mot,<pb n="E 49" xml:id="pb49"/>&amp; parmy les Dramatiques<note n="343" place="bottom"> On parle généralement de « Poète dramatique ». Le terme « dramaturge » n’apparaît dans le Dictionnaire de l’Académie Française qu’en 1835.</note> dont est question, Corneille, l’aisné tient seul cette place. Il n’en va pas tout à fait de mesme de son cadet<note n="344" place="bottom"> Thomas Corneille, dit de Lisle (1625-1709), frère puîné de Pierre Corneille et lui aussi dramaturge, succéda à son frère à l’Académie Française en 1684 et laissa quarante-deux œuvres dramatiques qui connurent un engouement théâtral certain. Son <hi rend="i">Stilicon</hi>, tragédie versifiée dédiée au Cardinal Mazarin, fut créé avec succès au Théâtre de l’Hôtel de Bourgogne le 27 janvier 1660.</note>, &amp; quoy que ce soit une Divinité parmy les Comediens, les encens qu’on luy donne ne sont pas si generaux que ceux de son frere : ne croyez pourtant pas que j’en veuille dire du mal, au contraire, je tiens que c’est celuy de tous les Autheurs qui pense plus profondement, &amp; <ref target="#doute">sans doute*</ref> l’envie avouëra elle-mesme que son Stilicon est tout à fait beau. Nous avons encor veu cet hyver le Federic<note n="345" place="bottom"> Il s’agit du <hi rend="i">Fédéric</hi> de Claude Boyer (1618-1698), joué à partir du 14 novembre 1659 à l’Hôtel de Bourgogne. <hi rend="i">Clotilde</hi>, tragédie pastorale en vers du même auteur, était représentée depuis le mois d’avril.</note> qui a fort reüssi, &amp; c’est sans doute avec quelque raison, puis qu’il ne part rien de la veine de son Autheur, qui ne soit plein de feu, témoin sa Clotilde, où la boutade<note n="346" place="bottom"><hi rend="i">Boutade</hi> : « Caprice, transport d’esprit qui se fait sans raison et avec impétuosité. Il se prend en bonne et en mauvaise part. Ce Poète a des <hi rend="i">boutades</hi> où il paraît beaucoup d’esprit » (Furetière).</note> est bien<pb n="50" xml:id="pb50"/>exprimée. Ces deux pieces ont esté accompagnées de la Stratonice<note n="347" place="bottom"> La <hi rend="i">Stratonice</hi> de Philippe Quinault (1635-1688), tragi-comédie en vers, représentée depuis le 2 janvier 1660 à l’Hôtel de Bourgogne.</note> dont le stile est tout different, l’Autheur de cette piece ne s’attachant qu’à faire des vers tendres, où il reüssit fort bien<note n="348" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : la virgule est remplacée par un point. </note>, quoy que je ne me sois engagé qu’à vous parler des Autheurs dont l’on a joüé les pieces cet hyver ; Je ne me puis empescher<note n="349" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « Je ne puis m’empescher ».</note> de vous dire que le theatre a perdu l’illustre Abbé de Bois-Robert<note n="350" place="bottom"> L’abbé François Le Métel de Boisrobert (1592-1662), poète et dramaturge, secrétaire littéraire du Cardinal de Richelieu dès 1627, membre de l’Académie Française qu’il contribua à créer. Ses dernières pièces représentées datent de 1656. </note>, qui par generosité s’en est retiré luy-mesme, de peur que ses pieces n’étouffassent celles des fameux Autheurs qui se sont remis au Theatre depuis peu<note n="351" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : ici s’arrête la réplique du poète et tout le passage qui suit, jusqu’à la réplique du Baron (« Mais, Monsieur, c’est assez parler des autres […] »), est supprimé.</note>. Il y en a encor un dont je n’ay point parlé, qui joint l’espée à la plume ; il sçait faire des vers mieux qu’Homere, &amp; se bat aussi bien qu’Alexandre. On a joüé cet hyver<pb n="51" xml:id="pb51"/>au Petit Bourbon une piece de luy nommée Zenobie<note n="352" place="bottom"><hi rend="i">Zénobie, reine de Palmire</hi>, tragédie versifiée de Jean Magnon (1620-1662), représentée sept fois au Petit-Bourbon pendant tout le mois de décembre 1659. Seule pièce parmi celles citées par le Poète à avoir été représentée par la troupe de Molière, elle est l’occasion pour Somaize d’en railler les comédiens. Le registre tenu par La Grange nous apprend en effet que la première représentation ne fit que cent vingt-cinq livres et la troisième seulement cent : « un four », conclut La Grange le quatrième jour. Historiographe du roi depuis 1654, auteur réputé à tort ou à raison pour son orgueil et sa forfanterie, Magnon fut assassiné en avril 1662 sur le Pont-Neuf et sa mort défraya la chronique pendant plusieurs semaines : peut-être son caractère fougueux suggéré par les dires du Poète lui valurent-ils cette mort. Celle-ci reste pour autant mystérieuse. </note>.</p>
+            <p>Je veux bien mes Dames, vous obeïr en cette <ref target="#rencontre">rencontre</ref>, &amp; malgré cette animosité que le <ref target="#destin">destin</ref> du Parnasse<note n="341" place="bottom"> L’ambition d’accéder au Parnasse.</note> a semé entre les Poëtes, je les vois trop au dessous de moy pour apprehender aucunement de vous estre suspect en parlant d’eux<note n="342" place="bottom"> Comprendre : je suis trop supérieur à eux pour craindre de vous être suspect en parlant d’eux.</note>. Je vous diray donc en quel ordre il les faut mettre &amp; le cas qu’il en faut faire. Il y en a de certains qui ne meritent pas d’estre mentionnez dans le Catalogue des Illustres, pour n’estre venus au monde qu’incognito, n’y avoir paru qu’en passant, &amp; avoir fait naufrage avant que d’avoir esté en pleine mer. Il y en a d’autres aussi dont la voix publique parle assez sans que j’en dise mot,<pb n="E 49" xml:id="pb49"/>&amp; parmy les Dramatiques<note n="343" place="bottom"> On parle généralement de « Poète dramatique ». Le terme « dramaturge » n’apparaît dans le Dictionnaire de l’Académie Française qu’en 1835.</note> dont est question, Corneille, l’aisné tient seul cette place. Il n’en va pas tout à fait de mesme de son cadet<note n="344" place="bottom"> Thomas Corneille, dit de Lisle (1625-1709), frère puîné de Pierre Corneille et lui aussi dramaturge, succéda à son frère à l’Académie Française en 1684 et laissa quarante-deux œuvres dramatiques qui connurent un engouement théâtral certain. Son <hi rend="i">Stilicon</hi>, tragédie versifiée dédiée au Cardinal Mazarin, fut créé avec succès au Théâtre de l’Hôtel de Bourgogne le 27 janvier 1660.</note>, &amp; quoy que ce soit une Divinité parmy les Comediens, les encens qu’on luy donne ne sont pas si generaux que ceux de son frere : ne croyez pourtant pas que j’en veuille dire du mal, au contraire, je tiens que c’est celuy de tous les Autheurs qui pense plus profondement, &amp; <ref target="#doute">sans doute</ref> l’envie avouëra elle-mesme que son Stilicon est tout à fait beau. Nous avons encor veu cet hyver le Federic<note n="345" place="bottom"> Il s’agit du <hi rend="i">Fédéric</hi> de Claude Boyer (1618-1698), joué à partir du 14 novembre 1659 à l’Hôtel de Bourgogne. <hi rend="i">Clotilde</hi>, tragédie pastorale en vers du même auteur, était représentée depuis le mois d’avril.</note> qui a fort reüssi, &amp; c’est sans doute avec quelque raison, puis qu’il ne part rien de la veine de son Autheur, qui ne soit plein de feu, témoin sa Clotilde, où la boutade<note n="346" place="bottom"><hi rend="i">Boutade</hi> : « Caprice, transport d’esprit qui se fait sans raison et avec impétuosité. Il se prend en bonne et en mauvaise part. Ce Poète a des <hi rend="i">boutades</hi> où il paraît beaucoup d’esprit » (Furetière).</note> est bien<pb n="50" xml:id="pb50"/>exprimée. Ces deux pieces ont esté accompagnées de la Stratonice<note n="347" place="bottom"> La <hi rend="i">Stratonice</hi> de Philippe Quinault (1635-1688), tragi-comédie en vers, représentée depuis le 2 janvier 1660 à l’Hôtel de Bourgogne.</note> dont le stile est tout different, l’Autheur de cette piece ne s’attachant qu’à faire des vers tendres, où il reüssit fort bien<note n="348" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : la virgule est remplacée par un point. </note>, quoy que je ne me sois engagé qu’à vous parler des Autheurs dont l’on a joüé les pieces cet hyver ; Je ne me puis empescher<note n="349" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « Je ne puis m’empescher ».</note> de vous dire que le theatre a perdu l’illustre Abbé de Bois-Robert<note n="350" place="bottom"> L’abbé François Le Métel de Boisrobert (1592-1662), poète et dramaturge, secrétaire littéraire du Cardinal de Richelieu dès 1627, membre de l’Académie Française qu’il contribua à créer. Ses dernières pièces représentées datent de 1656. </note>, qui par generosité s’en est retiré luy-mesme, de peur que ses pieces n’étouffassent celles des fameux Autheurs qui se sont remis au Theatre depuis peu<note n="351" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : ici s’arrête la réplique du poète et tout le passage qui suit, jusqu’à la réplique du Baron (« Mais, Monsieur, c’est assez parler des autres […] »), est supprimé.</note>. Il y en a encor un dont je n’ay point parlé, qui joint l’espée à la plume ; il sçait faire des vers mieux qu’Homere, &amp; se bat aussi bien qu’Alexandre. On a joüé cet hyver<pb n="51" xml:id="pb51"/>au Petit Bourbon une piece de luy nommée Zenobie<note n="352" place="bottom"><hi rend="i">Zénobie, reine de Palmire</hi>, tragédie versifiée de Jean Magnon (1620-1662), représentée sept fois au Petit-Bourbon pendant tout le mois de décembre 1659. Seule pièce parmi celles citées par le Poète à avoir été représentée par la troupe de Molière, elle est l’occasion pour Somaize d’en railler les comédiens. Le registre tenu par La Grange nous apprend en effet que la première représentation ne fit que cent vingt-cinq livres et la troisième seulement cent : « un four », conclut La Grange le quatrième jour. Historiographe du roi depuis 1654, auteur réputé à tort ou à raison pour son orgueil et sa forfanterie, Magnon fut assassiné en avril 1662 sur le Pont-Neuf et sa mort défraya la chronique pendant plusieurs semaines : peut-être son caractère fougueux suggéré par les dires du Poète lui valurent-ils cette mort. Celle-ci reste pour autant mystérieuse. </note>.</p>
           </sp>
           <sp xml:id="I07-20" who="artemise">
             <speaker>Artemise.</speaker>
-            <p>Il est vray que j’ay <ref target="#ouir">oüy*</ref> dire qu’il y avoit de fort beaux vers.</p>
+            <p>Il est vray que j’ay <ref target="#ouir">oüy</ref> dire qu’il y avoit de fort beaux vers.</p>
           </sp>
           <sp xml:id="I07-21" who="le-poete">
             <speaker>le Poete.</speaker>
@@ -1917,7 +1917,7 @@
           </sp>
           <sp xml:id="I07-23" who="le-baron">
             <speaker>le Baron. </speaker>
-            <p>Ah ! je sçay quel est ce deffaut mieux<pb n="52" xml:id="pb52"/> que personne, &amp; un de mes amis le dit plaisamment à son Autheur, il fut jusques chez luy le trouver, luy ne le connoissant point, luy demanda ce qu’il souhaittoit ; mais il fut bien surpris quand il <ref target="#entendre3">entendit*</ref> qu’on avoit trouvé un grand deffaut dans sa piece, qui n’estoit inconnu à personne.</p>
+            <p>Ah ! je sçay quel est ce deffaut mieux<pb n="52" xml:id="pb52"/> que personne, &amp; un de mes amis le dit plaisamment à son Autheur, il fut jusques chez luy le trouver, luy ne le connoissant point, luy demanda ce qu’il souhaittoit ; mais il fut bien surpris quand il <ref target="#entendre3">entendit</ref> qu’on avoit trouvé un grand deffaut dans sa piece, qui n’estoit inconnu à personne.</p>
           </sp>
           <sp xml:id="I07-24" who="iscarie">
             <speaker>Iscarie.</speaker>
@@ -1929,11 +1929,11 @@
           </sp>
           <sp xml:id="I07-26" who="le-poete">
             <speaker>le Poete.</speaker>
-            <p>Il est tout vray que si l’<hi rend="sc">h</hi>ostel de <hi rend="sc">b</hi>ourgogne eût joüé cette piece, elle eust extremement reüssi ; car c’est un merveilleux assaisonnement à une piece que les bons comediens, &amp; tels malgré toute la fortune de leur nom, tels malgré la force de leur <ref target="#brigue">brigue*</ref> ne reüssiroient pas comme ils font, si l’on joüoit leurs pieces à <hi rend="sc">b</hi>ourbon.</p>
+            <p>Il est tout vray que si l’<hi rend="sc">h</hi>ostel de <hi rend="sc">b</hi>ourgogne eût joüé cette piece, elle eust extremement reüssi ; car c’est un merveilleux assaisonnement à une piece que les bons comediens, &amp; tels malgré toute la fortune de leur nom, tels malgré la force de leur <ref target="#brigue">brigue</ref> ne reüssiroient pas comme ils font, si l’on joüoit leurs pieces à <hi rend="sc">b</hi>ourbon.</p>
           </sp>
           <sp xml:id="I07-27" who="artemise">
             <speaker>Artemise.</speaker>
-            <p>Quoy ! Monsieur, il ne <ref target="#brigue">brigue*</ref> donc point du tout.</p>
+            <p>Quoy ! Monsieur, il ne <ref target="#brigue">brigue</ref> donc point du tout.</p>
           </sp>
           <sp xml:id="I07-28" who="le-poete">
             <speaker>le Poete.</speaker>
@@ -1945,11 +1945,11 @@
           </sp>
           <sp xml:id="I07-30" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p><ref target="#doute">Sans doute*</ref><note n="355" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : réplique supprimée.</note>.</p>
+            <p><ref target="#doute">Sans doute</ref><note n="355" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : réplique supprimée.</note>.</p>
           </sp>
           <sp xml:id="I07-31" who="le-poete">
             <speaker>le Poete.</speaker>
-            <p>Je vous diray donc pour entrer <ref target="#abord">d’abord*</ref> en matiere que j’ay fait deux pieces de<pb n="55" xml:id="pb55"/> stile differend, car l’une est une Tragedie nommée, <hi rend="i">la mort de <hi rend="sc">lusse-tu-cru</hi>.</hi><note n="356" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : A partir d’ici, la fin de la scène est modifiée et considérablement écourtée, avant de poursuivre de même avec la scène VIII. Le poète ne s’y livre à la lecture que d’une seule pièce : « <hi rend="sc">Le poete.</hi> : Je vous diray donc pour entrer d’abord en matiere que j’ay fait une piece intitulée, <hi rend="i">les Nopces de pantagruel.</hi>/ <hi rend="sc">le Baron</hi>. : Ah ! mes Dames qu’il a bien rencontré, qu’elle est bien imaginée, qu’il s’est bien devulgarisé./ <hi rend="sc">Iscarie</hi>. : Cela stupeficie mon ame./ <hi rend="sc">Artemise</hi>. : Pour moy cela m’enleve jusques au  troisiéme Ciel./ <hi rend="sc">Le Poete.</hi> : Je commence sans façonner. // LES / NOPCES / DE / PANTAGRUEL. / COMEDIE. / ACTE I. / SCENE PREMIERE. / <hi rend="sc">Pantagruel</hi>
+            <p>Je vous diray donc pour entrer <ref target="#abord">d’abord</ref> en matiere que j’ay fait deux pieces de<pb n="55" xml:id="pb55"/> stile differend, car l’une est une Tragedie nommée, <hi rend="i">la mort de <hi rend="sc">lusse-tu-cru</hi>.</hi><note n="356" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : A partir d’ici, la fin de la scène est modifiée et considérablement écourtée, avant de poursuivre de même avec la scène VIII. Le poète ne s’y livre à la lecture que d’une seule pièce : « <hi rend="sc">Le poete.</hi> : Je vous diray donc pour entrer d’abord en matiere que j’ay fait une piece intitulée, <hi rend="i">les Nopces de pantagruel.</hi>/ <hi rend="sc">le Baron</hi>. : Ah ! mes Dames qu’il a bien rencontré, qu’elle est bien imaginée, qu’il s’est bien devulgarisé./ <hi rend="sc">Iscarie</hi>. : Cela stupeficie mon ame./ <hi rend="sc">Artemise</hi>. : Pour moy cela m’enleve jusques au  troisiéme Ciel./ <hi rend="sc">Le Poete.</hi> : Je commence sans façonner. // LES / NOPCES / DE / PANTAGRUEL. / COMEDIE. / ACTE I. / SCENE PREMIERE. / <hi rend="sc">Pantagruel</hi>
                 <hi rend="i">entre avec un Confident, &amp; dit. : Où sont les violons. As-tu veu Dulcinée, / Pour qui mon ame est, fust &amp; sera calcinée./</hi>
                 <hi rend="sc">Le Baron</hi>. : <hi rend="i">Calcinée</hi>, que ce mot est emphatique./ <hi rend="sc">Le Confident</hi>. : <hi rend="i">Les violons sont prests, &amp; vous allez dans peu/ Oeillader comme il faut l’objet de vostre feu.</hi>/ <hi rend="sc">Pantagruel</hi>. : <hi rend="i">Ah ! que de tourbillons, excitent dans mon ame/ La boüillonnante ardeur de ma flotante flame./ Ah ! je sens que l’amour, ce fretillant nabot, drille dedans mon cœur, comme les pois en pot, / Il virvolte, il se tourne, il y fait la patroüille, / Sautille comme en l’eau feroit une grenoüille, / Il regimbe, il s’estend comme un cheval fougueux, / Qui prend le mors aux dents, &amp; bondit furieux, / Il va, monte, &amp; descend dans la chambre &amp; le bouge, / Il furte tous les coins, &amp; si jamais ne bouge.</hi>/ <hi rend="sc">Iscarie.</hi> : Ah ! laissez-moy admirer ses similitudes./ <hi rend="sc">Artemise</hi>. : Il faut avoüer que ces vers tonnent delicatement bien./ <hi rend="sc">Flanquin</hi>
                 <hi rend="i">à part</hi>. : Elles donnent dans le paneau./ <hi rend="sc">le Poete</hi>. : He ! de grace ne m’interrompez point ; ces sortes de choses veulent de larges poulmons, &amp; pour les faire paroistre il ne faut pas s’arrester au milieu ». </note></p>
@@ -1960,7 +1960,7 @@
           </sp>
           <sp xml:id="I07-33" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p>Mais quelle en est la <ref target="#catastrophe">catastrophe*</ref>, car c’est là la pierre d’achoppement<note n="357" place="bottom"><hi rend="i">Pierre d’achoppement</hi> : expression proverbiale pour désigner une  « occasion de faute et de scandale » (Furetière). </note> des Tragedies.</p>
+            <p>Mais quelle en est la <ref target="#catastrophe">catastrophe</ref>, car c’est là la pierre d’achoppement<note n="357" place="bottom"><hi rend="i">Pierre d’achoppement</hi> : expression proverbiale pour désigner une  « occasion de faute et de scandale » (Furetière). </note> des Tragedies.</p>
           </sp>
           <sp xml:id="I07-34" who="le-poete">
             <speaker>le Poete.</speaker>
@@ -1968,7 +1968,7 @@
           </sp>
           <sp xml:id="I07-35" who="le-baron">
             <speaker>le Baron. </speaker>
-            <p>Ah ! mes Dames qu’il a bien <ref target="#rencontrer">rencontré*</ref>, qu’elle est bien imaginée ! qu’il s’est bien devulgarisé<note n="359" place="bottom"> Invention de Somaize. A prendre au sens de « s’éloigner du vulgaire, du commun et de l’ordinaire ».</note> ! Ah ! cela me<pb n="56" xml:id="pb56"/>met dans la dernierre demangeson<note n="360" place="bottom"> Envie, désir. A l’article « démanger », Richelet note que « ce verbe se dit au figuré, mais il n’a lieu que dans la conversation, le stile simple et le burlesque ».</note> de sçavoir le nom de vostre comedie.</p>
+            <p>Ah ! mes Dames qu’il a bien <ref target="#rencontrer">rencontré</ref>, qu’elle est bien imaginée ! qu’il s’est bien devulgarisé<note n="359" place="bottom"> Invention de Somaize. A prendre au sens de « s’éloigner du vulgaire, du commun et de l’ordinaire ».</note> ! Ah ! cela me<pb n="56" xml:id="pb56"/>met dans la dernierre demangeson<note n="360" place="bottom"> Envie, désir. A l’article « démanger », Richelet note que « ce verbe se dit au figuré, mais il n’a lieu que dans la conversation, le stile simple et le burlesque ».</note> de sçavoir le nom de vostre comedie.</p>
           </sp>
           <sp xml:id="I07-36" who="le-poete">
             <speaker>le Poete.</speaker>
@@ -1976,7 +1976,7 @@
           </sp>
           <sp xml:id="I07-37" who="le-baron">
             <speaker>le Baron. </speaker>
-            <p>Il ne s’est point <ref target="#dementir">desmenty*</ref>, ce titre est incomparable.</p>
+            <p>Il ne s’est point <ref target="#dementir">desmenty</ref>, ce titre est incomparable.</p>
           </sp>
           <sp xml:id="I07-38" who="iscarie">
             <speaker>Iscarie.</speaker>
@@ -1996,8 +1996,8 @@
           <stage>LUSSE-TU-CRU. seul ouvre le Theatre.</stage>
           <sp xml:id="I08-1" who="lusse-tu-cru">
             <speaker>Lusse-tu-cru.</speaker>
-            <l n="13" xml:id="l13" rend="i">Jamais l’<ref target="#hidre">hidre*</ref> fecond en mille &amp; mille testes,</l>
-            <l n="14" xml:id="l14" rend="i">N'excita tant de <ref target="#bruit">bruit*</ref> ny de telles tempestes.</l>
+            <l n="13" xml:id="l13" rend="i">Jamais l’<ref target="#hidre">hidre</ref> fecond en mille &amp; mille testes,</l>
+            <l n="14" xml:id="l14" rend="i">N'excita tant de <ref target="#bruit">bruit</ref> ny de telles tempestes.</l>
             <l n="15" xml:id="l15"><hi rend="i">Que cause de douleurs en moy Lusse-tu-cru</hi>,<pb n="58" xml:id="pb58"/></l>
             <l n="16" xml:id="l16"><hi rend="i">La femme acariastre, &amp; gueuse de vertu</hi><note n="363" place="bottom"> Qui n’a aucune vertu (être « gueux » signifie être pauvre, en nécessité).</note>,</l>
             <l n="17" xml:id="l17"><hi rend="i">Par sa langue maudite, &amp; tousjours empestée</hi><note n="364" place="bottom"><hi rend="i">Empester</hi> : « apporter la peste en quelque lieu. On le dit par extension des choses puantes et corrompues » (Furetière).</note>,</l>
@@ -2011,7 +2011,7 @@
           </sp>
           <sp xml:id="I08-2" who="le-baron">
             <speaker>le Baron. </speaker>
-            <p>Ah ! Monsieur, arrestez<pb n="59" xml:id="pb59"/>&amp; donnez-nous le loisir de nous extasier sur la magnificence de vos <ref target="#signifiant">signifiantes*</ref> expressions.</p>
+            <p>Ah ! Monsieur, arrestez<pb n="59" xml:id="pb59"/>&amp; donnez-nous le loisir de nous extasier sur la magnificence de vos <ref target="#signifiant">signifiantes</ref> expressions.</p>
           </sp>
           <sp xml:id="I08-3" who="iscarie">
             <speaker>Iscarie.</speaker>
@@ -2019,11 +2019,11 @@
           </sp>
           <sp xml:id="I08-4" who="le-poete">
             <speaker>le Poete.</speaker>
-            <p>Ils parlent un peu contre le sexe, mais dans mon <hi rend="i"><hi rend="sc">p</hi>antagruel</hi>, je le <ref target="#justifier">justifie*</ref> comme il faut.</p>
+            <p>Ils parlent un peu contre le sexe, mais dans mon <hi rend="i"><hi rend="sc">p</hi>antagruel</hi>, je le <ref target="#justifier">justifie</ref> comme il faut.</p>
           </sp>
           <sp xml:id="I08-5" who="artemise">
             <speaker>Artemise.</speaker>
-            <p>Ah ! que j’ay d’empressement d’<ref target="#ouir">oüir*</ref> ce qu’il fait pour nous,</p>
+            <p>Ah ! que j’ay d’empressement d’<ref target="#ouir">oüir</ref> ce qu’il fait pour nous,</p>
           </sp>
           <sp xml:id="I08-6" who="le-baron">
             <speaker>le Baron. </speaker>
@@ -2031,7 +2031,7 @@
           </sp>
           <sp xml:id="I08-7" who="le-poete">
             <speaker>le Poete.</speaker>
-            <p>He ! bien, je commence sans <ref target="#faconner">façonner*</ref>. <hi rend="i"><hi rend="sc">p</hi>antagruel</hi>, entre avec un confident &amp; dit,</p>
+            <p>He ! bien, je commence sans <ref target="#faconner">façonner</ref>. <hi rend="i"><hi rend="sc">p</hi>antagruel</hi>, entre avec un confident &amp; dit,</p>
             <l n="25" xml:id="l25"><hi rend="i">Où sont les violons. As-tu veu Dulcinée</hi><note n="370" place="bottom"> Dulcinée est en réalité l’aimée de Don Quichotte, à qui il dédie toutes ses actions, et non la fiancée du héros rabelaisien, dont le mariage avec la fille du roi des Indes n’est que rapidement annoncé au chapitre XXXIV du <hi rend="i">Pantagruel.</hi></note>,</l>
             <l n="26" xml:id="l26"><hi rend="i">Pour qui mon ame est, fust &amp; sera calcinée</hi><note n="371" place="bottom"> Métaphore filée de l’amour comme feu dévorant, lieu commun de la poésie amoureuse galante.  </note>,</l>
           </sp>
@@ -2045,19 +2045,19 @@
             <l n="28" xml:id="l28">
               <hi rend="i">Oeillader</hi>
               <note n="373" place="bottom"> Mot rare pour dire « regarder ». On le trouve dans la célèbre comédie de Desmarets, <hi rend="i">Les Visionnaires</hi>, représentée en 1659 au Petit-Bourbon.</note>
-              <hi rend="i">comme il faut l’objet de vostre <ref target="#feu">feu*</ref>.</hi>
+              <hi rend="i">comme il faut l’objet de vostre <ref target="#feu">feu</ref>.</hi>
               <pb n="F 61" xml:id="pb61"/>
             </l>
           </sp>
           <sp xml:id="I08-10" who="pantagruel">
             <speaker>Pantagruel.</speaker>
             <l n="29" xml:id="l29" rend="i">Ah ! que de tourbillons, excite dans mon ame</l>
-            <l n="30" xml:id="l30" rend="i">La boüillonnante <ref target="#ardeur2">ardeur*</ref> de ma flotante flame.</l>
+            <l n="30" xml:id="l30" rend="i">La boüillonnante <ref target="#ardeur2">ardeur</ref> de ma flotante flame.</l>
             <l n="31" xml:id="l31"><hi rend="i">Ah ! je sens que l’amour, ce fretillant nabot</hi><note n="374" place="bottom"><hi rend="i">Nabot</hi> : « qui est de petite taille. On ne le dit qu’en burlesque, comme a fait Scarron : <hi rend="i">Amour nabot, qui du jabot/ De Dom Japhet, as fait/ Une ardente fournaise.</hi> » (Furetière).</note>,</l>
             <l n="32" xml:id="l32"><hi rend="i">Drisle</hi><note n="375" place="bottom"><hi rend="i">Drisler</hi> (plus couramment driller) : « courir viste. C'est un terme bas et populaire, qui se dit des laquais, des soldats, des gueux qui s’enfuyent, ou qu’on fait courir » (Furetière).</note><hi rend="i">dedans mon cœur, comme les pois en pot</hi><note n="376" place="bottom"> « On dit qu’il va et vient comme pois en pot, pour dire, qu’il est inquiet, qu’il fait plusieurs allées et venuës » (Furetière).</note>,</l>
             <l n="33" xml:id="l33" rend="i">Il virvolte, il se tourne, il y fait la patroüille,</l>
             <l n="34" xml:id="l34" rend="i">Sautille comme en l’eau feroit une grenoüille,</l>
-            <l n="35" xml:id="l35" rend="i">Il <ref target="#rejimber">rejimbe*</ref>, il s’estend comme un cheval fougeux,</l>
+            <l n="35" xml:id="l35" rend="i">Il <ref target="#rejimber">rejimbe</ref>, il s’estend comme un cheval fougeux,</l>
             <l n="36" xml:id="l36"><hi rend="i">Qui prend le mors aux dents, &amp; bondit furieux</hi><note n="377" place="bottom"> Diérèse : prononcer « furieux » en trois syllabes. Même  diérèse au vers 949.</note>,</l>
             <l n="37" xml:id="l37" rend="i">Il va, monte, &amp; descend dans la chambre &amp; le bouge,</l>
             <l n="38" xml:id="l38">
@@ -2071,7 +2071,7 @@
           </sp>
           <sp xml:id="I08-11" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p>Ah ! laissez moy admirer ces <ref target="#similitude">similitudes*</ref>, je trouve ces vers là tout à fait espais.<hi rend="sup">n</hi></p>
+            <p>Ah ! laissez moy admirer ces <ref target="#similitude">similitudes</ref>, je trouve ces vers là tout à fait espais.<hi rend="sup">n</hi></p>
             <p>(n Empoullez.)</p>
           </sp>
           <sp xml:id="I08-12" who="le-poete">
@@ -2108,13 +2108,13 @@
             <p>Il peut entrer.</p>
           </sp>
           <sp xml:id="I09-3" who="le-poete">
-            <speaker>le Poete <hi rend="i">(en se levant.)</hi></speaker>
+            <speaker>le Poete </speaker><stage>(en se levant.)</stage>
             <p>Ah ! qu’il vient mal à<pb n="64" xml:id="pb64"/>propos<note n="383" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : la réplique du poète s’achève ici.     </note> empescher mon Apologie d’éclatter : car j’en suis à cet endroit.</p>
           </sp>
           <sp xml:id="I09-4" who="iscarie">
             <speaker>Iscarie.</speaker>
             <p>Monsieur, vous pourrez poursuivre, bien que ce soit un Bourgeois, il n’est point façonnier, &amp; ce n’est point un esprit de Marguillier<note n="384" place="bottom"><hi rend="i">Marguiller</hi> : « Celui qui a l’administration des affaires temporelles d’une Eglise, d’une Paroisse, qui a soin de la fabrique de l’œuvre. (…) Les bourgeois briguent fort la <hi rend="i">Marguillerie</hi>  » (Furetière).</note>.<hi rend="sup">q</hi></p>
-            <p>(q Sombre &amp; <ref target="#vulgaire">vulgaire*</ref>)</p>
+            <p>(q Sombre &amp; <ref target="#vulgaire">vulgaire</ref>)</p>
           </sp>
           <sp xml:id="I09-5" who="artemise">
             <speaker>Artemise.</speaker>
@@ -2122,11 +2122,11 @@
             <p>(r Grande ame.)</p>
           </sp>
           <sp xml:id="I09-6" who="flanquin">
-            <speaker>Flanquin. <hi rend="i">(à part.)</hi><note n="385" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « <hi rend="i">à part, &amp; escrivant.</hi> ».</note></speaker>
+            <speaker>Flanquin. <note n="385" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « <hi rend="i">à part, &amp; escrivant.</hi> ».</note></speaker><stage>(à part.)</stage>
             <p>Je n’oublieray pas ceux cy.</p>
           </sp>
           <sp xml:id="I09-7" who="iscarie">
-            <speaker>Iscarie. <hi rend="i">(à sa suivante.)</hi></speaker>
+            <speaker>Iscarie. </speaker><stage>(à sa suivante.)</stage>
             <p>Ne vous éloignez pas de la portée de ma voix.<hi rend="sup">s</hi><pb n="65" xml:id="pb65"/></p>
             <p>(s Ne vous en allez pas.)</p>
           </sp>
@@ -2136,15 +2136,15 @@
             <p>Mes Dames que faites vous donc de cet honneste homme<note n="386" place="bottom"> Honnête : « on le dit premièrement de l’homme de bien, du galant homme, qui a pris l’air du monde, qui sait vivre » ; mais « se dit aussi de ce qui n’en a que la mine, l’apparence, l’habit. Cet homme est bien vêtu, il a la mine d’un <hi rend="i">honnête</hi> homme, et cependant c’est un filou ». « Se dit souvent de ce qui est médiocre » (Furetière).</note> icy.</p>
           </sp>
           <sp xml:id="I09-9" who="le-poete">
-            <speaker>le Poete. <hi rend="i">(à part.)</hi></speaker>
+            <speaker>le Poete. </speaker><stage>(à part.)</stage>
             <p>Tout est gasté.</p>
           </sp>
           <sp xml:id="I09-10" who="flanquin">
-            <speaker>Flanquin. <hi rend="i">(à part.)</hi></speaker>
+            <speaker>Flanquin. </speaker><stage>(à part.)</stage>
             <p>La mesche est découverte<note n="387" place="bottom"> « Découvrir ou éventer la <hi rend="i">mesche</hi>, c’est-à-dire, découvrir quelque trame, quelque entreprise secrète et nuisible qu’on fait contre quelqu’un, par allusion à la <hi rend="i">mesche</hi> d’une mine qu’on empêche de jouer, quand on la peut découvrir » (Furetière).</note>.</p>
           </sp>
           <sp xml:id="I09-11" who="iscarie">
-            <speaker>Iscarie.<hi rend="i">(monstrant le Baron.)</hi></speaker>
+            <speaker>Iscarie.</speaker><stage>(monstrant le Baron.)</stage>
             <p>C'est un grand Poëte, que Monsieur nous a amené, &amp; qui nous a charmé des beaux vers qu’il nous a recitez.</p>
           </sp>
           <sp xml:id="I09-12" who="greval">
@@ -2153,15 +2153,15 @@
           </sp>
           <sp xml:id="I09-13" who="le-poete">
             <speaker>le Poete.</speaker>
-            <p>Ma foy, puis que vous me connoissez si bien,<note n="389" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : pas de virgule, mais un point après « de la chose ».</note> je vais vous dire la verité de la chose, mon Maistre estant mort, je me trouvé fort embarassé de ma personne, parce que je me trouvois fort <ref target="#gueux">gueux*</ref>, &amp; que je n’avois gagné à son service que la methode de faire des vers <hi rend="i">cocy, cocy</hi><note n="390" place="bottom"> On trouve, seulement tardivement, dans l’édition de 1798 du Dictionnaire de l’Académie Française, l’expression <hi rend="i">couci-couci</hi> (équivalent du <hi rend="i">couci-couça</hi> actuel qui n’y apparaît que dans l’édition de 1932), adjointe à l’explication suivante : « Terme familier, pour dire, À peu près, tellement quellement ». Cette locution est vraisemblablement dérivée de l’italien <hi rend="i">così così</hi> et la francisation en est encore fluctuante. </note>, le sieur de la Force, dit Gilles le Niais, voyant que je ne sçavois où donner de la teste, &amp; que je luy pouvois estre utile dans sa troupe<note n="391" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : pas de virgule après « si bien » ni après « Bourbon ».</note>, me pria d’y entrer : j’y resistay d’abord ne voulant point passer pour un Farceur<note n="392" place="bottom"><hi rend="i">Farceur</hi> : « terme de mépris qui se dit au propre d’un Comedien qui joue la farce, et figurément d’un autre homme qui fait des bouffonnerie » (Dictionnaire de l’Académie Française, 1694). </note> ; mais il me <ref target="#representer">representa*</ref> que toutes les personnes les plus illustres de Paris, alloient tous les jours voir la farce au Petit Bourbon, &amp; me persuada<pb n="67" xml:id="pb67"/>si bien, que les siennes estoient aussi <ref target="#honneste">honnestes*</ref> que plusieurs de celles que Mascarille a faites, que je me laissay vaincre, &amp; que j’entray dans sa troupe. Quelque temps apres voyant que Bourbon, nous ostoit tous nos chalans, il fit <ref target="#dessein">dessein*</ref> de jouër dans un lieu fermé, de me faire composer quelques Comedies, de mettre de bonnes Farces au bout, &amp; d’y prendre de l’argent de mesme que les autres, &amp; comme il sçavoit que le succez des Pieces ne dépendoit pas tant de leur bonté, que de la brigue de leurs Autheurs ; il a trouvé le moyen de m’introduire dans les Compagnies<note n="393" place="bottom"> Dans les cercles mondains.</note>, &amp; il y a desja plus de deux cens personnes qui sont infatuez de mes Pieces.<pb n="68" xml:id="pb68"/></p>
+            <p>Ma foy, puis que vous me connoissez si bien,<note n="389" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : pas de virgule, mais un point après « de la chose ».</note> je vais vous dire la verité de la chose, mon Maistre estant mort, je me trouvé fort embarassé de ma personne, parce que je me trouvois fort <ref target="#gueux">gueux</ref>, &amp; que je n’avois gagné à son service que la methode de faire des vers <hi rend="i">cocy, cocy</hi><note n="390" place="bottom"> On trouve, seulement tardivement, dans l’édition de 1798 du Dictionnaire de l’Académie Française, l’expression <hi rend="i">couci-couci</hi> (équivalent du <hi rend="i">couci-couça</hi> actuel qui n’y apparaît que dans l’édition de 1932), adjointe à l’explication suivante : « Terme familier, pour dire, À peu près, tellement quellement ». Cette locution est vraisemblablement dérivée de l’italien <hi rend="i">così così</hi> et la francisation en est encore fluctuante. </note>, le sieur de la Force, dit Gilles le Niais, voyant que je ne sçavois où donner de la teste, &amp; que je luy pouvois estre utile dans sa troupe<note n="391" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : pas de virgule après « si bien » ni après « Bourbon ».</note>, me pria d’y entrer : j’y resistay d’abord ne voulant point passer pour un Farceur<note n="392" place="bottom"><hi rend="i">Farceur</hi> : « terme de mépris qui se dit au propre d’un Comedien qui joue la farce, et figurément d’un autre homme qui fait des bouffonnerie » (Dictionnaire de l’Académie Française, 1694). </note> ; mais il me <ref target="#representer">representa</ref> que toutes les personnes les plus illustres de Paris, alloient tous les jours voir la farce au Petit Bourbon, &amp; me persuada<pb n="67" xml:id="pb67"/>si bien, que les siennes estoient aussi <ref target="#honneste">honnestes</ref> que plusieurs de celles que Mascarille a faites, que je me laissay vaincre, &amp; que j’entray dans sa troupe. Quelque temps apres voyant que Bourbon, nous ostoit tous nos chalans, il fit <ref target="#dessein">dessein</ref> de jouër dans un lieu fermé, de me faire composer quelques Comedies, de mettre de bonnes Farces au bout, &amp; d’y prendre de l’argent de mesme que les autres, &amp; comme il sçavoit que le succez des Pieces ne dépendoit pas tant de leur bonté, que de la brigue de leurs Autheurs ; il a trouvé le moyen de m’introduire dans les Compagnies<note n="393" place="bottom"> Dans les cercles mondains.</note>, &amp; il y a desja plus de deux cens personnes qui sont infatuez de mes Pieces.<pb n="68" xml:id="pb68"/></p>
           </sp>
           <sp xml:id="I09-14" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p>Et quoy ! Monsieur, <ref target="#souffrir2">souffrez*</ref>-vous sans l’assommer qu’un coquin vous <ref target="#jouer">jouë*</ref> de la sorte ; car enfin c’est vous qui avez esté le premier duppé.</p>
+            <p>Et quoy ! Monsieur, <ref target="#souffrir2">souffrez</ref>-vous sans l’assommer qu’un coquin vous <ref target="#jouer">jouë</ref> de la sorte ; car enfin c’est vous qui avez esté le premier duppé.</p>
           </sp>
           <sp xml:id="I09-15" who="le-baron">
             <speaker>le Baron. </speaker>
-            <p>Dites, dites, plustost qu’il n’y a que vous seulles, &amp; pour vous le persuader apprenez que je suis la Force, dit Gilles le Niais en mon nom de theatre, que je vous ay rendu trois ou quatre visites pour connoistre vostre humeur, &amp; qu’ayant veu que vous estiez faciles à <ref target="#decevoir">decevoir*</ref>, nous nous sommes enquis mon camarade &amp; moy, de la reputation de tous les Autheurs, de leurs pieces nouvelles<note n="394" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « de la reputation de tous les Autheurs &amp; de leurs Pieces nouvelles. »</note>. Nous avons appris<pb n="69" xml:id="pb69"/>quelques mots pretieux, &amp; nous sommes apres demeurez d’accord qu’il viendroit icy quand je serois avec vous, qu’il liroit ses pieces<note n="395" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « sa Piece ».</note>, &amp; que j’admirerois tout, pour vous faire donner dans le panneau<note n="396" place="bottom"> « On dit qu’un homme a donné dans le panneau, ou simplement, qu’il a donné dedans, pour dire, qu’il a été attrapé par quelque finesse, ou par quelque piège qu’on lui a tendu » (Furetière).</note>. Flanquin, que voila avecque moy, &amp; qui est de nostre troupe a bien joüé aussi son rolle, &amp; en contrefaisant le pretieux a bien sceu dupper la suivante.</p>
+            <p>Dites, dites, plustost qu’il n’y a que vous seulles, &amp; pour vous le persuader apprenez que je suis la Force, dit Gilles le Niais en mon nom de theatre, que je vous ay rendu trois ou quatre visites pour connoistre vostre humeur, &amp; qu’ayant veu que vous estiez faciles à <ref target="#decevoir">decevoir</ref>, nous nous sommes enquis mon camarade &amp; moy, de la reputation de tous les Autheurs, de leurs pieces nouvelles<note n="394" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « de la reputation de tous les Autheurs &amp; de leurs Pieces nouvelles. »</note>. Nous avons appris<pb n="69" xml:id="pb69"/>quelques mots pretieux, &amp; nous sommes apres demeurez d’accord qu’il viendroit icy quand je serois avec vous, qu’il liroit ses pieces<note n="395" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « sa Piece ».</note>, &amp; que j’admirerois tout, pour vous faire donner dans le panneau<note n="396" place="bottom"> « On dit qu’un homme a donné dans le panneau, ou simplement, qu’il a donné dedans, pour dire, qu’il a été attrapé par quelque finesse, ou par quelque piège qu’on lui a tendu » (Furetière).</note>. Flanquin, que voila avecque moy, &amp; qui est de nostre troupe a bien joüé aussi son rolle, &amp; en contrefaisant le pretieux a bien sceu dupper la suivante.</p>
           </sp>
           <sp xml:id="I09-16" who="artemise">
             <speaker>Artemise.</speaker>
@@ -2177,11 +2177,11 @@
           </sp>
           <sp xml:id="I09-19" who="le-baron">
             <speaker>le Baron. </speaker>
-            <p>Nous craignons peu vos menaces, &amp; nous sommes tous trois bien resolus de nous defendre<note n="397" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : un point conclut cette proposition.</note> si l’on nous attaque, sçachez donc avant que je sorte, que puis que Mascarille vous rend visite, vous devez bien me <ref target="#souffrir1">souffrir*</ref>, que s’il s’est acquis par ses Farces la reputation d’avoir de l’esprit, que j’en fais aussi bien que luy sans l’aide des Italiens, &amp; qu’enfin si la veufve de Guilotgorju<note n="398" place="bottom"> Le rôle célèbre de Guillot-Gorju était joué par Bertrand Haudouin de Saint-Jacques, « né à Paris le 31 août 1600, (…) fils de Philippe Hardouin de Saint-Jacques, docteur régent de la Faculté de médecine. Bertrand Hardouin exerça quelque temps la profession de son père et débuta seulement en 1634 sur le théâtre de l’Hôtel de Bourgogne. Il se retira vers 1642 et mourut rue Montorgueil le 5 juillet 1648 » (Campardon, <hi rend="i">Les Comédiens du roi de la troupe française</hi>, 1879, pp. 122 – 123). Il excellait notamment dans les rôles de médecins ridicules, qu’il contrefaisait avec verve. </note>, mon Maistre &amp; le sien, ne luy eust vendu les Memoires de son mary, ces Farces ne luy eussent jamais donné tant de gloire.</p>
+            <p>Nous craignons peu vos menaces, &amp; nous sommes tous trois bien resolus de nous defendre<note n="397" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : un point conclut cette proposition.</note> si l’on nous attaque, sçachez donc avant que je sorte, que puis que Mascarille vous rend visite, vous devez bien me <ref target="#souffrir1">souffrir</ref>, que s’il s’est acquis par ses Farces la reputation d’avoir de l’esprit, que j’en fais aussi bien que luy sans l’aide des Italiens, &amp; qu’enfin si la veufve de Guilotgorju<note n="398" place="bottom"> Le rôle célèbre de Guillot-Gorju était joué par Bertrand Haudouin de Saint-Jacques, « né à Paris le 31 août 1600, (…) fils de Philippe Hardouin de Saint-Jacques, docteur régent de la Faculté de médecine. Bertrand Hardouin exerça quelque temps la profession de son père et débuta seulement en 1634 sur le théâtre de l’Hôtel de Bourgogne. Il se retira vers 1642 et mourut rue Montorgueil le 5 juillet 1648 » (Campardon, <hi rend="i">Les Comédiens du roi de la troupe française</hi>, 1879, pp. 122 – 123). Il excellait notamment dans les rôles de médecins ridicules, qu’il contrefaisait avec verve. </note>, mon Maistre &amp; le sien, ne luy eust vendu les Memoires de son mary, ces Farces ne luy eussent jamais donné tant de gloire.</p>
           </sp>
           <sp xml:id="I09-20" who="iscarie">
             <speaker>Iscarie.</speaker>
-            <p>Ah ! je me lasse de vous <ref target="#entendre2">entendre*</ref><note n="399" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « Ah ! je suis lasse de vous entendre ».    </note>, &amp; si vous ne sortez j’envoyeray querir un mauvais ange des criminels.<hi rend="sup">t</hi><pb n="71" xml:id="pb71"/></p>
+            <p>Ah ! je me lasse de vous <ref target="#entendre2">entendre</ref><note n="399" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « Ah ! je suis lasse de vous entendre ».    </note>, &amp; si vous ne sortez j’envoyeray querir un mauvais ange des criminels.<hi rend="sup">t</hi><pb n="71" xml:id="pb71"/></p>
             <p>(t Un Sergent.)</p>
           </sp>
           <sp xml:id="I09-21" who="le-baron">
@@ -2189,9 +2189,9 @@
             <p>Puis que mon rolle est achevé, il faut bien que je sorte. Allons mes compagnons. Adieu, mes Dames.</p>
           </sp>
           <sp xml:id="I09-22" who="flanquin">
-            <speaker>Flanquin. <hi rend="i">(à part en tirant Isabelle.)</hi></speaker>
+            <speaker>Flanquin. </speaker><stage>(à part en tirant Isabelle.)</stage>
             <p>Si tu veux venir dans nostre Troupe, nous gagnerons bien de l’argent ; car nous allons jouër les trois Docteurs &amp; les Pretieuses Ridicules<note n="400" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : « car nous allons joüer les trois Docteurs &amp; le Cocu Imaginaire. »</note>.</p>
-            <p>FIN.<note n="401" place="bottom"> La seconde édition contient l’avis au lecteur suivant : « <hi rend="i">Il faut que je vous confesse, Amy Lecteur, que le succez de cette Piece a de beaucoup surpassé mon attente, &amp; que je ne croyois pas que vous la deussiez faire retourner chez l’Imprimeur ; mais puis qu’il est ainsi, je crois estre obligé de vous dire, que j’ay retranché dans cette Edition ce qu’il y avoit de Lusse-tu-crû dans la premiere, non que je l’estimasse mauvais, quoy que tout à fait populaire (puis que j’aurois mal fait de mettre quelque chose de meilleur dans la bouche de ceux qui en parloient) mais parce que ce qui est bon dans un temps, seroit une mauvaise plaisanterie dans un autre, &amp; que Lanturelu qui a autrefois diverty les personnes les plus spirituelles, ne seroit pas maintenant reconnû des plus stupides, à moins que l’on ne fist son histoire.</hi> »</note></p>
+            <trailer>FIN.<note n="401" place="bottom"> La seconde édition contient l’avis au lecteur suivant : « <hi rend="i">Il faut que je vous confesse, Amy Lecteur, que le succez de cette Piece a de beaucoup surpassé mon attente, &amp; que je ne croyois pas que vous la deussiez faire retourner chez l’Imprimeur ; mais puis qu’il est ainsi, je crois estre obligé de vous dire, que j’ay retranché dans cette Edition ce qu’il y avoit de Lusse-tu-crû dans la premiere, non que je l’estimasse mauvais, quoy que tout à fait populaire (puis que j’aurois mal fait de mettre quelque chose de meilleur dans la bouche de ceux qui en parloient) mais parce que ce qui est bon dans un temps, seroit une mauvaise plaisanterie dans un autre, &amp; que Lanturelu qui a autrefois diverty les personnes les plus spirituelles, ne seroit pas maintenant reconnû des plus stupides, à moins que l’on ne fist son histoire.</hi> »</note></trailer>
           </sp>
         </div>
       </div>
@@ -2206,56 +2206,56 @@
       <div>
         <head>Lexique des Véritables Prétieuses</head>
         <entryFree xml:id="abord">
-          <form>* Abord (d’)</form>
+          <form> Abord (d’)</form>
           <def>Aussitôt, tout de suite</def>
           <xr>P. [<ref target="#pb54">54</ref>]</xr>
         </entryFree>
         <entryFree xml:id="air">
-          <form>* Air (l’)</form>
+          <form> Air (l’)</form>
           <def>Les manières, « manière d’agir, de parler, de vivre » (Furetière)</def>
           <xr>P. [<ref target="#pb4">4</ref>]</xr>
         </entryFree>
         <entryFree xml:id="amour">
-          <form>* Amour (faire l’)</form>
+          <form> Amour (faire l’)</form>
           <def>Courtiser</def>
           <xr>P. [<ref target="#pb22">22</ref>]</xr>
         </entryFree>
         <entryFree xml:id="antiquite">
-          <form>* Antiquité</form>
+          <form> Antiquité</form>
           <def>Ancienneté</def>
           <xr>P. [<ref target="#pb33">33</ref>]</xr>
         </entryFree>
         <entryFree xml:id="appas">
-          <form>* Appas</form>
+          <form> Appas</form>
           <def>Plus précisément, « se dit figurément en choses morales de ce qui sert à attraper les hommes » (Furetière)</def>
           <xr>P.  [<ref target="#pb5">5</ref>] ; P. [<ref target="#pb24">24</ref>] ; P. [<ref target="#pb33">33</ref>]</xr>
         </entryFree>
         <entryFree>
-          <form>* Ardeur</form>
+          <form> Ardeur</form>
           <def xml:id="ardeur1">Passion</def>
           <xr>P. [<ref target="#pb27">27</ref>]</xr>
           <def xml:id="ardeur2">Vivacité</def>
           <xr>P. [<ref target="#pb61">61</ref>]</xr>
         </entryFree>
         <entryFree xml:id="aveu">
-          <form>* Aveu</form>
+          <form> Aveu</form>
           <def>Approbation, « protection, ordre ou consentement donné » (Furetière)</def>
           <xr>
             <ref target="#epitre">Épître</ref>
           </xr>
         </entryFree>
         <entryFree xml:id="avidite">
-          <form>* Avidité</form>
+          <form> Avidité</form>
           <def>Grande ardeur</def>
           <xr>P. [<ref target="#pb28">28</ref>]</xr>
         </entryFree>
         <entryFree xml:id="balancer">
-          <form>* Balancer</form>
+          <form> Balancer</form>
           <def>Hésiter, « se dit figurément de l’examen qu’on fait dans son esprit des raisons qui le tiennent en suspens, et qui le font incliner de part et d’autre » (Furetière)</def>
           <xr>P. [<ref target="#pb14">14</ref>]</xr>
         </entryFree>
         <entryFree xml:id="brigue">
-          <form>* Brigue</form>
+          <form> Brigue</form>
           <def>« Poursuite ardente pour obtenir quelque chose », « cabale qui est intéressée » (Furetière). On parle d’obtenir des suffrages par brigue, ou encore de briguer de la réputation.</def>
           <xr>P. [<ref target="#pb53">53</ref>]</xr>
         </entryFree>
@@ -2265,72 +2265,72 @@
           <xr>P. [<ref target="#pb45">45</ref>]</xr>
         </entryFree>
         <entryFree xml:id="bruit">
-          <form>* Bruit</form>
+          <form> Bruit</form>
           <def>Rumeur, nouvelles</def>
           <xr>P. [<ref target="#pb44">44</ref>] ; P. [<ref target="#pb57">57</ref>]</xr>
         </entryFree>
         <entryFree xml:id="capable">
-          <form>* Capable</form>
+          <form> Capable</form>
           <def>Savant</def>
           <xr>P. [<ref target="#pb27">27</ref>]</xr>
         </entryFree>
         <entryFree xml:id="catastrophe">
-          <form>* Catastrophe</form>
+          <form> Catastrophe</form>
           <def>« C’est le changement et la révolution qui se fait dans un Poème dramatique, et qui le termine ordinairement » (Furetière), évènement final qui permet le dénouement d’une tragédie</def>
           <xr>P. [<ref target="#pb55">55</ref>]</xr>
         </entryFree>
         <entryFree xml:id="chagrin">
-          <form>* Chagrin</form>
+          <form> Chagrin</form>
           <def>Désagrément</def>
           <xr>P. [<ref target="#pb1">1</ref>] ; P. [<ref target="#pb26">26</ref>]</xr>
         </entryFree>
         <entryFree xml:id="col">
-          <form>* Col</form>
+          <form> Col</form>
           <def>Cou</def>
           <xr>P. [<ref target="#pb6">6</ref>]</xr>
         </entryFree>
         <entryFree xml:id="connoistre">
-          <form>* Connoistre</form>
+          <form> Connoistre</form>
           <def>Savoir</def>
           <xr>P. [<ref target="#pb19">19</ref>] ; P. [<ref target="#pb27">27</ref>] ; P. [<ref target="#pb41">41</ref>]</xr>
         </entryFree>
         <entryFree xml:id="debuter">
-          <form>* Debutter</form>
+          <form> Debutter</form>
           <def>« Se dit souvent ironiquement de ceux qui font ou qui disent mal à propos quelque chose qu’on désapprouve » (Furetière)</def>
           <xr> P. [<ref target="#pb12">12</ref>]</xr>
         </entryFree>
         <entryFree xml:id="decevoir">
-          <form>* Decevoir</form>
+          <form> Decevoir</form>
           <def>« Tromper adroitement » (Furetière)</def>
           <xr>P. [<ref target="#pb68">68</ref>]</xr>
         </entryFree>
         <entryFree xml:id="dementir">
-          <form>* Démentir (se)</form>
+          <form> Démentir (se)</form>
           <def>« Se dédire, se relâcher » (Richelet)</def>
           <xr>P. [<ref target="#pb56">56</ref>]</xr>
         </entryFree>
         <entryFree xml:id="desordre">
-          <form>* Desordre</form>
+          <form> Desordre</form>
           <def>Confusion, dérèglement (de l’esprit) vis-à-vis d’une loi établie</def>
           <xr>P. [<ref target="#pb13">13</ref>]</xr>
         </entryFree>
         <entryFree xml:id="dessein">
-          <form>* Dessein</form>
+          <form> Dessein</form>
           <def>Projet, intention</def>
           <xr>P. [<ref target="#pb5">5</ref>] ; P. [<ref target="#pb11">11</ref>] ; P. [<ref target="#pb46">46</ref>] ; P. [<ref target="#pb67">67</ref>]</xr>
         </entryFree>
         <entryFree xml:id="destin">
-          <form>* Destin</form>
+          <form> Destin</form>
           <def>Dessein (sens archaïque)</def>
           <xr>P. [<ref target="#pb48">48</ref>]</xr>
         </entryFree>
         <entryFree xml:id="disner">
-          <form>* Disner</form>
+          <form> Disner</form>
           <def>Déjeuner</def>
           <xr>P. [<ref target="#pb35">35</ref>]</xr>
         </entryFree>
         <entryFree xml:id="disputer">
-          <form>* Disputer</form>
+          <form> Disputer</form>
           <def>Débattre, contester en argumentant</def>
           <xr>P. [<ref target="#pb10">10</ref>]</xr>
         </entryFree>
@@ -2340,32 +2340,32 @@
           <xr>P. [<ref target="#pb11">11</ref>]</xr>
         </entryFree>
         <entryFree xml:id="dogmatiser">
-          <form>* Dogmatiser</form>
+          <form> Dogmatiser</form>
           <def>Enseigner</def>
           <xr>P. [<ref target="#pb21">21</ref>]</xr>
         </entryFree>
         <entryFree xml:id="doute">
-          <form>* Doute (sans)</form>
+          <form> Doute (sans)</form>
           <def>Assurément</def>
           <xr>P. [<ref target="#pb34">34</ref>] ; P. [<ref target="#pb49">49</ref>] ; P. [<ref target="#pb54">54</ref>]</xr>
         </entryFree>
         <entryFree xml:id="empire">
-          <form>* Empire</form>
+          <form> Empire</form>
           <def>Pouvoir</def>
           <xr>P. [<ref target="#pb6">6</ref>]</xr>
         </entryFree>
         <entryFree xml:id="emportement">
-          <form>* Emportement</form>
+          <form> Emportement</form>
           <def>Colère, « mouvement de l’âme qui la fait sortir hors des bornes de la raison. Les gens prompts ont de grands emportements de colère » (Furetière</def>
           <xr> P. [<ref target="#pb1">1</ref>]</xr>
         </entryFree>
         <entryFree xml:id="enflammer">
-          <form>* Enflam(m) er</form>
+          <form> Enflam(m) er</form>
           <def>Au sens figuré, « donner de l’amour » (Richelet)</def>
           <xr>P. [<ref target="#pb19">19</ref>]</xr>
         </entryFree>
         <entryFree>
-          <form>* Entendre</form>
+          <form> Entendre</form>
           <def xml:id="entendre1">Comprendre</def>
           <xr>P. [<ref target="#pb8">8</ref>] ; P. [<ref target="#pb42">42</ref>]</xr>
           <def xml:id="entendre2">Écouter</def>
@@ -2374,84 +2374,84 @@
           <xr>P. [<ref target="#pb52">52</ref>]</xr>
         </entryFree>
         <entryFree xml:id="faconner">
-          <form>* Façonner</form>
+          <form> Façonner</form>
           <def>« Se dit de ceux qui font des cérémonies et des compliments incommodes » (Furetière)</def>
           <xr>P. [<ref target="#pb60">60</ref>]</xr>
         </entryFree>
         <entryFree xml:id="feu">
-          <form>* Feu</form>
+          <form> Feu</form>
           <def>Amour</def>
           <xr>P. [<ref target="#pb60">60</ref>]</xr>
         </entryFree>
         <entryFree xml:id="gueux">
-          <form>* Gueux</form>
+          <form> Gueux</form>
           <def>« Pauvre, misérable, qui est dans une grande nécessité » (Richelet)</def>
           <xr>P. [<ref target="#pb66">66</ref>]</xr>
         </entryFree>
         <entryFree xml:id="hazarder">
-          <form>* Hazarder</form>
+          <form> Hazarder</form>
           <def>Risquer</def>
           <xr>P. [<ref target="#pb31">31</ref>]</xr>
         </entryFree>
         <entryFree xml:id="hidre">
-          <form>* Hidre (ou hydre)</form>
+          <form> Hidre (ou hydre)</form>
           <def>« Monstre fabuleux que les Poëtes feignent avoir plusieurs têtes, qui ajoutent qu’à la place de celle qui était coupée il en naissait plusieurs autres. La défaite de l’Hydre est mise au rang des travaux d’Hercule » (Furetière)</def>
           <xr>P. [<ref target="#pb57">57</ref>]</xr>
         </entryFree>
         <entryFree xml:id="honneste">
-          <form>* Honneste</form>
+          <form> Honneste</form>
           <def>« Ce qui mérite de l’estime, de la louange, à cause qu’il est raisonnable, selon les bonnes mœurs » (Furetière)</def>
           <xr>P. [<ref target="#pb67">67</ref>]</xr>
         </entryFree>
         <entryFree xml:id="improuver">
-          <form>* Improuver</form>
+          <form> Improuver</form>
           <def>Condamner, désapprouver</def>
           <xr>P. [<ref target="#pb45">45</ref>]</xr>
         </entryFree>
         <entryFree xml:id="incident">
-          <form>* Inciden(t) s</form>
+          <form> Inciden(t) s</form>
           <def>Les différentes péripéties qui constituent l’intrigue d’une pièce de théâtre ; « événement ingénieux pour rendre une pièce de théâtre plus agréable » (Richelet)</def>
           <xr>P. [<ref target="#pb47">47</ref>]</xr>
         </entryFree>
         <entryFree xml:id="jouer">
-          <form>* Joüer (quelqu’un)</form>
+          <form> Joüer (quelqu’un)</form>
           <def>Tromper, abuser</def>
           <xr>P. [<ref target="#pb68">68</ref>]</xr>
         </entryFree>
         <entryFree xml:id="justifier">
-          <form>* Justifier</form>
+          <form> Justifier</form>
           <def>« Absoudre d’une accusation, s’en purger » (Furetière)</def>
           <xr>P. [<ref target="#pb59">59</ref>]</xr>
         </entryFree>
         <entryFree xml:id="meschant">
-          <form>* Meschant (adj.)</form>
+          <form> Meschant (adj.)</form>
           <def>Mauvais</def>
           <xr>P. [<ref target="#pb47">47</ref>]</xr>
         </entryFree>
         <entryFree xml:id="mesure">
-          <form>* Mesure</form>
+          <form> Mesure</form>
           <def>« Se dit aussi des cadences et des temps qu’on doit observer en Poésie, à la danse et en Musique, pour les rendre agréables et régulières. Les vers hexamètres, pentamètres, Iambiques, Saphiques, sont de différentes mesures » (Furetière)</def>
           <xr>P. [<ref target="#pb26">26</ref>]</xr>
         </entryFree>
         <entryFree xml:id="methode">
-          <form>* Methode</form>
+          <form> Methode</form>
           <def>Façon, manière d’agir particulière</def>
           <xr>P. [<ref target="#pb18">18</ref>] ; P. [<ref target="#pb46">46</ref>]</xr>
         </entryFree>
         <entryFree xml:id="misterieux">
-          <form>* Misterieux (ou mysterieux)</form>
+          <form> Misterieux (ou mysterieux)</form>
           <def>« qui élève l’esprit aux choses célestes et divines » (Furetière)</def>
           <xr>P. [<ref target="#pb9">9</ref>]</xr>
         </entryFree>
         <entryFree xml:id="naissance">
-          <form>* Naissance</form>
+          <form> Naissance</form>
           <def>Noblesse</def>
           <xr>
             <ref target="#epitre">Épître</ref>
           </xr>
         </entryFree>
         <entryFree xml:id="obligation">
-          <form>* Obligation</form>
+          <form> Obligation</form>
           <def>« En termes de civilité, se dit en général de tous les bons offices qu’on se rend réciproquement dans la vie »</def>
           <xr>P. [<ref target="#pb35">35</ref>]</xr>
         </entryFree>
@@ -2461,84 +2461,84 @@
           <xr>P. [<ref target="#pb6">6</ref>] ; P. [<ref target="#pb34">34</ref>]</xr>
         </entryFree>
         <entryFree xml:id="ouir">
-          <form>* Ouïr (part. passé : oüy)</form>
+          <form> Ouïr (part. passé : oüy)</form>
           <def>Entendre</def>
           <xr>P. [<ref target="#pb46">46</ref>] ; P. [<ref target="#pb51">51</ref>] ; P. [<ref target="#pb59">59</ref>]</xr>
         </entryFree>
         <entryFree xml:id="pompeux">
-          <form>* Pompeux</form>
+          <form> Pompeux</form>
           <def>De style élevé, éclatant</def>
           <xr>P. [<ref target="#pb41">41</ref>]</xr>
         </entryFree>
         <entryFree xml:id="pousser">
-          <form>* Pousser</form>
+          <form> Pousser</form>
           <def>Exprimer un sentiment</def>
           <xr>P. [<ref target="#pb3">3</ref>]</xr>
         </entryFree>
         <entryFree xml:id="rejimber">
-          <form>* Rejimber</form>
+          <form> Rejimber</form>
           <def>« Ruer des pieds de derrière, n’obéir pas à l’éperon, au fouet, à la gaule. Il ne se dit au propre que des chevaux, mulets et ânes, qui au lieu d’avancer, se cabrent, reculent ou ruent » (Furetière)</def>
           <xr>P. [<ref target="#pb61">61</ref>]</xr>
         </entryFree>
         <entryFree xml:id="rencontre">
-          <form>* Rencontre</form>
+          <form> Rencontre</form>
           <def>Occasion</def>
           <xr>P. [<ref target="#pb48">48</ref>]</xr>
         </entryFree>
         <entryFree xml:id="rencontrer">
-          <form>* Rencontrer</form>
+          <form> Rencontrer</form>
           <def>« Faire une pointe, une allusion, faire sur le champ une plaisante repartie », faire preuve d’esprit dans une trouvaille (Furetière)</def>
           <xr>P. [<ref target="#pb55">55</ref>]</xr>
         </entryFree>
         <entryFree xml:id="representer">
-          <form>* Représenter</form>
+          <form> Représenter</form>
           <def>« Remonstrer, tâcher à persuader » (Furetière)</def>
           <xr>P. [<ref target="#pb66">66</ref>]</xr>
         </entryFree>
         <entryFree xml:id="signifiant">
-          <form>* Signifiant</form>
+          <form> Signifiant</form>
           <def>« Expressif, qui marque ce qu’une personne ou une chose veut dire » (Furetière)</def>
           <xr>P. [<ref target="#pb59">59</ref>]</xr>
         </entryFree>
         <entryFree xml:id="similitude">
-          <form>* Similitude</form>
+          <form> Similitude</form>
           <def>Comparaison</def>
           <xr>P. [<ref target="#pb62">62</ref>]</xr>
         </entryFree>
         <entryFree>
-          <form>* Souffrir</form>
+          <form> Souffrir</form>
           <def xml:id="souffrir1">Supporter</def>
           <xr>P. [<ref target="#pb70">70</ref>]</xr>
           <def xml:id="souffrir2">S’accommoder de, consentir</def>
           <xr>P. [<ref target="#pb21">21</ref>] ; P. [<ref target="#pb68">68</ref>]</xr>
         </entryFree>
         <entryFree xml:id="stance">
-          <form>* Stance</form>
+          <form> Stance</form>
           <def>Équivalent du couplet ou de la strophe « dans les Poèmes épiques, ou en des matières graves et spirituelles » (Furetière)</def>
           <xr>P. [<ref target="#pb25">25</ref>]</xr>
         </entryFree>
         <entryFree xml:id="tantost">
-          <form>* Tantost</form>
+          <form> Tantost</form>
           <def>Bientôt</def>
           <xr>P. [<ref target="#pb47">47</ref>]</xr>
         </entryFree>
         <entryFree xml:id="teinture">
-          <form>* Teinture</form>
+          <form> Teinture</form>
           <def>« Se dit figurément en choses morales, des bonnes ou mauvaises impressions dont l’âme de l’homme est susceptible » (Furetière)</def>
           <xr>P. [<ref target="#pb9">9</ref>]</xr>
         </entryFree>
         <entryFree xml:id="tenir">
-          <form>* Tenir</form>
+          <form> Tenir</form>
           <def>Estimer, soutenir</def>
           <xr>P. [<ref target="#pb36">36</ref>]</xr>
         </entryFree>
         <entryFree xml:id="vulgaire">
-          <form>* Vulgaire</form>
+          <form> Vulgaire</form>
           <def>Ordinaire, commun</def>
           <xr>P. [<ref target="#pb29">29</ref>] ; P. [<ref target="#pb64">64</ref>]</xr>
         </entryFree>
         <entryFree xml:id="zele">
-          <form>* Zele</form>
+          <form> Zele</form>
           <def>« Ardeur, passion » ; un zélateur « agit avec grande chaleur, grande affection » pour le service de quelqu’un (Furetière)</def>
           <xr>
             <ref target="#epitre">Épître</ref>
@@ -2605,7 +2605,7 @@
               <item>- <hi rend="sc">Cesar</hi>, Calendrier Électronique des Spectacles sous l’Ancien Régime : <ref target="http://cesar.org.uk/">http://cesar.org.uk</ref></item>
               <item>- <hi rend="sc">Gallica</hi>, Bibliothèque numérique de la BNF : <ref target="http://www.gallica.bnf.fr/">www.gallica.bnf.fr</ref></item>
               <item>- <hi rend="sc">Google Books</hi> : <ref target="http://www.books.google.fr/">www.books.google.fr</ref></item>
-              <item>- <hi rend="sc">Moliere</hi> 21 :  <ref target="http://www.moliere.paris-sorbonne.fr/">www.moliere.paris-sorbonne.fr</ref></item>
+              <item>- <hi rend="sc">Moliere</hi> 21 :  <ref target="http://moliere.huma-num.fr/">moliere.huma-num.fr</ref></item>
               <item>- <hi rend="sc">Théâtreclassique</hi> : <ref target="http://www.theatre-classique.fr/">www.theatre-classique.fr</ref></item>
             </list>
           </div>

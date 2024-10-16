@@ -1,0 +1,2969 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Mort vivant, Comédie</title>
+        <author key="Boursault, Edme (1638-1701)">Edme Boursault</author>
+        <principal>Georges Forestier</principal>
+        <editor>Charlotte Dias</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Charlotte Dias dans le cadre d'un mémoire de master 1
+          sous la direction de Georges Forestier (2014-2015)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.huma-num.fr/boursault_trois-comedies/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/boursault_trois-comedies.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/boursault_trois-comedies.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/boursault_trois-comedies.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/boursault_trois-comedies.epub</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Le Mort vivant, Comédie</title>. DEDIEE A MONSEIGNEUR LE DUC DE GUISE.
+          Representée par les Comédies du Roy ;<author>Et composée par le Sieur Boursault</author>.
+          A PARIS, Chez N. PEPINGUÉ, en la grande Salle du Palais, vis à vis les Consultations, au
+          Soleil d'or. M. DC. LXII.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1662"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+    <textClass>
+      <keywords>
+        <term subtype="comedy" type="genre">Comédie</term>
+      </keywords>
+    </textClass>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">LE MORT VIVANT</titlePart>
+          <titlePart type="sub">COMÉDIE</titlePart>
+        </docTitle>
+        <docImprint>DEDIEE A MONSEIGNEUR<lb/>LE DUC DE GUISE.<lb/>Representée par les Comédiens<lb/>du
+          Roy ;</docImprint>
+        <docAuthor>Et composée par le Sieur Boursault.</docAuthor>
+        <docImprint/>
+        <docImprint>A PARIS,<lb/>Chez N. PEPINGUE’, en la <lb/>grande Salle du Palais, vis à vis
+          les<lb/>Consultations, au Soleil d’or.<lb/>M.DC.LXII.<lb/>Avec privilege du Roy</docImprint>
+        <docEdition>Édition critique établie par Charlotte Dias dans le cadre d'un mémoire de master
+          1 sous la direction de Georges Forestier (2014-2015)</docEdition>
+      </titlePage>
+      <div xml:id="dedicace-mov">
+        <head>A MONSEIGNEUR LE DUC DE GUISE<note place="bottom">Louis Joseph de Guise (1650-1671),
+          fils de Louis de Guise et de Marie-Françoise de Valois, duchesse d’Angoulême et
+          protectrice de Boursault. Il est duc de Guise à partir de 1664. Boursault dédie la même
+          année son <hi rend="i">Jaloux endormy</hi> à la duchesse d’Angoulême.</note></head>
+        <pb n="I" xml:id="pI-mov"/>
+        <p>MONSEIGNEUR,</p>
+        <p>Permettez que je me serve icy de l’un des termes du Heros Ridicule que je vous presente,
+          et que <pb n="II" xml:id="pII-mov"/> je die que je tremble de peur de causer de la peur à
+          VOSTRE ALTESSE, en luy consacrant une Piece qui n’est recommandable que par la gloire
+          qu’elle a euë de ne pas déplaire à l’Esprit le plus sublime de nostre Siecle ; et qui
+          mesmes ne mériteroit de porter que la moitié de son Titre, si vos genereux suffrages ne
+          l’eussent developée de l’eternelle obscurité où elle estoit ensevelie. Aussi, MONSEIGNEUR,
+          quelque dessein que j’aye de me rendre considerable par les profonds respects que je veux
+          avoir pour VOSTRE ALTESSE, je n’eusse pû me resoudre à vous faire une offrande si peu
+          digne de vous, si <pb n="III" xml:id="pIII-mov"/> dans l’indispensable obligation où je
+          me trouve de conserver la reputation que je dois à vos applaudissemens, je ne me fusse
+          imaginé que la temerité a quelque chose de moins honteux que l’ingratitude. C’est donc,
+          MONSEIGNEUR, avec un zele respectueux que je fais éclatter une reconnoissance qui n’est
+          pas moins juste que la liberté que j’ose prendre est condamnable ; et si VOSTRE ALTESSE ne
+          s’offençait pas de la vaste estenduë d’une audace si judicieuse, je ne pourrois
+          m’empescher de luy dire que je ne prens l’occasion de la remercier de ses graces passées
+          que pour avoir sujet de m’en attirer de <pb n="IV" xml:id="pIV-mov"/>nouvelles. Oüy,
+          Monseigneur, puis que ce MORT n’est VIVANT que par vostre moyen Et qu’il a besoin de
+          vostre Protection pour se conserver la vie que vous luy avez redonnée ; je viens vous
+          supplier d’employer vostre Generosité à la perfection de vostre Ouvrage : Mais quoy que je
+          puisse esperer de VOSTRE ALTESSE, comme ce seroit me rendre indigne de ses faveurs,
+          qu’aspirer à les meriter par la honte inévitable que je recevrois si je voulois essayer de
+          faire vostre Eloge, daignez m’espargner cette confusion ; Et ne <ref target="#souffrir1-mov">souffrez</ref> pas, MONSEIGNEUR, que je dérobe cette illustre
+          matiere à une Plume <pb n="V" xml:id="pV-mov"/> plus delicate que la mienne, ny que je
+          prive l’Histoire de l’Ornement le plus auguste qu’elle puisse procurer à la Posterité ;
+          chez qui sans doute je ne seray pas à mépriser, si elle apprend que j’aye eu la gloire
+          d’estre,</p>
+        <p>MONSEIGNEUR,</p>
+        <p>DE VOSTRE ALTESSE,</p>
+        <p rend="right">Tres-humble, tres-obeïssant,</p>
+        <p rend="right">Et tres-passionné Serviteur<note place="bottom">Nous pouvons noter que dans
+          la tradition des signatures, la suite des trois adjectifs est habituellement précédée du
+          déterminant « le » ou du possessif « votre ».</note>,</p>
+        <p rend="right">BOURSAULT</p>
+      </div>
+      <div xml:id="acteurs-mov">
+        <head>PERSONNAGES</head>
+        <pb n="VI" xml:id="pVI-mov"/>
+        <castList>
+          <castItem>
+            <role xml:id="ferdinand" rend="male senior">FERDINAND,</role>
+            <roleDesc>creu Pere de Stephanie<note place="bottom">Comprendre <hi rend="i">celui qu’on
+              croit être</hi> le Père de Stéphanie.</note>
+            </roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="stephanie" rend="female junior">STEPHANIE,</role>
+            <roleDesc>Fille d’Henriquez</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="lazarille" rend="male junior">LAZARILLE,</role>
+            <roleDesc>Frere de Stephanie, et Amoureux d’elle</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="fabrice" rend="male junior">FABRICE,</role>
+            <roleDesc>aussi Amoureux de Stephanie</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="henriquez" rend="male senior">HENRIQUEZ DE GALAS,</role>
+            <roleDesc>Pere de Stephanie</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="gusman" rend="male inferior">GUSMAN,</role>
+            <roleDesc>Valet de Fabrice</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="la-servante" rend="female inferior">UNE SERVANTE de l’Hoste à<note place="bottom">Au XVII<hi rend="sup">e</hi> siècle il y a concordance de l’usage de
+              la préposition <hi rend="i">de</hi> et de la préposition <hi rend="i">à</hi>. Nous
+              retrouvons le même cas de figure au vers 662.</note> Lazarille</role>
+          </castItem>
+          <castItem>
+            <role xml:id="l-hote" rend="male exterior">L’HÔTE de Lazarille</role>
+          </castItem>
+        </castList>
+        <set>La Scene est à Seville</set>
+      </div>
+    </front>
+    <body>
+      <div xml:id="I" type="act">
+        <head>ACTE PREMIER</head>
+        <div type="scene" xml:id="I01">
+          <head>SCENE PREMIERE</head>
+          <stage>FABRICE, GUSMAN</stage>
+          <sp xml:id="I01-1" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="1" xml:id="l1-mov">OUY, la peste m’estouffe, il luy fait les doux yeux.<pb n="p. 1 ; A" xml:id="p1-mov"/></l>
+          </sp>
+          <sp xml:id="I01-2" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="2" xml:id="l2-mov" part="I">Railleur.</l>
+          </sp>
+          <sp xml:id="I01-3" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="M">Je raille donc ?</l>
+          </sp>
+          <sp xml:id="I01-4" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="M">Je le croy.</l>
+          </sp>
+          <sp xml:id="I01-5" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Pleut aux Dieux !</l>
+            <l n="3" xml:id="l3-mov">Mais de la verité c’est la voix que j’emprunte,</l>
+            <l n="4" xml:id="l4-mov">Quand je dis que pour vous la Donzelle est deffunte<note place="bottom">Gusman utilise l’image de la mort pour expliquer à Fabrice que ses
+              ambitions amoureuses sont sans résultat ; Stéphanie vit pour un autre homme que lui.</note>
+              ,</l>
+            <l n="5" xml:id="l5-mov">Et que par un destin plus funeste que doux, <pb n="2" xml:id="p2-mov"/></l>
+            <l n="6" xml:id="l6-mov">Elle vit pour un autre, en trépassant pour vous.</l>
+          </sp>
+          <sp xml:id="I01-6" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="7" xml:id="l7-mov">Quoy, Gusman, Lazarille aimeroit Stephanie ?</l>
+            <l n="8" xml:id="l8-mov" part="I">Tu feins.</l>
+          </sp>
+          <sp xml:id="I01-7" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">De mon discours toute feinte est bannie,</l>
+            <l n="9" xml:id="l9-mov">Dés hyer, les écoutant, sans qu’aucun m’apperçeut,</l>
+            <l n="10" xml:id="l10-mov">L’un s’offrit pour Espoux, et l’autre le reçeut :</l>
+            <l n="11" xml:id="l11-mov">Vous, Monsieur, qui poussez la harangue muëtte<note place="bottom">Fabrice <hi rend="i">pousse la harangue muette</hi> dans le sens où
+              il garde pour lui les sentiments quil éprouve pour Stéphanie et ne lui en a fait
+              aucune confidence.</note>,</l>
+            <l n="12" xml:id="l12-mov">De l’objet qui vous charme, il faut faire diète<note place="bottom">Diérèse. Ce mot compte donc pour deux syllabes.</note> ;</l>
+            <l n="13" xml:id="l13-mov">Et sans de vostre part qu’on entende du bruit,</l>
+            <l n="14" xml:id="l14-mov"><ref target="#souffrir3-mov">Souffrir</ref> que de vos feux
+              Lazarille ait le fruit.</l>
+          </sp>
+          <sp xml:id="I01-8" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="15" xml:id="l15-mov">Point, Lazarille m’aime, il me l’a fait paraistre,</l>
+            <l n="16" xml:id="l16-mov">Il n’a point de secret qui pour moy le doive estre ;</l>
+            <l n="17" xml:id="l17-mov">Si quelque amour pour elle il avoit ressenty,</l>
+            <l n="18" xml:id="l18-mov" part="I">Gusman, il est sincere.</l>
+          </sp>
+          <sp xml:id="I01-9" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Et mes yeux ont menty ?</l>
+            <l n="19" xml:id="l19-mov">Mais si je puis surprendre et Monsieur et Madame,</l>
+            <l n="20" xml:id="l20-mov">Et que tous deux ensemble ils parlent de leur flâme :</l>
+            <l n="21" xml:id="l21-mov">Si je puis vous monstrer qu’ils s’entraiment tous deux,</l>
+            <l n="22" xml:id="l22-mov">Qu’elle est de luy charmée, et luy d’elle Amoureux,</l>
+            <l n="23" xml:id="l23-mov" part="I">Que direz-vous alors ?</l>
+          </sp>
+          <sp xml:id="I01-10" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Je loüeray ta conduite.</l>
+          </sp>
+          <sp xml:id="I01-11" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="24" xml:id="l24-mov">Allons nous en disner, et revenons en suite :</l>
+            <l n="25" xml:id="l25-mov">Dans une heure au plus tard dans ce mesme jardin,</l>
+            <l n="26" xml:id="l26-mov">Nous verrons qui des deux doit passer pour Badin<note place="bottom">« Qui est folastre, peu serieux, qui fait des plaisanteries. »
+              (Furetière).</note> :</l>
+            <l n="27" xml:id="l27-mov">Mais de l’objet <ref target="#aimer">aymé</ref> le Pere icy
+              se monstre.</l>
+          </sp>
+          <sp xml:id="I01-12" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="28" xml:id="l28-mov">De ce fascheux Vieillard évitons la rencontre.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I02">
+          <head>SCENE II</head>
+          <stage>FERDINAND, STEPHANIE</stage>
+          <sp xml:id="I02-1" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="29" xml:id="l29-mov">Es-tu là Stephanie ? Ostes-moy de soucy : <pb n="3" xml:id="p3-mov"/></l>
+            <l n="30" xml:id="l30-mov" part="I">Répons. Ah ! te voila.</l>
+          </sp>
+          <sp xml:id="I02-2" who="stephanie">
+            <speaker>STEPHANIE </speaker><stage>à une fenestre</stage>
+            <l part="M">Sans doute<note place="bottom">Signifie <hi rend="i">assurément</hi>.</note>
+              .</l>
+          </sp>
+          <sp xml:id="I02-3" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="F">Et me voicy ;</l>
+            <l n="31" xml:id="l31-mov">Mais de là jusqu’icy l’espace estant si grande<note place="bottom">L'adjectif <hi rend="i">grande</hi> n’est pas accordé en genre avec
+              le nom <hi rend="i">espace</hi> auquel il se rapporte. Cette pratique est déjà une
+              erreur au XVII<hi rend="sup">e</hi> siècle. Cette incorrection pourrait être expliquée
+              par la nécessité de la rime avec <hi rend="i">descende</hi> au vers qui suit.</note>,</l>
+            <l n="32" xml:id="l32-mov">Il faut que dans ce lieu ta personne descende,</l>
+            <l n="33" xml:id="l33-mov">Pour d’une Ame tranquile écouter mon discours.</l>
+            <l n="34" xml:id="l34-mov" part="I">Descends-donc.</l>
+          </sp>
+          <sp xml:id="I02-4" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l part="M">J’obeïs.</l>
+          </sp>
+          <sp xml:id="I02-5" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="M">Mais haste-toy.</l>
+          </sp>
+          <sp xml:id="I02-6" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l part="F">Je cours.</l>
+          </sp>
+          <sp xml:id="I02-7" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="35" xml:id="l35-mov">En t’appellant, sçais-tu quel succèz j’en espere ?</l>
+          </sp>
+          <sp xml:id="I02-8" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="36" xml:id="l36-mov" part="I">Non, Monsieur.</l>
+          </sp>
+          <sp xml:id="I02-9" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="F">Tu sçais bien qu’on me nomme ton Pere ?</l>
+          </sp>
+          <sp xml:id="I02-10" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="37" xml:id="l37-mov" part="I">Oüy, Monsieur.</l>
+          </sp>
+          <sp xml:id="I02-11" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="F">Sçache encor qu’il n’est rien de cela,</l>
+            <l n="38" xml:id="l38-mov">Que ce n’est que de nom que je fus ton Papa, <pb n="4" xml:id="p4-mov"/></l>
+            <l n="39" xml:id="l39-mov">Et malgré ta vertu dont tousjours l’éclat brille,</l>
+            <l n="40" xml:id="l40-mov">Que je ne voudrois pas que tu fusses ma fille.</l>
+            <l n="41" xml:id="l41-mov">Ce n’est pas qu’en effet, durant prés de vingt ans,</l>
+            <l n="42" xml:id="l42-mov">Je t’<ref target="#aimer">aymay</ref> comme un Pere <ref target="#aimer">aymeroit</ref> ses enfans,</l>
+            <l n="43" xml:id="l43-mov">Et voyant les beautez dont le Ciel te partage,</l>
+            <l n="44" xml:id="l44-mov">Mon cœur depuis un mois t’<ref target="#aimer">ayme</ref>
+              encor davantage.</l>
+            <l n="45" xml:id="l45-mov">Aussi quoy que sur toy j’eusse assez de pouvoir</l>
+            <l n="46" xml:id="l46-mov">Pour te casser la teste en faisant ton devoir,</l>
+            <l n="47" xml:id="l47-mov">Bien loin de te causer une douleur amere,</l>
+            <l n="48" xml:id="l48-mov">Je t’ay tousjours traitée en enfant de ta mere.</l>
+            <l n="49" xml:id="l49-mov">Mais pour venir au poinct qui m’a fait t’appeller,</l>
+            <l n="50" xml:id="l50-mov">Je crois que tu sçais bien que c’est pour te parler ;</l>
+            <l n="51" xml:id="l51-mov">Et puis qu’en ce jardin c’est ma voix qui t’attire,</l>
+            <l n="52" xml:id="l52-mov">Qu’il faut que j’aye aussi quelque chose à te dire.</l>
+            <l n="53" xml:id="l53-mov">C’est donc pour te parler que je t’ay fait venir ;</l>
+            <l n="54" xml:id="l54-mov">Et pour te dire aussi qu’il est temps de t’unir,</l>
+            <l n="55" xml:id="l55-mov">Avec quelque Gaillard<note place="bottom">« On appelle aussi
+              Gaillard, un homme qui se porte bien, qui est dispos et vigoureux. Cet homme est
+              encore frais et gaillard pour son âge. On dit aussi d’un homme, que c’est un gaillard,
+              pour dire, que c’est un adroit, un fourbe, un homme à surprendre les autres, dont il
+              se faut deffier. » (Furetière).</note> dont la mine te plaise,</l>
+            <l n="56" xml:id="l56-mov">Et qui soit en estat de te mettre à ton aise.</l>
+            <l n="57" xml:id="l57-mov">Sers-toy donc à present du pouvoir de tes yeux,</l>
+            <l n="58" xml:id="l58-mov">Qui dans trois ou quatre ans deviendront chassieux<note place="bottom">« Qui a les yeux pleins de chassie. Les vieilles sont ordinairement
+              chassieuses. » (Furetière). La chassie est une « Certaine humidité visqueuse qui sort
+              des yeux, et qui colle les paupieres. » (Furetière). Diérèse. Ce mot compte pour trois
+              syllabes. Nous retrouvons le même cas de figure aux vers : v. 145, v. 230, v. 288, v.
+              511, v. 909.</note> :</l>
+            <l n="59" xml:id="l59-mov">Que veux-tu me répondre à ce que je propose ?</l>
+          </sp>
+          <sp xml:id="I02-12" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="60" xml:id="l60-mov">Que pour vous obeïr je feray toute chose,</l>
+            <l n="61" xml:id="l61-mov" part="I">Je suis preste, ordonnez.</l>
+          </sp>
+          <sp xml:id="I02-13" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="F">Ta haute humilité,</l>
+            <l n="62" xml:id="l62-mov">Ne me charme pas moins que feroit ta beauté :</l>
+            <l n="63" xml:id="l63-mov">Mais au bon-heur offert devenir si sensible,</l>
+            <l n="64" xml:id="l64-mov">De ton pressentiment c’est l’effect infaillible,</l>
+            <l n="65" xml:id="l65-mov">Et je ne doute pas que tu vois aisément</l>
+            <l n="66" xml:id="l66-mov">Que qui n’est plus ton Pere, est enfin ton <ref target="#amant-mov">Amant</ref>.</l>
+          </sp>
+          <sp xml:id="I02-14" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="67" xml:id="l67-mov" part="I">Vous Monsieur, mon <ref target="#amant-mov">Amant</ref>
+               ?</l>
+          </sp>
+          <sp xml:id="I02-15" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="F">Oüy, moy-mesme à toy-mesme,</l>
+            <l n="68" xml:id="l68-mov">Je découvre mon Ame, et te dis que je t’<ref target="#aimer">
+              ayme</ref>,<pb n="5" xml:id="p5-mov"/></l>
+            <l n="69" xml:id="l69-mov">Et qu’il est necessaire à l’ardeur de mes feux,</l>
+            <l n="70" xml:id="l70-mov">Que par un Mariage<note place="bottom">Diérèse. Ce mot compte
+              pour trois syllabes. Nous retrouvons le même cas de figure au vers v. 145.</note> on
+              nous joigne tous deux.</l>
+            <l n="71" xml:id="l71-mov">Si dans mes jeunes ans je n’<ref target="#aimer">aymay</ref>
+              que les Armes,</l>
+            <l n="72" xml:id="l72-mov">Et si dans ce moment tu fourmilles de charmes,</l>
+            <l n="73" xml:id="l73-mov">Nostre premier enfant, estant fille ou garçon,</l>
+            <l n="74" xml:id="l74-mov">Sera plus beau qu’un Ange, ou plus fort qu’un Sanson<note place="bottom"><hi rend="i">Sanson</hi> est un personnage biblique connu pour sa
+              force qu’il tient de sa longue chevelure.</note>.</l>
+          </sp>
+          <sp xml:id="I02-16" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="75" xml:id="l75-mov" part="I">Quoy, Monsieur …</l>
+          </sp>
+          <sp xml:id="I02-17" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="F">A ton tour tu veux m’ouvrir ton Ame,</l>
+            <l n="76" xml:id="l76-mov">Et répondre au plaisir que te cause ma flâme,</l>
+            <l n="77" xml:id="l77-mov">Mais pour toy ma bonté qui te sert de secours,</l>
+            <l n="78" xml:id="l78-mov">Veut à ta modestie épargner ce discours.</l>
+          </sp>
+          <sp xml:id="I02-18" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="79" xml:id="l79-mov">Ah daignez m’écouter : et <ref target="#souffrir1-mov">
+              souffrez</ref> que j’embrasse…</l>
+          </sp>
+          <sp xml:id="I02-19" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="80" xml:id="l80-mov">Quoy, te mettre à genoux pour mieux me rendre grace ?</l>
+            <l n="81" xml:id="l81-mov">Crains-tu que je t’eschappe ? Ah ! Ne t’allarme pas,</l>
+            <l n="82" xml:id="l82-mov">Quoy qu’il puisse arriver apprends que tu m’auras :</l>
+            <l n="83" xml:id="l83-mov">Mais rentre promptement, car je vois Lazarille,</l>
+            <l n="84" xml:id="l84-mov" part="I">Il s’avance.</l>
+          </sp>
+          <sp xml:id="I02-20" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l part="F">Oh mal-heur ! Que ne suis-je sa fille.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I03">
+          <head>SCENE III</head>
+          <stage>LAZARILLE, FERDINAND</stage>
+          <sp xml:id="I03-1" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="85" xml:id="l85-mov">De tous vos serviteurs estant le plus soûmis,</l>
+            <l n="86" xml:id="l86-mov">Un libre accez chez vous me fust toûjours permis,</l>
+            <l n="87" xml:id="l87-mov">Monsieur, et vous m’avez à toutes mes visites<pb n="6" xml:id="p6-mov"/></l>
+            <l n="88" xml:id="l88-mov">Fait des civilitez par delà mes merites.</l>
+          </sp>
+          <sp xml:id="I03-2" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="89" xml:id="l89-mov" part="I">Couvrez-vous.</l>
+          </sp>
+          <sp xml:id="I03-3" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F"> Mais enfin, apres tant de bontez,</l>
+            <l n="90" xml:id="l90-mov">Mes yeux de Stephanie ayant vu les beautez,</l>
+            <l n="91" xml:id="l91-mov">D’adorer ses attraits je ne pûs me deffendre ;</l>
+            <l n="92" xml:id="l92-mov">Si bien que dans l’espoir de me voir vostre gendre,</l>
+            <l n="93" xml:id="l93-mov">Je viens d’un zele ardent embrasser vos genoux,</l>
+            <l n="94" xml:id="l94-mov">Afin que vous <ref target="#souffrir1-mov">souffriez</ref><note place="bottom">Synérèse. Ce mot compte donc pour deux syllabes. </note> que je sois
+              son Espoux.</l>
+          </sp>
+          <sp xml:id="I03-4" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="95" xml:id="l95-mov" part="I">Fort bien.</l>
+          </sp>
+          <sp xml:id="I03-5" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Je ne dis rien d’une ardeur infinie,</l>
+            <l n="96" xml:id="l96-mov">Suffit que chaque jour vous voyiez Stephanie,</l>
+            <l n="97" xml:id="l97-mov">Peut-on ne pas l’<ref target="#aimer">aymer</ref> sans
+              manquer de raison ?</l>
+          </sp>
+          <sp xml:id="I03-6" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="98" xml:id="l98-mov">Vous ne pouviez venir en meilleure saison.</l>
+          </sp>
+          <sp xml:id="I03-7" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="99" xml:id="l99-mov">Donc à ma passion<note place="bottom">Diérèse. Ce mot compte
+              donc pour trois syllabes. Nous retrouvons le même cas de figure aux vers : v. 101, v.
+              176, v. 181, v. 265, v. 313, v. 314, v. 478, v. 600, v. 649.</note> vous estes
+              favorable ?</l>
+            <l n="100" xml:id="l100-mov">Donc je puis esperer cét objet adorable ?</l>
+            <l n="101" xml:id="l101-mov">De vostre affection je suis trop éclaircy ;</l>
+            <l n="102" xml:id="l102-mov" part="I">Quoy vous me preparez…</l>
+          </sp>
+          <sp xml:id="I03-8" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="F">Un refus, Dieu-mercy.</l>
+          </sp>
+          <sp xml:id="I03-9" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="103" xml:id="l103-mov" part="I">Un refus ?</l>
+          </sp>
+          <sp xml:id="I03-10" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="M">Un refus.</l>
+          </sp>
+          <sp xml:id="I03-11" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Ah ! Du moins que je sçache</l>
+            <l n="104" xml:id="l104-mov">Si parmy mon ardeur vous trouvez quelque tache.</l>
+          </sp>
+          <sp xml:id="I03-12" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="105" xml:id="l105-mov">Nenny<note place="bottom">Ce mot pour dire <hi rend="i">non</hi>
+              est dans le Huguet en XVI<hi rend="sup">e</hi> siècle mais n’apparaît plus dans le
+              Furetière. Spadarille est donc montré comme un barbon qui utilise un vocabulaire
+              vieilli, qui n’est plus d’usage.</note>, mais par un sort qui pour vous est fatal,</l>
+            <l n="106" xml:id="l106-mov">Vous avez le mal-heur de m’avoir pour Rival. <pb n="7" xml:id="p7-mov"/></l>
+          </sp>
+          <sp xml:id="I03-13" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="107" xml:id="l107-mov">Vous <ref target="#aimer">aymez</ref> vostre fille ? Ah !
+              Si par quelque ruse…</l>
+          </sp>
+          <sp xml:id="I03-14" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="108" xml:id="l108-mov">Tout chacun m’en croit Pere et tout chacun s’abuse,</l>
+            <l n="109" xml:id="l109-mov">Je vous crûs de tout temps un Amy si discret,</l>
+            <l n="110" xml:id="l110-mov">Que je puis à vos yeux exposer un secret :</l>
+            <l n="111" xml:id="l111-mov">Mais il faut toutesfois m’asseurer de se taire.</l>
+          </sp>
+          <sp xml:id="I03-15" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="112" xml:id="l112-mov">De ce triste secret quel que soit le mystere,</l>
+            <l n="113" xml:id="l113-mov">Parlez, de vos Amis je suis l’un des plus grands.</l>
+          </sp>
+          <sp xml:id="I03-16" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="114" xml:id="l114-mov">Il y peut bien avoir prés de cinq fois quatre ans,</l>
+            <l n="115" xml:id="l115-mov">Qu’une Dame à cheval, qu’avoit un homme en croupe,</l>
+            <l n="116" xml:id="l116-mov">Passa par cette ville, allant à Gadaloupe,</l>
+            <l n="117" xml:id="l117-mov">Et pour ne pas vous faire un trop long entretien<note place="bottom"><hi rend="i">Entretien</hi> « se dit aussi de la conversation »
+              (Furetière).</note>,</l>
+            <l n="118" xml:id="l118-mov">Du logis que j’occupe en vint faire le sien.</l>
+            <l n="119" xml:id="l119-mov">Après que de cheval elle fut descendüe,</l>
+            <l n="120" xml:id="l120-mov">Je vis qu’elle étoit pasle, et toute morfondüe<note place="bottom">Participe passé du verbe <hi rend="i">morfondre</hi> « Qui se dit
+              avec le pronom personnel endurer du froid aprés avoir eu chaud » (Furetière).</note>,</l>
+            <l n="121" xml:id="l121-mov">De son maigre visage on eût compté les os,</l>
+            <l n="122" xml:id="l122-mov">Ses bras étoient petits, mais son ventre étoit gros,</l>
+            <l n="123" xml:id="l123-mov">Et s’il faut devant vous que sans fard je m’explique ;</l>
+            <l n="124" xml:id="l124-mov">Durant une heure ou deux je la crûs hydropique<note place="bottom">« Qui a les membres enflez par une abondance d’eaux, ou de vents. »
+              (Furetière).</note> :</l>
+            <l n="125" xml:id="l125-mov">Mais peu de temps apres mon esprit fut certain,</l>
+            <l n="126" xml:id="l126-mov">Que ce n’estoit pas d’eau que son ventre estoit plein.</l>
+            <l n="127" xml:id="l127-mov">Quoy que dans mon logis elle n’eut rien à craindre,</l>
+            <l n="128" xml:id="l128-mov">J’entendis sur le soir cette Dame se plaindre ;</l>
+            <l n="129" xml:id="l129-mov">D’abord prestant l’oreille à sa voix, j’en oüis<note place="bottom">Diérèse. Ce mot compte donc pour deux syllabes. Nous retrouvons le
+              même cas de figure aux vers : v. 130, v. 136, v. 453, v. 591, v. 663, v. 664, v. 716.</note>
+               :</l>
+            <l n="130" xml:id="l130-mov"><hi rend="i">Voy de quels tristes biens à present tu jouïs</hi>
+              , </l>
+            <l n="131" xml:id="l131-mov">Puis que tu t’es fiée à des promesses vaines,</l>
+            <l n="132" xml:id="l132-mov">Qu’un moment de plaisir te coûtera de peines !</l>
+            <l n="133" xml:id="l133-mov">Que le Ciel en courroux te prepare de maux !</l>
+            <l n="134" xml:id="l134-mov">Void-on quelques mal-heurs à tes mal-heurs égaux ?</l>
+            <l n="135" xml:id="l135-mov"><hi rend="i">Ton fruict qui void le jour rend-il ta douleur
+              moindre</hi> ? </l>
+            <l n="136" xml:id="l136-mov">Là j’oüis une voix à la sienne se joindre,</l>
+            <l n="137" xml:id="l137-mov">Dont l’extreme foiblesse, et le ton delicat,<pb n="8" xml:id="p8-mov"/></l>
+            <l n="138" xml:id="l138-mov">Avoit bien du rapport aux cris d’un petit Chat.</l>
+            <l n="139" xml:id="l139-mov">Lors pour voir ce mystere ayant ouvert la porte,</l>
+            <l n="140" xml:id="l140-mov">Je trouvay cette femme en langueur<note place="bottom">« Diminution
+              des forces, de santé, causée par une maladie lente, et souvent mortelle. »
+              (Furetière).</note> ; demy-morte.</l>
+            <l n="141" xml:id="l141-mov">Un enfant à ses pieds qui venoit d’estre fait,</l>
+            <l n="142" xml:id="l142-mov">Et qui quoy que petit estoit beau tout à fait.</l>
+            <l n="143" xml:id="l143-mov">En un rude courroux j’eus dessein de me mettre,</l>
+            <l n="144" xml:id="l144-mov">Mais la mere à l’enfant ne pût me le permettre,</l>
+            <l n="145" xml:id="l145-mov">Et d’un gros Diamant le brillant gracieux,</l>
+            <l n="146" xml:id="l146-mov">Sçeut me fermer la bouche, et m’éblouïr les yeux :</l>
+            <l n="147" xml:id="l147-mov">Si bien que l’Accouchée ayant par son adresse</l>
+            <l n="148" xml:id="l148-mov">Apaisé ma colere et surpris ma tendresse,</l>
+            <l n="149" xml:id="l149-mov">Sans rien apprehender des médisans propos,</l>
+            <l n="150" xml:id="l150-mov">A son enfant tout nû je donnay des drapeaux<note place="bottom">« Vieux morceaux d’estoffe, ou de linge. Les gueux ont des habits
+              faits de vieux haillons et <hi rend="i">drapeaux</hi>. » (Furetière).</note>,</l>
+            <l n="151" xml:id="l151-mov">Qui la mesme nuitée ayant eu la migraine,</l>
+            <l n="152" xml:id="l152-mov">Fit chercher au plus viste, et Parain et Maraine.</l>
+            <l n="153" xml:id="l153-mov">Car dans sa maladie on craignoit qu’il mourut ;</l>
+            <l n="154" xml:id="l154-mov">Et <hi rend="i">Dôna Stephanie</hi> est le nom qu’il
+              reçeut.</l>
+          </sp>
+          <sp xml:id="I03-17" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="155" xml:id="l155-mov">O Ciel ! Après ce coup que faut-il que j’espere ?</l>
+            <l n="156" xml:id="l156-mov" part="I">Helas !</l>
+          </sp>
+          <sp xml:id="I03-18" who="ferdinand">
+            <speaker>[FERDINAND]</speaker>
+            <l part="F">Vous voyez bien si j’en fus jamais Pere.</l>
+          </sp>
+          <sp xml:id="I03-19" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="157" xml:id="l157-mov" part="I">Je ne le vois que trop.</l>
+          </sp>
+          <sp xml:id="I03-20" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="F">Pour vous donc abreger,</l>
+            <l n="158" xml:id="l158-mov">Stephanie en huict jours ne fut plus en danger,</l>
+            <l n="159" xml:id="l159-mov">Et la mere pour lors pleinement satisfaite,</l>
+            <l n="160" xml:id="l160-mov">La commit<note place="bottom">« Confier quelque chose à la
+              prudence, à la fidelité de quelqu’un. » (Furetière).</note> à ma charge, et sonna sa
+              retraite,</l>
+            <l n="161" xml:id="l161-mov">Et m’ayant ses joyaux deposez dans les mains,</l>
+            <l n="162" xml:id="l162-mov">Avant que de partir m’expliqua ses desseins.</l>
+            <l n="163" xml:id="l163-mov"><hi rend="i">Monsieur</hi>, dit-elle alors, <hi rend="i">connoissant
+              vostre zele</hi>,</l>
+            <l n="164" xml:id="l164-mov">Je vous laisse ma fille, et vous laisse avec elle</l>
+            <l n="165" xml:id="l165-mov">
+              <hi rend="i">Dequoy l’entretenir, et payer ses dépens</hi>
+            </l>
+            <l n="166" xml:id="l166-mov">Tant que pourra durer la longueur de sept ans.</l>
+            <l n="167" xml:id="l167-mov">
+              <hi rend="i">Environ ce temps-là j’envoiray la reprendre ; </hi>
+              <pb n="9" xml:id="p9-mov"/>
+            </l>
+            <l n="168" xml:id="l168-mov">Sur tout je vous enjoints de jamais ne la rendre,</l>
+            <l n="169" xml:id="l169-mov">Qu’à celuy qui pour elle ayant quelque amitié,</l>
+            <l n="170" xml:id="l170-mov">
+              <hi rend="i">A cét anneau rompu joindra l’autre moitié.</hi>
+            </l>
+            <l n="171" xml:id="l171-mov">Cela dit, elle part, et sa fille demeure,</l>
+            <l n="172" xml:id="l172-mov">Qui durant son enfance amandoit<note place="bottom">« S'améliorer,
+              se corriger » (Godefroy).</note> d’heure en heure,</l>
+            <l n="173" xml:id="l173-mov">Et qui vécut si bien, qu’encor mesme elle vit,</l>
+            <l n="174" xml:id="l174-mov">Qui des charmes qu’elle a tout le monde ravit.</l>
+            <l n="175" xml:id="l175-mov">Comme elle est à present dans un aage à produire,</l>
+            <l n="176" xml:id="l176-mov">Ma violente ardeur je luy-viens de deduire<note place="bottom">« Raconter quelque fait particulier ou histoire par le menu. »
+              (Furetière). Le <hi rend="i">menu</hi> désigne les détails. </note>,</l>
+            <l n="177" xml:id="l177-mov">Et trouvant dans ma flâme un plaisir assez doux,</l>
+            <l n="178" xml:id="l178-mov">Pour mieux m’en rendre grace elle estoit à genoux :</l>
+            <l n="179" xml:id="l179-mov">Mais comme à mon esprit sa pudeur est connüe,</l>
+            <l n="180" xml:id="l180-mov">Je l’ay fait retirer voyant vostre venüe ;</l>
+            <l n="181" xml:id="l181-mov">Et pour conclusion je vous faits assavoir<note place="bottom">« Savoir, connaître, apprendre » (Godefroy).</note>,</l>
+            <l n="182" xml:id="l182-mov">Qu’elle borne sa gloire au bon-heur de m’avoir.</l>
+            <l n="183" xml:id="l183-mov" part="I">Adieu<note place="bottom">« Terme de compliment,
+              dont on se sert quand deux personnes amies se separent, ou lors qu’on donne congé à
+              quelqu’un, ou qu’on le prend » (Furetière).</note>.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I04">
+          <head>SCENE IV</head>
+          <sp xml:id="I04-1" who="lazarille">
+            <speaker>LAZARILLE </speaker><stage>seul</stage>
+            <l part="F">Peut-on <ref target="#souffrir2-mov">souffrir</ref> une douleur plus dure !</l>
+            <l n="184" xml:id="l184-mov">Voir de mes propres yeux son indigne posture,</l>
+            <l n="185" xml:id="l185-mov">Et lors que par son ordre on peut tout esperer,</l>
+            <l n="186" xml:id="l186-mov">Embrasser les genoux, de qui doit l’adorer !</l>
+            <l n="187" xml:id="l187-mov" part="I">L’ingratte ! Elle paroist.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I05">
+          <head>[SCENE V]</head>
+          <stage>STEPHANIE, LAZARILLE</stage>
+          <stage>Fabrice et Gusman sont au même jardin</stage>
+          <sp xml:id="I05-1" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l part="F">Quelque espoir qui vous flatte, <pb n="10" xml:id="p10-mov"/></l>
+            <l n="188" xml:id="l188-mov">Empeschez que pour moy votre flamme n’éclatte,</l>
+            <l n="189" xml:id="l189-mov">Et quoy que vostre amour ait pour vous des appas,</l>
+            <l n="190" xml:id="l190-mov">Faites que pour me plaire il ne paroisse pas.</l>
+            <l n="191" xml:id="l191-mov" part="I">Car enfin …</l>
+          </sp>
+          <sp xml:id="I05-2" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">C’est assez, de la loy qu’on m’impose,</l>
+            <l n="192" xml:id="l192-mov">Mon esprit tout confus vient d’apprendre la cause,</l>
+            <l n="193" xml:id="l193-mov" part="I">Ferdinand…</l>
+          </sp>
+          <sp xml:id="I05-3" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l part="F">Ferdinand vous a donc tout appris ?</l>
+          </sp>
+          <sp xml:id="I05-4" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="194" xml:id="l194-mov" part="I">N’en doutez pas.</l>
+          </sp>
+          <sp xml:id="I05-5" who="gusman">
+            <speaker>GUSMAN </speaker><stage>à Fabrice</stage>
+            <l part="F">Hé bien, les avez-vous surpris ?</l>
+            <l n="195" xml:id="l195-mov" part="I">S’<ref target="#aimer">ayment</ref>-ils ?</l>
+          </sp>
+          <sp xml:id="I05-6" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Stephanie estre avec Lazarille !</l>
+            <l n="196" xml:id="l196-mov" part="I">Ecoutons.</l>
+          </sp>
+          <sp xml:id="I05-7" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Du vieillard, vous n’estes plus la fille.</l>
+          </sp>
+          <sp xml:id="I05-8" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="197" xml:id="l197-mov" part="I">O Dieux !</l>
+          </sp>
+          <sp xml:id="I05-9" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l part="F">C’est ce qui doit vous causer du tourment</l>
+            <l n="198" xml:id="l198-mov">Cessant d’estre mon Pere il devient mon <ref target="#amant-mov">Amant</ref>.</l>
+          </sp>
+          <sp xml:id="I05-10" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="199" xml:id="l199-mov" part="I">Ferdinand l’<ref target="#aimer">ayme</ref>
+              aussi, Gusman !</l>
+          </sp>
+          <sp xml:id="I05-11" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Belle demande ;<pb n="11" xml:id="p11-mov"/></l>
+            <l n="200" xml:id="l200-mov">Manque-t-on d’appetit prés de si belle viande<note place="bottom">« Se dit burlesquement de la chair de l’homme. » (Furetière).</note>
+               ?</l>
+          </sp>
+          <sp xml:id="I05-12" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="201" xml:id="l201-mov">Ferdinand doit donc faire un obstacle à mes vœux ?</l>
+          </sp>
+          <sp xml:id="I05-13" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="202" xml:id="l202-mov">Pouvez-vous en douter, et connaistre ses feux ?</l>
+          </sp>
+          <sp xml:id="I05-14" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="203" xml:id="l203-mov" part="I">Elle ne l’<ref target="#aimer">ayme</ref> pas.</l>
+          </sp>
+          <sp xml:id="I05-15" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Mon Dieu, quoy qu’elle die,</l>
+            <l n="204" xml:id="l204-mov">Elle a l’esprit mâdré<note place="bottom">« Fin, adroit,
+              qui trompe facilement, et qui ne se laisse point tromper. » (Furetière).</note>,
+              croyez-moy, fou s’y fie<note place="bottom">« Maladvisé, imprudent, credule. <hi rend="i">Fou</hi> qui s’y fie » (Furetière).</note>.</l>
+          </sp>
+          <sp xml:id="I05-16" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="205" xml:id="l205-mov">Lors qu’il a declaré l’amour qu’il a pour vous,</l>
+            <l n="206" xml:id="l206-mov">Pour y répondre mieux vous estiez à genoux ;</l>
+            <l n="207" xml:id="l207-mov" part="I">Ainsi…</l>
+          </sp>
+          <sp xml:id="I05-17" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l part="F">Cette posture où j’ay sçeu me contraindre,</l>
+            <l n="208" xml:id="l208-mov">Monstre ce que de luy vous avez lieu de craindre.</l>
+          </sp>
+          <sp xml:id="I05-18" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="209" xml:id="l209-mov" part="I">Entends-tu ?</l>
+          </sp>
+          <sp xml:id="I05-19" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Qui pis est, suivant ce que je vois,</l>
+            <l n="210" xml:id="l210-mov">Mon esprit indupable est dupé par sa voix.</l>
+          </sp>
+          <sp xml:id="I05-20" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="211" xml:id="l211-mov">Cependant, <ref target="#animer1">animé</ref> d’une ardeur
+              assez grande,</l>
+            <l n="212" xml:id="l212-mov">De vous à mon Rival j’ai tenté la demande ;</l>
+            <l n="213" xml:id="l213-mov">Et suivant les conseils que de vous j’ay receus,</l>
+            <l n="214" xml:id="l214-mov">Je me suis attiré la rigueur d’un refus.</l>
+          </sp>
+          <sp xml:id="I05-21" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="215" xml:id="l215-mov" part="I">J’en suis ravy, Gusman.</l>
+          </sp>
+          <sp xml:id="I05-22" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Vous voyez, l’<ref target="#aimer">ayme</ref>-t-elle ?</l>
+          </sp>
+          <sp xml:id="I05-23" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="216" xml:id="l216-mov" part="I">Je n’en puis que juger.</l>
+          </sp>
+          <sp xml:id="I05-24" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l part="F">O fortune cruelle<note place="bottom">Diérèse. Ce mot compte pour deux
+              syllabes. Nous retrouvons le même cas de figure aux vers : v. 276, v. 387, v. 388, v.
+              558, v. 776.</note> !</l>
+            <l n="217" xml:id="l217-mov" part="I">Vous m’avez demandée ?</l>
+          </sp>
+          <sp xml:id="I05-25" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Et suivy vos <ref target="#avis1">avis</ref>.<pb n="12" xml:id="p12-mov"/></l>
+          </sp>
+          <sp xml:id="I05-26" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="218" xml:id="l218-mov">Trop tost à mon mal-heur vous les avez suivis :</l>
+            <l n="219" xml:id="l219-mov">Quand je crûs vous donner un conseil necessaire,</l>
+            <l n="220" xml:id="l220-mov">Ferdinand de ma part estoit veu comme Pere ;</l>
+            <l n="221" xml:id="l221-mov">Mais n’estant pas sa fille, et sçachant son amour,</l>
+            <l n="222" xml:id="l222-mov">Je n’apprends qu’à regret que le vostre est au jour.</l>
+          </sp>
+          <sp xml:id="I05-27" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="223" xml:id="l223-mov" part="I">L’<ref target="#aimer">ayme</ref>-t-elle ? Tu
+              vois.</l>
+          </sp>
+          <sp xml:id="I05-28" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Comment Diable la croire ?</l>
+            <l n="224" xml:id="l224-mov">Ses discours sont pour moy des feüillets du Grimoire<note place="bottom">Comprendre ici qu’il n’entend rien aux <hi rend="i">discours</hi> ;
+              le <hi rend="i">Grimoire</hi> désigne un « Livre qu’on n’a jamais veu, où on pretend
+              qu’il y a des conjurations propres pour faire évoquer les Demons. », « se dit aussi de
+              tout livre ou escrit obscur et en galimathias, où on n’entend rien. » (Furetière).</note>
+              .</l>
+          </sp>
+          <sp xml:id="I05-29" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="225" xml:id="l225-mov">J’entends du bruit, fuyez, et de peur que de vous</l>
+            <l n="226" xml:id="l226-mov">Le Rival qui vous nuit ne devienne jaloux,</l>
+            <l n="227" xml:id="l227-mov">Le plus que vous pourrez évitez ma presence.</l>
+          </sp>
+          <sp xml:id="I05-30" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="228" xml:id="l228-mov">Adieu, je laisse au Ciel à punir cette offence.</l>
+          </sp>
+          <sp xml:id="I05-31" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="229" xml:id="l229-mov">Moy, je suy vostre exemple, et j’invoque les Dieux,</l>
+            <l n="230" xml:id="l230-mov">Pour me voir delivrer d’un <ref target="#amant-mov">Amant</ref>
+              odieux.</l>
+            <stage>Lazarille sort</stage>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I06">
+          <head>SCENE V[I]</head>
+          <stage>FABRICE, STEPHANIE, GUSMAN</stage>
+          <sp xml:id="I06-1" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="231" xml:id="l231-mov" part="I">Tout va bien.</l>
+          </sp>
+          <sp xml:id="I06-2" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Profitons ; il sort tout en colere.</l>
+          </sp>
+          <sp xml:id="I06-3" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="232" xml:id="l232-mov" part="I">Poussez<note place="bottom">Aller en avant.</note>
+              donc.</l>
+          </sp>
+          <sp xml:id="I06-4" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Lazarille aura pû vous déplaire, <pb n="p. 13 ; B" xml:id="p13-mov"/></l>
+            <l n="233" xml:id="l233-mov">Je l’ay veu qui d’icy sort assez brusquement ;</l>
+            <l n="234" xml:id="l234-mov">Mais vous pouvez en moy recouvrer un <ref target="#amant-mov">amant</ref>,</l>
+            <l n="235" xml:id="l235-mov">Puis que depuis long-temps mon cœur pour vous soupire,</l>
+            <l n="236" xml:id="l236-mov">Sans que dans mes respects, j’aye osé vous le dire.</l>
+          </sp>
+          <sp xml:id="I06-5" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="237" xml:id="l237-mov" part="I">Quoy, vous m’<ref target="#aimer">aymez</ref>,
+              Fabrice ?</l>
+          </sp>
+          <sp xml:id="I06-6" who="gusman">
+            <speaker>GUSMAN, </speaker><stage>la tirant à l’écart</stage>
+            <l part="F">Oüy, foy d’homme d’honneur,</l>
+            <l n="238" xml:id="l238-mov">Il dit que c’est de vous que dépend son bon-heur ;</l>
+            <l n="239" xml:id="l239-mov">Et vous pouvez penser que sa flâme est bien forte,</l>
+            <l n="240" xml:id="l240-mov">Puis que j’ose vous faire un serment de la sorte.</l>
+          </sp>
+          <sp xml:id="I06-7" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="241" xml:id="l241-mov" part="I">Vous m’<ref target="#aimer">aymez</ref> !</l>
+          </sp>
+          <sp xml:id="I06-8" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Le moyen de ne vous <ref target="#aimer">aymer</ref> pas,</l>
+            <l n="242" xml:id="l242-mov">Et de pouvoir sans cesse admirer vos appas.</l>
+          </sp>
+          <sp xml:id="I06-9" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="243" xml:id="l243-mov">S’il est vray que pour moy vostre ardeur soit sincere,</l>
+            <l n="244" xml:id="l244-mov">Pourquoy vous obstiner si long-temps à la taire ?</l>
+            <l n="245" xml:id="l245-mov">Loin que par vostre aveu vous puissiez m’allarmer,</l>
+            <l n="246" xml:id="l246-mov">Qui se fust veuë aimée auroit pû vous <ref target="#aimer">
+              aymer</ref>.</l>
+            <l n="247" xml:id="l247-mov">Au reste, Lazarille eût tousjours tant d’adresse,</l>
+            <l n="248" xml:id="l248-mov">Qu’au lieu de me déplaire, il auroit ma tendresse ;</l>
+            <l n="249" xml:id="l249-mov">C’est à luy seulement que l’Hymen doit m’unir,</l>
+            <l n="250" xml:id="l250-mov">J’en ay fait la promesse, et je la veux tenir.</l>
+            <l n="251" xml:id="l251-mov">Adieu, ce sentiment est selon qu’il doit estre<note place="bottom">Stéphanie entent par là qu’elle ne compte pas changer d’avis : elle a
+              promis sa main à Lazarille donc les avances de Fabrice n’aboutiront à rien. Sa
+              décision est sans appel.</note>.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="I07">
+          <head>SCENE VI[I]</head>
+          <stage>FABRICE, GUSMAN</stage>
+          <sp xml:id="I07-1" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="252" xml:id="l252-mov" part="I">Ah, Gusman mon Valet ! <pb n="14" xml:id="p14-mov"/></l>
+          </sp>
+          <sp xml:id="I07-2" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Ah, Fabrice mon Maistre !</l>
+          </sp>
+          <sp xml:id="I07-3" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="253" xml:id="l253-mov" part="I">Que je suis mal-heureux !</l>
+          </sp>
+          <sp xml:id="I07-4" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Point, point, rayez ce mot,</l>
+            <l n="254" xml:id="l254-mov">Vous seriez plus heureux si vous estiez moins sot.</l>
+          </sp>
+          <sp xml:id="I07-5" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="255" xml:id="l255-mov" part="I">Maraut insuportable…</l>
+          </sp>
+          <sp xml:id="I07-6" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Et vous teste étourdie<note place="bottom">Imprudent, qui fait des choses
+              sans en considérer les conséquences.</note>,</l>
+            <l n="256" xml:id="l256-mov">Dont le cœur est de flâme et la langue engourdie,</l>
+            <l n="257" xml:id="l257-mov">Ce qui vient d’arriver ne vous sied que trop bien ;</l>
+            <l n="258" xml:id="l258-mov">Avoir chaud comme un Diable, et ne parler de rien,</l>
+            <l n="259" xml:id="l259-mov">Brusler dans sa chemise à l’exemple d’Hercule<note place="bottom">La chemise d’<hi rend="i">Hercule</hi> renvoie à celle que lui fait
+              parvenir sa femme Déjanire et qui est empoisonnée par le sang du centaure Nessos que
+              le héros a tué. Plusieurs versions du mythe sont connues, les unes faisant de Déjanire
+              un simple « outil » de la vengeance de Nessos qui lui a fait croire que son sang lui
+              permettrait de retrouver l’amour d’Hercule et de l’éloigner de ses nombreuses
+              conquêtes, d’autres défendant le fait que Déjanire agisse en pleine conscience de son
+              acte en envoyant la chemise à son mari ; cette thèse est défendue dans le dictionnaire
+              de référence au XVII<hi rend="sup">e</hi> <hi rend="i">Le Grand Dictionnaire historique</hi>
+              de Moreri, Déjanire « jalouse des nouvelles amours d’Hercule avec Jole, luy envoya une
+              chemise empoisonnée qui le fit mourir ».</note>,</l>
+            <l n="260" xml:id="l260-mov">Et puis apres cela devenir ridicule,</l>
+            <l n="261" xml:id="l261-mov">Jusqu’au poinct de souscrire au plaisir d’un Rival,</l>
+            <l n="262" xml:id="l262-mov">Si ce n’est estre sot, c’est paraistre Cheval<note place="bottom">« On dit figurément d’Un homme stupide, grossier, brutal, que <hi rend="i">C'est un cheval</hi> » (<hi rend="i">Dictionnaire de l’Académie française</hi>,
+              1694).</note>.</l>
+          </sp>
+          <sp xml:id="I07-7" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="263" xml:id="l263-mov">Au plaisir d’un Rival que jamais je souscrive !</l>
+            <l n="264" xml:id="l264-mov">Qu’il possede un objet qui mon ame captive !</l>
+            <l n="265" xml:id="l265-mov">Et que sans écouter un amour violent …</l>
+          </sp>
+          <sp xml:id="I07-8" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="266" xml:id="l266-mov">Et que pretendez-vous, ô Maistre un peu trop lent ?</l>
+          </sp>
+          <sp xml:id="I07-9" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="267" xml:id="l267-mov">Puis que si mon Rival n’eut usurpé ma place,<pb n="15" xml:id="p15-mov"/></l>
+            <l n="268" xml:id="l268-mov">Mon aymable Maistresse approuvoit mon audace,</l>
+            <l n="269" xml:id="l269-mov">Apprends que je m’appreste à le priver du jour,</l>
+            <l n="270" xml:id="l270-mov">Pour la contraindre encor à <ref target="#souffrir3-mov">
+              souffrir</ref> mon amour.</l>
+            <l n="271" xml:id="l271-mov">Je ne luy déplais pas, je le viens de connaistre,</l>
+            <l n="272" xml:id="l272-mov">Elle sçaura m’<ref target="#aimer">aymer</ref> quand il
+              cessera d’estre,</l>
+            <l n="273" xml:id="l273-mov">Je puis donc, supportant que je vange un affront,</l>
+            <l n="274" xml:id="l274-mov">Le forcer à se battre, et t’avoir pour Second.</l>
+          </sp>
+          <sp xml:id="I07-10" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="275" xml:id="l275-mov" part="I">Moy Second ?</l>
+          </sp>
+          <sp xml:id="I07-11" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Quoy, Gusman, tu veux estre pagnotte<note place="bottom">« <hi rend="i">
+              Soldat de la pagnotte</hi>, soldat qui ne se bat pas » (Godefroy).</note> ?</l>
+          </sp>
+          <sp xml:id="I07-12" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="276" xml:id="l276-mov">Quoy tueur de Rivaux, vous voulez qu’on me frotte<note place="bottom">Battre, frapper.</note> ?</l>
+            <l n="277" xml:id="l277-mov">Et moy qui de la Parque apprehende la faux,</l>
+            <l n="278" xml:id="l278-mov">J’ose vous soûtenir que cela sera faux.</l>
+          </sp>
+          <sp xml:id="I07-13" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="279" xml:id="l279-mov">Ah ! Gusman, souviens-toy que j’<ref target="#aimer">ayme</ref>
+              Stephanie,</l>
+            <l n="280" xml:id="l280-mov">Qu’elle doit, à mon sort, par l’Hymen estre unie,</l>
+            <l n="281" xml:id="l281-mov">Et que dans le mal-heur qui talonne mes pas,</l>
+            <l n="282" xml:id="l282-mov">N’en pas estre l’Espoux, c’est <ref target="#souffrir2-mov">
+              souffrir</ref> le trépas.</l>
+          </sp>
+          <sp xml:id="I07-14" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="283" xml:id="l283-mov" part="I">Trépassez.</l>
+          </sp>
+          <sp xml:id="I07-15" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Mais mourir, apres tant de souffrances,</l>
+            <l n="284" xml:id="l284-mov">C’est donner à ma peine une foible allegeance<note place="bottom">« Souslagement d’un mal. » (Furetière).</note>.</l>
+          </sp>
+          <sp xml:id="I07-16" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="285" xml:id="l285-mov" part="I">Ne trépassez donc pas.</l>
+          </sp>
+          <sp xml:id="I07-17" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Donne m’en le moyen ;</l>
+            <l n="286" xml:id="l286-mov">Crois-tu qu’on puisse vivre, et ne pretendre rien ?</l>
+            <l n="287" xml:id="l287-mov">Et que quand la fortune est pour nous rigoureuse,</l>
+            <l n="288" xml:id="l288-mov">Un trépas soit moins doux qu’une vie odieuse ?</l>
+          </sp>
+          <sp xml:id="I07-18" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="289" xml:id="l289-mov" part="I">Trépassez-donc. <pb n="16" xml:id="p16-mov"/></l>
+          </sp>
+          <sp xml:id="I07-19" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Gusman, c’est mal me secourir,</l>
+            <l n="290" xml:id="l290-mov">Un <ref target="#amant-mov">Amant</ref> veritable a trop
+              peur de mourir,</l>
+            <l n="291" xml:id="l291-mov">Penses-tu qu’au moment qu’on adore une belle,</l>
+            <l n="292" xml:id="l292-mov">Il soit aisé de faire une absence éternelle ?</l>
+            <l n="293" xml:id="l293-mov">Et qu’un cœur que l’amour asservit sous ses loix,</l>
+            <l n="294" xml:id="l294-mov">Puisse expirer sans peine apres un noble choix ?</l>
+          </sp>
+          <sp xml:id="I07-20" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="295" xml:id="l295-mov">Vivez-donc, si la mort est pour vous effroyable.</l>
+          </sp>
+          <sp xml:id="I07-21" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="296" xml:id="l296-mov">La mort aux mal-heureux est tousjours agreable.</l>
+          </sp>
+          <sp xml:id="I07-22" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="297" xml:id="l297-mov" part="I">Mourez-donc.</l>
+          </sp>
+          <sp xml:id="I07-23" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Quelque sort qui nous puisse arriver,</l>
+            <l n="298" xml:id="l298-mov">Il n’est rien de si doux que de vivre, et d’<ref target="#aimer">aymer</ref>.</l>
+          </sp>
+          <sp xml:id="I07-24" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="299" xml:id="l299-mov">A vostre cher Valet, apprenez vostre envie ;</l>
+            <l n="300" xml:id="l300-mov">Avoir peur de la mort, et puis craindre la vie ;</l>
+            <l n="301" xml:id="l301-mov">C’est, sans qu’il soit besoin de tousjours discourir,</l>
+            <l n="302" xml:id="l302-mov">Vouloir vivre sans vivre, et mourir sans mourir.</l>
+            <l n="303" xml:id="l303-mov" part="I">Mais à quoy resvez-vous<note place="bottom">Le
+              verbe <hi rend="i">resver</hi> peut être ici compris selon deux sens du verbe au XVII<hi rend="sup">e</hi> siècle. Dans un premier temps, il peut signifier « Estre
+              distrait, entretenir ses pensées » (Furetière), sens que nous retrouvons dans le verbe <hi rend="i">rêver</hi> de nos jours, et devenir ainsi une didascalie interne quant à
+              l’attitude de Fabrice à ce moment –là de la scène. En outre, <hi rend="i">resver</hi>
+              peut « se di[re] aussi de ceux qui en veillant font ou disent des extravagances. »
+              (Furetière) ; ce sens s’illustre par le discours incertain que tient Fabrice au sujet
+              de la vie et de la mort. </note> ?</l>
+          </sp>
+          <sp xml:id="I07-25" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Au mal-heur qui m’afflige,</l>
+            <l n="304" xml:id="l304-mov">De momens en momens Lazarille m’<ref target="#obliger1">
+              oblige</ref>,</l>
+            <l n="305" xml:id="l305-mov">Il m’aime, et toutesfois je ne puis l’épargner,</l>
+            <l n="306" xml:id="l306-mov">Et je dois, ou le perdre, ou du moins l’éloigner.</l>
+          </sp>
+          <sp xml:id="I07-26" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="307" xml:id="l307-mov">Un si grand preambule estoit-il necessaire ?</l>
+            <l n="308" xml:id="l308-mov">Vous sçavez, grace à Dieu, que je suis bon faussaire,</l>
+            <l n="309" xml:id="l309-mov">Et que sans vanité, je pourrois me vanter,</l>
+            <l n="310" xml:id="l310-mov">Qu’au mestier de matois<note place="bottom">« Rusé,
+              difficile à étre trompé, adroit à tromper les autres. » (Furetière).</note> nul ne
+              peut m’imiter.</l>
+            <l n="311" xml:id="l311-mov">Si bien qu’à mon talent il n’est pas difficile</l>
+            <l n="312" xml:id="l312-mov">De forcer Lazarille à sortir de Sevile<note place="bottom"><hi rend="i">Seville</hi> est orthographié <hi rend="i">Sevile</hi> pour la rime. Nous
+              retrouvons le même cas de figure aux vers : v. 366, v. 390, v. 808.</note> : <pb n="17" xml:id="p17-mov"/></l>
+            <l n="313" xml:id="l313-mov">Laissez vostre fortune à ma discretion.</l>
+          </sp>
+          <sp xml:id="I07-27" who="fabrice">
+            <speaker> FABRICE</speaker>
+            <l n="314" xml:id="l314-mov">Il me souvient encor d’une autre invention,</l>
+            <l n="315" xml:id="l315-mov" part="I">L’Ambassadeur d’Affrique est icy.</l>
+          </sp>
+          <sp xml:id="I07-28" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Qu’il s’y tienne.</l>
+          </sp>
+          <sp xml:id="I07-29" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="316" xml:id="l316-mov">Sa personne à peu prés est égale à la tienne.</l>
+          </sp>
+          <sp xml:id="I07-30" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="317" xml:id="l317-mov" part="I">Pour cela ?</l>
+          </sp>
+          <sp xml:id="I07-31" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Vous avez chacun de mesmes traits.</l>
+          </sp>
+          <sp xml:id="I07-32" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="318" xml:id="l318-mov" part="I">Qu’en est-il ?</l>
+          </sp>
+          <sp xml:id="I07-33" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Les plus fins confondroient vos portraits.</l>
+          </sp>
+          <sp xml:id="I07-34" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="319" xml:id="l319-mov" part="I">Que m’importe ?</l>
+          </sp>
+          <sp xml:id="I07-35" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Pour peu que ton zele s’applique</l>
+            <l n="320" xml:id="l320-mov">A vouloir me servir aux despens de l’Affrique,</l>
+            <l n="321" xml:id="l321-mov">Tu peux en secondant les desseins que je faits,</l>
+            <l n="322" xml:id="l322-mov">Contenter mon ardeur, et remplir mes souhaits<note place="bottom">Diérèse. Ce mot compte pour deux syllabes. Nous retrouvons le même
+              cas de figure aux vers : v. 371, v. 487, v. 593, v. 644, v. 791, v. 826.</note>.</l>
+          </sp>
+          <sp xml:id="I07-36" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="323" xml:id="l323-mov">Moy que je vous <ref target="#obliger1">oblige</ref> aux
+              despens de l’Affrique ?</l>
+          </sp>
+          <sp xml:id="I07-37" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="324" xml:id="l324-mov" part="I"> Tu le peux.</l>
+          </sp>
+          <sp xml:id="I07-38" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Justement ; c’est bien là ma pratique,</l>
+            <l n="325" xml:id="l325-mov">Quoy, Monsieur, dans l’Affrique ay-je quelque pouvoir ?</l>
+          </sp>
+          <sp xml:id="I07-39" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="326" xml:id="l326-mov" part="I">Point du tout.</l>
+          </sp>
+          <sp xml:id="I07-40" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">A-t-elle eu le bon-heur de me voir ?</l>
+          </sp>
+          <sp xml:id="I07-41" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="327" xml:id="l327-mov" part="I">Nullement.<pb n="18" xml:id="p18-mov"/></l>
+          </sp>
+          <sp xml:id="I07-42" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">De l’Affrique ay-je la dependance ?</l>
+          </sp>
+          <sp xml:id="I07-43" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="328" xml:id="l328-mov" part="I">Encor moins.</l>
+          </sp>
+          <sp xml:id="I07-44" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Fléchit-elle à ma moindre ordonnance<note place="bottom">« Loy, precepte,
+              commandement d’un Souverain, d’un Superieur. » (Furetière).</note> ?</l>
+          </sp>
+          <sp xml:id="I07-45" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="329" xml:id="l329-mov" part="I">Elle ? Non.</l>
+          </sp>
+          <sp xml:id="I07-46" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Comment donc avez-vous pretendu,</l>
+            <l n="330" xml:id="l330-mov">Qu’un service à ses frais pût vous estre rendu :</l>
+            <l n="331" xml:id="l331-mov">Car enfin quoy que j’aye un rapport fort sincere</l>
+            <l n="332" xml:id="l332-mov">Avec un qui peut-estre est bastard de mon pere,</l>
+            <l n="333" xml:id="l333-mov">D’icy jusqu’en Affrique un chemin raccourcy,</l>
+            <l n="334" xml:id="l334-mov">Ne peut estre plus long que de là jusqu’icy ;</l>
+            <l n="335" xml:id="l335-mov">Et puis qu’à vous connaître il faut que l’on s’exerce,</l>
+            <l n="336" xml:id="l336-mov">Gusman avec l’Affrique ayant peu de commerce,</l>
+            <l n="337" xml:id="l337-mov">Pour raison concluante il conclud de bon cœur,</l>
+            <l n="338" xml:id="l338-mov">Que tousjours de l’Affrique il sera serviteur.</l>
+          </sp>
+          <sp xml:id="I07-47" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="339" xml:id="l339-mov" part="I">Tu n’entends pas mon sens.</l>
+          </sp>
+          <sp xml:id="I07-48" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Comment Diable l’entendre ?</l>
+          </sp>
+          <sp xml:id="I07-49" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="340" xml:id="l340-mov">Je veux dans mon logis te le faire comprendre ;</l>
+            <l n="341" xml:id="l341-mov">Puis donc que nous avons des sujets à choisir,</l>
+            <l n="342" xml:id="l342-mov">Entrons, et sur chacun consultons<note place="bottom">
+              Réfléchir.</note> à loisir.</l>
+            <trailer rend="center">Fin du premier Acte.</trailer>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="II" type="act">
+        <head>ACTE SECOND</head>
+        <div type="scene" xml:id="II01">
+          <head>SCENE PREMIERE</head>
+          <stage>LAZARILLE, FABRICE</stage>
+          <sp xml:id="II01-1" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="343" xml:id="l343-mov">Incomparable amy dont tousjours la tendresse, <pb n="19" xml:id="p19-mov"/></l>
+            <l n="344" xml:id="l344-mov">Dans tout ce qui me touche aisément s’interesse,</l>
+            <l n="345" xml:id="l345-mov">Approche, et si jamais tu me crûs mal-heureux,</l>
+            <l n="346" xml:id="l346-mov">Si jamais mon destin te semblast rigoureux,</l>
+            <l n="347" xml:id="l347-mov">Juges par ce billet qui fait naistre ma plainte,</l>
+            <l n="348" xml:id="l348-mov">Si d’un tourment plus rude on peut sentir l’atteinte.</l>
+          </sp>
+          <sp xml:id="II01-2" who="fabrice">
+            <speaker>FABRICE </speaker><stage>lit.</stage>
+            <l n="349" xml:id="l349-mov"><hi rend="i"> Mon Neveu je me plains de mon triste devoir</hi>
+              , </l>
+            <l n="350" xml:id="l350-mov">
+              <hi rend="i">Qui malgré-moy m’<ref target="#obliger2">oblige</ref> à vous faire
+                sçavoir</hi>
+            </l>
+            <l n="351" xml:id="l351-mov">Une fort mauvaise nouvelle :</l>
+            <l n="352" xml:id="l352-mov">Mon Frere, votre Pere ayant fini son sort,</l>
+            <l n="353" xml:id="l353-mov">Pour de vostre Maison devenir le support,</l>
+            <l n="354" xml:id="l354-mov">Vostre Mere affligée en ce lieu vous appelle.</l>
+            <l n="355" xml:id="l355-mov" part="I">
+              <hi rend="i">DOM RAYMON DE GALAS</hi>
+            </l>
+          </sp>
+          <sp xml:id="II01-3" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Hé bien ! Parfait amy</l>
+            <l n="356" xml:id="l356-mov">Dont la noble chaleur<note place="bottom">« Se dit
+              figurément en choses morales des passions violentes d’affection, de colere, de haine.
+              Cet homme sert ses amis avec beaucoup de <hi rend="i">chaleur</hi> » (Furetière).</note>
+              n’agit point à demy ;</l>
+            <l n="357" xml:id="l357-mov" part="I">Tu vois.</l>
+          </sp>
+          <sp xml:id="II01-4" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Ce coup fatal me surprend, et m’estonne, <pb n="20" xml:id="p20-mov"/></l>
+            <l n="358" xml:id="l358-mov" part="I">Il est mort !</l>
+          </sp>
+          <sp xml:id="II01-5" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Juges-en par l’<ref target="#avis2">avis</ref> qu’on me donne.</l>
+          </sp>
+          <sp xml:id="II01-6" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="359" xml:id="l359-mov">De tout autre qu’un Oncle à qui l’on doit respect,</l>
+            <l n="360" xml:id="l360-mov">Un billet si fascheux pourroit m’estre suspect :</l>
+            <l n="361" xml:id="l361-mov">Mais voy le caractere<note place="bottom">« Se dit aussi de
+              la maniere d’écrire » (Furetière).</note> ; Est-ce point imposture,</l>
+            <l n="362" xml:id="l362-mov" part="I">Examine.</l>
+          </sp>
+          <sp xml:id="II01-7" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Non, non c’est la mesme écriture.</l>
+          </sp>
+          <sp xml:id="II01-8" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="363" xml:id="l363-mov">Pourtant, ou je me trompe, ou tu dis hier au soir,</l>
+            <l n="364" xml:id="l364-mov">Que ton Pere en ce lieu te pourroit bien-tost voir<note place="bottom">Comprendre : que ton Père en ce lieu pourrait bientôt venir te voir.</note>
+               ;</l>
+            <l n="365" xml:id="l365-mov">Et pour, à son enfant ne pas estre inutile,</l>
+            <l n="366" xml:id="l366-mov">Qu’il partoit de Tolede, et venoit à Sevile.</l>
+          </sp>
+          <sp xml:id="II01-9" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="367" xml:id="l367-mov">Il me l’avoit mandé, cet espoir m’estoit doux,</l>
+            <l n="368" xml:id="l368-mov">Mais de tous mes plaisirs mon destin est jaloux.</l>
+            <l n="369" xml:id="l369-mov">Il s’oppose sans cesse au cours de ma fortune,</l>
+            <l n="370" xml:id="l370-mov">Et comme à tout momens sa rigueur m’importune,</l>
+            <l n="371" xml:id="l371-mov">Et que de son caprice il me fait le joüet,</l>
+            <l n="372" xml:id="l372-mov">J’ay des biens en idée, et des maux en effet.</l>
+          </sp>
+          <sp xml:id="II01-10" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="373" xml:id="l373-mov" part="I">Ton sort est deplorable.</l>
+          </sp>
+          <sp xml:id="II01-11" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Ajouste encor, Fabrice,</l>
+            <l n="374" xml:id="l374-mov">Que tout m’est rigoureux, que rien ne m’est propice,</l>
+            <l n="375" xml:id="l375-mov">Et pour connaistre mieux jusqu’où va mon tourment,</l>
+            <l n="376" xml:id="l376-mov">Au tendre nom de Fils, joints le tiltre d’<ref target="#amant-mov">Amant</ref> ;</l>
+            <l n="377" xml:id="l377-mov">J’adore une beauté, je dois estre auprés d’elle,</l>
+            <l n="378" xml:id="l378-mov">Et la mort de mon Pere à Tolede m’appelle.</l>
+          </sp>
+          <sp xml:id="II01-12" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="379" xml:id="l379-mov">Si j’avois veu l’Objet qui te tiens sous ses loix,</l>
+            <l n="380" xml:id="l380-mov">Je l’irois de ta part visiter quelquesfois. <pb n="21" xml:id="p21-mov"/></l>
+            <l n="381" xml:id="l381-mov">Comme pour te servir j’ay le cœur tout de flâme,</l>
+            <l n="382" xml:id="l382-mov">A répondre à tes feux, j’exciterois son ame,</l>
+            <l n="383" xml:id="l383-mov">Et ta vertu sans cesse étalée à ses yeux,</l>
+            <l n="384" xml:id="l384-mov">Te rendroit favorable un sejour ennuyeux.</l>
+          </sp>
+          <sp xml:id="II01-13" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="385" xml:id="l385-mov">Si tantost j’eusse appris cette triste nouvelle,</l>
+            <l n="386" xml:id="l386-mov">J’aurois crû m’éloigner d’une fille infidelle<note place="bottom">« Celuy qui ne garde point la foy, qui n’execute point les choses
+              qu’il a promises, ou jurées. » (Furetière).</note> ;</l>
+            <l n="387" xml:id="l387-mov">Mais ce coup à mon ame est d’autant plus cruel,</l>
+            <l n="388" xml:id="l388-mov">Qu’elle honore mes feux par un feu mutuel.</l>
+          </sp>
+          <sp xml:id="II01-14" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="389" xml:id="l389-mov" part="I">Helas !</l>
+          </sp>
+          <sp xml:id="II01-15" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">A mon ardeur daigne donc estre utile,</l>
+            <l n="390" xml:id="l390-mov">Puis qu’il faut qu’à regret j’abandonne Sevile,</l>
+            <l n="391" xml:id="l391-mov">Et qu’au moins Stephanie une fois chaque jour,</l>
+            <l n="392" xml:id="l392-mov">Apprenne par ta voix l’excez<note place="bottom">« Se dit
+              en Morale de ce qui passe au delà des justes bornes et mesures prescrites à chaque
+              chose » (Furetière). L’amour de Lazarille pour Stéphanie dépasse les bornes possible
+              de l’amour, il est sans limites.</note> de mon amour.</l>
+          </sp>
+          <sp xml:id="II01-16" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="393" xml:id="l393-mov" part="I">Stephanie !</l>
+          </sp>
+          <sp xml:id="II01-17" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="M">Elle-mesme.</l>
+          </sp>
+          <sp xml:id="II01-18" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">O destin implacable !</l>
+          </sp>
+          <sp xml:id="II01-19" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="394" xml:id="l394-mov" part="I">Tu te plaints.</l>
+          </sp>
+          <sp xml:id="II01-20" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Je me plaints du mal-heur qui t’accable,</l>
+            <l n="395" xml:id="l395-mov" part="I">L’Ambassadeur d’Affrique est ton Rival.</l>
+          </sp>
+          <sp xml:id="II01-21" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">O Dieux !</l>
+            <l n="396" xml:id="l396-mov" part="I">Il <ref target="#aimer">ayme</ref> Stephanie ?</l>
+          </sp>
+          <sp xml:id="II01-22" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Il en est amoureux ;</l>
+            <l n="397" xml:id="l397-mov">Comme il est courageux, comme il est magnanime,</l>
+            <l n="398" xml:id="l398-mov">Que chacun le respecte, et que chacun l’estime,</l>
+            <l n="399" xml:id="l399-mov">Que son credit<note place="bottom">Considération.</note>
+              est rare, et que dans cét Estat, <pb n="22" xml:id="p22-mov"/></l>
+            <l n="400" xml:id="l400-mov">Il tient, et sçait garder le rang d’un <ref target="#potentat">Potentat</ref>,</l>
+            <l n="401" xml:id="l401-mov">En vain à ce qu’il veut tu ferois resistance.</l>
+          </sp>
+          <sp xml:id="II01-23" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="402" xml:id="l402-mov" part="I">Il l’<ref target="#aimer">ayme</ref> !</l>
+          </sp>
+          <sp xml:id="II01-24" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">De sa flâme il m’a fait confidence ;</l>
+            <l n="403" xml:id="l403-mov">Et si je ne m’abuse il vient lui-mesme exprès,</l>
+            <l n="404" xml:id="l404-mov" part="I">Pour parler de ses feux.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II02">
+          <head>SCENE II</head>
+          <stage>GUSMAN, FABRICE, LAZARILLE, SUITE</stage>
+          <sp xml:id="II02-1" who="gusman">
+            <speaker>GUSMAN, </speaker><stage>en habit d’Ambassadeur</stage>
+            <l part="F">Suivez-moy mes valets,</l>
+            <l n="405" xml:id="l405-mov">Ou d’abord faites gile<note place="bottom">« Populairement.
+              Faire gille, se retirer, quitter une place. » (Furetière).</note>. Hé bien l’avez-vous
+              veuë,</l>
+            <l n="406" xml:id="l406-mov">Celle dont les attraits m’ont donné dans la veuë<note place="bottom">Marque l’importance du regard en amour ; celui-ci passe par le
+              regard.</note> ?</l>
+          </sp>
+          <sp xml:id="II02-2" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="407" xml:id="l407-mov" part="I">Non, Seigneur.</l>
+          </sp>
+          <sp xml:id="II02-3" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="M">Et pourquoy, Maistre<note place="bottom">« On joint quelquefois par
+              exagération le mot de <hi rend="i">Maître</hi>, à certains termes d’injure. » (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1762).</note> fat<note place="bottom">« Sot, sans Esprit, qui ne dit que des fadaises. » (Furetière).</note>
+               ?</l>
+          </sp>
+          <sp xml:id="II02-4" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Je n’ay pû</l>
+            <l n="408" xml:id="l408-mov" part="I">Seigneur…</l>
+          </sp>
+          <sp xml:id="II02-5" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Que pleust à Dieu que vous fussiez rompu<note place="bottom"><hi rend="i">
+              Rompre</hi> «signifie aussi, Rouër faire endurer le supplice de la roüe. »
+              (Furetière). </note> !</l>
+            <l n="409" xml:id="l409-mov">Cependant de l’amour je sens la tyrannie,</l>
+            <l n="410" xml:id="l410-mov" part="I">Traistre.</l>
+          </sp>
+          <sp xml:id="II02-6" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Quoy donc, Seigneur, vous <ref target="#aimer">aymez</ref> Stephanie ?</l>
+            <l n="411" xml:id="l411-mov" part="I">Elle vous charme ? <pb n="23" xml:id="p23-mov"/></l>
+          </sp>
+          <sp xml:id="II02-7" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Un peu si vous le trouvez bon.</l>
+            <l n="412" xml:id="l412-mov">Mais je vous trouve encor un fort joly mignon<note place="bottom">« Favory, soit en matiere d’amitié, soit d’amour. La plupart des
+              Princes ont des <hi rend="i">mignons</hi>, des favoris qui les gouvernent. Beaucoup
+              des Dames ont des <hi rend="i">mignons</hi>, de couchette. » (Furetière).</note>,</l>
+            <l n="413" xml:id="l413-mov">Pour mettre vostre nez jusques dans mon affaire.</l>
+          </sp>
+          <sp xml:id="II02-8" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="414" xml:id="l414-mov">Je n’ay pas crû, Seigneur, que ce fust vous déplaire.</l>
+          </sp>
+          <sp xml:id="II02-9" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="415" xml:id="l415-mov">Vous deviez l’avoir crû, car un Ambassadeur,</l>
+            <l n="416" xml:id="l416-mov">En parlant avec vous abaisse la grandeur ;</l>
+            <l n="417" xml:id="l417-mov">Tirez vos chausses<note place="bottom"><hi rend="i">
+              Chausse</hi> « se dit proverbialement en ces phrases. Va-t-en, tire tes <hi rend="i">
+              chausses</hi>. » (Furetière).</note>, viste, ou bien-tost par la teste…</l>
+          </sp>
+          <sp xml:id="II02-10" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="418" xml:id="l418-mov">Je sçay que vostre force égale une tempeste,</l>
+            <l n="419" xml:id="l419-mov">Et que le rang supréme où le Ciel vous a mis,</l>
+            <l n="420" xml:id="l420-mov">Donne de la terreur à tous vos ennemis :</l>
+            <l n="421" xml:id="l421-mov">Je ne le fus jamais, et n’ay garde<note place="bottom">« <hi rend="i">N'avoir garde</hi>, pour dire, N'avoir pas la volonté, ou le pouvoir de
+              faire une chose, en estre bien esloigné. » (<hi rend="i">Dictionnaire de l’Académie
+              française</hi>, 1694).</note> de l’estre,</l>
+            <l n="422" xml:id="l422-mov">Vous vous abaisseriez si vous estiez mon Maistre :</l>
+            <l n="423" xml:id="l423-mov">Mais la Posterité publieroit vos hauts faits,</l>
+            <l n="424" xml:id="l424-mov">Si de vostre vertu j’éprouvois<note place="bottom">« Experimenter,
+              essayer la bonté d’une chose. » (Furetière). Lazarille propose à Gusman de tester et
+              d’avoir la preuve de sa vertu en répondant à sa demande.</note> les effets,</l>
+            <l n="425" xml:id="l425-mov">Et si vostre Excellence à ma perte animée,</l>
+            <l n="426" xml:id="l426-mov">Vouloit rendre le calme à mon ame allarmée ;</l>
+            <l n="427" xml:id="l427-mov">Et soûtenant toûjours la grandeur de son sang,</l>
+            <l n="428" xml:id="l428-mov">Me ceder un Objet qui n’est pas de son rang.</l>
+          </sp>
+          <sp xml:id="II02-11" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="429" xml:id="l429-mov">Vous estes trop obscur, je ne puis vous entendre.</l>
+          </sp>
+          <sp xml:id="II02-12" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="430" xml:id="l430-mov">Vous servir, est-ce un bien que je puisse pretendre ?</l>
+            <l n="431" xml:id="l431-mov">Il n’est rien que pour vous je n’osasse embrasser<note place="bottom">« Prendre parti, se resoudre à faire quelque chose. » (Furetière).</note>
+              .</l>
+          </sp>
+          <sp xml:id="II02-13" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="432" xml:id="l432-mov">Pour estre vostre Maistre il me faut abaisser,</l>
+            <l n="433" xml:id="l433-mov" part="I">Plaist-il ?</l>
+          </sp>
+          <sp xml:id="II02-14" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="M">Je vous l’avouë.</l>
+          </sp>
+          <sp xml:id="II02-15" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Il est donc necessaire,</l>
+            <l n="434" xml:id="l434-mov">Que chacun se maintienne en sa forme ordinaire<note place="bottom">« Maniere, façon, d’agir, de parler, de se conduire, suivant certains
+              usages, certaines regles establies. » (<hi rend="i">Dictionnaire de l’Académie
+              française</hi>, 1694).</note>,<pb n="24" xml:id="p24-mov"/></l>
+            <l n="435" xml:id="l435-mov">Aussi bien tous vos soins me sont indifférends.</l>
+            <l n="436" xml:id="l436-mov" part="I">Fabrice !</l>
+          </sp>
+          <sp xml:id="II02-16" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="M">Monseigneur.</l>
+          </sp>
+          <sp xml:id="II02-17" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Est-il bon prés des Grands ?</l>
+            <l n="437" xml:id="l437-mov" part="I"> Le dois-je retenir ?</l>
+          </sp>
+          <sp xml:id="II02-18" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Il en est beaucoup digne.</l>
+          </sp>
+          <sp xml:id="II02-19" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="438" xml:id="l438-mov">N’estes-vous point sujet au sirop de la vigne ?</l>
+          </sp>
+          <sp xml:id="II02-20" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="439" xml:id="l439-mov">Quoy que je sois, Seigneur, vous le connoissez bien,</l>
+            <l n="440" xml:id="l440-mov">Vostre esprit penetrant n’ignorast jamais rien.</l>
+          </sp>
+          <sp xml:id="II02-21" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="441" xml:id="l441-mov">Il est vray, mais enfin quelque fois on oublie.</l>
+          </sp>
+          <sp xml:id="II02-22" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="442" xml:id="l442-mov">Ah ! de vostre Grandeur l’ame est trop accomplie.</l>
+            <l n="443" xml:id="l443-mov">Et quoy que la vertu cherche à s’humilier,</l>
+            <l n="444" xml:id="l444-mov">Un esprit si fameux ne peut rien oublier.</l>
+            <l n="445" xml:id="l445-mov">Vous avez la science en un degré supréme…</l>
+          </sp>
+          <sp xml:id="II02-23" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="446" xml:id="l446-mov">Vous me connoissez mieux que je ne sais moy-mesme</l>
+            <l n="447" xml:id="l447-mov">Et les vertus qu’en moy vous trouvez à tous pas,</l>
+            <l n="448" xml:id="l448-mov">Sont de hautes vertus que je ne voyois pas.</l>
+            <l n="449" xml:id="l449-mov" part="I">Fabrice.</l>
+          </sp>
+          <sp xml:id="II02-24" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="M">Monseigneur.</l>
+          </sp>
+          <sp xml:id="II02-25" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Cette fille vient-elle ?</l>
+          </sp>
+          <sp xml:id="II02-26" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="450" xml:id="l450-mov" part="I">Non, Seigneur.</l>
+          </sp>
+          <sp xml:id="II02-27" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Qu’elle est sotte ! Allons donc qu’on l’appelle !</l>
+            <l n="451" xml:id="l451-mov">Debiteur de Phebus<note place="bottom">« <hi rend="i">Donner
+              dans le phébus, employer le phébus</hi>, pour dire, Se servir d’un langage, d’un style
+              guindé, trop figuré. » (Furetière).</note>, c’est vous dont je fais chois, <pb n="p. 25 ; C" xml:id="p25-mov"/></l>
+            <l n="452" xml:id="l452-mov">Pour haranguer l’objet qui me met aux abois,</l>
+            <l n="453" xml:id="l453-mov">Et pour faire un portrait qui chatoüille<note place="bottom">Flatter.</note> son ame,</l>
+            <l n="454" xml:id="l454-mov">Où vous representiez la grandeur de ma flâme ;</l>
+            <l n="455" xml:id="l455-mov">Mais parlant de mes feux il se faut <ref target="#animer2">
+              animer</ref>,</l>
+            <l n="456" xml:id="l456-mov">Et par vostre discours la contraindre à m’aimer.</l>
+          </sp>
+          <sp xml:id="II02-28" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="457" xml:id="l457-mov" part="I">Moy, Seigneur ? Ah ! Sçachez…</l>
+          </sp>
+          <sp xml:id="II02-29" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Je sçay que je m’abaisse,</l>
+            <l n="458" xml:id="l458-mov">Mais l’esprit le plus ferme est sujet à foiblesse :</l>
+            <l n="459" xml:id="l459-mov">Forcer mon Excellence à me servir de vous,</l>
+            <l n="460" xml:id="l460-mov">Si c’est une folie, il en est de plus fous.</l>
+            <l n="461" xml:id="l461-mov">Sur tout, à Stephanie, étallez l’Ambassade,</l>
+            <l n="462" xml:id="l462-mov">Poussez-luy des <ref target="#soupir">soûpirs</ref>,
+              affectez la boutade<note place="bottom">Pratiquer les transports d’esprit.</note>,</l>
+            <l n="463" xml:id="l463-mov">Et faites-luy sçavoir par un terme attractif,</l>
+            <l n="464" xml:id="l464-mov">Que l’honneur de ma couche est un bien sensitif.</l>
+          </sp>
+          <sp xml:id="II02-30" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="465" xml:id="l465-mov" part="I">Je m’acquitteray mal…</l>
+          </sp>
+          <sp xml:id="II02-31" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="M">Point, point.</l>
+          </sp>
+          <sp xml:id="II02-32" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Ciel ! On l’ameine !</l>
+          </sp>
+          <sp xml:id="II02-33" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="466" xml:id="l466-mov" part="I">Disposez-vous<note place="bottom">Avoir
+              l’intention de.</note> …</l>
+          </sp>
+          <sp xml:id="II02-34" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="M">Helas !</l>
+          </sp>
+          <sp xml:id="II02-35" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="M">Bon, bon.</l>
+          </sp>
+          <sp xml:id="II02-36" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Quelle est ma peine ?</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II03">
+          <head>SCENE III</head>
+          <stage>FERDINAND, GUSMAN, LAZARILLE, STEPHANIE, FABRICE, SUITE.</stage>
+          <sp xml:id="II03-1" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="467" xml:id="l467-mov" part="I">Monseigneur, les respects … <pb n="26" xml:id="p26-mov"/></l>
+          </sp>
+          <sp xml:id="II03-2" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Monsieur le langoureux,</l>
+            <l n="468" xml:id="l468-mov">Pay<note place="bottom">Comprendre <hi rend="i">paix</hi>.</note> ;
+              ce n’est pas de vous que je suis amoureux.</l>
+          </sp>
+          <sp xml:id="II03-3" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="469" xml:id="l469-mov" part="I">Mais, Monseigneur l’espoir…</l>
+          </sp>
+          <sp xml:id="II03-4" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Mais Monsieur, pas plus outre<note place="bottom">Comprendre : <hi rend="i">Pas
+              plus loin</hi>.</note>,</l>
+            <l n="470" xml:id="l470-mov">Je suis grand personnage, et mal-heur à qui m’outre.</l>
+          </sp>
+          <sp xml:id="II03-5" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="471" xml:id="l471-mov" part="I">Ce n’est pas vous outrer…</l>
+          </sp>
+          <sp xml:id="II03-6" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Ah vieux barbon<note place="bottom">« Vieillard qui est revenu de tous les
+              plaisirs de la jeunesse, qui les condamne, et qui les empêche autant qu’il peut. »
+              (Furetière).</note> testu !</l>
+            <l n="472" xml:id="l472-mov">Qui faits en me parlant enrager ma vertu,</l>
+            <l n="473" xml:id="l473-mov">Porte plus loin l’odeur de ton nez qui refrongne<note place="bottom">« Renfrogner, contracter. » (Furetière).</note> ;</l>
+            <l n="474" xml:id="l474-mov">Et vous le beau parleur faites vostre besogne,</l>
+            <l n="475" xml:id="l475-mov" part="I">Dégoisez<note place="bottom">« Se dit figurément
+              de ceux qui parlent trop et mal à propos. » (Furetière).</note>.</l>
+          </sp>
+          <sp xml:id="II03-7" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="M">Stephanie, Helas !</l>
+          </sp>
+          <sp xml:id="II03-8" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Ah ! L’autre sot,</l>
+            <l n="476" xml:id="l476-mov">Qui tout d’abord soûpire, et n’a dit qu’un seul mot.</l>
+          </sp>
+          <sp xml:id="II03-9" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="477" xml:id="l477-mov">Ce digne Ambassadeur qui n’a rien que d’illustre,</l>
+            <l n="478" xml:id="l478-mov">Veut de sa passion augmenter vostre lustre<note place="bottom">« Se dit aussi figurément pour signifier l’Eclat que donne le merite,
+              la dignité, la beauté, la parure, etc. » (Dictionnaire de l’Académie française, 1694).</note>
+               :</l>
+            <l n="479" xml:id="l479-mov">Il n’a pû resister à tant d’appas flatteurs, <pb n="27" xml:id="p27-mov"/></l>
+            <l n="480" xml:id="l480-mov">Qui des cœurs les plus durs sont vos adorateurs :</l>
+            <l n="481" xml:id="l481-mov">Il n’a pû resister aux sensibles amorces</l>
+            <l n="482" xml:id="l482-mov">Qui maistrisent nostre ame, et surmontent ses forces :</l>
+            <l n="483" xml:id="l483-mov">Il n’a pû resister au pouvoir de vos yeux :</l>
+            <l n="484" xml:id="l484-mov" part="I">Il vous adore, helas !</l>
+          </sp>
+          <sp xml:id="II03-10" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F"> Ce soupir là va mieux.</l>
+            <l n="485" xml:id="l485-mov">Mais c’est trop la flatter ; vantez-lui mon adresse,</l>
+            <l n="486" xml:id="l486-mov">Pour plaire à ma Grandeur surprenez la tendresse ;</l>
+            <l n="487" xml:id="l487-mov" part="I">Loüez mon Excellence.</l>
+          </sp>
+          <sp xml:id="II03-11" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F"> Il vous doit estre doux,</l>
+            <l n="488" xml:id="l488-mov">De voir qu’un si grand homme ait de l’amour pour vous.</l>
+            <l n="489" xml:id="l489-mov">Jugez par ses vertus, par son rang, par sa mine,</l>
+            <l n="490" xml:id="l490-mov">De la gloire éclatante où le Ciel vous destine ;</l>
+            <l n="491" xml:id="l491-mov">Moy dont son Excellence a daigné faire choix,</l>
+            <l n="492" xml:id="l492-mov">Pour vous representer qu’il revere vos loix,</l>
+            <l n="493" xml:id="l493-mov">Je devrois ressentir de la joye en mon ame ;</l>
+            <l n="494" xml:id="l494-mov">D’avoir pû le premier vous parler de sa flâme ;</l>
+            <l n="495" xml:id="l495-mov">Et mon cœur devroit estre et tranquile, et content,</l>
+            <l n="496" xml:id="l496-mov">A l’aspect du bon-heur qui déja vous attend ;</l>
+            <l n="497" xml:id="l497-mov" part="I">Mais helas !</l>
+          </sp>
+          <sp xml:id="II03-12" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Mais helas ! Soûpirant incommode,</l>
+            <l n="498" xml:id="l498-mov">Des helas éternels ne sont plus à la mode.</l>
+          </sp>
+          <sp xml:id="II03-13" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="499" xml:id="l499-mov" part="I">Pleut-on parler d’amour sans qu’on soûpire ?</l>
+          </sp>
+          <sp xml:id="II03-14" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Non,</l>
+            <l n="500" xml:id="l500-mov">Mais il faut soûpirer de plus d’une façon.</l>
+            <l n="501" xml:id="l501-mov">Pour bien complimenter contemplez-moy, Novice.</l>
+            <l n="502" xml:id="l502-mov"><ref target="#hola">Hola</ref>, quasi ma femme, et
+              presqu’Ambassadrice,</l>
+            <l n="503" xml:id="l503-mov">Venez ; car je vous <ref target="#aimer">ayme</ref>, et je
+              suis cependant</l>
+            <l n="504" xml:id="l504-mov">Ambassadeur d’Affrique, et bien Ambassadant ;</l>
+            <l n="505" xml:id="l505-mov">Mais contre vos attraits n’ayant point de parade, <pb n="28" xml:id="p28-mov"/></l>
+            <l n="506" xml:id="l506-mov">Pour vous faire l’amour je me des-Ambassade :</l>
+            <l n="507" xml:id="l507-mov">Car des Ambassadeurs estant fort au dessous,</l>
+            <l n="508" xml:id="l508-mov">L’Ambassade est à eu<note place="bottom">« On dit
+              proverbialement et bassement <hi rend="i">Estre à eu</hi>, pour dire, Ne sçavoir plus
+              que devenir, n’avoir plus aucune ressource. » (<hi rend="i">Dictionnaire de l’Académie
+              française</hi>, 1694).</note> quand on parle avec vous.</l>
+            <l n="509" xml:id="l509-mov">Aï ! De ce <ref target="#soupir">soûpir</ref>, Patron<note place="bottom">« Se dit aussi par amitié à un vieillard à qui on parle »
+              (Furetière).</note> que vous en semble ?</l>
+          </sp>
+          <sp xml:id="II03-15" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="510" xml:id="l510-mov" part="I">Il est doux !</l>
+          </sp>
+          <sp xml:id="II03-16" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="M">Il est vray, Respondez-donc.</l>
+          </sp>
+          <sp xml:id="II03-17" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l part="F">Je tremble.</l>
+            <l n="511" xml:id="l511-mov">Pour connaistre aisément vostre rang glorieux,</l>
+            <l n="512" xml:id="l512-mov">Il ne faut qu’un moment regarder dans vos yeux,</l>
+            <l n="513" xml:id="l513-mov">On y remarque un air qui de vostre Excellence</l>
+            <l n="514" xml:id="l514-mov">Découvre les vertus, et fait voir la naissance :</l>
+            <l n="515" xml:id="l515-mov">Aussi, d’un rang si haut je sçay trop le pouvoir,</l>
+            <l n="516" xml:id="l516-mov">Pour vouloir abuser du bon-heur de vous voir,</l>
+            <l n="517" xml:id="l517-mov">Et j’en faits trop d’estat pour oser jamais croire,</l>
+            <l n="518" xml:id="l518-mov">Que d’un honteux amour vous soüilliez vôtre gloire.</l>
+            <l n="519" xml:id="l519-mov">Songez, Seigneur, songez que mon rang est trop bas,</l>
+            <l n="520" xml:id="l520-mov" part="I">Il vous faut…</l>
+          </sp>
+          <sp xml:id="II03-18" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Mon enfant, je ne l’ignore pas ;</l>
+            <l n="521" xml:id="l521-mov">Je sçay ce qu’il me faut, mais quoy que je le sçache,</l>
+            <l n="522" xml:id="l522-mov">Pour vous faire m’<ref target="#aimer">aymer</ref> je me
+              faits une tache ;</l>
+            <l n="523" xml:id="l523-mov">Mais beauté printaniere apprenez qu’il m’est doux,</l>
+            <l n="524" xml:id="l524-mov">D’estre noir comme un Diable<note place="bottom">Cette
+              expression peut faire référence à la <hi rend="i">tache</hi> du vers 522 ;
+              L’Ambassadeur est prêt à entacher la réputation liée à son rang élevé jusqu’à en être
+              noir pour pouvoir épouser Stéphanie mais aussi tout simplement à la couleur de peau de
+              l’ambassadeur.</note>, et d’estre <ref target="#aimer">aymé</ref> de vous.</l>
+          </sp>
+          <sp xml:id="II03-19" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="525" xml:id="l525-mov" part="I">Mais un Ambassadeur vouloir…</l>
+          </sp>
+          <sp xml:id="II03-20" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Point de scrupules,</l>
+            <l n="526" xml:id="l526-mov">Souvent les Grands Seigneurs sont les plus ridicules ;</l>
+            <l n="527" xml:id="l527-mov">Aussi donc vostre esprit ne doit pas s’allarmer,</l>
+            <l n="528" xml:id="l528-mov">De voir mon Excellence avoir pû vous <ref target="#aimer">
+              aymer</ref>.</l>
+          </sp>
+          <sp xml:id="II03-21" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="529" xml:id="l529-mov" part="I">M’<ref target="#aimer">aymer</ref> ?<pb n="29" xml:id="p29-mov"/></l>
+          </sp>
+          <sp xml:id="II03-22" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Oüy vous <ref target="#aimer">aymer</ref>, vostre beauté m’enyvre,</l>
+            <l n="530" xml:id="l530-mov">Vous me verriez mourir si je cessois de vivre ;</l>
+            <l n="531" xml:id="l531-mov">Car, par exemple, un homme, oüy je tiens pour certain,</l>
+            <l n="532" xml:id="l532-mov">Qu’un homme qui se meurt est si prés de la fin,</l>
+            <l n="533" xml:id="l533-mov">Qu’il s’en faut peu souvent que la mort ne l’atrape,</l>
+            <l n="534" xml:id="l534-mov">Et quand la mort nous tient rarement on échappe,</l>
+            <l n="535" xml:id="l535-mov">Partant<note place="bottom">Par conséquent.</note> si vous
+              estiez insensible pour moy,</l>
+            <l n="536" xml:id="l536-mov">Vous me verriez mourir, et sans sçavoir pourquoy :</l>
+            <l n="537" xml:id="l537-mov">Mais si pour m’<ref target="#obliger1">obliger</ref> vous
+              vouliez vous resoudre,</l>
+            <l n="538" xml:id="l538-mov">A m’<ref target="#aimer">aymer</ref> tant soit peu, nous
+              pourrions en découdre,</l>
+            <l n="539" xml:id="l539-mov">Et dès ce mesme jour l’un et l’autre conjoints,</l>
+            <l n="540" xml:id="l540-mov">A grossir nostre race appliquer tous nos soins.</l>
+          </sp>
+          <sp xml:id="II03-23" who="lazarille">
+            <speaker>LAZARILLE </speaker><stage>bas</stage>
+            <l n="541" xml:id="l541-mov" part="I">Quel brutal !</l>
+          </sp>
+          <sp xml:id="II03-24" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="M">Sur ce point…</l>
+          </sp>
+          <sp xml:id="II03-25" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Hibou<note place="bottom">« On appelle figurément <hi rend="i">hibou</hi>,
+              un homme bourru qui fuit la conversation des honnestes gens, qui vit en retraitte chez
+              luy. » (Furetière).</note>, dont le cœur gronde,</l>
+            <l n="542" xml:id="l542-mov" part="I">Taisez-vous.</l>
+          </sp>
+          <sp xml:id="II03-26" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="F">Sur ce point il faut que je réponde.</l>
+          </sp>
+          <sp xml:id="II03-27" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="543" xml:id="l543-mov" part="I">Pay, vous dis-je.</l>
+          </sp>
+          <sp xml:id="II03-28" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="M">Seigneur…</l>
+          </sp>
+          <sp xml:id="II03-29" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">C’est trop Seigneurier,</l>
+            <l n="544" xml:id="l544-mov">Je suis Ambassadeur, et me veux marier.</l>
+          </sp>
+          <sp xml:id="II03-30" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="545" xml:id="l545-mov" part="I">Mais Seigneur comme pere il faut …</l>
+          </sp>
+          <sp xml:id="II03-31" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Monsieur son Plege<note place="bottom">« Caution judiciaire, qui s’oblige
+              devant le Juge de representer quelqu’un, ou de payer ce qui sera jugé contre luy. Dans
+              les actes de soûmission, de caution qu’on delivre, on met toûjours, qu’un tel s’est
+              rendu <hi rend="i">pleige</hi> et caution d’un tel. » (Furetière).</note>,</l>
+            <l n="546" xml:id="l546-mov"> Loin de vous accorder un plus grand privilege, <pb n="30" xml:id="p30-mov"/></l>
+            <l n="547" xml:id="l547-mov">Je suis vostre ennemy si pour luy vous parlez ;</l>
+            <l n="548" xml:id="l548-mov">Pour vous la belle Alix parlez si vous voulez.</l>
+          </sp>
+          <sp xml:id="II03-32" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="549" xml:id="l549-mov">Un Hymen entre nous a si peu d’apparence,</l>
+            <l n="550" xml:id="l550-mov">Que je n’ose, Seigneur en former l’esperance ;</l>
+            <l n="551" xml:id="l551-mov">Vous pouvez donc pretendre en me faisant la Cour,</l>
+            <l n="552" xml:id="l552-mov">D’attirer des respects, et non pas de l’amour.</l>
+            <l n="553" xml:id="l553-mov" part="I">Vous m’<ref target="#aimer">aymez</ref> ? Vous,
+              Seigneur ? Moy qui suis…</l>
+          </sp>
+          <sp xml:id="II03-33" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Esprit cruche,</l>
+            <l n="554" xml:id="l554-mov">Nourrisson d’un vieillard qui semble une guenuche<note place="bottom">« Diminutif de <hi rend="i">guenon</hi> » (Furetière) ; « On appelle
+              aussi <hi rend="i">guenon</hi>, une femme vieille ou laide, quand on luy veut dire
+              quelque injure. » (Furetière).</note>,</l>
+            <l n="555" xml:id="l555-mov">Apres que noblement j’ay dépeint mon ardeur,</l>
+            <l n="556" xml:id="l556-mov">N’a-t-elle encore pû penetrer vostre cœur ?</l>
+            <l n="557" xml:id="l557-mov">Je vous <ref target="#aimer">ayme</ref>, vous dis-je, et
+              mon ame abatuë,</l>
+            <l n="558" xml:id="l558-mov">Cede au cruel effort de l’amour qui me tuë<note place="bottom">Parodie des stances du <hi rend="i">Cid</hi>, voir Introduction.</note>
+              ,</l>
+            <l n="559" xml:id="l559-mov">Et je suis à present, tel que des Matelots</l>
+            <l n="560" xml:id="l560-mov">Que le destin expose à la mercy des flots,</l>
+            <l n="561" xml:id="l561-mov">Et qui sur le dos vert du compere Neptune,</l>
+            <l n="562" xml:id="l562-mov">Pensent journellement établir leur fortune,</l>
+            <l n="563" xml:id="l563-mov">Quand au mal-heur pour eux un vent rude et fatal,</l>
+            <l n="564" xml:id="l564-mov">Enfle…rompt…calme…brise…enfin je suis fort mal.</l>
+            <l n="565" xml:id="l565-mov">Douterez-vous encor que je cherche à vous plaire,</l>
+            <l n="566" xml:id="l566-mov">Puis que je vous étale une preuve si claire ?</l>
+            <l n="567" xml:id="l567-mov">Et m’alleguerez-vous de vos sottes raisons,</l>
+            <l n="568" xml:id="l568-mov">Puisque je vous <ref target="#confondre">confonds</ref>
+              par des comparaisons ?</l>
+          </sp>
+          <sp xml:id="II03-34" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="569" xml:id="l569-mov">Il suffit, un grand cœur n’est jamais hypocrite ;</l>
+            <l n="570" xml:id="l570-mov">Mais, Seigneur, quand je songe à mon foible merite,</l>
+            <l n="571" xml:id="l571-mov">Je croy peu, quelques feux dont vous soyez épris,</l>
+            <l n="572" xml:id="l572-mov">Qu’un Esprit si sublime ait pû s’estre mépris.</l>
+            <l n="573" xml:id="l573-mov">Donc si vostre Excellence a pour moy quelque zele,</l>
+            <l n="574" xml:id="l574-mov"><ref target="#souffrir1-mov">Souffrez</ref> qu’elle m’en
+              donne une marque plus belle,</l>
+            <l n="575" xml:id="l575-mov">Et cachant ce qu’en vous je dois voir de suspect,</l>
+            <l n="576" xml:id="l576-mov">Faites naistre un amour qui succede au respect.</l>
+            <stage>Elle sort.</stage>
+          </sp>
+          <sp xml:id="II03-35" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="577" xml:id="l577-mov">Monseigneur, excusez si pour m’estre fidelle…<pb n="31" xml:id="p31-mov"/></l>
+          </sp>
+          <sp xml:id="II03-36" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="578" xml:id="l578-mov">Tu peux suivre sa piste et courir apres elle.</l>
+          </sp>
+          <sp xml:id="II03-37" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="579" xml:id="l579-mov" part="I">Mais…</l>
+          </sp>
+          <sp xml:id="II03-38" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="M">Mais.</l>
+          </sp>
+          <sp xml:id="II03-39" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="M">Et quoy, Seigneur, faut-il …</l>
+          </sp>
+          <sp xml:id="II03-40" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Est-ce à ton tour</l>
+            <l n="580" xml:id="l580-mov">A me rompre la teste<note place="bottom">« On dit
+              figurément et proverbialement <hi rend="i">Rompre la teste à quelqu’un</hi>, pour
+              dire, Luy faire trop de bruit, ou l’importuner par des discours hors de temps, hors de
+              saison. » (Dictionnaire de l’Académie française, 1694).</note>, Interprete d’amour !</l>
+          </sp>
+          <sp xml:id="II03-41" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="581" xml:id="l581-mov" part="I">Comme amy…</l>
+          </sp>
+          <sp xml:id="II03-42" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Comme amy…Sçais-tu bien que j’abonde…</l>
+            <l n="582" xml:id="l582-mov">Sors te dis-je : Et pour toy. Belzebut te <ref target="#confondre">confonde</ref>.</l>
+            <l n="583" xml:id="l583-mov" part="I">Bon jour<note place="bottom">« On dit absolument, <hi rend="i">Bon jour</hi>, pour dire, Dieu vous gard. » (Furetière).</note>.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II04">
+          <head>SCENE IV</head>
+          <stage>LAZARILLE, FABRICE</stage>
+          <sp xml:id="II04-1" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Quoy donc cét homme à qui rien n’est égal,</l>
+            <l n="584" xml:id="l584-mov">A si peu de vertus et paroist si brutal ?</l>
+            <l n="585" xml:id="l585-mov">C’est là ce rare Esprit à qui l’on rend hommage,</l>
+            <l n="586" xml:id="l586-mov">Qui d’un grand <ref target="#potentat">Potentat</ref>
+              represente l’Image ?</l>
+            <l n="587" xml:id="l587-mov">Et tu m’oses parler d’étouffer mon amour ?</l>
+            <l n="588" xml:id="l588-mov">Et tu peux te resoudre à luy faire la Cour ?</l>
+            <l n="589" xml:id="l589-mov">Toy qui m’as dit cent fois que tu hais la bassesse, <pb n="32" xml:id="p32-mov"/></l>
+            <l n="590" xml:id="l590-mov">Tu peux par complaisance aplaudir sa foiblesse ?</l>
+            <l n="591" xml:id="l591-mov">Sa grandeur t’éblouit, et tu n’aperçois pas,</l>
+            <l n="592" xml:id="l592-mov">Qu’avec toute sa pompe il n’a rien que de bas :</l>
+            <l n="593" xml:id="l593-mov">Si d’abord j’ay souscrit aux souhaits de ce Rustre,</l>
+            <l n="594" xml:id="l594-mov">J’ay crû qu’un rang suprême occupoit un Illustre ;</l>
+            <l n="595" xml:id="l595-mov">Mais je prens de l’audace en quittant mon erreur,</l>
+            <l n="596" xml:id="l596-mov">Puisque tout son mérite est d’avoir du bon-heur.</l>
+            <l n="597" xml:id="l597-mov" part="I">Ce cœur farouche…</l>
+          </sp>
+          <sp xml:id="II04-2" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Amy, sois un peu moins credule,</l>
+            <l n="598" xml:id="l598-mov">C’est à force d’<ref target="#aimer">aymer</ref> qu’il
+              paroist ridicule,</l>
+            <l n="599" xml:id="l599-mov">Et je vois aysément par un tel procedé,</l>
+            <l n="600" xml:id="l600-mov">La violente ardeur dont il est obsedé.</l>
+            <l n="601" xml:id="l601-mov">Si tu pouvois l’entendre au moment qu’il s’explique,</l>
+            <l n="602" xml:id="l602-mov">Et qu’il parle au profit de la chose publique,</l>
+            <l n="603" xml:id="l603-mov">Ton oreille charmée, et tes sens interdits,</l>
+            <l n="604" xml:id="l604-mov">Deviendront les garants de ce que je te dis.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II05">
+          <head>SCENE V</head>
+          <stage>GUSMAN, LAZARILLE, FABRICE</stage>
+          <sp xml:id="II05-1" who="gusman">
+            <speaker>GUSMAN, </speaker><stage>en habit de Valet.</stage>
+            <l n="605" xml:id="l605-mov" part="I">Monsieur, je viens …</l>
+          </sp>
+          <sp xml:id="II05-2" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Tantost<note place="bottom">Plus tard.</note> tu me diras le reste.</l>
+          </sp>
+          <sp xml:id="II05-3" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="606" xml:id="l606-mov">Quel qu’il soit à son sort je veux estre funeste,</l>
+            <l n="607" xml:id="l607-mov">De cét Ambassadeur je méprise le rang,</l>
+            <l n="608" xml:id="l608-mov">Je pretens luy planter un poignard dans le flanc.</l>
+          </sp>
+          <sp xml:id="II05-4" who="gusman">
+            <speaker>GUSMAN </speaker><stage>bas</stage>
+            <l n="609" xml:id="l609-mov" part="I">Fy<note place="bottom">« Particule qui sert à
+              faire une exclamation pour tesmoigner le mespris, la haine, l’aversion qu’on a pour
+              quelque personne ou quelque chose. » (Furetière).</note>.<pb n="33" xml:id="p33-mov"/></l>
+          </sp>
+          <sp xml:id="II05-5" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Qu’il soit genereux, qu’il ait l’esprit sublime,</l>
+            <l n="610" xml:id="l610-mov">Que chacun le respecte, et que chacun l’estime,</l>
+            <l n="611" xml:id="l611-mov">Pour <ref target="#souffrir1-mov">souffrir</ref> que ce
+              bras luy devienne fatal,</l>
+            <l n="612" xml:id="l612-mov">Il suffit qu’il m’outrage, et qu’il soit mon Rival.</l>
+            <l n="613" xml:id="l613-mov">Il verra ce que c’est qu’attaquer Lazarille.</l>
+          </sp>
+          <sp xml:id="II05-6" who="gusman">
+            <speaker>GUSMAN </speaker><stage>bas</stage>
+            <l n="614" xml:id="l614-mov">Diable, que j’ay bien fait de quitter la Roupille<note place="bottom">« Espece de petit manteau, vieille sorte d’habillement qui étoit une
+              sorte de hongreline serrée et courte. » (Furetière).</note>.</l>
+          </sp>
+          <sp xml:id="II05-7" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="615" xml:id="l615-mov" part="I">Mais considere Amy…</l>
+          </sp>
+          <sp xml:id="II05-8" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Tout est consideré,</l>
+            <l n="616" xml:id="l616-mov">Mon voyage à Tolede est déja differé :</l>
+            <l n="617" xml:id="l617-mov">Dans l’estat où je suis je n’ay plus d’autre envie,</l>
+            <l n="618" xml:id="l618-mov">Que d’assouvir ma rage aux dépens de sa vie.</l>
+            <l n="619" xml:id="l619-mov">Et s’il estoit icy dans ce mesme moment,</l>
+            <l n="620" xml:id="l620-mov">Je sçaurois l’immoler à mon ressentiment.</l>
+          </sp>
+          <sp xml:id="II05-9" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="621" xml:id="l621-mov" part="I">Monsieur : ah !</l>
+          </sp>
+          <sp xml:id="II05-10" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="M">Ne crains rien.</l>
+          </sp>
+          <sp xml:id="II05-11" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F"> S’il me jette une œillade,</l>
+            <l n="622" xml:id="l622-mov">Et qu’il remarque en moi quelques traits d’Ambassade.</l>
+          </sp>
+          <sp xml:id="II05-12" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="623" xml:id="l623-mov">Cede, cede à celuy qui combat ton ardeur,</l>
+            <l n="624" xml:id="l624-mov">Souviens-toy que d’Affrique il est Ambassadeur.</l>
+            <l n="625" xml:id="l625-mov" part="I">Songe….</l>
+          </sp>
+          <sp xml:id="II05-13" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Pour m’appaiser vainement tu t’efforces,</l>
+            <l n="626" xml:id="l626-mov">Loin d’esteindre mon feu tu redoubles ses forces,</l>
+            <l n="627" xml:id="l627-mov">Et si tu n’avois pas la bonté de m’<ref target="#aimer">
+              aymer</ref>,</l>
+            <l n="628" xml:id="l628-mov">C’est toy qui contre luy me devrois <ref target="#animer1">
+              animer</ref>.</l>
+            <l n="629" xml:id="l629-mov">Puis-je en un mesme jour sans mourir de tristesse,<pb n="34" xml:id="p34-mov"/></l>
+            <l n="630" xml:id="l630-mov">Sçavoir la mort d’un pere et perdre une Maistresse ?</l>
+            <l n="631" xml:id="l631-mov">Non, non quelques effets qu’il en puisse avenir,</l>
+            <l n="632" xml:id="l632-mov">L’ambassadeur me choque, et je veux l’en punir.</l>
+            <l n="633" xml:id="l633-mov">Toy qui de ce Rival a veu naistre la flâme,</l>
+            <l n="634" xml:id="l634-mov">Ôste si tu le peux ce dessein de son ame ;</l>
+            <l n="635" xml:id="l635-mov">Sinon sa mort est seure, et je te le promets.</l>
+            <l n="636" xml:id="l636-mov" part="I">Adieu.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="II06">
+          <head>SCENE VI</head>
+          <stage>FABRICE, GUSMAN</stage>
+          <sp xml:id="II06-1" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Vas-t’en au Diable, et ne reviens jamais.</l>
+            <l n="637" xml:id="l637-mov">Peste quel avaleur de pois gris<note place="bottom">« On
+              dit d’un Charlatan, que c’est un <hi rend="i">avaleur</hi> de pois gris. On le dit
+              aussi d’un homme fort goulu. » (Furetière).</note> ! Dans sa bouche</l>
+            <l n="638" xml:id="l638-mov">Je ne ferois non plus que feroit une mouche.</l>
+          </sp>
+          <sp xml:id="II06-2" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="639" xml:id="l639-mov">D’un autre stratageme il nous faut essayer :</l>
+            <l n="640" xml:id="l640-mov">Car, suivant ma pensée, il vient de t’effrayer,</l>
+            <l n="641" xml:id="l641-mov">Et tu ne veux plus estre Ambassadeur d’Affrique ?</l>
+          </sp>
+          <sp xml:id="II06-3" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="642" xml:id="l642-mov" part="I">Cy-fait<note place="bottom">« Façon de parler
+              familière &amp; qui n’est pas du bel usage; dont on se sert pour affirmer le contraire
+              de ce qu’un autre a dit. » (<hi rend="i">Dictionnaire de l’Académie française</hi>,
+              1762).</note>.</l>
+          </sp>
+          <sp xml:id="II06-4" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F"> A m’<ref target="#obliger1">obliger</ref>, ton soin si fort s’applique ?</l>
+          </sp>
+          <sp xml:id="II06-5" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="643" xml:id="l643-mov" part="I">Et quoy donc !</l>
+          </sp>
+          <sp xml:id="II06-6" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Dés ce soir, tu peux donc, cher Valet…</l>
+          </sp>
+          <sp xml:id="II06-7" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="644" xml:id="l644-mov">Vous souhaiter au Diable avec l’autre Argoulet<note place="bottom">« Arquebusier, Carabin. […] On dit aussi par raillerie, qu’un homme
+              n’est qu’un chetif <hi rend="i">Argoulet</hi>, un pauvre <hi rend="i">Argoulet</hi>,
+              pour dire, que c’est un homme de neant, et pour le mespriser. » (Furetière). <space> </space></note>
+              .</l>
+            <l n="645" xml:id="l645-mov">Que vostre esprit est preste<note place="bottom"><hi rend="i">Preste</hi> : « agile dans ses mouvements, dans ses actes » (Godefroy).</note>
+              aux desseins qu’il se forge : <pb n="35" xml:id="p35-mov"/></l>
+            <l n="646" xml:id="l646-mov">Qu’au cousteau d’un meurtrier j’aille tendre la gorge,</l>
+            <l n="647" xml:id="l647-mov">Et que dans un amour qui me touche fort peu,</l>
+            <l n="648" xml:id="l648-mov">Quand le cœur vous en dit, je sois mis sur le jeu ;</l>
+            <l n="649" xml:id="l649-mov"><hi rend="i">Nescio vos</hi><note place="bottom">« Formule
+              familière de refus, empruntée du latin » (<hi rend="i">Dictionnaire de l’Académie
+              française</hi>, 1835).</note>, Seigneur, car Gusman n’est pas homme,</l>
+            <l n="650" xml:id="l650-mov">Qui pour vostre plaisir soit content qu’on l’assomme,</l>
+            <l n="651" xml:id="l651-mov">Et puis qu’en vostre amour vous n’estes pas plus Grec<note place="bottom">« On dit proverbialement, qu’un homme est <hi rend="i">Grec</hi> dans
+              une affaire, dans une science, quand il en connoist tout le fonds. On dit aussi qu’un
+              homme n’est pas grand <hi rend="i">Grec</hi>, quand il est ignorant, ou peu
+              industrieux. » (Furetière).</note>,</l>
+            <l n="652" xml:id="l652-mov">Pour des Ambassadeurs torchez-en vostre bec<note place="bottom">« On dit proverbialement &amp; figurément d’Un homme qu’on croit qui
+              n’obtiendra pas ce qu’il pretend, qu’<hi rend="i">Il n’a qu’à s’en torcher le bec</hi>. »
+              (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1694).</note>.</l>
+          </sp>
+          <sp xml:id="II06-8" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="653" xml:id="l653-mov">L’intrigue estre si belle, et ne pas la poursuivre !</l>
+          </sp>
+          <sp xml:id="II06-9" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="654" xml:id="l654-mov">Vouloir obstinément que je cesse de vivre !</l>
+          </sp>
+          <sp xml:id="II06-10" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="655" xml:id="l655-mov" part="I">Mais Gusman…</l>
+          </sp>
+          <sp xml:id="II06-11" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Mais, Monsieur, je ne suis point d’avis,</l>
+            <l n="656" xml:id="l656-mov">De me faire étriller dessous de beaux habits.</l>
+          </sp>
+          <sp xml:id="II06-12" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="657" xml:id="l657-mov">Quel plaisir peux-tu prendre à commettre ces fautes ?</l>
+          </sp>
+          <sp xml:id="II06-13" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="658" xml:id="l658-mov">Un plus grand que de voir qu’on me brise les costes,</l>
+            <l n="659" xml:id="l659-mov">Car qui d’un coup motel me feroit un present,</l>
+            <l n="660" xml:id="l660-mov">Me feroit ce me semble un plaisir peu plaisant.</l>
+          </sp>
+          <sp xml:id="II06-14" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="661" xml:id="l661-mov">Au moins sois moy propice au dessein que j’invente,</l>
+            <l n="662" xml:id="l662-mov">De l’Hoste à mon Rival tu connois la servante ?</l>
+          </sp>
+          <sp xml:id="II06-15" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="663" xml:id="l663-mov" part="I">A peu prés.</l>
+          </sp>
+          <sp xml:id="II06-16" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Tu sçais bien si par quelque Loüis,</l>
+            <l n="664" xml:id="l664-mov">On peut charmer ses yeux et les rendre ébloüis.</l>
+            <l n="665" xml:id="l665-mov">Et si dans mon dessein je me puis servir d’elle.</l>
+          </sp>
+          <sp xml:id="II06-17" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="666" xml:id="l666-mov">Preparer de l’argent, c’est une bagatelle<note place="bottom">« On dit absolument, <hi rend="i">Bagatelle</hi>, quand on ne veut
+              pas demeurer d’accord de quelque proposition qu’un autre met en avant. Vous croyez
+              reüssir en cette entreprise : <hi rend="i">bagatelle</hi>. » (Furetière).</note>,</l>
+            <l n="667" xml:id="l667-mov" part="I">On la baise gratis<note place="bottom">Comprendre
+              que la servante de Lazarille est gentille, qu’elle rend service sans qu’on la paye. Le
+              verbe <hi rend="i">baiser</hi> signifie « Appliquer la bouche sur quelque chose en
+              signe d’amitié, d’amour, de respect. » (<hi rend="i">Dictionnaire de l’Académie
+              française</hi>, 1694).</note>.</l>
+          </sp>
+          <sp xml:id="II06-18" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Répons mieux à mon sens,<pb n="36" xml:id="p36-mov"/></l>
+            <l n="668" xml:id="l668-mov">Et sois plus favorable à l’ardeur que je sens.</l>
+            <l n="669" xml:id="l669-mov">Ma plus pressente envie est de voir Lazarille,</l>
+            <l n="670" xml:id="l670-mov">Quitter l’Andalousie et marcher en Castille,</l>
+            <l n="671" xml:id="l671-mov">Tandis que Stephanie écoutant mes <ref target="#soupir">
+              soûpirs</ref>,</l>
+            <l n="672" xml:id="l672-mov">Deviendra plus sensible à mes justes desirs ;</l>
+            <l n="673" xml:id="l673-mov">Pour donc precipiter son voyage de Tolede,</l>
+            <l n="674" xml:id="l674-mov">Voyons cette servante, et demandons son ayde.</l>
+            <l n="675" xml:id="l675-mov">Mais avant que Gusman fasse rien de nouveau,</l>
+            <l n="676" xml:id="l676-mov">Je veux le faire boire à regorge museau<note place="bottom">« Excessivement,
+              jusqu’à regorger. […] Il est populaire. » (<hi rend="i">Dictionnaire de l’Académie
+              française</hi>, 1762).</note>.</l>
+          </sp>
+          <sp xml:id="II06-19" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="677" xml:id="l677-mov" part="I">De quel vin.</l>
+          </sp>
+          <sp xml:id="II06-20" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="M">Du meilleur.</l>
+          </sp>
+          <sp xml:id="II06-21" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Vous avez bien la mine,</l>
+            <l n="678" xml:id="l678-mov">De me faire avaller de ce casse poictrine,</l>
+            <l n="679" xml:id="l679-mov">De ce vin baptisé<note place="bottom">Vin auquel on a
+              rajouté de l’eau.</note>, que l’on donne aux lacquais,</l>
+            <l n="680" xml:id="l680-mov">Qui fait du mal au ventre, et n’enyure jamais.</l>
+          </sp>
+          <sp xml:id="II06-22" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="681" xml:id="l681-mov">Point, je veux que ce soir tu manges à ma table.</l>
+          </sp>
+          <sp xml:id="II06-23" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="682" xml:id="l682-mov" part="I">Moy ?</l>
+          </sp>
+          <sp xml:id="II06-24" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="M">Toy.</l>
+          </sp>
+          <sp xml:id="II06-25" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Pour vous servir j’affronterois le Diable.</l>
+            <l n="683" xml:id="l683-mov">Allons jetter les yeux sur des mets délicats,</l>
+            <l n="684" xml:id="l684-mov">Et caressons ensemble et les pots et les plats.</l>
+            <trailer rend="center">Fin du second Acte.</trailer>
+          </sp>
+        </div>
+      </div>
+      <div xml:id="III" type="act">
+        <head>ACTE TROISIEME</head>
+        <div type="scene" xml:id="III01">
+          <head>SCENE PREMIERE</head>
+          <stage>HENRIQUEZ, LA SERVANTE.</stage>
+          <sp xml:id="III01-1" who="la-servante">
+            <speaker>LA SERVANTE</speaker>
+            <l n="685" xml:id="l685-mov">Monsieur, vous voyez bien qu’estant l’heure qu’il est, <pb n="p. 37 ; D" xml:id="p37-mov"/></l>
+            <l n="686" xml:id="l686-mov">On se loge où l’on peut, et non où l’on se plaist,</l>
+            <l n="687" xml:id="l687-mov">Dans cette Hostellerie aucun bouge ne chome<note place="bottom"><hi rend="i">Un bouge</hi> désigne une « espece de petite chambre, de
+              garderobe. <hi rend="i">Une chambre avec un bouge. chambre &amp; bouge à loüer</hi>.
+              On ne se sert de ce mot que dans les maisons où logent les Artisans, le bas peuple. »
+              (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1694). L’expression <hi rend="i">aucun bouge ne chome</hi> signifie donc qu’aucune chambre n’est
+              inoccupée.</note>,</l>
+            <l n="688" xml:id="l688-mov">Et je ne pense pas que dans tout le Royaume</l>
+            <l n="689" xml:id="l689-mov">On rencontre un Hostel qui soit plus frequenté,</l>
+            <l n="690" xml:id="l690-mov">Dans un logis si grand un lict seul est resté ;</l>
+            <l n="691" xml:id="l691-mov">Des deux que vous voyez, le lict vert est le vostre,</l>
+            <l n="692" xml:id="l692-mov">Un jeune homme habillé repose dessus l’autre,</l>
+            <l n="693" xml:id="l693-mov">Il est plein de tristesse, allez au petit pas,</l>
+            <l n="694" xml:id="l694-mov">Et faites s’il se peut qu’il ne s’éveille pas.</l>
+          </sp>
+          <sp xml:id="III01-2" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="695" xml:id="l695-mov">Puis que dans le lict vert il faut que je repose,</l>
+            <l n="696" xml:id="l696-mov">De vos soins cette nuict je ne veux autre chose,</l>
+            <l n="697" xml:id="l697-mov">Emportez la chandelle, et me laissez icy.</l>
+          </sp>
+          <sp xml:id="III01-3" who="la-servante">
+            <speaker>LA SERVANTE</speaker>
+            <l n="698" xml:id="l698-mov" part="I">Et vous deshabiller ?</l>
+          </sp>
+          <sp xml:id="III01-4" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l part="F">N’ayez point ce soucy.</l>
+          </sp>
+          <sp xml:id="III01-5" who="la-servante">
+            <speaker>LA SERVANTE</speaker>
+            <l n="699" xml:id="l699-mov" part="I">Mais vous ne verrez goutte, et je crains…</l>
+          </sp>
+          <sp xml:id="III01-6" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l part="F">Il n’importe, <pb n="38" xml:id="p38-mov"/></l>
+            <l n="700" xml:id="l700-mov">Laissez-moy seul vous dis-je, et fermez cette porte.</l>
+            <l n="701" xml:id="l701-mov">Sur tout n’oubliez pas d’aller chez Ferdinand.</l>
+          </sp>
+          <sp xml:id="III01-7" who="la-servante">
+            <speaker>LA SERVANTE</speaker>
+            <l n="702" xml:id="l702-mov">Il suffit<note place="bottom">« Je vous entens, c’est assez
+              dire » (Furetière).</note>, son logis est du nostre attenant,</l>
+            <l n="703" xml:id="l703-mov">Je ne vous promets rien qu’aisément je ne tienne.</l>
+          </sp>
+          <sp xml:id="III01-8" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="704" xml:id="l704-mov">Il faut qu’un grand matin faire en sorte qu’il vienne,</l>
+            <l n="705" xml:id="l705-mov">Et que de Stephanie il soit accompagné.</l>
+          </sp>
+          <sp xml:id="III01-9" who="la-servante">
+            <speaker>LA SERVANTE</speaker>
+            <l n="706" xml:id="l706-mov">C’est assez que vous m’ayez enseigné</l>
+            <l n="707" xml:id="l707-mov" part="I">Ce qu’il faut faire.</l>
+          </sp>
+          <sp xml:id="III01-10" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l part="M">Allez.</l>
+          </sp>
+          <sp xml:id="III01-11" who="la-servante">
+            <speaker>LA SERVANTE</speaker>
+            <l part="M">J’obeïs.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III02">
+          <head>SCENE II</head>
+          <sp xml:id="III02-1" who="henriquez">
+            <speaker>HENRIQUEZ </speaker><stage>seul</stage>
+            <l part="F">La courriere<note place="bottom">Désigne l’aurore ; « L'aurore au crin
+              d’argent, diligente courriere, Annonce le lever de la grande lumière. » Claude
+              GAUCHET, <hi rend="i">La Chasse du Cerf</hi>.</note></l>
+            <l n="708" xml:id="l708-mov">Qui du flambeau du jour commence la carriere,</l>
+            <l n="709" xml:id="l709-mov">N’est pas encore preste à faire son retour,</l>
+            <l n="710" xml:id="l710-mov">Il faut donc dans ce lieu que j’attende le jour,</l>
+            <l n="711" xml:id="l711-mov">Et que dessus ce lict je fasse un petit somme :</l>
+            <l n="712" xml:id="l712-mov">Mais de peur qu’en marchant je n’éveille cét homme,</l>
+            <l n="713" xml:id="l713-mov">A ne pas le troubler appliquons nostre effort,</l>
+            <l n="714" xml:id="l714-mov">Et ceddons au pouvoir du frere de la mort<note place="bottom">« On dit poëtiquement de la mort, que c’est un <hi rend="i">sommeil</hi>
+              de fer, qu’il est l’image, le frere de la mort. » (Furetière). </note>.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III03">
+          <head>SCENE III</head>
+          <stage>LAZARILLE, HENRIQUEZ endormis,</stage>
+          <sp xml:id="III03-1" who="gusman">
+            <speaker>GUSMAN </speaker><stage>faisant l’Esprit</stage>
+            <l n="715" xml:id="l715-mov">Peste tout tourne, où suis-je ? Ô Cambrouse<note place="bottom">Mot d’argot pour désigner une campagne reculée.</note> endiablée !<pb n="39" xml:id="p39-mov"/></l>
+            <l n="716" xml:id="l716-mov">Qui pour quatre Louys rend ma teste troublée,</l>
+            <l n="717" xml:id="l717-mov">Que Lucifer t’emporte avec ton chien de trou,</l>
+            <l n="718" xml:id="l718-mov">Qui n’est qu’un engin propre à me tordre le cou,</l>
+            <l n="719" xml:id="l719-mov">Je ne puis manier cette lanterne sourde,</l>
+            <l n="720" xml:id="l720-mov">Falloit-il faire Esprit une teste si lourde,</l>
+            <l n="721" xml:id="l721-mov">Loin d’estre courageux, je crains une vapeur<note place="bottom">« On dit figurément des choses subtiles, passageres et de peu de
+              durée, que ce n’est qu’une <hi rend="i">vapeur</hi> » (Furetière).</note>,</l>
+            <l n="722" xml:id="l722-mov">Et je tremble de peur de donner de la peur,</l>
+            <l n="723" xml:id="l723-mov">Pourtant quoy que je fasse il faut tout entreprendre,</l>
+            <l n="724" xml:id="l724-mov">Sinon pour en donner en tout cas pour en prendre.</l>
+            <l n="725" xml:id="l725-mov"><hi rend="i">Voyons, Mon Fils, ton Pere Henriquez de Galas</hi>
+              , </l>
+            <l n="726" xml:id="l726-mov">Mourut le mesme jour qu’arriva son trespas :</l>
+            <l n="727" xml:id="l727-mov">Or comme il ne vis plus et qu’il est sous la tombe,</l>
+            <l n="728" xml:id="l728-mov">De peur que chez le Diable en peu d’heure il ne tombe,</l>
+            <l n="729" xml:id="l729-mov">Il faut sans balancer que tu partes demain,</l>
+            <l n="730" xml:id="l730-mov"><hi rend="i">Pour rendre mille escus dérobez de ma main</hi>
+               ; </l>
+            <l n="731" xml:id="l731-mov" part="I"><hi rend="i">Mais responds à ma voix, c’est ton
+              Père</hi>…</l>
+          </sp>
+          <sp xml:id="III03-2" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Ah ! Mon Pere,</l>
+            <l n="732" xml:id="l732-mov">Dont le trépas funeste à causé ma misere,</l>
+            <l n="733" xml:id="l733-mov" part="I">Demeurez.</l>
+          </sp>
+          <sp xml:id="III03-3" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="M">Quelque sot.</l>
+          </sp>
+          <sp xml:id="III03-4" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="M">Vous fuyez.</l>
+          </sp>
+          <sp xml:id="III03-5" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Je sais bien,</l>
+            <l n="734" xml:id="l734-mov">Aussi bien avec toy je ne gagnerois rien. <pb n="40" xml:id="p40-mov"/></l>
+          </sp>
+          <sp xml:id="III03-6" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="735" xml:id="l735-mov" part="I">Pourquoy me fuïr ?</l>
+          </sp>
+          <sp xml:id="III03-7" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">A tort son esprit s’embarrasse,</l>
+            <l n="736" xml:id="l736-mov">Je fais le mesme bien que je veux qu’on me fasse,</l>
+            <l n="737" xml:id="l737-mov">Ne m’approche non plus que je veux t’approcher.</l>
+          </sp>
+          <sp xml:id="III03-8" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="738" xml:id="l738-mov">Peut-estre icy quelqu’un est venu se cacher,</l>
+            <l n="739" xml:id="l739-mov" part="I">Cherchons.</l>
+          </sp>
+          <sp xml:id="III03-9" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Où faudra-il qu’à present je me niche,</l>
+            <l n="740" xml:id="l740-mov">Si tantost chaque coup vaut escu, je suis riche,</l>
+            <l n="741" xml:id="l741-mov">Je vais estre assommé s’il me peut entrevoir.</l>
+          </sp>
+          <sp xml:id="III03-10" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="742" xml:id="l742-mov"> Rien ne s’offre à mes yeux que pour me decevoir,</l>
+            <l n="743" xml:id="l743-mov">Et dans l’abisme affreux où mon mal-heur me plonge,</l>
+            <l n="744" xml:id="l744-mov">Je ne vois rien de vray que l’image d’un songe,</l>
+            <l n="745" xml:id="l745-mov">Afin que ma douleur puisse un peu s’apaiser,</l>
+            <l n="746" xml:id="l746-mov">Encore quelques moments taschons de reposer,</l>
+            <l n="747" xml:id="l747-mov">Et gardons à causer du trouble aux autres chambres.</l>
+          </sp>
+          <sp xml:id="III03-11" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="748" xml:id="l748-mov">Je ne prétendois pas remporter tous mes membres,</l>
+            <l n="749" xml:id="l749-mov">Et pour m’empescher d’estre Henriquez de Gallas,</l>
+            <l n="750" xml:id="l750-mov">J’aurois volontiers mis les oreilles à bas<note place="bottom">À comprendre au sens propre du terme, Gusman se serait fait couper
+              les oreilles.</note> ;</l>
+            <l n="751" xml:id="l751-mov">Qu’un poltron a de peine à donner de la crainte !</l>
+            <l n="752" xml:id="l752-mov">Employ de faire peur je te prens par contrainte ;</l>
+            <l n="753" xml:id="l753-mov">Pourtant tu n’as pas lieu de te plaindre de moy,</l>
+            <l n="754" xml:id="l754-mov">Tu veux espouvanter, espouvantable employ ;</l>
+            <l n="755" xml:id="l755-mov">Et pour mieux faire voir que ta force est extreme,</l>
+            <l n="756" xml:id="l756-mov">Qui te doit exercer s’espouvante luy-méme,</l>
+            <l n="757" xml:id="l757-mov">A parler franchement l’avantage est petit,</l>
+            <l n="758" xml:id="l758-mov">D’avoir peu de cervelle et de faire l’Esprit,</l>
+            <l n="759" xml:id="l759-mov">Ou plutost jusqu’icy l’avanture est nouvelle,</l>
+            <l n="760" xml:id="l760-mov">De trouver un esprit qui n’a point de cervelle.</l>
+            <l n="761" xml:id="l761-mov">Cœur poltron, sois cœur brave et t’arme jusqu’au point,<pb n="41" xml:id="p41-mov"/></l>
+            <l n="762" xml:id="l762-mov">De donner de la peur et de n’en prendre point,</l>
+            <l n="763" xml:id="l763-mov">En faveur de Fabrice, ô cœur prends cette peine,</l>
+            <l n="764" xml:id="l764-mov">Sois moins cœur de Gusman, que cœur de Capitaine,</l>
+            <l n="765" xml:id="l765-mov">Ou bien à ce dormeur faits connoistre à son dam<note place="bottom"><hi rend="i">Dam</hi> « en langage ordinaire, signifioit autrefois,
+              Perte et dommage, et n’est plus en usage qu’en cette phrase: S'il luy en arrive du
+              mal, à son <hi rend="i">dam</hi>, pour dire, ce sera luy qui en souffrira le
+              dommage. » (Furetière).</note>,</l>
+            <l n="766" xml:id="l766-mov">Un cœur de Capitaine en un cœur de Gusman ;</l>
+            <l n="767" xml:id="l767-mov">Me le promets-tu cœur ? Oüy j’entens ta responce,</l>
+            <l n="768" xml:id="l768-mov">Desja le nez m’en enfle, et le sourcil m’en fronce,</l>
+            <l n="769" xml:id="l769-mov">Et ta haute asseurance asseure asseurément,</l>
+            <l n="770" xml:id="l770-mov">Un trembleur qui trembloit d’avoir du tremblement</l>
+            <l n="771" xml:id="l771-mov">Pour la seconde fois faisons peur. <hi rend="i">Lazarille</hi>
+              ,</l>
+            <l n="772" xml:id="l772-mov">Quiconque fait un fils ne fait pas une fille,</l>
+            <l n="773" xml:id="l773-mov">Si bien que je conclus qu’alors que je te fis,</l>
+            <l n="774" xml:id="l774-mov">Ne faisant point de fille, il fallut faire un fils.</l>
+            <l n="775" xml:id="l775-mov"><hi rend="i">Pour donc à mon repos estre utile et prospere</hi>
+              , </l>
+            <l n="776" xml:id="l776-mov">Il faut restituer les larcins de ton Pere,</l>
+            <l n="777" xml:id="l777-mov">Et partir de Seville à la pointe du jour,</l>
+            <l n="778" xml:id="l778-mov">Pour aller à Tolede establir ton sejour.</l>
+            <l n="779" xml:id="l779-mov" part="I">Ton Pere …</l>
+          </sp>
+          <sp xml:id="III03-12" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Quoy, mon Pere ? Ah ! Si mon sort vous touche,</l>
+            <l n="780" xml:id="l780-mov">Pour dire encore un mot, daignez ouvrir la bouche,</l>
+            <l n="781" xml:id="l781-mov">Adoucissez l’<ref target="#ennuy">ennuy</ref> dont je suis
+              travaillé,</l>
+            <l n="782" xml:id="l782-mov" part="I">Parlez.</l>
+          </sp>
+          <sp xml:id="III03-13" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Adieu le cœur, puis qu’il est éveillé.</l>
+          </sp>
+          <sp xml:id="III03-14" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="783" xml:id="l783-mov">En quel trouble mon ame est-elle ensevelie ?</l>
+            <l n="784" xml:id="l784-mov" part="I">O bizarre destin ! Sort fatal !</l>
+          </sp>
+          <sp xml:id="III03-15" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">C’est folie,</l>
+            <l n="785" xml:id="l785-mov">Pour <ref target="#animer1">animer</ref> mon cœur j’ay
+              beau faire un effort,</l>
+            <l n="786" xml:id="l786-mov">Je ne suis point vaillant si ce n’est quand il dort.</l>
+          </sp>
+          <sp xml:id="III03-16" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="787" xml:id="l787-mov">Au moins permettez donc que mon œil se desille,</l>
+            <l n="788" xml:id="l788-mov">Et cessez s’il se peut d’affliger Lazarille. <pb n="42" xml:id="p42-mov"/></l>
+          </sp>
+          <sp xml:id="III03-17" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="789" xml:id="l789-mov">Lazarille, bons Dieux ! Ou je suis insensé ;</l>
+            <l n="790" xml:id="l790-mov">Ou ce nom dans ce lieu vient d’estre prononcé.</l>
+          </sp>
+          <sp xml:id="III03-18" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="791" xml:id="l791-mov">Je souhaitte une chose impossible<note place="bottom">Il
+              manque ici trois syllabes pour faire un alexandrin. Ceci se retrouve aussi dans
+              l’exemplaire de la bibliothèque de Besançon. Dans l’édition des œuvres de Boursault
+              réalisée par Hiacinthe Boursault ce vers est remplacé par cet alexandrin « Voyons je …
+              je vous souhaite une chose impossible ».</note>,</l>
+            <l n="792" xml:id="l792-mov">Qui n’est plus ce qu’un Esprit ne peut estre visible :</l>
+            <l n="793" xml:id="l793-mov">Mais à mon triste sort soyez moins endurcy,</l>
+            <l n="794" xml:id="l794-mov">Et dites pour le moins si vous estes icy.</l>
+          </sp>
+          <sp xml:id="III03-19" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="795" xml:id="l795-mov" part="I">Oüy, j’y suis Lazarille.</l>
+          </sp>
+          <sp xml:id="III03-20" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Ô surprise effroyable !</l>
+            <l n="796" xml:id="l796-mov">Les Enfers pour me perdre ont vomy quelque Diable,</l>
+            <l n="797" xml:id="l797-mov">Qui pour vanger ma fourbe<note place="bottom">« Tromperie,
+              desguisement de la verité fait avec adresse. » (Furetière).</note> employant ses
+              efforts,</l>
+            <l n="798" xml:id="l798-mov">Chastiera mon esprit aux despens de mon corps.</l>
+            <l n="799" xml:id="l799-mov" part="I">Adieu Gusman.</l>
+          </sp>
+          <sp xml:id="III03-21" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Suffit, mais soulagez ma peine,</l>
+            <l n="800" xml:id="l800-mov">Dites si dans ce lieu c’est moy qui vous ameine.</l>
+          </sp>
+          <sp xml:id="III03-22" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="801" xml:id="l801-mov" part="I">Nullement.</l>
+          </sp>
+          <sp xml:id="III03-23" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">En effet, Belzebut je le croy,</l>
+            <l n="802" xml:id="l802-mov">Tu ne viens pas pour luy, tu ne viens que pour moy.</l>
+          </sp>
+          <sp xml:id="III03-24" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="803" xml:id="l803-mov">Enfin donc ma douleur à vostre ame soûmise,</l>
+            <l n="804" xml:id="l804-mov">De pouvoir vous toucher la faveur m’est permise,</l>
+            <l n="805" xml:id="l805-mov" part="I">Je vous tiens.</l>
+          </sp>
+          <sp xml:id="III03-25" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Pauvre Esprit ! Où te fourreras-tu ?</l>
+          </sp>
+          <sp xml:id="III03-26" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="806" xml:id="l806-mov">Vous voyez Lazarille à vos pieds abattu,</l>
+            <l n="807" xml:id="l807-mov">Je veux vous obeïr, rien ne m’est difficile,</l>
+            <l n="808" xml:id="l808-mov">Je sçay que vous voulez que je quitte Sevile,</l>
+            <l n="809" xml:id="l809-mov">J’y consens pour vous plaire, et immole en ce jour, <pb n="43" xml:id="p43-mov"/></l>
+            <l n="810" xml:id="l810-mov">L’amour à la nature, et moy-mesme à l’amour.</l>
+          </sp>
+          <sp xml:id="III03-27" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="811" xml:id="l811-mov" part="I">Quel discours ambigu ?</l>
+          </sp>
+          <sp xml:id="III03-28" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Que le Diable te gratte,</l>
+            <l n="812" xml:id="l812-mov">Grace au bon Jupiter je suis hors de ta patte,</l>
+            <l n="813" xml:id="l813-mov" part="I">Attrappons quelque coin<note place="bottom">
+              Signifie <hi rend="i">se cacher</hi>.</note>.</l>
+          </sp>
+          <sp xml:id="III03-29" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l part="F">Je te tiens mon cher fils.</l>
+          </sp>
+          <sp xml:id="III03-30" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="814" xml:id="l814-mov">Le plus infortuné de la troupe d’Esprits,</l>
+            <l n="815" xml:id="l815-mov" part="I">Où t’es-tu là rangé ?</l>
+          </sp>
+          <sp xml:id="III03-31" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l part="F">Quel <ref target="#ennuy">ennuy</ref> te possede ?</l>
+            <l n="816" xml:id="l816-mov">Il est vray que je veux te revoir à Tolede :</l>
+            <l n="817" xml:id="l817-mov">Mais loin qu’en tes projets je te veüille trahir,</l>
+            <l n="818" xml:id="l818-mov">Obeïr à l’amour c’est assez m’obeïr.</l>
+          </sp>
+          <sp xml:id="III03-32" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="819" xml:id="l819-mov" part="I">Enfilons la venelle<note place="bottom">« Terme
+              populaire qui se dit en cette phrase, enfiler la <hi rend="i">venelle</hi>, pour dire,
+              s’enfuir. » (Furetière).</note>.</l>
+          </sp>
+          <sp xml:id="III03-33" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Ô fortune prospere,</l>
+            <l n="820" xml:id="l820-mov">Obeïr à l’amour, c’est vous plaire mon pere,</l>
+          </sp>
+          <sp xml:id="III03-34" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="821" xml:id="l821-mov" part="I">Sans doute.</l>
+          </sp>
+          <sp xml:id="III03-35" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">En quel endroit pourroit estre mon trou,</l>
+            <l n="822" xml:id="l822-mov">Si j’ouvre ma lanterne ils me rompent le cou,</l>
+            <l n="823" xml:id="l823-mov">Il faut donc se resoudre, ô trop sourde lanterne,</l>
+            <l n="824" xml:id="l824-mov">A ne te pas ouvrir de peur qu’on me discerne.</l>
+          </sp>
+          <sp xml:id="III03-36" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="825" xml:id="l825-mov" part="I">Parle-moy.</l>
+          </sp>
+          <sp xml:id="III03-37" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Pour respondre à l’amour paternel,</l>
+            <l n="826" xml:id="l826-mov">Je dois vous souhaiter un repos eternel ;</l>
+            <l n="827" xml:id="l827-mov">Et qu’à mes vœux ardans le Ciel estant propice, <pb n="44" xml:id="p44-mov"/></l>
+            <l n="828" xml:id="l828-mov">Vous sentiez sa clemence, et non pas sa justice.</l>
+          </sp>
+          <sp xml:id="III03-38" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="829" xml:id="l829-mov">C’est mal prendre son temps pour ce triste propos.</l>
+          </sp>
+          <sp xml:id="III03-39" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="830" xml:id="l830-mov">Quelle gresle de coups va tomber sur mon dos.</l>
+            <l n="831" xml:id="l831-mov">C’est bien fait, aussi bien je suis trop temeraire,</l>
+            <l n="832" xml:id="l832-mov">Et j’eus trop peu d’esprit quand je le voulus faire.</l>
+          </sp>
+          <sp xml:id="III03-40" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="833" xml:id="l833-mov">Touchant les mille escus autrefois mal acquis,</l>
+            <l n="834" xml:id="l834-mov">Que de restituer je suis par vous requis,</l>
+            <l n="835" xml:id="l835-mov">Puis que pour estre heureux il faut estre sans tache,</l>
+            <l n="836" xml:id="l836-mov">Et qu’à vous contenter fortement je m’attache,</l>
+            <l n="837" xml:id="l837-mov">Vostre ombre vagabonde aura droit desormais</l>
+            <l n="838" xml:id="l838-mov">De gouster des douceurs qui ne cessent jamais.</l>
+          </sp>
+          <sp xml:id="III03-41" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="839" xml:id="l839-mov">Il a perdu le sens, quelle angoisse mortelle !</l>
+            <l n="840" xml:id="l840-mov">Depuis quel temps, mon fils, n’as-tu plus de cervelle ?</l>
+            <l n="841" xml:id="l841-mov" part="I">Helas !</l>
+          </sp>
+          <sp xml:id="III03-42" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Si mon esprit vous paroist alteré,</l>
+            <l n="842" xml:id="l842-mov">C’est depuis vostre mort qu’il est donc esgaré ?</l>
+          </sp>
+          <sp xml:id="III03-43" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="843" xml:id="l843-mov" part="I">Ma mort !</l>
+          </sp>
+          <sp xml:id="III03-44" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">D’estre rossé<note place="bottom">« Terme populaire. Bastonner rudement
+              quelqu’un, le traitter en rosse; et se dit par extension de toutes sortes de mauvais
+              traittements. » (Furetière).</note> je sens approcher l’heure.</l>
+          </sp>
+          <sp xml:id="III03-45" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="844" xml:id="l844-mov">Je sçay que dans mon aage il est temps que je meure,</l>
+            <l n="845" xml:id="l845-mov">Nous naissons pour mourir ; mais malgré cette loy</l>
+            <l n="846" xml:id="l846-mov" part="I">Mon jour n’est pas venu, je vis.</l>
+          </sp>
+          <sp xml:id="III03-46" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Pardonnez-moy ;</l>
+            <l n="847" xml:id="l847-mov">Vous estes mort mon Pere, et la chose est certaine.</l>
+          </sp>
+          <sp xml:id="III03-47" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="848" xml:id="l848-mov">Pour si peu qu’il est mort ce n’en est pas la peine.</l>
+          </sp>
+          <sp xml:id="III03-48" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="849" xml:id="l849-mov">Si je suis mort, c’est donc sans m’en appercevoir : <pb n="45" xml:id="p45-mov"/></l>
+            <l n="850" xml:id="l850-mov">Mais de quelle personne as-tu pû le sçavoir.</l>
+          </sp>
+          <sp xml:id="III03-49" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="851" xml:id="l851-mov">Je tiens de Dom Raymond cette triste nouvelle.</l>
+          </sp>
+          <sp xml:id="III03-50" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="852" xml:id="l852-mov">Il faut le détromper, <ref target="#hola">hola</ref> de la
+              chandelle.</l>
+          </sp>
+          <sp xml:id="III03-51" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="853" xml:id="l853-mov">De la chandelle, helas ! La feinte va finir,</l>
+            <l n="854" xml:id="l854-mov">J’ay si bien fait le mort qu’il le faut devenir.</l>
+          </sp>
+          <sp xml:id="III03-52" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="855" xml:id="l855-mov">De la clarté, fus donc, <ref target="#hola">hola</ref> !
+              viste mon Maistre,</l>
+            <l n="856" xml:id="l856-mov">Dés que tu me verras, tu sçauras me connoistre.</l>
+          </sp>
+          <sp xml:id="III03-53" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="857" xml:id="l857-mov">Cependant ma frayeur est sans comparaison.</l>
+          </sp>
+          <sp xml:id="III03-54" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="858" xml:id="l858-mov">S’il faut faire l’Esprit, faisons le par raison,</l>
+            <l n="859" xml:id="l859-mov">Et tâchons d’éviter les coups qu’on nous prepare.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III04">
+          <head>SCENE IV</head>
+          <stage>L’HOTE, LAZARILLE, HENRIQUEZ, GUSMAN</stage>
+          <sp xml:id="III04-1" who="l-hote">
+            <speaker>L’HÔTE, </speaker><stage>avec une chandelle.</stage>
+            <l n="860" xml:id="l860-mov">Pourquoy faire Messieurs un si grand tintamare ?</l>
+            <l n="861" xml:id="l861-mov" part="I">D’où vient que du sommeil…</l>
+          </sp>
+          <sp xml:id="III04-2" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="M">Mon fils.</l>
+          </sp>
+          <sp xml:id="III04-3" who="l-hote">
+            <speaker>L’HÔTE </speaker><stage>se laissant tomber, et la chandelle s’éteint.</stage>
+            <l part="F">Helas mon Dieu !</l>
+            <l n="862" xml:id="l862-mov">Quel horrible fantosme est gisté dans ce lieu ? <pb n="46" xml:id="p46-mov"/></l>
+            <l n="863" xml:id="l863-mov" part="I">A moy viste garçons, de la clarté.</l>
+          </sp>
+          <sp xml:id="III04-4" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l part="F">Je pasme<note place="bottom">« Qui se dit ordinairement avec le pronom
+              personnel. Tomber en deffaillance, perdre l’usage des sens : ce qui arrive, lors que
+              l’agitation et le mouvement des esprits est arresté par quelque cause ou passion
+              violente et subite. » (Furetière).</note> !</l>
+          </sp>
+          <sp xml:id="III04-5" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="864" xml:id="l864-mov">Une peur effroyable a coulé dans mon ame.</l>
+          </sp>
+          <sp xml:id="III04-6" who="l-hote">
+            <speaker>L’HÔTE</speaker>
+            <l n="865" xml:id="l865-mov" part="I">Je vois d’autre chandelle.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III05">
+          <head>SCENE V</head>
+          <stage>DES GARCONS, L’HÔTE, HENRIQUEZ, LAZARILLE, GUSMAN.</stage>
+          <sp xml:id="III05-1" who="l-hote">
+            <speaker>L’HÔTE</speaker>
+            <l part="F">Ah ! Messieurs qu’est-cecy ?</l>
+            <l n="866" xml:id="l866-mov" part="I">Parlez.</l>
+          </sp>
+          <sp xml:id="III05-2" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l part="M">Je n’en sçais rien.</l>
+          </sp>
+          <sp xml:id="III05-3" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Je n’en sçais rien aussi,</l>
+            <l n="867" xml:id="l867-mov">Tout me devient fatal, Ciel quelle est ma misere !</l>
+            <l n="868" xml:id="l868-mov">Est-ce en vous que je vois l’ombre de feu mon pere.</l>
+          </sp>
+          <sp xml:id="III05-4" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="869" xml:id="l869-mov" part="I">Tu vois ton pere en vie.</l>
+          </sp>
+          <sp xml:id="III05-5" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Hé bien, j’en suis d’accord,</l>
+            <l n="870" xml:id="l870-mov" part="I">Vous qui donc estes-vous ?</l>
+          </sp>
+          <sp xml:id="III05-6" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Je suis ton pere mort,</l>
+            <l n="871" xml:id="l871-mov">Oüy, je suis, ô garçon ! Qui de moy voulus naistre,</l>
+            <l n="872" xml:id="l872-mov">Aussi bien trespassé qu’aucun autre puisse estre.</l>
+          </sp>
+          <sp xml:id="III05-7" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="873" xml:id="l873-mov">Tout me <ref target="#confondre">confond</ref>, mon
+              trouble est plus fort que devant ;<pb n="47" xml:id="p47-mov"/></l>
+            <l n="874" xml:id="l874-mov">Enfin mon pere mort, ou mon pere vivant,</l>
+            <l n="875" xml:id="l875-mov">Si de vous, ou de vous je receus la naissance,</l>
+            <l n="876" xml:id="l876-mov">Donnez-m’en l’un ou l’autre une claire apparence.</l>
+          </sp>
+          <sp xml:id="III05-8" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="877" xml:id="l877-mov">Dans les traits de ton pere envisage les tiens.</l>
+          </sp>
+          <sp xml:id="III05-9" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="878" xml:id="l878-mov">La mort que j’ay soufferte a changé tous les miens,</l>
+            <l n="879" xml:id="l879-mov">C’est un monstre infernal revestu de ma forme.</l>
+          </sp>
+          <sp xml:id="III05-10" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="880" xml:id="l880-mov">Est-il vray que je veille, ou si<note place="bottom">Comprendre
+              cependant est-ce que je dors.</note> c’est que je dorme.</l>
+          </sp>
+          <sp xml:id="III05-11" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="881" xml:id="l881-mov">Tu te laisses surprendre, et ne m’escoute pas.</l>
+          </sp>
+          <sp xml:id="III05-12" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="882" xml:id="l882-mov">Que direz-vous, mon pere a souffert le trespas,</l>
+            <l n="883" xml:id="l883-mov" part="I">J’en suis certain.</l>
+          </sp>
+          <sp xml:id="III05-13" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="M">D’accord.</l>
+          </sp>
+          <sp xml:id="III05-14" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l part="F">En vain donc je te presche,</l>
+          </sp>
+          <sp xml:id="III05-15" who="gusman">
+            <speaker>GUSMAN </speaker><stage>bas</stage>
+            <l n="884" xml:id="l884-mov">De rentrer dans mon trou l’un et l’autre m’empesche,</l>
+            <l n="885" xml:id="l885-mov" part="I">J’en enrage.</l>
+          </sp>
+          <sp xml:id="III05-16" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Il est temps de finir ma douleur,</l>
+            <l n="886" xml:id="l886-mov">L’un des deux est sans doute, ou Sorcier, ou Voleur.</l>
+          </sp>
+          <sp xml:id="III05-17" who="l-hote">
+            <speaker>L’HÔTE</speaker>
+            <l n="887" xml:id="l887-mov">C’est ma pensée, et l’ombre en a bien l’encolure.</l>
+          </sp>
+          <sp xml:id="III05-18" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="888" xml:id="l888-mov">Ah ! Gros ventre de son<note place="bottom">« On dit aussi,
+              ventre de son, robbe de velours, pour dire, qu’il y en a qui font mauvaise chere pour
+              avoir de quoy paroistre en habits. » (Furetière).</note>, qui me fais une injure,</l>
+            <l n="889" xml:id="l889-mov">Mal-heur sur la maison de qui choque les morts.</l>
+          </sp>
+          <sp xml:id="III05-19" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="890" xml:id="l890-mov">Qui des deux soit mon pere, excusez mes efforts.</l>
+          </sp>
+          <sp xml:id="III05-20" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l n="891" xml:id="l891-mov">A mon secours, mon Maistre, on me veut mener pendre.</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III06">
+          <head>SCENE VI</head>
+          <stage>FABRICE, GUSMAN, LAZARILLE, HENRIQUEZ, L’HÔTE, SES GARCONS.</stage>
+          <sp xml:id="III06-1" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l n="892" xml:id="l892-mov">Ne crains rien, je parois, et je viens te deffendre.<pb n="48" xml:id="p48-mov"/></l>
+          </sp>
+          <sp xml:id="III06-2" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="893" xml:id="l893-mov" part="I">Fabrice ! Ô juste Ciel !</l>
+          </sp>
+          <sp xml:id="III06-3" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">c’est Fabrice en effet,</l>
+            <l n="894" xml:id="l894-mov">Qui fut de tes amis tousjours le plus parfait ;</l>
+            <l n="895" xml:id="l895-mov">Mais qui cesse de l’estre en son mal-heur extréme,</l>
+            <l n="896" xml:id="l896-mov">Puis qu’il trouve un Rival dans un autre soy-mesme.</l>
+            <l n="897" xml:id="l897-mov">Celuy qui cette nuict t’a causé de la peur,</l>
+            <l n="898" xml:id="l898-mov">Dés hier estoit d’Affrique un faux Ambassadeur ;</l>
+            <l n="899" xml:id="l899-mov">C’est Gusman mon Valet dont tu vois la figure,</l>
+            <l n="900" xml:id="l900-mov">Qui de ton oncle mesme imita l’escriture,</l>
+            <l n="901" xml:id="l901-mov">Et qui pour t’esloigner d’un objet plein d’appas,</l>
+            <l n="902" xml:id="l902-mov">De ton pere vivant t’annonça le trespas.</l>
+          </sp>
+          <sp xml:id="III06-4" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="903" xml:id="l903-mov">Desloyal confident d’une ardeur infinie,</l>
+            <l n="904" xml:id="l904-mov">Quoy ! Ton cœur en secret brusle pour Stephanie ?</l>
+            <l n="905" xml:id="l905-mov" part="I">Tu l’<ref target="#aimer">aymes</ref> !</l>
+          </sp>
+          <sp xml:id="III06-5" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l part="M">Stephanie !</l>
+          </sp>
+          <sp xml:id="III06-6" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="F">Oüy ! J’en suis amoureux,</l>
+            <l n="906" xml:id="l906-mov">Cette beauté charmante est l’objet de mes vœux.</l>
+          </sp>
+          <sp xml:id="III06-7" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="907" xml:id="l907-mov">Je l’<ref target="#aimer">ayme</ref> aussi Fabrice, et je
+              sçay qu’elle m’<ref target="#aimer">ayme</ref>,</l>
+            <l n="908" xml:id="l908-mov">Et j’attends des Dieux la puissance supréme…</l>
+          </sp>
+          <sp xml:id="III06-8" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="909" xml:id="l909-mov">Point de serments, mon fils, vous Fabrice esperez.<pb n="p.49 ; E" xml:id="p49-mov"/></l>
+          </sp>
+          <sp xml:id="III06-9" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="910" xml:id="l910-mov">Quoy vous voulez ma perte et vous l’en asseurez ?</l>
+            <l n="911" xml:id="l911-mov">Un Pere m’opprimer, consentir à ma peine :</l>
+            <l n="912" xml:id="l912-mov">Mais, ô Dieux ! j’aperçois Ferdinand qui l’ameine,</l>
+            <l n="913" xml:id="l913-mov" part="I">Qu’est-cecy !</l>
+          </sp>
+          <sp xml:id="III06-10" who="fabrice">
+            <speaker>FABRICE</speaker>
+            <l part="M">Juste Ciel !</l>
+          </sp>
+        </div>
+        <div type="scene" xml:id="III07">
+          <head>SCENE VII ET DERNIERE</head>
+          <stage>FERDINAND, STEPHANIE, LAZARILLE, HENRIQUEZ, GUSMAN, FABRICE.</stage>
+          <sp xml:id="III07-1" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l part="F">Approchez bon Vieillard.</l>
+          </sp>
+          <sp xml:id="III07-2" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="914" xml:id="l914-mov">Vous ay-je pas, Monsieur, desja veu quelque part ?</l>
+          </sp>
+          <sp xml:id="III07-3" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="915" xml:id="l915-mov" part="I">Cela se peut.</l>
+          </sp>
+          <sp xml:id="III07-4" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="F">J’ignore en quel lieu ce peut estre.</l>
+          </sp>
+          <sp xml:id="III07-5" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="916" xml:id="l916-mov">Cette moitié d’anneau vous le fera connoistre.</l>
+          </sp>
+          <sp xml:id="III07-6" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="917" xml:id="l917-mov" part="I">Qu’entens-je ?</l>
+          </sp>
+          <sp xml:id="III07-7" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="F">C’est donc vous ? Ah ! Je vous reconnoy.</l>
+          </sp>
+          <sp xml:id="III07-8" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="918" xml:id="l918-mov">Ne cherchez desormais vostre Père qu’en moy, <pb n="50" xml:id="p50-mov"/></l>
+            <l n="919" xml:id="l919-mov" part="I">Je le suis, Stephanie.</l>
+          </sp>
+          <sp xml:id="III07-9" who="fabrice">
+            <speaker>FABRICE </speaker>
+            <l part="M">Ô bon-heur !</l>
+          </sp>
+          <sp xml:id="III07-10" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l part="F">Ô disgrace !</l>
+          </sp>
+          <sp xml:id="III07-11" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l n="920" xml:id="l920-mov" part="I">Vous, mon Pere !</l>
+          </sp>
+          <sp xml:id="III07-12" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="M">Luy-mesme.</l>
+          </sp>
+          <sp xml:id="III07-13" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l part="F">Ah ! Que je vous embrasse</l>
+            <l n="921" xml:id="l921-mov">Ma Fille. Lazarille amortis ton ardeur,</l>
+            <l n="922" xml:id="l922-mov">Au lieu d’une Maistresse envisage une Sœur.</l>
+          </sp>
+          <sp xml:id="III07-14" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="923" xml:id="l923-mov" part="I">Une Sœur, je la tiens…</l>
+          </sp>
+          <sp xml:id="III07-15" who="stephanie">
+            <speaker>STEPHANIE</speaker>
+            <l part="F">Quoy, vous estes son Pere ?</l>
+          </sp>
+          <sp xml:id="III07-16" who="lazarille">
+            <speaker>LAZARILLE</speaker>
+            <l n="924" xml:id="l924-mov">Il l’est ; De vostre <ref target="#amant-mov">Amant</ref>
+              je deviens vostre Frere,</l>
+            <l n="925" xml:id="l925-mov">Quel besoin aviez-vous de cacher si long-temps…</l>
+          </sp>
+          <sp xml:id="III07-17" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="926" xml:id="l926-mov">Ailleurs je t’en diray les secrets importans,</l>
+            <l n="927" xml:id="l927-mov">Ce bon homme sçait tout. Cependant de Fabrice,</l>
+            <l n="928" xml:id="l928-mov">Ma chere Stephanie acceptez le service.</l>
+          </sp>
+          <sp xml:id="III07-18" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="929" xml:id="l929-mov" part="I">Mais, Monsieur, j’esperois …</l>
+          </sp>
+          <sp xml:id="III07-19" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l part="F">il est juste, esperez.</l>
+          </sp>
+          <sp xml:id="III07-20" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="930" xml:id="l930-mov" part="I">Mon ardeur</l>
+          </sp>
+          <sp xml:id="III07-21" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l part="M">M’est connuë.</l>
+          </sp>
+          <sp xml:id="III07-22" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l part="F">Et de plus vous sçaurez…<pb n="51" xml:id="p51-mov"/></l>
+          </sp>
+          <sp xml:id="III07-23" who="henriquez">
+            <speaker>HENRIQUEZ</speaker>
+            <l n="931" xml:id="l931-mov">Il suffit ; vous verrez que je suis raisonnable.</l>
+          </sp>
+          <sp xml:id="III07-24" who="ferdinand">
+            <speaker>FERDINAND</speaker>
+            <l n="932" xml:id="l932-mov">Que plutost ne te vois-je emporter par le Diable :</l>
+            <l n="933" xml:id="l933-mov" part="I">Ah ! Je suis mort.</l>
+          </sp>
+          <sp xml:id="III07-25" who="gusman">
+            <speaker>GUSMAN</speaker>
+            <l part="F">Fort bien, nostre espoir decevant<note place="bottom">Propos décevants.</note>
+              ,</l>
+            <l n="934" xml:id="l934-mov">Te fait le Vivant Mort, et moy le MORT VIVANT.</l>
+            <trailer rend="center">FIN</trailer>
+          </sp>
+        </div>
+      </div>
+    </body>
+    <back>
+      <div xml:id="privilege-mov">
+        <head>Extraict du Privilege du Roy </head>
+        <pb n="LII" xml:id="pLII"/>
+        <p>Par grace et Privilege du Roy, donné à Paris le II May 1662 signé par le Roy en son
+          Conseil, DUMOLEY ; il est permis à JEAN GUIGNARD fils, Marchand Libraire à Paris,
+          d’imprimer ou faire imprimer une Piece de Theatre, intitulée, <hi rend="i">Le Mort Vivant,
+          par le Sieur Boursault</hi>, et ce durant le temps de cinq années, à compter du jour qu’il
+          sera achevé d’imprimer pour la premiere fois. Et deffences sont faites à tous Imprimeurs,
+          Libraires et autres, de l’imprimer, ou faire imprimer, vendre, debiter ny contrefaire
+          ledit Livre sans le consentement du dit Exposant, à peine aux contrevenans de trois mil
+          livres d’amende, confiscation des exemplaires, et de tous despens, dommages et interests,
+          ainsi qu’il est plus amplement porté par ledit Privilege.</p>
+        <p>Et ledit Jean Guignard a associé au present Privilege Nicolas Pepingué et Estienne Loison
+          Marchands Libraires à Paris, pour en joüir suivant l’accord fait entr’eux.</p>
+        <p>Achévé d’imprimer pour la premiere fois le premier Juin 1662.</p>
+        <p>Les exemplaires ont esté fournis.</p>
+        <p rend="i">Registré sur le Livre de la Communauté des Imprimeurs et Marchands Libraires de
+          cette ville Paris.</p>
+      </div>
+      <div>
+        <head>Lexique du Mort vivant</head>
+        <entryFree xml:id="amant-mov">
+          <form>Amant</form>
+          <def>« Celuy qui aime d’une passion violente et amoureuse. » (Furetière).</def>
+          <xr>V. <ref target="#l66-mov">66</ref>, v. <ref target="#l67-mov">67</ref>, v. <ref target="#l198-mov">198</ref>, v. <ref target="#l230-mov">230</ref>, v. <ref target="#l234-mov">234</ref>, v. <ref target="#l290-mov">290</ref>, v. <ref target="#l376-mov">376</ref>, v. <ref target="#l924-mov">924</ref></xr>
+        </entryFree>
+        <entryFree>
+          <form>Animer</form>
+          <def xml:id="animer1">« Se dit figurément Pour marquer la force que l’on donne à un
+            discours par la maniere de le prononcer » (Dictionnaire de l’Académie française, 1694).</def>
+          <xr>V. <ref target="#l211-mov">211</ref>, v. <ref target="#l628-mov">628</ref>, v. <ref target="#l785-mov">785</ref></xr>
+          <def xml:id="animer2">Encourager.</def>
+          <xr>V. <ref target="#l455-mov">455</ref></xr>
+        </entryFree>
+        <entryFree>
+          <form>Avis</form>
+          <def xml:id="avis1">Conseil.</def>
+          <xr>V. <ref target="#l217-mov">217</ref></xr>
+          <def xml:id="avis2">« Il se dit aussi des nouvelles qu’on mande, &amp; de celles qu’on
+            reçoit. » (Dictionnaire de l’Académie française, 1762).</def>
+          <xr>V. <ref target="#l358-mov">358</ref></xr>
+        </entryFree>
+        <entryFree xml:id="aimer">
+          <form>Aymer </form>
+          <def>« Avoir de l’affection pour quelque chose […] il est naturel d’<hi rend="i">aimer</hi>
+            sa femme et ses enfants, ses amis. » (Furetière).</def>
+          <xr>V. <ref target="#l27-mov">27</ref>, v. <ref target="#l42-mov">42</ref>, v. <ref target="#l44-mov">44</ref>, v. <ref target="#l68-mov">68</ref>, v. <ref target="#l71-mov">71</ref>, v. <ref target="#l97-mov">97</ref>, v. <ref target="#l107-mov">107</ref>, v. <ref target="#l195-mov">195</ref>, v. <ref target="#l199-mov">199</ref>, v. <ref target="#l203-mov">203</ref>, v. <ref target="#l215-mov">215</ref>, v. <ref target="#l223-mov">223</ref>, v. <ref target="#l237-mov">237</ref>, v. <ref target="#l241-mov">241</ref>, v. <ref target="#l246-mov">246</ref>, v. <ref target="#l272-mov">272</ref>, v. <ref target="#l279-mov">279</ref>, v. <ref target="#l298-mov">298</ref>, v. <ref target="#l396-mov">396</ref>, v. <ref target="#l402-mov">402</ref>, v. <ref target="#l410-mov">410</ref>, v. <ref target="#l503-mov">503</ref>, v. <ref target="#l522-mov">522</ref>, v. <ref target="#l524-mov">524</ref>, v. <ref target="#l528-mov">528</ref>, v. <ref target="#l529-mov">529</ref>, v. <ref target="#l538-mov">538</ref>, v. <ref target="#l553-mov">553</ref>, v. <ref target="#l557-mov">557</ref>, v. <ref target="#l598-mov">598</ref>, v. v. <ref target="#l627-mov">627</ref>, v. <ref target="#l905-mov">905</ref>, v. <ref target="#l907-mov">907</ref></xr>
+        </entryFree>
+        <entryFree xml:id="confondre">
+          <form>Confondre </form>
+          <def>« Troubler, Mettre en desordre, Couvrir de honte » (Dictionnaire de l’Académie
+            française, 1694).</def>
+          <xr>V. <ref target="#l568-mov">568</ref>, v. <ref target="#l582-mov">582</ref>, v. <ref target="#l873-mov">873</ref></xr>
+        </entryFree>
+        <entryFree xml:id="ennuy">
+          <form>Ennuy</form>
+          <def>« Chagrin, fâcherie que donne quelque discours, ou quelque accident desplaisant, ou
+            trop long. » (Furetière)</def>
+          <xr>V. <ref target="#l781-mov">781</ref>, v. <ref target="#l815-mov">815</ref></xr>
+        </entryFree>
+        <entryFree xml:id="hola">
+          <form>Hola </form>
+          <def>« Est quelquefois interjection qui sert pour appeller des gens de basse condition,
+            des laquais. » (Furetière).</def>
+          <xr>V. <ref target="#l502-mov">502</ref>, v. <ref target="#l852-mov">852</ref>, v. <ref target="#l855-mov">855</ref></xr>
+        </entryFree>
+        <entryFree>
+          <form>Obliger </form>
+          <def xml:id="obliger1">Rendre service, faire une faveur.</def>
+          <xr>V. <ref target="#l304-mov">304</ref>, v. <ref target="#l323-mov">323</ref>, <ref target="#l537-mov">537</ref>, <ref target="#l642-mov">642</ref></xr>
+          <def xml:id="obliger2">Contraindre.</def>
+          <xr>V. <ref target="#l350-mov">350</ref></xr>
+        </entryFree>
+        <entryFree xml:id="potentat">
+          <form>Potentat </form>
+          <def>« Qui a une puissance souveraine et fort étenduë. Le Roy est le plus redouté de tous
+            les Potentats de l’Europe » (Furetière).</def>
+          <xr>V. <ref target="#l400-mov">400</ref>, v. <ref target="#l586-mov">586</ref></xr>
+        </entryFree>
+        <entryFree xml:id="soupir">
+          <form>Soûpir </form>
+          <def>« Respiration plus forte &amp; plus longue qu’à l’ordinaire, causée souvent par
+            quelque passion, comme l’amour, la tristesse, etc. » (Dictionnaire de l’Académie
+            française, 1694).</def>
+          <xr>V. <ref target="#l462-mov">462</ref>, v. <ref target="#l509-mov">509</ref>, v. <ref target="#l671-mov">671</ref></xr>
+        </entryFree>
+        <entryFree>
+          <form>Souffrir </form>
+          <def xml:id="souffrir1-mov">Permettre.</def>
+          <xr><ref target="#dedicace-mov">Dédicace</ref>, v. <ref target="#l79-mov">79</ref>, v. <ref target="#l94-mov">94</ref>, v. <ref target="#l574-mov">574</ref>, v. <ref target="#l611-mov">611</ref></xr>
+          <def xml:id="souffrir2-mov">Endurer.</def>
+          <xr>V. <ref target="#l183-mov">183</ref>, v. <ref target="#l282-mov">282</ref>
+          </xr>
+          <def xml:id="souffrir3-mov">Admettre, recevoir.</def>
+          <xr>V. <ref target="#l14-mov">14</ref>, v. <ref target="#l270-mov">270</ref>
+          </xr>
+        </entryFree>
+      </div>
+    </back>
+  </text>
+</TEI>

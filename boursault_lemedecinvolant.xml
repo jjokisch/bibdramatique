@@ -1,0 +1,2180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Medecin volant, Comédie</title>
+        <author key="Boursault, Edme (1638-1701)">Edme Boursault</author>
+        <principal>Georges Forestier</principal>
+        <editor>Charlotte Dias</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Charlotte Dias dans le cadre d'un mémoire de master 1
+          sous la direction de Georges Forestier (2014-2015)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.huma-num.fr/boursault_trois-comedies/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/boursault_trois-comedies.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/boursault_trois-comedies.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/boursault_trois-comedies.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/boursault_trois-comedies.epub</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Le Medecin volant, Comédie</title>. <author>Par Mr BOURSAULT</author> A PARIS,
+          Chez N. PEPINGUÉ, à l'entrée de la ruë de la Huchette. Et en sa boutique au premier Pilier
+          de la grande Salle du Palais, vis à vis les Consultations, au Soleil d'or. M. DC. LXV.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1665"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">LE<lb/>MEDECIN<lb/>VOLANT,</titlePart>
+          <titlePart type="sub">COMÉDIE</titlePart>
+        </docTitle>
+        <docAuthor>Par Mr BOURSAULT</docAuthor>
+        <docImprint>A PARIS,<lb/>Chez N. PEPINGUÉ, à l’entrée de la ruë de la<lb/>Huchette. Et en
+          sa boutique au premier Pilier<lb/>de la grande Salle du Palais, vis à vis les<lb/>Consultations,
+          au Soleil d’or.<lb/>M.DC.LXV.<lb/>AVEC PRIVILEGE DU ROY.</docImprint>
+        <docEdition>Édition critique établie par Charlotte Dias dans le cadre d'un mémoire de master
+          1 sous la direction de Georges Forestier (2014-2015)</docEdition>
+      </titlePage>
+      <div xml:id="dedicace-mv">
+        <head>A MONSIEUR C*******<note place="bottom">« Boursault a reproduit cette dédicade, avec
+          quelques variantes, dans ses <hi rend="i">Lettres de Babet</hi> (Lyon, 1715, in-12, p. 76)
+          où l’on voit qu’elle est adressée “à M. de Quanteal, médecin de Mme la Princesse”. On
+          écrivait aussi ce nom <hi rend="i">Canteal</hi>, ce qui est d’accord avec l’initiale
+          placée en tête de la dédicace. C’est sans doute par allusion à ce personnage que le
+          médecin de sa pièce s’appelle <hi rend="i">Canteas</hi>. » <hi rend="i">Les Contemporains
+          de Molière, op. cit.</hi>, t. I, p. 549.</note><lb/>Medecin de mon Païs.</head>
+        <pb n="I" xml:id="pI-mv"/>
+        <p>MONSIEUR,</p>
+        <p>Soit par coustume, ou soit par generosité<note place="bottom">Le mot <hi rend="i">
+          générosité</hi> est à comprendre de manière ironique.</note>, je n’ay jusqu’icy dédié
+          aucune Piece, que l’on ne m’ait fait quelque Present ; Et à dire vray l’on m’attraperoit<note place="bottom">Surprendre.</note> bien, si on venoit à perdre une si bonne habitude.
+          Cependant je vous dedie le MEDECIN VOLANT, qui assurément n’est pas le moindre de <pb n="II" xml:id="pII-mv"/> mes Ouvrages, à condition seulement qui si jamais je vais au
+          Païs, et que je sois assez heureux pour y devenir Malade, vous aurez assez de bonté pour
+          moy pour ne me pas faire languir<note place="bottom">« Estre consumé peu à peu par quelque
+          maladie qui abbat les forces. » (<hi rend="i">Dictionnaire de l’Académie française</hi>,
+          1694).</note> longtemps. Remarquez s’il vous plaist, MONSIEUR, que je ne veux pas dire que
+          vous aurez la bonté de m’expedier le plustost qu’il vous sera possible: Et <ref target="#souffrir-mv">souffrez</ref> que je vous avertisse de peur d’equivoque, que je
+          n’estime la Medecine qu’en ce qu’elle peut estre utile à la conservation, ou au
+          recouvrement de ma Santé, parce que je mourray bien sans le secours de personne, et
+          particulierement de vostre Faculté, pour qui j’ay trop de veneration pour ne pas luy en
+          épargner la peine. Il meurt plus de Monde en ces quartiers par la faute des Medecins, que
+          vous n’en ressuscitez par vostre <pb n="III" xml:id="pIII-mv"/> Capacité ; et Paris est
+          si miserable pour les Malades, que l’on prend plus de soin pour les faire mourir, que vous
+          n’en prendriez pour le faire vivre. Je vous proteste que si l’on m’appelloit à la Police<note place="bottom">« Se prend plus particulierement pour l’ordre qui s’observe dans une
+          ville à l’égard de la conduite des habitants, de la vente des marchandises, des denrées. <hi rend="i">Juge de police. reglement de police</hi>. Il se dit aussi de la Jurisdiction
+          establie par la police. » (<hi rend="i">Dictionnaire de l’Académie</hi>, 1694)</note> j’y
+          donnerois si bon ordre, qu’il ne seroit plus possible d’assassiner impunément un homme ;
+          et ces Messieurs qui ne sont Medecins que par la Soûtane, seroient obligez durant quelques
+          années que je limiterois, de faire l’espreuve de leur Science sur les Animaux qui ne sont
+          plus propres au travail. Si cela estoit, les habiles comme vous n’en seroient pas plus
+          mal, et les malades en seroient beaucoup mieux ; vous en auriez plus de pratique, et ceux
+          qui meurent avec tant de precipitation entre les mains de ces Ignorans, ne mourroient
+          peut-estre pas si vite entre les vostres. Enfin, MONSIEUR, j’ay tant d’estime <pb n="IV" xml:id="pIV-mv"/>pour vostre Personne, et tant d’inclination pour le Païs, que si
+          jamais il me prend envie de sortir du monde, j’ayme mieux mourir de vostre main que de par
+          une autre ; quand ce ne seroit qu’à cause qu’il y a de mes parents qui en sont déja morts,
+          et que par consequent je suis obligé d’estre,</p>
+        <p>MONSIEUR,</p>
+        <p rend="right">Vostre tres-humble, et <lb/>affectionné Serviteur,</p>
+        <p rend="right">BOURSAULT.</p>
+      </div>
+      <div xml:id="avis-mv">
+        <head>ADVIS AU LECTEUR</head>
+        <pb n="V" xml:id="pV-mv"/>
+        <p>LE MEDECIN VOLANT que j’expose à ton jugement, mon cher LECTEUR, est l’une des plus
+          aimables Pieces qui soit au Theatre, et j’en puis parler de la sorte sans choquer la
+          bien-seance, puisque ce n’est pas moy qui en suis l’Auteur. Le sujet est Italien ; il a
+          esté traduit en nostre langue ; representé de tous costez ; et je crois qu’il est plus
+          beau de ma façon que d’aucune autre, à cause qu’outre la Traduction qui en est fidele, il
+          a <pb n="VI" xml:id="pVI-mv"/> encore la grace de la Poësie. Il est vray qu’on le
+          represente au Marais ; mais quoy qu’il soit en vers, on peut dire que la Poësie ne luy a
+          point donné de grace : Veritablement les nouveaux Acteurs qui sont entrez dans cette
+          Trouppe, l’ont apporté de Flandres<note place="bottom">Shikiko Nishida parle de ce Médecin
+          volant rapporté des Flandres aux pages 320-322 de sa thèse <hi rend="i">Les
+          Comédiens-poètes en France du XVII<hi rend="sup">e</hi> siècle</hi>. Elle avance
+          l’hypothèse que c’était Rosidor qui participant à une troupe itinérante venait d’être
+          engagé par le Marais et avec donc apporté avec lui la pièce qu’il avait créée avec son
+          ancienne troupe.</note>, et c’est pour cela que le langage de cette Piece est si corrompu.
+          Je te fais juge de ce Medecin Volant-cy, et c’est tout ce que j’ay à te dire.</p>
+      </div>
+      <div xml:id="privilege-mv">
+        <head>Extraict du Privilege du Roy </head>
+        <pb n="VII" xml:id="pVII-mv"/>
+        <p>Par Grace et Privilege du Roy, donné à Pari le dernier Octobre mil six cens
+          soixante-quatre. Signé, Par le Roy en son Conseil, GUITONNEAU. Il est permis à NICOLAS
+          PEPINGUE’, Imprimeur et Marchand Libraire à Paris, d’imprimer, faire imprimer, vendre et
+          debiter une Piece de Theatre, intitulée, <hi rend="i">Le Medecin volant, Comedie, composée
+          par le Sr Boursault</hi>, pendant le temps et l’espace de sept années, à commencer du jour
+          que ladite Piece sera achevée d’imprimer pour la premiere fois ; Et deffenses sont faites
+          à toutes personnes de quelque qualité et condition qu’elles soient, d’imprimer, ny faire
+          imprimer, vendre et debiter ladite Piece sans le consentement de l’Exposant, ou de ceux
+          qui auront droict de luy, à peine de trois mil livres d’amende, confiscation des
+          exemplaires, despens, dommages et interests, ainsi que plus au long il est porté audit
+          Privilege.</p>
+        <p rend="i">Registré sur le Livre de la Communauté.</p>
+        <p>Achevé d’imprimer pour la premiere fois le quatorziesme Janvier 1665.</p>
+        <p rend="i">Les Exemplaires ont esté fournis.</p>
+      </div>
+      <div xml:id="acteurs-mv">
+        <head>ACTEURS.</head>
+        <pb n="VIII" xml:id="pVIII-mv"/>
+        <castList>
+          <castItem>
+            <role xml:id="cleon" rend="male junior">CLEON,</role>
+            <roleDesc><ref target="#amant-mv">Amant</ref> de Lucresse</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="lise" rend="female inferior">LISE,</role>
+            <roleDesc>Servante de Lucresse</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="lucresse" rend="female junior">LUCRESSE,</role>
+            <roleDesc><ref target="#maitresse1-mv">Maistresse</ref> de Cleon</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="crispin" rend="male inferior">CRISPIN,</role>
+            <roleDesc>Valet de Cleon, Medecin Volant</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="fernand" rend="male senior">FERNAND,</role>
+            <roleDesc>Pere de Lucresse</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="philipin" rend="male inferior">PHILIPIN,</role>
+            <roleDesc>Valet de Fernand</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="canteas" rend="male exterior">CANTEAS,</role>
+            <roleDesc>habile Medecin</roleDesc>
+          </castItem>
+        </castList>
+        <set>La Scene est devant la Maison de Fernand</set>
+      </div>
+    </front>
+    <body>
+      <div type="scene">
+        <head>SCENE PREMIERE.</head>
+        <stage>LISE, CLEON.</stage>
+        <sp who="lise">
+          <speaker>LISE</speaker>
+          <l n="1" xml:id="l1-mv">N’insultez<note place="bottom">« Affliger quelqu’un qui est desja
+            affligé, luy reprocher sa misere, et s’en rejouir. » (Furetière).</note> point de grace
+            au mal-heur de Lucresse, <pb n="1"/></l>
+          <l n="2" xml:id="l2-mv">Je say qu’elle a pour vous une forte <ref target="#tendresse">
+            tendresse</ref> ;</l>
+          <l n="3" xml:id="l3-mv">Mais enfin de son pere elle craint le pouvoir,</l>
+          <l n="4" xml:id="l4-mv">Et ne peut se resoudre au plaisir de vous voir.</l>
+          <l n="5" xml:id="l5-mv">Une fille bien née a tousjours de la crainte.</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <pb n="2" xml:id="p2-mv"/>
+          <l n="6" xml:id="l6-mv">Que veux-tu, la douleur dont mon ame est atteinte,</l>
+          <l n="7" xml:id="l7-mv">Rend ma plainte équitable, et me fait murmurer<note place="bottom">« Se
+            plaindre tout bas et avec timidité » (Furetière).</note></l>
+          <l n="8" xml:id="l8-mv">Contre un Objet charmant que je dois adorer.</l>
+          <l n="9" xml:id="l9-mv">Mais Lise à sa fenestre une prompte escalade</l>
+          <l n="10" xml:id="l10-mv" part="I">Peut m’ouvrir une voye …</l>
+        </sp>
+        <sp who="lise">
+          <speaker>LISE</speaker>
+          <l part="F">Elle fait la malade,</l>
+          <l n="11" xml:id="l11-mv">Monsieur, et le vieux Reistre<note place="bottom">L’expression <hi rend="i">Vieux Reistre</hi> désigne « un homme fin, rusé et expérimenté au fait de
+            la guerre. On le dit par extension de ceux qi ont de la ruse et de l’experience en
+            plusieurs choses, comme à plaider, à joüer, etc. » (Furetière).</note> est party du
+            matin</l>
+          <l n="12" xml:id="l12-mv">Pour chercher par la ville un expert Medecin.</l>
+          <l n="13" xml:id="l13-mv">Sans rien escalader, pour voir une <ref target="#maitresse1-mv">
+            Maistresse</ref></l>
+          <l n="14" xml:id="l14-mv">Un <ref target="#amant-mv">Amant</ref> dans sa manche a
+            tousjours une adresse ;</l>
+          <l n="15" xml:id="l15-mv">Mettez tout en usage, et puissance, et savoir,</l>
+          <l n="16" xml:id="l16-mv">Sans choquer<note place="bottom">Porter atteinte.</note> son
+            honneur<note place="bottom">L’<hi rend="i">honneur</hi> « s’applique plus
+            particulierement à deux sortes de vertus, à la vaillance pour les hommes, et à la
+            chasteté pour les femmes. » (Furetière).</note> essayez de la voir,</l>
+          <l n="17" xml:id="l17-mv">Il n’est point de moyens que l’amour n’autorise,</l>
+          <l n="18" xml:id="l18-mv">Sur tout…mais du vieillard je crains une surprise,</l>
+          <l n="19" xml:id="l19-mv">Adieu, pensez à vous, et vous ressouvenez,</l>
+          <l n="20" xml:id="l20-mv">Qu’il n’est rien d’impossible aux cœurs passionnez<note place="bottom">Diérèse. Ce mot compte pour 4 syllabes. Nous retrouvons le même cas de
+            figure aux vers : v. 21, v. 99, v. 488.</note>.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE II</head>
+        <sp who="cleon">
+          <speaker>CLEON </speaker><stage>seul</stage>
+          <l n="21" xml:id="l21-mv">Aux cœurs passionnez il n’est rien d’impossible,</l>
+          <l n="22" xml:id="l22-mv">Je l’avouë ; et je trouve un moyen infaillible</l>
+          <l n="23" xml:id="l23-mv">De donner à mon ame un moment de repos ;</l>
+          <l n="24" xml:id="l24-mv">Il faut…mais ô Crispin que tu viens à propos.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE III</head>
+        <stage>CLEON, CRISPIN.</stage>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="25" xml:id="l25-mv">Je vous cherche partout pour vous rendre réponce<pb n="3" xml:id="p3-mv"/></l>
+          <l n="26" xml:id="l26-mv" part="I">Monsieur.</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="F">Si tu savois ce que Lise m’annonce,</l>
+          <l n="27" xml:id="l27-mv" part="I">Cher Crispin…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Il m’a dit que tantost sur le soir…</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l n="28" xml:id="l28-mv">Quand on a de l’amour, et qu’on a de l’espoir…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="29" xml:id="l29-mv">Je vous dis, et redis qu’il m’a dit de vous dire…</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l n="30" xml:id="l30-mv">Pour des charmes si doux lors qu’une ame soupire.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="31" xml:id="l31-mv">Vous plaist-il que je parle, ô babillard<note place="bottom">« Qui
+            parle continuellement, et qui ne dit que des choses de neant. » (Furetière).</note>
+            maudit ?</l>
+          <l n="32" xml:id="l32-mv" part="I">Ou ne diray-je mot ?</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="F">Tu m’en as assez dit.</l>
+          <l n="33" xml:id="l33-mv">Le temps m’est precieux<note place="bottom">Diérèse. Ce mot
+            compte pour trois syllabes. Nous retrouvons le même cas de figure aux vers : v. 65, v.
+            98, v. 136, v. 186, v. 187.</note>, et ma flame me presse ;</l>
+          <l n="34" xml:id="l34-mv">Raisonnons entre nous ; je me meurs pour Lucresse.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="35" xml:id="l35-mv" part="I">Mourez-vous. <pb n="4" xml:id="p4-mv"/></l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="F">Son visage a des attraits puissants,</l>
+          <l n="36" xml:id="l36-mv">Elle asservit mon ame, elle charme mes sens,</l>
+          <l n="37" xml:id="l37-mv">En un mot je l’adore, et son pere me l’oste,</l>
+          <l n="38" xml:id="l38-mv" part="I">Tu le vois.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Il est vray, mais ce n’est pas ma faute.</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l n="39" xml:id="l39-mv">D’accord, de mon mal-heur je ne puis t’accuser,</l>
+          <l n="40" xml:id="l40-mv">Mais tu connois son père, il le faut <ref target="#abuser">
+            abuser</ref>,</l>
+          <l n="41" xml:id="l41-mv" part="I">Qu’en dis-tu ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Moy, Monsieur ? <ref target="#abuser">abusez</ref>, que m’importe ?</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l n="42" xml:id="l42-mv">Il la tient enfermée, et je veux qu’elle sorte :</l>
+          <l n="43" xml:id="l43-mv">Mon cœur pour cét effort ne s’adresse qu’à toy,</l>
+          <l n="44" xml:id="l44-mv" part="I">Car enfin…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">A present il m’importe, ma foy<note place="bottom">« Façons de parler dont on
+            se sert abusivement pour affirmer quelque chose. » (<hi rend="i">Dictionnaire de
+            l’Académie française</hi>, 1762).</note>.</l>
+          <l n="45" xml:id="l45-mv" part="I">A moy, Monsieur ?</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="F">A toy, rends mon ame charmée<note place="bottom">Satisfaite.</note>.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="46" xml:id="l46-mv">Ne me dites-vous pas qu’il la tient enfermée ?</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l n="47" xml:id="l47-mv" part="I">Oüy.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Je n’y puis que faire. En quel lieu du logis ? <pb n="5" xml:id="p5-mv"/></l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l n="48" xml:id="l48-mv" part="I">C’est dessus le derriere<note place="bottom">Désigne la
+            partie haute de l’arrière de la maison de Cléon.</note>.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">Ouy ?</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="M">Ouy.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">Ouy ?</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="M">Ouy.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Tant pis.</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l n="49" xml:id="l49-mv">Je t’ay dit ma pensée, instruis-moy de la tienne.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="50" xml:id="l50-mv" part="I">Elle est enfermée.</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="M">Ouy.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Que la belle s’y tienne,</l>
+          <l n="51" xml:id="l51-mv" part="I">Voila ce que je pense.</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="F">Ah ! c’est trop s’amuser ;</l>
+          <l n="52" xml:id="l52-mv">Ecoute, sans scrupule il te faut déguiser.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="53" xml:id="l53-mv" part="I">Me déguiser, Monsieur, et pourquoy ?</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="F">C’est pour cause. <pb n="6" xml:id="p6-mv"/></l>
+          <l n="54" xml:id="l54-mv">Je veux bien en ce lieu t’informer de la chose ;</l>
+          <l n="55" xml:id="l55-mv">Pour faire pleinement reüssir mon dessein,</l>
+          <l n="56" xml:id="l56-mv" part="I">Il faut estre aujourd’huy Medecin.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Medecin</l>
+          <l n="57" xml:id="l57-mv" part="I">Bons Dieux !</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="F">Sans perdre icy d’inutiles paroles,</l>
+          <l n="58" xml:id="l58-mv">Ce service rendu te vaudra six pistoles<note place="bottom">Soixante
+            livres, soit environ 780 euros. Ceci représente une somme colossale pour le valet.</note>
+            ,</l>
+          <l n="59" xml:id="l59-mv">Si le gain t’encourage, avise<note place="bottom">« Apercevoir
+            d’assez loin. » (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1762).</note>,
+            les voila,</l>
+          <l n="60" xml:id="l60-mv" part="I">Examine.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Mon Dieu, ce n’est pas pour cela.</l>
+          <l n="61" xml:id="l61-mv" part="I">Medecin !</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="F"> Medecin, je n’ay point d’autre ruse.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="62" xml:id="l62-mv">Mais il faut de l’esprit, et je suis une buse,</l>
+          <l n="63" xml:id="l63-mv" part="I">Et de plus…</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="F">C’est à tort que tu prends de l’effroy,</l>
+          <l n="64" xml:id="l64-mv">Le père de Lucresse a moins d’esprit que toy,</l>
+          <l n="65" xml:id="l65-mv">Ce vieillard chassieux<note place="bottom">« Qui a les yeux
+            pleins de chassie. » (Furetière). La chassie est une « Certaine humidité visqueuse qui
+            sort des yeux, et qui colle les paupieres. » (Furetière).</note> connoit peu ton visage,</l>
+          <l n="66" xml:id="l66-mv">Et tu sais…il avance, il me void, j’en enrage,</l>
+          <l n="67" xml:id="l67-mv">Je le vais aborder, vas m’attendre chez moy,</l>
+          <l n="68" xml:id="l68-mv">J’auray soin de m’y rendre aussi vite que toy.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="69" xml:id="l69-mv" part="I">Mais à moins de m’instruire apprenez…<pb n="7" xml:id="p7-mv"/></l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="F">Va te dis-je,</l>
+          <l n="70" xml:id="l70-mv" part="I">Je te suy.</l>
+          <stage>Il sort.</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE IV</head>
+        <stage>CLEON, FERNAND, PHILIPIN.</stage>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="F">La douleur de Lucresse m’afflige,</l>
+          <l n="71" xml:id="l71-mv">Monsieur, quoi que mes soins lui soient indifferens,</l>
+          <l n="72" xml:id="l72-mv">Je viens vous informer de la part que j’y prens :</l>
+          <l n="73" xml:id="l73-mv">Heureux quoy que tousjours sa beauté me captive,</l>
+          <l n="74" xml:id="l74-mv">Si pour d’autres que moy j’apperçois qu’elle vive,</l>
+          <l n="75" xml:id="l75-mv">Et tousjours trop heureux, si le vœu que je faits</l>
+          <l n="76" xml:id="l76-mv">D’un secours necessaire avance les effets.</l>
+          <l n="77" xml:id="l77-mv" part="I">Adieu.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE V</head>
+        <stage>FERNAND, PHILIPIN.</stage>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Ma pauvre fille, elle va rendre l’ame<pb n="8" xml:id="p8-mv"/></l>
+          <l n="78" xml:id="l78-mv" part="I">Philipin.</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l part="F">C’est à vous que j’en donne le blasme,</l>
+          <l n="79" xml:id="l79-mv">A la pourvoir d’un homme on a trop retardé,</l>
+          <l n="80" xml:id="l80-mv">Un pucelage nuit quand il est trop gardé,</l>
+          <l n="81" xml:id="l81-mv">C’est cela qui l’étouffe, et ces sortes de choses…</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="82" xml:id="l82-mv">Point, point, sa maladie a de plus justes causes :</l>
+          <l n="83" xml:id="l83-mv">Mais retourne au plus viste, et va voir Philipin</l>
+          <l n="84" xml:id="l84-mv">Si l’on attend bien-tost ce savant Medecin :</l>
+          <l n="85" xml:id="l85-mv">J’apprehende si fort que Lucresse ne meure…</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l n="86" xml:id="l86-mv">S’il estoit de retour il viendroit tout à l’heure,</l>
+          <l n="87" xml:id="l87-mv" part="I">On l’a dit.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Il est vray, mais apprends<note place="bottom">Dans le sens d’être informé de
+            quelque chose.</note> mon soucy,</l>
+          <l n="88" xml:id="l88-mv">D’autres peuvent l’attendre, et l’emmener aussi,</l>
+          <l n="89" xml:id="l89-mv">Et pour lors tout mon cœur accablé de tristesse</l>
+          <l n="90" xml:id="l90-mv" part="I">Si Lucresse enduroit…</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l part="F">Peste soit de Lucresse, <pb n="9" xml:id="p9-mv"/></l>
+          <l n="91" xml:id="l91-mv">Elle a le choix de vivre, ou du moins de mourir ;</l>
+          <l n="92" xml:id="l92-mv">Quel plaisir elle prend à me faire courir.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="93" xml:id="l93-mv">Sur tout ne revient point que tu ne me l’ameines,</l>
+          <l n="94" xml:id="l94-mv" part="I">Je t’en prie.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE VI</head>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>seul.</stage>
+          <l part="F">En mon âge, ô bons Dieux que de peines !</l>
+          <l n="95" xml:id="l95-mv" part="I">Et que dans mes vieux ans…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE VII</head>
+        <stage>CRISPIN, FERNAND.</stage>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>en soutane.</stage>
+          <l part="F">Pythagore, Platon,</l>
+          <l n="96" xml:id="l96-mv">Masche-à-vuide<note place="bottom">Nous n’avons pas trouvé de
+            référent pour cette expression. Elle semble donc être une pure invention de Crispin en
+            plein délire médical.</note>, Pancrace<note place="bottom">Probablement Saint Pancrace
+            de Rome qui est connu comme étant un grand guérisseur. Il est souvent invoqué pour ses
+            bienfaits notamment en ce qui concerne les rhumatismes. Ce personnage est aussi cité
+            dans <hi rend="i">Le Dépit amoureux</hi> et est un personnage du<hi rend="i"> Mariage
+            forcé</hi> de Molière.</note>, Hesiode<note place="bottom">Hésiode est un poète grec du
+            VIII<hi rend="sup">e</hi> siècle av. J.-C. qui a notamment écrit la <hi rend="i">
+            Théogonie</hi>.</note>, Caton<note place="bottom">Caton l’Ancien ou Caton le Jeune,
+            aucune précision ne nous permet de savoir duquel des deux il s’agit. </note>…</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>bas.</stage>
+          <l n="97" xml:id="l97-mv" part="I">Quel seroit ce Docteur ? écoutons.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Caligule,<pb n="10" xml:id="p10-mv"/></l>
+          <l n="98" xml:id="l98-mv">Polieucte<note place="bottom">Polieucte de Mélitène est un
+            martyr romain. Il est le héros de la pièce éponyme de Corneille représentée en 1641 au
+            Théâtre du Marais.</note>, Virgile, Anaxandre<note place="bottom">Il existe de nombreux
+            Anaxandre mais les deux plus connus sont un roi de Sparte du VII<hi rend="sup">e</hi>
+            siècle avant J.-C. et selon une anecdote, un des plus célèbres comédiens du temps
+            d’Aristophane condamné à mort pour avoir parodié un vers d’une tragédie d’Euripide.</note>,
+            Lucule<note place="bottom">Lucullus est un homme d’État et un général romain.</note>…</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>bas.</stage>
+          <l n="99" xml:id="l99-mv" part="I">O Dieux !</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Robert Vinot<note place="bottom">Ce personnage se rapporte probablement selon
+            V. Fournel à celui cité dans une mazarinade en vers, <hi rend="i">Le Ministre d’Etat
+            flambé</hi> : « Et Vinot n’a plus de quoy frire ». Cet homme semble être un cuisinier
+            dont le nom est devenu populaire.</note>, Scipion l’Affricain,</l>
+          <l n="100" xml:id="l100-mv">Jodelet<note place="bottom">Julien Bedeau dit Jodelet est un
+            comédien contemporain de Boursault connu pour ses talents dans les rôles comiques. Un
+            personnage porte son nom et est notamment le héros de Jodelet ou le maître valet de
+            Scarron (1645).</note>, Mascarille<note place="bottom">Personnage de valet des premières
+            comédies de Molière qui sera ensuite remplacé par Sganarelle. Crispin mêle dans son
+            discours des personnages réels et imaginaires.</note>, Aristote, Lucain<note place="bottom">Poète latin du I<hi rend="sup">er</hi> siècle ap. J.-C. Une seule de
+            ses œuvres nous est parvenue : une épopée, la <hi rend="i">Pharsale</hi>.</note>,</l>
+          <l n="101" xml:id="l101-mv">Medecins de Cesar, Assassins d’Alexandre<note place="bottom">Crispin
+            fait une confusion quant aux causes de la mort de César et d’Alexandre : César a été
+            assassiné et les médecins d’Alexandre sont suspectés de l’avoir empoisonné. Cette
+            confusion entre médecin et assassin est très fréquente au XVII<hi rend="sup">e</hi>
+            siècle, les médecins étant souvent vus comme des assassins.</note>,</l>
+          <l n="102" xml:id="l102-mv">Vous voyez un Phenix qu’a produit vostre cendre<note place="bottom">Renvoie au mythe selon lequel un phénix renaît de ses cendres.</note>.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>bas.</stage>
+          <l n="103" xml:id="l103-mv" part="I">Seroit-ce un Médecin ? il en parle<note place="bottom">Il parle comme un médecin, il semble maîtriser la médecine.</note>.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Approchez,</l>
+          <l n="104" xml:id="l104-mv">Venez voir grands Docteurs les mysteres cachez</l>
+          <l n="105" xml:id="l105-mv">De l’Enciclopedie<note place="bottom">« Science universelle,
+            recueil ou enchaisnement de toutes les sciences ensemble. C’est une temerité à un homme
+            de vouloir posseder l’<hi rend="i">Encyclopedie</hi>. » (Furetière).</note>, et de la
+            Medecine.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="106" xml:id="l106-mv" part="I">C’en est un.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Venez voir ce que c’est que racine,</l>
+          <l n="107" xml:id="l107-mv">De la Mer Arabique<note place="bottom">Désigne la Mer Rouge.</note>,
+            et le flux et reflux.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>à Crispin.</stage>
+          <l n="108" xml:id="l108-mv" part="I">Monsieur…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Que voulez-vous ? <hi rend="i">Ego sum Medicus</hi>,</l>
+          <l n="109" xml:id="l109-mv">Medecin passé Maistre, Apprenty d’Hippocrate,</l>
+          <l n="110" xml:id="l110-mv">Je compose le baume, et le grand Mitridate<note place="bottom">« Antidote
+            ou composition qui sert de remède ou de préservatif contre les poisons où il entre entre
+            plusieurs drogues, comme opium, vipères, scilles, agaric, sctines, etc. » (Furetière).</note>
+            ,</l>
+          <l n="111" xml:id="l111-mv">Je say par le moyen du plus noble des Arts,</l>
+          <l n="112" xml:id="l112-mv">Que qui meurt en Fevrier<note place="bottom">Synérèse. Le mot
+            compte donc pour deux syllabes.</note> n’est plus malade en Mars,</l>
+          <l n="113" xml:id="l113-mv">Que de quatre saisons une année est pourveuë, <pb n="11" xml:id="p11-mv"/></l>
+          <l n="114" xml:id="l114-mv">Et que le mal des yeux est contraire à la veuë.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="115" xml:id="l115-mv">Je ne saurois douter d’un si rare savoir,</l>
+          <l n="116" xml:id="l116-mv" part="I">Si j’osois vous prier…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">Dequoy ? parlez.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">De voir</l>
+          <l n="117" xml:id="l117-mv">Une fille que j’ay que chacun desespere<note place="bottom">Emploi
+            absolu du verbe <hi rend="i">désespérer</hi> : dans les dictionnaires de l’époque nous
+            ne trouvons que l’emploi relatif <hi rend="i">désespérer quelqu’un ou quelque chose</hi>
+            .</note>.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="118" xml:id="l118-mv">Vous avez une fille ! Et vous estes son pere,</l>
+          <l n="119" xml:id="l119-mv" part="I">A ce compte ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Ouy, Monsieur, et j’ay peur de sa mort.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="120" xml:id="l120-mv" part="I">Elle est donc fort malade ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="M">Ouy, Monsieur.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Elle a tort.</l>
+          <l n="121" xml:id="l121-mv">Je luy veux conseiller qu’elle cesse de l’estre ;</l>
+          <l n="122" xml:id="l122-mv">Qui domine sur nous s’en veut rendre le maistre.</l>
+          <l n="123" xml:id="l123-mv">Or le mal dominant par d’occultes ressorts,</l>
+          <l n="124" xml:id="l124-mv">Il corrompt la matiere, il ravage le corps,</l>
+          <l n="125" xml:id="l125-mv">L’individu qui souffre au moment qu’il s’épure</l>
+          <l n="126" xml:id="l126-mv">D’un peu d’Apoteose<note place="bottom">Le terme <hi rend="i">
+            Apoteose</hi> n’est pas approprié ici. Il s’agit d’un terme gréco-latin parfaitement
+            adapté pour la construction du pseudo-discours médical que Crispin invente.</note>
+            entretient sa nature,</l>
+          <l n="127" xml:id="l127-mv">La vapeur de la terre opposée à ce mal,</l>
+          <l n="128" xml:id="l128-mv">Dans l’humaine vessie establit un canal.</l>
+          <l n="129" xml:id="l129-mv">Le Cancer froidureux<note place="bottom">« frileux, qui craint
+            le froid » (Furetière).</note>, rend l’humeur taciturne, <pb n="12" xml:id="p12-mv"/></l>
+          <l n="130" xml:id="l130-mv">Le vaillant Zodiaque envisage Saturne<note place="bottom">Crispin
+            fait ici un amalgame entre médecine et astrologie ce qui est très fréquent au XVII<hi rend="sup">e</hi> siècle.</note>,</l>
+          <l n="131" xml:id="l131-mv">Et s’il faut qu’avec eux j’en demeure d’accord</l>
+          <l n="132" xml:id="l132-mv">Rien n’abrege la vie à l’esgard<note place="bottom">Comprendre <hi rend="i">rien n’abrege la vie comparé à la mort</hi>.</note> de la mort.</l>
+          <l n="133" xml:id="l133-mv">Ce sont de ces Auteurs les leçons que j’emprunte.</l>
+          <l n="134" xml:id="l134-mv">Votre fille, à propos, seroit-elle deffuncte ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="135" xml:id="l135-mv" part="I">Non, Monsieur.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">Mange-t-elle ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Un petit, grace aux Dieux.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="136" xml:id="l136-mv" part="I">Elle n’est donc pas morte ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="M">Elle ? Nenny<note place="bottom">Ce mot pour dire <hi rend="i">non</hi> est
+            dans le Huguet en XVI<hi rend="sup">e</hi> siècle mais n’apparaît plus dans le
+            Furetière. Fernand est donc montré comme un barbon qui utilise un vocabulaire vieilli,
+            qui n’est plus d’usage.</note>.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Tant mieux,</l>
+          <l n="137" xml:id="l137-mv" part="I">Je m’en réjouys fort.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Et dequoy ? Cette vie</l>
+          <l n="138" xml:id="l138-mv">Avant la fin du jour luy peut être ravie.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="139" xml:id="l139-mv">Tant pis, l’a-t-on fait voir à quelque Medecin ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="140" xml:id="l140-mv" part="I">Nullement.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Elle a donc quelque mauvais dessein,</l>
+          <l n="141" xml:id="l141-mv">Puis qu’elle veut mourir sans aucune ordonnance<note place="bottom">Jeu sur deux sens du mot <hi rend="i">ordonnance</hi>. Le mot peut être
+            compris dans le sens « d’ordre » mais aussi dans le sens de ce qui est prescrit par un
+            médecin. Crispin sous-entend que le médecin est la seule personne qui puisse ordonner la
+            mort d’un homme, qu’il ne peut choisir de mourir seul. Ce raisonnement est totalement
+            absurde mais fait tout de même référence au fait que la mort accompagne souvent les
+            soins prodigués par un médecin. Ceci se retrouve dans certaines comédies de Molière
+            comme nous l’avons vu en introduction.</note>,</l>
+          <l n="142" xml:id="l142-mv">De ces sortes de morts nostre Ecole s’offence : <pb n="p. 13 ; B" xml:id="p13-mv"/></l>
+          <l n="143" xml:id="l143-mv">Quand un homme se trouve en estat de perir</l>
+          <l n="144" xml:id="l144-mv">Tousjours un Medecin doit l’ayder à mourir,</l>
+          <l n="145" xml:id="l145-mv">Et c’est faire éclater des malices<note place="bottom">« Meschanceté,
+            inclination à nuire, à mal faire » (Furetière).</note> enormes</l>
+          <l n="146" xml:id="l146-mv">Que vouloir refuser de mourir dans les formes.</l>
+          <l n="147" xml:id="l147-mv">Instruisez vostre fille, et luy dites du moins</l>
+          <l n="148" xml:id="l148-mv">Pour mourir comme il faut qu’elle attende mes soins,</l>
+          <l n="149" xml:id="l149-mv">Son ame à deloger est trop impatiente<note place="bottom">Diérèse.
+            Ce mot compte pour quatre syllabes. Nous retrouvons le même cas de figure aux vers : v.
+            273, v. 274, v. 283, v. 292, v. 308, v. 312, v. 333, v. 340.</note>,</l>
+          <l n="150" xml:id="l150-mv" part="I">Monsieur.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Permettez-moy d’appeller sa Suivante.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN, </speaker><stage>bas.</stage>
+          <l n="151" xml:id="l151-mv">Appellez. Je le tiens, ô le franc animal<note place="bottom">Franc
+            a ici le sens de vrai. « On appelle par injure, Animal, un homme lourdaut, grossier,
+            stupide. » (Furetière). Un franc animal est un vrai stupide.</note>.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="152" xml:id="l152-mv" part="I">Hola<note place="bottom">« Est quelquefois
+            interjection qui sert pour appeller des gens de basse condition, des laquais. »
+            (Furetière).</note>, Lise.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE VIII</head>
+        <stage>LISE, FERNAND, CRISPIN.</stage>
+        <sp who="lise">
+          <speaker>LISE</speaker>
+          <l part="F">Ah, Monsieur, vostre fille est fort mal !</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="153" xml:id="l153-mv" part="I">Que fait-elle ? Je tremble.</l>
+        </sp>
+        <sp who="lise">
+          <speaker>LISE</speaker>
+          <l part="F">Elle se plaint du ventre, <pb n="14" xml:id="p14-mv"/></l>
+          <l n="154" xml:id="l154-mv">Elle sort de son lict, puis apres elle y rentre,</l>
+          <l n="155" xml:id="l155-mv">Se promene, se sied, veut dormir, veut veiller,</l>
+          <l n="156" xml:id="l156-mv">Malgré-moy de ce pas je la viens d’habiller…</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="157" xml:id="l157-mv" part="I">D’habiller !</l>
+        </sp>
+        <sp who="lise">
+          <speaker>LISE</speaker>
+          <l part="F">D’habiller ; sa boutade<note place="bottom">« Caprice, transport d’esprit qui
+            se fait sans raison et avec impetuosité. Il se prend en bonne ou en mauvaise part. »
+            (Furetière).</note> m’estonne,</l>
+          <l n="158" xml:id="l158-mv" part="I">Je croy…</l>
+          <stage>appercevant Crispin.</stage>
+          <l part="F">Mais ce Gredin vous demande l’aumône,</l>
+          <l n="159" xml:id="l159-mv" part="I">Monsieur.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Ah juste Ciel quel blaspheme tu fais !</l>
+          <l n="160" xml:id="l160-mv">C’est l’exemple parfait des Medecins parfaits,</l>
+          <l n="161" xml:id="l161-mv">Que j’ay bien du sujet de loüer sa rencontre.</l>
+        </sp>
+        <sp who="lise">
+          <speaker>LISE</speaker>
+          <l n="162" xml:id="l162-mv" part="I">Medecin ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Medecin, ma soutane le monstre.</l>
+          <l n="163" xml:id="l163-mv">Mais sans perdre ma peine à prouver qui je suis,</l>
+          <l n="164" xml:id="l164-mv">Par ma seule doctrine aisement je le puis.</l>
+          <l n="165" xml:id="l165-mv">De la fille égrotante<note place="bottom">Malade.</note>
+            apportez de l’urine,</l>
+          <l n="166" xml:id="l166-mv" part="I">Apportez.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>à Lise</stage>
+          <l part="M">Allez viste en quérir.</l>
+          <stage>Lise sort.</stage>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">J’examine</l>
+          <l n="167" xml:id="l167-mv">Ce que cette malade à peu prés peut avoir ;</l>
+          <l n="168" xml:id="l168-mv">Mais je vois de l’urine, et je vais le savoir. <pb n="15" xml:id="p15-mv"/></l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE IX</head>
+        <stage>CRISPIN, FERNAND, LISE</stage>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="169" xml:id="l169-mv" part="I">Approchez.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">De frayeur j’ay mon ame allarmée.</l>
+        </sp>
+        <sp who="lise">
+          <speaker>LISE, </speaker><stage>avec de l’urine</stage>
+          <l n="170" xml:id="l170-mv" part="I">En voilà.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Voyez-vous, comme elle est enflamée ?</l>
+          <l n="171" xml:id="l171-mv" part="I">Mauvais signe.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="M"> O bons Dieux, il en boit.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN, </speaker><stage>apres avoir tout beu</stage>
+          <l part="F">Je croy bien ;</l>
+          <l n="172" xml:id="l172-mv">Mais qui boit pour si peu ne comprend jamais rien,</l>
+          <l n="173" xml:id="l173-mv" part="I">Allez en querir d’autre.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>à Lise.</stage>
+          <l part="M">Allez viste.</l>
+          <stage>Lise sort encore.</stage>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Mon Prince,</l>
+          <l n="174" xml:id="l174-mv">Assez d’autres Docteurs d’une estoffe plus mince</l>
+          <l n="175" xml:id="l175-mv">Se seroient contentez du rapport de leurs yeux ; <pb n="16" xml:id="p16-mv"/></l>
+          <l n="176" xml:id="l176-mv">Mais à croire sa langue on en juge bien mieux :</l>
+          <l n="177" xml:id="l177-mv">Bois-Robert nous enseigne en sa belle Plaideuse<note place="bottom"><space/>François Metel de Boisrobert publie <hi rend="i">La Belle
+            Plaideuse</hi> en 1655.</note></l>
+          <l n="178" xml:id="l178-mv">Que le goust est solide, et la veuë est trompeuse,</l>
+          <l n="179" xml:id="l179-mv">Et qu’un grand Medecin quand il fait ce qu’il doit,</l>
+          <l n="180" xml:id="l180-mv">Il sent mieux une chose à la langue qu’au doigt<note place="bottom">Ce vers joue sur l’ambivalence des mots ; il peut être compris de
+            manière grivoise. « Oudin, de son côté, répertorie “le doigt qui n’a point d’ongle”
+            comme une métaphore usuelle pour “le membre viril” » (Molière,<hi rend="i"> Œuvres
+            complètes</hi>, t. I, éd. cit., p. 1362).</note>.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="181" xml:id="l181-mv">A ces fortes raisons je n’ay point de replique.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE X</head>
+        <stage>LISE, CRISPIN, FERNAND.</stage>
+        <sp who="lise">
+          <speaker>LISE, </speaker><stage>avec encore un peu d’urine.</stage>
+          <l n="182" xml:id="l182-mv">A pisser comme il faut ma <ref target="#maitresse2-mv">
+            Maistresse</ref> s’applique,</l>
+          <l n="183" xml:id="l183-mv">Monsieur, et cependant je n’en ay qu’un filet,</l>
+          <l n="184" xml:id="l184-mv" part="I">Voyez.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">Pauvre pisseuse !</l>
+          <stage>Après avoir encore beu il dit.</stage>
+          <l part="F">Allez au Robinet<note place="bottom">Pour désigner la vessie de Lucresse.</note></l>
+          <l n="185" xml:id="l185-mv" part="I">En tirer.</l>
+        </sp>
+        <sp who="lise">
+          <speaker>LISE</speaker>
+          <l part="M">Mais Monsieur…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Mais que cette pisseuse</l>
+          <l n="186" xml:id="l186-mv">Fasse une ample pissée, et qui soit copieuse, <pb n="17" xml:id="p17-mv"/></l>
+          <l n="187" xml:id="l187-mv" part="I">Copieuse.</l>
+        </sp>
+        <sp who="lise">
+          <speaker>LISE</speaker>
+          <l part="F">Ma foy, ma <ref target="#maitresse2-mv">Maistresse</ref> ne peut,</l>
+          <l n="188" xml:id="l188-mv">On n’a pas le pouvoir de pisser quand on veut.</l>
+          <l n="189" xml:id="l189-mv">C’est donner à Lucresse une peine<note place="bottom">« Chastiment,
+            ce qui fait souffrir à ceux qui ont fait quelque faute. » (Furetière).</note> trop
+            grande</l>
+          <l n="190" xml:id="l190-mv" part="I">Que vouloir…</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>à Lise.</stage>
+          <l part="F">Dites-luy que Monsieur le commande,</l>
+          <l n="191" xml:id="l191-mv" part="I">Courez viste.</l>
+        </sp>
+        <sp who="lise">
+          <speaker>LISE</speaker>
+          <l part="F"> Monsieur, vostre fille n’a pû,</l>
+          <l n="192" xml:id="l192-mv">Mais enfin pour vous plaire à l’instant elle a bû,</l>
+          <l n="193" xml:id="l193-mv">Si Monsieur veut attendre à luy rendre service<note place="bottom">Servir quelqu’un.</note>,</l>
+          <l n="194" xml:id="l194-mv">Au plus tard dans une heure il faudra qu’elle pisse.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="195" xml:id="l195-mv" part="I">Elle a raison.</l>
+        </sp>
+        <sp who="lise">
+          <speaker>LISE</speaker>
+          <l part="F">De plus pour chasser son soucy</l>
+          <l n="196" xml:id="l196-mv">Elle s’est resoluë à venir jusqu’icy.</l>
+          <l n="197" xml:id="l197-mv" part="I">Elle vient.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XI</head>
+        <stage>LUCRESSE, FERNAND, CRISPIN, LISE</stage>
+        <sp who="lucresse">
+          <speaker>LUCRESSE</speaker>
+          <l part="M">Ah mon pere !<pb n="18" xml:id="p18-mv"/></l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="M">Ah ma fille !</l>
+        </sp>
+        <sp who="lise">
+          <speaker>LISE</speaker>
+          <l part="F">Courage.</l>
+        </sp>
+        <sp who="lucresse">
+          <speaker>LUCRESSE</speaker>
+          <l n="198" xml:id="l198-mv" part="I">Je me meurs.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Je luy trouve un passable visage ;</l>
+          <l n="199" xml:id="l199-mv">Serviteur ; Si pour vous nos remedes sont vains,</l>
+          <l n="200" xml:id="l200-mv">Vous aurez le plaisir de mourir par mes mains,</l>
+          <l n="201" xml:id="l201-mv" part="I">Consolez-vous.</l>
+        </sp>
+        <sp who="lucresse">
+          <speaker>LUCRECE</speaker>
+          <l part="M">Helas !</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Vostre bras, que je taste</l>
+          <l n="202" xml:id="l202-mv">Si pour vous il est vray que la mort ait si haste,</l>
+          <l n="203" xml:id="l203-mv" part="I">Donnez dis-je.</l>
+          <stage>Au lieu de prendre le bras de Lucresse il prend celuy de son pere, et dit.</stage>
+          <l part="F">Tu Dieu ! comme il bat vostre poux,</l>
+          <l n="204" xml:id="l204-mv">J’aurois bien de la peine à répondre de vous, <pb n="19" xml:id="p19-mv"/></l>
+          <l n="205" xml:id="l205-mv">Et vostre maladie est sans doute mortelle,</l>
+          <l n="206" xml:id="l206-mv" part="I">Prenez-y garde.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">O Dieux ! quelle triste nouvelle ;</l>
+          <l n="207" xml:id="l207-mv" part="I">Je suis donc bien malade, ô Monsieur ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Vous, pourquoy ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="208" xml:id="l208-mv">Vous n’avez pris le bras à personne qu’à moy.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="209" xml:id="l209-mv">Et cela vous estonne ! Une <ref target="#tendresse">tendresse</ref>
+            extréme<note place="bottom"><space/>Cette expression est très à la mode chez les gens
+            du beau monde. Elle se retrouve donc dans de nombreux ouvrages, pour ne citer que les
+            œuvres de Molière, nous la rencontrons dans <hi rend="i">Amphitryon, L’Avare, La
+            Princesse d’Élide</hi> et <hi rend="i">Don Juan ou Le Festin de pierre</hi>.</note></l>
+          <l n="210" xml:id="l210-mv">Rend la fille le pere, et le pere elle mesme,</l>
+          <l n="211" xml:id="l211-mv">Entr’eux-deux la nature est propice à tel point</l>
+          <l n="212" xml:id="l212-mv">Que le sort les separe, et le sang les rejoint ;</l>
+          <l n="213" xml:id="l213-mv">Estant vray que l’enfant est l’ouvrage du pere,</l>
+          <l n="214" xml:id="l214-mv">Sa douleur sur luy-mesme aisement reverbere,</l>
+          <l n="215" xml:id="l215-mv">Et le sang l’un de l’autre est si fort dependant,</l>
+          <l n="216" xml:id="l216-mv">Que l’enfant met le pere en un trouble evident.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="217" xml:id="l217-mv" part="I">Il est vray.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F"> Cependant quoy que mon savoir brille,</l>
+          <l n="218" xml:id="l218-mv">Je veux bien me resoudre à taster votre fille ;</l>
+          <l n="219" xml:id="l219-mv" part="I">Vostre bras.</l>
+        </sp>
+        <sp who="lucresse">
+          <speaker>LUCRESSE</speaker>
+          <l part="M">Le voila.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Je m’en estois douté,</l>
+          <l n="220" xml:id="l220-mv">Il ne vous manque rien que beaucoup de santé, <pb n="20" xml:id="p20-mv"/></l>
+          <l n="221" xml:id="l221-mv" part="I">Sans cela…</l>
+        </sp>
+        <sp who="lucresse">
+          <speaker>LUCRESSE</speaker>
+          <l part="F">J’ay la mort sur le bord de la levre,</l>
+          <l n="222" xml:id="l222-mv" part="I">Monsieur.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Que je retaste. Avez-vous de la fievre ?</l>
+        </sp>
+        <sp who="lucresse">
+          <speaker>LUCRESSE</speaker>
+          <l n="223" xml:id="l223-mv" part="I">Je ne say.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">Non ?</l>
+        </sp>
+        <sp who="lucresse">
+          <speaker>LUCRESSE</speaker>
+          <l part="M">Non.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">Fy<note place="bottom">« Particule qui sert à faire une exclamation pour
+            tesmoigner le mespris, la haine, l’aversion qu’on a pour quelque personne ou quelque
+            chose. » (Furetière).</note>.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="M">Dequoy ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Mauvais régal<note place="bottom">Mauvais signe.</note>,</l>
+          <l n="224" xml:id="l224-mv">Par fois sans qu’on le sache on se porte fort mal,</l>
+          <l n="225" xml:id="l225-mv" part="I">Voyez-vous.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">De ses maux que je sache la cause.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="226" xml:id="l226-mv">C’est la fievre, ce l’est, si ce n’est autre chose,</l>
+          <l n="227" xml:id="l227-mv">Mais soit fievre, ou migraine, ou cancrene ou mal-chaud<note place="bottom">Fièvre chaude.</note>,</l>
+          <l n="228" xml:id="l228-mv">Allez, pour la guerir, je say bien ce qu’il faut.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>à Lise.</stage>
+          <l n="229" xml:id="l229-mv" part="I">Une plume, de l’encre.<pb n="21" xml:id="p21-mv"/></l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">Et pourquoy ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">L’Ordonnance,</l>
+          <l n="230" xml:id="l230-mv" part="I">Monsieur…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Vous vous mocquez, je les fais par avance.</l>
+          <l n="231" xml:id="l231-mv">Je me tiens tousjours prest contre tous accidents ;</l>
+          <l n="232" xml:id="l232-mv">En voila pour les yeux, pour le flux, pour les dents ;</l>
+          <l n="233" xml:id="l233-mv">Mais ignorant son mal il luy faut, ce me semble</l>
+          <l n="234" xml:id="l234-mv">Une ordonnance propre à tous les maux ensemble ;</l>
+          <l n="235" xml:id="l235-mv">Il faudra que le sien se rencontre parmy<note place="bottom">Emploi
+            absolu de <hi rend="i">parmy.</hi></note>.</l>
+          <stage>Il donne une Ordonnance.</stage>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="236" xml:id="l236-mv">Charitable Monsieur, c’est agir en amy</l>
+          <l n="237" xml:id="l237-mv" part="I">Cela ; quel honneste homme.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">En quel lieu couche-t’elle ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="238" xml:id="l238-mv">Elle a sur le derriere une chambre assez belle.</l>
+        </sp>
+        <sp who="lise">
+          <speaker>LISE</speaker>
+          <l n="239" xml:id="l239-mv">Ouy vrayment, une chambre assez belle en effect,</l>
+          <l n="240" xml:id="l240-mv" part="I">Si sombre.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Croyez-moy, le devant est son fait,</l>
+          <l n="241" xml:id="l241-mv">Qu’on l’y mene, aussi bien la journée est mal saine<note place="bottom">Souligne l’empressement que Fernand doit avoir pour faire transférer au
+            plus vite la chambre de sa fille à l’avant de sa maison puisque sa fille peut mourir à
+            tout instant si elle reste dans ces conditions.</note>.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XII</head>
+        <stage>PHILIPIN, FERNAND, CANTEAS, CRISPIN</stage>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>voyant venir Philipin.</stage>
+          <l n="242" xml:id="l242-mv" part="I">Philipin, ayde à Lise<note place="bottom">Au XVII<hi rend="sup">e</hi> il y a concurrence des constructions du verbe <hi rend="i">aider</hi>
+            sous la forme aider + Nom ou sous la forme aider à + Nom. </note>.<pb n="22" xml:id="p22-mv"/></l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l part="F">A la fin je l’amene,</l>
+          <l n="243" xml:id="l243-mv" part="I">Le voicy.</l>
+          <stage>Apres que Philipin a dit cela, il ayde à ramener Lucresse.</stage>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">Qui donc ? qu’est-ce ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Un savant Medecin.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>bas.</stage>
+          <l n="244" xml:id="l244-mv" part="I">Medecin, male-peste.</l>
+        </sp>
+        <sp who="canteas">
+          <speaker>CANTEAS</speaker>
+          <l part="F">Excusez, ce matin</l>
+          <l n="245" xml:id="l245-mv">L’intendant d’un Seigneur m’a contraint de me rendre</l>
+          <l n="246" xml:id="l246-mv" part="I">Monsieur…</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Mon bon Monsieur, je n’ay pû tant attendre,</l>
+          <l n="247" xml:id="l247-mv">Au retour de chez vous pour causer<note place="bottom">
+            Permettre.</note> mon repos</l>
+          <l n="248" xml:id="l248-mv">Ce fameux Medecin s’est offert à propos, <pb n="23" xml:id="p23-mv"/></l>
+          <l n="249" xml:id="l249-mv" part="I">Je l’ay pris.</l>
+        </sp>
+        <sp who="canteas">
+          <speaker>CANTEAS</speaker>
+          <l part="M">Monsieur ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Ouy, mais qu’il a du merite,</l>
+          <l n="250" xml:id="l250-mv" part="I">Si vous saviez …</l>
+        </sp>
+        <sp who="canteas">
+          <speaker>CANTEAS</speaker>
+          <l part="F">Je louë, et je plains ma visite,</l>
+          <l n="251" xml:id="l251-mv">Je me tiens mal-heureux d’avoir pû me ravir</l>
+          <l n="252" xml:id="l252-mv">Au plaisir que j’aurois de pouvoir vous servir,</l>
+          <l n="253" xml:id="l253-mv">Et de voir la fortune à mes vœux trop cruelle</l>
+          <l n="254" xml:id="l254-mv">M’arracher au bon-heur de vous prouver mon zele.</l>
+          <l n="255" xml:id="l255-mv">Mais à voir qui pour vous a daigné s’occuper,</l>
+          <l n="256" xml:id="l256-mv">Je me tiens trop heureux qu’il ait pû m’eschaper ;</l>
+          <l n="257" xml:id="l257-mv">Le plaisir que je gouste est meslé dans le vostre,</l>
+          <l n="258" xml:id="l258-mv">Si je perds d’un costé je recouvre de l’autre,</l>
+          <l n="259" xml:id="l259-mv">Puis qu’enfin de Monsieur le sublime entretien</l>
+          <l n="260" xml:id="l260-mv">D’estre un jour tout à vous m’offrira le moyen<note place="bottom">La réplique de Cantéas est volontairement alambiquée et difficile à
+            comprendre, elle rappelle les discours incompréhensibles que les médecins tiennent à
+            leurs patients. Il dit de manière extravagante qu’il est ennuyé de ne pas avoir pu venir
+            au chevet de Lucresse plus tôt pour montrer son talent mais qu’il en est aussi heureux
+            puisque cela lui a permis de faire la rencontre de Crispin.</note>.</l>
+          <stage>Appercevant qu’il est au milieu, il dit à Crispin.</stage>
+          <l n="261" xml:id="l261-mv">Mais, Monsieur pardonnez, ce n’est point par audace,</l>
+          <l n="262" xml:id="l262-mv">Je n’ay <ref target="#garde">garde</ref> avec vous d’occuper
+            cette place,</l>
+          <l n="263" xml:id="l263-mv" part="I">C’est à vous qu’elle est deuë.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">Ah !</l>
+        </sp>
+        <sp who="canteas">
+          <speaker>CANTEAS</speaker>
+          <l part="M">Monsieur…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Palsambleu,</l>
+          <l n="264" xml:id="l264-mv" part="I">Ah !</l>
+        </sp>
+        <sp who="canteas">
+          <speaker>CANTEAS</speaker>
+          <l part="F">Sans ceremonie on vous doit le milieu, <pb n="24" xml:id="p24-mv"/></l>
+          <stage>Crispin par deux fois estant au milieu, comme Canteas veut parler, il s’écoule par
+            derriere luy, et reprend sa premiere place.</stage>
+          <l n="265" xml:id="l265-mv">Et de grace Hippocrate…Hé Monsieur je vous jure,</l>
+          <l n="266" xml:id="l266-mv">Qu’au lieu de m’obliger<note place="bottom">« Faire plaisir,
+            rendre de bons offices à quelqu’un. » (<hi rend="i">Dictionnaire de l’Académie française</hi>,
+            1694).</note>, c’est me faire une injure ;</l>
+          <l n="267" xml:id="l267-mv">Je vous prie. Hippocrate…A quoy bon tout cela,</l>
+          <l n="268" xml:id="l268-mv">Conservez vostre place, hé Monsieur, la voila,</l>
+          <l n="269" xml:id="l269-mv">Empeschez à vos yeux que ma honte n’éclate.</l>
+          <l n="270" xml:id="l270-mv">Je reprends ma parole, et je dis qu’Hippocrate,</l>
+          <l n="271" xml:id="l271-mv">Qui de la Medecine est l’illustre ornement,</l>
+          <l n="272" xml:id="l272-mv">De cét Art salutaire a parlé doctement.</l>
+          <l n="273" xml:id="l273-mv">Medecine est, dit-il, une longue science,</l>
+          <l n="274" xml:id="l274-mv">Tout à fait dangereuse en son experience,</l>
+          <l n="275" xml:id="l275-mv">Car touchant nostre vie elle passe si tost</l>
+          <l n="276" xml:id="l276-mv">Qu’on n’a pas le loisir d’en juger comme il faut.</l>
+          <l n="277" xml:id="l277-mv">Vita brevis, ars vero longa, occasio autem praceps,</l>
+          <l n="278" xml:id="l278-mv">
+            <hi rend="i">Experimentum periculosum, Judicium difficile.</hi>
+            <note place="bottom">Une des traductions latines du premier aphorisme d’Hippocrate, « La
+              vie est courte, l’art est long, l’occasion soudaine, l’expérience dangereuse, le
+              jugement difficile » (Hippocrate, <hi rend="i">Les Sept Livres d’aphorismes du grand
+              Hippocrate</hi>, Paris, chez Nicolas et Jean de la Coste, 1645).</note>
+          </l>
+          <l n="279" xml:id="l279-mv">Je me plais à l’estude, et j’ay l’ame assiduë</l>
+          <l n="280" xml:id="l280-mv">A vouloir de cét Art penetrer l’estenduë :</l>
+          <l n="281" xml:id="l281-mv">Mais dedans cét abisme un esprit se confond,</l>
+          <l n="282" xml:id="l282-mv">Plus on l’approfondit, plus il semble profond ;</l>
+          <l n="283" xml:id="l283-mv">Cette utile science en enferme tant d’autres,</l>
+          <l n="284" xml:id="l284-mv">Qu’il faudroit que mes yeux égalassent les vostres,</l>
+          <l n="285" xml:id="l285-mv">Ou que de leurs rayons vous puissiez m’éclairer.</l>
+          <l n="286" xml:id="l286-mv">Pour m’offrir le moyen de ne pas m’esgarer.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="287" xml:id="l287-mv" part="I">Ho, ho, ho<note place="bottom">Interjection « qui
+            sert à appeller et à admirer; et en ce cas elle se redouble quelquefois ». L’effet est
+            d’autant plus comique que la formule est répétée trois fois de suite, ce qui montre le
+            clair embarras dans lequel se trouve Crispin qui ne sait que répondre face à Cantéas.
+            Nous retrouvons la même expression à la prochaine réplique de Crispin au vers 300.</note>
+            .</l>
+        </sp>
+        <sp who="canteas">
+          <speaker>CANTEAS</speaker>
+          <l part="F">De plaisir on a l’ame ravie<pb n="p. 25 ; C" xml:id="p25-mv"/></l>
+          <l n="288" xml:id="l288-mv">Alors que d’un malade on prolonge la vie,</l>
+          <l n="289" xml:id="l289-mv">Et d’un grand Medecin rien n’égale le sort</l>
+          <l n="290" xml:id="l290-mv">Quand sa seule presence intimide la mort ;</l>
+          <l n="291" xml:id="l291-mv">Quand il est l’ennemy que la Parque redoute,</l>
+          <l n="292" xml:id="l292-mv">Quand sa haute science en detourne sa route,</l>
+          <l n="293" xml:id="l293-mv">Et qu’enfin le trépas qui nous fait tous trembler,</l>
+          <l n="294" xml:id="l294-mv">Pour ne le pas combattre ayme mieux reculer.</l>
+          <l n="295" xml:id="l295-mv">
+            <hi rend="i">Mortem medicamentis removet medicus expers.</hi>
+            <note place="bottom">Le médecin expérimenté éloigne la mort grâce à des remèdes.</note>
+          </l>
+          <l n="296" xml:id="l296-mv">Je ne puis approuver l’importune metode<note place="bottom">Désigne
+            la méthode de Crispin qu’il n’a pas vu à l’œuvre et qui ne dialogue pas avec lui sinon
+            par des « Ho, ho, ho ».</note>…</l>
+          <l n="297" xml:id="l297-mv">Mais peut-estre, Monsieur, je vous suis incommode<note place="bottom">Fâcheux.</note>,</l>
+          <l n="298" xml:id="l298-mv">Car enfin comme vous les esprits eslevez</l>
+          <l n="299" xml:id="l299-mv">Aux emplois importants sont tousjours reservez.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="300" xml:id="l300-mv" part="I">Ho, ho, ho.</l>
+        </sp>
+        <sp who="canteas">
+          <speaker>CANTEAS</speaker>
+          <l part="F">Je sors donc, mais j’ose me promettre</l>
+          <l n="301" xml:id="l301-mv">Qu’estant mieux occupé vous pourrez me permettre</l>
+          <l n="302" xml:id="l302-mv">De chercher un pretexte à me faire jouyr<note place="bottom">Diérèse.
+            Ce mot compte pour deux syllabes. Nous retrouvons le même cas de figure aux vers 303, v.
+            342, v. 422, v. 423.</note></l>
+          <l n="303" xml:id="l303-mv">Du plaisir qu’on reçoit quand on peut vous oüyr.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XIII</head>
+        <stage>FERNAND, CRISPIN</stage>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="304" xml:id="l304-mv">Hé bien, ce Medecin, vous voyez comme il cause,<pb n="26" xml:id="p26-mv"/></l>
+          <l n="305" xml:id="l305-mv" part="I">Qu’en dites-vous ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Il sait quelque petite chose.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="306" xml:id="l306-mv">Daignez-moy je vous prie informer de cela,</l>
+          <l n="307" xml:id="l307-mv" part="I">Touchant la Medecine est-il expert ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Là, là<note place="bottom"><hi rend="i">Là là</hi> « est un terme de menace »
+            (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1694).</note>,</l>
+          <l n="308" xml:id="l308-mv" part="I">Passable.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Il n’a pas donc la science parfaite ?</l>
+          <l n="309" xml:id="l309-mv" part="I">Pour qui passeroit-il prés de vous ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Pour Mazette<note place="bottom">« un terme familier de mépris, dont on se
+            sert principalement contre un homme qui ne sait pas jouer à quelque jeu d’esprit ou
+            d’adresse » (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1762).</note>.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="310" xml:id="l310-mv" part="I">Mais durant qu’il parloit vous ne disiez mot ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Moy ?</l>
+          <l n="311" xml:id="l311-mv" part="I">Dites-vous ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="M">Ouy vraiment je dy vous. <pb n="27" xml:id="p27-mv"/></l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Je le croy.</l>
+          <l n="312" xml:id="l312-mv">Pour pouvoir de cét homme éprouver la science,</l>
+          <l n="313" xml:id="l313-mv">J’ay voulu me resoudre à garder le silence :</l>
+          <l n="314" xml:id="l314-mv">Mais enfin si le drosle eut voulu s’arrester,</l>
+          <l n="315" xml:id="l315-mv">Allez, vous m’auriez veu diablement caquetter<note place="bottom">Parler de manière excessive, sans qu’il n’y ait de fond dans les propos
+            tenus.</note>.</l>
+          <l n="316" xml:id="l316-mv">A dessein d’empescher qu’un malade ne meure,</l>
+          <l n="317" xml:id="l317-mv">J’allois debagouler<note place="bottom">« Vomir, dégueuler. Ce
+            mot n’est en usage que parmy le peuple, où on le dit plus souvent au figuré, et il
+            signifie alors, Dire indiscretement tout ce qu’on sçait » (Furetière).</note> du Latin
+            tout à l’heure,</l>
+          <l n="318" xml:id="l318-mv">Voir quel temps il fera dans un vieil Almanac,</l>
+          <l n="319" xml:id="l319-mv">Reciter tout par cœur les Quatrains de Pybrac<note place="bottom">« Le Seigneur de Pybrac est plus connu par ses <hi rend="i">Quatrains</hi>
+            de Morale qu’il a faits, que par les Ambassades et grandes affaires qu’il a negotiées
+            sous le Roy Henry III. » (Furetière) ; « Pibrac, Gui du Frau, seigneur de (1529-1584) :
+            Il a laissé des discours et divers écrits politiques dont une Apologie de la
+            Saint-Barthélémy (1573) mais on le connaît surtout comme auteurs de Quatrains moraux,
+            remarquable par la beauté des maxime et la concision du style, malheureusement la langue
+            est devenu surannée. » <hi rend="i">Dictionnaire universel d’Histoire et de Géographie</hi>
+            de M. N. Bouillet (1878).</note>,</l>
+          <l n="320" xml:id="l320-mv">Et pour mieux vous monstrer qu’il est vray que j’excelle,</l>
+          <l n="321" xml:id="l321-mv">Je say qu’un lavement fait aller à la selle,</l>
+          <l n="322" xml:id="l322-mv">J’ay cent fois en ma vie acheté du Séné<note place="bottom">« Arbrisseau
+            qui croist en Ethiopie sur les bords du Nil. […] Les Medecins d’Europe l’employent en
+            toutes leurs purgations et tisannes. » (Furetière).</note>,</l>
+          <l n="323" xml:id="l323-mv">Et je dy que le Diable est un Diable damné :</l>
+          <l n="324" xml:id="l324-mv">Je soustiens que le corps est le frere de l’ame,</l>
+          <l n="325" xml:id="l325-mv">Que Seneque et Pauline estoient l’homme et la femme,</l>
+          <l n="326" xml:id="l326-mv">Que Narcisse en personne autrefois se noya,</l>
+          <l n="327" xml:id="l327-mv">Et semper quoniam tuos alleluya.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="328" xml:id="l328-mv">Je ne puis rien comprendre à ces phrases d’élite.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="329" xml:id="l329-mv">Je m’en apperçois bien, mais adieu je vous quitte,</l>
+          <l n="330" xml:id="l330-mv">Je verray votre fille ou ce soir, ou demain.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND <note place="bottom">« Donner, mettre
+            en main » (Furetière).</note></speaker><stage> de l’argent.</stage><stage>luy veut bailler</stage>
+          <l n="331" xml:id="l331-mv" part="I">Monsieur…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">Ah ! <pb n="28" xml:id="p28-mv"/></l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Recevez ces Louys de ma main.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="332" xml:id="l332-mv" part="I">Je n’ay <ref target="#garde">garde</ref>.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Prenez, je vous dois recompense,</l>
+          <l n="333" xml:id="l333-mv" part="I">Monsieur.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Je ne suis pas un Marchand de Science.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="334" xml:id="l334-mv" part="I">Hé de grace.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Non non, je vous suis serviteur.</l>
+          <stage>Il s’en va.</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XIV</head>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>seul</stage>
+          <l n="335" xml:id="l335-mv">Que cét homme est habile, et qu’il est grand Docteur !</l>
+          <l n="336" xml:id="l336-mv">Ne point prendre d’argent pour des choses si bonnes !</l>
+          <l n="337" xml:id="l337-mv">Il ne ressemble<note place="bottom">Au XVII<hi rend="sup">e</hi>
+            il y a concurrence des constructions du verbe <hi rend="i">ressembler</hi> sous la forme
+            ressembler + Nom ou sous la forme ressembler à + Nom.</note> pas ces tueurs de
+            personnes,</l>
+          <l n="338" xml:id="l338-mv">Ces meschants Medecins qui par un triste sort,</l>
+          <l n="339" xml:id="l339-mv">En curant<note place="bottom">Signifie <hi rend="i">nettoyer</hi>
+            .</note> nostre bource enrichissent la mort.</l>
+          <l n="340" xml:id="l340-mv">Voyons ce qu’au logis la science a fait naistre, <pb n="29" xml:id="p29-mv"/></l>
+          <l n="341" xml:id="l341-mv" part="I">Et sachons …</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XV</head>
+        <stage>FERNAND, CRISPIN</stage>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>en habit de valet</stage>
+          <l part="F">Au plus viste, attrapons nostre Maistre,</l>
+          <l n="342" xml:id="l342-mv">Réjoüissance…ô Dieux ! C’est Fernand que je croy !</l>
+          <l n="343" xml:id="l343-mv" part="I">C’est luy-mesme !</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Est-ce pas mon Docteur que je voy ?</l>
+          <l n="344" xml:id="l344-mv">C’est lui-mesme, c’est lui : Votre mine est pleureuse,</l>
+          <l n="345" xml:id="l345-mv" part="I">Qu’estes-vous ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Moy Monsieur ? un pauvre homme qui gueuse<note place="bottom">« Mandier,
+            demander l’aumosne. […] On le dit aussi d’un homme necessiteux, quoy qu’il ne <hi rend="i">gueuse</hi> pas en effet. » (Furetière).</note>.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="346" xml:id="l346-mv" part="I">Quoy, tu<note place="bottom">Changement de personne,
+            Fernand passe de la deuxième personne du pluriel à la deuxième personne du singulier
+            lorsqu’il apprend la condition de Crispin qui, n’étant pas en habit de médecin et
+            prétandant gueuser, lui est inférieur. A partir de ce vers, Fernand tutoie le prétendu
+            frère de Crispin médecin ; le cas de figure se retrouve aux vers : 348, 351, v. 354, v.
+            355, v. 362, v. 364, v. 399, v. 401, v. 404, v. 414, v. 416.</note> gueuses ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Monsieur, mes malheurs sont si grands…</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="347" xml:id="l347-mv">Mais dedans cette ville as-tu point de parens ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="348" xml:id="l348-mv"> Ah ! Monsieur des parens on n’a guere de grace,</l>
+          <l n="349" xml:id="l349-mv">Je suis frere à mon frere, et c’est luy qui me chasse.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="350" xml:id="l350-mv">Il faut donc que sans doute il en ait le sujet ;<pb n="30" xml:id="p30-mv"/></l>
+          <l n="351" xml:id="l351-mv" part="I">Qu’as-tu fait ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Respandu la moitié d’un Julet<note place="bottom">« Terme de Pharmacie. Le
+            peuple dit <hi rend="i">Jullet</hi>. C'est une potion douce et agreable qu’on donne aux
+            malades, composée d’eaux distillées ou de legeres decoctions, qu’on cuit avec une once
+            de sucre sur 7 ou 8 onces de liqueur, ou de sucs clarifiez. » (Furetière).</note>.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="352" xml:id="l352-mv" part="I">Il est donc Medecin ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">Ouy, Monsieur.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Il me semble</l>
+          <l n="353" xml:id="l353-mv">Que ce frere en colere à peu prés te ressemble.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="354" xml:id="l354-mv" part="I">Ouy, Monsieur.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Penses-tu qu’on le puisse appaiser ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="355" xml:id="l355-mv" part="I">Non, Monsieur.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Si tu veux je luy vais proposer… </l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="356" xml:id="l356-mv">Il ne <ref target="#souffrir-mv">souffrira</ref> pas que
+            jamais je le voye,</l>
+          <l n="357" xml:id="l357-mv" part="I">Monsieur.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Si je m’en mesle, il aura de la joye ;</l>
+          <l n="358" xml:id="l358-mv">Je le viens de quitter, il est fort mon amy.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="359" xml:id="l359-mv">S’il est vray je ne sens ma douleur qu’à demy,</l>
+          <l n="360" xml:id="l360-mv">Car Monsieur, je vois bien que vous estes brave homme,</l>
+          <l n="361" xml:id="l361-mv">Vous aurez de la peine à <ref target="#souffrir-mv">souffrir</ref>
+            qu’il m’assomme. <pb n="31" xml:id="p31-mv"/></l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="362" xml:id="l362-mv">Attends-moy, de ce pas je m’en vais le chercher.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="363" xml:id="l363-mv">Moy, Monsieur ? Point du tout, je m’en vais me cacher.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="364" xml:id="l364-mv" part="I">Mais il faut te monstrer.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Ah ! Monsieur, je ne l’ose,</l>
+          <l n="365" xml:id="l365-mv">Sans savoir si vos soins auront fait quelque chose :</l>
+          <l n="366" xml:id="l366-mv">Je m’en vais s’il vous plaist vous attendre à l’escart.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XVI</head>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>seul.</stage>
+          <l n="367" xml:id="l367-mv">Ce garçon mal-heureux est venu sur le tard ;</l>
+          <l n="368" xml:id="l368-mv">Deux minutes plustost je l’accordois<note place="bottom">« Mettre
+            la paix, l’union entre deux personnes. » (Furetière).</note> sur l’heure ;</l>
+          <l n="369" xml:id="l369-mv">Foin de moy<note place="bottom">« Terme de repentir et
+            d’indignation, qu’on dit, lors qu’on a fait quelque chose qui desplaist, contre celuy
+            qu’on accuse d’en estre cause. <hi rend="i">Foin</hi> de moy. <hi rend="i">foin</hi> de
+            vous. <hi rend="i">foin</hi> de vostre conseil. » (Furetière)</note>; je ne sais où son
+            frere demeure :</l>
+          <l n="370" xml:id="l370-mv" part="I">Mais tousjours je l’attends sur le soir…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XVII</head>
+        <stage>CRISPIN, FERNAND</stage>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>en soutane.</stage>
+          <l part="F">Ah <ref target="#maraud">Maraut</ref> !<pb n="32" xml:id="p32-mv"/></l>
+          <l n="371" xml:id="l371-mv" part="I">Je vous jure…</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Ah ! Monsieur, vous venez comme il faut<note place="bottom">Venir à propos.</note>
+             : </l>
+          <l n="372" xml:id="l372-mv">Vous pouvez en ce lieu m’accorder une grace.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="373" xml:id="l373-mv">Moi, Monsieur ? Il n’est rien que pour vous je ne fasse,</l>
+          <l n="374" xml:id="l374-mv" part="I">Commandez.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Vostre frere, il a tant de douleur,</l>
+          <l n="375" xml:id="l375-mv" part="I">Que j’ay droict d’esperer…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">C’est un <ref target="#coquin">Coquin</ref>, Monsieur.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="376" xml:id="l376-mv">Il a tort, je l’avouë, il se nomme coupable ;</l>
+          <l n="377" xml:id="l377-mv">Mais, Monsieur, une faute est tousjours pardonnable</l>
+          <l n="378" xml:id="l378-mv">Desormais il en jure, il veut estre meilleur,</l>
+          <l n="379" xml:id="l379-mv" part="I">Vous aymer, vous servir.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">C’est un fripon, Monsieur.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="380" xml:id="l380-mv">Ne vous puis-je resoudre à la misericorde ?<pb n="33" xml:id="p33-mv"/></l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="381" xml:id="l381-mv">C’est un Pendart<note place="bottom">« Qui a commis des
+            actions qui meritent la corde, la potence. » (Furetière).</note>, Monsieur, qui merite
+            la corde.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="382" xml:id="l382-mv">C’est manquer de parole aux plus rares Amis.</l>
+          <l n="383" xml:id="l383-mv">S’il vous en ressouvient vous m’avez tout promis,</l>
+          <l n="384" xml:id="l384-mv">Monsieur, ce n’estoit donc qu’une pure grimace<note place="bottom">Feinte, moquerie.</note> ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="385" xml:id="l385-mv">Il est vray, ma parole en effet m’embarrasse,</l>
+          <l n="386" xml:id="l386-mv">C’en est fait, je pardonne à ce traistre, il vous plaist.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="387" xml:id="l387-mv">Il ne tiendra qu’à vous de le voir comme il est.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="388" xml:id="l388-mv">Moy, Monsieur, Moy le voir en presence du monde !</l>
+          <l n="389" xml:id="l389-mv">Quand je vois ce <ref target="#coquin">Coquin</ref> mon
+            courroux se debonde<note place="bottom">« Avec le pronom personnel, il se dit en parlant
+            des eaux qui s’espandent avec violence par les ouvertures qu’elles trouvent. […] Se dit
+            figurément en choses morales. » (Furetière).</note>,</l>
+          <l n="390" xml:id="l390-mv" part="I">Je ne puis.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Hé, Monsieur, il ne faut qu’un instant…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="391" xml:id="l391-mv">Je ne le puis, vous dis-je, un malade m’attend :</l>
+          <l n="392" xml:id="l392-mv">Mais touchant ce <ref target="#maraud">Maraut</ref> je
+            consens qu’il revienne.</l>
+          <l n="393" xml:id="l393-mv" part="I">Serviteur.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XVIII</head>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>seul.</stage>
+          <l part="F">Quelque effect qui jamais en avienne</l>
+          <l n="394" xml:id="l394-mv">A ce pauvre garçon qui frissonne d’effroy, <pb n="34" xml:id="p34-mv"/></l>
+          <l n="395" xml:id="l395-mv">Je veux faire accorder le pardon devant moy :</l>
+          <l n="396" xml:id="l396-mv">Que son frere est honneste, il s’en vient de l’absoudre,</l>
+          <l n="397" xml:id="l397-mv" part="I">Et j’ose…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XIX</head>
+        <stage>CRISPIN, FERNAND</stage>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>en pleurant, et en habit de valet.</stage>
+          <l part="F">Hé bien, Monsieur, a-t-il pû s’y resoudre ?</l>
+          <l n="398" xml:id="l398-mv">Dois-je devant ses yeux ne paroistre jamais ?</l>
+          <l n="399" xml:id="l399-mv" part="I">Dois-je …</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Ne pleure point, j’ay seu faire ta paix.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="400" xml:id="l400-mv">Vous croiray-je, Monsieur, n’est-ce point moquerie ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="401" xml:id="l401-mv" part="I">Quoy, tu peux …</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Ah ! Monsieur, je connois sa furie,</l>
+          <l n="402" xml:id="l402-mv">Il a bien de la peine à pouvoir pardonner.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="403" xml:id="l403-mv">Aussi ne veux-je pas te laisser retourner ;</l>
+          <l n="404" xml:id="l404-mv">Je veux qu’il te pardonne en ma propre presence</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="405" xml:id="l405-mv">Du pardon de ma faute avez-vous l’asseurance, <pb n="35" xml:id="p35-mv"/></l>
+          <l n="406" xml:id="l406-mv" part="I">Monsieur ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="M">Ouy.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">C’est assez que mon frere ait parlé,</l>
+          <l n="407" xml:id="l407-mv">De vos soins obligeans je serois querellé,</l>
+          <l n="408" xml:id="l408-mv">Monsieur, votre bonté pourroit mal me remettre<note place="bottom">Comprendre au sens propre de « mettre à nouveau ».</note>.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="409" xml:id="l409-mv">Mais il peut oublier ce qu’il vient de promettre,</l>
+          <l n="410" xml:id="l410-mv" part="I">Puis apres…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Point, Monsieur, je le vois fort exact,</l>
+          <l n="411" xml:id="l411-mv">Quand on a sa parole, elle vaut un contract ;</l>
+          <l n="412" xml:id="l412-mv">Desormais de sa part je ne crains nul outrage,</l>
+          <l n="413" xml:id="l413-mv" part="I">Monsieur.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="M">J’ay resolu d’achever.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>bas.</stage>
+          <l part="F">J’en enrage.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="414" xml:id="l414-mv" part="I">Entre sur ce derriere.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Hé, Monsieur, où le voir</l>
+          <l n="415" xml:id="l415-mv" part="I">A cette heure ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">En tous cas, il viendra sur le soir,</l>
+          <l n="416" xml:id="l416-mv" part="I">Entre, dis-je.</l>
+          <stage>Il entre, et Fernand ferme la porte à clef.</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XX</head>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>seul.</stage>
+          <l part="F">En ceci ma charité se monstre ;<pb n="36" xml:id="p36-mv"/></l>
+          <l n="417" xml:id="l417-mv">Mais de notre Docteur recherchons la rencontre,</l>
+          <l n="418" xml:id="l418-mv">Il faut battre le fer cependant qu’il est chaud.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XXI</head>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>à la fenestre.</stage>
+          <l n="419" xml:id="l419-mv">Me voilà, grace à Dieu, raisonnablement haut.</l>
+          <l n="420" xml:id="l420-mv">Trop obligeant Grison<note place="bottom">« Celuy dont les
+            cheveux commencent à blanchir. » (Furetière).</note> ta douceur m’assassine,</l>
+          <l n="421" xml:id="l421-mv">Maudit Moi, maudit Maistre, et maudite Doctrine,</l>
+          <l n="422" xml:id="l422-mv">Et maudite Lucresse, et maudits six Loüis,</l>
+          <l n="423" xml:id="l423-mv">Par qui mes yeux tentez se sont veus ébloüis ;</l>
+          <l n="424" xml:id="l424-mv">Maudit …quoy ? je commence à connoistre ma faute :</l>
+          <l n="425" xml:id="l425-mv">Teste-bleu ! d’icy là<note place="bottom">Crispin cherche à
+            sauter la la fenêtre, « d’ici jusque là ».</note>, le moyen que je saute ?</l>
+          <l n="426" xml:id="l426-mv" part="I">Il le faut toutesfois, Taupe à tout<note place="bottom">« Tauper à une chose, l’aprouver, y consentir. » (Richelet).</note>.</l>
+          <stage>Il saute de la fenestre en bas.</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XXII</head>
+        <sp who="philipin">
+          <speaker>PHILIPIN </speaker><stage>qui sort.</stage>
+          <l part="F">A Present<pb n="p. 37 ; D" xml:id="p37-mv"/></l>
+          <l n="427" xml:id="l427-mv">Je viens dire…ma foy, ce sauteur est plaisant :</l>
+          <l n="428" xml:id="l428-mv">Mais il sort de chez nous, il n’a rien que je sache,</l>
+          <l n="429" xml:id="l429-mv">Il faut pour l’épier qu’un moment je me cache.</l>
+          <l n="430" xml:id="l430-mv">Mais j’entends que l’on parle, attrapons quelque coin<note place="bottom">Signifie <hi rend="i">se cacher</hi>.</note>.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XXIII</head>
+        <stage>CRISPIN, FERNAND, ET PHILIPIN au bout du Theatre<note place="bottom">Désigne la
+          scène.</note></stage>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>en soutane dit à Fernand.</stage>
+          <l n="431" xml:id="l431-mv">Pour un gueux comme luy vous prenez trop de soin ;</l>
+          <l n="432" xml:id="l432-mv">Il mériteroit bien qu’on punist son audace,</l>
+          <l n="433" xml:id="l433-mv" part="I">Le Vaurien.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">C’est là haut qu’il attend vostre grace ;</l>
+          <l n="434" xml:id="l434-mv">Moi je vous la demande, à la charge d’autant<note place="bottom">À condition.</note></l>
+          <l n="435" xml:id="l435-mv" part="I">Si jamais…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">En quel lieu dites-vous qu’il m’attend<pb n="38" xml:id="p38-mv"/></l>
+          <l n="436" xml:id="l436-mv" part="I">Le <ref target="#coquin">Coquin</ref>.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Voyez-vous cette grande fenestre ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="437" xml:id="l437-mv">Il m’entend, le bourreau ; mais il n’ose paraistre,</l>
+          <l n="438" xml:id="l438-mv">De m’avoir offencé l’insolent est confus :</l>
+          <l n="439" xml:id="l439-mv">Je n’ay pas le pouvoir de vous faire un refus,</l>
+          <l n="440" xml:id="l440-mv" part="I">Ouvrez, j’entre.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Avec vous, faut-il pas que je monte ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="441" xml:id="l441-mv">Pour le bien chastier faisons-luy cette honte,</l>
+          <l n="442" xml:id="l442-mv">Montez ; ouy, montez…Non, épargnons ce <ref target="#maraud">
+            Maraut</ref> ;</l>
+          <l n="443" xml:id="l443-mv">Escoutez seulement je luy parleray haut,</l>
+          <l n="444" xml:id="l444-mv" part="I">C’est assez.</l>
+          <stage>CRISPIN entre seul.</stage>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Je le veux ; Refermons cette porte,</l>
+          <l n="445" xml:id="l445-mv" part="I">Et voyons…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XXIV</head>
+        <stage>PHILIPIN, FERNAND, ET CRISPIN dans la maison.</stage>
+        <sp who="philipin">
+          <speaker>PHILIPIN </speaker><stage> à Fernand.</stage>
+          <l part="F">Quoy, Monsieur, vous craignez qu’il ne sorte ? <pb n="39" xml:id="p39-mv"/></l>
+          <l n="446" xml:id="l446-mv">Malepeste le Drille<note place="bottom">« Meschant soldat. Il
+            ne se dit que par mépris et par raillerie. » (Furetière).</note>, il sait bien d’autres
+            tours</l>
+          <l n="447" xml:id="l447-mv" part="I">Le Manœuvre<note place="bottom"><space/>« Homme de
+            peine qu’on prend à la journée dans les ateliers pour servir les Maçons, et faire autres
+            fonctions qui n’ont besoin d’aucun art ou apprentissage. […] On appelle proverbialement
+            et ironiquement un homme fin et adroit, un <hi rend="i">rusé manœuvre</hi>. »
+            (Furetière).</note> !</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Pourquoy me tiens-tu ce discours ?</l>
+          <l n="448" xml:id="l448-mv">Ou respecte cét homme, ou redoute ma cane.</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l n="449" xml:id="l449-mv">Quand on est Baladin<note place="bottom">« Danseur de théâtre,
+            bouffon » (Godefroy).</note>, porte-t’on la soutane </l>
+          <l n="450" xml:id="l450-mv" part="I">A propos ? dites donc : Vous riez.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Si je ry<note place="bottom">Fernand se moque de la suggestion de Philipin
+            quant à la supercherie de Crispin. Ce rire de Fernand est comique dans la mesure où le
+            spectateur sait que Philipin a raison et que Fernand se trompe et est abusé par Crispin.
+            L’ironie dramatique apparaît clairement ici.</note></l>
+          <l n="451" xml:id="l451-mv" part="I">Sot.</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l part="F">Vostre ensoutané saute mieux qu’un cabry,</l>
+          <l n="452" xml:id="l452-mv">Je le say, mais chez vous que peut-il aller faire ?</l>
+          <l n="453" xml:id="l453-mv" part="I">Respondez, s’il vous plaist ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Pardonner à son frère ;</l>
+          <l n="454" xml:id="l454-mv">Il estoit en courroux pour certain accidens…</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l n="455" xml:id="l455-mv">A ce compte, son frère est aussi là dedans ? <pb n="40" xml:id="p40-mv"/></l>
+          <l n="456" xml:id="l456-mv" part="I">Est-ce pas ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>à la fenestre</stage>
+          <l part="M">Ah fripon friponnant…</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>à Philipin.</stage>
+          <l part="F">Tien, écoute.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>continuant.</stage>
+          <l n="457" xml:id="l457-mv">Voyez ce qu’aujourd’huy vostre faute me coûte,</l>
+          <l n="458" xml:id="l458-mv">J’aurois eu le plaisir de jamais ne vous voir,</l>
+          <l n="459" xml:id="l459-mv">Si Monsieur dessus moy n’avoit pas tout pouvoir,</l>
+          <l n="460" xml:id="l460-mv">Mais je l’honore plus que personne du monde.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>à Philipin.</stage>
+          <l n="461" xml:id="l461-mv" part="I">Tu vois bien.</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l part="F">Pour le moins que son frere responde,</l>
+          <l n="462" xml:id="l462-mv" part="I">Il le doit.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Vostre frere à son tour ne dit mot,</l>
+          <l n="463" xml:id="l463-mv" part="I">Qu’il parle.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Entendez-vous, beau pleureur, maistre sot<note place="bottom">« On joint
+            quelquefois par exagération le mot de <hi rend="i">Maître</hi>, à certains termes
+            d’injure. » (Dictionnaire de l’Académie française, 1762).</note> ?</l>
+          <l n="464" xml:id="l464-mv">Si ma juste colere est si tost adoucie…</l>
+          <stage>Déguisant sa voix, et pleurant.</stage>
+          <l n="465" xml:id="l465-mv"><hi rend="i">Monsieur je vous rends grace, et je vous remercie</hi>
+            , </l>
+          <l n="466" xml:id="l466-mv"><hi rend="i">Je n’ay pas à dessein respondu…</hi>Taisez-vous.</l>
+          <l n="467" xml:id="l467-mv"><hi rend="i">Si jamais…</hi>Pay, vous dis-je, et craignez
+            mille coups.</l>
+          <l n="468" xml:id="l468-mv"><hi rend="i">Je puis…</hi>Taisez-vous donc. <hi rend="i">Mais
+            mon cher frere…</hi> Encore ?</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l n="469" xml:id="l469-mv">Comment diable fait-il, le fusté ? je l’ignore. <pb n="41" xml:id="p41-mv"/></l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="470" xml:id="l470-mv" part="I">Ils sont deux.</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l part="F">Il le semble ; il n’en est pourtant rien,</l>
+          <l n="471" xml:id="l471-mv">Mais de bien le savoir je découvre un moyen,</l>
+          <l n="472" xml:id="l472-mv">Dites que devant vous il embrasse son frere.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="473" xml:id="l473-mv">N’estoit Monsieur Fernand que je veux satisfaire</l>
+          <l n="474" xml:id="l474-mv" part="I">Pecore<note place="bottom">« Terme injurieux, qui
+            signifie, Une personne stupide » (Dictionnaire de l’Académie française, 1694).</note>…</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Il auroit tort de vous plus offenser.</l>
+          <l n="475" xml:id="l475-mv">Mais, Monsieur, pour me plaire il le faut embrasser,</l>
+          <l n="476" xml:id="l476-mv" part="I">Et tousjours…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">L’embrasser !</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l part="F">Que cela l’embarrasse,</l>
+          <l n="477" xml:id="l477-mv" part="I">Voyez.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F"> De vostre part je pretens cette grace.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l n="478" xml:id="l478-mv">Il seroit trop honteux si ce bien peu commun…</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l n="479" xml:id="l479-mv">Je vous jure, ma foy, qu’ils ne sont ma foy qu’un ;</l>
+          <l n="480" xml:id="l480-mv">Le Mâdré<note place="bottom">« Fin, adroit, qui trompe
+            facilement, et qui ne se laisse point tromper. » (Furetière).</note> ! gardez-vous des
+            finesses qu’il brasse.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>à haute voix.</stage>
+          <l n="481" xml:id="l481-mv">Seras-tu trop honteux si ton frere t’embrasse,</l>
+          <l n="482" xml:id="l482-mv" part="I">L’enfermé ?</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F"><hi rend="i">C’est à luy</hi>…Pay, Monsieur le Badaut<note place="bottom">« Niais
+            qui s’amuse à tout, et admire tout » (Dictionnaire de l’Académie française, 1694).</note>
+            ,<pb n="42" xml:id="p42-mv"/></l>
+          <l n="483" xml:id="l483-mv">Pay fripon, pay belistre, et venez icy haut :</l>
+          <stage>Crispin met son chapeau sur son coude, et puis l’embrasse si adroitement, qu’il
+            semble que ce fut une autre personne.</stage>
+          <l n="484" xml:id="l484-mv">C’est moins par amitié que ce n’est par contrainte,</l>
+          <l n="485" xml:id="l485-mv" part="I">Venez, dis-je.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>à Philipin.</stage>
+          <l part="F">Tu vois, ce n’est pas une feinte.</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l n="486" xml:id="l486-mv">Je n’y vois ma foy goutte, et ne say ce que c’est.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>à Fernand.</stage>
+          <l n="487" xml:id="l487-mv" part="I">A present…</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">A present descendez s’il vous plaist,</l>
+          <l n="488" xml:id="l488-mv" part="I">Je vous ouvre.</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l part="F">Epions ; car ou bien je suis yvre,</l>
+          <l n="489" xml:id="l489-mv" part="I">Ou bien…</l>
+          <stage>Il sort, et met bas la soutane, puis comme Fernand est entré croyant faire sortir
+            un autre frere, Crispin prend l’occasion, et monte fort diligemment par la fenestre, et
+            ensuite sort avec Fernand comme si en effect il estoit frere du Medecin.</stage>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>descendu.</stage>
+          <l part="F">J’ay fait défense au <ref target="#coquin">Coquin</ref> de me suivre,</l>
+          <l n="490" xml:id="l490-mv">J’en aurois de la honte, il viendra par apres,</l>
+          <l n="491" xml:id="l491-mv" part="I">Adieu.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Je suis ravy d’avoir fait cette paix :<pb n="43" xml:id="p43-mv"/></l>
+          <l n="492" xml:id="l492-mv" part="I">Mais faisons sortir l’autre.</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN </speaker><stage>ramassant la soutane de Crispin</stage>
+          <l part="F"> Ah, je tiens votre guesne<note place="bottom">Une <hi rend="i">guesne</hi>
+            est l’« Estuy d’un couteau » (Furetière), Philipin désigne la soutane de Crispin comme
+            son « étui », son déguisement qui servait à le masquer et à le protéger.</note>,</l>
+          <l n="493" xml:id="l493-mv" part="I">Doctissime.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>en habit de valet.</stage>
+          <l part="M">Est-il loin ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="M">Assez loin.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN </speaker><stage>pleurant</stage>
+          <l part="F">Que de peine,</l>
+          <l n="494" xml:id="l494-mv" part="I">Monsieur !</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND </speaker><stage>à Philipin</stage>
+          <l part="M">Hé bien ?</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l part="M">Hé bien, sont-ils deux ?</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Ah vrayment …</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN </speaker><stage>montrant Crispin et sa soutane.</stage>
+          <l n="495" xml:id="l495-mv" part="I">Voila l’un, voila l’autre.</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="M">Ah ! grands Dieux !</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Quoy ? comment ?</l>
+          <l n="496" xml:id="l496-mv" part="I">Que dis-tu ?</l>
+        </sp>
+        <sp who="philipin">
+          <speaker>PHILIPIN</speaker>
+          <l part="F">Qu’à merveille il grimpe une fenestre<note place="bottom">« De nombreux verbes
+            acceptent une construction à complément direct et une construction intransitive à
+            complément indirect » <hi rend="i">Grammaire du français classique</hi>, N. Fournier, p.
+            58.</note>.</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l n="497" xml:id="l497-mv" part="I">Ah perfide… <pb n="44" xml:id="p44-mv"/></l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Ah ! Monsieur, sachez tout de mon Maistre,</l>
+          <l n="498" xml:id="l498-mv" part="I">Le voicy.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XXV et derniere.</head>
+        <stage>FERNAND, CLEON, LUCRESSE, CRISPIN, PHILIPIN, LISE</stage>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">C’est Cleon ! c’est ma fille ! Ah rusé</l>
+          <l n="499" xml:id="l499-mv">Ce Cleon l’a seduite, et tu m’as amusé<note place="bottom">« Repaistre
+            les gens de vaines esperances » (Furetière).</note></l>
+          <l n="500" xml:id="l500-mv" part="I">Medecin de mal-heur.</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="M">Quoy, Monsieur…</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Je le jure</l>
+          <l n="501" xml:id="l501-mv">Que tu l’espouseras, ou je te défigure.</l>
+        </sp>
+        <sp who="lucresse">
+          <speaker>LUCRESSE</speaker>
+          <l n="502" xml:id="l502-mv" part="I">Daignez…</l>
+        </sp>
+        <sp who="fernand">
+          <speaker>FERNAND</speaker>
+          <l part="F">Point de quartier, il sera ton Epoux,</l>
+          <l n="503" xml:id="l503-mv" part="I">Ou du moins…</l>
+        </sp>
+        <sp who="cleon">
+          <speaker>CLEON</speaker>
+          <l part="F">Cet Hymen a des charmes si doux,<pb n="45" xml:id="p45-mv"/></l>
+          <l n="504" xml:id="l504-mv" part="I">Monsieur…</l>
+        </sp>
+        <sp who="crispin">
+          <speaker>CRISPIN</speaker>
+          <l part="F">Sans affecter compliment, ny surprise,</l>
+          <l n="505" xml:id="l505-mv">Vous le fait de Lucresse, et moy le fait de Lise<note place="bottom"><hi rend="i">Fait</hi> « se dit aussi d’une part de quelque chose qu’on
+            a partagée ensemble. » (Furetière).</note>,</l>
+          <l n="506" xml:id="l506-mv">Confondant tout ensemble et nos biens et les leurs,</l>
+          <l n="507" xml:id="l507-mv">Faisons des Medecins ou Volans, ou Voleurs.</l>
+          <trailer rend="center">FIN</trailer>
+        </sp>
+      </div>
+    </body>
+    <back>
+      <div>
+        <head>Lexique du Médecin volant</head>
+        <entryFree xml:id="abuser">
+          <form>Abuser </form>
+          <def>Tromper.</def>
+          <xr>V. <ref target="#l40-mv">40</ref>, v. <ref target="#l41-mv">41</ref></xr>
+        </entryFree>
+        <entryFree xml:id="amant-mv">
+          <form>Amant </form>
+          <def>« Celuy qui aime d’une passion violente et amoureuse. » (Furetière).</def>
+          <xr><ref target="#acteurs-mv">Acteurs</ref>, v. <ref target="#l14-mv">14</ref></xr>
+        </entryFree>
+        <entryFree xml:id="coquin">
+          <form>Coquin</form>
+          <def>« Un poltron, un homme qui fait quelque action lasche, ou infame. » (Furetière).</def>
+          <xr>V. <ref target="#l375-mv">375</ref>, v. <ref target="#l389-mv">389</ref>, v. <ref target="#l436-mv">436</ref>, v. <ref target="#l489-mv">489</ref></xr>
+        </entryFree>
+        <entryFree xml:id="garde">
+          <form>Garde</form>
+          <def>« <hi rend="i">N’avoir garde</hi>, pour dire, N’avoir pas la volonté, ou le pouvoir
+            de faire une chose, en estre bien esloigné. » (Dictionnaire de l’Académie française,
+            1694).</def>
+          <xr>V. <ref target="#l262-mv">262</ref>, v. <ref target="#l332-mv">332</ref></xr>
+        </entryFree>
+        <entryFree>
+          <form>Maistresse </form>
+          <def xml:id="maitresse1-mv">« On le dit particulierement d’une fille qu’on recherche en
+            mariage. » (Furetière).</def>
+          <xr><ref target="#acteurs-mv">Acteurs</ref>, v. <ref target="#l13-mv">13</ref></xr>
+          <def xml:id="maitresse2-mv">Dans le sens courant de maitre.</def>
+          <xr>V. <ref target="#l182-mv">182</ref>, v. <ref target="#l187-mv">187</ref></xr>
+        </entryFree>
+        <entryFree xml:id="maraud">
+          <form>Maraud </form>
+          <def>« Terme injurieux qui se dit des gueux, des coquins qui n’ont ni bien ni honneur, qui
+            sont capables de faire toutes sortes de laschetez. » (Furetière).</def>
+          <xr>V. <ref target="#l370-mv">370</ref>, v. <ref target="#l392-mv">392</ref>, v. <ref target="#l442-mv">442</ref></xr>
+        </entryFree>
+        <entryFree xml:id="souffrir-mv">
+          <form>Souffrir </form>
+          <def>Permettre.</def>
+          <xr><ref target="#dedicace-mv">Dédicace</ref>, v. <ref target="#l356-mv">356</ref>, v. <ref target="#l361-mv">361</ref></xr>
+        </entryFree>
+        <entryFree xml:id="tendresse">
+          <form>Tendresse </form>
+          <def>« Sensibilité du cœur et de l’ame. La delicatesse du siecle a renfermé ce mot dans
+            l’amour et dans l’amitié. » (Furetière).</def>
+          <xr>V. <ref target="#l2-mv">2</ref>, v. <ref target="#l209-mv">209</ref></xr>
+        </entryFree>
+      </div>
+    </back>
+  </text>
+</TEI>

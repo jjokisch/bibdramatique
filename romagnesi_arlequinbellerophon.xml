@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -26,11 +26,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/dominique-romagnesi_bellerophon-parodie/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/dominique-romagnesi_bellerophon-parodie.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/dominique-romagnesi_bellerophon-parodie.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/dominique-romagnesi_bellerophon-parodie.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/dominique-romagnesi_bellerophon-parodie.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/dominique-romagnesi_bellerophon-parodie/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/dominique-romagnesi_bellerophon-parodie.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/dominique-romagnesi_bellerophon-parodie.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/dominique-romagnesi_bellerophon-parodie.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/dominique-romagnesi_bellerophon-parodie.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Dominique</author><author>Romagnesi</author>. <title>Arlequin, Bellerophon. Parodie</title>. le 7 May 1728.</bibl>
@@ -344,7 +344,7 @@
             <p>Arrête, cruel.</p>
           </sp>
           <sp xml:id="I03-10" who="bellerophon">
-            <speaker>Bellérophon <hi rend="i">en s’en allant.</hi></speaker>
+            <speaker>Bellérophon </speaker><stage>en s’en allant.</stage>
             <p>Air 269.</p>
             <p>Vous y perdez vos pas, Nicolas.</p>
           </sp>
@@ -352,7 +352,7 @@
         <div type="scene" xml:id="I04">
           <head>SCENE IV</head>
           <sp xml:id="I04-1" who="stenobee">
-            <speaker>Stenobée <hi rend="i">seule</hi></speaker>
+            <speaker>Stenobée </speaker><stage>seule</stage>
             <p>Air 29. <hi rend="i">Je ne suis né ni Roi ni Reine.</hi></p>
             <l n="61" xml:id="l61">Tu me quittes, barbare ? arrête !</l>
             <l n="62" xml:id="l62">Mais par ma foi je suis bien bête</l>
@@ -684,7 +684,7 @@
             <l n="192" xml:id="l192">Du serpent Python.</l>
           </sp>
           <sp xml:id="I11-2" who="le-sacrificateur">
-            <speaker>Le Sacrificateur <hi rend="i">devant un petit Autel où l’on allume le Feu Sacré.</hi></speaker>
+            <speaker>Le Sacrificateur </speaker><stage>devant un petit Autel où l’on allume le Feu Sacré.</stage>
             <p>Air 19. <hi rend="i">Quand on a prononcé ce malheureux oüi.</hi></p>
             <l n="193" xml:id="l193">Reçois, grand Apollon, reçois ce Sacrifice,</l>
             <l n="194" xml:id="l194">Fais qu’à nos justes vœux le destin soit propice.</l>
@@ -706,7 +706,7 @@
             <l n="196" xml:id="l196">Faire cesser notre tristesse.</l>
           </sp>
           <sp xml:id="I11-6" who="bellerophon">
-            <speaker>Bellérophon <hi rend="i">à part</hi></speaker>
+            <speaker>Bellérophon </speaker><stage>à part</stage>
             <l n="197" xml:id="l197">Hélas si nous l’avions bû</l>
             <l n="198" xml:id="l198">Nous serions tous dans l’allegresse !</l>
           </sp>
@@ -750,7 +750,7 @@
             <p>Grand Apollon nous n’attendons plus que votre réponse.</p>
           </sp>
           <sp xml:id="I11-14" who="pythie">
-            <speaker>La Pythie <hi rend="i">paroit</hi></speaker>
+            <speaker>La Pythie </speaker><stage>paroit</stage>
             <p>Air 15. <hi rend="i">Pierre Bagnolet.</hi></p>
             <l n="209" xml:id="l209">Je n’étois pas fort nécessaire</l>
             <l n="210" xml:id="l210">Pour vous annoncer Apollon,</l>
@@ -849,7 +849,7 @@
         <div type="scene" xml:id="I12">
           <head>SCENE XII</head>
           <sp xml:id="I12-1" who="voix-derriere-theatre">
-            <speaker>Les voix <hi rend="i">crient derriere le Théatre</hi></speaker>
+            <speaker>Les voix </speaker><stage>crient derriere le Théatre</stage>
             <p>Garre le Monstre, fuyons, fuyons.</p>
           </sp>
           <sp xml:id="I12-2" who="petite-fille">
@@ -867,7 +867,7 @@
         <div type="scene" xml:id="I13">
           <head>SCENE XIII</head>
           <sp xml:id="I13-1" who="bellerophon">
-            <speaker>Bellérophon <hi rend="i">en fuyant</hi></speaker>
+            <speaker>Bellérophon </speaker><stage>en fuyant</stage>
             <p>Ah ! nous sommes perdus ! le Monstre s’avance, quelle fumée, s’il me rencontre je suis gobé… mais cependant laisserai-je périr la Princesse ? cela ne seroit pas honnête… Allons Bellerophon <hi rend="i">animo</hi>, courage… courage ? c’est bien dit, mais tout franc, je n’en ai guere… il faut pourtant faire comme si j’en avois, car c’est ici le plus interessant de la piece : après tout, sans ma petite Fanchon que m’importe de vivre ?</p>
             <p>Air 15. <hi rend="i">Pierre Bagnolet.</hi></p>
             <l n="252" xml:id="l252">O mort, dans mon malheur extrême</l>
@@ -1107,7 +1107,7 @@
             <l n="336" xml:id="l336">Vaincre un Monstre, &amp; prendre femme,</l>
             <l n="337" xml:id="l337">Palsambleu mon petit cœur, mon amour ;</l>
             <l n="338" xml:id="l338">Ce seroit trop pour un jour.</l>
-            <p>FIN</p>
+            <trailer>FIN</trailer>
           </sp>
         </div>
       </div>

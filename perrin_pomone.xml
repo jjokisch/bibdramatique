@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,19 +23,19 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/perrin_pomone/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/perrin_pomone.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/perrin_pomone.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/perrin_pomone.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/perrin_pomone.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/perrin_pomone/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/perrin_pomone.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/perrin_pomone.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/perrin_pomone.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/perrin_pomone.epub</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl></bibl>
+        <bibl/>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1671"></date>
+        <date when="1671"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -503,7 +502,7 @@
               <p>La préoccupation générale était la recherche d’un « génie de la langue française », d’une rythmique, d’une musique propre au français et de sa possible application musicale – l’enjeu étant bien sûr de se rapprocher du modèle poétique lyrique grec.  On peut citer un des ouvrages les plus importants, celui du Père Bouhours, les <hi rend="i">Entretiens d’Ariste et d’Eugène</hi> (1671) : il y évoque une « douceur phonétique » du français face à l’italien, jugé trop chanté ; dès le XVI<hi rend="sup">e</hi> siècle, les phonéticiens ont décrit sous divers noms cette « douceur », la rattachant en grande part au phénomène du « e » caduc, qualifié de « féminin », que n’ont pas l’italien ni l’espagnol. En 1675 éclatait la « Querelle des Inscriptions ». L’enjeu était de décider quelle langue, du français ou du latin, servirait aux inscriptions officielles du royaume. François Charpentier défendit la cause du français, en  mettant en avant, à partir <hi rend="i">des Avantages de la langue française sur la langue latine</hi> de Louis Le Laboureur, une <hi rend="i">douceur</hi> spécifique de la langue française que lui confèrent  ses voyelles, et son « e » féminin- le « e » caduc- compté comme une voyelle à part.  Au contraire,  les nombreux « o » et « a » de la langue italienne rendent la rime beaucoup plus facile et lui donnent une sorte d’égalité sonore. La musique propre au français semble donc bien être placée dans sa liberté phonologique. Perrin mettait en valeur quant à lui sa liberté rythmique due à l’absence d’accent tonique clairement prédéfini sur les mots, ce qui permet un usage intéressant du vers libre et une certaine fluidité prosodique. En effet l’idéal de l’opéra français était une continuité entre air et récitatif, un tissage intime de la musique et de la langue.</p>
               <p>Quant aux Remarqueurs, ils étaient les tenants d’un volontarisme linguistique qui les poussa à définir un « bon usage » et un « bel usage » de la langue. Dans cette perspective, faire du français le support dramatique d’une action en musique était à la fois un défi, et une façon d’illustrer ses qualités ; ce volontarisme de définition se retrouve largement chez Perrin. Il était également au cœur de ces questions du bon et du bel usage quant à son usage du registra « bas », une des principales accusations contre sa pièce, qu’il rapporte dans son Avant-propos :</p>
               <quote>
-                <p>Que le reste n’estoient que de fausses plaisanteries, que l’on y crioit<note place="bottom">Comprendre : vendre à la criée. </note>, disoit-on, des Pommes &amp; des Artichauts, que l’on y parloit de Bourriques*, &amp; de pareils quolibets, qui ne meritoient pas une reflexion.</p>
+                <p>Que le reste n’estoient que de fausses plaisanteries, que l’on y crioit<note place="bottom">Comprendre : vendre à la criée. </note>, disoit-on, des Pommes &amp; des Artichauts, que l’on y parloit de Bourriques, &amp; de pareils quolibets, qui ne meritoient pas une reflexion.</p>
               </quote>
               <p>On peut le constater dans les paroles de musique que Perrin écrivit pour les airs et chansons, comme celles que l’on trouve dans les <hi rend="i">Œuvres de Poësie</hi> (voir notre florilège en annexe), Perrin usait largement des différents registres de langue, et introduisait volontiers un vocabulaire bas et savoureux qui donne à sa langue un caractère varié et primesautier qui pourraient apparaître contraire à l’esthétique des Remarqueurs tels que Vaugelas. La vive réaction de Marie de Gournay face à une réglementation de la langue, qui, selon elle, l’appauvrit et l’« énerve », c’est-à-dire  la dépouille de toute force, n’est pas sans faire penser à la recherche de variété langagière que professe Perrin.<note place="bottom">Marie de Gournay, femme de lettres et fille spirituelle de Montaigne, publia en 1641 <hi rend="i">l’Avis de la demoiselle de Gournay</hi> pour défendre la saveur et l’« uberté » de la langue française en cours d’épuration. Sa position est néanmoins marginale à cette période. </note> Mais il n’alla jusqu’au bout dans cette voie, qui aurait pu faire de l’opéra un lieu de survivance des formes de langage écartées par les théoriciens, comme les dialectes provinciaux, par exemple ; cela aurait pu être la ressource de comédies, mais le souci d’intelligibilité qui primait et le désir de conférer une certaine noblesse au nouveau genre en réduisaient sans aucun doute la possibilité. Le langage d’opéra semble donc au contraire évoluer vers toujours plus de convention, de pauvreté et de stéréotype ; il fallait rendre le théâtre pathétique pour l’homogénéiser avec la musique, et cela passait par un certain appauvrissement<note place="bottom">Voir IV, « Le pathétique, ou un nécessaire appauvrissement du langage ».</note>.</p>
               <p>Perrin ne se percevait sans doute pas lui-même comme un utilisateur de registres variés de langage. Au contraire, il théorisait un aplanissement de la langue en termes de clarté et d’intelligibilité, et en faisait un avantage du français sur la langue italienne, jugée trop obscure et archaïsante. Il utilise, dans la fameuse <hi rend="i">Lettre</hi> à Della Rovere,  des termes et un raisonnement analogue à ceux des Remarqueurs :</p>
@@ -759,7 +758,7 @@
               <head>Les personnages</head>
               <p>La présentation des personnages en tête du livret Ballard est instructive. Elle est divisée en trois ensembles : les « personnages », les « danseurs », et les « personnages muets ». Dans les personnages, sont cités les « personnages véritables », chacun avec une brève qualification, puis les « personnages feints, et transformez », qui peuvent être les mêmes, sous divers déguisements. Ces indications ne seraient pas absolument nécessaires, étant répétées avant le début de chaque scène, si ce n’est pour donner d’entrée de jeu au spectateur un avant-goût alléchant de ce qui suit. Dès cette page d’introduction, Perrin introduit volontairement le thème de la métamorphose, et le  démultiplie par rapport à Ovide, pour en faire un ressort dramatique de sa pièce, selon le goût de la pastorale galante. Enfin une note sur les décors met encore en valeur cette esthétique de la variété, en faisant voir qu’il n’y a pas d’unité de lieu dans la pièce :</p>
               <quote>
-                <p>Decorations, ou changements* de theatre.</p>
+                <p>Decorations, ou changements de theatre.</p>
                 <p>La veuë de Paris à l’endroit du Louvre.</p>
                 <p>Vergers de Pomone.</p>
                 <p>Parc de Chesnes.</p>
@@ -1118,7 +1117,7 @@
                   <l><hi rend="b">Quel</hi> tremblement de terre ?</l>
                   <l><hi rend="b">Quels</hi> Fantômes affreux et quelles visions ?</l>
                   <l><hi rend="b">Que de</hi> monstres armez de feu, de fer, de foudre,</l>
-                  <l>Pour me reduire en poudre*? <note place="bottom">Béroé, Acte II scène 5.</note></l>
+                  <l>Pour me reduire en poudre? <note place="bottom">Béroé, Acte II scène 5.</note></l>
                   <l>O Dieux ! <hi rend="b">quelle</hi> chaleur m’enflame !</l>
                   <l>Je suis dans un double brasier,</l>
                   <l>La soif altere mon gosier,</l>
@@ -1142,7 +1141,7 @@
                   <l>Mais enfin emporté par <hi rend="b">son ardeur extreme</hi>,</l>
                   <l>Je viens à tes genoux te dire que je t’aime,<note place="bottom">Vertumne, Acte IV scène 7. </note></l>
                 </quote>
-                <p>Dans cette logique d’explicitation du mouvement passionnel, en aucun cas intériorisé – le sens de « passion » n’a absolument pas le sens fort qu’on peut lui donner aujourd’hui, mais plutôt celui d’affect, ou d’humeur* – mais exposé de manière rhétorique de manière à être <hi rend="i">communiqué</hi> au spectateur, les mots eux-mêmes doivent figurer, par leur son, l’idée qu’ils portent. Pour ne donner qu’un exemple, le mot « doux », est particulièrement approprié à l’expression d’une passion tendre, car il imite l’idée même qu’il exprime, et est prolongeable à volonté sur la durée vocalique. Perrin ne manque pas d’en jouer dans <hi rend="i">Pomone</hi>, ici avec un jeu sur la dentale (« <hi rend="i">d</hi>iscret et <hi rend="i">d</hi>oux ») et sur la reprise, avec une expression différente, de la syllabe dans le mot « <hi rend="i">dou</hi>leurs » :</p>
+                <p>Dans cette logique d’explicitation du mouvement passionnel, en aucun cas intériorisé – le sens de « passion » n’a absolument pas le sens fort qu’on peut lui donner aujourd’hui, mais plutôt celui d’affect, ou d’humeur – mais exposé de manière rhétorique de manière à être <hi rend="i">communiqué</hi> au spectateur, les mots eux-mêmes doivent figurer, par leur son, l’idée qu’ils portent. Pour ne donner qu’un exemple, le mot « doux », est particulièrement approprié à l’expression d’une passion tendre, car il imite l’idée même qu’il exprime, et est prolongeable à volonté sur la durée vocalique. Perrin ne manque pas d’en jouer dans <hi rend="i">Pomone</hi>, ici avec un jeu sur la dentale (« <hi rend="i">d</hi>iscret et <hi rend="i">d</hi>oux ») et sur la reprise, avec une expression différente, de la syllabe dans le mot « <hi rend="i">dou</hi>leurs » :</p>
                 <quote>
                   <l>Vertumne.</l>
                   <l>O <hi rend="b">Doux</hi> Zephir vous enflammez la terre par vos soûpirs,</l>
@@ -1255,8 +1254,8 @@
           </castItem>
           <castItem>
             <role xml:id="jardinier1">[TROIS JARDINIERS]</role>
-            <role xml:id="jardinier2"></role>
-            <role xml:id="jardinier3"></role>
+            <role xml:id="jardinier2"/>
+            <role xml:id="jardinier3"/>
           </castItem>
         </castList>
       </div>
@@ -1372,8 +1371,8 @@
               <l n="42" xml:id="l42" part="I">Passons nos jours,</l>
             </sp>
             <sp who="pomone">
-              <speaker>Pomone, Venilie, Juturne <hi rend="i">(à 3)</hi><note place="bottom">Vénilie est ici ajoutée par rapport au livret.</note></speaker>
-              <l  part="F">passons nos jours</l>
+              <speaker>Pomone, Venilie, Juturne <note place="bottom">Vénilie est ici ajoutée par rapport au livret.</note></speaker><stage>(à 3)</stage>
+              <l part="F">passons nos jours</l>
               <l n="43" xml:id="l43">Loin des Bergers et des amours.</l>
               <stage>Ritornelle pour des Flutes, ou des Violons. </stage>
             </sp>
@@ -1500,15 +1499,15 @@
             </sp>
             <sp who="beroe">
               <speaker>Beroé</speaker>
-              <l  part="M">Que ses loix</l>
+              <l part="M">Que ses loix</l>
             </sp>
             <sp who="flore">
               <speaker> Flore</speaker>
-              <l  part="M">sont doux ,</l>
+              <l part="M">sont doux ,</l>
             </sp>
             <sp who="beroe">
               <speaker>Béroé</speaker>
-              <l  part="F">sont inhumaines,</l>
+              <l part="F">sont inhumaines,</l>
             </sp>
             <sp who="flore">
               <speaker> Flore</speaker>
@@ -1516,7 +1515,7 @@
             </sp>
             <sp who="beroe">
               <speaker>Béroé</speaker>
-              <l  part="F">Qu’il est dur</l>
+              <l part="F">Qu’il est dur</l>
             </sp>
             <sp who="flore beroe">
               <speaker>Ensemble</speaker>
@@ -1564,15 +1563,15 @@
             </sp>
             <sp who="dieudesjardins">
               <speaker>Dieu des jardins</speaker>
-              <l  part="M">C’est à moy,</l>
+              <l part="M">C’est à moy,</l>
             </sp>
             <sp who="faune">
               <speaker>Faune. </speaker>
-              <l  part="M">C’est à moy,</l>
+              <l part="M">C’est à moy,</l>
             </sp>
             <sp who="dieudesjardins">
               <speaker>Dieu des jardins</speaker>
-              <l  part="F">C’est à moy,</l>
+              <l part="F">C’est à moy,</l>
             </sp>
             <sp who="faune dieudesjardins">
               <speaker>Ensemble</speaker>
@@ -1585,15 +1584,15 @@
             </sp>
             <sp who="faune">
               <speaker>Faune</speaker>
-              <l  part="M">Tout se rend,</l>
+              <l part="M">Tout se rend,</l>
             </sp>
             <sp who="dieudesjardins">
               <speaker>Dieu des jardins</speaker>
-              <l  part="M">Tout cede,</l>
+              <l part="M">Tout cede,</l>
             </sp>
             <sp who="faune">
               <speaker>Faune</speaker>
-              <l  part="F">Tout se rend,</l>
+              <l part="F">Tout se rend,</l>
             </sp>
             <sp who="faune dieudesjardins">
               <speaker>Ensemble.</speaker>
@@ -1715,7 +1714,7 @@
             </sp>
             <sp who="faune">
               <speaker>Faune. </speaker>
-              <l  part="F">Donnez-luy vostre cœur,</l>
+              <l part="F">Donnez-luy vostre cœur,</l>
             </sp>
             <sp who="dieudesjardins">
               <speaker>Dieu des jardins</speaker>
@@ -1731,7 +1730,7 @@
             </sp>
             <sp who="faune dieudesjardins">
               <speaker>Ensemble</speaker>
-              <l  part="F">Donnez-luy vostre cœur.</l>
+              <l part="F">Donnez-luy vostre cœur.</l>
               <stage>[Les Nymphes rapportent à Flore une corbeille, dans laquelle est une  couronne d’épines, et une autre de chardons.]</stage>
             </sp>
             <sp who="flore">
@@ -1744,7 +1743,7 @@
             </sp>
             <sp who="flore venilie">
               <speaker>Flore, Venilie<note place="bottom">Flore, Vénilie et Juturne ont un départ en imitation qu’il est impossible de rendre dans le texte. Sans musique, il faut imaginer que leurs voix s’entremêlent. </note></speaker>
-              <l  part="F">Ah!</l>
+              <l part="F">Ah!</l>
             </sp>
             <sp who="flore venilie juturne">
               <speaker>Flore, Venilie, Juturne</speaker>
@@ -1797,7 +1796,7 @@
               <l n="188" xml:id="l188">Et des soins d’un Amant:</l>
               <l n="189" xml:id="l189" part="I"> Que ferons-nous mon cœur</l>
               <stage>Lentement</stage>
-              <l  part="F">en des peines si dures?</l>
+              <l part="F">en des peines si dures?</l>
               <l n="190" xml:id="l190">Ah! Puisque vainement je dirois mes langeurs,</l>
               <stage>Viste</stage>
               <l n="191" xml:id="l191">Il faut nous transformer, et sous d’autres figures,</l>
@@ -1808,7 +1807,7 @@
               <l n="195" xml:id="l195"> Mais ne vous montrez pas, <note place="bottom">Le passage à une mesure à 3 marque ici un changement de caractère. </note></l>
               <l n="196" xml:id="l196">A mes loix seulement rendez obeïssance.</l>
               <stage>[Ils disparoissent.]</stage>
-              <p rend="center">Fin du premier Acte.</p>
+              <trailer rend="center">Fin du premier Acte.</trailer>
               <p><hi rend="sc">Entr’acte. [</hi>INTERMEDE I. Symphonie.]</p>
             </sp>
           </div>
@@ -1875,7 +1874,7 @@
             <sp who="vertumne">
               <speaker>Vertumne</speaker>
               <stage>[à l’écart]</stage>
-              <l  part="F">Evitons sa poursuite?</l>
+              <l part="F">Evitons sa poursuite?</l>
             </sp>
             <sp who="beroe">
               <speaker>Beroé. </speaker>
@@ -2155,7 +2154,7 @@
             <p>Sur un tempo rapide (« <hi rend="i">Viste</hi> »), la dispute connaît un échauffement progressif, une montée en tension verbale mais qui peut aussi se traduire par le geste – chacun pouvant se désigner tour à tour et varier le caractère du mot « moy ». Ces répétitions de mots dans le texte sous la musique accroissent le dynamisme du discours par rapport au texte tout uni du livret :</p>
             <quote>
               <l>FAUNE.</l>
-              <l>Elle a beau resister et faire la mutine*,</l>
+              <l>Elle a beau resister et faire la mutine,</l>
               <l>C’est à moy,</l>
               <l>FAUNE, LE DIEU DES JARDINS, <hi rend="i">à 2.</hi></l>
               <l>C’est à moy que le Ciel la destine.</l>
@@ -2365,7 +2364,7 @@
           <p>De Paris ce 30. Avril 1659</p>
           <p rend="i">MONSEIGNEUR,</p>
           <p>Nous avons fait representer il y a quelques jours nostre petite Pastorale en Musique. Je vous envoye cy inclus un exemplaire des Vers imprimez ; lequel je vous supplie tres-humblement d’accepter , il ne vous fera rien voir de nouveau, puisque vous aviez eu la patience de voir et d’examiner avec moy l’Original, il y a quelques mois, pendant votre ambassade en France : Il vous estoit mesme resté une curiosité, à laquelle je m’estois engagé de satisfaire apres sa representation, de sçavoir le succés d’une entreprise si nouvelle et au jugement des plus sensez si perilleuse : c’est pourquoy je m’asseure que vous l’apprendrez avec plaisir.</p>
-          <p>Vous sçaurez donc, <hi rend="i">MONSEIGNEUR</hi>, qu’elle a esté representée huit ou dix fois à la Campagne au village d’Issy, dans la belle maison de Monsieur de la Haye : Ce que nous avons fait pour éviter la foule du peuple qui nous eut accablez infailliblement, si nous eussions donné ce divertissement au milieu de Paris. Tout nous favorisoit, la saison du Printemps, et de la naissante verdure, et les beaux jours qu’il fit pendant tout ce temps-là, qui invitoient les personnes de qualité au promenoir de la plaine ; la belle Maison et le beau Jardin, la Salle tout à fait commode pour la representation et d’une juste grandeur ; la décoration rustique du Theatre orné de deux cabinets de verdure et fort éclairé, la parure, la bonne mine et la jeunesse de nos Acteurs et de nos Actrices, dont celles-cy estoient de l’âge depuis quinze jusqu’à vint et deux ans, et les Acteurs depuis vint jusqu’à trente, tous bien instruits et déterminez comme des Comediens de profession. Vous en connoissez les principaux, les deux illustres sœurs et les deux illustres freres, que l’on peut conter entre les plus belles voix et les plus sçavantes de l’Europe, le reste ne les démentoit point. Pour la Musique, vous en connoissez aussy l’Autheur, et les Concerts qu’il vous a fait entendre chez Monsieur l’abbé Charles, nostre amy, ne vous permettent pas de douter de sa capacité. Tout cela joint aux charmes de la nouveauté, à la curiosité d’apprendre le succez d’une entreprise jugée impossible, et trouvée ridicule aux pieces Italiennes de cette nature représentées sur nostre Theatre ; en d’aucuns la passion de voir triompher nostre langue, nostre Poësie et nostre Musique d’une langue, d’une poësie et d’une Musique Estrangere ; en d’autres l’esprit de critique et de censure*, et dans la meilleure partie le plaisir singulier et nouveau de voir que quelques particuliers par un pur esprit de divertissement et de galanterie donnoient au public à leurs dépens et executoient eux-mesmes la première Comedie Françoise en Musique representée en France. Toutes ces choses attirerent à sa representation une telle foule de personnes de premiere qualité, Princes, Ducs et Pairs, Mareschaux de France, Officiers de Cours Souveraines ; que tout le chemin de Paris à Issy estoit couvert de leurs carrosses. Vous jugez bien, <hi rend="i">MONSEIGNEUR</hi>, que tout ce monde n’entroit pas dans la Sale : mais nous recevions les plus diligents, sur des billets qu’ils prenoient de nous, que nous donnions liberalement à nos amis, et aux personnes de condition qui nous en demandoient,  le reste prenoit patience,  et se promenant à pied dans le jardin, ou faisant dans la Plaine un espèce de Cours se donnoit au moins le passe-temps du promenoir et des beaux jours. Il me sied mal, <hi rend="i">MONSEIGNEUR</hi>, de vous dire à la loüange de la Piece, mais il faut pourtant vous le dire, puisque je me suis engagé de vous en apprendre le succez, que tout le monde en sortoit surpris et ravy de merveille et de plaisir, et que tant de testes différentes de capacité, d’humeur et d’interests, pas un seul n’eut la force de l’improuver et de s’empescher de la loüer en toutes ses parties, l’invention, les Vers, la Representation, la Musique vocale, et les Symphonies. Cette reputation donna la curiosité à leurs Majestez de l’entendre : en effect sur leur demande, elle fut representée pour la derniere fois à Vincennes, où elles estoient alors, en leur présence, en celle de son Eminence et de toute la Cour, où elle eut une approbation pareille et inesperée, particulierement de son Eminence, qui se confessa surprise de son succez, et témoigna à Monsieur Cambert estre dans le dessein d’entreprendre avec lui de pareilles pieces. Ce qui m’a invité d’en faire une seconde pour luy donner, en cas que cette pensée luy dure, son sujet est le mariage de Bacchus avec Ariane, et la piece s’appelle de leur nom <hi rend="i">Ariane</hi> ou <hi rend="i">le Mariage de Bacchus</hi>, ajustée à la paix que nous esperons. La fable vous la sçavez, la maniere de la traitter est de mon invention, et peut estre assez curieuse, aussy bien que celle de cette Pastorale, dont vous agréerez que je vous dise la conduite aprés vous en avoir raconté le succez.</p>
+          <p>Vous sçaurez donc, <hi rend="i">MONSEIGNEUR</hi>, qu’elle a esté representée huit ou dix fois à la Campagne au village d’Issy, dans la belle maison de Monsieur de la Haye : Ce que nous avons fait pour éviter la foule du peuple qui nous eut accablez infailliblement, si nous eussions donné ce divertissement au milieu de Paris. Tout nous favorisoit, la saison du Printemps, et de la naissante verdure, et les beaux jours qu’il fit pendant tout ce temps-là, qui invitoient les personnes de qualité au promenoir de la plaine ; la belle Maison et le beau Jardin, la Salle tout à fait commode pour la representation et d’une juste grandeur ; la décoration rustique du Theatre orné de deux cabinets de verdure et fort éclairé, la parure, la bonne mine et la jeunesse de nos Acteurs et de nos Actrices, dont celles-cy estoient de l’âge depuis quinze jusqu’à vint et deux ans, et les Acteurs depuis vint jusqu’à trente, tous bien instruits et déterminez comme des Comediens de profession. Vous en connoissez les principaux, les deux illustres sœurs et les deux illustres freres, que l’on peut conter entre les plus belles voix et les plus sçavantes de l’Europe, le reste ne les démentoit point. Pour la Musique, vous en connoissez aussy l’Autheur, et les Concerts qu’il vous a fait entendre chez Monsieur l’abbé Charles, nostre amy, ne vous permettent pas de douter de sa capacité. Tout cela joint aux charmes de la nouveauté, à la curiosité d’apprendre le succez d’une entreprise jugée impossible, et trouvée ridicule aux pieces Italiennes de cette nature représentées sur nostre Theatre ; en d’aucuns la passion de voir triompher nostre langue, nostre Poësie et nostre Musique d’une langue, d’une poësie et d’une Musique Estrangere ; en d’autres l’esprit de critique et de censure, et dans la meilleure partie le plaisir singulier et nouveau de voir que quelques particuliers par un pur esprit de divertissement et de galanterie donnoient au public à leurs dépens et executoient eux-mesmes la première Comedie Françoise en Musique representée en France. Toutes ces choses attirerent à sa representation une telle foule de personnes de premiere qualité, Princes, Ducs et Pairs, Mareschaux de France, Officiers de Cours Souveraines ; que tout le chemin de Paris à Issy estoit couvert de leurs carrosses. Vous jugez bien, <hi rend="i">MONSEIGNEUR</hi>, que tout ce monde n’entroit pas dans la Sale : mais nous recevions les plus diligents, sur des billets qu’ils prenoient de nous, que nous donnions liberalement à nos amis, et aux personnes de condition qui nous en demandoient,  le reste prenoit patience,  et se promenant à pied dans le jardin, ou faisant dans la Plaine un espèce de Cours se donnoit au moins le passe-temps du promenoir et des beaux jours. Il me sied mal, <hi rend="i">MONSEIGNEUR</hi>, de vous dire à la loüange de la Piece, mais il faut pourtant vous le dire, puisque je me suis engagé de vous en apprendre le succez, que tout le monde en sortoit surpris et ravy de merveille et de plaisir, et que tant de testes différentes de capacité, d’humeur et d’interests, pas un seul n’eut la force de l’improuver et de s’empescher de la loüer en toutes ses parties, l’invention, les Vers, la Representation, la Musique vocale, et les Symphonies. Cette reputation donna la curiosité à leurs Majestez de l’entendre : en effect sur leur demande, elle fut representée pour la derniere fois à Vincennes, où elles estoient alors, en leur présence, en celle de son Eminence et de toute la Cour, où elle eut une approbation pareille et inesperée, particulierement de son Eminence, qui se confessa surprise de son succez, et témoigna à Monsieur Cambert estre dans le dessein d’entreprendre avec lui de pareilles pieces. Ce qui m’a invité d’en faire une seconde pour luy donner, en cas que cette pensée luy dure, son sujet est le mariage de Bacchus avec Ariane, et la piece s’appelle de leur nom <hi rend="i">Ariane</hi> ou <hi rend="i">le Mariage de Bacchus</hi>, ajustée à la paix que nous esperons. La fable vous la sçavez, la maniere de la traitter est de mon invention, et peut estre assez curieuse, aussy bien que celle de cette Pastorale, dont vous agréerez que je vous dise la conduite aprés vous en avoir raconté le succez.</p>
           <p>Aprés avoir veu plusieurs fois tant en France qu’en Italie la representation des Comedies en Musique Italiennes, lesquelles il a plu aux compositeurs, et aux executeurs de désigner du nom d’<hi rend="i">Opre</hi>, pour ne pas, à ce qu’on m’a dit, passer pour Comediens, aprés avoir examiné curieusement les raisons, pour lesquelles elles déplaisoient à notre nation. Je n’ay pas desesperé comme les autres, qu’on n’en pût faire de tres-galantes en nostre langue ; et de fort bien receües en évitant les deffauts des Italiennes, et y ajoûtant toutes les beautez, dont est capable cette espèce de representation, laquelle avec tous les avantages de la Comedie recitée, a sur elle celuy d’exprimer les passions d’une maniere plus touchante, par les fléchissements, les élevations, et les cheutes de la voix. Celuy de faire redire agreablement les mesmes choses, et les imprimer plus vivement dans l’imagination et dans la mémoire ; celuy de faire dire à plusieurs personnes les mesmes choses et exprimer les mesmes sentimens en mesme temps ; et representer par des concerts de voix, des concerts d’esprits, de passions, et de pensées, quelquefois mesme en disant les mesmes choses en différents accents, exprimer en mesme temps des sentimens divers et d’autres beautez jusqu’icy peu connuës, mais excellentes, et d’un succez admirable. Et vrayment, <hi rend="i">MONSEIGNEUR</hi>, il n’est pas malaysé de concevoir les raisons pour lesquelles ces pieces n’ont pas esté portées chez vous, et moins sur nostre theatre dans le point d’excellence dont elles sont capables ; si l’on remarque que cette maniere de representation en Italie mesme est toute nouvelle, et inventée par quelques musiciens modernes depuis vint ou trente ans, contre le sentiment des anciens Grecs, les Peres de la Poésie et de la Musique, et des Latins leurs imitateurs, qui ne croyaient pas que la Comedie toute en Musique pût reüssir, et qui n’admettoient dans le Dramatique le vers Lyrique et la Musique que dans les Entr’actes ou dans les Entrescenes pour la variation. En effet, à dire vray, ce ne fut qu’un caprice de Musiciens habiles hommes en leur art, mais tout à fait ignorans en la Poësie, assez mal conceu et mal exécuté premierement à Venise, puis à Rome, à Florence et ailleurs : et toutefois la nouveauté de l’entreprise, et la passion extraordinaire et bien souvent aveugle de vostre nation en général pour la Musique, en un païs dont vous sçavez que l’on dit que <hi rend="i">Ogn’un tiene delle quatro. M. Del musico del Medico</hi>, etc. luy donnerent parmy vous un succès si favorable et une reputation si grande que ces messieurs creurent qu’ils pourroient porter leurs <hi rend="i">Opre</hi> avec la mesme approbation sur les Theatres étrangers Français et Allemans, et en tirer de grands fruits de gain et de loüanges. La faveur des Ministres qui gouvernoient dans l’un et dans l’autre Estat flatta leurs sentimens et seconda leurs desseins. L’on m’a mesme dit que Messieurs les Allemands qui n’ont pas l’estomac si délicat ny la langue si friande, en avoient fait des rosties, et avoient crié <hi rend="i">Vivat</hi> et <hi rend="i">Bibat</hi> à la dernière qui fut représentée en la solemnité du couronnement de l’Empereur. Mais il faut n’estre pas du monde pour ne pas sçavoir que nous leur avons crié <hi rend="i">Au Renard</hi>, et que la protection souveraine à peine les a pu garantir dans ce païs libertin<note place="bottom">Comprendre : critique, libre penseur. </note> <hi rend="i">delle fischiate e delle merangole</hi><note place="bottom">Des sifflets et des oranges. On en jetait en Italie à la tête des mauvais musiciens et acteurs [NB : la note est inspirée de la note d’Arthur Pougin dans Les Vrais créateurs de l’opéra français, à cet endroit de la lettre.]</note>.Les raisons à mon avis en sont toutes manifestes.</p>
           <p>Premièrement pour ne pas trouver des Poëtes Musiciens qui entendissent les vers et les compositions Lyriques ou propres au chant, les compositeurs de vos Comedies se sont servy des Poëtes ordinaires des pieces de Theatre, faites simplement pour la recitation et les ont mises en Musique de bout en bout, comme qui voudroit parmy nous mettre en Musique le <hi rend="i">Cinna</hi> ou les <hi rend="i">Horaces</hi> de Monsieur Corneille ; et parce qu’ils n’ont pas trouvé leur conte [<hi rend="i">sic</hi>] dans l’expression des intrigues, des raisonnemens et des commandemens graves, n’y l’art de faire chanter agréablement à Auguste </p>
           <l>Prens un siège Cinna, prens et qu’il te souvienne</l>
@@ -2427,7 +2426,7 @@
           </div>
           <div>
             <head>Avant-propos</head>
-            <p>Le seul titre de ce livre et le denombrement des pièces qu’il contient convaincront facilement le Lecteur de cette verité, que de tous les recueils de Poesie Lyrique anciens et modernes, aucun n’a fait  voir au public ny tant de varieté ny tant de nouveautez. Les Hébrieux n’ont pas passé le Cantique et le Pseaume, les Grecs et les Latins, l’Ode ou la Chanson, le Dialogue et quelques musiques de Comedies recitées ; Les Allemands, Flamans, Anglois, Espagnols, et François, les Airs, les Chansons, et les Dialogues ; les Italiens ont renvié sur eux les grands Recits, les Pieces de concert et les Comedies en musique : Et cet ouvrage fait voir, non seulement un meslange de toutes ces pieces et introduit en France les grands Recits à l’italienne, composez de plusieurs chants liez, les Pieces de concert, composées de musiques liées, et les Comedies en musique, mais encor de Cantiques et des chansons Latines pour l’Eglise, sur le pied des paroles françoises, en proses rimées, que j’ay nouvellement inventée. Tout s’y trouve, la musique sainte et profane, la grave et l’enjoüée, la Latine et la Françoise, celle de Chambre, celle d’Eglise, et celle de Theatre, celle de jour et celle de nuit : et ce qu’il y a de plus singulier, c’est que toutes ces pieces sont eprouvées, et ont esté mises en musique, depuis huit ou dix ans que j’ai commencé à m’appliquer à ces sortes de compositions, par tous les Intendants et Maistres des Musiques Royales dont les noms sont ecrits à la marge de chaque piece, M<hi rend="sup">srs</hi> Boesset et Baptiste Lulli, Surintendant de la musique de la Chambre du Roy, M<hi rend="sup">r</hi>Lambert M<hi rend="sup">e</hi> de la mesme musique, Sablieres, M<hi rend="sup">e</hi>de la musique de Monsieur, Cambert, M<hi rend="sup">e</hi>de celle de la feüe Reyne, Moulinié, M<hi rend="sup">e</hi>de celle de feu Monsieur, Gobert, Robert, Dumont et Espilly, M<hi rend="sup">es</hi>de la musique de la Chapelle du Roy, et plusieurs autres illustres et excellents hommes ; et que la pluspart ont esté entendües et chantées devant la Cour par les musiques Royales qu’ils commandent ; et pour les Airs et les Chansons l est peu de gens qui ne se soient divertis à les chanter, d sorte que l’on peut dire de ces compositions, qu’elles ont epandu la musique et la joye par tout le Royaume. Il est vray que ces diverses pieces ont eu divers succez, ce que j’attribüe partie à l’inégalité de leur valeur, et à la justice que leur ont rendüe les ecoutants, partie au caprice de ceux-cy, à leurs passions, à leur diverse capacité, et à leurs interests, et enfin à la bonne ou mauvaise fortune. Pour moy, suivant ma froideur ord<hi rend="sup">re</hi>, j’ay tout entendu, sans m’elever pour les loüanges, ny sans me rebuter pour les mepris ; dans la seule veüe de fe<hi rend="sup">r</hi> mon profit des raisons alleguées ou pour l’approbation ou pour la censure*, de me corriger de mes deffauts et d’entrer dans l’esprit et le goust du siecle. Je dy le bon goust, car si nous eussions voulu nous en tenir au sens vulgaire, nous n’aurions pas passé l’air et la chansonnette : mais comme en ces pieces j’ay bien eu la complaisance* de vouloir contenter les Dames et les Cavaliers, qui sçavent la musique Cavalierement, ils me pardonnneront si j’ay osé travailler aussy pour les sçavants et pour avancer la perfection de l’art, et introduit des pieces de musique plus grandes et plus serieuses ; il me semble que ces premiers sont assez bien partagez pour ne rien envier aux derniers ; et de ma part, je leur déclare que je leur abandonne volontiers Nanette pourveu qu’ils me laissent Adonis. Mais en vérité [ligne effacée dans le manuscrit] chanter l’un à pleine teste et fronder l’autre au petit coucher, je ne sçay ce qu’en diront ceux qui les verront maintenant au jour, et quel jugement ils feront de leur esprit et de leur Critique. Je leur demande encore en faveur de cette velle la permission d’entretenie ces derniers dans cet avant-propos le plus succintement que je pourray de quelques observations que j’ay faites sur la composition des paroles de musique et des regles sur lesquelles j’ay travaillé, lesquelles sont entierement nec<hi rend="sup">res</hi> à sçavoir pour l’intelligence de cet ouvrage.</p>
+            <p>Le seul titre de ce livre et le denombrement des pièces qu’il contient convaincront facilement le Lecteur de cette verité, que de tous les recueils de Poesie Lyrique anciens et modernes, aucun n’a fait  voir au public ny tant de varieté ny tant de nouveautez. Les Hébrieux n’ont pas passé le Cantique et le Pseaume, les Grecs et les Latins, l’Ode ou la Chanson, le Dialogue et quelques musiques de Comedies recitées ; Les Allemands, Flamans, Anglois, Espagnols, et François, les Airs, les Chansons, et les Dialogues ; les Italiens ont renvié sur eux les grands Recits, les Pieces de concert et les Comedies en musique : Et cet ouvrage fait voir, non seulement un meslange de toutes ces pieces et introduit en France les grands Recits à l’italienne, composez de plusieurs chants liez, les Pieces de concert, composées de musiques liées, et les Comedies en musique, mais encor de Cantiques et des chansons Latines pour l’Eglise, sur le pied des paroles françoises, en proses rimées, que j’ay nouvellement inventée. Tout s’y trouve, la musique sainte et profane, la grave et l’enjoüée, la Latine et la Françoise, celle de Chambre, celle d’Eglise, et celle de Theatre, celle de jour et celle de nuit : et ce qu’il y a de plus singulier, c’est que toutes ces pieces sont eprouvées, et ont esté mises en musique, depuis huit ou dix ans que j’ai commencé à m’appliquer à ces sortes de compositions, par tous les Intendants et Maistres des Musiques Royales dont les noms sont ecrits à la marge de chaque piece, M<hi rend="sup">srs</hi> Boesset et Baptiste Lulli, Surintendant de la musique de la Chambre du Roy, M<hi rend="sup">r</hi>Lambert M<hi rend="sup">e</hi> de la mesme musique, Sablieres, M<hi rend="sup">e</hi>de la musique de Monsieur, Cambert, M<hi rend="sup">e</hi>de celle de la feüe Reyne, Moulinié, M<hi rend="sup">e</hi>de celle de feu Monsieur, Gobert, Robert, Dumont et Espilly, M<hi rend="sup">es</hi>de la musique de la Chapelle du Roy, et plusieurs autres illustres et excellents hommes ; et que la pluspart ont esté entendües et chantées devant la Cour par les musiques Royales qu’ils commandent ; et pour les Airs et les Chansons l est peu de gens qui ne se soient divertis à les chanter, d sorte que l’on peut dire de ces compositions, qu’elles ont epandu la musique et la joye par tout le Royaume. Il est vray que ces diverses pieces ont eu divers succez, ce que j’attribüe partie à l’inégalité de leur valeur, et à la justice que leur ont rendüe les ecoutants, partie au caprice de ceux-cy, à leurs passions, à leur diverse capacité, et à leurs interests, et enfin à la bonne ou mauvaise fortune. Pour moy, suivant ma froideur ord<hi rend="sup">re</hi>, j’ay tout entendu, sans m’elever pour les loüanges, ny sans me rebuter pour les mepris ; dans la seule veüe de fe<hi rend="sup">r</hi> mon profit des raisons alleguées ou pour l’approbation ou pour la censure, de me corriger de mes deffauts et d’entrer dans l’esprit et le goust du siecle. Je dy le bon goust, car si nous eussions voulu nous en tenir au sens vulgaire, nous n’aurions pas passé l’air et la chansonnette : mais comme en ces pieces j’ay bien eu la complaisance de vouloir contenter les Dames et les Cavaliers, qui sçavent la musique Cavalierement, ils me pardonnneront si j’ay osé travailler aussy pour les sçavants et pour avancer la perfection de l’art, et introduit des pieces de musique plus grandes et plus serieuses ; il me semble que ces premiers sont assez bien partagez pour ne rien envier aux derniers ; et de ma part, je leur déclare que je leur abandonne volontiers Nanette pourveu qu’ils me laissent Adonis. Mais en vérité [ligne effacée dans le manuscrit] chanter l’un à pleine teste et fronder l’autre au petit coucher, je ne sçay ce qu’en diront ceux qui les verront maintenant au jour, et quel jugement ils feront de leur esprit et de leur Critique. Je leur demande encore en faveur de cette velle la permission d’entretenie ces derniers dans cet avant-propos le plus succintement que je pourray de quelques observations que j’ay faites sur la composition des paroles de musique et des regles sur lesquelles j’ay travaillé, lesquelles sont entierement nec<hi rend="sup">res</hi> à sçavoir pour l’intelligence de cet ouvrage.</p>
             <p>Et pour Commencer par la composition des paroles en general ; j’ay creu que la fin du Poete Lyrique estoit de donner lieu à une musique parfaite et accomplie, qui pour enlever l’homme tout entier, touchast en mesme temps l’oreille, l’esprit et le cœur ; l’oreille par un beau son, resultant tant des paroles que de la musique, l’esprit par un beau discours et par une belle composition de musique bien entreprise et bien raisonnée, et le cœur en excitant en luy une emotion de tendresse.</p>
             <p>Sur ce pied j’ay taché de fe<hi rend="sup">r</hi>  mon discours de musique beau, propre au chant et pathetique : et dans cette veüe j’en ay toujours choisy la matiere dans les passions tendres, qui touchent le cœur par sympathie d’une passion pareille, d’amour ou de hayne, de crainte ou de desir, de colere, de pitié, de merveille,etc. et j’en ay banny tous les raisonnements serieux et quy se font dans la froideur, et mesme les passions graves, causées par les sujets serieux, qui touchent le cœur sans l’attendrir. Ma raison est que toutes ces sortes de discours, qui partent d’un cœur froid et reposé, se doyvent prononcer dans la bienseance d’une voix assortie, c’est-à-dire egale et moderée, qui ne se haste, ny ne se rallentit, ne s’eleve ny ne s’abaisse que modérément et par des intervalles et des mouvements peu notables : ce qui ne peut s’accorder avec le chant, lequel flechit et change incessament la voix en des tons fort eloignez et des mouvements fort divers, au lieu que les impulsions et les emotions du cœur tendres et enjouées s’expriment agreablement et naturellement par des voix emportées et inegales. Ainsy, pour les matieres Lyriques, je me suis borné au merveilleux, à l’amoureux et à l’enjoüé.</p>
             <p>J’ay mesme observé que les personnages de musique que j’ay fait chanter fussent eux-mesmes admirateurs, amoureux ou enjoüez, comme sont les Poetes, les musiciens, les amants, les Bergers, les Rustres, les Yvrognes, les Femmes, les Engants, etc. et j’ay choisy dans la Fabe et dans l’Histoire ceux qu’elles nous disent avoir dansé ou chanté volontiers, Apollon, Pan, Pallas, Orphée, les Amours, les Nymphes, les Bacchantes, etc. David, Salomon, les Trois enfants dans la fournaise etc. et j’ay fuy les personnages graves, en qui les emportements du chant sont impertinents co<hi rend="sup">e</hi> les vieillards, les Magistrats, etc. J’en ay banni mesme les personnages allegoriques graves, comme les Vertus, l’Europe, la France, la Justice, la Raison, etc. non pas les amoureux ou les enjoüez, comme la Poesie, la Musique, le Jeu, l’Enfance, l’Yvrognerie, l’Amour, la Folie, etc.</p>

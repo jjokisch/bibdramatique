@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -22,11 +22,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/quinault_agrippa/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/quinault_agrippa.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/quinault_agrippa.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/quinault_agrippa.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/quinault_agrippa.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/quinault_agrippa/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/quinault_agrippa.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/quinault_agrippa.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/quinault_agrippa.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/quinault_agrippa.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><title>Agrippa Roy d'Albe ou le Faux Tiberinus</title>. A PARIS, chez GUILLAUME DE LUYNE, Libraire-Juré, au Palais, dans la Salle des Merciers, à la Justice. M. DC. LXIII. Avec Privilège du Roy.</bibl>
@@ -666,14 +666,14 @@
           <pb n="8" xml:id="p8"/>
           <stage>Tirrhene, Lavinie, Mezence,Fauste, Camille.</stage>
           <sp xml:id="I03-1" who="tirrhene">
-            <speaker>Tirrhene <hi rend="i">à Mezence</hi></speaker>
+            <speaker>Tirrhene </speaker><stage>à Mezence</stage>
             <l n="171" xml:id="l171">Ne vous offencez<note place="bottom">Deux orthographes « offense » et « offence » étaient admises.</note> pas, Seigneur, si je m’avance,</l>
             <l n="172" xml:id="l172">J’apporte à Lavinie un advis d’importance :</l>
             <l n="173" xml:id="l173">Et je viens l’avertir que l’on m’a fait sçavoir,</l>
             <l n="174" xml:id="l174">Que le Roy va sortir à l’instant pour la voir.</l>
           </sp>
           <sp xml:id="I03-2" who="lavinie">
-            <speaker>Lavinie <hi rend="i">à Mezence</hi></speaker>
+            <speaker>Lavinie </speaker><stage>à Mezence</stage>
             <l n="175" xml:id="l175">Ah ! Prince, si vostre Ame à ma peine est sensible,</l>
             <l n="176" xml:id="l176">Empeschez qu’on m’expose à ce tourment horrible,</l>
             <l n="177" xml:id="l177">Et tâchez par vos soins d’espargner à mes yeux,</l>
@@ -717,7 +717,7 @@
           <head>Scène V.</head>
           <stage>Agrippa, sous le nom de TiberinusMezence, Lauzus, Atis, Tirrhene</stage>
           <sp xml:id="I05-1" who="agrippa">
-            <speaker>Agrippa<hi rend="i">à Mezence</hi></speaker>
+            <speaker>Agrippa</speaker><stage>à Mezence</stage>
             <l n="195" xml:id="l195">Qu’on ne m’en parle plus, je veux voir Lavinie.</l>
             <stage>Mezence se retire</stage>
             <stage>A Lauzus<note place="bottom">Corrigé « Lausus ».</note></stage>
@@ -984,7 +984,7 @@
             <l n="372" xml:id="l372">Un mepris qui vous sert ne me peut faire honte :</l>
             <l n="373" xml:id="l373">Je vous deffends moy-mesme icy de m’espargner ;</l>
             <l n="374" xml:id="l374">Ma veritable gloire<note place="bottom">Gloire : ici, « Orgueil, presomption, bonne opinion qu’on a de soy-meme » (Furetière).</note> est de vous voir regner.</l>
-            <p rend="center">Fin du premier Acte.</p>
+            <trailer rend="center">Fin du premier Acte.</trailer>
           </sp>
         </div>
       </div>
@@ -1531,7 +1531,7 @@
             <l n="700" xml:id="l700">Mon frere &amp; mon dépit veulent ce sacrifice ;</l>
             <l n="701" xml:id="l701">Et le sang, &amp; l’amour, à la fois outragez,</l>
             <l n="702" xml:id="l702">Sont trop forts, estants joints, pour n’étre pas vangez.</l>
-            <p rend="center">Fin du second Acte.</p>
+            <trailer rend="center">Fin du second Acte.</trailer>
           </sp>
         </div>
       </div>
@@ -2057,7 +2057,7 @@
             <l n="1048" xml:id="l1048">Ah, Seigneur ! pour un fils que ne fait point un pere !</l>
             <l n="1049" xml:id="l1049">Pour peu que par le Ciel mes soins soient secondez,</l>
             <l n="1050" xml:id="l1050">Ils pourront faire encore plus que vous n’attendez.</l>
-            <p rend="center">Fin du troisième Acte.</p>
+            <trailer rend="center">Fin du troisième Acte.</trailer>
           </sp>
         </div>
       </div>
@@ -2710,7 +2710,7 @@
           <sp xml:id="IV05-6" who="tirrhene">
             <speaker>Tirrhene</speaker>
             <l n="1454" xml:id="l1454">Que peut-on craindre, helas ! quand on a tout perdu !</l>
-            <p rend="center">Fin du quatrième Acte.</p>
+            <trailer rend="center">Fin du quatrième Acte.</trailer>
           </sp>
         </div>
       </div>
@@ -2927,7 +2927,7 @@
           <head>Scene III.</head>
           <stage>Fauste, Lavinie, Tirrhene.</stage>
           <sp xml:id="V03-1" who="lavinie">
-            <speaker>Lavinie <hi rend="i">à Fauste</hi>.</speaker>
+            <speaker>Lavinie </speaker><stage>à Fauste</stage>
             <l n="1599" xml:id="l1599">Avez-vous assez tost pû rejoindre Mezence ?</l>
           </sp>
           <sp xml:id="V03-2" who="fauste">
@@ -2993,7 +2993,7 @@
             <l n="1636" xml:id="l1636">Pour preparer vostre Ame à cét excés de joye.</l>
           </sp>
           <sp xml:id="V03-9" who="lavinie">
-            <speaker>Lavinie <hi rend="i">à Tirrhene</hi>.</speaker>
+            <speaker>Lavinie </speaker><stage>à Tirrhene</stage>
             <l n="1637" xml:id="l1637">Ainsi donc, tous nos voeux sont comblez pleinement.</l>
             <l n="1638" xml:id="l1638">Vous vengez vostre Fils, je venge mon Amant,</l>
             <l n="1639" xml:id="l1639">Albine venge un frere, &amp; nous goûtons les charmes…</l>
@@ -3156,7 +3156,7 @@
             <l n="1714" xml:id="l1714">Tu nous a tous sauvez… Mais ne l’interromps pas.</l>
           </sp>
           <sp xml:id="V05-7" who="agrippa">
-            <speaker>Agrippa <hi rend="i">à Lavinie</hi>.</speaker>
+            <speaker>Agrippa </speaker><stage>à Lavinie</stage>
             <l n="1715" xml:id="l1715">Par vostre ordre, Madame, attaqué par Mezence,</l>
             <l n="1716" xml:id="l1716">J’ay contre luy d’abord fait peu de resistance,</l>
             <l n="1717" xml:id="l1717">Et voulu témoigner jusqu’aux plus cruels coups,</l>
@@ -3213,7 +3213,7 @@
             <l n="1764" xml:id="l1764">Ne laisse dans mon cœur, de lieu que pour la joye.</l>
           </sp>
           <sp xml:id="V05-9" who="tirrhene">
-            <speaker>Tirrhene <hi rend="i">à Lavinie</hi></speaker>
+            <speaker>Tirrhene </speaker><stage>à Lavinie</stage>
             <l n="1765" xml:id="l1765">C’est à vous que le sceptre est dû par ce trespas.</l>
           </sp>
           <sp xml:id="V05-10" who="lavinie">
@@ -3223,7 +3223,7 @@
             <l n="1768" xml:id="l1768">C’est pour mieux l’asseurer aux mains de ce que j’ayme.</l>
             <l n="1769" xml:id="l1769">Venez, aux yeux de tous, voir dés ce mesme jour,</l>
             <l n="1770" xml:id="l1770">Vostre Fils de nouveau couronné par l’Amour.</l>
-            <p rend="center">Fin du cinquième &amp; dernier Acte.</p>
+            <trailer rend="center">Fin du cinquième &amp; dernier Acte.</trailer>
           </sp>
         </div>
       </div>

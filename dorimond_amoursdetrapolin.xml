@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -26,11 +26,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/dorimond_amours-trapolin/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/dorimond_amours-trapolin.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/dorimond_amours-trapolin.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/dorimond_amours-trapolin.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/dorimond_amours-trapolin.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/dorimond_amours-trapolin/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/dorimond_amours-trapolin.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/dorimond_amours-trapolin.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/dorimond_amours-trapolin.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/dorimond_amours-trapolin.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Dorimond</author>. <title>La comédie de la comédie et Les amours de Trapolin</title>. A PARIS,  Chez JEAN RIBOU, sur le Quai des  Augustins, à L’Image Saint Louïs.  M. DC. LXII.  AVEC PRIVILEGE DU ROI.</bibl>
@@ -989,9 +989,9 @@
         <p rend="i">Et ledit Sieur Dorimond a cedé et transporté son privilege à Jean Ribou, et Gabriel Quinet, marchands libraires à Paris, pour en jouyr suivant l’accord fait entr’eux. </p>
         <p>Registré sur le Livre de la Communauté, suivant l’Arrest de la Cour.</p>
         <p rend="right">Signé JOSSE, Syndic.</p>
-        <label>Les Exemplaires ont esté fournis.</label>
+        <stage>Les Exemplaires ont esté fournis.</stage>
         <p>Achevé d’imprimer pour la première fois,</p>
-        <label rend="center">le 22. Janvier 1662.</label>
+        <stage rend="center">le 22. Janvier 1662.</stage>
       </div>
       <div type="set" xml:id="acteurs">
         <head>ACTEURS.</head>
@@ -1034,7 +1034,7 @@
             <speaker>LEANDRE</speaker>
             <l n="1" xml:id="l1">Puis que je vous rencontre, il faut faire partie:</l>
             <l n="2" xml:id="l2">Allons nous divertir à voir la comedie<note n="65" place="bottom"> Comédie : terme du XVII<hi rend="sup">e</hi> siècle qui indique « poème dramatique, pièce de théâtre représentant quelque action de la vie humaine qui se passe entre des personnes privées » ou « Il se prend généralement pour toutes sortes de pièces de théâtre comme sont la tragédie, la tragicomédie et la pastorale », dictionnaire de l’Académie.</note>;</l>
-            <l n="3" xml:id="l3">Ce passe-temps est propre à charmer les ennuis*:</l>
+            <l n="3" xml:id="l3">Ce passe-temps est propre à charmer les ennuis:</l>
             <l n="4" xml:id="l4">À peine il m’en souvient à l’instant que j’y suis.</l>
           </sp>
           <sp xml:id="I01-2" who="lucidor">
@@ -1059,9 +1059,9 @@
             <l n="20" xml:id="l20" rend="i">Que les autres n’y viennent pas.</l>
           </sp>
           <sp xml:id="I01-3" who="lucidor">
-            <speaker>LUCIDOR <hi rend="i">poursuit</hi>.</speaker>
+            <speaker>LUCIDOR </speaker><stage>poursuit</stage>
             <l n="21" xml:id="l21">Ho ! ho ! L’affiche en vers ? cette troupe est jolie:</l>
-            <l n="22" xml:id="l22">Peut-estre y verrons-nous quelque galand <ref target="#genie">Genie*</ref>.</l>
+            <l n="22" xml:id="l22">Peut-estre y verrons-nous quelque galand <ref target="#genie">Genie</ref>.</l>
           </sp>
           <sp xml:id="I01-4" who="leandre">
             <speaker>LEANDRE.</speaker>
@@ -1071,12 +1071,12 @@
             <speaker>LUCIDOR.</speaker>
             <l n="24" xml:id="l24">Tous deux nous nous trouvons d’un mesme sentiment :</l>
             <l n="25" xml:id="l25">Il faut estre privé de bon sens, de science,</l>
-            <l n="26" xml:id="l26">Pour ne la suivre pas, allons en diligence*.<pb n="3"/></l>
+            <l n="26" xml:id="l26">Pour ne la suivre pas, allons en diligence.<pb n="3"/></l>
             <l n="27" xml:id="l27">Puis on la fait si bien, et si juste en ce temps,</l>
             <l n="28" xml:id="l28">Qu’elle sert de modelle aux plus honnestes gens :</l>
             <l n="29" xml:id="l29">On apprend la vertu voyant la comedie,</l>
             <l n="30" xml:id="l30">Ceux qui des sots cagots gagnent la maladie</l>
-            <l n="31" xml:id="l31">Y peuvent <ref target="#repugner">repugner*</ref>, y venir lentement;</l>
+            <l n="31" xml:id="l31">Y peuvent <ref target="#repugner">repugner</ref>, y venir lentement;</l>
             <l n="32" xml:id="l32">Mais le sage, et le docte, y vont assidument,</l>
             <l n="33" xml:id="l33">J’y veux demain mener mes enfans et ma femme :</l>
             <l n="34" xml:id="l34">Ils y profiteront s’ils ont une bonne ame;</l>
@@ -1085,16 +1085,16 @@
           </sp>
           <sp xml:id="I01-6" who="leandre">
             <speaker>LEANDRE.</speaker>
-            <l n="37" xml:id="l37">Mais les Italiens prennent <ref target="#plus-licence">plus de licence*</ref></l>
+            <l n="37" xml:id="l37">Mais les Italiens prennent <ref target="#plus-licence">plus de licence</ref></l>
             <l n="38" xml:id="l38">Que ne font les François, et quelqu’un s’en offence.</l>
           </sp>
           <sp xml:id="I01-7" who="lucidor">
             <speaker>LUCIDOR.</speaker>
             <l n="39" xml:id="l39">Le Theatre François est bien plus serieux,</l>
             <l n="40" xml:id="l40">J’en faits bien plus d’estat, et l’estime bien mieux;</l>
-            <l n="41" xml:id="l41">Mais on peut sans pecher gouster les <ref target="#inepties">inepties*</ref></l>
-            <l n="42" xml:id="l42">Qu’ils meslent gallamment avec leurs <ref target="#faceties">faceties*</ref>;</l>
-            <l n="43" xml:id="l43">On rencontre des gens qui <ref target="#tondroient-oeuf">tondroient sur un œuf*</ref></l>
+            <l n="41" xml:id="l41">Mais on peut sans pecher gouster les <ref target="#inepties">inepties</ref></l>
+            <l n="42" xml:id="l42">Qu’ils meslent gallamment avec leurs <ref target="#faceties">faceties</ref>;</l>
+            <l n="43" xml:id="l43">On rencontre des gens qui <ref target="#tondroient-oeuf">tondroient sur un œuf</ref></l>
             <l n="44" xml:id="l44">Et qui bien souvent ont l’esprit<note n="66" place="bottom"> « Il forme, joint à certains épithètes, des sortes de locutions consacrées, à sens très particulier, comme « bel esprit », « esprit fort », « etc » (Cayrou). « il se dit del a distinction même de l’esprit, comme de la personne qui le possède ». « Bel esprit » serait aussi de la vivacité piquante de l’esprit (cf. MARANINI, 1974, p. 679, note 121, aussi dans le dictionnaire historique de la langue française.</note> comme un boeuf.<pb n="4"/></l>
           </sp>
         </div>
@@ -1136,21 +1136,21 @@
           <head>SCENE III.</head>
           <sp xml:id="I03-1" who="portier">
             <speaker>LE PORTIER.</speaker>
-            <l n="65" xml:id="l65">Ce <ref target="#teston">teston*</ref> est-il bon ? Cette <ref target="#piastre">piastre*</ref> est legere !</l>
+            <l n="65" xml:id="l65">Ce <ref target="#teston">teston</ref> est-il bon ? Cette <ref target="#piastre">piastre</ref> est legere !</l>
             <l n="66" xml:id="l66">Ils sont sans conscience ou bien ils n’en ont guere :</l>
-            <l n="67" xml:id="l67">Dés qu’ils ont des <ref target="#teston">testons*</ref> qui ne sont pas de poids,</l>
+            <l n="67" xml:id="l67">Dés qu’ils ont des <ref target="#teston">testons</ref> qui ne sont pas de poids,</l>
             <l n="68" xml:id="l68">C’est pour nous, que l’enfer les chaufe de son bois.</l>
             <l n="69" xml:id="l69">Pour faire avec ces gens le portier d’importance,</l>
             <l n="70" xml:id="l70">Il faudroit dans mes mains tousjours une balance,</l>
             <l n="71" xml:id="l71">Si mes maistres n’estoient gens d’honneur et sans fard,</l>
-            <l n="72" xml:id="l72">Je mettrois pour le moins deux <ref target="#escus">escus*</ref> à l’escart;</l>
+            <l n="72" xml:id="l72">Je mettrois pour le moins deux <ref target="#escus">escus</ref> à l’escart;</l>
             <l n="73" xml:id="l73">Je prendray toutefois sans faire plus de mine</l>
-            <l n="74" xml:id="l74">De quoy faire tirer la petite <ref target="#chopine">chopine*</ref>,</l>
+            <l n="74" xml:id="l74">De quoy faire tirer la petite <ref target="#chopine">chopine</ref>,</l>
             <l n="75" xml:id="l75">Car de prendre beaucoup il ne m’est pas permis</l>
             <l n="76" xml:id="l76">A moins que de me faire un troupeau d’ennemis;</l>
             <l n="77" xml:id="l77">Et puis le vol n’est pas un crime pardonnable</l>
             <l n="78" xml:id="l78">Et s’ils m’alloient chasser je serois miserable.</l>
-            <l n="79" xml:id="l79">J’ay bien plus de raison que tous ces grands <ref target="#escrots">escrocs*</ref></l>
+            <l n="79" xml:id="l79">J’ay bien plus de raison que tous ces grands <ref target="#escrots">escrocs</ref></l>
             <l n="80" xml:id="l80">Qui viennent leur voler le fruict de leurs beaux mots;</l>
             <l n="81" xml:id="l81">J’en veux prendre à témoin les personnes plus sages;</l>
             <l n="82" xml:id="l82">Ne leur couste-t’il pas à faire des voyages ?<pb n="6"/></l>
@@ -1159,9 +1159,9 @@
             <l n="85" xml:id="l85">Enfin la comedie est une marchandise</l>
             <l n="86" xml:id="l86">Que l’on doit acheter et payer sans remise.</l>
             <l n="87" xml:id="l87">Allons, je ne veux plus laisser entrer ceans</l>
-            <l n="88" xml:id="l88"><ref target="#escrots">Escrots*</ref>, passevolants, fillous ny <ref target="#pourveans">pourveans*</ref>.</l>
+            <l n="88" xml:id="l88"><ref target="#escrots">Escrots</ref>, passevolants, fillous ny <ref target="#pourveans">pourveans</ref>.</l>
             <l n="89" xml:id="l89">Le premier qui viendra la main hors la pochette,</l>
-            <l n="90" xml:id="l90">Contre luy vaillamment je veux <ref target="#tirer-brette">tirer la brette*</ref>;</l>
+            <l n="90" xml:id="l90">Contre luy vaillamment je veux <ref target="#tirer-brette">tirer la brette</ref>;</l>
             <l n="91" xml:id="l91">Mon sang est échauffé, je suis las d’en souffrir:</l>
             <l n="92" xml:id="l92">N’en laissons plus passer, c’est à faire mourir.<pb n="7"/></l>
           </sp>
@@ -1177,7 +1177,7 @@
             <l n="95" xml:id="l95">J’en voy venir un autre: ils viennent m’aborder.</l>
             <l n="96" xml:id="l96">Comment feray-je, ils vont beaucoup m’incommoder :</l>
             <l n="97" xml:id="l97">Ils s’en vont me parler de soûpir et de flâmes,</l>
-            <l n="98" xml:id="l98"><ref target="#faire-patineurs">Faire les patineurs*</ref>, et les mourantes ames.</l>
+            <l n="98" xml:id="l98"><ref target="#faire-patineurs">Faire les patineurs</ref>, et les mourantes ames.</l>
           </sp>
           <sp xml:id="I04-2" who="galant1">
             <speaker>LE GALLAND.</speaker>
@@ -1205,7 +1205,7 @@
           <sp xml:id="I04-6" who="galant1">
             <speaker>LE GALLAND.</speaker>
             <l n="108" xml:id="l108">Vous allez au theatre où je vous conduiray.<pb n="8"/></l>
-            <l n="109" xml:id="l109">Ma sœur veut vous donner un fort beau <ref target="#point-gesne">poinct de Gesne*</ref>,</l>
+            <l n="109" xml:id="l109">Ma sœur veut vous donner un fort beau <ref target="#point-gesne">poinct de Gesne</ref>,</l>
             <l n="110" xml:id="l110">Et moy des citrons doux, et de la pourcelaine.</l>
           </sp>
           <sp xml:id="I04-7" who="l-espinay">
@@ -1328,7 +1328,7 @@
             <l n="151" xml:id="l151">Une comediene a beaucoup à souffrir :</l>
             <l n="152" xml:id="l152">Il luy faut tout entendre, il luy faut tout oüir;</l>
             <l n="153" xml:id="l153">Souvent un franc benais luy vient conter sornette</l>
-            <l n="154" xml:id="l154">Et fera, luy parlant le mignon de couchette*;</l>
+            <l n="154" xml:id="l154">Et fera, luy parlant le mignon de couchette;</l>
             <l n="155" xml:id="l155">Mais ce qui me consolle en un si grand despit</l>
             <l n="156" xml:id="l156">Est que j’entends parler aussi les gens d’esprit,</l>
             <l n="157" xml:id="l157">Et que j’ay le bonheur de hanter la noblesse</l>
@@ -1459,7 +1459,7 @@
             <l n="224" xml:id="l224">Mais je me bat d’un air qui n’est pas du commun;</l>
             <l n="225" xml:id="l225">Ils s’en vont revenir peut-estre avec main forte.</l>
             <l n="226" xml:id="l226">On s’en va commencer, rentrons, fermons la porte<note n="72" place="bottom"> « Par un ordre de la police de 1609, le début des spectacles était fixé vers les deux heures de l’après midi parce que la représentation se terminait avant la soirée » MONGRÉDIEN souligne qu’il était aussi fréquent d’attendre les spectateurs qui étaient en retard (cf. MONGRÉDIEN, 1966, p. 158).</note>.</l>
-            <p rend="center">FIN.</p>
+            <trailer rend="center">FIN.</trailer>
           </sp>
         </div>
       </div>
@@ -1602,7 +1602,7 @@
             <l n="275" xml:id="l275">Et l’on est dans un temps où l’on ne considere</l>
             <l n="276" xml:id="l276">L’esprit ny la beauté, l’or seul a droit de plaire.</l>
             <l n="277" xml:id="l277">Un teint semé d’appas<note n="75" place="bottom"> Attraits.</note>, un astre merveilleux,</l>
-            <l n="278" xml:id="l278">D’un <ref target="#lourdaud">lourdaut*</ref> bien renté ne charme point les yeux</l>
+            <l n="278" xml:id="l278">D’un <ref target="#lourdaud">lourdaut</ref> bien renté ne charme point les yeux</l>
             <l n="279" xml:id="l279">Si l’on dit, regardez les admirables filles,</l>
             <l n="280" xml:id="l280">On vous répond à qui vendez-vous vos coquilles ?</l>
             <l n="281" xml:id="l281">Bref il faut estre belle au coffre comme au corps,</l>
@@ -1708,7 +1708,7 @@
             <l n="340" xml:id="l340">En essence, en rubans, en gands, en limonades,</l>
             <l n="341" xml:id="l341">En oranges, en citrons, en pommettes d’apis,</l>
             <l n="342" xml:id="l342">En confiture, en chien, en musque, en ambre gris,</l>
-            <l n="343" xml:id="l343">En collets, en dantelles, en bijoux, en <ref target="#guenuche">guenuche*</ref>,</l>
+            <l n="343" xml:id="l343">En collets, en dantelles, en bijoux, en <ref target="#guenuche">guenuche</ref>,</l>
             <l n="344" xml:id="l344">En beau pendans d’oreilles, en panache d’autruche,</l>
             <l n="345" xml:id="l345">Ce n’est pas le moyen de se mettre en credit,</l>
             <l n="346" xml:id="l346">Si l’on ne fait jamais de dépense en esprit.</l>
@@ -1731,7 +1731,7 @@
             <speaker>LE DOCTEUR.</speaker>
             <l part="F">Les femmes...taisez-vous</l>
             <l n="358" xml:id="l358">Parlez avec respect de ces objets si doux !</l>
-            <l n="359" xml:id="l359">Un galand de trois jours, un <ref target="#marjolet">marjolet*</ref> d’une heure</l>
+            <l n="359" xml:id="l359">Un galand de trois jours, un <ref target="#marjolet">marjolet</ref> d’une heure</l>
             <l n="360" xml:id="l360">Dira  je suis aimé d’une dame, je meure.</l>
             <l n="361" xml:id="l361">Et la belle souvent ne pense pas à luy.</l>
             <l n="362" xml:id="l362">L’autre dira tousjours : je suis exempt d’ennuy;</l>
@@ -1851,7 +1851,7 @@
             <l n="406" xml:id="l406">Que le nom n’en a point pery;</l>
             <l n="407" xml:id="l407">Une des merveilles du monde</l>
             <l n="408" xml:id="l408">Vient de son amour sans seconde.</l>
-            <l n="409" xml:id="l409">Panthée* à suivy noblement</l>
+            <l n="409" xml:id="l409">Panthée à suivy noblement</l>
             <l n="410" xml:id="l410">Son mary dans le monument.</l>
             <l n="411" xml:id="l411">Evadne dans un duel extréme</l>
             <l n="412" xml:id="l412">Et tant d’autres firent de mesme.</l>
@@ -1893,7 +1893,7 @@
             <stage>Le docteur sort.</stage>
           </sp>
           <sp xml:id="II04-39" who="trapolin">
-            <speaker>TRAPOLIN <hi rend="i">seul</hi>.</speaker>
+            <speaker>TRAPOLIN </speaker><stage>seul</stage>
             <l n="435" xml:id="l435">Ah ! le Docteur m’entend, il me donne silence;</l>
             <l n="436" xml:id="l436">Je m’en vais à mon tour montrer mon eloquence.</l>
             <l n="437" xml:id="l437">Mais vous m’écouterez, au moins, mon cher Docteur !</l>
@@ -1906,14 +1906,14 @@
             <l n="444" xml:id="l444">Sieur Basle et Sieur Cadot viennent rompre en visiere.</l>
             <l n="445" xml:id="l445">Un homme est fort constant, la femme ne l’est pas;</l>
             <l n="446" xml:id="l446">Et je vous prouveray.... mais il n’écoute pas !</l>
-            <l n="447" xml:id="l447">Docteur, Docteur ! il est méchant comme un <ref target="#guenuche">guenuche*</ref>.<pb n=" 28 C ij"/></l>
+            <l n="447" xml:id="l447">Docteur, Docteur ! il est méchant comme un <ref target="#guenuche">guenuche</ref>.<pb n=" 28 C ij"/></l>
           </sp>
         </div>
         <div type="scene" xml:id="II05">
           <head>SCENE IV.</head>
           <stage>LE DOCTEVR, TRAPOLIN</stage>
           <sp xml:id="II05-1" who="le-docteur">
-            <speaker>LE DOCTEUR <hi rend="i">revient</hi>.</speaker>
+            <speaker>LE DOCTEUR </speaker><stage>revient</stage>
             <l n="448" xml:id="l448">Que veux-tu, veau doré, franc badin, esprit cruche ?</l>
           </sp>
           <sp xml:id="II05-2" who="trapolin">
@@ -1924,7 +1924,7 @@
           </sp>
           <sp xml:id="II05-3" who="le-docteur">
             <speaker>LE DOCTEUR</speaker>
-            <l n="452" xml:id="l452">Mes filles ne sont pas pour ouïr des <ref target="#vetille">vetilles*</ref>;</l>
+            <l n="452" xml:id="l452">Mes filles ne sont pas pour ouïr des <ref target="#vetille">vetilles</ref>;</l>
             <l n="453" xml:id="l453">Et cent petits mortels qui s’en disent amans</l>
             <l n="454" xml:id="l454">N’arriveront jamais jusqu’a leur firmamens.</l>
             <l n="455" xml:id="l455">Pour vous, de vostre esprit j’excuse les foiblesses</l>
@@ -2003,7 +2003,7 @@
             <l n="494" xml:id="l494">Comme vous, mon Papa, voulant que je m’excrime,</l>
             <l n="495" xml:id="l495">Pour mettre un jour au jour un enfant legitime.</l>
             <l n="496" xml:id="l496">Enfin je suis outrée avec juste raison :</l>
-            <l n="497" xml:id="l497">Un <ref target="#galimatias">galimatias*</ref> bien souvent prend mon nom,</l>
+            <l n="497" xml:id="l497">Un <ref target="#galimatias">galimatias</ref> bien souvent prend mon nom,</l>
             <l n="498" xml:id="l498">Passe pour mon enfant, et j’en suis en colere,</l>
             <l n="499" xml:id="l499">N’ayant rien dissipé des esprits de son pere.</l>
           </sp>
@@ -2014,7 +2014,7 @@
           <sp xml:id="II06-7" who="poesie">
             <speaker>POESIE.</speaker>
             <l n="501" xml:id="l501">Avec un peu de temps je le Poëtiseray,</l>
-            <l n="502" xml:id="l502">Ensemble nous ferons un <ref target="#carme">Carme*</ref> magnifique :</l>
+            <l n="502" xml:id="l502">Ensemble nous ferons un <ref target="#carme">Carme</ref> magnifique :</l>
             <l n="503" xml:id="l503">Il fera le sonnet,  et je feray l’epicque.</l>
           </sp>
           <sp xml:id="II06-8" who="trapolin">
@@ -2038,8 +2038,8 @@
             <speaker>PHILOSOPHIE.</speaker>
             <l n="518" xml:id="l518">Et moy Monsieur, qui met les beaux esprits en flâme,</l>
             <l n="519" xml:id="l519">Qui tiens dans mes liens et la raison et l’âme,</l>
-            <l n="520" xml:id="l520">L’ame vient r’allumer ces feux à mon <ref target="#tison">tison*</ref></l>
-            <l n="521" xml:id="l521">Et je sçay <ref target="#dessiller">dessiller*</ref> les yeux de la raison.</l>
+            <l n="520" xml:id="l520">L’ame vient r’allumer ces feux à mon <ref target="#tison">tison</ref></l>
+            <l n="521" xml:id="l521">Et je sçay <ref target="#dessiller">dessiller</ref> les yeux de la raison.</l>
             <l n="522" xml:id="l522">Sans trop de vanité, ma beauté fait renaistre,</l>
             <l n="523" xml:id="l523">La confiance, le cœur, et la gloire de l’estre.</l>
             <l n="524" xml:id="l524">Que l’amante et la femme ait violé leur foy,</l>
@@ -2054,7 +2054,7 @@
             <speaker>TRAPOLIN</speaker>
             <l part="F">Ho, ho, Madame Philosophie,</l>
             <l n="531" xml:id="l531">Vous en sçavez beaucoup pour mon petit genie</l>
-            <l n="532" xml:id="l532">Vous l’avez trop grand, l’esprit*,</l>
+            <l n="532" xml:id="l532">Vous l’avez trop grand, l’esprit,</l>
             <l n="533" xml:id="l533">Et moy je l’ay trop petit.</l>
           </sp>
           <sp xml:id="II06-11" who="poesie">
@@ -2094,7 +2094,7 @@
           <sp xml:id="II06-15" who="philosophie">
             <speaker>PHILOSOPHIE.</speaker>
             <l n="556" xml:id="l556">Vous avez bien raison, vous estes un brave homme !</l>
-            <l n="557" xml:id="l557">Avec moy vous n’avez qu’à faire un <ref target="#axiome">axiôme*</ref></l>
+            <l n="557" xml:id="l557">Avec moy vous n’avez qu’à faire un <ref target="#axiome">axiôme</ref></l>
             <l n="558" xml:id="l558">Et d’abord vous serez Philosophe parfaict;</l>
             <l n="559" xml:id="l559">Et pour en faire voir promptement un effet</l>
             <l n="560" xml:id="l560">Vous n’avez qu’à trouver du vuide en la nature</l>
@@ -2265,7 +2265,7 @@
             <l n="670" xml:id="l670">Et ne voyez-vous pas que les Muses sont filles,</l>
             <l n="671" xml:id="l671">Quoy qu’elles ayent esprit, et qu’elles soient gentilles;</l>
             <l n="672" xml:id="l672">Si je vous espousois, abordant vos apas,</l>
-            <l n="673" xml:id="l673">Vostre Pagase* et vous me jetteriez à bas.</l>
+            <l n="673" xml:id="l673">Vostre Pagase et vous me jetteriez à bas.</l>
           </sp>
           <sp xml:id="II07-11" who="poesie">
             <speaker>POESIE.</speaker>
@@ -2278,9 +2278,9 @@
             <speaker>TRAPOLIN.</speaker>
             <lg rend="center">
               <l n="678" xml:id="l678">Et l’Apollon avec emphase</l>
-              <l n="679" xml:id="l679">Monte la Muse sur <ref target="#pegase">Pegase*</ref></l>
+              <l n="679" xml:id="l679">Monte la Muse sur <ref target="#pegase">Pegase</ref></l>
               <l n="680" xml:id="l680">Ma foy fille qui fait des vers</l>
-              <l n="681" xml:id="l681">Est sujette à <ref target="#cheoir-envers">cheoir à l’envers*</ref>.</l>
+              <l n="681" xml:id="l681">Est sujette à <ref target="#cheoir-envers">cheoir à l’envers</ref>.</l>
             </lg>
           </sp>
           <sp xml:id="II07-13" who="poesie">
@@ -2321,8 +2321,8 @@
             <l n="691" xml:id="l691">Voy, voy, comme Agripa parle de leurs apas,<pb n=" 38"/></l>
             <l n="692" xml:id="l692">Et de leurs vanitez elles ont eu sa vie;</l>
             <l n="693" xml:id="l693">Et pourtant sans cesser il les avoit servie</l>
-            <l n="694" xml:id="l694">Et vous belle <ref target="#friquette">friquette*</ref>, et vous beaux yeux fripons,</l>
-            <l n="695" xml:id="l695">Et vous qui nous monstrez ces beaux petits <ref target="#teston">testons*</ref>,</l>
+            <l n="694" xml:id="l694">Et vous belle <ref target="#friquette">friquette</ref>, et vous beaux yeux fripons,</l>
+            <l n="695" xml:id="l695">Et vous qui nous monstrez ces beaux petits <ref target="#teston">testons</ref>,</l>
             <l n="696" xml:id="l696">Ces deux globes de laicts, dites-moy, je vous prie,</l>
             <l n="697" xml:id="l697">Par eux doit-on apprendre icy l’astrologie ?</l>
             <l n="698" xml:id="l698">Petite pingrenon, Trapolin est à moy,</l>
@@ -2374,7 +2374,7 @@
             <l n="711" xml:id="l711">Tu choisis le terrestre, et quitte le divin ?</l>
             <l n="712" xml:id="l712">Et toy, laide effrontée, as-tu bien l’insolence,</l>
             <l n="713" xml:id="l713">De me nuire sans cesse, effroyable Ignorance ?</l>
-            <l n="714" xml:id="l714">Mes filles demeurer* pour toy qui ne vaut rien !</l>
+            <l n="714" xml:id="l714">Mes filles demeurer pour toy qui ne vaut rien !</l>
             <l n="715" xml:id="l715">Seray-je tousjours gueux, auras-tu tout le bien ?</l>
             <l n="716" xml:id="l716">Coupe donc l’esprit et ta gauche;</l>
             <l n="717" xml:id="l717">Il faut que Socrates t’embroche,</l>
@@ -2389,8 +2389,8 @@
             <l n="726" xml:id="l726">Que l’on ne te parle qu’en grec;</l>
             <l n="727" xml:id="l727">Que ton humide soit à sec.</l>
             <l n="728" xml:id="l728">Et moy Docteur, je te souhaitte</l>
-            <l n="729" xml:id="l729">Que quelque maligne filette*</l>
-            <l n="730" xml:id="l730">Te vienne <ref target="#nouer-eguillette">noüer l’éguillette*</ref>;</l>
+            <l n="729" xml:id="l729">Que quelque maligne filette</l>
+            <l n="730" xml:id="l730">Te vienne <ref target="#nouer-eguillette">noüer l’éguillette</ref>;</l>
             <l n="731" xml:id="l731">Car je trouve selon mon sens;</l>
             <l n="732" xml:id="l732">Sans que tu fasses des enfans,</l>
             <l n="733" xml:id="l733">Que la terre a trop d’ignorans.</l>
@@ -2440,7 +2440,7 @@
             <l n="755" xml:id="l755">Beuvons, joüons, dansons, et laissons la science !</l>
             <l n="756" xml:id="l756">Allons nous en dormir et manger à foison.</l>
             <l n="757" xml:id="l757">Le plus grand ennemy de l’homme est la raison.</l>
-            <p>FIN.</p>
+            <trailer>FIN.</trailer>
           </sp>
         </div>
       </div>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -26,11 +26,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/montfleury_fille-capitaine/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/montfleury_fille-capitaine.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/montfleury_fille-capitaine.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/montfleury_fille-capitaine.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/montfleury_fille-capitaine.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/montfleury_fille-capitaine/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/montfleury_fille-capitaine.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/montfleury_fille-capitaine.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/montfleury_fille-capitaine.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/montfleury_fille-capitaine.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Montfleury</author>, <title>La Fille capitaine. Comédie</title>, Paris, Chez Pierre Le Monnier, 1672.</bibl>
@@ -214,7 +214,7 @@
             <row>
               <cell>Phyllis <lb/>Je ne me pique point de cette vanité, <lb/>Et l’exemple d’autrui m’a trop fait reconnaître<lb/>Qu'au lieu d’un serviteur c’est accepter un maître.
                 </cell>
-              <cell>Angélique <lb/>Sous un joug que je crains, mon esprit languiroit ;<lb/>Je me fais des plaisirs que l’Hymen* troubleroit ;<lb/>On ne sçait ce qu’on fait souvent quand on se donne ;
+              <cell>Angélique <lb/>Sous un joug que je crains, mon esprit languiroit ;<lb/>Je me fais des plaisirs que l’Hymen troubleroit ;<lb/>On ne sçait ce qu’on fait souvent quand on se donne ;
                 </cell>
             </row>
           </table>
@@ -223,7 +223,7 @@
             <row>
               <cell>Phyllis<lb/>Tout le monde me plaît, et rien ne m’importune.<lb/>De mille que je rends l’un de l’autre jaloux,<lb/>Mon coeur n’est à pas un, et se promet à tous :<lb/>Ainsi tous à l’envi s’efforcent à me plaire ;
                 </cell>
-              <cell>Angélique<lb/>J’aime à troubler des cœurs sans engager le mien,<lb/>A tourner d’un Amant l’ardeur en ridicule,<lb/>A vivre sans attache, &amp; railler sans scrupule,<lb/>A flater vingt Galans* de l’espoir de ma main,<lb/>Et mesme quelquefois à dauber le prochain :
+              <cell>Angélique<lb/>J’aime à troubler des cœurs sans engager le mien,<lb/>A tourner d’un Amant l’ardeur en ridicule,<lb/>A vivre sans attache, &amp; railler sans scrupule,<lb/>A flater vingt Galans de l’espoir de ma main,<lb/>Et mesme quelquefois à dauber le prochain :
                 </cell>
             </row>
           </table>
@@ -267,7 +267,7 @@
           <p>La structure et le sujet de la pièce permettent d’éviter de tomber dans l’écueil de la langueur. Divisée en 5 actes, conformément aux conventions de la tradition classique, la composition de la pièce varie en densité et en nombre de scènes au sein de chaque acte. L'acte I est sensiblement le plus long : il s’étend sur 400 vers, lesquels sont répartis de façon inégale en 10 scènes. Les actes II, IV, et V<note place="bottom">Ces actes comportent respectivement 340 vers, 336 vers et 300 vers.</note> comportent entre 300 et 340 vers ; les actes II et V sont divisés en 15 scènes, et l’acte IV en 9 scènes. L'acte III est le plus court : 272 vers répartis sur 6 scènes.  On peut dégager 3 grands mouvements dans la pièce : l’exposition, les stratagèmes, et le dénouement.</p>
           <div>
             <head>L'exposition</head>
-            <p>C'est le premier acte qui prend en charge cette exigence du genre théâtral. L'exposition s’étend sur les 6 premières scènes et peut-être divisée en deux parties : l’exposition conventionnelle, et la révélation. En effet, les 4 premières scènes présentent la majorité des personnages et leurs relations entre eux, qu’elles soient de parenté, pour Lucinde et Angélique, ou amoureuse, pour Damon et Lucinde. Le binôme des serviteurs, Cato et l’Espérance, est introduit. La pièce commence assez communément : le mariage entre deux jeunes gens est retardé par un obstacle, l’absence du frère de Lucinde. Or la scène 6, scène centrale de l’acte où Lucinde avoue à Angélique la sollicitation de l’oncle de Damon à son égard, fait prendre à la pièce un nouveau tournant. « C'est que ce Parent est amoureux de moy ». Cette révélation déplace le centre d’intérêt de l’intrigue : le mariage des jeunes gens demeure la visée ultime mais il semble passé au second plan, au profit de l’entreprise de tromperie d’Angélique « Si ce Parent refuse son aveu*,/ Croy-moy, laisse-moy faire, &amp; nous verrons beau jeu :/ Je me charge du soin de le rendre traittable ;/ Je sçay, pour le berner, un moyen admirable. » Les moyens priment sur la fin. Le couple Le Blanc, introduit à la scène suivante, achève la présentation des personnages principaux.</p>
+            <p>C'est le premier acte qui prend en charge cette exigence du genre théâtral. L'exposition s’étend sur les 6 premières scènes et peut-être divisée en deux parties : l’exposition conventionnelle, et la révélation. En effet, les 4 premières scènes présentent la majorité des personnages et leurs relations entre eux, qu’elles soient de parenté, pour Lucinde et Angélique, ou amoureuse, pour Damon et Lucinde. Le binôme des serviteurs, Cato et l’Espérance, est introduit. La pièce commence assez communément : le mariage entre deux jeunes gens est retardé par un obstacle, l’absence du frère de Lucinde. Or la scène 6, scène centrale de l’acte où Lucinde avoue à Angélique la sollicitation de l’oncle de Damon à son égard, fait prendre à la pièce un nouveau tournant. « C'est que ce Parent est amoureux de moy ». Cette révélation déplace le centre d’intérêt de l’intrigue : le mariage des jeunes gens demeure la visée ultime mais il semble passé au second plan, au profit de l’entreprise de tromperie d’Angélique « Si ce Parent refuse son aveu,/ Croy-moy, laisse-moy faire, &amp; nous verrons beau jeu :/ Je me charge du soin de le rendre traittable ;/ Je sçay, pour le berner, un moyen admirable. » Les moyens priment sur la fin. Le couple Le Blanc, introduit à la scène suivante, achève la présentation des personnages principaux.</p>
           </div>
           <div>
             <head>Les stratagèmes</head>
@@ -336,11 +336,11 @@
             <l>Le bon sens avec luy paroist incompatible,</l>
             <l>Son abord est choquant, &amp; sa mine risible ;</l>
             <l>Son air, quoy que Bourgeois, est fort particulier,</l>
-            <l>Son entretien* plaisant, &amp; mesme familier. (I, 6, v. 187-190)</l>
+            <l>Son entretien plaisant, &amp; mesme familier. (I, 6, v. 187-190)</l>
           </quote>
           <p>Le portrait physique n’est qu’esquissé, donnant une plus large marge de manœuvre à l’imagination. Cependant, le lecteur-spectateur, par déduction, peut s’imaginer un personnage plutôt âgé en raison de sa qualité d’oncle ; corpulent aussi :</p>
           <quote>
-            <l>Je n’ay point de repos*, je maigris tous les jours (I, 15, v. 393)</l>
+            <l>Je n’ay point de repos, je maigris tous les jours (I, 15, v. 393)</l>
           </quote>
           <p>La dimension comique de ce vers ne semble pouvoir s’accomplir que s’il y a un décalage entre les propos tenus et l’apparence du locuteur, autrement dit, il faudrait, pour faire rire, que le personnage présente un embonpoint significatif. Le manque d’esprit et de finesse du personnage est en analogie avec son apparence :</p>
           <quote>
@@ -352,7 +352,7 @@
           <p>Mais ce personnage est aussi une figure d’autorité, puisque comme le rappelle Lucinde, il a du bien, et il est le tuteur de Damon.</p>
           <p>Monsieur le Blanc se distingue aussi par sa lâcheté, que l’on observe à plusieurs reprises. Tout d’abord à la scène 9 de l’acte II, où il n’hésite pas à couper court à la conversation pour se cacher du Capitaine.</p>
           <quote>
-            <l>Tréve de compliment*,</l>
+            <l>Tréve de compliment,</l>
             <l>Où faut-il me cacher ? (II, 9, v. 583-584)</l>
           </quote>
           <p>Montfleury accentue ce trait de caractère en parodiant un vers de Corneille. Ainsi, le vers de Don Diègue à Don Rodrigue, « Nous n’avons qu’un honneur il est tant de maîtresses! » (III, 6 du <hi rend="i">Cid</hi>), perd toute sa superbe en devenant, « Il est plus d’une Femme, &amp; l’on a qu’une vie » (II, 13, v 710). La valeur morale de cette maxime mettant l’honneur au dessus de tout est détournée au profit du comique. Sa lâcheté est doublée de son manque de courage :</p>
@@ -386,7 +386,7 @@
           <p>Le retour du Capitaine préoccupe aussi Angélique, mais pour des raisons différentes de celles de Lucinde et de Damon : elle voit en ce Capitaine un cavalier de choix pour la danse. Ce goût pour la bagatelle illustre son esprit jeune et insouciant. Loin de partager les mêmes préoccupations que sa cousine, Angélique ne conçoit pas le mariage comme une finalité. Elle se refuse à tout engagement définitif, qui sonne alors comme une condamnation à l’assujettissement.</p>
           <quote>
             <l>Sous un joug que je crains, mon esprit languiroit ;</l>
-            <l>Je me fais des plaisirs que l’Hymen* troubleroit. (I, 1, v. 73-74)</l>
+            <l>Je me fais des plaisirs que l’Hymen troubleroit. (I, 1, v. 73-74)</l>
           </quote>
           <p>Cette volonté de liberté n’est pas tant motivée par une aspiration moderne qu’est l’émancipation de la femme, que par un égoïsme bel et bien réel.</p>
           <quote>
@@ -414,13 +414,13 @@
           </quote>
           <p>Elle s’oppose en plusieurs points à sa cousine Angélique. Tout d’abord, Lucinde croit au mariage et considère l’amour comme une chose importante, et le cynisme de sa parente à ce sujet tend à l’agacer, si bien qu’elle lui souhaite comme mal de connaître un jour les affres de l’amour.</p>
           <quote>
-            <l>Plût au Ciel qu’un Hymen* à tes yeux plein de charmes,</l>
+            <l>Plût au Ciel qu’un Hymen à tes yeux plein de charmes,</l>
             <l>Pour me vanger de toy, pût te coûter des larmes !</l>
             <l>Pour lors la raillerie agiroit foiblement. (I, 1, v. 63-65)</l>
           </quote>
           <p>Elle est aussi raisonnable et prudente, en opposition avec sa cousine Angélique plus téméraire. Eprise de Damon, elle souhaite se marier avec lui. Mais l’absence de son frère, de qui elle dépend, et l’opiniâtreté de Monsieur le Blanc, lequel est épris d’elle, sont autant d’obstacles à ses souhaits. En effet, si Angélique se propose, en se travestissant, d’allouer cette union par contumace, le refus de Monsieur le Blanc demeure problématique. Et consciente du lien qui unit le vieil homme et Damon, elle refuse d’exposer la vérité à son fiancé de peur de les brouiller et de mettre en péril l’héritage du jeune homme.</p>
           <quote>
-            <l>Il doit le ménager : outre qu’il a son bien*,</l>
+            <l>Il doit le ménager : outre qu’il a son bien,</l>
             <l>Tu sçauras que Damon doit heriter du sien :</l>
             <l>Comme il n’a point d’Enfans, tout ce bien le regarde ;</l>
             <l>Damon assurément le perd, s’il le hazarde,</l>
@@ -437,7 +437,7 @@
           <p>L'attitude prévoyante et raisonnée de Lucinde la met à l’écart de la direction des opérations. A plusieurs reprises Angélique lui dissimule ses projets, et ce dès la scène 6 de l’acte I, ou elle ne lui fait pas part de son plan.</p>
           <quote>
             <l>ANGELIQUE</l>
-            <l>Si ce Parent refuse son aveu*,</l>
+            <l>Si ce Parent refuse son aveu,</l>
             <l>Croy-moy, laisse-moy faire, &amp; nous verrons beau jeu:</l>
             <l>Je me charge du soin de le rendre traittable ;</l>
             <l>Je sçay, pour le berner, un moyen admirable.</l>
@@ -510,7 +510,7 @@
             <l>MADAME LE BLANC</l>
             <l>Je commence à trouver ce discours ennuyeux :</l>
             <l>C’est porter un peu loin l’insolence à mes yeux ;</l>
-            <l>Mais tu peux t’assurer que devant* que je parte… (IV, 4, v. 1089-1091)</l>
+            <l>Mais tu peux t’assurer que devant que je parte… (IV, 4, v. 1089-1091)</l>
           </quote>
           <p>Mais prenant un réel plaisir à se jouer de son mari lors de leur confrontation à l’acte III, elle apparaît comme étant une femme avertie, sachant quand il le faut donner une leçon à autrui.</p>
         </div>
@@ -556,7 +556,7 @@
             <l>Que quelque heureux moment m’annonce son retour ;</l>
             <l>Mon cœur plein d’un amour combatu par la crainte,</l>
             <l>N’a pour se soulager, que l’espoir &amp; la plainte,</l>
-            <l>Et me force à conter dans l’ennuy* que je sens,</l>
+            <l>Et me force à conter dans l’ennuy que je sens,</l>
             <l>Le nombre de mes maux, par celuy des momens. (I, 2, v. 97-102)</l>
           </quote>
           <p>Damon demeure un personnage secondaire, qui ne jouit pas de l’autorité que lui confère son sexe. Aussi, il rappelle à Lucinde le joug sous lequel elle le maintient lorsqu’il déclare :</p>
@@ -582,20 +582,20 @@
             <l>Pour un baiser, ou deux, veux-tu…</l>
             <l>CATO</l>
             <l>Veux-tu toy-méme</l>
-            <l>Me laisser en repos* ? (IV, 2, v. 1045- 1049)</l>
+            <l>Me laisser en repos ? (IV, 2, v. 1045- 1049)</l>
           </quote>
           <p>Les hommes de la pièce prennent les femmes, ces « animaux-là », comme source de tous leurs maux et placent de fait la figure féminine en position de force.</p>
           <p>Et si « du côté de la barbe est la toute-puissance », la raison semble avoir déserté l’esprit de ces messieurs pour motiver les discours de ces dames. Celles-ci se laissent moins emporter dans des envolées lyriques dévoilant les tréfonds de leurs cœurs. Au contraire, leurs propos se rangent du côté de la bienséance et du bon sens. Refuser un hymen clandestin, désirer un mariage serein, autant de revendications sensées et honnêtes. Madame le Blanc et Lucinde sont aux antipodes du motif de la femme/animal. Fidèles, constantes et aimantes, elles ne souhaitent qu’une union paisible et ordinaire. Dans le dialogue avec Monsieur le Blanc à la scène 7 de l’acte I, Madame le Blanc ne comprend pas l’attitude fuyante de son époux, et se plaint d’être délaissée par lui. Refusant de prendre un amant et s’en défendant auprès de son mari, elle prouve une fois de plus sa fidélité lorsque Cato lui annonce qu’un autre galant, au courant de sa prétendue liaison avec « le Capitaine », souhaite la rencontrer pour tenter sa chance. De même, Lucinde fait preuve d’intégrité en refusant « un commerce galant d’Hymen de conscience » (IV, 7).</p>
           <p>Dans la pièce, deux conceptions du mariage sont exposées. Nous avons vu que Lucinde, Damon, et Madame le Blanc partagent l’idée du mariage comme régularisation d’un amour. Les deux jeunes gens croient aux valeurs du mariage ce qui expliquent leur empressement. Mais le discours de Monsieur le Blanc et d’Angélique nuance cette vision univoque du mariage comme accomplissement du couple. Tout d’abord Angélique raille les discours lyriques de Damon en reprenant le motif de la flamme amoureuse :</p>
           <quote>
             <l>DAMON</l>
-            <l>Mais s’il faut voir enfin mes feux* sacrifiez…</l>
+            <l>Mais s’il faut voir enfin mes feux sacrifiez…</l>
             <l>ANGÉLIQUE</l>
             <l>Eh mon Dieu, vous serez assez tost mariez :</l>
-            <l>Quand au nom de Galant* celuy d’Epoux succede,</l>
-            <l>L’Hymen* pour ces ardeurs devient un grand remede ;</l>
+            <l>Quand au nom de Galant celuy d’Epoux succede,</l>
+            <l>L’Hymen pour ces ardeurs devient un grand remede ;</l>
             <l>Et quelque soit l’amour dont vous brûliez tous deux,</l>
-            <l>Un an de Mariage appaise bien des feux*. (I, 2, v. 113-118)</l>
+            <l>Un an de Mariage appaise bien des feux. (I, 2, v. 113-118)</l>
           </quote>
           <p>Monsieur le Blanc aussi met en garde et Damon, et Lucinde quant aux effets du mariage. Son discours faussement prévenant a pour but, certes, de dissuader son neveu d’épouser la jeune fille qu’il courtise, et de nouer une liaison secrète avec Lucinde. Il n’empêche que, contrairement à Angélique, ce personnage semble être le porte-parole des mariés regrettant leur liberté d’antan.</p>
           <quote>
@@ -604,7 +604,7 @@
             <l>Qu’il est toûjours trop tost pour faire une sottise,</l>
             <l>Et que quoy que l’Amour vous promette de doux,</l>
             <l>Le nombre des Marys n’est que trop grand sans vous ;</l>
-            <l>Qu’il faut quand l’Hymen* tient nostre cœur en balance,</l>
+            <l>Qu’il faut quand l’Hymen tient nostre cœur en balance,</l>
             <l>Ensevelir l’Amour dans un drap de prudence ;</l>
             <l>Que j’ay pour en juger, suffisamment vescu (I, 9, v. 315-320)</l>
             <l>Le jour qu’on se marie, on ne sçait ce qu’on fait. (Monsieur le Blanc, IV, 7, v. 1186)</l>
@@ -744,7 +744,7 @@
           <sp xml:id="I01-3" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l n="4" xml:id="l4">Laissons-là ces honneurs; de Parente à Parente,</l>
-            <l n="5" xml:id="l5">Doit-on toûjours avoir le <ref target="#compliment1">compliment*</ref> en main ?<pb n="2" xml:id="p2"/></l>
+            <l n="5" xml:id="l5">Doit-on toûjours avoir le <ref target="#compliment1">compliment</ref> en main ?<pb n="2" xml:id="p2"/></l>
             <l n="6" xml:id="l6">Mon Père est ce matin party pour Saint Germain :</l>
             <l n="7" xml:id="l7">Comme il entre en quartier<note place="bottom">Quartier, chez les Roys et les Princes, est le service qu’on leur rend durant trois mois, chacun selon sa charge. (F)</note> dans deux jours, son absence</l>
             <l n="8" xml:id="l8">Me permet de répondre à mon impatience.</l>
@@ -769,12 +769,12 @@
             <l n="18" xml:id="l18">Il n’est pas incommode, il est jeune &amp; bien fait ;</l>
             <l n="19" xml:id="l19">Sa preference bientost nous en rendra certaines ;</l>
             <l n="20" xml:id="l20">Le Regiment du Roy n’a point de Capitaines</l>
-            <l n="21" xml:id="l21">Qui soient plus estimez, ny plus <ref target="#galans">galans*</ref> que luy.</l>
+            <l n="21" xml:id="l21">Qui soient plus estimez, ny plus <ref target="#galans">galans</ref> que luy.</l>
           </sp>
           <sp xml:id="I01-7" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l n="22" xml:id="l22">Pour nous divertir donc, il faudroit qu’aujourd’huy</l>
-            <l n="23" xml:id="l23">Ce Frere si <ref target="#galans">galans*</ref>, vint par Lettre de Change<note place="bottom">La Lettre de Change « est une rescription que donne un Banquier ou un Marchand pour faire payer à celuy qui en sera le porteur en un lieu éloigné l’argent qu’on luy compte au lieu de sa demeure. » (F) On peut penser ici qu’il s’agit de la troisième sorte de lettre de change, comme la définit Furetière c’est-à-dire, « pour valeur de moy-même ».</note> ;</l>
+            <l n="23" xml:id="l23">Ce Frere si <ref target="#galans">galans</ref>, vint par Lettre de Change<note place="bottom">La Lettre de Change « est une rescription que donne un Banquier ou un Marchand pour faire payer à celuy qui en sera le porteur en un lieu éloigné l’argent qu’on luy compte au lieu de sa demeure. » (F) On peut penser ici qu’il s’agit de la troisième sorte de lettre de change, comme la définit Furetière c’est-à-dire, « pour valeur de moy-même ».</note> ;</l>
             <l n="24" xml:id="l24">Car enfin les plaisirs demandent du meslange,</l>
             <l n="25" xml:id="l25">Et nous n’aurons Damon qu’assez mal-aisément ;</l>
             <l n="26" xml:id="l26">Les Dez, &amp; le grand Jeu, l’occupent tellement,</l>
@@ -785,15 +785,15 @@
             <speaker>LUCINDE</speaker>
             <l part="F">C’est luy faire injustice.</l>
             <l n="29" xml:id="l29">Non, cet empressement n’est point si violent ;</l>
-            <l n="30" xml:id="l30">Damon aime le Jeu, mais Damon est <ref target="#galans">galant*</ref> ;</l>
+            <l n="30" xml:id="l30">Damon aime le Jeu, mais Damon est <ref target="#galans">galant</ref> ;</l>
             <l n="31" xml:id="l31">Outre que la beauté dont le Ciel t’a pourveuë,</l>
-            <l n="32" xml:id="l32">Le rendra plus sensible au plaisir de ta <ref target="#veue">veuë*</ref>.</l>
+            <l n="32" xml:id="l32">Le rendra plus sensible au plaisir de ta <ref target="#veue">veuë</ref>.</l>
           </sp>
           <sp xml:id="I01-9" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l n="33" xml:id="l33">Ne fais point avec moy la fine à contre-temps,<pb n="3" xml:id="p3"/></l>
             <l n="34" xml:id="l34">Ce Chevalier t’en veut<note place="bottom">Vouloir, en contexte, « signifie aussi, Avoir quelque desir, quelque pretention sur une personne, sur une chose. » (A)</note>, je me connois en Gens ;</l>
-            <l n="35" xml:id="l35">Sur ce que j’en ay veu, je gagerois* qu’il t’aime,</l>
+            <l n="35" xml:id="l35">Sur ce que j’en ay veu, je gagerois qu’il t’aime,</l>
             <l n="36" xml:id="l36">Du moins c’est mon avis, &amp; je crois qu’au tien méme</l>
             <l n="37" xml:id="l37">Pour rendre ton bonheur à son amour égal,</l>
             <l n="38" xml:id="l38">Le nom de ton Epoux ne luy siéroit pas mal.</l>
@@ -806,12 +806,12 @@
             <l n="42" xml:id="l42">Damon, pour m’obtenir, n’attend que son retour :</l>
             <l n="43" xml:id="l43">Mais quoy qu’enfin sur tout ton humeur cherche à rire,</l>
             <l n="44" xml:id="l44">Je le crois à couvert des traits de ta Satire ;</l>
-            <l n="45" xml:id="l45">Il est jeune, bien fait, <ref target="#galans">galant*</ref>, riche, &amp; je crois</l>
+            <l n="45" xml:id="l45">Il est jeune, bien fait, <ref target="#galans">galant</ref>, riche, &amp; je crois</l>
             <l n="46" xml:id="l46">Qu’on ne peut me blâmer d’avoir fait un tel choix.</l>
           </sp>
           <sp xml:id="I01-11" who="angelique">
             <speaker>ANGELIQUE</speaker>
-            <l n="47" xml:id="l47">Il est bien malaisé qu’un tel <ref target="#galans">Galant*</ref> ne plaise :</l>
+            <l n="47" xml:id="l47">Il est bien malaisé qu’un tel <ref target="#galans">Galant</ref> ne plaise :</l>
             <l n="48" xml:id="l48">Ce moderne Adonis<note place="bottom">Adonis est l’enfant incestueux de Cynéras, roi de Chypre, et de sa fille, Smyra. Célèbre pour sa beauté, il fut l’amant d’Aphrodite, qui le prit sous sa protection dès sa naissance, et de Perséphone, qui l’éleva aux Enfers. </note> ne te vient voir qu’en Chaise<note place="bottom">On appelle aussi, <hi rend="i">Chaise</hi>, « Une espece de siege fermé &amp; couvert, dans lequel on se fait porter par deux hommes. <hi rend="i">Chaises de place. chaise de particulier. il se fait porter, il va en chaise. porteur de chaise</hi>. » (A)</note>,</l>
             <l n="49" xml:id="l49">Du nom de Chevalier soûtient sa vanité,</l>
             <l n="50" xml:id="l50">Contrefait à ravir l’Homme de Qualité<note place="bottom">Se dit d’un homme « qui tient un rang distingué, soit par la noblesse, soit par  ses emplois ou ses dignitez » (F)</note> ;</l>
@@ -830,7 +830,7 @@
             <l n="60" xml:id="l60">Tu peux continuer sans que je m’en étonne ;</l>
             <l n="61" xml:id="l61">Ton temps n’est pas venu, peut-estre quelque jour</l>
             <l n="62" xml:id="l62">Tu pourras ressentir les effets de l’Amour.</l>
-            <l n="63" xml:id="l63">Plût au Ciel qu’un <ref target="#hymen">Hymen*</ref> à tes yeux plein de charmes,<pb n="A ij 4"/></l>
+            <l n="63" xml:id="l63">Plût au Ciel qu’un <ref target="#hymen">Hymen</ref> à tes yeux plein de charmes,<pb n="A ij 4"/></l>
             <l n="64" xml:id="l64">Pour me vanger de toy, pût te coûter des larmes !</l>
             <l n="65" xml:id="l65">Pour lors la raillerie agiroit foiblement.</l>
           </sp>
@@ -845,19 +845,19 @@
           <sp xml:id="I01-15" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l n="68" xml:id="l68">Je veux vivre toûjours, Cousine, à ma manière ;</l>
-            <l n="69" xml:id="l69">Et mon cœur ne sera pour l’<ref target="#hymen">Hymen*</ref> attendry,</l>
+            <l n="69" xml:id="l69">Et mon cœur ne sera pour l’<ref target="#hymen">Hymen</ref> attendry,</l>
             <l n="70" xml:id="l70">Que quand on se pourra défaire d’un Mary</l>
             <l n="71" xml:id="l71">Comme on fait d’un Habit qui n’est plus à la mode :</l>
             <l n="72" xml:id="l72">Des manieres d’agir, j’aime la plus commode ;</l>
             <l n="73" xml:id="l73">Sous un joug que je crains, mon esprit languiroit ;</l>
-            <l n="74" xml:id="l74">Je me fais des plaisirs que l’<ref target="#hymen">Hymen*</ref> troubleroit ;</l>
+            <l n="74" xml:id="l74">Je me fais des plaisirs que l’<ref target="#hymen">Hymen</ref> troubleroit ;</l>
             <l n="75" xml:id="l75">On ne sçait ce qu’on fait souvent quand on se donne ;</l>
             <l n="76" xml:id="l76">Pour n’aimer qu’un Mary, j’aime trop ma personne ;</l>
-            <l n="77" xml:id="l77">J’aime le Jeu, le Bal, la Dance, l’<ref target="#entretien">entretien*</ref>,</l>
+            <l n="77" xml:id="l77">J’aime le Jeu, le Bal, la Dance, l’<ref target="#entretien">entretien</ref>,</l>
             <l n="78" xml:id="l78">J’aime à troubler des cœurs sans engager le mien,</l>
             <l n="79" xml:id="l79">A tourner d’un Amant l’ardeur en ridicule,</l>
             <l n="80" xml:id="l80">A vivre sans attache, &amp; railler sans scrupule,</l>
-            <l n="81" xml:id="l81">A flater vingt <ref target="#galans">Galans*</ref> de l’espoir de ma main,</l>
+            <l n="81" xml:id="l81">A flater vingt <ref target="#galans">Galans</ref> de l’espoir de ma main,</l>
             <l n="82" xml:id="l82">Et mesme quelquefois à dauber<note place="bottom">« Railler, parler mal de quelqu’un. » (A)</note> le prochain :</l>
             <l n="83" xml:id="l83">Si bien qu’à ces plaisirs donnant mon ame en proye,</l>
             <l n="84" xml:id="l84">Des sottises d’autruy je me fais une joye,</l>
@@ -887,13 +887,13 @@
             <speaker>DAMON</speaker>
             <l n="93" xml:id="l93">Oüy, Madame, il est vray, ce long retardement</l>
             <l n="94" xml:id="l94">Mettroit au desespoir le moins sensible Amant.</l>
-            <l n="95" xml:id="l95">Vostre Frere qui doit regler nostre <ref target="#hymen">Hymenée*</ref>,</l>
+            <l n="95" xml:id="l95">Vostre Frere qui doit regler nostre <ref target="#hymen">Hymenée</ref>,</l>
             <l n="96" xml:id="l96">M’en semble pour jamais éloigner la journée :</l>
             <l n="97" xml:id="l97">Depuis pres de deux mois j’attens de jour en jour</l>
             <l n="98" xml:id="l98">Que quelque heureux moment m’annonce son retour ;</l>
             <l n="99" xml:id="l99">Mon cœur plein d’un amour combatu par la crainte,</l>
             <l n="100" xml:id="l100">N’a pour se soulager, que l’espoir &amp; la plainte,</l>
-            <l n="101" xml:id="l101">Et me force à conter dans l’ennuy* que je sens,</l>
+            <l n="101" xml:id="l101">Et me force à conter dans l’ennuy que je sens,</l>
             <l n="102" xml:id="l102">Le nombre de mes maux, par celuy des momens.</l>
           </sp>
           <sp xml:id="I02-3" who="lucinde">
@@ -921,19 +921,19 @@
             <speaker>DAMON</speaker>
             <l n="111" xml:id="l111">Pourveu que le succés mette fin à mes craintes,<pb n="6" xml:id="p6"/></l>
             <l n="112" xml:id="l112">La joye &amp; les plaisirs succederont aux plaintes :</l>
-            <l n="113" xml:id="l113">Mais s’il faut voir enfin mes <ref target="#feux">feux*</ref> sacrifiez…</l>
+            <l n="113" xml:id="l113">Mais s’il faut voir enfin mes <ref target="#feux">feux</ref> sacrifiez…</l>
           </sp>
           <sp xml:id="I02-8" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l n="114" xml:id="l114">Eh mon Dieu, vous serez assez tost mariez :</l>
-            <l n="115" xml:id="l115">Quand au nom de <ref target="#galans">Galant*</ref> celuy d’Epoux succede,</l>
-            <l n="116" xml:id="l116">L’<ref target="#hymen">Hymen*</ref> pour ces ardeurs devient un grand remede ;</l>
+            <l n="115" xml:id="l115">Quand au nom de <ref target="#galans">Galant</ref> celuy d’Epoux succede,</l>
+            <l n="116" xml:id="l116">L’<ref target="#hymen">Hymen</ref> pour ces ardeurs devient un grand remede ;</l>
             <l n="117" xml:id="l117">Et quelque soit l’amour dont vous brûliez tous deux,</l>
-            <l n="118" xml:id="l118">Un an de Mariage appaise bien des <ref target="#feux">feux*</ref>.</l>
+            <l n="118" xml:id="l118">Un an de Mariage appaise bien des <ref target="#feux">feux</ref>.</l>
           </sp>
           <sp xml:id="I02-9" who="damon">
             <speaker>DAMON</speaker>
-            <l n="119" xml:id="l119">Ah, pour diminuer, mes flames* sont trop belles.</l>
+            <l n="119" xml:id="l119">Ah, pour diminuer, mes flames sont trop belles.</l>
           </sp>
         </div>
         <div type="scene" xml:id="I03">
@@ -942,7 +942,7 @@
           <sp xml:id="I03-1" who="cato">
             <speaker>CATO</speaker>
             <l n="120" xml:id="l120">Ah que pour vostre amour j’ay de bonnes nouvelles !</l>
-            <l n="121" xml:id="l121">Nous irons à la Nopce<note place="bottom">Du latin nupti, mariage. « Signifie encore le festin, la danse et toutes le réjouissances qui accompagnent le mariage » (A)</note>, &amp; l’<ref target="#hymen">Hymen*</ref> achevé…</l>
+            <l n="121" xml:id="l121">Nous irons à la Nopce<note place="bottom">Du latin nupti, mariage. « Signifie encore le festin, la danse et toutes le réjouissances qui accompagnent le mariage » (A)</note>, &amp; l’<ref target="#hymen">Hymen</ref> achevé…</l>
           </sp>
           <sp xml:id="I03-2" who="damon">
             <speaker>DAMON</speaker>
@@ -971,7 +971,7 @@
           </sp>
           <sp xml:id="I03-8" who="cato">
             <speaker>CATO</speaker>
-            <l n="128" xml:id="l128">Que l’Esperance vient d’arriver <ref target="#tout-a-heure">tout-à-l’heure*</ref>.</l>
+            <l n="128" xml:id="l128">Que l’Esperance vient d’arriver <ref target="#tout-a-heure">tout-à-l’heure</ref>.</l>
           </sp>
           <sp xml:id="I03-9" who="damon">
             <speaker>DAMON</speaker>
@@ -980,7 +980,7 @@
           <sp xml:id="I03-10" who="lucinde">
             <speaker>LUCINDE</speaker>
             <l n="130" xml:id="l130">Un Valet que mon Frere avoit depuis longtemps,</l>
-            <l n="131" xml:id="l131">Et qu’il a fait Sergent <ref target="#dedans">dedans*</ref> sa Compagnie.</l>
+            <l n="131" xml:id="l131">Et qu’il a fait Sergent <ref target="#dedans">dedans</ref> sa Compagnie.</l>
           </sp>
           <sp xml:id="I03-11" who="damon">
             <speaker>DAMON</speaker>
@@ -1009,7 +1009,7 @@
             <l part="F">Bon ; j’aime cette saillie.</l>
           </sp>
           <sp xml:id="I04-3" who="l-esperance">
-            <speaker>L’ESPERANCE <hi rend="i">donnant un Billet à Lucinde</hi></speaker>
+            <speaker>L’ESPERANCE </speaker><stage>donnant un Billet à Lucinde</stage>
             <l n="137" xml:id="l137">Vostre Frere est gaillard, &amp; ce Billet contient…</l>
           </sp>
           <sp xml:id="I04-4" who="angelique">
@@ -1020,7 +1020,7 @@
             <speaker>L’ESPERANCE</speaker>
             <l part="F">Mieux qu’à luy n’apartient.</l>
             <l n="139" xml:id="l139">Suivant l’ordre que j’ay d’avoir soin du Bagage,</l>
-            <l n="140" xml:id="l140">Je suis venu <ref target="#devant">devant*</ref> avec son <ref target="#equipage">Equipage*</ref>.</l>
+            <l n="140" xml:id="l140">Je suis venu <ref target="#devant">devant</ref> avec son <ref target="#equipage">Equipage</ref>.</l>
             <l n="141" xml:id="l141">Gernidié, quels chemins ! Allez, nostre Mulet</l>
             <l n="142" xml:id="l142">A dancé sur la route un diable de Balet.</l>
             <l n="143" xml:id="l143">Ah le maudit Païs en Hyver, que la Flandre !</l>
@@ -1063,7 +1063,7 @@
           </sp>
           <sp xml:id="I04-14" who="l-esperance">
             <speaker>L’ESPERANCE</speaker>
-            <l part="F">Mordié, mener une <ref target="#recrue">Recruë*</ref> :</l>
+            <l part="F">Mordié, mener une <ref target="#recrue">Recruë</ref> :</l>
             <l n="153" xml:id="l153">Mais avant que quitter les Fauxbourgs de Paris,</l>
             <l n="154" xml:id="l154">Ma foy, je prétens boire avec mes bons Amis.</l>
             <l n="155" xml:id="l155">Je veux renouveller certaine connoissance<note place="bottom">Jeu sur le sens de connaissance, sens biblique?</note>…<pb n="9" xml:id="p9"/></l>
@@ -1075,12 +1075,12 @@
           </sp>
           <sp xml:id="I04-16" who="angelique">
             <speaker>ANGELIQUE</speaker>
-            <l n="157" xml:id="l157">Ainsi l’<ref target="#hymen">Hymen*</ref> dans peu va flater vostre amour.</l>
+            <l n="157" xml:id="l157">Ainsi l’<ref target="#hymen">Hymen</ref> dans peu va flater vostre amour.</l>
           </sp>
           <sp xml:id="I04-17" who="lucinde">
             <speaker>LUCINDE</speaker>
             <l n="158" xml:id="l158">Il me mande<note place="bottom">« Envoyer dire, faire sçavoir, ou par lettres, ou par Messager »(A)</note> qu’il vient, sans en marquer le jour.</l>
-            <l n="159" xml:id="l159">Quand pourrons-nous joüir du plaisir de sa <ref target="#veue">veuë*</ref> ?</l>
+            <l n="159" xml:id="l159">Quand pourrons-nous joüir du plaisir de sa <ref target="#veue">veuë</ref> ?</l>
           </sp>
           <sp xml:id="I04-18" who="l-esperance">
             <speaker>L’ESPERANCE</speaker>
@@ -1094,13 +1094,13 @@
             <l n="164" xml:id="l164">J’auray bien du plaisir à voir icy mon Frere :</l>
             <l n="165" xml:id="l165">Mais vostre Oncle a-t-il sçeu de vous que vostre amour,</l>
             <l n="166" xml:id="l166">Pour se donner à moy, n’attend que ce retour ?</l>
-            <l n="167" xml:id="l167">Car vous sçavez combien son <ref target="#aveu">aveu*</ref> nous importe.</l>
+            <l n="167" xml:id="l167">Car vous sçavez combien son <ref target="#aveu">aveu</ref> nous importe.</l>
           </sp>
           <sp xml:id="I04-20" who="damon">
             <speaker>DAMON</speaker>
-            <l n="168" xml:id="l168">Non ; mais enfin pour moy sa <ref target="#tendresse">tendresse*</ref> est trop forte,</l>
+            <l n="168" xml:id="l168">Non ; mais enfin pour moy sa <ref target="#tendresse">tendresse</ref> est trop forte,</l>
             <l n="169" xml:id="l169">Pour ne pas aprouver l’éclat d’un si beau feu :</l>
-            <l n="170" xml:id="l170">Cependant comme il faut en ménager l’<ref target="#aveu">aveu*</ref>,</l>
+            <l n="170" xml:id="l170">Cependant comme il faut en ménager l’<ref target="#aveu">aveu</ref>,</l>
             <l n="171" xml:id="l171">Je vais pour l’obtenir, me rendre à sa demeure.</l>
             <l n="172" xml:id="l172">Je vous quitte à regret, &amp; reviens dans une heure.</l>
           </sp>
@@ -1128,9 +1128,9 @@
           </sp>
           <sp xml:id="I06-2" who="lucinde">
             <speaker>LUCINDE</speaker>
-            <l n="176" xml:id="l176">Il est vray ; mais l’aveu* de l’Oncle m’embarasse ;</l>
+            <l n="176" xml:id="l176">Il est vray ; mais l’aveu de l’Oncle m’embarasse ;</l>
             <l n="177" xml:id="l177">Je crains qu’il ne l’obtienne assez mal-aisément,</l>
-            <l n="178" xml:id="l178">Et qu’il ne soit surpris d’un pareil <ref target="#compliment2">compliment*</ref>.</l>
+            <l n="178" xml:id="l178">Et qu’il ne soit surpris d’un pareil <ref target="#compliment2">compliment</ref>.</l>
           </sp>
           <sp xml:id="I06-3" who="angelique">
             <speaker>ANGELIQUE</speaker>
@@ -1148,7 +1148,7 @@
           <sp xml:id="I06-6" who="lucinde">
             <speaker>LUCINDE</speaker>
             <l part="F">C’est que ce Parent est amoureux de moy ;</l>
-            <l n="183" xml:id="l183">Il m’aime, à ce qu’il dit, d’une ardeur* peu commune ;</l>
+            <l n="183" xml:id="l183">Il m’aime, à ce qu’il dit, d’une ardeur peu commune ;</l>
             <l n="184" xml:id="l184">Il me suit en tous lieux, par tout il m’importune,</l>
             <l n="185" xml:id="l185">S’obstine à m’en parler, voyant que sur ce poinct…</l>
           </sp>
@@ -1161,7 +1161,7 @@
             <l n="187" xml:id="l187">Le bon sens avec luy paroist incompatible,</l>
             <l n="188" xml:id="l188">Son abord est choquant, &amp; sa mine risible ;</l>
             <l n="189" xml:id="l189">Son air, quoy que Bourgeois, est fort particulier,</l>
-            <l n="190" xml:id="l190">Son <ref target="#entretien">entretien*</ref> plaisant, &amp; mesme familier.</l>
+            <l n="190" xml:id="l190">Son <ref target="#entretien">entretien</ref> plaisant, &amp; mesme familier.</l>
           </sp>
           <sp xml:id="I06-9" who="angelique">
             <speaker>ANGELIQUE</speaker>
@@ -1186,7 +1186,7 @@
           </sp>
           <sp xml:id="I06-13" who="angelique">
             <speaker>ANGELIQUE</speaker>
-            <l part="F">Ah, grands Dieux, le douloureux <ref target="#galans">Galant*</ref> !</l>
+            <l part="F">Ah, grands Dieux, le douloureux <ref target="#galans">Galant</ref> !</l>
             <l n="199" xml:id="l199">Cousin, ordonne-luy quelques grains d’Elebore<note place="bottom">L’hellébore était considéré autrefois comme une plante médicinale qui pouvait guérir la folie. (Cf Jacques Christophe Valmont de Bomare, <hi rend="i">Dictionnaire raisonné universel d’histoire naturelle</hi> [4<hi rend="sup">e</hi> édition], 1791).</note>.</l>
           </sp>
           <sp xml:id="I06-14" who="lucinde">
@@ -1211,18 +1211,18 @@
           </sp>
           <sp xml:id="I06-19" who="angelique">
             <speaker>ANGELIQUE</speaker>
-            <l n="203" xml:id="l203" part="I">Ce <ref target="#magot">Magot*</ref> ?</l>
+            <l n="203" xml:id="l203" part="I">Ce <ref target="#magot">Magot</ref> ?</l>
           </sp>
           <sp xml:id="I06-20" who="lucinde">
             <speaker>LUCINDE</speaker>
             <l part="F">Il a mesme une Femme bien faite,</l>
             <l n="204" xml:id="l204">Il m’en fait un mystere, &amp; me conte fleurette<note place="bottom">Ici, sens figuré : « Cajeolerie que l’on dit à une femme » (A).</note>,</l>
-            <l n="205" xml:id="l205">Comme s’il aspiroit à me donner sa foy*.</l>
+            <l n="205" xml:id="l205">Comme s’il aspiroit à me donner sa foy.</l>
           </sp>
           <sp xml:id="I06-21" who="angelique">
             <speaker>ANGELIQUE </speaker>
             <l n="206" xml:id="l206">Et lors qu’impunément il se moque de toy,</l>
-            <l n="207" xml:id="l207">Je gage* que tu fais la sotte, la honteuse.</l>
+            <l n="207" xml:id="l207">Je gage que tu fais la sotte, la honteuse.</l>
           </sp>
           <sp xml:id="I06-22" who="lucinde">
             <speaker>LUCINDE</speaker>
@@ -1231,7 +1231,7 @@
           <sp xml:id="I06-23" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l n="209" xml:id="l209">Ah ! si j’en estois cruë, avant qu’il fût demain,</l>
-            <l n="210" xml:id="l210">Ce Monsieur le <ref target="#galans">Galant*</ref> verroit bien du chemin<note place="bottom">On dit « par menace à une personne, qu’<hi rend="i">On le menera par un chemin où il n’y aura point de pierre</hi>, pour dire, qu’On luy donnera bien de l’exercice, &amp; de la peine. On dit aussi prov. &amp; dans le mesme sens, <hi rend="i">On luy fera voir bien du chemin</hi>. » (A)</note>,</l>
+            <l n="210" xml:id="l210">Ce Monsieur le <ref target="#galans">Galant</ref> verroit bien du chemin<note place="bottom">On dit « par menace à une personne, qu’<hi rend="i">On le menera par un chemin où il n’y aura point de pierre</hi>, pour dire, qu’On luy donnera bien de l’exercice, &amp; de la peine. On dit aussi prov. &amp; dans le mesme sens, <hi rend="i">On luy fera voir bien du chemin</hi>. » (A)</note>,</l>
             <l n="211" xml:id="l211">Et je le bernerois de la belle manière.</l>
           </sp>
           <sp xml:id="I06-24" who="lucinde">
@@ -1248,7 +1248,7 @@
           </sp>
           <sp xml:id="I06-26" who="lucinde">
             <speaker>LUCINDE</speaker>
-            <l n="217" xml:id="l217">Il doit le ménager : outre qu’il a son bien*,</l>
+            <l n="217" xml:id="l217">Il doit le ménager : outre qu’il a son bien,</l>
             <l n="218" xml:id="l218">Tu sçauras que Damon doit heriter du sien :</l>
             <l n="219" xml:id="l219">Comme il n’a point d’Enfans, tout ce bien le regarde<note place="bottom">On dit fig. « qu’<hi rend="i">Une succession, qu’une charge regarde quelqu’un</hi>, pour dire, qu’Elle luy doit venir, ou qu’il y peut pretendre. […] » (A).</note> ;</l>
             <l n="220" xml:id="l220">Damon assurément le perd, s’il le hazarde,</l>
@@ -1266,7 +1266,7 @@
           </sp>
           <sp xml:id="I06-29" who="angelique">
             <speaker>ANGELIQUE</speaker>
-            <l part="F">Si ce Parent refuse son <ref target="#aveu">aveu*</ref>,</l>
+            <l part="F">Si ce Parent refuse son <ref target="#aveu">aveu</ref>,</l>
             <l n="226" xml:id="l226">Croy-moy, laisse-moy faire, &amp; nous verrons beau jeu<note place="bottom">« On dit fig. &amp; par menace, qu’<hi rend="i">Un homme joüera beau jeu</hi>, qu’<hi rend="i">on verra beau jeu</hi>, pour dire, que Si on le fasche, il aura bien sa revanche, il fera bien de la peine. » (A)</note>:</l>
             <l n="227" xml:id="l227">Je me charge du soin de le rendre traittable ;</l>
             <l n="228" xml:id="l228">Je sçay, pour le berner, un moyen admirable.</l>
@@ -1287,7 +1287,7 @@
           </sp>
           <sp xml:id="I06-33" who="angelique">
             <speaker>ANGELIQUE</speaker>
-            <l part="F">Ah la bonne <ref target="#figure">Figure*</ref> !</l>
+            <l part="F">Ah la bonne <ref target="#figure">Figure</ref> !</l>
             <l n="232" xml:id="l232">Tu voudrois l’épargner ? ah c’est malice pure.</l>
             <l n="233" xml:id="l233">Que j’auray de plaisir à rire à ses dépens !</l>
           </sp>
@@ -1415,7 +1415,7 @@
             <l n="260" xml:id="l260">Il vous falloit pour Femme une de ces Coquettes</l>
             <l n="261" xml:id="l261">Qui pres d’elle toûjours eust quelque Favory,</l>
             <l n="262" xml:id="l262">Tout prest à reparer l’absence d’un Mary,</l>
-            <l n="263" xml:id="l263">Qui se fist, vous montrant une <ref target="#tendresse">tendresse*</ref> feinte,</l>
+            <l n="263" xml:id="l263">Qui se fist, vous montrant une <ref target="#tendresse">tendresse</ref> feinte,</l>
             <l n="264" xml:id="l264">Un sujet de plaisir, du sujet de ma plainte,</l>
             <l n="265" xml:id="l265">Et pour qui vostre cœur foiblement convaincu…</l>
           </sp>
@@ -1438,7 +1438,7 @@
           </sp>
           <sp xml:id="I07-29" who="madame-le-blanc">
             <speaker>MADAME LE BLANC</speaker>
-            <l n="273" xml:id="l273">Vous prenez mal la chose, &amp; ce jaloux <ref target="#transport">transport*</ref></l>
+            <l n="273" xml:id="l273">Vous prenez mal la chose, &amp; ce jaloux <ref target="#transport">transport</ref></l>
             <l n="274" xml:id="l274" part="I">Explique à contre-sens…</l>
           </sp>
           <sp xml:id="I07-30" who="monsieur-le-blanc">
@@ -1456,7 +1456,7 @@
           <sp xml:id="I07-32" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE  BLANC</speaker>
             <l part="F">Point de mais :</l>
-            <l n="279" xml:id="l279">Pour faire des <ref target="#galans">Galans*</ref>, le prétexte est honneste.</l>
+            <l n="279" xml:id="l279">Pour faire des <ref target="#galans">Galans</ref>, le prétexte est honneste.</l>
           </sp>
           <sp xml:id="I07-33" who="madame-le-blanc">
             <speaker>MADAME LE BLANC</speaker>
@@ -1479,7 +1479,7 @@
         <div type="scene" xml:id="I08">
           <head>SCENE VIII</head>
           <sp xml:id="I08-1" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">seul.</hi></speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>seul.</stage>
             <l n="283" xml:id="l283">De pareils Animaux<note place="bottom">« On appelle par mespris, <hi rend="i">Animal</hi>, Une personne stupide &amp; sans esprit. » (A) Le terme, appliqué aux femmes, renvoie à <hi rend="i">L'Ecole des Femmes</hi> de Molière (1662) : « Tout le monde connaît leur imperfection;/ Ce n’est qu’extravagance et qu’indiscrétion;/ Leur esprit est méchant, et leur âme fragile;/ Il n’est rien de plus faible et de plus imbécile,/ Rien de plus infidèle: et, malgré tout cela,/ Dans le monde on fait tout pour ces animaux-là. » Arnolphe, V, 4 (v. 1574-1579)</note>, la moitié d’une paire,<pb n="B"/></l>
             <l n="284" xml:id="l284">Si l’on n’y tient la main, donne plus d’une affaire.</l>
             <l n="285" xml:id="l285">Où diable a-t-elle pris ce beau raisonnement ?</l>
@@ -1496,7 +1496,7 @@
           <stage>MONSIEUR LE BLANC, DAMON.</stage>
           <sp xml:id="I09-1" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
-            <l n="292" xml:id="l292">Qu’avez-vous, Chevalier de la triste <ref target="#figure">Figure*</ref><note place="bottom">Référence à <hi rend="i">L'Ingénieux Noble Don Quichotte de la Manche</hi>, (1605), Cervantès.</note>?</l>
+            <l n="292" xml:id="l292">Qu’avez-vous, Chevalier de la triste <ref target="#figure">Figure</ref><note place="bottom">Référence à <hi rend="i">L'Ingénieux Noble Don Quichotte de la Manche</hi>, (1605), Cervantès.</note>?</l>
             <l n="293" xml:id="l293">Quelque sept-&amp;-le va<note place="bottom">Sept-et-le-va : « Terme de jeu. Se dit au trente et quarante, et au pharaon, pour exprimer sept fois la première mise. » E. LITTRE, <hi rend="i">Dictionnaire de la Langue Française</hi>, 1872-77.</note>, vous a-t-il mal traitté ?</l>
             <l n="294" xml:id="l294">Quelque coup de cornet<note place="bottom">Allusion au « zanzibar, jeu avec un cornet et trois dés, jeu de dés chez les marchands de vin »</note> auroit-il transplanté,</l>
             <l n="295" xml:id="l295">Par un nouvel effet d’un malheur sans resource,</l>
@@ -1537,20 +1537,20 @@
           <sp xml:id="I09-8" who="damon">
             <speaker>DAMON</speaker>
             <l n="309" xml:id="l309">Oüy, je cede, mon Oncle, à des charmes puissans,<pb n="19" xml:id="p19"/></l>
-            <l n="310" xml:id="l310">L’<ref target="#hymen">Hymen*</ref> est le seul but du beau feu que je sens ;</l>
+            <l n="310" xml:id="l310">L’<ref target="#hymen">Hymen</ref> est le seul but du beau feu que je sens ;</l>
             <l n="311" xml:id="l311">Jamais tant de vertu jointe à tant de mérites,</l>
             <l n="312" xml:id="l312" part="I">N’a fait voir…</l>
           </sp>
           <sp xml:id="I09-9" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <l part="F">J’en croy plus encor que vous n’en dites,</l>
-            <l n="313" xml:id="l313">Et je croy que l’on doit voir devant ses <ref target="#appas">appas*</ref></l>
+            <l n="313" xml:id="l313">Et je croy que l’on doit voir devant ses <ref target="#appas">appas</ref></l>
             <l n="314" xml:id="l314">Les Roses &amp; les Lys mettre pavillon bas.</l>
             <l n="315" xml:id="l315">Mais vous trouverez bon, mon Cadet, qu’on vous dise,</l>
             <l n="316" xml:id="l316">Qu’il est toûjours trop tost pour faire une sottise,</l>
             <l n="317" xml:id="l317">Et que quoy que l’Amour vous promette de doux,</l>
             <l n="318" xml:id="l318">Le nombre des Marys n’est que trop grand sans vous ;</l>
-            <l n="319" xml:id="l319">Qu’il faut quand l’<ref target="#hymen">Hymen*</ref> tient nostre cœur en balance,</l>
+            <l n="319" xml:id="l319">Qu’il faut quand l’<ref target="#hymen">Hymen</ref> tient nostre cœur en balance,</l>
             <l n="320" xml:id="l320">Ensevelir l’Amour dans un drap de prudence ;</l>
             <l n="321" xml:id="l321">Que j’ay pour en juger, suffisamment vescu,</l>
             <l n="322" xml:id="l322">Et que dans la Famille il suffit d’un Cocu.</l>
@@ -1584,13 +1584,13 @@
             <l n="334" xml:id="l334">Dés qu’il sera venu pour faire mon bonheur,</l>
             <l n="335" xml:id="l335">Parlez luy, l’interest d’une ardeur peu commune,</l>
             <l n="336" xml:id="l336">Joint à ceux de l’Amour celuy de ma fortune :</l>
-            <l n="337" xml:id="l337">Cette Belle a du bien ; ma vie &amp; mon <ref target="#repos">repos*</ref></l>
+            <l n="337" xml:id="l337">Cette Belle a du bien ; ma vie &amp; mon <ref target="#repos">repos</ref></l>
             <l n="338" xml:id="l338" part="I">Dépendent du succés…</l>
           </sp>
           <sp xml:id="I09-15" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <l part="F">C’est à dire, en deux mots,</l>
-            <l n="339" xml:id="l339">Que ses biens à l’<ref target="#hymen">Hymen*</ref> vous feront condescendre,</l>
+            <l n="339" xml:id="l339">Que ses biens à l’<ref target="#hymen">Hymen</ref> vous feront condescendre,</l>
             <l n="340" xml:id="l340">Et que sur vostre front vous mettez, <hi rend="i">Place à vendre</hi>.</l>
             <l n="341" xml:id="l341">Hé bien j’en suis d’accord ; mais sçaurons-nous son nom ?</l>
           </sp>
@@ -1608,7 +1608,7 @@
             <l part="M">Lucinde.</l>
           </sp>
           <sp xml:id="I09-19" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">à part.</hi></speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>à part.</stage>
             <l part="F">Morbleu, je meurs d’amour pour elle.</l>
           </sp>
           <sp xml:id="I09-20" who="damon">
@@ -1618,11 +1618,11 @@
           <sp xml:id="I09-21" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <l n="345" xml:id="l345">Cette Belle seroit bien lasse de sa peau;</l>
-            <l n="346" xml:id="l346">Et vous estes pour elle un plaisant Etourneau*.</l>
+            <l n="346" xml:id="l346">Et vous estes pour elle un plaisant Etourneau.</l>
           </sp>
           <sp xml:id="I09-22" who="damon">
             <speaker>DAMON</speaker>
-            <l n="347" xml:id="l347">Pourquoy ne faut-il pas que ma flâme* y prétende ?</l>
+            <l n="347" xml:id="l347">Pourquoy ne faut-il pas que ma flâme y prétende ?</l>
             <l n="348" xml:id="l348">Si son merite est grand, la gloire en est plus grande.</l>
           </sp>
           <sp xml:id="I09-23" who="monsieur-le-blanc">
@@ -1638,7 +1638,7 @@
             <l n="357" xml:id="l357"> De ces Gueux faineans, de qui l’air est cocquet,</l>
             <l n="358" xml:id="l358">Dont le sort est écrit sur les os d’un Cornet<note place="bottom">àchercher</note>,</l>
             <l n="359" xml:id="l359">Dont les Commandeurs sont les Carmes &amp; les Sannes<note place="bottom">Terme de Triquetrac qui signifie qu’on amène deux quatre en un coup de dés et deux six en dés.</note>,</l>
-            <l n="360" xml:id="l360">Et qui font chez Fredoc*<note place="bottom">« Fredoc tenoit une académie de Jeu très fréquentée en ce temps-là. Il logeoit dans la place du Palais Royal. Il en est fait mention dans la Fille Capitaine, de Montfleuri acte I. » Note du vers 73 de la Satire V, <hi rend="i">Satires</hi> (1600-1668) Nicolas Boileau-Despréaux, éd. 1823</note> toutes leurs Caravannes<note place="bottom">« Troupe de Marchands, ou de voyageurs qui vont de compagnie pour se garantir des voleurs. »(A)</note><note place="bottom" type="author">Fameuse Academie de Jeu (NDA).</note></l>
+            <l n="360" xml:id="l360">Et qui font chez Fredoc<note place="bottom">« Fredoc tenoit une académie de Jeu très fréquentée en ce temps-là. Il logeoit dans la place du Palais Royal. Il en est fait mention dans la Fille Capitaine, de Montfleuri acte I. » Note du vers 73 de la Satire V, <hi rend="i">Satires</hi> (1600-1668) Nicolas Boileau-Despréaux, éd. 1823</note> toutes leurs Caravannes<note place="bottom">« Troupe de Marchands, ou de voyageurs qui vont de compagnie pour se garantir des voleurs. »(A)</note><note place="bottom" type="author">Fameuse Academie de Jeu (NDA).</note></l>
             <l n="361" xml:id="l361">Il faut que vous ayez toûjours dans vos Festins</l>
             <l n="362" xml:id="l362">Des Escrocs qu’on ne voit que chez les Libertins,</l>
             <l n="363" xml:id="l363">Des gosiers toûjours secs, puisqu’il faut qu’on s’explique,</l>
@@ -1699,12 +1699,12 @@
         <div type="scene" xml:id="I10">
           <head>SCENE X</head>
           <sp xml:id="I10-1" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">seul.</hi></speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>seul.</stage>
             <l n="389" xml:id="l389">Cecy n’est pas mon compte, &amp; ce jeune Coquet</l>
             <l n="390" xml:id="l390">A pû charmer Lucinde avecque son cacquet ;</l>
             <l n="391" xml:id="l391">Puis qu’il l’aime à ce point, on peut l’aimer de méme.</l>
             <l n="392" xml:id="l392">Cependant je l’adore, &amp; depuis que je l’aime,</l>
-            <l n="393" xml:id="l393">Je n’ay point de <ref target="#repos">repos*</ref>, je maigris tous les jours,</l>
+            <l n="393" xml:id="l393">Je n’ay point de <ref target="#repos">repos</ref>, je maigris tous les jours,</l>
             <l n="394" xml:id="l394">L’Amour a mis chez moy la Raison en decours<note place="bottom">Déclin (A).</note>;</l>
             <l n="395" xml:id="l395">Je la suis en tous lieux ; mais quoy que l’on en die,</l>
             <l n="396" xml:id="l396">Je veux absolument rompre cette partie.</l>
@@ -1713,7 +1713,7 @@
             <l n="399" xml:id="l399">Je l’aime, elle le sçait, mes soins l’ont fait connoistre :</l>
             <l n="400" xml:id="l400">Voyons-la ; Que sçait-on ? je lui plairay peut-estre.</l>
           </sp>
-          <label rend="center">Fin du Premier Acte.</label>
+          <trailer rend="center">Fin du Premier Acte.</trailer>
         </div>
       </div>
       <div xml:id="II" type="act">
@@ -1726,7 +1726,7 @@
             <speaker>CATO</speaker>
             <l n="401" xml:id="l401">Quoy, ce Monsieur le Blanc fait l’amoureux de vous,</l>
             <l n="402" xml:id="l402">Comme s’il esperoit devenir vostre Epoux ?</l>
-            <l n="403" xml:id="l403">Et quoy que marié<note place="bottom">Diérèse: le phonogramme [ié] forme deux syllabes.</note>, ce <ref target="#magot">Magot*</ref> vous fait croire,</l>
+            <l n="403" xml:id="l403">Et quoy que marié<note place="bottom">Diérèse: le phonogramme [ié] forme deux syllabes.</note>, ce <ref target="#magot">Magot</ref> vous fait croire,</l>
             <l n="404" xml:id="l404">Qu’à se donner à vous il met toute sa gloire<note place="bottom">« Honneur, loüange, estime, reputation qui procede du merite d’une personne, de l’excellence de ses actions ou de ses ouvrages. » (A)</note> ?</l>
             <l n="405" xml:id="l405" part="I">Qu’il veut vous épouser ? Le Fourbe !</l>
           </sp>
@@ -1734,7 +1734,7 @@
             <speaker>LUCINDE</speaker>
             <l part="F">Chaque jour</l>
             <l n="406" xml:id="l406">Il me suit, il m’aborde, il me parle d’amour,</l>
-            <l n="407" xml:id="l407">Et mesme à nostre <ref target="#hymen">Hymen*</ref> Damon dit qu’il s’opose.</l>
+            <l n="407" xml:id="l407">Et mesme à nostre <ref target="#hymen">Hymen</ref> Damon dit qu’il s’opose.</l>
             <l n="408" xml:id="l408">Je m’en estois doutée, &amp; j’en sçavois la cause.</l>
           </sp>
           <sp xml:id="II01-3" who="cato">
@@ -1746,7 +1746,7 @@
             <l n="413" xml:id="l413">Le hazard semble exprés pour cet Amant transy<pb n="24" xml:id="p24"/></l>
             <l n="414" xml:id="l414">Envoyer les Habits de vostre Frere icy ;</l>
             <l n="415" xml:id="l415">La Cousine en met un, en attendant qu’il vienne :</l>
-            <l n="416" xml:id="l416">Vous la verrez <ref target="#tantost">tanstot*</ref> faire le Capitaine ;</l>
+            <l n="416" xml:id="l416">Vous la verrez <ref target="#tantost">tanstot</ref> faire le Capitaine ;</l>
             <l n="417" xml:id="l417">Elle est d’un enjoûement qu’on ne peut exprimer,</l>
             <l n="418" xml:id="l418">Dans ce nouvel habit elle va vous charmer ;</l>
             <l n="419" xml:id="l419">Et si Monsieur le Blanc est Homme de parole,</l>
@@ -1763,16 +1763,16 @@
           <sp xml:id="II01-5" who="cato">
             <speaker>CATO</speaker>
             <l n="425" xml:id="l425">Dieu sçait s’il va venir au Rendez-vous en feu,</l>
-            <l n="426" xml:id="l426">De l’humeur dont il est, apres un tel <ref target="#aveu">aveu*</ref>.</l>
-            <l n="427" xml:id="l427">Ce Singe vous croyant fole de sa <ref target="#figure">Figure*</ref>,</l>
+            <l n="426" xml:id="l426">De l’humeur dont il est, apres un tel <ref target="#aveu">aveu</ref>.</l>
+            <l n="427" xml:id="l427">Ce Singe vous croyant fole de sa <ref target="#figure">Figure</ref>,</l>
             <l n="428" xml:id="l428">Voudra venir au fait, avant que de <note place="bottom">« <hi rend="i">Avant Inf</hi> est condamné par Vaugelas et est en recul au XVII<hi rend="sup">e</hi> siècle; les formes usuelles sont <hi rend="i">avant que Inf</hi> et <hi rend="i">avant que de Inf; avant de</hi> Inf ne se généralisera qu’au XVIII<hi rend="sup">e</hi> siècle. » <hi rend="i">Grammaire du français classique</hi>, p. 283.</note> conclure,</l>
-            <l n="429" xml:id="l429">Et croira que <ref target="#ceans">ceans*</ref> dés la premiere fois</l>
+            <l n="429" xml:id="l429">Et croira que <ref target="#ceans">ceans</ref> dés la premiere fois</l>
             <l n="430" xml:id="l430">Il n’aura qu’à soufler, &amp; remuer les doigts.</l>
             <l n="431" xml:id="l431">Que nous pourrons donner, apres cette avanture,</l>
             <l n="432" xml:id="l432">Aux Hommes trop coquets, de bonne tablature<note place="bottom">Donner de la tablature se dit proverbialement pour signifier « Susciter une affaire fort difficile dont on a de la peine à se démêler. » (F)</note> !</l>
             <l n="433" xml:id="l433">On leur garde, ma foy, des Filles de quinze ans !</l>
             <l n="434" xml:id="l434">C'est bien à des Marys à faire les Galans!</l>
-            <l n="435" xml:id="l435">Encor si ce <ref target="#magot">Magot*</ref> estoit un Homme à plaire…</l>
+            <l n="435" xml:id="l435">Encor si ce <ref target="#magot">Magot</ref> estoit un Homme à plaire…</l>
           </sp>
           <sp xml:id="II01-6" who="lucinde">
             <speaker>LUCINDE</speaker>
@@ -1791,7 +1791,7 @@
           </sp>
           <sp xml:id="II01-9" who="cato">
             <speaker>CATO</speaker>
-            <l n="441" xml:id="l441">Reposez-vous sur nous du succés de vos <ref target="#feux">feux*</ref>,</l>
+            <l n="441" xml:id="l441">Reposez-vous sur nous du succés de vos <ref target="#feux">feux</ref>,</l>
             <l n="442" xml:id="l442">Nous allons le berner, en vous servant tous deux :</l>
             <l n="443" xml:id="l443">Prenez-vous-en à moy, si vous n’estes contente.</l>
             <l n="444" xml:id="l444">Mais Damon vient, je pense, avecque sa Parente.</l>
@@ -1807,7 +1807,7 @@
             <l n="447" xml:id="l447">J’en fus, en l’aprenant, surpris comme vous l’estes.</l>
           </sp>
           <sp xml:id="II02-2" who="lucinde">
-            <speaker>LUCINDE <hi rend="i">allant saluer Madame le Blanc</hi></speaker>
+            <speaker>LUCINDE </speaker><stage>allant saluer Madame le Blanc</stage>
             <l n="448" xml:id="l448">Il faut la recevoir. L’honneur que vous me faites,</l>
             <l n="449" xml:id="l449">Me reproche en secret une civilité</l>
             <l n="450" xml:id="l450">Dont mon respect pour vous devroit s’estre acquité ;</l>
@@ -1820,7 +1820,7 @@
             <l n="454" xml:id="l454">Pour moy tant de froideur, &amp; tant d’amour pour vous :</l>
             <l n="455" xml:id="l455">Vostre beauté, Madame, à qui tout est possible,</l>
             <l n="456" xml:id="l456">Peut forcer à se rendre une ame moins sensible :</l>
-            <l n="457" xml:id="l457">Vos <ref target="#appas">appas*</ref> sont si grands, &amp; leur éclat est tel…</l>
+            <l n="457" xml:id="l457">Vos <ref target="#appas">appas</ref> sont si grands, &amp; leur éclat est tel…</l>
           </sp>
           <sp xml:id="II02-4" who="lucinde">
             <speaker>LUCINDE</speaker>
@@ -1832,7 +1832,7 @@
             <l n="460" xml:id="l460">Des soins que vostre Sexe usurpe sur le nostre.</l>
             <l n="461" xml:id="l461">Je pourrois, pour l’entendre, estre assez complaisant :</l>
             <l n="462" xml:id="l462">Mais comme un autre soin nous occupe à présent,</l>
-            <l n="463" xml:id="l463">Allons voir si <ref target="#tantost">tanstot*</ref> vostre aimable Cousine</l>
+            <l n="463" xml:id="l463">Allons voir si <ref target="#tantost">tanstot</ref> vostre aimable Cousine</l>
             <l n="464" xml:id="l464">Executera bien tout ce qu’elle imagine,</l>
             <l n="465" xml:id="l465">Et si son enjoûement pourra bien soûtenir…</l>
           </sp>
@@ -1854,7 +1854,7 @@
           </sp>
           <sp xml:id="II03-2" who="l-esperance">
             <speaker>L’ESPERANCE</speaker>
-            <l part="F"><ref target="#plaist-il">Plaist-il*</ref>, mon Capitaine ?</l>
+            <l part="F"><ref target="#plaist-il">Plaist-il</ref>, mon Capitaine ?</l>
           </sp>
           <sp xml:id="II03-3" who="angelique">
             <speaker>ANGELIQUE</speaker>
@@ -1880,13 +1880,13 @@
           </sp>
           <sp xml:id="II03-7" who="l-esperance">
             <speaker>L’ESPERANCE</speaker>
-            <l part="F">Elle a l’air, <ref target="#dedans">dedans*</ref> cet <ref target="#equipage">équipage*</ref>,</l>
+            <l part="F">Elle a l’air, <ref target="#dedans">dedans</ref> cet <ref target="#equipage">équipage</ref>,</l>
             <l n="476" xml:id="l476">De ces petits Fripons qu’on fait sortir de Page<note place="bottom">« Enfant d’honneur qu’on met auprès des Princes et des Grands Seigneurs pour les servir avec leurs livrées et en même temps y recevoir une honnête éducation et y apprendre leur exercice. » (F)</note>,</l>
             <l n="477" xml:id="l477">Pour envoyer à Malte<note place="bottom">Malte incarne à la fin du XVI<hi rend="sup">e</hi> siècle la frontière par excellence de la chrétienté face à l’Islam. Au XVII<hi rend="sup">e</hi>, son épanouissement en tant qu’île-frontière est symbolisé par l’essor de la guerre de course (piraterie). <hi rend="i">Malte, frontière de chrétienté (1530-1670</hi>), A. BROGINI : ici l’auteur fait référence à la violence des affrontements avec les musulmans qui s’y déroulent.</note> aprendre leur Mestier.</l>
           </sp>
           <sp xml:id="II03-8" who="angelique">
             <speaker>ANGELIQUE</speaker>
-            <l n="478" xml:id="l478">Monsieur le Blanc, de moy, n’aura pas grand <ref target="#quartier">quartier*</ref>.</l>
+            <l n="478" xml:id="l478">Monsieur le Blanc, de moy, n’aura pas grand <ref target="#quartier">quartier</ref>.</l>
             <l n="479" xml:id="l479">Aparemment, voila vostre belle Parente,</l>
             <l n="480" xml:id="l480">Je suis son Serviteur, &amp; mesme sa Servante :</l>
             <l n="481" xml:id="l481">Pour peu que vous vouliez seconder nos desseins,</l>
@@ -1941,7 +1941,7 @@
             <l n="497" xml:id="l497">Oüy, Madame Cato, vous m’en voyez charmé ;</l>
             <l n="498" xml:id="l498">Et je viens de plaisir &amp; de joye affamé,</l>
             <l n="499" xml:id="l499">Voir si par un bonheur qui passe mon mérite,</l>
-            <l n="500" xml:id="l500">Je puis faire <ref target="#ceans">ceans*</ref> une heureuse visite.</l>
+            <l n="500" xml:id="l500">Je puis faire <ref target="#ceans">ceans</ref> une heureuse visite.</l>
           </sp>
           <sp xml:id="II05-2" who="cato">
             <speaker>CATO</speaker>
@@ -1982,7 +1982,7 @@
           </sp>
           <sp xml:id="II05-11" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
-            <l n="507" xml:id="l507">La Friponne<note place="bottom">Employé ici au sens poétique : « les poètes disent d’une Dame […] qu’elle est friponne pour dire qu’elle leur ravit le cœur, leur liberté. » (F)</note> ! Instruis-moy de toute sa <ref target="#tendresse">tendresse*</ref>.</l>
+            <l n="507" xml:id="l507">La Friponne<note place="bottom">Employé ici au sens poétique : « les poètes disent d’une Dame […] qu’elle est friponne pour dire qu’elle leur ravit le cœur, leur liberté. » (F)</note> ! Instruis-moy de toute sa <ref target="#tendresse">tendresse</ref>.</l>
           </sp>
           <sp xml:id="II05-12" who="cato">
             <speaker>CATO</speaker>
@@ -2050,7 +2050,7 @@
             <speaker>MONSIEUR LE BLANC</speaker>
             <l part="F">La peste !</l>
             <l n="533" xml:id="l533">Avec de tels Bréteurs<note place="bottom">« Filou, batteur de pavé. » (A)</note> il faut filer bien doux.</l>
-            <l n="534" xml:id="l534" part="I">S’il me voyoit <ref target="#ceans">ceans*</ref>…</l>
+            <l n="534" xml:id="l534" part="I">S’il me voyoit <ref target="#ceans">ceans</ref>…</l>
           </sp>
           <sp xml:id="II05-24" who="cato">
             <speaker>CATO</speaker>
@@ -2079,7 +2079,7 @@
           <sp xml:id="II05-29" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <l part="F">Mais si le Capitaine</l>
-            <l n="541" xml:id="l541">Vient à voir ma <ref target="#figure">Figure*</ref>, &amp; se tient insulté,</l>
+            <l n="541" xml:id="l541">Vient à voir ma <ref target="#figure">Figure</ref>, &amp; se tient insulté,</l>
             <l n="542" xml:id="l542"> Je me garantis mort à <hi rend="u">perpetuité</hi><note place="bottom">Diérèse: [ui] forme deux syllabes.</note>.</l>
           </sp>
           <sp xml:id="II05-30" who="cato">
@@ -2094,7 +2094,7 @@
         <div type="scene" xml:id="II06">
           <head>SCENE VI</head>
           <sp xml:id="II06-1" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">seul.</hi></speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>seul.</stage>
             <l n="548" xml:id="l548">Hé bien va. Tout cecy passe la raillerie ;</l>
             <l n="549" xml:id="l549">Je crains dans mon calcul de m’estre méconté<note place="bottom">Voir note 888 sur conte/compte.</note>.</l>
             <l n="550" xml:id="l550">Ah que mal-à-propos le Diable m’a tenté !</l>
@@ -2107,8 +2107,8 @@
             <l n="557" xml:id="l557">Belle, &amp; dont la vertu ne se peut contester ?</l>
             <l n="558" xml:id="l558">Quelle démangeaison me prend de coqueter ?</l>
             <l n="559" xml:id="l559">Et de venir chercher, par une sotte envie,</l>
-            <l n="560" xml:id="l560">Un moment d’<ref target="#entretien">entretien*</ref> aux dépens de ma vie ?</l>
-            <l n="561" xml:id="l561">Ah dessus* ce sujet que j’ay mal raisonné !<pb n="32" xml:id="p32"/></l>
+            <l n="560" xml:id="l560">Un moment d’<ref target="#entretien">entretien</ref> aux dépens de ma vie ?</l>
+            <l n="561" xml:id="l561">Ah dessus ce sujet que j’ay mal raisonné !<pb n="32" xml:id="p32"/></l>
             <l n="562" xml:id="l562">Mais si l’on m’y retient, je veux estre berné,</l>
             <l n="563" xml:id="l563">Car j’en auray la fievre au moins une semaine.</l>
             <l n="564" xml:id="l564">Ah morbleu, je suis mort, voicy le Capitaine.</l>
@@ -2123,7 +2123,7 @@
             <l n="565" xml:id="l565">O Dieux ! Monsieur le Blanc, vous estes-vous blessé ?</l>
           </sp>
           <sp xml:id="II07-2" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">se relevant</hi></speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>se relevant</stage>
             <l n="566" xml:id="l566">Je dançois la Bourrée<note place="bottom">« Espèce de danse composée de trois pas joints ensemble avec deux mouvements et commence par une noire en levant. » (F)</note>, &amp; le pied m’a glissé.</l>
             <l n="567" xml:id="l567">Ce n’est rien : Mais que fait Monsieur le Capitaine ?</l>
           </sp>
@@ -2139,7 +2139,7 @@
           <stage>MONSIEUR LE BLANC, LUCINDE.</stage>
           <sp xml:id="II08-1" who="lucinde">
             <speaker>LUCINDE</speaker>
-            <l n="569" xml:id="l569">Vous voyez jusqu’où va ma <ref target="#tendresse">tendresse*</ref> pour vous,</l>
+            <l n="569" xml:id="l569">Vous voyez jusqu’où va ma <ref target="#tendresse">tendresse</ref> pour vous,</l>
             <l n="570" xml:id="l570">Et combien le plaisir de vous revoir m’est doux :</l>
             <l n="571" xml:id="l571">Vostre merite est tel, que quelques reprimandes…</l>
           </sp>
@@ -2189,7 +2189,7 @@
           </sp>
           <sp xml:id="II09-6" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
-            <l part="F">Tréve de <ref target="#compliment1">compliment*</ref>,</l>
+            <l part="F">Tréve de <ref target="#compliment1">compliment</ref>,</l>
             <l n="582" xml:id="l582" part="I">Où faut-il me cacher ?</l>
           </sp>
           <sp xml:id="II09-7" who="cato">
@@ -2235,7 +2235,7 @@
             <l n="594" xml:id="l594">Ne la visitoit point un peu trop frequemment ?</l>
           </sp>
           <sp xml:id="II10-6" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">caché dans une Entrée</hi></speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>caché dans une Entrée</stage>
             <l n="595" xml:id="l595" part="I">Je tremble.</l>
           </sp>
           <sp xml:id="II10-7" who="cato">
@@ -2328,7 +2328,7 @@
           <sp xml:id="II10-26" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l n="615" xml:id="l615">Cato, va, s’il se peut, sçavoir de cette Belle,</l>
-            <l n="616" xml:id="l616">Si je la pourray voir ou <ref target="#ceans">ceans*</ref>, ou chez elle.</l>
+            <l n="616" xml:id="l616">Si je la pourray voir ou <ref target="#ceans">ceans</ref>, ou chez elle.</l>
           </sp>
           <sp xml:id="II10-27" who="cato">
             <speaker>CATO</speaker>
@@ -2346,7 +2346,7 @@
           <sp xml:id="II10-30" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l n="620" xml:id="l620">Comment faisois-tu donc, lors que par intervalle</l>
-            <l n="621" xml:id="l621" part="I">Tu l’amenois <ref target="#ceans">ceans*</ref> ?</l>
+            <l n="621" xml:id="l621" part="I">Tu l’amenois <ref target="#ceans">ceans</ref> ?</l>
           </sp>
           <sp xml:id="II10-31" who="cato">
             <speaker>CATO</speaker>
@@ -2358,13 +2358,13 @@
             <l n="626" xml:id="l626">Il faut garder en tout de la fidelité.</l>
             <l n="627" xml:id="l627">Ce que je sçay le mieux de cette belle Brune,</l>
             <l n="628" xml:id="l628">C’est qu’elle a pour Epoux un Chercheur de fortune,</l>
-            <l n="629" xml:id="l629">Un <ref target="#pied-plat">Pié-plat*</ref> qui la fuit, &amp; qu’on dit pour la voir,</l>
+            <l n="629" xml:id="l629">Un <ref target="#pied-plat">Pié-plat</ref> qui la fuit, &amp; qu’on dit pour la voir,</l>
             <l n="630" xml:id="l630" part="I">Qu’on va pour la coëffer.</l>
           </sp>
           <sp xml:id="II10-32" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l part="F">Que j’en conçois d’espoir !</l>
-            <l n="631" xml:id="l631">Ne pers donc point de temps ; &amp; si ton soin m’<ref target="#oblige-de">oblige*</ref>,</l>
+            <l n="631" xml:id="l631">Ne pers donc point de temps ; &amp; si ton soin m’<ref target="#oblige-de">oblige</ref>,</l>
             <l n="632" xml:id="l632" part="I">Sois seûre…</l>
           </sp>
           <sp xml:id="II10-33" who="cato">
@@ -2404,7 +2404,7 @@
           </sp>
           <sp xml:id="II11-5" who="angelique">
             <speaker>ANGELIQUE</speaker>
-            <l n="639" xml:id="l639">As-tu veu mon Cousin ? a-t-il fait ma <ref target="#recrue">Recruë*</ref> ?</l>
+            <l n="639" xml:id="l639">As-tu veu mon Cousin ? a-t-il fait ma <ref target="#recrue">Recruë</ref> ?</l>
           </sp>
           <sp xml:id="II11-6" who="l-esperance">
             <speaker>L’ESPERANCE</speaker>
@@ -2429,7 +2429,7 @@
             <l n="648" xml:id="l648" part="I">Sont-ils braves, à voir ?</l>
           </sp>
           <sp xml:id="II11-10" who="l-esperance">
-            <speaker>L’ESPERANCE <hi rend="i">en riant</hi></speaker>
+            <speaker>L’ESPERANCE </speaker><stage>en riant</stage>
             <l part="F">Morgué, s’ils n’etoient braves,</l>
             <l n="649" xml:id="l649" part="I">Les voudrois-je emmener ?</l>
           </sp>
@@ -2472,7 +2472,7 @@
           <sp xml:id="II11-18" who="l-esperance">
             <speaker>L’ESPERANCE</speaker>
             <l part="F">Peste, qu’elle est jolie !</l>
-            <l n="661" xml:id="l661" part="I">Dieu sçait si le Mary… <ref target="#plaist-il">plaist-il*</ref>, Monsieur ?</l>
+            <l n="661" xml:id="l661" part="I">Dieu sçait si le Mary… <ref target="#plaist-il">plaist-il</ref>, Monsieur ?</l>
           </sp>
           <sp xml:id="II11-19" who="angelique">
             <speaker>ANGELIQUE</speaker>
@@ -2488,11 +2488,11 @@
             <l n="663" xml:id="l663">A Vingt pas du Logis, j’ay rencontré Madame.</l>
           </sp>
           <sp xml:id="II12-2" who="angelique">
-            <speaker>ANGELIQUE <hi rend="i">la saluant.</hi></speaker>
+            <speaker>ANGELIQUE </speaker><stage>la saluant.</stage>
             <l n="664" xml:id="l664" part="I">Que mon bonheur est grand !</l>
           </sp>
           <sp xml:id="II12-3" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">caché</hi>.</speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>caché</stage>
             <l part="F">La peste ! C’est ma Femme !</l>
           </sp>
           <sp xml:id="II12-4" who="angelique">
@@ -2515,7 +2515,7 @@
             <l n="669" xml:id="l669">Mais puis que mon bonheur me fait vous retrouver,</l>
             <l n="670" xml:id="l670">C’est en vous embrassant que je le veux prouver :</l>
             <l n="671" xml:id="l671">Je veux, puisque pour moy vostre ardeur s’intéresse,</l>
-            <l n="672" xml:id="l672">Que mon empressement seconde ma <ref target="#tendresse">tendresse*</ref>.</l>
+            <l n="672" xml:id="l672">Que mon empressement seconde ma <ref target="#tendresse">tendresse</ref>.</l>
           </sp>
           <sp xml:id="II12-8" who="cato">
             <speaker>CATO</speaker>
@@ -2563,21 +2563,21 @@
             <l n="687" xml:id="l687">Entrons, puis que le Sort permet que je vous voye.</l>
           </sp>
           <sp xml:id="II12-17" who="angelique">
-            <speaker>ANGELIQUE<hi rend="i"> en rentrant.</hi></speaker>
+            <speaker>ANGELIQUE</speaker><stage> en rentrant.</stage>
             <l n="688" xml:id="l688" part="I">Cato ?</l>
           </sp>
           <sp xml:id="II12-18" who="cato">
-            <speaker>CATO <hi rend="i">rentrant aussi.</hi></speaker>
+            <speaker>CATO </speaker><stage>rentrant aussi.</stage>
             <l part="M">Monsieur ?</l>
           </sp>
         </div>
         <div type="scene" xml:id="II13">
           <head>SCENE XIII</head>
           <sp xml:id="II13-1" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">seul.</hi></speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>seul.</stage>
             <l part="F">Voila la Marchande de joye :</l>
             <l n="689" xml:id="l689">L’affront que l’on me fait, ne m’est que trop connu,</l>
-            <l n="690" xml:id="l690">Et l’<ref target="#aveu">aveu*</ref> qu’on en fait, n’est que trop ingénu.</l>
+            <l n="690" xml:id="l690">Et l’<ref target="#aveu">aveu</ref> qu’on en fait, n’est que trop ingénu.</l>
             <l n="691" xml:id="l691">Voila de ces Serpens, de ces Pestes publiques,</l>
             <l n="692" xml:id="l692">Qui trafiquent l’honneur par de sourdes pratiques,</l>
             <l n="693" xml:id="l693">Et dont l’art secondant les soins d’un Favory,</l>
@@ -2691,7 +2691,7 @@
             <l n="732" xml:id="l732" part="I">L’ignorant…</l>
           </sp>
           <sp xml:id="II14-20" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">à part.</hi></speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>à part.</stage>
             <l part="F">On le sçait trop bien, de par le Diable.</l>
             <l n="733" xml:id="l733">Que l’on me laisse aller, je la verray dans peu.<pb n="44" xml:id="p44"/></l>
           </sp>
@@ -2707,13 +2707,13 @@
         <div type="scene" xml:id="II15">
           <head>SCENE XV</head>
           <sp xml:id="II15-1" who="cato">
-            <speaker>CATO <hi rend="i">seule</hi>.</speaker>
+            <speaker>CATO </speaker><stage>seule</stage>
             <l n="735" xml:id="l735">Il meurt de jalousie, &amp; de colere ensemble.</l>
             <l n="736" xml:id="l736">J’ay bien joüé mon rôle ; &amp; voila, ce me semble,</l>
             <l n="737" xml:id="l737">Pour un commencement, assez bien débuté.</l>
             <l n="738" xml:id="l738">Allons songer au reste, &amp; rire en liberté.</l>
           </sp>
-          <label rend="center">Fin du Second Acte.</label>
+          <trailer rend="center">Fin du Second Acte.</trailer>
         </div>
       </div>
       <div xml:id="III" type="act">
@@ -2786,7 +2786,7 @@
           </sp>
           <sp xml:id="III01-16" who="angelique">
             <speaker>ANGELIQUE</speaker>
-            <l part="F">Il est fort <ref target="#galans">galant*</ref>, &amp; fort tendre.</l>
+            <l part="F">Il est fort <ref target="#galans">galant</ref>, &amp; fort tendre.</l>
           </sp>
           <sp xml:id="III01-17" who="lucinde">
             <speaker>LUCINDE</speaker>
@@ -2811,7 +2811,7 @@
           <sp xml:id="III01-21" who="lucinde">
             <speaker>LUCINDE</speaker>
             <l part="F">Je t’avouë</l>
-            <l n="756" xml:id="l756">Que ton air <ref target="#goguenard">goguenard*</ref> merite qu’on te louë :</l>
+            <l n="756" xml:id="l756">Que ton air <ref target="#goguenard">goguenard</ref> merite qu’on te louë :</l>
             <l n="757" xml:id="l757">Il seroit malaisé de mieux faire l’Amant,</l>
             <l n="758" xml:id="l758">Et tu devrois estre Homme avec tant d’enjoûment.</l>
           </sp>
@@ -2822,7 +2822,7 @@
             <l n="761" xml:id="l761">J’aurois sçeu, pour vanter ma peine &amp; mon ardeur,</l>
             <l n="762" xml:id="l762">Mentir en Courtisan, &amp; jurer en Joüeur ;</l>
             <l n="763" xml:id="l763">J’aurois, pour me pouvoir rendre maître d’une ame,</l>
-            <l n="764" xml:id="l764">Apellé les Cadeaux au secours de ma flâme* ;</l>
+            <l n="764" xml:id="l764">Apellé les Cadeaux au secours de ma flâme ;</l>
             <l n="765" xml:id="l765">J’aurois veu fréquemment les Belles sans témoins,</l>
             <l n="766" xml:id="l766">J’aurois esté flateur, j’aurois rendu des soins,</l>
             <l n="767" xml:id="l767">Et pressé de si pres les Blondes &amp; les Brunes,</l>
@@ -2875,7 +2875,7 @@
         <div type="scene" xml:id="III02">
           <head>SCENE II</head>
           <sp xml:id="III02-1" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC, <hi rend="i">seul.</hi></speaker>
+            <speaker>MONSIEUR LE BLANC, </speaker><stage>seul.</stage>
             <l n="785" xml:id="l785">Ma Femme ne vient point, elle se trouve bien,</l>
             <l n="786" xml:id="l786">Et son honneur, je croy, fait bon marché du mien :</l>
             <l n="787" xml:id="l787">Mon affront est certain, je sçais trop qu’on m’offence,</l>
@@ -2903,7 +2903,7 @@
           <head>SCENE III</head><pb n="49" xml:id="p49"/>
           <stage>MONSIEUR LE BLANC, MADAME LE BLANC, DAMON.</stage>
           <sp xml:id="III03-1" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">à Damon, qui luy fait la reverence.</hi></speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>à Damon, qui luy fait la reverence.</stage>
             <l n="806" xml:id="l806" part="I">Serviteur.</l>
             <stage>A sa Femme.</stage>
             <l part="F">Venez-vous de vous faire enrôler ?</l>
@@ -2915,7 +2915,7 @@
           <sp xml:id="III03-3" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <l part="F">Venez-vous de voir faire Reveuë ?</l>
-            <l n="808" xml:id="l808">Les Belles du Marais font-elles leur <ref target="#recrue">Recruë*</ref> ?</l>
+            <l n="808" xml:id="l808">Les Belles du Marais font-elles leur <ref target="#recrue">Recruë</ref> ?</l>
             <l n="809" xml:id="l809">Avez-vous mis en vain ces Mouches &amp; ce Point?</l>
             <l n="810" xml:id="l810" part="I">Et la Coëffeuse enfin…</l>
           </sp>
@@ -2953,7 +2953,7 @@
             <l n="819" xml:id="l819">Ne vous ménage pas les lieux où l’on vous meine.</l>
             <l n="820" xml:id="l820">Vous ne sortez jamais, &amp; certain Capitaine</l>
             <l n="821" xml:id="l821">Vous embrassant d’abord, bras dessus, bras dessous,</l>
-            <l n="822" xml:id="l822">N’a pas <ref target="#tantost">tanstot*</ref> chez luy… <ref target="#plaist-il">Plaist-il*</ref> : m’entendez vous ?</l>
+            <l n="822" xml:id="l822">N’a pas <ref target="#tantost">tanstot</ref> chez luy… <ref target="#plaist-il">Plaist-il</ref> : m’entendez vous ?</l>
           </sp>
           <sp xml:id="III03-11" who="madame-le-blanc">
             <speaker>MADAME LE BLANC</speaker>
@@ -3087,7 +3087,7 @@
             <l n="874" xml:id="l874">Et que croiray-je donc, ce que je ne voy pas ?<pb n="53" xml:id="p53"/></l>
             <l n="875" xml:id="l875">Parbleu, vostre morale est d’un admirable Homme !</l>
             <l n="876" xml:id="l876">Lors que je parle à vous, faut-il vous croire à Rome<note place="bottom">Idée que Rome est une « haut-lieu ». Monsieur le Blanc insiste ici sur la prétention du discours moralisateur de Damon.</note> ?</l>
-            <l n="877" xml:id="l877">Ou gager* fortement, sur vostre beau discours,</l>
+            <l n="877" xml:id="l877">Ou gager fortement, sur vostre beau discours,</l>
             <l n="878" xml:id="l878">Que vous estes muet, quand vous jazez toûjours ?</l>
             <l n="879" xml:id="l879">J’ay tout veu ; mon offence est-elle assez prouvée ?</l>
           </sp>
@@ -3134,7 +3134,7 @@
             <l n="891" xml:id="l891">Vous avez sans sujet blessé son innocence,</l>
             <l n="892" xml:id="l892">Sans doute, &amp; c’est l’effet de quelque ressemblance ;</l>
             <l n="893" xml:id="l893">Non que si cet affront estoit bien avéré,</l>
-            <l n="894" xml:id="l894">Ce <ref target="#courroux">courroux*</ref>, à mon sens, ne fût trop modéré :</l>
+            <l n="894" xml:id="l894">Ce <ref target="#courroux">courroux</ref>, à mon sens, ne fût trop modéré :</l>
             <l n="895" xml:id="l895">Mais quand on blâme à tort des Femmes vertueuses,<pb n="54" xml:id="p54"/></l>
             <l n="896" xml:id="l896">De semblables éclats ont des fuites fâcheuses.</l>
             <l n="897" xml:id="l897">Des exemples du temps, faites-vous des leçons ;</l>
@@ -3156,7 +3156,7 @@
             <speaker>DAMON</speaker>
             <l part="F">Si depuis peu sa conduite,</l>
             <l n="908" xml:id="l908">D’un amour aparent vous fait craindre la suite,</l>
-            <l n="909" xml:id="l909">Eclaircissez-vous-en sans vous mettre en <ref target="#courroux">courroux*</ref> ;</l>
+            <l n="909" xml:id="l909">Eclaircissez-vous-en sans vous mettre en <ref target="#courroux">courroux</ref> ;</l>
             <l n="910" xml:id="l910">Tâchez de la convaincre, &amp; pour lors vangez-vous.</l>
           </sp>
           <sp xml:id="III04-20" who="monsieur-le-blanc">
@@ -3183,7 +3183,7 @@
         <div type="scene" xml:id="III05">
           <head>SCENE V</head><pb n="55" xml:id="p55"/>
           <sp xml:id="III05-1" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">seul</hi>.</speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>seul</stage>
             <l n="917" xml:id="l917">Il raisonne assez bien, je puis m’estre trompé,</l>
             <l n="918" xml:id="l918">Et la peur peut enfin m’avoir préoccupé:</l>
             <l n="919" xml:id="l919">La voyant de costé, la moindre ressemblance</l>
@@ -3236,7 +3236,7 @@
             <l n="947" xml:id="l947" rend="i">Que j’aime autant perdre la vie,</l>
             <l n="948" xml:id="l948" rend="i">Que l’esperance de vous voir. </l>
             <l n="949" xml:id="l949" rend="i">Venez me rassurer, si ma perte vous touche,</l>
-            <l n="950" xml:id="l950" rend="i">Rétablir mon <ref target="#repos">repos*</ref> d’un mot de vostre bouche ;</l>
+            <l n="950" xml:id="l950" rend="i">Rétablir mon <ref target="#repos">repos</ref> d’un mot de vostre bouche ;</l>
             <l n="951" xml:id="l951"><hi rend="i">Et vous ressouvenez</hi><note place="bottom">Ressouvenir : « ne s’emploie qu’avec le pronom personnel » (F). Dériver exocentrique de ressouvenance : « Action par laquelle on se ressouvient. Ce mot vieillit, &amp; on dit à la place souvenance. » (F)</note><hi rend="i">, pour ne m’alarmer plus</hi>,
 </l>
             <l n="952" xml:id="l952" rend="i">Et de me faire regler mon amour sur le vostre,</l>
@@ -3247,7 +3247,7 @@
             <stage>Il continuë.</stage>
             <l n="955" xml:id="l955">Le Billet est pressant, &amp; la Sœur tient du Frere ;</l>
             <l n="956" xml:id="l956">Tous deux aiment l’intrigue, &amp; tous deux sans mistere</l>
-            <l n="957" xml:id="l957">Cherchent secrettement à ménager leurs <ref target="#feux">feux*</ref>,</l>
+            <l n="957" xml:id="l957">Cherchent secrettement à ménager leurs <ref target="#feux">feux</ref>,</l>
             <l n="958" xml:id="l958">Et la bonne Cato sert d’Agente à tous deux.</l>
             <l n="959" xml:id="l959">Bien loin de s’en fâcher, elle n’en fait que rire.</l>
           </sp>
@@ -3263,7 +3263,7 @@
             <stage>A part.</stage>
             <l n="963" xml:id="l963">Oüy, oüy, j’iray. Ma Femme y reviendra peut-estre,</l>
             <l n="964" xml:id="l964">Et nous verrons beau jeu : Mais prens garde à ton Maistre,</l>
-            <l n="965" xml:id="l965">Il m’a <ref target="#tantost">tantost*</ref> pensé faire mourir de peur.</l>
+            <l n="965" xml:id="l965">Il m’a <ref target="#tantost">tantost</ref> pensé faire mourir de peur.</l>
           </sp>
           <sp xml:id="III06-7" who="cato">
             <speaker>CATO</speaker>
@@ -3273,7 +3273,7 @@
             <speaker>MONSIEUR LE BLANC</speaker>
             <l n="967" xml:id="l967">Viença, viença<note place="bottom">Comprendre « viens là ».</note>, j’ay bien autre chose à te dire.</l>
             <l n="968" xml:id="l968">Comme tu fais plaisir à quiconque aime à rire,</l>
-            <l n="969" xml:id="l969">Et que tu sçais enfin, en faveur des <ref target="#galans">galans*</ref>,</l>
+            <l n="969" xml:id="l969">Et que tu sçais enfin, en faveur des <ref target="#galans">galans</ref>,</l>
             <l n="970" xml:id="l970">Ce que chaque Quartier<note place="bottom">« En terme de blason, signifie un Escu d’Armoirie. Il faut seize quartiers pour prouver sa noblesse de quetres races dans des Compagnies où on ne reçoit que des Nobles. » (F)</note> a d’honneurs chancelans,</l>
             <l n="971" xml:id="l971">Serois-tu bien d’humeur à chercher une voye</l>
             <l n="972" xml:id="l972">De ménager pour nous un quart-d’heure de joye.</l>
@@ -3285,15 +3285,15 @@
           <sp xml:id="III06-10" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <l part="F">C’est à dire, en deux mots,</l>
-            <l n="974" xml:id="l974">Que la Coëffeuse peut beaucoup pour mon <ref target="#repos">repos*</ref> ;</l>
+            <l n="974" xml:id="l974">Que la Coëffeuse peut beaucoup pour mon <ref target="#repos">repos</ref> ;</l>
             <l n="975" xml:id="l975">Que pour elle &amp; pour toy je seray sans reserve,</l>
             <l n="976" xml:id="l976">Si vous voulez… Enfin il n’est qu’un mot qui serve ;</l>
             <l n="977" xml:id="l977">Voicy la question<note place="bottom">« Torture, gesne donnée aux criminels pour sçavoir la vérité » (A). Comprendre « souci ».</note>. J’aime autant qu’on le peut</l>
             <l n="978" xml:id="l978">Cette belle Bourgeoise à qui ton Maistre en veut :</l>
-            <l n="979" xml:id="l979">Oüy, sa beauté <ref target="#tantost">tantost*</ref> m’a charmé, je l’adore,</l>
+            <l n="979" xml:id="l979">Oüy, sa beauté <ref target="#tantost">tantost</ref> m’a charmé, je l’adore,</l>
             <l n="980" xml:id="l980">Et je meurs du desir de la revoir encore.</l>
             <l n="981" xml:id="l981">Si tu veux établir ton bonheur &amp; le sien,</l>
-            <l n="982" xml:id="l982">Fais que j’aye avec elle une heure d’<ref target="#entretien">entretien*</ref> ;</l>
+            <l n="982" xml:id="l982">Fais que j’aye avec elle une heure d’<ref target="#entretien">entretien</ref> ;</l>
             <l n="983" xml:id="l983">Tu peux, pour me servir, employer ta Compagne,</l>
             <l n="984" xml:id="l984">Ma Chere, mets pour moy la Coëffeuse en campagne<note place="bottom">Expression militaire : « faire sortir les trouppes des garnisons pour les mettre en corps d’armée. » (F)</note>.</l>
           </sp>
@@ -3350,9 +3350,9 @@
             <l part="F">Chez vous, si vous voulez.</l>
           </sp>
           <sp xml:id="III06-22" who="monsieur-le-blanc">
-            <speaker><hi rend="i">A part</hi> MONSIEUR LE BLANC</speaker>
+            <speaker/><stage>A part</stage>
             <l n="999" xml:id="l999">Elle n’y viendroit pas. Non, non, chez la Coëffeuse</l>
-            <l n="1000" xml:id="l1000">Je feray mieux l’<ref target="#aveu">aveu*</ref> de ma flâme* amoureuse.</l>
+            <l n="1000" xml:id="l1000">Je feray mieux l’<ref target="#aveu">aveu</ref> de ma flâme amoureuse.</l>
           </sp>
           <sp xml:id="III06-23" who="cato">
             <speaker>CATO</speaker>
@@ -3372,13 +3372,13 @@
           </sp>
           <sp xml:id="III06-26" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
-            <l n="1006" xml:id="l1006">J’iray <ref target="#tantost">tantost*</ref> chez toy. Feignons jusques au bout.</l>
+            <l n="1006" xml:id="l1006">J’iray <ref target="#tantost">tantost</ref> chez toy. Feignons jusques au bout.</l>
             <l n="1007" xml:id="l1007">Je vais revoir ma Femme, &amp; veux à l’amiable</l>
             <l n="1008" xml:id="l1008">A son honneur douteux faire amande honorable,</l>
             <l n="1009" xml:id="l1009">Et feindre d’un discours, &amp; d’un air composé,</l>
             <l n="1010" xml:id="l1010">Pour la mieux abuser, d’estre des-abusé.</l>
           </sp>
-          <label rend="center">Fin du Troisième Acte.</label>
+          <trailer rend="center">Fin du Troisième Acte.</trailer>
         </div>
       </div>
       <div xml:id="IV" type="act">
@@ -3387,8 +3387,8 @@
         <div type="scene" xml:id="IV01">
           <head>SCENE PREMIERE</head>
           <sp xml:id="IV01-1" who="l-esperance">
-            <speaker>L’ESPERANCE <hi rend="i">seul</hi>.</speaker>
-            <l n="1011" xml:id="l1011">A la fin, Dieu mercy, j’ons<note place="bottom">Au XVII<hi rend="sup">e</hi> siècle, à l’indicatif, la forme du pluriel tendit à se substituer à la P1, en raison de l’influence des patois. L'auteur, en employant cette forme, met l’accent sur la condition modeste du locuteur. Le texte même fait mention de son absence de naissance : « Un Valet que mon Frere avoit depuis longtemps,/ Et qu’il a fait Sergent dedans* sa Compagnie. » (v. 129-130)</note> tout ce qui nous faut,</l>
+            <speaker>L’ESPERANCE </speaker><stage>seul</stage>
+            <l n="1011" xml:id="l1011">A la fin, Dieu mercy, j’ons<note place="bottom">Au XVII<hi rend="sup">e</hi> siècle, à l’indicatif, la forme du pluriel tendit à se substituer à la P1, en raison de l’influence des patois. L'auteur, en employant cette forme, met l’accent sur la condition modeste du locuteur. Le texte même fait mention de son absence de naissance : « Un Valet que mon Frere avoit depuis longtemps,/ Et qu’il a fait Sergent dedans sa Compagnie. » (v. 129-130)</note> tout ce qui nous faut,</l>
             <l n="1012" xml:id="l1012">Et je pourrons partir, si je voulons, bientost :</l>
             <l n="1013" xml:id="l1013">J’ons Mousquets<note place="bottom">« Arme à feu qu’on porte sur l’épaule et qui sert à la guerre, qui prend feu avec une mèche. » (F)</note>, Baudriers<note place="bottom">« Echarpe de cuir […] qui sert à tenir l’épée. » (F)</note>, Epées, Bandoulieres,</l>
             <l n="1014" xml:id="l1014">Habits, Chapeaux, Souliers, avec dix-neuf bons Freres</l>
@@ -3440,7 +3440,7 @@
             <speaker>CATO</speaker>
             <l part="F">Dy-moi,</l>
             <l n="1037" xml:id="l1037">N’a-t-elle pas joüé bien plaisamment son rôle</l>
-            <l n="1038" xml:id="l1038" part="I">Avec nostre <ref target="#galans">Galant*</ref> ?</l>
+            <l n="1038" xml:id="l1038" part="I">Avec nostre <ref target="#galans">Galant</ref> ?</l>
           </sp>
           <sp xml:id="IV02-7" who="l-esperance">
             <speaker>L’ESPERANCE</speaker>
@@ -3449,7 +3449,7 @@
           </sp>
           <sp xml:id="IV02-8" who="cato">
             <speaker>CATO</speaker>
-            <l n="1040" xml:id="l1040">Tay-toi, nous parlerons de tout cela <ref target="#tantost">tantost*</ref>.<pb n="62" xml:id="p62"/></l>
+            <l n="1040" xml:id="l1040">Tay-toi, nous parlerons de tout cela <ref target="#tantost">tantost</ref>.<pb n="62" xml:id="p62"/></l>
           </sp>
           <sp xml:id="IV02-9" who="l-esperance">
             <speaker>L’ESPERANCE</speaker>
@@ -3470,10 +3470,10 @@
           <sp xml:id="IV02-12" who="cato">
             <speaker>CATO</speaker>
             <l part="F">Veux-tu toy-méme</l>
-            <l n="1047" xml:id="l1047" part="I">Me laisser en <ref target="#repos">repos*</ref> ?</l>
+            <l n="1047" xml:id="l1047" part="I">Me laisser en <ref target="#repos">repos</ref> ?</l>
           </sp>
           <sp xml:id="IV02-13" who="angelique">
-            <speaker>ANGELIQUE <hi rend="i">de <ref target="#dedans">dedans*</ref> une entrée apelle.</hi></speaker>
+            <speaker>ANGELIQUE </speaker><stage>de </stage>
             <l part="M">L’Esperance ?</l>
           </sp>
           <sp xml:id="IV02-14" who="l-esperance">
@@ -3485,17 +3485,17 @@
             <l n="1048" xml:id="l1048" part="I">Va.</l>
           </sp>
           <sp xml:id="IV02-16" who="l-esperance">
-            <speaker>L’ESPERANCE <hi rend="i">la baisant.</hi></speaker>
+            <speaker>L’ESPERANCE </speaker><stage>la baisant.</stage>
             <l part="F">Tu n’en es pas quitte. On y va. Serviteur.</l>
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
           <head>SCENE III</head>
           <sp xml:id="IV03-1" who="cato">
-            <speaker>CATO <hi rend="i">seule.</hi></speaker>
+            <speaker>CATO </speaker><stage>seule.</stage>
             <l n="1049" xml:id="l1049">Peste du gros lourdaut ! voyez, qu’il prend de peine.</l>
             <l n="1050" xml:id="l1050">Tu n’as qu’à revenir. M’en voilà hors d’haleine.</l>
-            <l n="1051" xml:id="l1051">Qu’il me tarde de voir nostre <ref target="#galans">Galant*</ref> icy !</l>
+            <l n="1051" xml:id="l1051">Qu’il me tarde de voir nostre <ref target="#galans">Galant</ref> icy !</l>
             <l n="1052" xml:id="l1052">Sa Femme, m’a-t-on dit, devoit s’y rendre aussy.</l>
             <l n="1053" xml:id="l1053">Cependant l’heure approche, &amp; je ne voy personne ;<pb n="63" xml:id="p63"/></l>
             <l n="1054" xml:id="l1054">Il nous payera bien la peine qu’il nous donne.</l>
@@ -3518,7 +3518,7 @@
             <speaker>CATO</speaker>
             <l part="F">A vous attendre.</l>
             <l n="1059" xml:id="l1059">Et moy, j’attens aussi que Monsieur vostre Epoux</l>
-            <l n="1060" xml:id="l1060">Vienne, comme il l’a dit, <ref target="#tantost">tantost*</ref> au Rendez-vous.</l>
+            <l n="1060" xml:id="l1060">Vienne, comme il l’a dit, <ref target="#tantost">tantost</ref> au Rendez-vous.</l>
             <l n="1061" xml:id="l1061">Angelique &amp; Damon joindront leurs soins aux vostres.</l>
           </sp>
           <sp xml:id="IV04-4" who="madame-le-blanc">
@@ -3535,7 +3535,7 @@
             <l n="1064" xml:id="l1064" part="I">On luy veut faire encor.</l>
           </sp>
           <sp xml:id="IV04-7" who="cato">
-            <speaker>CATO <hi rend="i">l’arrestant</hi></speaker>
+            <speaker>CATO </speaker><stage>l’arrestant</stage>
             <l part="F">Si vous estiez d’humeur</l>
             <l n="1065" xml:id="l1065" part="I">A garder un secret…</l>
           </sp>
@@ -3564,15 +3564,15 @@
           </sp>
           <sp xml:id="IV04-13" who="cato">
             <speaker>CATO</speaker>
-            <l part="F">Qu’un <ref target="#galans">Galant*</ref> d’importance</l>
+            <l part="F">Qu’un <ref target="#galans">Galant</ref> d’importance</l>
             <l n="1071" xml:id="l1071">Est amoureux de vous, &amp; que pour vous gagner</l>
             <l n="1072" xml:id="l1072">Il est dans le dessein de ne rien épargner :</l>
-            <l n="1073" xml:id="l1073">Outre ce que pour vous il aura de <ref target="#tendresse">tendresse*</ref>,</l>
+            <l n="1073" xml:id="l1073">Outre ce que pour vous il aura de <ref target="#tendresse">tendresse</ref>,</l>
             <l n="1074" xml:id="l1074">Il a des tas d’écus dont il vous fait maistresse ;</l>
             <l n="1075" xml:id="l1075">Et son cœur &amp; son bien sont à vous aujourd’huy,</l>
             <l n="1076" xml:id="l1076">Si vous voulez passer une heure avecque luy.</l>
             <l n="1077" xml:id="l1077">Je me suis engagée à vous porter parole,</l>
-            <l n="1078" xml:id="l1078" part="I">Et crû vous <ref target="#oblige-de">obliger*</ref>.</l>
+            <l n="1078" xml:id="l1078" part="I">Et crû vous <ref target="#oblige-de">obliger</ref>.</l>
           </sp>
           <sp xml:id="IV04-14" who="madame-le-blanc">
             <speaker>MADAME LE BLANC</speaker>
@@ -3587,12 +3587,12 @@
           </sp>
           <sp xml:id="IV04-16" who="madame-le-blanc">
             <speaker>MADAME LE BLANC</speaker>
-            <l part="F">Tu prétens que son argent m’<ref target="#oblige-de">oblige*</ref>,</l>
+            <l part="F">Tu prétens que son argent m’<ref target="#oblige-de">oblige</ref>,</l>
             <l n="1082" xml:id="l1082" part="I">Malgré ce que je dois…</l>
           </sp>
           <sp xml:id="IV04-17" who="cato">
             <speaker>CATO</speaker>
-            <l part="F">Oüy, ce <ref target="#galans">Galant*</ref>, vous dis-je,</l>
+            <l part="F">Oüy, ce <ref target="#galans">Galant</ref>, vous dis-je,</l>
             <l n="1083" xml:id="l1083">Verra par des faveurs récompenser son choix,</l>
             <l n="1084" xml:id="l1084">Et ce ne sera pas pour la premiere fois.</l>
           </sp>
@@ -3609,12 +3609,12 @@
             <speaker>MADAME LE BLANC</speaker>
             <l n="1087" xml:id="l1087">Je commence à trouver ce discours ennuyeux :</l>
             <l n="1088" xml:id="l1088">C’est porter un peu loin l’insolence à mes yeux ;</l>
-            <l n="1089" xml:id="l1089">Mais tu peux t’assurer que <ref target="#devant">devant*</ref> que je parte…</l>
+            <l n="1089" xml:id="l1089">Mais tu peux t’assurer que <ref target="#devant">devant</ref> que je parte…</l>
           </sp>
           <sp xml:id="IV04-21" who="cato">
             <speaker>CATO</speaker>
             <l n="1090" xml:id="l1090">Nous ne jurons de rien, mais nous sçavons la Carte<note place="bottom">« Sçavoir la carte, se dit non seulement au propre […], mais le plus souvent au figuré, de ceux qui connoissent les intrigues d’une Cour, le train des affaires d’un Estat, les destours d’une maison, les connoissances, les habitudes, les secrets d’une famille, d’un quartier. » (F)</note>.</l>
-            <l n="1091" xml:id="l1091">Cependant le <ref target="#galans">Galant*</ref>, pour vous voir, doit venir;</l>
+            <l n="1091" xml:id="l1091">Cependant le <ref target="#galans">Galant</ref>, pour vous voir, doit venir;</l>
             <l n="1092" xml:id="l1092">J’ay donné ma parole, &amp; prétens la tenir :</l>
             <l n="1093" xml:id="l1093">Il m’a fort bien payée, &amp; m’a donné sa Bague,</l>
             <l n="1094" xml:id="l1094">Et des Loüis forts bons ; voyez si j’extravague<note place="bottom">« Dire ou faire quelque chose mal à propos, indiscretement &amp; contre le bon sens ou la suite d’un discours, ou la bienséance. » (F)</note>.</l>
@@ -3636,11 +3636,11 @@
             <l part="F">C’est luy qui vous en veut.</l>
             <l n="1097" xml:id="l1097">Depuis qu’il vous a veuë en ce lieu si docile,</l>
             <l n="1098" xml:id="l1098">Il croit que vous allez chercher fortune en Ville,</l>
-            <l n="1099" xml:id="l1099">Qu’à faire des <ref target="#galans">galans*</ref> vous avez du panchant,</l>
+            <l n="1099" xml:id="l1099">Qu’à faire des <ref target="#galans">galans</ref> vous avez du panchant,</l>
             <l n="1100" xml:id="l1100">Que c’est par mon moyen que vous trouvez Marchand ;</l>
             <l n="1101" xml:id="l1101">Et prétend, pour régler son amour sur le vostre,</l>
             <l n="1102" xml:id="l1102">Estre pour son argent, bien venu comme un autre.</l>
-            <l n="1103" xml:id="l1103" part="I">Hé bien, le verrez-vous <ref target="#tantost">tantost*</ref> ?</l>
+            <l n="1103" xml:id="l1103" part="I">Hé bien, le verrez-vous <ref target="#tantost">tantost</ref> ?</l>
           </sp>
           <sp xml:id="IV04-26" who="madame-le-blanc">
             <speaker>MADAME LE BLANC</speaker>
@@ -3683,7 +3683,7 @@
           <sp xml:id="IV05-5" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <l n="1113" xml:id="l1113">Ce n’est pas sans sujet que ma peur est extréme ;</l>
-            <l n="1114" xml:id="l1114" part="I">Et tu sçais que <ref target="#tantost">tantost*</ref>…</l>
+            <l n="1114" xml:id="l1114" part="I">Et tu sçais que <ref target="#tantost">tantost</ref>…</l>
           </sp>
           <sp xml:id="IV05-6" who="cato">
             <speaker>CATO</speaker>
@@ -3691,7 +3691,7 @@
             <l n="1115" xml:id="l1115">Il est hors du Logis, &amp; pour tout aujourd’huy</l>
             <l n="1116" xml:id="l1116">Il est avec un tas de Vauriens comme luy,</l>
             <l n="1117" xml:id="l1117">Pour faire la débauche, &amp; Dieu nous en délivre :</l>
-            <l n="1118" xml:id="l1118">Il faudra que <ref target="#tantost">tantost*</ref> il creve, ou qu’il s’enyvre ;</l>
+            <l n="1118" xml:id="l1118">Il faudra que <ref target="#tantost">tantost</ref> il creve, ou qu’il s’enyvre ;</l>
             <l n="1119" xml:id="l1119">Et je croy, comme enfin il n’en fait pas façon,</l>
             <l n="1120" xml:id="l1120">Que quand nous le verrons, il sera beau Garçon.</l>
           </sp>
@@ -3719,8 +3719,8 @@
         <div type="scene" xml:id="IV06">
           <head>SCENE VI</head>
           <sp xml:id="IV06-1" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">seul.</hi></speaker>
-            <l n="1129" xml:id="l1129">Pour finir l’embarras d’un amour qui me gesne*,</l>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>seul.</stage>
+            <l n="1129" xml:id="l1129">Pour finir l’embarras d’un amour qui me gesne,</l>
             <l n="1130" xml:id="l1130">Je veux tout hazarder<note place="bottom">« Risquer, exposer à la fortune, exposer au péril. » (A)</note>, pour soulager ma peine :</l>
             <l n="1131" xml:id="l1131">Aussi-bien, tost ou tard, Lucinde peut sçavoir</l>
             <l n="1132" xml:id="l1132">Que c’est pour la tromper, que je cherche à la voir ;</l>
@@ -3758,8 +3758,8 @@
             <l n="1153" xml:id="l1153">Et je ne puis assez loüer vostre conduite :</l>
             <l n="1154" xml:id="l1154">Mais comme ce malheur peut avoir quelque suite</l>
             <l n="1155" xml:id="l1155">Qui feroit de l’éclat, empeschons-en le cours ;</l>
-            <l n="1156" xml:id="l1156">Faites, sans diférer, l’<ref target="#aveu">aveu*</ref> de nos amours ;</l>
-            <l n="1157" xml:id="l1157">De grace, proposez nostre <ref target="#hymen">Hymen*</ref> à mon Frere.</l>
+            <l n="1156" xml:id="l1156">Faites, sans diférer, l’<ref target="#aveu">aveu</ref> de nos amours ;</l>
+            <l n="1157" xml:id="l1157">De grace, proposez nostre <ref target="#hymen">Hymen</ref> à mon Frere.</l>
           </sp>
           <sp xml:id="IV07-3" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
@@ -3810,12 +3810,12 @@
             <speaker>MONSIEUR LE BLANC</speaker>
             <l part="F">Cela va sans dire.</l>
             <l n="1167" xml:id="l1167">Si par quelque accident qu’on ne peut pas prévoir,</l>
-            <l n="1168" xml:id="l1168">Cet <ref target="#hymen">Hymen*</ref> se devoit ou remettre, ou surseoir<note place="bottom">« Différer le jugement d’une affaire; l’éxecution d’une contrainte. » (F)</note>,</l>
+            <l n="1168" xml:id="l1168">Cet <ref target="#hymen">Hymen</ref> se devoit ou remettre, ou surseoir<note place="bottom">« Différer le jugement d’une affaire; l’éxecution d’une contrainte. » (F)</note>,</l>
             <l n="1169" xml:id="l1169">Nous pourrons établir entre nous, sous silence,</l>
-            <l n="1170" xml:id="l1170">Un commerce galant d’<ref target="#hymen">Hymen*</ref> de conscience,</l>
+            <l n="1170" xml:id="l1170">Un commerce galant d’<ref target="#hymen">Hymen</ref> de conscience,</l>
             <l n="1171" xml:id="l1171">Diférer pour un temps les Bancs &amp; le Festin,</l>
-            <l n="1172" xml:id="l1172">Payer au Dieu d’<ref target="#hymen">Hymen*</ref> un tribut clandestin,</l>
-            <l n="1173" xml:id="l1173">En faveur de nos <ref target="#feux">feux*</ref> nous rendre un peu credules,</l>
+            <l n="1172" xml:id="l1172">Payer au Dieu d’<ref target="#hymen">Hymen</ref> un tribut clandestin,</l>
+            <l n="1173" xml:id="l1173">En faveur de nos <ref target="#feux">feux</ref> nous rendre un peu credules,</l>
             <l n="1174" xml:id="l1174">Brûler de bonne-foy d’un amour sans scrupules,</l>
             <l n="1175" xml:id="l1175">Faire moins un présent qu’un troc de nostre cœur,</l>
             <l n="1176" xml:id="l1176">Laisser tranquillement meurir<note place="bottom">Mûrir.</note> nostre bonheur,</l>
@@ -3832,16 +3832,16 @@
             <speaker>MONSIEUR LE BLANC</speaker>
             <l part="F">Ah c’est le plus commode,</l>
             <l n="1182" xml:id="l1182">Le moins embarassant, &amp; le plus à la mode.</l>
-            <l n="1183" xml:id="l1183">Quand d’un <ref target="#hymen">Hymen*</ref> en forme on avance l’effet,</l>
+            <l n="1183" xml:id="l1183">Quand d’un <ref target="#hymen">Hymen</ref> en forme on avance l’effet,</l>
             <l n="1184" xml:id="l1184">Le jour qu’on se marie<note place="bottom">« Le jour <hi rend="i">où</hi> l’on se marie ».</note>, on ne sçait ce qu’on fait.</l>
-            <l n="1185" xml:id="l1185"><ref target="#dedans">Dedans*</ref> l’ardeur que cause un feu qui vient de naistre,</l>
-            <l n="1186" xml:id="l1186">On s’engage à l’<ref target="#hymen">Hymen*</ref>, sans la sçavoir connoistre ;</l>
+            <l n="1185" xml:id="l1185"><ref target="#dedans">Dedans</ref> l’ardeur que cause un feu qui vient de naistre,</l>
+            <l n="1186" xml:id="l1186">On s’engage à l’<ref target="#hymen">Hymen</ref>, sans la sçavoir connoistre ;</l>
             <l n="1187" xml:id="l1187">Et le bonheur enfin s’y trouve rarement,</l>
             <l n="1188" xml:id="l1188">Quand le caprice agit sans le discernement :</l>
             <l n="1189" xml:id="l1189">Autant que l’on le peut, on doit, quoy qu’il arrive,</l>
-            <l n="1190" xml:id="l1190">En matiere d’<ref target="#hymen">Hymen*</ref>, faire une tentative.</l>
+            <l n="1190" xml:id="l1190">En matiere d’<ref target="#hymen">Hymen</ref>, faire une tentative.</l>
             <l n="1191" xml:id="l1191">Devant tous les Humains, je soûtiens qu’il est vray,</l>
-            <l n="1192" xml:id="l1192">Que qui tend à l’<ref target="#hymen">Hymen*</ref>, en doit faire l’essay,</l>
+            <l n="1192" xml:id="l1192">Que qui tend à l’<ref target="#hymen">Hymen</ref>, en doit faire l’essay,</l>
             <l n="1193" xml:id="l1193">Que la joye à ce Dieu doit servir d’entremise,</l>
             <l n="1194" xml:id="l1194">Et que faire autrement, c’est faire une sottise.</l>
           </sp>
@@ -3891,13 +3891,13 @@
           <sp xml:id="IV07-23" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <stage>A part.</stage>
-            <l n="1214" xml:id="l1214">Elle a raison. Que c’est de gloire pour ma flâme* !</l>
+            <l n="1214" xml:id="l1214">Elle a raison. Que c’est de gloire pour ma flâme !</l>
           </sp>
           <sp xml:id="IV07-24" who="lucinde">
             <speaker>LUCINDE</speaker>
             <l n="1215" xml:id="l1215">Vous voyez que pour vous je fais un grand effort :</l>
             <l n="1216" xml:id="l1216">Mais pour m’en dispenser, mon amour est trop fort ;</l>
-            <l n="1217" xml:id="l1217">Vostre discretion jointe à vostre <ref target="#tendresse">tendresse*</ref>,</l>
+            <l n="1217" xml:id="l1217">Vostre discretion jointe à vostre <ref target="#tendresse">tendresse</ref>,</l>
             <l n="1218" xml:id="l1218">Seront, si vous m’aimez, le prix de ma foiblesse.</l>
           </sp>
           <sp xml:id="IV07-25" who="monsieur-le-blanc">
@@ -3915,8 +3915,8 @@
           <head>SCENE VIII</head><pb n="72" xml:id="p72"/>
           <stage>ANGELIQUE, M. LE BLANC, LUCINDE.</stage>
           <sp xml:id="IV08-1" who="angelique">
-            <speaker>ANGELIQUE <hi rend="i">luy prenant le bras.</hi></speaker>
-            <l n="1224" xml:id="l1224">Alte-là, vieux <ref target="#magot">Magot*</ref>, vous vous baissez trop bas.</l>
+            <speaker>ANGELIQUE </speaker><stage>luy prenant le bras.</stage>
+            <l n="1224" xml:id="l1224">Alte-là, vieux <ref target="#magot">Magot</ref>, vous vous baissez trop bas.</l>
           </sp>
           <sp xml:id="IV08-2" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
@@ -3926,18 +3926,18 @@
             <speaker>ANGELIQUE</speaker>
             <l part="F">Comment ! en ma presence</l>
             <l n="1226" xml:id="l1226">Vous luy baisez la main, Faquin ? Vostre insolence</l>
-            <l n="1227" xml:id="l1227">A mon insçeu, <ref target="#ceans">ceans*</ref>, attente à mon honneur,</l>
+            <l n="1227" xml:id="l1227">A mon insçeu, <ref target="#ceans">ceans</ref>, attente à mon honneur,</l>
             <l n="1228" xml:id="l1228">Et vous venez chez moy pour suborner ma Sœur ?</l>
             <l n="1229" xml:id="l1229">Et ma honte, &amp; ta mort, également certaine,</l>
             <l n="1230" xml:id="l1230" part="I">Feront voir…</l>
             <stage>Elle tire l’épée, &amp; fait semblant de vouloir le fraper.</stage>
           </sp>
           <sp xml:id="IV08-4" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">baissant la teste.</hi></speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>baissant la teste.</stage>
             <l part="F">Ah tout doux, Monsieur le Capitaine.</l>
           </sp>
           <sp xml:id="IV08-5" who="lucinde">
-            <speaker>LUCINDE <hi rend="i">le retenant.</hi></speaker>
+            <speaker>LUCINDE </speaker><stage>le retenant.</stage>
             <l n="1231" xml:id="l1231" part="I">Mon Frere…</l>
           </sp>
           <sp xml:id="IV08-6" who="monsieur-le-blanc">
@@ -3963,7 +3963,7 @@
           <sp xml:id="IV08-10" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l n="1237" xml:id="l1237">On me l’avoit bien dit, que contre ma defense</l>
-            <l n="1238" xml:id="l1238">Vous voyiez un <ref target="#pied-plat">Pié-plat*</ref> <ref target="#ceans">ceans*</ref> en mon absence,</l>
+            <l n="1238" xml:id="l1238">Vous voyiez un <ref target="#pied-plat">Pié-plat</ref> <ref target="#ceans">ceans</ref> en mon absence,</l>
             <l n="1239" xml:id="l1239">Et que de vos amours on murmuroit tout-bas.</l>
           </sp>
           <sp xml:id="IV08-11" who="lucinde">
@@ -3987,7 +3987,7 @@
           <sp xml:id="IV08-14" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l n="1249" xml:id="l1249">Ah pour vous en punir, je prendray peu des vostres :</l>
-            <l n="1250" xml:id="l1250">Ce <ref target="#galans">galant*</ref> servira d’exemple à tous les autres.</l>
+            <l n="1250" xml:id="l1250">Ce <ref target="#galans">galant</ref> servira d’exemple à tous les autres.</l>
             <stage>Elle le menace de l’épée.</stage>
           </sp>
           <sp xml:id="IV08-15" who="monsieur-le-blanc">
@@ -4005,7 +4005,7 @@
             <speaker>LUCINDE</speaker>
             <l n="1255" xml:id="l1255">Non, non, j’attens de vous une plus douce loy ;<pb n="74 G"/></l>
             <l n="1256" xml:id="l1256">J’espere que le sang vous parlera pour moy ;</l>
-            <l n="1257" xml:id="l1257">Que malgré ce <ref target="#courroux">courroux*</ref>, vos bontez que j’implore,</l>
+            <l n="1257" xml:id="l1257">Que malgré ce <ref target="#courroux">courroux</ref>, vos bontez que j’implore,</l>
             <l n="1258" xml:id="l1258">Donneront à mes pleurs un Amant que j’adore.</l>
             <l n="1259" xml:id="l1259">Non, je ne puis penser que vous blâmiez ce choix,</l>
             <l n="1260" xml:id="l1260">Sur tout quand vous sçaurez que c’est un bon bourgeois</l>
@@ -4036,7 +4036,7 @@
             <speaker>ANGELIQUE</speaker>
             <l n="1268" xml:id="l1268">En ce cas, je rengaîne, &amp; je suis son amy.</l>
             <stage>Elle l’embrasse.</stage>
-            <l n="1269" xml:id="l1269">Excusez le <ref target="#transport">transport*</ref> qu’une douleur mortelle</l>
+            <l n="1269" xml:id="l1269">Excusez le <ref target="#transport">transport</ref> qu’une douleur mortelle</l>
             <l n="1270" xml:id="l1270" part="I">A causé contre vous.</l>
           </sp>
           <sp xml:id="IV08-23" who="monsieur-le-blanc">
@@ -4080,7 +4080,7 @@
           </sp>
           <sp xml:id="IV08-30" who="angelique">
             <speaker>ANGELIQUE</speaker>
-            <l n="1279" xml:id="l1279">Bien loin de m’oposer à des <ref target="#feux">feux*</ref> si constans,</l>
+            <l n="1279" xml:id="l1279">Bien loin de m’oposer à des <ref target="#feux">feux</ref> si constans,</l>
             <l n="1280" xml:id="l1280">Je veux contribuer à vous rendre contens :</l>
             <l n="1281" xml:id="l1281">J’aime à voir tant d’amour, &amp; déjà par avance</l>
             <l n="1282" xml:id="l1282" part="I">Je vous aime en Beaufrere.</l>
@@ -4092,7 +4092,7 @@
           <sp xml:id="IV08-32" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l part="F">Je pense</l>
-            <l n="1283" xml:id="l1283">Que pour l’<ref target="#hymen">Hymen*</ref> mes soins ne vous déplairont pas.</l>
+            <l n="1283" xml:id="l1283">Que pour l’<ref target="#hymen">Hymen</ref> mes soins ne vous déplairont pas.</l>
           </sp>
           <sp xml:id="IV08-33" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
@@ -4204,7 +4204,7 @@
             <speaker>ANGELIQUE</speaker>
             <l n="1303" xml:id="l1303">Mais pour estre assuré de ma Sœur &amp; de vous,</l>
             <l n="1304" xml:id="l1304">Je prétens qu’à l’instant vous soyez son Epoux :</l>
-            <l n="1305" xml:id="l1305">C’est vous parler François, si vostre amour m’<ref target="#oblige-de">oblige*</ref>.</l>
+            <l n="1305" xml:id="l1305">C’est vous parler François, si vostre amour m’<ref target="#oblige-de">oblige</ref>.</l>
             <l n="1306" xml:id="l1306" part="I">Ces détours à la fin…</l>
           </sp>
           <sp xml:id="IV09-23" who="monsieur-le-blanc">
@@ -4245,9 +4245,9 @@
             <l part="M">Ah la vie.</l>
           </sp>
           <sp xml:id="IV09-30" who="l-esperance">
-            <speaker>L’ESPERANCE <hi rend="i">la retenant.</hi></speaker>
+            <speaker>L’ESPERANCE </speaker><stage>la retenant.</stage>
             <l part="F">Eh Monsieur,</l>
-            <l n="1317" xml:id="l1317" part="I"><ref target="#quartier">Quartier*</ref>.</l>
+            <l n="1317" xml:id="l1317" part="I"><ref target="#quartier">Quartier</ref>.</l>
           </sp>
           <sp xml:id="IV09-31" who="angelique">
             <speaker>ANGELIQUE</speaker>
@@ -4277,7 +4277,7 @@
             <l part="M">Moy ?</l>
           </sp>
           <sp xml:id="IV09-37" who="l-esperance">
-            <speaker>L’ESPERANCE <hi rend="i">à part à M. le Blanc</hi></speaker>
+            <speaker>L’ESPERANCE </speaker><stage>à part à M. le Blanc</stage>
             <l part="F">Vous-mesme.</l>
           </sp>
           <sp xml:id="IV09-38" who="monsieur-le-blanc">
@@ -4287,7 +4287,7 @@
           <sp xml:id="IV09-39" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l n="1324" xml:id="l1324">Hé bien, j’en suis d’accord, qu’on l’enrôle au plutost,</l>
-            <l n="1325" xml:id="l1325">Et le conduis demain avecque la <ref target="#recrue">Recruë*</ref></l>
+            <l n="1325" xml:id="l1325">Et le conduis demain avecque la <ref target="#recrue">Recruë</ref></l>
             <l n="1326" xml:id="l1326" part="I">A nostre Garnison.</l>
           </sp>
           <sp xml:id="IV09-40" who="monsieur-le-blanc">
@@ -4332,7 +4332,7 @@
             <l n="1339" xml:id="l1339" part="I">Tu prends le bon party.</l>
             <stage>A l’Esperance. </stage>
             <l part="F">Qu’on le fasse sans bruit</l>
-            <l n="1340" xml:id="l1340">Partir <ref target="#devant">devant*</ref> le jour, ou mesme cette nuit.</l>
+            <l n="1340" xml:id="l1340">Partir <ref target="#devant">devant</ref> le jour, ou mesme cette nuit.</l>
             <l n="1341" xml:id="l1341" part="I">Fais-le équiper de tout.</l>
           </sp>
           <sp xml:id="IV09-47" who="l-esperance">
@@ -4354,7 +4354,7 @@
             <speaker>MONSIEUR LE BLANC</speaker>
             <l n="1346" xml:id="l1346">Fort-bien. Avec le temps nous en verrons bien d’autres.</l>
           </sp>
-          <label rend="center">Fin du Quatrième Acte.</label>
+          <trailer rend="center">Fin du Quatrième Acte.</trailer>
         </div>
       </div>
       <div xml:id="V" type="act">
@@ -4374,10 +4374,10 @@
           </sp>
           <sp xml:id="V01-3" who="damon">
             <speaker>DAMON</speaker>
-            <l n="1349" xml:id="l1349">Mon malheur désormais n’a plus rien qui m’étonne*;</l>
+            <l n="1349" xml:id="l1349">Mon malheur désormais n’a plus rien qui m’étonne;</l>
             <l n="1350" xml:id="l1350">Et charmé de l’espoir que ce retour me donne,</l>
             <l n="1351" xml:id="l1351">Je me flate de voir que mon cœur et mes soins,</l>
-            <l n="1352" xml:id="l1352">Apres un tel <ref target="#aveu">aveu*</ref>, ne vous plairont pas moins;</l>
+            <l n="1352" xml:id="l1352">Apres un tel <ref target="#aveu">aveu</ref>, ne vous plairont pas moins;</l>
             <l n="1353" xml:id="l1353">Qu’en faveur d’un amour que vous avez fait naistre,</l>
             <l n="1354" xml:id="l1354">Vous voudrez bien permettre au vostre de paraistre,</l>
             <l n="1355" xml:id="l1355">Et soufrir que j’adjoûte, en me donnant à vous,</l>
@@ -4385,12 +4385,12 @@
           </sp>
           <sp xml:id="V01-4" who="lucinde">
             <speaker>LUCINDE</speaker>
-            <l n="1357" xml:id="l1357">Si je sçay jusqu’où va pour moi vostre <ref target="#tendresse">tendresse*</ref>,</l>
+            <l n="1357" xml:id="l1357">Si je sçay jusqu’où va pour moi vostre <ref target="#tendresse">tendresse</ref>,</l>
             <l n="1358" xml:id="l1358">Vous connoissez pour vous combien je m’intéresse.</l>
             <l n="1359" xml:id="l1359">Je ne puis jusques-là vous rien dire de plus:</l>
             <l n="1360" xml:id="l1360">Mais sans perdre le temps en discours superflus,</l>
             <l n="1361" xml:id="l1361">Voyons par quel moyen nous pourrons faire en sorte<pb n="82" xml:id="p82"/></l>
-            <l n="1362" xml:id="l1362">D’avoir pour cet <ref target="#hymen">Hymen*</ref> l’<ref target="#aveu">aveu*</ref> qui nous importe;</l>
+            <l n="1362" xml:id="l1362">D’avoir pour cet <ref target="#hymen">Hymen</ref> l’<ref target="#aveu">aveu</ref> qui nous importe;</l>
             <l n="1363" xml:id="l1363">Ma Cousine est là haut, et sans sortir d’icy,</l>
             <l n="1364" xml:id="l1364" part="I">Nous en pourrons sçavoir…</l>
           </sp>
@@ -4438,7 +4438,7 @@
           </sp>
           <sp xml:id="V02-9" who="angelique">
             <speaker>ANGELIQUE</speaker>
-            <l n="1373" xml:id="l1373">Je vous ay <ref target="#tantost">tanstot*</ref> dit ce que vous devez faire.</l>
+            <l n="1373" xml:id="l1373">Je vous ay <ref target="#tantost">tanstot</ref> dit ce que vous devez faire.</l>
           </sp>
           <sp xml:id="V02-10" who="damon">
             <speaker>DAMON</speaker>
@@ -4454,12 +4454,12 @@
           <head>SCENE III</head>
           <stage>LUCINDE, ANGELIQUE, DAMON, M. LE BLANC, L’ESPERANCE.</stage>
           <sp xml:id="V03-1" who="l-esperance">
-            <speaker>L’ESPERANCE <hi rend="i">en riant</hi></speaker>
+            <speaker>L’ESPERANCE </speaker><stage>en riant</stage>
             <l n="1377" xml:id="l1377">Ce que j’ons fait? Morgué, j’avons fait des merveilles:</l>
             <l n="1378" xml:id="l1378">Si quelqu’un l’entend mieux, je donne mes oreilles<note place="bottom">Jeu de mots sur la polysémie d’« entendre » qui peut signifier percevoir par l’oreille et comprendre par l’esprit. Le sens convoqué ici est le second.</note>.</l>
             <l n="1379" xml:id="l1379">Vostre Monsieur le Blanc est un drôle de corps!</l>
             <l n="1380" xml:id="l1380">Il voudroit, pour un bras, pouvoir estre dehors;</l>
-            <l n="1381" xml:id="l1381">Je viens de l’enrôler et d’orner sa <ref target="#figure">Figure*</ref>,</l>
+            <l n="1381" xml:id="l1381">Je viens de l’enrôler et d’orner sa <ref target="#figure">Figure</ref>,</l>
             <l n="1382" xml:id="l1382">En me divertissant, d’un bon Habit de bure<note place="bottom">« Etoffe grossière faite de laine. » (A)</note>;</l>
             <l n="1383" xml:id="l1383">De l’équiper de tout: Mais le régal estoit</l>
             <l n="1384" xml:id="l1384">De voir, en l’habillant, comme il se tourmentoit;</l>
@@ -4488,7 +4488,7 @@
           </sp>
           <sp xml:id="V03-5" who="l-esperance">
             <speaker>L’ESPERANCE</speaker>
-            <l n="1397" xml:id="l1397">Oüy, ma foy, car ce sont d’assez bonnes <ref target="#figure">Figures*</ref>.</l>
+            <l n="1397" xml:id="l1397">Oüy, ma foy, car ce sont d’assez bonnes <ref target="#figure">Figures</ref>.</l>
           </sp>
           <sp xml:id="V03-6" who="angelique">
             <speaker>ANGELIQUE</speaker>
@@ -4524,8 +4524,8 @@
         <div type="scene" xml:id="V04">
           <head>SCENE IV</head>
           <sp xml:id="V04-1" who="monsieur-le-blanc">
-            <speaker>M. LE BLANC <hi rend="i">seul sur le Théâtre, avec son habit de Soldat, et les autres dans une Entrée.</hi></speaker>
-            <l n="1409" xml:id="l1409">Quel <ref target="#equipage">équipage*</ref>, helas! ma peine est sans seconde;</l>
+            <speaker>M. LE BLANC </speaker><stage>seul sur le Théâtre, avec son habit de Soldat, et les autres dans une Entrée.</stage>
+            <l n="1409" xml:id="l1409">Quel <ref target="#equipage">équipage</ref>, helas! ma peine est sans seconde;</l>
             <l n="1410" xml:id="l1410">Il faut aller en Flandre, ou bien en l’autre Monde,</l>
             <l n="1411" xml:id="l1411">Me voir en Garnison, pour me sauver de pis,</l>
             <l n="1412" xml:id="l1412">Et quitter pour jamais la vie, ou mon Païs.</l>
@@ -4533,7 +4533,7 @@
             <l n="1414" xml:id="l1414">Soldat de la façon de Monsieur L’Espérance;</l>
             <l n="1415" xml:id="l1415">Ce Fripon m’a donné deux écus malgré moy,</l>
             <l n="1416" xml:id="l1416">M’a fait boire sans soif à la santé du Roy,</l>
-            <l n="1417" xml:id="l1417">A paré vingt <ref target="#pied-plat">Pié-plats*</ref> de semblables jaquettes,</l>
+            <l n="1417" xml:id="l1417">A paré vingt <ref target="#pied-plat">Pié-plats</ref> de semblables jaquettes,</l>
             <l n="1418" xml:id="l1418">A mis en marmotant mon nom sur ses tablettes,</l>
             <l n="1419" xml:id="l1419">A troqué de son chef, sans consulter mon choix,</l>
             <l n="1420" xml:id="l1420">En habit de Goujat, mon habit de Bourgeois;</l>
@@ -4543,7 +4543,7 @@
             <l n="1424" xml:id="l1424">Tous les Cocus venoient en Flandre avec moy,</l>
             <l n="1425" xml:id="l1425">Je pourrois me vanter, malgré la raillerie,</l>
             <l n="1426" xml:id="l1426">D’aller en Garnison en bonne compagnie.</l>
-            <l n="1427" xml:id="l1427">Si je trouvois moyen de sortir de <ref target="#ceans">ceans*</ref>….</l>
+            <l n="1427" xml:id="l1427">Si je trouvois moyen de sortir de <ref target="#ceans">ceans</ref>….</l>
             <l n="1428" xml:id="l1428">Mais j’aperçoy Cato, prenons mieux nostre temps.</l>
           </sp>
         </div>
@@ -4556,8 +4556,8 @@
             <l n="1429" xml:id="l1429">Elle pleure, je croy. Qu’as-tu, ma Chere? écoute;</l>
           </sp>
           <sp xml:id="V05-2" who="cato">
-            <speaker>CATO <hi rend="i">faisant la pleureuse.</hi></speaker>
-            <l n="1430" xml:id="l1430">Vous avez mis <ref target="#ceans">ceans*</ref>, Monsieur, tout en déroute;</l>
+            <speaker>CATO </speaker><stage>faisant la pleureuse.</stage>
+            <l n="1430" xml:id="l1430">Vous avez mis <ref target="#ceans">ceans</ref>, Monsieur, tout en déroute;</l>
             <l n="1431" xml:id="l1431" part="I">Et nostre Maitre….</l>
           </sp>
           <sp xml:id="V05-3" who="monsieur-le-blanc">
@@ -4577,7 +4577,7 @@
           </sp>
           <sp xml:id="V05-6" who="cato">
             <speaker>CATO</speaker>
-            <l part="F">Non; mais <ref target="#devant">devant*</ref> qu’il soit nuit,</l>
+            <l part="F">Non; mais <ref target="#devant">devant</ref> qu’il soit nuit,</l>
             <l n="1436" xml:id="l1436">Il la veut du Logis faire emmener sans bruit,</l>
             <l n="1437" xml:id="l1437">Et veut que... La douleur m’empesche la parole.</l>
           </sp>
@@ -4586,7 +4586,7 @@
             <l n="1438" xml:id="l1438" part="I">Hé bien, dis, que veut-il?</l>
           </sp>
           <sp xml:id="V05-8" who="l-esperance">
-            <speaker>L’ESPERANCE <hi rend="i">dans l’Entrée</hi>.</speaker>
+            <speaker>L’ESPERANCE </speaker><stage>dans l’Entrée</stage>
             <l part="F">Elle fait bien son rôle.</l>
           </sp>
           <sp xml:id="V05-9" who="cato">
@@ -4616,7 +4616,7 @@
           </sp>
           <sp xml:id="V05-14" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
-            <l part="F">Quittons cet <ref target="#entretien">entretien*</ref>,</l>
+            <l part="F">Quittons cet <ref target="#entretien">entretien</ref>,</l>
             <l n="1449" xml:id="l1449">Et me dis, aussi bien le souvenir me blesse,</l>
             <l n="1450" xml:id="l1450">S’il n’est aucun moyen de tenir ta promesse</l>
             <l n="1451" xml:id="l1451">Touchant cette Beauté qui venoit visiter…</l>
@@ -4673,9 +4673,9 @@
           <sp xml:id="V05-26" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <l n="1464" xml:id="l1464">J’éteindray la chandelle, et luy parleray bas.</l>
-            <l n="1465" xml:id="l1465">Je n’attens pour partir, <ref target="#dedans">dedans*</ref> cette occurrence,</l>
+            <l n="1465" xml:id="l1465">Je n’attens pour partir, <ref target="#dedans">dedans</ref> cette occurrence,</l>
             <l n="1466" xml:id="l1466">Que la commodité de Monsieur L’Espérance:</l>
-            <l n="1467" xml:id="l1467">Il est nuit; à mes <ref target="#feux">feux*</ref> cesse de t’oposer,</l>
+            <l n="1467" xml:id="l1467">Il est nuit; à mes <ref target="#feux">feux</ref> cesse de t’oposer,</l>
             <l n="1468" xml:id="l1468" part="I">Va…</l>
           </sp>
           <sp xml:id="V05-27" who="cato">
@@ -4688,7 +4688,7 @@
         <div type="scene" xml:id="V06">
           <head>SCENE VI</head><pb n="88" xml:id="p88"/>
           <sp xml:id="V06-1" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">seul</hi>.</speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>seul</stage>
             <l n="1471" xml:id="l1471">Mieux que je n’esperois, mes soins ont reüssy,</l>
             <l n="1472" xml:id="l1472">Et j’auray le plaisir de partir éclaircy.</l>
             <l n="1473" xml:id="l1473">Il vaut mieux, à mon sens, quelque soin qu’il en coûte,</l>
@@ -4705,7 +4705,7 @@
           </sp>
           <sp xml:id="V07-2" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
-            <l part="M"><ref target="#plaist-il">Plaist-il*</ref> ?</l>
+            <l part="M"><ref target="#plaist-il">Plaist-il</ref> ?</l>
           </sp>
           <sp xml:id="V07-3" who="l-esperance">
             <speaker>L’ESPERANCE</speaker>
@@ -4725,8 +4725,8 @@
           </sp>
           <sp xml:id="V07-7" who="l-esperance">
             <speaker>L’ESPERANCE</speaker>
-            <l part="F"><ref target="#tout-a-heure">Tout-à-l’heure*</ref>.</l>
-            <l n="1479" xml:id="l1479">As-tu ce qu’il te faut <ref target="#dedans">dedans*</ref> ton Havre-sac<note place="bottom">« Sorte de sac que les Soldats dans les marches d’armée, &amp; les gens de métier en allant par pays portent sur leur dos, &amp; où ils mettent leurs provisions, leurs ustensiles, leurs outils. » (A)</note>?</l>
+            <l part="F"><ref target="#tout-a-heure">Tout-à-l’heure</ref>.</l>
+            <l n="1479" xml:id="l1479">As-tu ce qu’il te faut <ref target="#dedans">dedans</ref> ton Havre-sac<note place="bottom">« Sorte de sac que les Soldats dans les marches d’armée, &amp; les gens de métier en allant par pays portent sur leur dos, &amp; où ils mettent leurs provisions, leurs ustensiles, leurs outils. » (A)</note>?</l>
             <l n="1480" xml:id="l1480">T’es-tu fait acheter des Pipes, du Tabac?</l>
           </sp>
           <sp xml:id="V07-8" who="monsieur-le-blanc">
@@ -4735,7 +4735,7 @@
           </sp>
           <sp xml:id="V07-9" who="l-esperance">
             <speaker>L’ESPERANCE</speaker>
-            <l n="1482" xml:id="l1482">Va, je boirons un coup <ref target="#tantost">tanstot*</ref> à la Villette;</l>
+            <l n="1482" xml:id="l1482">Va, je boirons un coup <ref target="#tantost">tanstot</ref> à la Villette;</l>
             <l n="1483" xml:id="l1483" part="I">Marche à moy.</l>
             <stage>Il fait semblant de marcher.</stage>
           </sp>
@@ -4755,7 +4755,7 @@
             <l part="M">Mais…</l>
           </sp>
           <sp xml:id="V07-13" who="l-esperance">
-            <speaker>L’ESPERANCE <hi rend="i">le tirant par le bras</hi></speaker>
+            <speaker>L’ESPERANCE </speaker><stage>le tirant par le bras</stage>
             <l part="F">Marche donc, ou tu seras traitté…</l>
           </sp>
           <sp xml:id="V07-14" who="monsieur-le-blanc">
@@ -4764,10 +4764,10 @@
             <l n="1489" xml:id="l1489" part="I">Et ne me forcez point…</l>
           </sp>
           <sp xml:id="V07-15" who="l-esperance">
-            <speaker>L’ESPERANCE<hi rend="i"> ostant son chapeau, et lui faisant la reverence.</hi></speaker>
+            <speaker>L’ESPERANCE</speaker><stage> ostant son chapeau, et lui faisant la reverence.</stage>
             <l part="F">Ah Monsieur de la Roze,</l>
             <l n="1490" xml:id="l1490">Deux heures plus ou moins, ne font rien à la chose;</l>
-            <l n="1491" xml:id="l1491">Je partirons <ref target="#tantost">tanstot*</ref>, puis que vous le voulez;</l>
+            <l n="1491" xml:id="l1491">Je partirons <ref target="#tantost">tanstot</ref>, puis que vous le voulez;</l>
             <l n="1492" xml:id="l1492" part="I">Je m’en vay boire un coup en attendant.</l>
           </sp>
           <sp xml:id="V07-16" who="monsieur-le-blanc">
@@ -4778,7 +4778,7 @@
         <div type="scene" xml:id="V08">
           <head>SCENE VIII</head>
           <sp xml:id="V08-1" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">seul.</hi></speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>seul.</stage>
             <l n="1493" xml:id="l1493">Sans argent, mille coups relançoient ma prière.</l>
             <l n="1494" xml:id="l1494">J’entens venir quelqu’un, éteignons la lumière.</l>
           </sp>
@@ -4804,13 +4804,13 @@
           <sp xml:id="V09-4" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <l n="1498" xml:id="l1498">C’est elle, c’est la voix.<note place="bottom">Cet hémistiche, pour produire son effet, doit être dit en aparté.</note> Dieu me damne, ma Chère,</l>
-            <l n="1499" xml:id="l1499">Je brûlois de vous voir, &amp; ce dernier <ref target="#aveu">aveu*</ref></l>
+            <l n="1499" xml:id="l1499">Je brûlois de vous voir, &amp; ce dernier <ref target="#aveu">aveu</ref></l>
             <l n="1500" xml:id="l1500">Va porter à l’excés ce que je sens de feu;</l>
             <l n="1501" xml:id="l1501">Vos bontez me font voir qu’il n’a rien qui vous blesse.</l>
           </sp>
           <sp xml:id="V09-5" who="madame-le-blanc">
             <speaker>MADAME LE BLANC</speaker>
-            <l n="1502" xml:id="l1502">Non, vous ne sçavez point jusqu’où va ma <ref target="#tendresse">tendresse*</ref>,</l>
+            <l n="1502" xml:id="l1502">Non, vous ne sçavez point jusqu’où va ma <ref target="#tendresse">tendresse</ref>,</l>
             <l n="1503" xml:id="l1503">Combien de vous aimer je me fais une loy,</l>
             <l n="1504" xml:id="l1504">Ny combien votre amour a de charmes pour moy.</l>
             <l n="1505" xml:id="l1505" part="I">Jamais…</l>
@@ -4838,7 +4838,7 @@
           <sp xml:id="V09-9" who="madame-le-blanc">
             <speaker>MADAME LE BLANC</speaker>
             <l part="F">Hors vous, tous les Hommes du Monde,</l>
-            <l n="1515" xml:id="l1515">Quelque soin que l’on prît à me prouver leurs <ref target="#feux">feux*</ref>,</l>
+            <l n="1515" xml:id="l1515">Quelque soin que l’on prît à me prouver leurs <ref target="#feux">feux</ref>,</l>
             <l n="1516" xml:id="l1516">Ne peuvent rien avoir de charmant à mes yeux :</l>
             <l n="1517" xml:id="l1517">Enfin vous estes seul le maistre de mon ame,</l>
             <l n="1518" xml:id="l1518" part="I">Mon cœur ne sent d’amour que pour vous.</l>
@@ -4846,14 +4846,14 @@
           <sp xml:id="V09-10" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <l part="F">Ah l’infame !</l>
-            <l n="1519" xml:id="l1519">Vous passerez la nuit <ref target="#ceans">ceans*</ref>; &amp; vostre Epoux…</l>
+            <l n="1519" xml:id="l1519">Vous passerez la nuit <ref target="#ceans">ceans</ref>; &amp; vostre Epoux…</l>
           </sp>
           <sp xml:id="V09-11" who="madame-le-blanc">
             <speaker>MADAME LE BLANC</speaker>
             <l n="1520" xml:id="l1520">Je le veux bien pourveu que ce soit avec vous.</l>
           </sp>
           <sp xml:id="V09-12" who="monsieur-le-blanc">
-            <speaker>MONSIEUR LE BLANC <hi rend="i">bas.</hi></speaker>
+            <speaker>MONSIEUR LE BLANC </speaker><stage>bas.</stage>
             <l n="1521" xml:id="l1521">C’est parler sans enigme, &amp; j’en ay pour mon conte.</l>
             <stage>Il veut tirer son épée, &amp; ne peut.</stage>
             <l n="1522" xml:id="l1522">Ton sang, ame sans foy, va reparer ma honte;</l>
@@ -4861,7 +4861,7 @@
             <l n="1524" xml:id="l1524" part="I">Le voila cet Epoux.</l>
           </sp>
           <sp xml:id="V09-13" who="madame-le-blanc">
-            <speaker>MADAME LE BLANC <hi rend="i">s’enfuyant.</hi></speaker>
+            <speaker>MADAME LE BLANC </speaker><stage>s’enfuyant.</stage>
             <l part="M">Au secours.</l>
           </sp>
         </div>
@@ -4871,7 +4871,7 @@
           <sp xml:id="V10-1" who="cato">
             <speaker>CATO</speaker>
             <l part="F">Au secours,</l>
-            <l n="1525" xml:id="l1525">A l’aide. Ces <ref target="#transport">transports*</ref> vous sont-ils ordinaires?</l>
+            <l n="1525" xml:id="l1525">A l’aide. Ces <ref target="#transport">transports</ref> vous sont-ils ordinaires?</l>
             <l n="1526" xml:id="l1526" part="I">Estes-vous fou, Monsieur?</l>
           </sp>
           <sp xml:id="V10-2" who="monsieur-le-blanc">
@@ -4880,7 +4880,7 @@
           </sp>
           <sp xml:id="V10-3" who="cato">
             <speaker>CATO</speaker>
-            <l n="1527" xml:id="l1527">Vous, insulter <ref target="#ceans">ceans*</ref> une Femme d’honneur?</l>
+            <l n="1527" xml:id="l1527">Vous, insulter <ref target="#ceans">ceans</ref> une Femme d’honneur?</l>
           </sp>
         </div>
         <div type="scene" xml:id="V11">
@@ -4904,7 +4904,7 @@
           </sp>
           <sp xml:id="V11-5" who="damon">
             <speaker>DAMON</speaker>
-            <l part="F">En un tel <ref target="#equipage">equipage*</ref>!</l>
+            <l part="F">En un tel <ref target="#equipage">equipage</ref>!</l>
             <l n="1530" xml:id="l1530" part="I">Vous, aller à la Guerre!</l>
           </sp>
           <sp xml:id="V11-6" who="monsieur-le-blanc">
@@ -4974,9 +4974,9 @@
             <l n="1542" xml:id="l1542">Avant que vous fussiez le Fils de vostre Père,</l>
             <l n="1543" xml:id="l1543">Pedagogue importun, dont le zele indiscret</l>
             <l n="1544" xml:id="l1544">Me fait, malgré mes dents, gardien d’un secret.</l>
-            <l n="1545" xml:id="l1545">On vous dit que <ref target="#ceans">ceans*</ref> on me fait violence,</l>
+            <l n="1545" xml:id="l1545">On vous dit que <ref target="#ceans">ceans</ref> on me fait violence,</l>
             <l n="1546" xml:id="l1546">Qu’on m’a fait enrôler malgré ma resistance,</l>
-            <l n="1547" xml:id="l1547">Qu’avec une <ref target="#recrue">Recruë*</ref> un certain grand Pendard<note place="bottom">« Vaurien, fripon, scélérat. » (A)</note></l>
+            <l n="1547" xml:id="l1547">Qu’avec une <ref target="#recrue">Recruë</ref> un certain grand Pendard<note place="bottom">« Vaurien, fripon, scélérat. » (A)</note></l>
             <l n="1548" xml:id="l1548">M’alloit mener en Flandre un quart-d’heure plus tard.</l>
           </sp>
           <sp xml:id="V11-21" who="damon">
@@ -5023,20 +5023,20 @@
           </sp>
           <sp xml:id="V13-2" who="damon">
             <speaker>DAMON</speaker>
-            <l n="1559" xml:id="l1559">Qu’a-t-il fait? quel outrage? &amp; surquoy* cette peur?</l>
+            <l n="1559" xml:id="l1559">Qu’a-t-il fait? quel outrage? &amp; surquoy cette peur?</l>
           </sp>
           <sp xml:id="V13-3" who="angelique">
             <speaker>ANGELIQUE</speaker>
-            <l n="1560" xml:id="l1560">Comment! venir <ref target="#ceans">ceans*</ref> pour suborner ma Sœur?</l>
+            <l n="1560" xml:id="l1560">Comment! venir <ref target="#ceans">ceans</ref> pour suborner ma Sœur?</l>
             <l n="1561" xml:id="l1561">Chez moi, morbleu, chez moi, la Sœur d’un Capitaine?</l>
             <l n="1562" xml:id="l1562">Par la mort… Mais enfin je consens qu’on l’emméne</l>
             <l n="1563" xml:id="l1563">Ou chez vous, ou chez luy, prest à nous allier;<pb n="95" xml:id="p95"/></l>
             <l n="1564" xml:id="l1564">En faveur du Parens, je veux tout oublier;</l>
             <l n="1565" xml:id="l1565">Je l’aime, sans sçavoir mesme comme on le nomme,</l>
-            <l n="1566" xml:id="l1566">Sa <ref target="#figure">Figure*</ref> me plaist, je le trouve brave Homme,</l>
+            <l n="1566" xml:id="l1566">Sa <ref target="#figure">Figure</ref> me plaist, je le trouve brave Homme,</l>
             <l n="1567" xml:id="l1567">Au rang de ses Amis je me mets aujourd’huy,</l>
             <l n="1568" xml:id="l1568">Et veux, morbleu, casser un Verre avecque luy.</l>
-            <l n="1569" xml:id="l1569">A l’<ref target="#hymen">hymen*</ref> de ma Sœur puisqu’il n’est plus contraire,</l>
+            <l n="1569" xml:id="l1569">A l’<ref target="#hymen">hymen</ref> de ma Sœur puisqu’il n’est plus contraire,</l>
             <l n="1570" xml:id="l1570" part="I">Qu’on la fasse venir?</l>
           </sp>
           <sp xml:id="V13-4" who="monsieur-le-blanc">
@@ -5093,7 +5093,7 @@
           <sp xml:id="V13-15" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <l part="F">C’est que cet étourdy,</l>
-            <l n="1585" xml:id="l1585">Qui fait le <ref target="#goguenard">goguenard*</ref>, qui rit, &amp; qui se cache,</l>
+            <l n="1585" xml:id="l1585">Qui fait le <ref target="#goguenard">goguenard</ref>, qui rit, &amp; qui se cache,</l>
             <l n="1586" xml:id="l1586" part="I">Me fait…</l>
           </sp>
           <sp xml:id="V13-16" who="damon">
@@ -5111,7 +5111,7 @@
           <sp xml:id="V13-19" who="angelique">
             <speaker>ANGELIQUE</speaker>
             <l part="F">Je répons de sa foy,</l>
-            <l n="1588" xml:id="l1588">Tant qu’elle n’aura point d’autre <ref target="#galans">Galant*</ref> que moy.</l>
+            <l n="1588" xml:id="l1588">Tant qu’elle n’aura point d’autre <ref target="#galans">Galant</ref> que moy.</l>
           </sp>
           <sp xml:id="V13-20" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
@@ -5169,9 +5169,9 @@
             <speaker>ANGELIQUE</speaker>
             <l part="F">Calmez cette colere:</l>
             <l n="1602" xml:id="l1602">Je veux vous faire voir combien j’ay sçeu luy plaire,</l>
-            <l n="1603" xml:id="l1603">Vous montrer jusqu’où vont les <ref target="#transport">transports*</ref> des Amans,</l>
+            <l n="1603" xml:id="l1603">Vous montrer jusqu’où vont les <ref target="#transport">transports</ref> des Amans,</l>
             <l n="1604" xml:id="l1604">Que vos yeux soient témoins de nos embrassements,</l>
-            <l n="1605" xml:id="l1605">Luy donner devant vous des marques de ma flame*,</l>
+            <l n="1605" xml:id="l1605">Luy donner devant vous des marques de ma flame,</l>
             <l n="1606" xml:id="l1606">En avoir des faveurs : Et si c’est vostre Femme,</l>
             <l n="1607" xml:id="l1607">Lors que quelque autre Objet aura sçeu me charmer,</l>
             <l n="1608" xml:id="l1608">Que las de ses faveurs, ou cessant de l’aimer,</l>
@@ -5185,7 +5185,7 @@
           <sp xml:id="V13-34" who="damon">
             <speaker>DAMON</speaker>
             <l part="F">C’est un jeune emporté;</l>
-            <l n="1612" xml:id="l1612">Mais nous luy rabattrons <ref target="#tantost">tanstot*</ref> sa vanité:</l>
+            <l n="1612" xml:id="l1612">Mais nous luy rabattrons <ref target="#tantost">tanstot</ref> sa vanité:</l>
             <l n="1613" xml:id="l1613">Quand nous aurons de tout une entiere assurance,</l>
             <l n="1614" xml:id="l1614">Vous verrez quelle part je prends dans cette offence.</l>
           </sp>
@@ -5259,7 +5259,7 @@
           </sp>
           <sp xml:id="V14-13" who="angelique">
             <speaker>ANGELIQUE</speaker>
-            <l n="1628" xml:id="l1628">Pourquoy? pour vous montrer à faire le <ref target="#galans">Galant*</ref>,</l>
+            <l n="1628" xml:id="l1628">Pourquoy? pour vous montrer à faire le <ref target="#galans">Galant</ref>,</l>
             <l n="1629" xml:id="l1629">Et vous aprendre, ayant une Femme bien faite,</l>
             <l n="1630" xml:id="l1630">A n’aller point ailleurs debiter la sornette,</l>
             <l n="1631" xml:id="l1631">A vous tenir content du nom de vostre Epoux,</l>
@@ -5269,7 +5269,7 @@
             <speaker>MONSIEUR LE BLANC</speaker>
             <l n="1633" xml:id="l1633">Elle a parbleu raison, &amp; l’avanture est drôle;</l>
             <l n="1634" xml:id="l1634">Elle a, pour l’en blâmer, trop bien joüé son rôle:</l>
-            <l n="1635" xml:id="l1635">Mais puis-je m’assurer, Parent, que cet <ref target="#aveu">aveu*</ref></l>
+            <l n="1635" xml:id="l1635">Mais puis-je m’assurer, Parent, que cet <ref target="#aveu">aveu</ref></l>
             <l n="1636" xml:id="l1636">Ne soit point un moyen de mieux couvrir leur jeu?</l>
           </sp>
           <sp xml:id="V14-15" who="damon">
@@ -5286,7 +5286,7 @@
           </sp>
           <sp xml:id="V14-18" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
-            <l n="1640" xml:id="l1640">Songeons à son <ref target="#repos">repos*</ref>, pour celuy qu’il me rend.</l>
+            <l n="1640" xml:id="l1640">Songeons à son <ref target="#repos">repos</ref>, pour celuy qu’il me rend.</l>
           </sp>
         </div>
         <div type="scene" xml:id="V15">
@@ -5303,12 +5303,12 @@
           <sp xml:id="V15-3" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <l part="F">Encore un capitaine!</l>
-            <l n="1643" xml:id="l1643">Je pense qu’il en pleut. Vostre <ref target="#hymen">Hymen*</ref> se fera,</l>
+            <l n="1643" xml:id="l1643">Je pense qu’il en pleut. Vostre <ref target="#hymen">Hymen</ref> se fera,</l>
             <l n="1644" xml:id="l1644">Mais ce sera demain, ou quand il vous plaira;</l>
             <l n="1645" xml:id="l1645">J’y consens : Cependant je vay reprendre haleine;</l>
             <l n="1646" xml:id="l1646">Et saluë humblement LA FILLE CAPITAINE.</l>
           </sp>
-          <label rend="center">FIN</label>
+          <trailer rend="center">FIN</trailer>
         </div>
       </div>
     </body>

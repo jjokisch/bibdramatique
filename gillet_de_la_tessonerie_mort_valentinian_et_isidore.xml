@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!--Odette: 2020-11-02T10:10:47+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><!--Odette: 2020-11-02T10:10:47+01:00--><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -248,7 +245,7 @@
             <quote>
               <l>Et comme si l’Enfer eust entre ouvert son goufre</l>
               <l>Il sent des puanteurs de Bythume et de souffre,</l>
-              <l>Et voit entrer un mort à la lueur d’un <ref target="#feu1">feu*</ref></l>
+              <l>Et voit entrer un mort à la lueur d’un <ref target="#feu1">feu</ref></l>
               <l>Qui rendant un faulx jour tout jaunastre et tout bleu,</l>
               <l>Esclairoit les objets d’une couleur funeste.</l>
             </quote>
@@ -265,7 +262,7 @@
               <l>D’une autre descharnée il me serre le bras,</l>
               <l>Et l’ayant arraché par force hors de mes draps</l>
               <l>Dessus son estomach le met avec furie,</l>
-              <l>Mais je n’y <ref target="#rencontrer">rencontray*</ref> que de la chair pourie,</l>
+              <l>Mais je n’y <ref target="#rencontrer">rencontray</ref> que de la chair pourie,</l>
               <l>Et pour surcroist d’effroy ce Phantosme inhumain</l>
               <l>M’a laissé tout sanglant son coeur dedans la main.</l>
             </quote>
@@ -281,7 +278,7 @@
             <p>Tout d’abord, une tragédie contemporaine à <emph>La Mort de Valentinian et d’Isidore : La Mariane</emph>, tragédie religieuse de Tristan L’Hermite, représentée au théâtre du Marais au printemps 1636 et imprimée en février 1637. Mariane, épouse du roi Hérode, refuse de se soumettre à l’autorité de ce tyran et incarne la vertu sans faille. Avant son départ en voyage pour Rome, Hérode, en proie à une grande colère, ordonne que sa femme soit condamnée à mort s’il ne revient pas vivant de ce voyage. C’est Salomé, la sœur d’Hérode, qui se charge de cette mise à mort, avant même de savoir si son frère est mort ou vivant. Ainsi, Salomé supprime la menace qui pesait sur le pouvoir. Hérode revient finalement de son voyage et devient fou, oubliant que la mort de sa femme était sa propre volonté<note place="bottom">On remarque d’ailleurs que Gillet de la Tessonerie réutilise le trio du tyran, de la femme vertueuse et de la sœur au sein de <emph>La Mort de Valentinian et d’Isidore</emph>. Toutefois, les passions de ses personnages sont moins violentes que celles des personnages de Tristan L’Hermite puisqu’Honorique n’essaie pas de tuer Isidore.</note>. Dans <emph>La Mariane</emph>, Tristan L’Hermitte met lui aussi en scène un songe (dans la scène III de l’acte I) : Hérode rêve qu’Aristobule, qu’il avait fait assassiner, revient des morts pour le hanter. Le parallèle avec le songe de Valentinian où Maxime, mort, vient le hanter est ici évident. Il importe toutefois de préciser que le rêve d’Hérode, comme celui de Valentinian, ne se réalisera pas à l’identique<note place="bottom">Pour approfondir cet aspect, voir l’article de Paul Pelckmans, « La Prémonition et ses à-peu-près dans le théâtre de Tristan L’Hermite », <emph>Francofonia</emph>, n°6, printemps 1984, p. 119-126.</note>. Tristan L’Hermite et Gillet de la Tessonerie utilisent le rêve pour insister sur la fatalité du destin de leur héros. Ce cauchemar est à comprendre, aussi bien pour le héros que pour le lecteur, comme un avertissement et un mauvais présage pour la suite.</p>
             <p>Ensuite, <emph>La Mort de Valentinian et d’Isidore</emph> semble faire écho à une deuxième tragédie. Il s’agit de <emph>Polyeucte</emph> de Pierre Corneille, représentée au théâtre du Marais en 1641 et imprimée en 1642. Dans cette tragédie religieuse, Corneille met en scène son héros éponyme, Polyeucte, en tant que martyr après sa conversion religieuse. Pauline, épouse de Polyeucte, fait un songe (le récit de ce rêve est fait par Polyeucte lui-même dès la première scène de la pièce) où elle voit son mari mourir. Or, Polyeucte est en effet menacé de mort par Félix, sénateur romain et gouverneur d’Arménie, s’il ne renonce pas à sa foi chrétienne. Pauline tente de raisonner son époux, en vain. Polyeucte est finalement exécuté selon sa propre volonté, par amour pour Dieu. De ce fait, le songe mis en scène par Corneille apparaît lui aussi comme un mauvais présage mais cette fois-ci, le personnage qui rêve (Pauline) l’interprète lui-même comme tel. Toutefois, son destin la rattrape et son songe se réalise.</p>
             <p>Enfin, nous pouvons faire un lien avec une troisième tragédie, postérieure à <emph>La Mort de Valentinian et d’Isidore : Athalie</emph>, pièce à sujet biblique de Jean Racine publiée en 1691. Athalie, veuve du roi de Juda, gouverne le pays en ayant abandonné la religion juive pour le culte de Baal. Elle croit avoir éliminé toute opposition au sein de la famille royale mais très vite, le lecteur apprend que son petit-fils, Joas, a été sauvé et vit caché sous le nom d’Éliacin. Au cours de la pièce (dans la scène V de l’acte II), Athalie fait le récit d’un cauchemar qui la poursuit où un enfant la poignarde. Cet enfant, elle n’en reconnaît pas les traits et ignore qu’il s’agit en réalité de son petit-fils. Georges Forestier explique qu’ici, « le songe possède une fonction dramatique directe : mettre en place les conditions de la rencontre entre Athalie et Joas ».<note place="bottom">Jean Racine, <emph>Athalie</emph>, éd. Georges Forestier, Paris, Gallimard, coll. Folio théâtre, 2001, p. 18.</note> En effet, cette rencontre a lieu à la fin de la pièce (dans la scène IV de l’acte V) où Joas prend le pouvoir et tue Athalie. Une fois encore, le songe est devenu réalité.</p>
-            <p>Nous remarquons ainsi une constante du songe dans le théâtre du XVII<hi rend="sup">e</hi> siècle<note place="bottom">Georges Forestier précise que cette constante se trouve notamment dans la première moitié du XVII<hi rend="sup">e</hi> siècle. Voir l’article « Le rêve littéraire du baroque au classicisme : réflexes typologiques et enjeux esthétiques »<emph>, Revue des Sciences Humaines</emph>, n<emph>°</emph> 211 (Rêver en France au XVII<hi rend="sup">e</hi> siècle), 1988/3, p. 213-235. </note> en tant que mauvais présage. Le cauchemar de Valentinian s’inscrit dans cette lignée et le héros le constate lui-même puisque c’est sur cette remarque que s’ouvre la pièce : « Quoy qu’il en soit, ce songe est de mauvais presage » (vers 1). En effet, Gillet de la Tessonerie semble respecter la tradition qui fait du songe un message divin à interpréter et à décrypter<note place="bottom">Pour approfondir cet aspect, voir l’étude de Florence Dumora, <emph>L’Œuvre nocturne : songe et représentation au XVII<hi rend="sup">e</hi> siècle</emph>, Paris, Honoré Champion, coll. Lumière classique, 2005.</note>. Une nouvelle fois, Valentinian le précise lui-même : « Toutes ces visions sont des langues secrettes / Qui du <ref target="#courroux">courroux*</ref> des Dieux me servent d’interpretes » (vers 5 et 6).</p>
+            <p>Nous remarquons ainsi une constante du songe dans le théâtre du XVII<hi rend="sup">e</hi> siècle<note place="bottom">Georges Forestier précise que cette constante se trouve notamment dans la première moitié du XVII<hi rend="sup">e</hi> siècle. Voir l’article « Le rêve littéraire du baroque au classicisme : réflexes typologiques et enjeux esthétiques »<emph>, Revue des Sciences Humaines</emph>, n<emph>°</emph> 211 (Rêver en France au XVII<hi rend="sup">e</hi> siècle), 1988/3, p. 213-235. </note> en tant que mauvais présage. Le cauchemar de Valentinian s’inscrit dans cette lignée et le héros le constate lui-même puisque c’est sur cette remarque que s’ouvre la pièce : « Quoy qu’il en soit, ce songe est de mauvais presage » (vers 1). En effet, Gillet de la Tessonerie semble respecter la tradition qui fait du songe un message divin à interpréter et à décrypter<note place="bottom">Pour approfondir cet aspect, voir l’étude de Florence Dumora, <emph>L’Œuvre nocturne : songe et représentation au XVII<hi rend="sup">e</hi> siècle</emph>, Paris, Honoré Champion, coll. Lumière classique, 2005.</note>. Une nouvelle fois, Valentinian le précise lui-même : « Toutes ces visions sont des langues secrettes / Qui du <ref target="#courroux">courroux</ref> des Dieux me servent d’interpretes » (vers 5 et 6).</p>
             <p rend="center">***</p>
             <p>Qu’il soit prophétique ou non, le rêve « fait apparaître des éléments représentatifs de la personnalité du dormeur : il révèle ce que fait, pense, et aime ce dernier, lui permettant parfois de voir ainsi plus clair en lui-même. Le rêve est donc, en réalité, éminemment révélateur », comme l’écrivent Christelle Veillard et Charlotte Murgier<note place="bottom">Voir l’article « Introduction : Rêve et imagination : approches antiques », <emph>Cahiers philosophiques</emph>, n°159, 2019/4, p. 5-8.</note>.</p>
             <p>Par le récit de son cauchemar, Valentinian dévoile ses angoisses<note place="bottom">Georges Forestier rappelle à ce propos que le rêve n’est, « comme l’expliquait déjà Corneille dans l’Examen de <emph>Polyeucte</emph>, qu’ "embellissement" de théâtre ». Voir l’article « Le rêve littéraire du baroque au classicisme : réflexes typologiques et enjeux esthétiques »<emph>, Revue des Sciences Humaines</emph>, n<emph>°</emph> 211 (Rêver en France au XVII<hi rend="sup">e</hi> siècle), 1988/3, p. 213-235. </note> et ses sentiments à Honorique et à Trazille et surtout, au lecteur. D’ailleurs, c’est Trazille qui en souligne le caractère obsessionnel aux vers 71 à 73 :</p>
@@ -298,7 +295,7 @@
             <p>Les stances témoignent, par leur rythme inhabituel, d’une émotion forte qui relève principalement du champ de l’inquiétude et de l’irrésolution.<note place="bottom">Cette définition découle de celle donnée par Bénédicte Louvat dans Ch. 9 « La séduction du spectacle », <emph>Poétique de la Tragédie</emph>, Paris, SEDES, 1998, p. 99. </note> En résumé, c’est un moment centré sur les sentiments du personnage et qui équivaut à ce que nous appelons aujourd’hui le lyrisme<note place="bottom">Cette remarque est celle de Georges Forestier dans <emph>Introduction à l’analyse de textes classiques</emph>, Paris, Armand Colin, nouvelle éd. 2017, p. 50-51.</note>. Dans cette scène, Honorique chante ainsi son inquiétude vis-à-vis de ses sentiments pour Maxime.</p>
             <p>Tout d’abord, ce chant se construit autour d’une rhétorique négative de l’amour.<note place="bottom">Nous approfondirons cet aspect dans la suite de notre étude. Voir Part. III « Une rhétorique négative de du sentiment amoureux » dans « Analyse de la pièce ».</note> De nombreux oxymores fleurissent au sein des premières paroles d’Honorique (vers 823 à 826) : « charmant suplice », « celeste et cruel enchanteur », « doux Tyran » ou encore « dangereux flateur ». La jeune femme est amoureuse et cet amour est ressenti comme une passion négative.</p>
             <p>De plus, la métaphore du naufrage dans les vers suivants (« sur une mer pleine d’orages », « je ne crains point le naufrage » et « il faut m’esloigner du rivage ») soulève un paradoxe. La jeune femme a bien conscience que l’amour qu’elle ressent est négatif mais d’une part, elle n’a pas peur de souffrir (ceci témoigne de sa vertu héroïque) et d’autre part, elle aimerait être libérée du joug de ses sentiments (ceci témoigne de sa condition de mortelle). Ce paradoxe révèle le dilemme d’Honorique : continuer à aimer Maxime ou non, car cet amour l’empêche de porter secours à son frère. Passage au comble du lyrisme, ce chant dépeint les sentiments d’Honorique avec exagération : « charmant supplice de mon ame », « amour extreme », « ma douleur mortelle » et « mon mal inconsolable ». Ainsi, la difficulté de la situation est mise en avant.</p>
-            <p>Malgré leur irrégularité, ces stances répondent aux règles de la rhétorique du discours. En effet, Honorique commence son chant par une introduction (exorde) qui met l’accent sur ses sentiments contradictoires (v. 823 à 833). Cette introduction engage <emph>in medias res</emph> le lecteur dans les tourments du personnage. Ensuite, la jeune femme relate les faits (narratio) en expliquant ce qui cause son trouble : le fait qu’elle aime un homme qui ne l’aime pas (v. 834 à 848). Enfin, le chant se conclut (péroraison du v. 849 au v. 857) en deux temps. D’abord, Honorique expose une possible solution à sa situation, sous la forme d’une alternative : « Amour viens consoller mon ame / Rends moy de glace ou luy de <ref target="#flame">flame*</ref>, / Ou punis ses mespris ou gueris mes douleurs ». Cependant, ce n’est pas elle qui doit agir mais l’« Amour » qu’elle invoque. C’est pourquoi la seconde partie de la conclusion (et avec elle, la fin du chant) prend la forme d’une impasse (« O mort… »). Les sentiments de la jeune femme représentent sa fatalité.</p>
+            <p>Malgré leur irrégularité, ces stances répondent aux règles de la rhétorique du discours. En effet, Honorique commence son chant par une introduction (exorde) qui met l’accent sur ses sentiments contradictoires (v. 823 à 833). Cette introduction engage <emph>in medias res</emph> le lecteur dans les tourments du personnage. Ensuite, la jeune femme relate les faits (narratio) en expliquant ce qui cause son trouble : le fait qu’elle aime un homme qui ne l’aime pas (v. 834 à 848). Enfin, le chant se conclut (péroraison du v. 849 au v. 857) en deux temps. D’abord, Honorique expose une possible solution à sa situation, sous la forme d’une alternative : « Amour viens consoller mon ame / Rends moy de glace ou luy de <ref target="#flame">flame</ref>, / Ou punis ses mespris ou gueris mes douleurs ». Cependant, ce n’est pas elle qui doit agir mais l’« Amour » qu’elle invoque. C’est pourquoi la seconde partie de la conclusion (et avec elle, la fin du chant) prend la forme d’une impasse (« O mort… »). Les sentiments de la jeune femme représentent sa fatalité.</p>
             <p>Outre le fait de marquer une pause dans le récit, cet interlude musical permet à Gillet de la Tessonerie de dévoiler les sentiments du personnage d’Honorique – personnage secondaire peu mis en lumière dans le reste de la pièce – et en même temps, de préciser les rouages de l’intrigue.</p>
           </div>
           <div>
@@ -349,14 +346,14 @@
           <head>Une rhétorique négative du sentiment amoureux</head>
           <p>Thème omniprésent en littérature, l’amour peut être représenté de deux façons : positivement, en tant que sentiment bénéfique à ceux qui en font l’expérience ou à l’inverse, négativement et ainsi, signe de malheur. Généralement, les auteurs font osciller le point de vue entre ces deux pôles tout au long de leur œuvre, en fonction de la progression de l’intrigue.</p>
           <p>Dans <emph>La Mort de Valentinian et d’Isidore</emph>, il s’agit d’une peinture négative du sentiment amoureux –bien qu’Isidore fasse figure d’exception.</p>
-          <p>Cette rhétorique négative du sentiment amoureux s’articule notamment par le biais d’un langage contradictoire formé autour d’antithèses et d’oxymores. Valentinian s’exclame : « Qu’Isidore est cruelle. Ah : Qu’elle est vertueuse ! » (vers 98), « Il faut se vanger d’elle. Il la faut adorer » (vers 132), « Ces charmants ennemis. Ces cruels adorables » (vers 141) ou encore, « O Femme, mais plustot, ô Demon plain de charmes ! » (vers 1523). Honorique, en chantant, se lamente : « Charmant suplice de mon ame / Celeste et cruel enchanteur, / Dieu des soupirs, Demon de <ref target="#flame">flame*</ref> / Doux Tyran, dangereux flateur, » (vers 823 à 827). <note place="bottom">Voir Part. I, 2 « L’interlude musical : Honorique chante son inquiétude » dans « Analyse de la pièce ».</note> Maxime, quant à lui, évoque des « malheurs complices » (vers 665).</p>
+          <p>Cette rhétorique négative du sentiment amoureux s’articule notamment par le biais d’un langage contradictoire formé autour d’antithèses et d’oxymores. Valentinian s’exclame : « Qu’Isidore est cruelle. Ah : Qu’elle est vertueuse ! » (vers 98), « Il faut se vanger d’elle. Il la faut adorer » (vers 132), « Ces charmants ennemis. Ces cruels adorables » (vers 141) ou encore, « O Femme, mais plustot, ô Demon plain de charmes ! » (vers 1523). Honorique, en chantant, se lamente : « Charmant suplice de mon ame / Celeste et cruel enchanteur, / Dieu des soupirs, Demon de <ref target="#flame">flame</ref> / Doux Tyran, dangereux flateur, » (vers 823 à 827). <note place="bottom">Voir Part. I, 2 « L’interlude musical : Honorique chante son inquiétude » dans « Analyse de la pièce ».</note> Maxime, quant à lui, évoque des « malheurs complices » (vers 665).</p>
           <p>L’amour est, de façon générale, décrit de manière négative par les personnages qui le ressentent. Valentinian évoque une « folle passion », une « foiblesse honteuse » et même, des « trances<note place="bottom"><emph>Trance</emph>, substantif féminin : peur permanente. (Furetière, 1690)</note> mortelles » (vers 97 et 98) ou encore de « celestes ennemis du repos de mon ame » (vers 144). Pour lui, c’est un « resdereiglement » (vers 160) dont il plaint les conséquences : « Amour, c’est trop souffrir » (vers 309), l’exagération de l’adverbe « trop » témoignant d’un débordement des passions.</p>
           <p>De plus, pour l’Empereur, l’amour est signe de possession. Il appelle Isidore « ma Princesse » (vers 427), le déterminant possessif ne laisse rien au hasard ; il la désire pour lui et pour lui seul. Plus tard, Maxime appellera lui aussi Isidore « ma Princesse » (vers 639), se plaçant ainsi en rival de Valentinian. Isidore lui reprochera d’ailleurs cet excès : « Ton amour est étrange » (vers 1855).</p>
-          <p>Enfin, dans la scène VI de l’acte IV, Valentinian laisse exploser ses passions négatives : « Toutte ma passion s’est convertie en rage, / Mes <ref target="#feu1">feux*</ref> en desespoir, mes respects en <ref target="#fureur">fureur*</ref> » (vers 1121 et 1122). Son amour s’est transformé en haine et c’est ainsi qu’il justifie son comportement tyrannique.</p>
+          <p>Enfin, dans la scène VI de l’acte IV, Valentinian laisse exploser ses passions négatives : « Toutte ma passion s’est convertie en rage, / Mes <ref target="#feu1">feux</ref> en desespoir, mes respects en <ref target="#fureur">fureur</ref> » (vers 1121 et 1122). Son amour s’est transformé en haine et c’est ainsi qu’il justifie son comportement tyrannique.</p>
           <p rend="center">***</p>
           <p>Seule Isidore fait une peinture positive de l’amour lorsqu’elle parle de Maxime (vers 196 et 200) pour la première fois :</p>
           <p>Seigneur, j’aimay Maxime et Maxime n’est plus,</p>
-          <p>Un vertueux amour l’eschauffant de ses <ref target="#flame">flames*</ref></p>
+          <p>Un vertueux amour l’eschauffant de ses <ref target="#flame">flames</ref></p>
           <p>D’une estrainte immortelle attacha nos deux ames,</p>
           <p>Et par un ascendant plein de divins efforts</p>
           <p>Fist vivre l’une en l’autre et deux coeurs en un corps</p>
@@ -370,7 +367,7 @@
           <p>Selon Georges Forestier, la tragédie du XVII<hi rend="sup">e</hi> siècle met en scène la « rencontre entre passion amoureuse et nécessités politiques. »<note place="bottom">« Motiver les actions (2) : psychologie politique », <emph>Essai de génétique théâtrale : Corneille à l’œuvre</emph>, Genève, Droz, nouvelle éd. 2004, p. 53.</note> En effet, l’amour ne peut être l’unique sujet de la tragédie. À ce genre considéré comme noble doit servir un sujet tout aussi majestueux : la politique. L’amour, s’il est au premier plan, doit être en conflit avec la politique et les passions qui en dérivent, comme l’ambition et la vengeance.<note place="bottom">Ch. 4 « La relation au public : les effets de la tragédie », <emph>Poétique de la Tragédie</emph>, Paris, SEDES, 1998, p. 48-49. Bénédicte Louvat fait ici référence au <emph>Discours du poème dramatique</emph> (1660) de Pierre Corneille.</note></p>
           <div>
             <head>Le pouvoir de Valentinian menacé : fil rouge de l’intrigue</head>
-            <p>« Ces <ref target="#sedition">seditions*</ref> frequentes et publiques, / Servent de caution à mes terreurs paniques » (vers 13 et 14) confie Valentinian dans la scène d’exposition. Le pouvoir de l’Empereur est contesté aussi bien par le peuple que par les autres personnages. Cette menace permet de tisser la thématique de la politique autour de la thématique amoureuse comme le suggèrent les règles tragiques du XVII<hi rend="sup">e</hi> siècle.</p>
+            <p>« Ces <ref target="#sedition">seditions</ref> frequentes et publiques, / Servent de caution à mes terreurs paniques » (vers 13 et 14) confie Valentinian dans la scène d’exposition. Le pouvoir de l’Empereur est contesté aussi bien par le peuple que par les autres personnages. Cette menace permet de tisser la thématique de la politique autour de la thématique amoureuse comme le suggèrent les règles tragiques du XVII<hi rend="sup">e</hi> siècle.</p>
             <p rend="center">***</p>
             <p>Pour garder le pouvoir, l’Empereur estime qu’il ne doit pas montrer de faiblesse : « Mes pleurs dementiront les droits de ma Couronne. » (v. 138). Cette métaphore exprime un désir de puissance mais aussi, une incompatibilité de l’amour avec la politique.</p>
             <p>Plus encore, cette incompatibilité se mue en une supériorité du pouvoir sur l’amour. Dans la tirade de Valentinian (v. 329 à 367) au cours de la scène I de l’acte II, cette supériorité est clairement exposée. Son titre est, pour lui, une raison suffisante d’être aimé : « Vous rougissés de voir un prince à vos genoux » (v. 332) lance-t-il à Isidore. De plus, il use de son pouvoir dans sa conquête amoureuse : « N’expliquer mes desseins, qu’en Empereur Romain : / Aprés tant de mespris ma patience est lasse, / Je doibs me satisfaire, et non demander grace » (v. 344 à 346) ou encore « Vous contraindre à donner vostre consentement » (v. 351). Pour lui, l’amour est une question de puissance et doit s’acquérir par la force. Également, ces vers témoignent d’une incompréhension : comment Isidore peut-elle refuser l’amour d’un Empereur ? « Un Trosne offence t’il alors qu’il est offert ? » s’exclame-t-il (vers 372). La vertu de la jeune femme est incomprise par Valentinian, il considère cela comme un excès d’orgueil. Ironiquement, par cette erreur, c’est Valentinian lui-même qui fait preuve d’orgueil. Son pouvoir apparaît alors comme un objet dont il se sert pour arriver à ses fins.</p>
@@ -461,7 +458,7 @@
             <p>Avec 174 répliques, Isidore est celle qui s’exprime le plus dans cet acte. De cette manière, l’attention est focalisée sur elle et surtout, sur son dilemme intérieur. Au cours d’une de ses réflexions, elle prononce la maxime suivante : « Les Tyrans font les loix et les Dieux sont leurs juges » (vers 1209). Avec ce vers, Isidore se place en porte-parole des Dieux et laisse entendre que le comportement de Valentinian sera jugé tôt ou tard.</p>
             <p rend="center">***</p>
             <figure>
-              <graphic url="IMG/Mort_valentinian_01_tableau_perso_acteIV.png" />
+              <graphic url="IMG/Mort_valentinian_01_tableau_perso_acteIV.png"/>
             </figure>
             <p>Dans cet avant-dernier acte, les évènements se succèdent rapidement et se combinent pour bientôt laisser place au dénouement. Par exemple, Honorique apprend la trahison de Trazille (scène III). Le pouvoir de Valentinian est plus que jamais menacé et avec lui, le destin de chaque personnage.</p>
             <p>Dans cette tourmente, Maxime détient le monopole de la parole. L’accent est mis sur son désir de vengeance malgré le désaccord d’Isidore. Sa colère se traduit par une arrogance manifeste (vers 1483) :</p>
@@ -488,7 +485,7 @@
             <div>
               <head>Valentinian</head>
               <p>En tant qu’Empereur, Valentinian est la figure du pouvoir de <emph>La Mort de Valentinian et d’Isidore.</emph> Il endosse le rôle du héros tragique : « Affronter mon destin dans les bras de la mort » (scène d’exposition, vers 20).</p>
-              <p>Cependant, sa sœur le qualifie d’« esprit enragé » (vers 750). Très vite, Valentinian apparaît comme un héros perdant le contrôle et un souverain excessif. Il confie lui-même : « je sens dans mon ame / Des violents <ref target="#transport">transports*</ref> de colere &amp; de <ref target="#flame">flame*</ref> » (vers 305 et 306).</p>
+              <p>Cependant, sa sœur le qualifie d’« esprit enragé » (vers 750). Très vite, Valentinian apparaît comme un héros perdant le contrôle et un souverain excessif. Il confie lui-même : « je sens dans mon ame / Des violents <ref target="#transport">transports</ref> de colere &amp; de <ref target="#flame">flame</ref> » (vers 305 et 306).</p>
               <p>Le comportement de Valentinian est à rapprocher de la <emph>libido dominandi</emph>, exposée par Blaise Pascal mais théorisée bien avant lui par Saint-Augustin<note place="bottom">Dans son ouvrage <emph>La Cité de Dieu</emph> (426), prolongement de ses <emph>Confessions</emph> (entre 397 et 401), Saint-Augustin expose sa théorie de la concupiscence c’est-à-dire le penchant au péché intrinsèque à l’homme que ce dernier doit donc combattre. Cette concupiscence est divisée en trois concepts que sont la <emph>libido sciendi</emph> (désir de savoir qui est à l’origine du péché originel), la <emph>libido sentiendi</emph> (désir charnel) et la <emph>libido dominandi</emph> (désir de domination). Au XVII<hi rend="sup">e</hi> siècle, Blaise Pascal a repris cette théorie dans ses <emph>Pensées</emph> (1670, publication à titre posthume). </note>, c’est-à-dire l’excès d’orgueil qui pousse l’homme à dominer les autres. Or, c’est bien cet orgueil qui mène Valentinian à sa perte.</p>
             </div>
             <div>
@@ -551,7 +548,7 @@
         <item> Oxford VET.FR.I.B. 199</item>
          <item>British Library 86.i.l (6.)</item>
          <item>Dublin OLS L-5-962 no.4</item>
-         <item>Harvard, Houghton *FC6 G4133 648m</item>
+         <item>Harvard, Houghton FC6 G4133 648m</item>
          <item>University of California, Santa Barbara PQ1799.G37 M6</item>
          <item>University of Alberta PQ1799 G37 M88 1648</item>
          </list>
@@ -780,18 +777,18 @@
         <p>Cét ouvrage ne debvoit tomber<note place="bottom">Dans l’édition de 1656, « ne debvoit tomber » est devenu « ne pouvoit tomber » ce qui modifie légèrement le sens initial. </note>, que des mains trop aimées, en celles qui ne me sçau-[IV] roient estre assés cheres et si quelque Passion, avoit droit de profiter du debris de mon amour, il falloit que ce fust l’amitié.</p>
         <p>En effet je treuve peu de consolations, à l’infortune d’un Amant, s’il ne luy reste un sage et fidelle amy qui prenne le soing d’adoucir l’aigreur de ses pertes.</p>
         <p>Il faut que l’ame, apres avoir contracté des atachements violents, s’entretienne par de douces bien-veillances, pour ne tomber pas du faiste<note place="bottom"><emph>Faiste</emph>, substantif masculin : le sommet. S’emploie également au sens figuré, pour des choses plus spirituelles, par exemple « il est monté au faiste des honneurs. »  (Furetière, 1690) </note> au precipice ; et pour ne pas chercher la guerison de ses douleurs, dans le desespoir.</p>
-        <p>L’estime que nous avons pour les personnes, est une grande disposition, pour nous en faire aimer les <ref target="#conseil">conseils*</ref> ; et jamais la raison ne nous paroist plus belle, qu’alors que des mains cherisables, prennent le soing de l’ajuster pour nous donner plus d’envie de l’aimer et de la suivre.</p>
-        <p>L’esprit du sage est comme un Cube qui n’a point de face, sur laquelle il ne se puisse reposer, mais si quelque grand <ref target="#mouvement">mouvement*</ref> [V] l’agite sans cesse, et qui roule sur ses angles avec trop de rapidité, il ne sera pas moings stable, que ce Cercle inconstant, qui sert de baze à la fortune.</p>
-        <p>Ainsi la confiance, la force, le <ref target="#courage">courage*</ref>, la prudence, et la sagesse, sont des faces sur lesquelles nostre ame peut treuver son repos : mais il faut qu’un amy favorable, prenne le soing de luy marquer ce point de tranquillité et d’arester ce grand <ref target="#mouvement">mouvement*</ref>, pour luy procurer une fermeté, qu’elle ne sçauroit se prescrire à soy-mesme.</p>
-        <p>C’est avec cette connoissance que je vous demande ces <ref target="#genereux">genereuses*</ref> consolations, que ma disgrace souhaitte de vostre prudence, et de votre amitié.</p>
-        <p>Je vous ay donné sur mon ame le pouvoir d’en user avec souveraineté ; c’est à vous de calmer ce grand trouble qui l’agite, et de luy desseigner une assiette ferme et constante, sur laquelle elle puisse <ref target="#rencontrer">rencontrer*</ref> la douceur qu’elle cherche.</p>
-        <p>Il n’est point de medecine, dont vous ne [VI] puissiés me corriger l’amertume, en exigeant de moy l’obeissance que je vous ay voüée, et les fortes inclinations que j’ay de vous plaire m’ayant fait treuver de la satisfaction dans les choses qui m’aigrissent, me feront souhaitter mon bien avec plus d’empressement : quand je confidereray qu’il doit estre vostre <ref target="#courage">courage*</ref>.</p>
+        <p>L’estime que nous avons pour les personnes, est une grande disposition, pour nous en faire aimer les <ref target="#conseil">conseils</ref> ; et jamais la raison ne nous paroist plus belle, qu’alors que des mains cherisables, prennent le soing de l’ajuster pour nous donner plus d’envie de l’aimer et de la suivre.</p>
+        <p>L’esprit du sage est comme un Cube qui n’a point de face, sur laquelle il ne se puisse reposer, mais si quelque grand <ref target="#mouvement">mouvement</ref> [V] l’agite sans cesse, et qui roule sur ses angles avec trop de rapidité, il ne sera pas moings stable, que ce Cercle inconstant, qui sert de baze à la fortune.</p>
+        <p>Ainsi la confiance, la force, le <ref target="#courage">courage</ref>, la prudence, et la sagesse, sont des faces sur lesquelles nostre ame peut treuver son repos : mais il faut qu’un amy favorable, prenne le soing de luy marquer ce point de tranquillité et d’arester ce grand <ref target="#mouvement">mouvement</ref>, pour luy procurer une fermeté, qu’elle ne sçauroit se prescrire à soy-mesme.</p>
+        <p>C’est avec cette connoissance que je vous demande ces <ref target="#genereux">genereuses</ref> consolations, que ma disgrace souhaitte de vostre prudence, et de votre amitié.</p>
+        <p>Je vous ay donné sur mon ame le pouvoir d’en user avec souveraineté ; c’est à vous de calmer ce grand trouble qui l’agite, et de luy desseigner une assiette ferme et constante, sur laquelle elle puisse <ref target="#rencontrer">rencontrer</ref> la douceur qu’elle cherche.</p>
+        <p>Il n’est point de medecine, dont vous ne [VI] puissiés me corriger l’amertume, en exigeant de moy l’obeissance que je vous ay voüée, et les fortes inclinations que j’ay de vous plaire m’ayant fait treuver de la satisfaction dans les choses qui m’aigrissent, me feront souhaitter mon bien avec plus d’empressement : quand je confidereray qu’il doit estre vostre <ref target="#courage">courage</ref>.</p>
         <p>Aussi qui pouroit se defendre d’honnorer avec ces beaux excés un homme, que l’on peut dire tout à fait aimable, ce ne vous seroit pas assés d’avoir l’ame belle, si sa beauté ne se faisoit remarquer sur vostre visage, et si ce miroir ne brilloit des lumieres que cette divine hostesse, luy comunique par sa reflexion.</p>
         <p>Je sçay bien que c’est mal faire le panegirique<note place="bottom"><emph>Panegirique</emph>, substantif masculin : vient du grec et désigne un discours qui fait l’éloge d’une personne, en particulier du prince. (Richelet, 1680)</note> d’un homme, que de le loüer par sa beauté, et que si Lipse<note place="bottom">Juste Lipse (1547-1606), de son nom d’origine Joost Lips, était un philologue et humaniste belge. Il a écrit un essai intitulé <emph>De Constantia</emph> qui a contribué à la naissance du courant du néo-stoïcisme.</note> dans sa politique, ne veut point, que l’on vante en un Prince la Poësie, la Musique, et ces autres qualités aimables : il sied mal de produire un grand homme avec des traits qui sont plustost l’appanage des femmes, que des grandes ames, [VII] aussi ne parlay-je, que de ces beautés masles, qui se decouvrent par une Phisionomie adventageuse, et qui font dire à Charon<note place="bottom">Pierre Charron (1541-1603) est un théologien, un philosophe, un orateur et un moraliste du XVIème siècle. Michel de Montaigne eut une grande influence sur l’œuvre de Charron. Il a publié un <emph>Traité de la Sagesse</emph> en 1601 auquel Gillet de la Tessonerie fait référence ici.</note> dans sa sagesse, que le visage est un Ecusson, où se voyent despeints par les differants quartiers, les Tiltres, et la Noblesse de l’ame, qu’elle a mis sur le frontispice de son Palais, pour aprendre qu’elle y fait sa demeure, et pour donner dés l’abort touts les hauts sentiments, que l’on doit avoir d’elle.</p>
         <p>Pourquoy donc passer sous silence les beautés du front de l’edifice que je veux despeindre, et pourquoy ne vous rendre pas venerable à la posterité, par des marques ou la nature s’est peinée pour vous faire connoistre : et par des tesmoings d’autant plus irreprochables, qu’ils parlent sans pouvoir estre corrompus par la flaterie ou par la complaisence.</p>
-        <p>Je sçay bien que vostre modestie souffre ces verités avec repugnance : mais pour ne treuver point mes loüanges suspectes, songés auparavant que de m’escouter, si vous avés quel-[VIII]quefois recognu que j’aye vendu mon estime, si mon esprit par des sentiments mercenaires, s’est abaissé jusqu’à de serviles contraintes, et s’il s’est fait des violences qui fussent indignes des nobles eslevations d’un coeur <ref target="#genereux">genereux*</ref> ; Vous aurés plus aisement de la complaisance pour vousmesme, et croyrés avec plus de facilité le bien que je vous diray de vous, quand vous considererés que l’interest ne m’a jamais fait ouvrir la bouche, que je n’ay jamais vendu ma liberté à la fortune, et que la main qui vous presente cét ouvrage n’a point esté deshonnorée par les recompences, qui suivent d’ordinaire toutes ces Epistres dedicatoires je puis donc maintenant sans estre soupçonné de mensonge descrire ces rares qualités, qui vous ont rendu le suiet de mon admiration et j’advouë qu’il seroit mal aisé d’en faire le tableau, s’il falloit des couleurs, qui fussent aussi brillantes que l’objet qui me doit servir de modelle.</p>
+        <p>Je sçay bien que vostre modestie souffre ces verités avec repugnance : mais pour ne treuver point mes loüanges suspectes, songés auparavant que de m’escouter, si vous avés quel-[VIII]quefois recognu que j’aye vendu mon estime, si mon esprit par des sentiments mercenaires, s’est abaissé jusqu’à de serviles contraintes, et s’il s’est fait des violences qui fussent indignes des nobles eslevations d’un coeur <ref target="#genereux">genereux</ref> ; Vous aurés plus aisement de la complaisance pour vousmesme, et croyrés avec plus de facilité le bien que je vous diray de vous, quand vous considererés que l’interest ne m’a jamais fait ouvrir la bouche, que je n’ay jamais vendu ma liberté à la fortune, et que la main qui vous presente cét ouvrage n’a point esté deshonnorée par les recompences, qui suivent d’ordinaire toutes ces Epistres dedicatoires je puis donc maintenant sans estre soupçonné de mensonge descrire ces rares qualités, qui vous ont rendu le suiet de mon admiration et j’advouë qu’il seroit mal aisé d’en faire le tableau, s’il falloit des couleurs, qui fussent aussi brillantes que l’objet qui me doit servir de modelle.</p>
         <p>Il est peu d’hommes qui dans une grande [IX] jeunesse ayent pû combatre avec tant de force desprit, ces impressions dangereuses, qui par un sang bouillant, sollicittent la nature à des foiblesses, qui sont incompatibles avec les grandes ames.</p>
-        <p>Vous avés treuvé de la moderation dans les plaisirs ; de la temperance dans les voluptés, et du <ref target="#courage">courage*</ref> dans ces nobles servitudes, où le respect et la nature nous engagent aupres de ceux de qui nous tenons la vie.</p>
+        <p>Vous avés treuvé de la moderation dans les plaisirs ; de la temperance dans les voluptés, et du <ref target="#courage">courage</ref> dans ces nobles servitudes, où le respect et la nature nous engagent aupres de ceux de qui nous tenons la vie.</p>
         <p>C’est un prodige de vous voir si peu d’age, et tant de vertus, de nous faire admirer une force d’ame extraordinaire en un corps si delicat, et c’est un sujet digne d’employer ma plume, de vous despeindre chargé des moissons de l’estude, et de vous faire voir riche de ces nobles recoltes, en un temps où les autres n’ont eu qu’à peine le loisir de semer.</p>
         <p>Les entretiens familiers, et secrets que nous avons ensemble, vous ont fait parestre ce que vous estes. C’est dans sa maison que chacun ne se feint plus, et que quittant ces [X] gravités<note place="bottom"><emph>Gravité</emph>, substantif féminin : le poids de quelque chose, d’un corps sur un autre, plus léger. S’emploie également au sens figuré, pour des choses plus spirituelles et désigne alors une contenance grave et/ou sérieuse d’un point de vue moral par exemple « la gravité d’un sujet. » (Furetière, 1690)</note> affectées, et ces contenances concertées dont il tasche de corriger ses defauts, il se monstre au dehors tel qu’il est au dedans, et se laisse dans sa famille conduire à son genie, sans le violenter par une contrainte qui luy seroit alors inutille.</p>
         <p>C’est dans ces moments de retraitte, que j’ay pris plaisir à vous observer, et que je vous ay veu tousjours le mesme ; Vostre prudence n’a point eu de revolution qui se soit dementie, et dans les divertissements si je ne vous ay veu avec cette froide temperature, que vostre sagesse vous demande en allant au Pallais, au moings je n’ay jamais pû vous remarquer avec un enjoüement qui vous rendit incapable d’y retourner à l’heure mesme.</p>
@@ -811,7 +808,7 @@
         <p>Quelque-uns de nos Maistres ont rendu les misteres de la Poësie si communs, qu’un Escholier hors de la Grammaire, et qu’un Artisan par la lecture de quelques advis au Lecteur, veulent entrer dans nos secrets, et produisent au jour des ouvrages inutiles qui font deshonneur aux honnestes gens qui se meslent d’écrire : de sorte que pour ne point rendre raison aux ignorans de l’Hepizode de Valentinian, ny du fabuleux que j’ay meslé dans cet ouvrage, je leur declare icy que je ne veux, si j’ay failly demander ma grace, qu’à ceux qui sont capables d’instruire mon procés, ou ne dire mes raisons qu’à ceux dont je revere<note place="bottom"><emph>Reverer</emph>, verbe : avoir du respect pour quelque personne ou quelque chose. (Académie, 1694, 1ère édition)</note> les ouvrages et les jugements.</p>
         <div>
           <head>L’HISTOIRE</head>
-          <p>Valentinian fust tué par Maxime pour avoir forcé Isidore, et ce coupable Empereur estant mort, cette <ref target="#genereux">genereuse*</ref> femme, meurt d’un saisissement qui luy prend à la veuë de ce spectacle.</p>
+          <p>Valentinian fust tué par Maxime pour avoir forcé Isidore, et ce coupable Empereur estant mort, cette <ref target="#genereux">genereuse</ref> femme, meurt d’un saisissement qui luy prend à la veuë de ce spectacle.</p>
           <p>Je nay pas de beaucoup changé cette Histoire, puisque j’ay fait que Maxime tue Valentinian, et qu’ayant à rendre cet Empereur possesseur d’Isidore, pour empescher de rougir le Theatre, j’ay peint cette jouissance avec des couleurs honnestes et modestes.</p>
           <p rend="right">
             <hi rend="b">
@@ -821,7 +818,7 @@
           </p>
           <p>Pour Isidore en se voyant contrainte, de s’abandonner à Valentinian, estant circonvenuë<note place="bottom"><emph> Circonvenu-uë</emph>, participe passé ou adjectif : terme royal qui signifie être trompé ou surpris par quelqu’un ou quelque chose. (Furetière, 1690)</note> par un stratagesme, ne souffroit elle pas une violence, dont Maxime avoit le mesme droit de punir Valentinian comme de rapt, et la parolle d’Isidore et de Maxime, ayant fait leur mariage, n’est-ce pas tousjours mettre ce Chevalier dans les mesmes ressentiments d’un mary ?</p>
           <p>Pour la mort d’Isidore, l’Histoire veut qu’elle soit venuë d’un excés de joye, qui pourroit bien souffrir une interpretation tout autre que celle que l’on luy donne, puisqu’apres le coup funeste dont cette mal heureuse ressentoit un deplaisir mortel, elle ne pouvoit avoir beaucoup de joye ; sans qu’il luy restat quelque chose de la douleur dont elle estoit preocupée ; Mais je la donne en proye à touttes ces deux passions, qui se voulant establir avec trop de violence, se destruisent elles mesmes, en perdant le sujet, sur lequel elles vouloient exercer leur Tyrannie.</p>
-          <p>Je ne fais point sortir Isidore de son caractere, puisque je la peins <ref target="#genereux">genereuse*</ref>, et qu’avec la joye de se voir vengée, elle a le deplaisir de perdre celuy qui la vange, et meurt par l’exceds de ses passions.</p>
+          <p>Je ne fais point sortir Isidore de son caractere, puisque je la peins <ref target="#genereux">genereuse</ref>, et qu’avec la joye de se voir vengée, elle a le deplaisir de perdre celuy qui la vange, et meurt par l’exceds de ses passions.</p>
           <p>Pour Maxime le poison que je luy fais prendre n’altere point l’Histoire, et l’estat auquel il reste n’empesche point qu’il ne puisse estre Empereur, puisque la langueur qui luy prend à la catastrophe de la piece, loing d’estre un effet de la mort n’est qu’une foiblesse plus causée par sa douleur, que par le venin lent, qu’il a pris dont on le peut guerir par du contrepoison, comme le declarent ceux qui l’em-[XV]meinent, qui l’eussent obligé d’en prendre, si son transport n’eust esté le maistre de sa raison, et ne leur eust deffendu de se servir de ce remède.</p>
           <p>Il reste encor d’autres choses que les doctes auront la bonté d’excuser, en considerant que s’il n’est rien de parfait en monde : je suis bien esloigné de faire un ouvrage sans defaut, n’ayant encor acquis que le desir d’aprendre à les imiter. Adieu, pardonnez les fautes d’impression qui sont exessives, et que je n’ay pû corriger pendant mon absence.</p>
         </div>
@@ -903,7 +900,7 @@
           <l n="3" xml:id="l3">Un celeste rayon qui me vient esclairer</l>
           <l n="4" xml:id="l4">Au bord du precipice afin de m’en tirer.</l>
           <l n="5" xml:id="l5">Toutes ces visions<note place="bottom">Ce mot compte pour trois syllabes selon un principe de prononciation poétique appelé diérèse et qui consiste à séparer deux voyelles au sein d’une même syllabe initiale : vis/i/ons. La diérèse séparant la voyelle -i de la voyelle -o est la plus courante. Autres occurrences dans notre texte aux vers 13,14, 81, 94, 156, 164, 191, 192, 232, 235, 236, 250, 306, 327, 328, 409, 493, 563, 564, 597, 637, 679, 744, 920, 1034, 1240, 1241, 1299, 1370, 1399 et 1818.</note> sont des langues secrettes</l>
-          <l n="6" xml:id="l6">Qui du <ref target="#courroux">courroux*</ref> des Dieux me servent d’interpretes,</l>
+          <l n="6" xml:id="l6">Qui du <ref target="#courroux">courroux</ref> des Dieux me servent d’interpretes,</l>
           <l n="7" xml:id="l7">Et quoy que vous disiez, afin de me flatter<space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><pb n="A, 2"/></l>
           <l n="8" xml:id="l8">
             <pb n="Ces phantosmes parlants ont droit d’espouvanter."/>
@@ -918,8 +915,8 @@
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space>Ne faits point de discours inutilles,</l>
           <l n="10" xml:id="l10">Je sçai ce qu’en ont dit et creü les plus habilles,</l>
           <l n="11" xml:id="l11">Mais ces croassemens<note place="bottom">Ce mot compte pour quatre syllabes : cro/a/sse/mens. C’est une diérèse qui sépare la voyelle o- et la voyelle a.</note> de funestes Oyseaux,</l>
-          <l n="12" xml:id="l12">Ces <ref target="#feu2">feux*</ref> dedans les airs, ces desbordements d’eaux,</l>
-          <l n="13" xml:id="l13">Et ces <ref target="#sedition">seditions*</ref> frequentes et publiques,</l>
+          <l n="12" xml:id="l12">Ces <ref target="#feu2">feux</ref> dedans les airs, ces desbordements d’eaux,</l>
+          <l n="13" xml:id="l13">Et ces <ref target="#sedition">seditions</ref> frequentes et publiques,</l>
           <l n="14" xml:id="l14">Servent de caution à mes terreurs paniques :</l>
           <l n="15" xml:id="l15">Ce n’est pas toutesfois qu’en estant menacé,</l>
           <l n="16" xml:id="l16">Je manque d’achever ce que j’ay commencé,</l>
@@ -957,7 +954,7 @@
           <l n="27" xml:id="l27">Qui comme un prompt esclair à l’instant disparut,</l>
           <l n="28" xml:id="l28">Il s’escria fort hault que l’on le secourut,</l>
           <l n="29" xml:id="l29">Mais tirant les rideaux et ne voyant personne</l>
-          <l n="30" xml:id="l30">Cet abandonnement le surprend et l’<ref target="#estonner">estonne*</ref>,</l>
+          <l n="30" xml:id="l30">Cet abandonnement le surprend et l’<ref target="#estonner">estonne</ref>,</l>
           <l n="31" xml:id="l31">D’autant plus qu’on respond à ses commandemens</l>
           <l n="32" xml:id="l32">Par de tristes souspirs et des gemissemens,</l>
           <l n="33" xml:id="l33">Alors saisy d’effroy tout à coup il luy semble</l>
@@ -966,7 +963,7 @@
           <l n="36" xml:id="l36">Puis il voit aussitost en tomber les verroux,</l>
           <l n="37" xml:id="l37">Et comme si l’Enfer eust entre ouvert son goufre</l>
           <l n="38" xml:id="l38">Il sent des puanteurs de Bythume et de souffre,</l>
-          <l n="39" xml:id="l39">Et voit entrer un mort à la lueur d’un <ref target="#feu2">feu*</ref></l>
+          <l n="39" xml:id="l39">Et voit entrer un mort à la lueur d’un <ref target="#feu2">feu</ref></l>
           <l n="40" xml:id="l40">Qui rendant un faulx jour tout jaunastre et tout bleu,</l>
           <l n="41" xml:id="l41">Esclairoit les objets d’une couleur funeste.</l>
           <l n="42" xml:id="l42" part="I">Lors…<pb n="A, 4"/></l>
@@ -986,15 +983,15 @@
           <l n="51" xml:id="l51">D’une autre descharnée il me serre le bras,</l>
           <l n="52" xml:id="l52">Et l’ayant arraché par force hors de mes draps</l>
           <l n="53" xml:id="l53">Dessus son estomach le met avec furie,</l>
-          <l n="54" xml:id="l54">Mais je n’y <ref target="#rencontrer1">rencontray*</ref> que de la chair pourie,</l>
+          <l n="54" xml:id="l54">Mais je n’y <ref target="#rencontrer1">rencontray</ref> que de la chair pourie,</l>
           <l n="55" xml:id="l55">Et pour surcroist d’effroy ce Phantosme inhumain</l>
           <l n="56" xml:id="l56">M’a laissé tout sanglant son coeur dedans la main.</l>
-          <l n="57" xml:id="l57">A ce coup impreveu rappellant mon <ref target="#courage">courage*</ref></l>
+          <l n="57" xml:id="l57">A ce coup impreveu rappellant mon <ref target="#courage">courage</ref></l>
           <l n="58" xml:id="l58">J’appuiay fortement mes yeux sur son visage,</l>
           <l n="59" xml:id="l59">Et vis confusement des traits deffigurez</l>
           <l n="60" xml:id="l60">Qui dépeignoient Maxime à mes yeux esgarez,</l>
           <l n="61" xml:id="l61">Alors d’un ton farouche et d’une voix cassée</l>
-          <l n="62" xml:id="l62">J’ay pery, m’a t’il dit par ta <ref target="#flame">flame*</ref> insensée,</l>
+          <l n="62" xml:id="l62">J’ay pery, m’a t’il dit par ta <ref target="#flame">flame</ref> insensée,</l>
           <l n="63" xml:id="l63">Tu m’as volé mon coeur, mais tu m’en respondras,</l>
           <l n="64" xml:id="l64">Garde le bien, Tyran demain tu le rendras.</l>
           <l n="65" xml:id="l65">Là dans le tourbillon d’une espaisse fumée</l>
@@ -1037,7 +1034,7 @@
           <l n="84" xml:id="l84">D’esteindre son amour et d’estre sans respect,</l>
           <l n="85" xml:id="l85">Quoy que je me propose, et quoy qu’elle me face</l>
           <l n="86" xml:id="l86">En tout temps sa vertu luy respond de sa grace,</l>
-          <l n="87" xml:id="l87">Et l’a persuadée en <ref target="#choquer">choquant*</ref> mon pouvoir</l>
+          <l n="87" xml:id="l87">Et l’a persuadée en <ref target="#choquer">choquant</ref> mon pouvoir</l>
           <l n="88" xml:id="l88">Que pour luy pardonner il ne faut que la voir,</l>
           <l n="89" xml:id="l89">Ouy mon ressentiment quelque grand qu’il puisse estre,</l>
           <l n="90" xml:id="l90">Respectera tousjours celle qui l’a fait naistre,</l>
@@ -1045,20 +1042,20 @@
           <l n="92" xml:id="l92">Qu’en forçant ses beaux yeux de voïr couler mes pleurs.</l>
           <l n="93" xml:id="l93">En vain donc je luy veux tesmoigner ma colere</l>
           <l n="94" xml:id="l94">Puisque mes passions apprennent à luy plaire,</l>
-          <l n="95" xml:id="l95">Et ne luy font paroistre un excez de <ref target="#courroux">courroux*</ref></l>
+          <l n="95" xml:id="l95">Et ne luy font paroistre un excez de <ref target="#courroux">courroux</ref></l>
           <l n="96" xml:id="l96">Que pour luy mieux monstrer la force de ses coups.</l>
           <l n="97" xml:id="l97">O folle passion ! O foiblesse honteuse !</l>
           <l n="98" xml:id="l98">Qu’Isidore est cruelle. Ah : Qu’elle est vertueuse,</l>
           <l n="99" xml:id="l99">Et que mal à propos je serois irrité</l>
-          <l n="100" xml:id="l100">Puis qu’en fin sa vertu fait sa <ref target="#severite">severité*</ref>.</l>
+          <l n="100" xml:id="l100">Puis qu’en fin sa vertu fait sa <ref target="#severite">severité</ref>.</l>
           <l n="101" xml:id="l101">O vous qui me voyez en ces trances<note place="bottom"><emph>Trance</emph>, substantif féminin : peur permanente. (Furetière, 1690)</note> mortelles,</l>
           <l n="102" xml:id="l102">Qui connoissez ma honte et qui m’estes fidelles,</l>
           <l n="103" xml:id="l103">Je sçay que vous souffrez aussi par sa rigueur</l>
           <l n="104" xml:id="l104">Puisqu’elle faict trainer vostre hymen en langueur,</l>
-          <l n="105" xml:id="l105">Ne pouvant couronner vostre immortelle <ref target="#flame">flame*</ref></l>
+          <l n="105" xml:id="l105">Ne pouvant couronner vostre immortelle <ref target="#flame">flame</ref></l>
           <l n="106" xml:id="l106">Parmy les embarras qui sont dedans mon ame,</l>
           <l n="107" xml:id="l107">Mais je le veux haster<note place="bottom"><emph>Haster</emph>, verbe : presser. (Académie, 1694, 1ère édition)</note> ce moment bien heureux,<pb n="A, 7"/></l>
-          <l n="108" xml:id="l108">Et pressé d’un esprit ardent et <ref target="#genereux">genereux*</ref>,</l>
+          <l n="108" xml:id="l108">Et pressé d’un esprit ardent et <ref target="#genereux">genereux</ref>,</l>
           <l n="109" xml:id="l109">Je l’envoye querir cette belle orgueilleuse</l>
           <l n="110" xml:id="l110">Afin de la contraindre à vivre plus heureuse,</l>
           <l n="111" xml:id="l111">Partageant avec elle, et le bandeau Royal</l>
@@ -1073,7 +1070,7 @@
           <speaker>HONORIQUE</speaker>
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space>De grace.</l>
           <l n="118" xml:id="l118">Que vostre Maiesté quelque choix qu’elle face,</l>
-          <l n="119" xml:id="l119">Tienne pour <ref target="#asseurer">asseuré*</ref> que nous le reverons,</l>
+          <l n="119" xml:id="l119">Tienne pour <ref target="#asseurer">asseuré</ref> que nous le reverons,</l>
           <l n="120" xml:id="l120">Et que sans repugnance enfin nous le verrons,</l>
           <l n="121" xml:id="l121">Mais si quelque regret nous fait ouvrir la bouche</l>
           <l n="122" xml:id="l122">C’est celuy de vous voir adorer une souche<note place="bottom"><emph>Souche</emph>, substantif féminin : correspond à la partie du tronc de l’arbre en terre (Académie, 1694, 1ère édition). Prend donc ici un sens métaphorique pour désigner ce qui est caché. En effet, Richelet (1680) indique que l’expression <emph>comme une souche</emph> est utilisée pour caractériser une personne dite insensible.</note>,</l>
@@ -1098,7 +1095,7 @@
           <l n="134" xml:id="l134">Songer qu’elle est ma Reine et non pas ma subjette<note place="bottom"><emph>Sujet</emph>, substantif masculin : personne dépendante de. (Huguet, 1925)</note>.</l>
           <l n="135" xml:id="l135">Je ne suis plus à moy de grace laissez nous,</l>
           <l n="136" xml:id="l136">Et m’espargnez l’affront de rougir devant vous,</l>
-          <l n="137" xml:id="l137">Puisque dans les <ref target="#transport">transports*</ref> que mon amour me donne</l>
+          <l n="137" xml:id="l137">Puisque dans les <ref target="#transport">transports</ref> que mon amour me donne</l>
           <l n="138" xml:id="l138">Mes pleurs dementiront les droits de ma Couronne.</l>
           </sp>
         </div>
@@ -1117,27 +1114,27 @@
           <l n="142" xml:id="l142">Ayans faits tous mes maux sont d’illustres coupables,</l>
           <l n="143" xml:id="l143">Et respectant leurs coups bien loing d’en murmurer<pb n="B, 9"/></l>
           <l n="144" xml:id="l144">Sy rigourueux qu’ils soient il les faut adorer,</l>
-          <l n="145" xml:id="l145">Mais vous vous destournez beaux autheurs de ma <ref target="#flame">flasme*</ref> :</l>
+          <l n="145" xml:id="l145">Mais vous vous destournez beaux autheurs de ma <ref target="#flame">flasme</ref> :</l>
           <l n="146" xml:id="l146">Celestes ennemis du repos de mon ame,</l>
           <l n="147" xml:id="l147">Vous qui m’avez reduit en l’estat où je suis,</l>
-          <l n="148" xml:id="l148">D’un regard seulement soulagez mes <ref target="#ennui">ennuis*</ref> :</l>
+          <l n="148" xml:id="l148">D’un regard seulement soulagez mes <ref target="#ennui">ennuis</ref> :</l>
           <l n="149" xml:id="l149">Percez jusqu’en mon coeur et chassez ces tenebres</l>
           <l n="150" xml:id="l150">Qui le donnent en proye à des objects funebres,</l>
           <l n="151" xml:id="l151">Et ne l’entretenant que d’horreurs et de morts</l>
           <l n="152" xml:id="l152">Le pressent de songer à de derniers efforts,</l>
-          <l n="153" xml:id="l153">Dans la sombre <ref target="#fureur">fureur*</ref> dont mon ame est esprise</l>
+          <l n="153" xml:id="l153">Dans la sombre <ref target="#fureur">fureur</ref> dont mon ame est esprise</l>
           <l n="154" xml:id="l154">Je ne demande rien que l’honneur n’authorise,</l>
-          <l n="155" xml:id="l155">Le <ref target="#feu1">feu*</ref> qui me consomme<note place="bottom"><emph>Consommer</emph>, verbe : achever, accomplir par exemple « consommer un ouvrage, une affaire. » On a souvent confondu <emph>consommer</emph> et <emph>consumer. Consumer</emph> signifie pourtant user, détruire. (Académie, 1694, 1ère édition) Ainsi, il faut comprendre « Le feu qui me consumme est plus pur que le jour. »</note> est plus pur que le jour,</l>
+          <l n="155" xml:id="l155">Le <ref target="#feu1">feu</ref> qui me consomme<note place="bottom"><emph>Consommer</emph>, verbe : achever, accomplir par exemple « consommer un ouvrage, une affaire. » On a souvent confondu <emph>consommer</emph> et <emph>consumer. Consumer</emph> signifie pourtant user, détruire. (Académie, 1694, 1ère édition) Ainsi, il faut comprendre « Le feu qui me consumme est plus pur que le jour. »</note> est plus pur que le jour,</l>
           <l n="156" xml:id="l156">C’est un ardent respect, un violent Amour :</l>
           <l n="157" xml:id="l157">Un fort attachement par qui l’ame enflamée</l>
           <l n="158" xml:id="l158">Ne se peut separer d’avec la chose aymée,</l>
           <l n="159" xml:id="l159">Et s’abandonnant toute à son ravissement</l>
           <l n="160" xml:id="l160">Semble agir quelquefois avec desreiglement,</l>
-          <l n="161" xml:id="l161">Aussy quand sa <ref target="#fureur">fureur*</ref> commance à vous desplaire</l>
+          <l n="161" xml:id="l161">Aussy quand sa <ref target="#fureur">fureur</ref> commance à vous desplaire</l>
           <l n="162" xml:id="l162">Vous pouvez d’un regard dissiper ma colere,</l>
           <l n="163" xml:id="l163">Et chasser de mon coeur la noire impression,</l>
           <l n="164" xml:id="l164">Par où mes sens voudroient troubler ma passion,</l>
-          <l n="165" xml:id="l165">Mestant leur interest au <ref target="#feu1">feu*</ref> qui me devore</l>
+          <l n="165" xml:id="l165">Mestant leur interest au <ref target="#feu1">feu</ref> qui me devore</l>
           <l n="166" xml:id="l166">Par l’espoir d’un plaisir sans qui je vous adore.</l>
           <l n="167" xml:id="l167">Vous le pouvez connoistre, O trop charmant objet,</l>
           <l n="168" xml:id="l168">Je puis parler en Prince, et je parle en sujet,</l>
@@ -1150,10 +1147,10 @@
           <speaker>ISIDORE</speaker>
           <l n="173" xml:id="l173">Seigneur, mesnagez mieux une faveur indigne,</l>
           <l n="174" xml:id="l174">Et gardez vostre coeur puisque j’en suis indigne,</l>
-          <l n="175" xml:id="l175">Ces biens que vous m’offrez ont de puissans <ref target="#appas">appas*</ref>,</l>
+          <l n="175" xml:id="l175">Ces biens que vous m’offrez ont de puissans <ref target="#appas">appas</ref>,</l>
           <l n="176" xml:id="l176">Mais si puissans qu’ils soyent ils ne m’esmeuvent pas</l>
           <l n="177" xml:id="l177">Ces pompeux ornemens de la grandeur Royale</l>
-          <l n="178" xml:id="l178">Tous ces ardents soupirs que vostre <ref target="#flame">flame*</ref> exhale,</l>
+          <l n="178" xml:id="l178">Tous ces ardents soupirs que vostre <ref target="#flame">flame</ref> exhale,</l>
           <l n="179" xml:id="l179">Ces discours obligeans, ces respects assidus,</l>
           <l n="180" xml:id="l180">Tant d’inutiles soings et de moments perdus,</l>
           <l n="181" xml:id="l181">Et ces precautions dont vostre amour me flatte</l>
@@ -1161,7 +1158,7 @@
           <l n="183" xml:id="l183">Et vous donner sujet de vous plaindre de moy,</l>
           <l n="184" xml:id="l184">Qui ne respecte en vous ny bienfaicteur ny Roy,</l>
           <l n="185" xml:id="l185">Aussi ne tentez plus une chose impossible,</l>
-          <l n="186" xml:id="l186">Ce n’est plus qu’aux <ref target="#ennui">ennuis*</ref> que mon ame est sensible,</l>
+          <l n="186" xml:id="l186">Ce n’est plus qu’aux <ref target="#ennui">ennuis</ref> que mon ame est sensible,</l>
           <l n="187" xml:id="l187">Et les plus doux plaisirs et les plus innocents</l>
           <l n="188" xml:id="l188">Ont perdu pour jamais l’empire de mes sens,</l>
           <l n="189" xml:id="l189">Souscrivant aux rigueurs des coleres celestes</l>
@@ -1172,7 +1169,7 @@
           <l n="194" xml:id="l194">Quand leurs tiedes vapeurs se meslent à des larmes,</l>
           <l n="195" xml:id="l195">Bref pour nous espargner des discours superflus<pb n="B, 11"/></l>
           <l n="196" xml:id="l196">Seigneur, j’aimay Maxime et Maxime n’est plus,</l>
-          <l n="197" xml:id="l197">Un vertueux amour l’eschauffant de ses <ref target="#flame">flames*</ref></l>
+          <l n="197" xml:id="l197">Un vertueux amour l’eschauffant de ses <ref target="#flame">flames</ref></l>
           <l n="198" xml:id="l198">D’une estrainte immortelle attacha nos deux ames,</l>
           <l n="199" xml:id="l199">Et par un ascendant plein de divins efforts</l>
           <l n="200" xml:id="l200">Fist vivre l’une en l’autre et deux coeurs en un corps :</l>
@@ -1229,18 +1226,18 @@
           <l n="241" xml:id="l241">Et prefere aux douceurs dont tout ame est charmée<pb n="B, 13"/></l>
           <l n="242" xml:id="l242">La gloire de mourir pour la personne aymée.</l>
           <l n="243" xml:id="l243">Ah ! Divine merveille un peu plus de bonté</l>
-          <l n="244" xml:id="l244">Ou sy la haine fait vostre <ref target="#severite">severité*</ref>,</l>
+          <l n="244" xml:id="l244">Ou sy la haine fait vostre <ref target="#severite">severité</ref>,</l>
           <l n="245" xml:id="l245">Et vous deffend d’ouir un discours legitime</l>
           <l n="246" xml:id="l246">Souffrez-le pour le moins en pensant à Maxime,</l>
-          <l n="247" xml:id="l247">Et songeant qu’autrefois dans ces <ref target="#transport">transports*</ref> naissans</l>
+          <l n="247" xml:id="l247">Et songeant qu’autrefois dans ces <ref target="#transport">transports</ref> naissans</l>
           <l n="248" xml:id="l248">Sa vertu se servoit de semblables accents,</l>
           <l n="249" xml:id="l249">Et vous persuadoit par ce mesme langage</l>
           <l n="250" xml:id="l250">Que de sa passion est la vivante ymage.</l>
           <l n="251" xml:id="l251">Enfin pour obtenir un rayon de vos yeux</l>
           <l n="252" xml:id="l252">Sans offencer l’amour d’un rival glorieux,</l>
-          <l n="253" xml:id="l253">Cherchez dans mes regards cette brulante <ref target="#flame">flame*</ref></l>
+          <l n="253" xml:id="l253">Cherchez dans mes regards cette brulante <ref target="#flame">flame</ref></l>
           <l n="254" xml:id="l254">Que les liens à toute heure allumoient dans vostre ame,</l>
-          <l n="255" xml:id="l255">Et dites en voyant mes <ref target="#fer">fers*</ref> d’un oeil plus doux,</l>
+          <l n="255" xml:id="l255">Et dites en voyant mes <ref target="#fer">fers</ref> d’un oeil plus doux,</l>
           <l n="256" xml:id="l256">C’est ainsy qu’il pleuroit estant à mes genoux.</l>
           <l n="257" xml:id="l257" part="I">Ah : bienheureux rival</l>
         </sp>
@@ -1292,13 +1289,13 @@
           <l n="270" xml:id="l270">Et peut-on resister où commandent ces charmes ?</l>
           <l n="271" xml:id="l271">Certes je me suis veu cent fois dessus le point</l>
           <l n="272" xml:id="l272">De luy tout descouvrir<note place="bottom"><emph>Descouvrir</emph>, verbe : avouer quelque chose. (Furetière, 1690)</note> pour ne l’affliger point,</l>
-          <l n="273" xml:id="l273">Et de chasser l’<ref target="#ennui">ennuy*</ref> dont elle estoit atteinte</l>
+          <l n="273" xml:id="l273">Et de chasser l’<ref target="#ennui">ennuy</ref> dont elle estoit atteinte</l>
           <l n="274" xml:id="l274">Renonçant aux effets d’une importune feinte.</l>
         </sp>
         <sp who="honorique">
           <speaker>HONORIQUE</speaker>
           <l n="275" xml:id="l275">Sy vous luy descouvrez<note place="bottom">Idem.</note> que Maxime est vivant</l>
-          <l n="276" xml:id="l276">Vous vous flatez, Seigneur, d’un espoir <ref target="#decevant">decevant*</ref>,</l>
+          <l n="276" xml:id="l276">Vous vous flatez, Seigneur, d’un espoir <ref target="#decevant">decevant</ref>,</l>
           <l n="277" xml:id="l277">De croire que jamais son esprit se flechise,</l>
           <l n="278" xml:id="l278">Et que de son bon gré votre hymen s’accomplisse.</l>
         </sp>
@@ -1308,7 +1305,7 @@
           <l n="280" xml:id="l280">Vous ne devez, Seigneur, esperer nullement,</l>
           <l n="281" xml:id="l281">Mais sy le croyant mort, et le mal sans remede</l>
           <l n="282" xml:id="l282">Vous n’avez qu’à flater la douleur qui l’obsede,</l>
-          <l n="283" xml:id="l283">Et combattre l’<ref target="#ennui">ennuy*</ref> qui reigne dans son sein,</l>
+          <l n="283" xml:id="l283">Et combattre l’<ref target="#ennui">ennuy</ref> qui reigne dans son sein,</l>
           <l n="284" xml:id="l284">Vous verrez que le temps est un grand medecin,</l>
           <l n="285" xml:id="l285">Puisque donnant secours au dueil qui la desole</l>
           <l n="286" xml:id="l286">Il faudra qu’à la fin son ame s’en console.</l>
@@ -1322,26 +1319,26 @@
           <l n="291" xml:id="l291">Et je ne pense pas que je puisse jamais</l>
           <l n="292" xml:id="l292">Voir d’un heureux succez payer tant de bienfaits.</l>
           <l n="293" xml:id="l293">Quoy qu’il en soit, ma soeur je te suis redevable</l>
-          <l n="294" xml:id="l294">D’avoir à ma <ref target="#fureur">fureur*</ref> soustrait ce miserable.</l>
+          <l n="294" xml:id="l294">D’avoir à ma <ref target="#fureur">fureur</ref> soustrait ce miserable.</l>
         </sp>
         <sp who="honorique">
           <speaker>HONORIQUE</speaker>
           <l n="295" xml:id="l295">Craignant d’un peuple esmeu le zelle sans pareil</l>
-          <l n="296" xml:id="l296">Plustot que par pitié j’en donnay le <ref target="#conseil">conseil*</ref>.</l>
+          <l n="296" xml:id="l296">Plustot que par pitié j’en donnay le <ref target="#conseil">conseil</ref>.</l>
         </sp>
         <sp who="valentinian">
           <speaker>VALENTINIAN</speaker>
           <l n="297" xml:id="l297">Mais puisque cette feinte est encore necessaire</l>
-          <l n="298" xml:id="l298">M’<ref target="#asseurer">asseurant*</ref> que le temps pourra me satisfaire,</l>
+          <l n="298" xml:id="l298">M’<ref target="#asseurer">asseurant</ref> que le temps pourra me satisfaire,</l>
           <l n="299" xml:id="l299">Pour tenir donc Maxime icy secrettement</l>
           <l n="300" xml:id="l300">Treuve bon qu’il demeure en ton appartement,</l>
           <l n="301" xml:id="l301">Et qu’ostant tout soupçon qu’on auroit de sa vie</l>
           <l n="302" xml:id="l302">Il ne voye qu’Heracle<note place="bottom">Voir la partie « Genèse de La Mort de Valentinian et d’Isidore » de l’introduction générale. Pour rappel, c’est le serviteur de Valentinian. </note> en qui seul je me fie.</l>
           <l n="303" xml:id="l303">Pour moy je vais haster par un dernier effort</l>
-          <l n="304" xml:id="l304">Apres tant de <ref target="#travaux">travaux*</ref> ou ma gloire ou ma mort,</l>
+          <l n="304" xml:id="l304">Apres tant de <ref target="#travaux">travaux</ref> ou ma gloire ou ma mort,</l>
           <l n="305" xml:id="l305">Mon mal est dans sa crise, et je sens dans mon ame</l>
-          <l n="306" xml:id="l306">Des violents <ref target="#transport">transports*</ref> de colere et de <ref target="#flame">flame*</ref>,</l>
-          <l n="307" xml:id="l307">D’autant plus que l’honneur appuyant mes <ref target="#dessein">desseins*</ref></l>
+          <l n="306" xml:id="l306">Des violents <ref target="#transport">transports</ref> de colere et de <ref target="#flame">flame</ref>,</l>
+          <l n="307" xml:id="l307">D’autant plus que l’honneur appuyant mes <ref target="#dessein">desseins</ref></l>
           <l n="308" xml:id="l308">Ne permet la contrainte où les respects sont vains.</l>
           <l n="309" xml:id="l309">Amour, c’est trop souffrir, viens tout brillant de gloire</l>
           <l n="310" xml:id="l310">Vanger tes interests et chanter ma victoire.</l>
@@ -1360,7 +1357,7 @@
         </sp>
         <sp who="trazille">
           <speaker>TRAZILLE</speaker>
-          <l n="315" xml:id="l315">Tels que<note place="bottom"><emph>Tel qu’il soit</emph> est d’un usage ancien et signifie <emph>quel qu’il soit</emph>. De ce fait, il faut comprendre ici « Quels que soient mes conseils ne les condamnez pas. »</note> soient mes <ref target="#conseil2">conseils*</ref> ne les condamnez pas,</l>
+          <l n="315" xml:id="l315">Tels que<note place="bottom"><emph>Tel qu’il soit</emph> est d’un usage ancien et signifie <emph>quel qu’il soit</emph>. De ce fait, il faut comprendre ici « Quels que soient mes conseils ne les condamnez pas. »</note> soient mes <ref target="#conseil2">conseils</ref> ne les condamnez pas,</l>
           <l n="316" xml:id="l316">Lors que vous m’abaissez mes sentiments sont bas,</l>
           <l n="317" xml:id="l317">Mais si vous m’esleviez aussi haut que Maxime</l>
           <l n="318" xml:id="l318">Madame, ils paroistroient d’un air plus magnanime.</l>
@@ -1386,7 +1383,7 @@
         <sp who="honorique">
           <speaker>HONORIQUE</speaker>
           <l n="324" xml:id="l324">Ce soupçon n’est l’effet que d’un esprit jaloux,</l>
-          <l n="325" xml:id="l325">Et de peur qu’à la fin sa suitte ne m’<ref target="#estonner">estonne*</ref></l>
+          <l n="325" xml:id="l325">Et de peur qu’à la fin sa suitte ne m’<ref target="#estonner">estonne</ref></l>
           <l n="326" xml:id="l326">Vous mesme treuvez bon que je vous abandonne.</l>
         </sp>
         <sp who="trazille">
@@ -1395,7 +1392,7 @@
           <l n="327" xml:id="l327">Va, va, le Throsne seul a faict ma passion,</l>
           <l n="328" xml:id="l328">Et veut que je t’immolle à mon ambition.</l>
           </sp>
-          <label>Fin du premier Acte</label>
+          <trailer>Fin du premier Acte</trailer>
           </div>
           </div>
     
@@ -1405,21 +1402,21 @@
           <sp who="valentinian">
           <speaker>VALENTINIAN</speaker>
           <l n="329" xml:id="l329"><hi rend="sc">Vo</hi>us faites bien, madame, et c’est avec justice</l>
-          <l n="330" xml:id="l330">Que vos <ref target="#severite">severités*</ref> veullent que je perisse,</l>
+          <l n="330" xml:id="l330">Que vos <ref target="#severite">severités</ref> veullent que je perisse,</l>
           <l n="331" xml:id="l331">Ce grand abaissement est indigne de vous,</l>
           <l n="332" xml:id="l332">Vous rougissés de voir un prince à vos genoux,</l>
           <l n="333" xml:id="l333">Et ne pouvez souffrir dans l’orgueil qui vous brave</l>
           <l n="334" xml:id="l334">La qualité d’espoux avec celle d’esclave.</l>
           <l n="335" xml:id="l335">Hé bien il faut vouloir tout ce que vous voulés,</l>
           <l n="336" xml:id="l336">Et quittant ces genoux où mes pleurs ont coullés</l>
-          <l n="337" xml:id="l337">Vous parlez de mes <ref target="#feu1">feux*</ref> d’un plus ferme langage</l>
-          <l n="338" xml:id="l338">Et vaincre vos fiertés avec plus de <ref target="#courage">courage*</ref>,</l>
+          <l n="337" xml:id="l337">Vous parlez de mes <ref target="#feu1">feux</ref> d’un plus ferme langage</l>
+          <l n="338" xml:id="l338">Et vaincre vos fiertés avec plus de <ref target="#courage">courage</ref>,</l>
           <l n="339" xml:id="l339">Retenir des soupirs que vous desapreuvés,</l>
           <l n="340" xml:id="l340">Avoir des sentiments qui soient plus eslevés,</l>
           <l n="341" xml:id="l341">Donner à vostre orgueil une illustre matiere<pb n="C, 20"/></l>
-          <l n="342" xml:id="l342">Respondre noblement à vostre humeur <ref target="#altier">altiere*</ref>,</l>
+          <l n="342" xml:id="l342">Respondre noblement à vostre humeur <ref target="#altier">altiere</ref>,</l>
           <l n="343" xml:id="l343">Et de desubs mon Tronne ayant la foudre en main</l>
-          <l n="344" xml:id="l344">N’expliquer mes <ref target="#dessein">desseins*</ref>, qu’en Empereur Romain :</l>
+          <l n="344" xml:id="l344">N’expliquer mes <ref target="#dessein">desseins</ref>, qu’en Empereur Romain :</l>
           <l n="345" xml:id="l345">Aprés tant de mespris ma patience est lasse,</l>
           <l n="346" xml:id="l346">Je doibs me satisfaire, et non demander grace :</l>
           <l n="347" xml:id="l347">Et vous faisant rentrer dedans ce cabinet</l>
@@ -1431,8 +1428,8 @@
           <l n="353" xml:id="l353">En vain vous m’alégués qu’Eudoxe<note place="bottom">Voir la partie « Genèse de La Mort de Valentinian et d’Isidore » de l’introduction générale.</note> estant vivante</l>
           <l n="354" xml:id="l354">Par ce second Hymen ma perte est evidente.</l>
           <l n="355" xml:id="l355">Guerissés vostre esprit d’une semblable erreur</l>
-          <l n="356" xml:id="l356"><hi rend="b"></hi>THEODOSE<note place="bottom">Flavius Arcadius (377-408) c’est-à-dire Theodose II, est le père d’Eudoxe et le neveu de Placidie. Il a décidé de marier sa fille à Valentinian qui est donc son cousin. C’est également lui qui a déclaré Valentinian empereur.</note>, n’est plus et je suis Empereur,</l>
-          <l n="357" xml:id="l357"><hi rend="b"></hi>EUDOXE<note place="bottom">Voir la partie « Genèse de La Mort de Valentinian et d’Isidore » de l’introduction générale. Pour rappel, il s’agit de la femme de Valentinian. </note> que le Ciel garde pour un autre homme</l>
+          <l n="356" xml:id="l356"><hi rend="b"/>THEODOSE<note place="bottom">Flavius Arcadius (377-408) c’est-à-dire Theodose II, est le père d’Eudoxe et le neveu de Placidie. Il a décidé de marier sa fille à Valentinian qui est donc son cousin. C’est également lui qui a déclaré Valentinian empereur.</note>, n’est plus et je suis Empereur,</l>
+          <l n="357" xml:id="l357"><hi rend="b"/>EUDOXE<note place="bottom">Voir la partie « Genèse de La Mort de Valentinian et d’Isidore » de l’introduction générale. Pour rappel, il s’agit de la femme de Valentinian. </note> que le Ciel garde pour un autre homme</l>
           <l n="358" xml:id="l358">Est dans Constentinopple et vous estes dans Rome,</l>
           <l n="359" xml:id="l359">Et ce qu’on dit D’URSACE<note place="bottom">Voir la partie « Genèse de La Mort de Valentinian et d’Isidore » de l’introduction générale. Pour rappel, c’est un chevalier romain amoureux d’Eudoxe, la femme de Valentinian. </note>, et d’elle dans ma cour</l>
           <l n="360" xml:id="l360">A rompu tous liens, et d’Hymen et d’amour :</l>
@@ -1470,20 +1467,20 @@
         </sp>
         <sp who="valentinian">
           <speaker>VALENTINIAN</speaker>
-          <l n="375" xml:id="l375">Ah ? c’est trop repeter un discours <ref target="#ennui">ennuyeux*</ref>.</l>
+          <l n="375" xml:id="l375">Ah ? c’est trop repeter un discours <ref target="#ennui">ennuyeux</ref>.</l>
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
-          <l n="376" xml:id="l376">Il choque* vostre oreille, et vous blessés mes yeux,</l>
+          <l n="376" xml:id="l376">Il choque vostre oreille, et vous blessés mes yeux,</l>
           <l n="377" xml:id="l377">Enfin puisqu’il est temps de ne se plus contraindre,</l>
           <l n="378" xml:id="l378">Appelle tes bourreaux je suis lasse de feindre :</l>
-          <l n="379" xml:id="l379">De tous les <ref target="#mouvement">mouvements*</ref> de ton injuste erreur,<pb n="C, 22"/></l>
-          <l n="380" xml:id="l380">Tyran, je n’aimeray que ta seulle <ref target="#fureur">fureur*</ref>,</l>
+          <l n="379" xml:id="l379">De tous les <ref target="#mouvement">mouvements</ref> de ton injuste erreur,<pb n="C, 22"/></l>
+          <l n="380" xml:id="l380">Tyran, je n’aimeray que ta seulle <ref target="#fureur">fureur</ref>,</l>
           <l n="381" xml:id="l381">Qu’elle passe à l’exes, et sy tu veux me plaire</l>
           <l n="382" xml:id="l382">Fais que le chastiment responde à ta collere,</l>
           <l n="383" xml:id="l383">Et qu’ayant des rigueurs qui facent tout fremir,</l>
           <l n="384" xml:id="l384">J’en souffre le spectacle et l’effet sans blesnir</l>
-          <l n="385" xml:id="l385">Tu m’aimes mais apprens que les <ref target="#fer">fers*</ref> et les <ref target="#flame">flames*</ref></l>
+          <l n="385" xml:id="l385">Tu m’aimes mais apprens que les <ref target="#fer">fers</ref> et les <ref target="#flame">flames</ref></l>
           <l n="386" xml:id="l386">Qu’un noir demon destine au supplice des ames,</l>
           <l n="387" xml:id="l387">Les Vaultours, les Dragons, les Hydres<note place="bottom">Dans la mythologie grecque, l’hydre est un serpent gigantesque qui possède plusieurs têtes et qui soufflait une haleine empoisonnée sur les marais de Lerne. La destruction de l’Hydre fut l’un des douze travaux d’Hercule. </note>, les Serpents,</l>
           <l n="388" xml:id="l388">Et des sombres cachots, touts les monstres rempants :</l>
@@ -1491,7 +1488,7 @@
           <l n="390" xml:id="l390">Le desordre, l’horreur, la mort, les barbaries :</l>
           <l n="391" xml:id="l391">Et tout ce que l’Enfer a de plus odieux,</l>
           <l n="392" xml:id="l392">Est beaucoup plus que toy suportable à mes yeux :</l>
-          <l n="393" xml:id="l393">Que devient ton <ref target="#courroux">couroux*</ref> ton ame s’endort-elle</l>
+          <l n="393" xml:id="l393">Que devient ton <ref target="#courroux">couroux</ref> ton ame s’endort-elle</l>
           <l n="394" xml:id="l394">Ayant tant de matiere à paroitre cruelle,</l>
           <l n="395" xml:id="l395">Quand on parle de sang, peut-elle sommeiller,</l>
           <l n="396" xml:id="l396">Un meurtre la demande il la faut esveiller :</l>
@@ -1508,13 +1505,13 @@
           <speaker>VALENTINIAN <pb n="C, 23"/></speaker>
           <l n="405" xml:id="l405">Helas qu’avés vous dit : Belle et sage Isidore,</l>
           <l n="406" xml:id="l406">Pourquoy hayssés vous celuy qui vous adore ?</l>
-          <l n="407" xml:id="l407">Loing de vous emporter à cette <ref target="#extremite">extremitté*</ref>,</l>
+          <l n="407" xml:id="l407">Loing de vous emporter à cette <ref target="#extremite">extremitté</ref>,</l>
           <l n="408" xml:id="l408">Alors qu’en vous parlant je me suis emporté,</l>
-          <l n="409" xml:id="l409">Aux efforts viollents du <ref target="#feu1">feu*</ref> qui me devore</l>
-          <l n="410" xml:id="l410">Vostre <ref target="#insigne">insigne*</ref> bonté debvoit<note place="bottom"><emph>Debvoir</emph> est du moyen français. Le -b de l’étymon latin <emph>debere</emph> est conservé pour la graphie uniquement, il ne se prononce pas. </note> souffrir encore,</l>
-          <l n="411" xml:id="l411">Et tenir <ref target="#asseurer">asseuré*</ref> qu’enfin je reviendrois</l>
+          <l n="409" xml:id="l409">Aux efforts viollents du <ref target="#feu1">feu</ref> qui me devore</l>
+          <l n="410" xml:id="l410">Vostre <ref target="#insigne">insigne</ref> bonté debvoit<note place="bottom"><emph>Debvoir</emph> est du moyen français. Le -b de l’étymon latin <emph>debere</emph> est conservé pour la graphie uniquement, il ne se prononce pas. </note> souffrir encore,</l>
+          <l n="411" xml:id="l411">Et tenir <ref target="#asseurer">asseuré</ref> qu’enfin je reviendrois</l>
           <l n="412" xml:id="l412">Prier avec respect celle que j’adorois.</l>
-          <l n="413" xml:id="l413">Sçachant que mon <ref target="#dessein">dessein*</ref> n’est pas de vous deplaire</l>
+          <l n="413" xml:id="l413">Sçachant que mon <ref target="#dessein">dessein</ref> n’est pas de vous deplaire</l>
           <l n="414" xml:id="l414">Que ne vous riés vous de toutte ma colere ?</l>
           <l n="415" xml:id="l415">Et quand je menaçois ne sçaviez vous pas bien</l>
           <l n="416" xml:id="l416">Apres avoir tout dit que je ne ferois rien,</l>
@@ -1536,10 +1533,10 @@
           <l n="429" xml:id="l429">Te faut il declarer le sujet de ma haine,</l>
           <l n="430" xml:id="l430">Est il temps de parler, Tyran, je suis Romaine :</l>
           <l n="431" xml:id="l431">La Grece que l’on croit qui m’a donné le jour</l>
-          <l n="432" xml:id="l432">Me sert pour mieux cacher mes <ref target="#dessein">desseins*</ref> en ta cour,</l>
+          <l n="432" xml:id="l432">Me sert pour mieux cacher mes <ref target="#dessein">desseins</ref> en ta cour,</l>
           <l n="433" xml:id="l433">Et pour te justifier avec plus d’avantage</l>
-          <l n="434" xml:id="l434">Quelqu’un de qui le bras, seconde mon <ref target="#courage">courage*</ref> :</l>
-          <l n="435" xml:id="l435">Tous mes peres sont morts, dans un si beau <ref target="#dessein">dessein*</ref>,</l>
+          <l n="434" xml:id="l434">Quelqu’un de qui le bras, seconde mon <ref target="#courage">courage</ref> :</l>
+          <l n="435" xml:id="l435">Tous mes peres sont morts, dans un si beau <ref target="#dessein">dessein</ref>,</l>
           <l n="436" xml:id="l436">Et l’ont avec le sang fait passer en mon sein :</l>
           <l n="437" xml:id="l437">Et c’est pour ce sujet que ton pere Constance<note place="bottom">Constance III (?-env. 420) est le père de Valentinian et d’Honorique et époux de Placidie. </note>,</l>
           <l n="438" xml:id="l438">Pour esteindre ma race au point de ma naissance,</l>
@@ -1559,7 +1556,7 @@
           <l n="452" xml:id="l452">M’aprend bien que je sors des filles des Catons<note place="bottom">Isidore fait ici certainement référence à la généalogie de Caton l’Ancien, homme politique. </note>,</l>
           <l n="453" xml:id="l453">Et par l’abaissement des siecles où nous sommes</l>
           <l n="454" xml:id="l454">Je voy que Rome est morte avecque ces grands hommes<space rend="tab">    </space><pb n="D, 25"/></l>
-          <l n="455" xml:id="l455">Puis qu’aux <ref target="#fer">fers*</ref> des Tyrans chacun donnant les mains</l>
+          <l n="455" xml:id="l455">Puis qu’aux <ref target="#fer">fers</ref> des Tyrans chacun donnant les mains</l>
           <l n="456" xml:id="l456">Pour la resusciter il n’est plus de Romains,</l>
           <l n="457" xml:id="l457">Ces suittes d’Empereurs que le temps justifie,</l>
           <l n="458" xml:id="l458">N’ont esté souverains que par la Tyrannie,</l>
@@ -1567,7 +1564,7 @@
           <l n="460" xml:id="l460">Est lasse de gemir, et ne peut plus crier :</l>
           <l n="461" xml:id="l461">Ce sont des verités que je t’aurois cachées</l>
           <l n="462" xml:id="l462">Si ce grand desespoir ne les eust arrachées,</l>
-          <l n="463" xml:id="l463">Pour aigrir ton <ref target="#courage">courage*</ref>, et t’oster le <ref target="#dessein">dessein*</ref></l>
+          <l n="463" xml:id="l463">Pour aigrir ton <ref target="#courage">courage</ref>, et t’oster le <ref target="#dessein">dessein</ref></l>
           <l n="464" xml:id="l464">De prendre une moitié pire qu’un assassin,</l>
           <l n="465" xml:id="l465">Qui comme une furie entrant dedans ta couche</l>
           <l n="466" xml:id="l466">Te voudrois estouffer les soupirs en la bouche,</l>
@@ -1582,8 +1579,8 @@
           <l n="472" xml:id="l472">Et d’un excés d’amour te donner tes effets.</l>
           <l n="473" xml:id="l473">Certes je suis confus d’avoir apris ces choses</l>
           <l n="474" xml:id="l474">De descouvrir ta haine et d’en sçavoir les causes<note place="bottom">À l’origine, il était écrit « la causes » ce qui constituait une erreur. La ré-édition de 1656 a opté pour la correction « les causes » et nous l’avons gardé. </note>,</l>
-          <l n="475" xml:id="l475">Ta naissance m’<ref target="#estonner">estonne*</ref>, et ce que tu m’as dit</l>
-          <l n="476" xml:id="l476">Me fait encor fremir et me rend <ref target="#interdit2">interdit*</ref>.</l>
+          <l n="475" xml:id="l475">Ta naissance m’<ref target="#estonner">estonne</ref>, et ce que tu m’as dit</l>
+          <l n="476" xml:id="l476">Me fait encor fremir et me rend <ref target="#interdit2">interdit</ref>.</l>
           <l n="477" xml:id="l477">Mais c’est trop balancer où l’amour est extreme</l>
           <l n="478" xml:id="l478">Puisqu’il faut en t’aymant renoncer à soy mesme,</l>
           <l n="479" xml:id="l479">Oublier les grandeurs et n’en attendre rien,<space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><pb n="D, 26"/></l>
@@ -1592,8 +1589,8 @@
           <l n="482" xml:id="l482">Ce n’est que de tes mains que je veux la Couronne,</l>
           <l n="483" xml:id="l483">Et quand par mes soupirs j’auray pu la gagner</l>
           <l n="484" xml:id="l484">Si ce n’est sur ton coeur je ne veux plus regner.</l>
-          <l n="485" xml:id="l485">O ! nobles sentiments d’une ame <ref target="#genereux">genereuse*</ref>,</l>
-          <l n="486" xml:id="l486">Appuyez les <ref target="#transport">transports*</ref> de ma <ref target="#flame">flame*</ref> amoureuse,</l>
+          <l n="485" xml:id="l485">O ! nobles sentiments d’une ame <ref target="#genereux">genereuse</ref>,</l>
+          <l n="486" xml:id="l486">Appuyez les <ref target="#transport">transports</ref> de ma <ref target="#flame">flame</ref> amoureuse,</l>
           <l n="487" xml:id="l487">Monstrés moy que l’amant doit pour l’objet aimé</l>
           <l n="488" xml:id="l488">Tout donner aux ardeurs dont il est consommé,</l>
           <l n="489" xml:id="l489">Et ne rien conserver de ces ames vulgaires</l>
@@ -1615,7 +1612,7 @@
           <l n="505" xml:id="l505">Tu ne sçaurois souffrir Rome dans l’esclavage,</l>
           <l n="506" xml:id="l506">Tu veux je m’y mette et que je l’en desgage,<space rend="tab">    </space><pb n="D, 27"/></l>
           <l n="507" xml:id="l507">Mais pour rendre ton nom fameux en l’Univers</l>
-          <l n="508" xml:id="l508">Viens masservir toy mesme et va rompre ses <ref target="#fer">fers*</ref>.</l>
+          <l n="508" xml:id="l508">Viens masservir toy mesme et va rompre ses <ref target="#fer">fers</ref>.</l>
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
@@ -1629,7 +1626,7 @@
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
-          <l n="513" xml:id="l513">Mais ce n’est pas assés pour flechir mon <ref target="#courage">courage*</ref></l>
+          <l n="513" xml:id="l513">Mais ce n’est pas assés pour flechir mon <ref target="#courage">courage</ref></l>
           <l n="514" xml:id="l514">Si tu veux m’acquerir fais encor davantage,</l>
           <l n="515" xml:id="l515">Punis toy du passé, despouille toy des biens</l>
           <l n="516" xml:id="l516">Et rends tant de tresors pris à tes Cytoiens,</l>
@@ -1648,7 +1645,7 @@
           <speaker>VALENTINIAN <pb n="D, 28"/></speaker>
           <l n="527" xml:id="l527">Si ce n’est pas assés de renoncer à soy,</l>
           <l n="528" xml:id="l528">D’abandonner ma gloire et mon tronne pour toy,</l>
-          <l n="529" xml:id="l529">De m’accabler de <ref target="#fer">fers*</ref> en les ostant à Rome</l>
+          <l n="529" xml:id="l529">De m’accabler de <ref target="#fer">fers</ref> en les ostant à Rome</l>
           <l n="530" xml:id="l530">Et d’un grand Empereur vivre comme un autre homme,</l>
           <l n="531" xml:id="l531">D’oublier mon repos contre toutte raison,</l>
           <l n="532" xml:id="l532">Me despouiller de biens et perdre ma maison,</l>
@@ -1658,19 +1655,19 @@
           <l n="536" xml:id="l536">Rapeller le passé, ressusciter les morts,</l>
           <l n="537" xml:id="l537">Forcer les Elements, et dans cette advanture</l>
           <l n="538" xml:id="l538">Ayant vaincu la mort confondre la nature.</l>
-          <l n="539" xml:id="l539">Le Ciel qui veut aider les bons <ref target="#dessein">desseins*</ref> que j’ay</l>
+          <l n="539" xml:id="l539">Le Ciel qui veut aider les bons <ref target="#dessein">desseins</ref> que j’ay</l>
           <l n="540" xml:id="l540">Est prest de tesmoigner que j’en suis protegé,</l>
           <l n="541" xml:id="l541">Et veut d’un grand miracle et de ses mains puissantes</l>
           <l n="542" xml:id="l542">Apuyer les effets de mes vertus naissantes :</l>
           <l n="543" xml:id="l543">Promets moy seulement d’avoir un peu d’amour,</l>
           <l n="544" xml:id="l544">Et Maxime viendra des tenebres au jour,</l>
           <l n="545" xml:id="l545">Mais las s’il revivoit quoy que tu me promettes,</l>
-          <l n="546" xml:id="l546">Tu bruslerois encor de ses <ref target="#flame">flames*</ref> secrettes.</l>
+          <l n="546" xml:id="l546">Tu bruslerois encor de ses <ref target="#flame">flames</ref> secrettes.</l>
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
-          <l n="547" xml:id="l547">Ah ! que n’est-il possible en cette <ref target="#extremite">extremitté*</ref>,</l>
-          <l n="548" xml:id="l548">Tu verrois jusqu’où va ma <ref target="#generosite">generosité*</ref>,</l>
+          <l n="547" xml:id="l547">Ah ! que n’est-il possible en cette <ref target="#extremite">extremitté</ref>,</l>
+          <l n="548" xml:id="l548">Tu verrois jusqu’où va ma <ref target="#generosite">generosité</ref>,</l>
           <l n="549" xml:id="l549">Et tu reconnoistrois la force de mon ame.</l>
         </sp>
         <sp who="valentinian">
@@ -1720,7 +1717,7 @@
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
-          <l n="572" xml:id="l572">Mais pourquoy me flater d’un espoir <ref target="#decevant">decevant*</ref> ?</l>
+          <l n="572" xml:id="l572">Mais pourquoy me flater d’un espoir <ref target="#decevant">decevant</ref> ?</l>
         </sp>
         <sp who="valentinian">
           <speaker>VALENTINIAN</speaker>
@@ -1729,12 +1726,12 @@
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
-          <l n="575" xml:id="l575">Dans le noble <ref target="#dessein">dessein*</ref> d’affranchir mon pays</l>
+          <l n="575" xml:id="l575">Dans le noble <ref target="#dessein">dessein</ref> d’affranchir mon pays</l>
           <l n="576" xml:id="l576">Sur un point impossible à la fin j’obeis,</l>
           <l n="577" xml:id="l577">Et veux bien vous jurer par tout ce que j’adore,</l>
           <l n="578" xml:id="l578">Que je vous aimeray si Maxime est encore,</l>
-          <l n="579" xml:id="l579">Ma <ref target="#generosite">generosité*</ref> ne treuvant plus chés vous,</l>
-          <l n="580" xml:id="l580">En des traits d’assassin des objets de <ref target="#courroux">couroux*</ref>.</l>
+          <l n="579" xml:id="l579">Ma <ref target="#generosite">generosité</ref> ne treuvant plus chés vous,</l>
+          <l n="580" xml:id="l580">En des traits d’assassin des objets de <ref target="#courroux">couroux</ref>.</l>
         </sp>
         <sp who="valentinian">
           <speaker>VALENTINIAN <pb n="D, 31"/></speaker>
@@ -1752,16 +1749,16 @@
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
-          <l n="584" xml:id="l584">Mais au moings immités ma <ref target="#generosite">generosité*</ref>,</l>
+          <l n="584" xml:id="l584">Mais au moings immités ma <ref target="#generosite">generosité</ref>,</l>
           <l n="585" xml:id="l585">Et ne pouvant enfin resusciter Maxime</l>
           <l n="586" xml:id="l586">Agissés comme moy d’un air tout magnagnime,</l>
-          <l n="587" xml:id="l587">Et pour payer l’effort qui dompte mon <ref target="#courroux">couroux*</ref></l>
+          <l n="587" xml:id="l587">Et pour payer l’effort qui dompte mon <ref target="#courroux">couroux</ref></l>
           <l n="588" xml:id="l588">Faites autant pour moy que j’aurois fait pour vous,</l>
           <l n="589" xml:id="l589">Et Maxime estant mort faites revivre Rome.</l>
         </sp>
         <sp who="valentinian">
           <speaker>VALENTINIAN</speaker>
-          <l n="590" xml:id="l590">Madame benissés le <ref target="#feu1">feu*</ref> qui me consomme<note place="bottom">Voir la note du vers 155. </note>,</l>
+          <l n="590" xml:id="l590">Madame benissés le <ref target="#feu1">feu</ref> qui me consomme<note place="bottom">Voir la note du vers 155. </note>,</l>
           <l n="591" xml:id="l591">C’est par luy que Maxime et Rome revivront,</l>
           <l n="592" xml:id="l592">Mais c’est trop retarder la gloire qu’ils auront,</l>
           <l n="593" xml:id="l593">Et c’est trop differer à remplir vostre attente,</l>
@@ -1787,7 +1784,7 @@
           <l n="600" xml:id="l600">Ce qu’il ne peut tenir que difficilement,</l>
           <l n="601" xml:id="l601">Aussi quand j’ay juré d’aimer ce monstre horrible</l>
           <l n="602" xml:id="l602">C’est à condition qu’il fera l’impossible,</l>
-          <l n="603" xml:id="l603">Et je puis, m’<ref target="#asseurer">asseurant*</ref> qu’il ne le fera pas,</l>
+          <l n="603" xml:id="l603">Et je puis, m’<ref target="#asseurer">asseurant</ref> qu’il ne le fera pas,</l>
           <l n="604" xml:id="l604">Et prendre ma parolle et ne la tenir pas.</l>
         </sp>
         <sp who="alcire">
@@ -1799,10 +1796,10 @@
           <l n="606" xml:id="l606">Parce qu’il m’a promis d’affranchir ma patrie,</l>
           <l n="607" xml:id="l607">Et qu’en luy promettant de le considerer,</l>
           <l n="608" xml:id="l608">S’il fait revivre un mort j’ay de quoy m’en parer,</l>
-          <l n="609" xml:id="l609">Et sans rien relascher de mon humeur <ref target="#altier">altiere*</ref></l>
+          <l n="609" xml:id="l609">Et sans rien relascher de mon humeur <ref target="#altier">altiere</ref></l>
           <l n="610" xml:id="l610">Je le mets en estat d’acorder ma priere,</l>
           <l n="611" xml:id="l611">N’estant pas dispensé de faire ce qu’il peut</l>
-          <l n="612" xml:id="l612">Quand il m’est <ref target="#interdit1">interdit*</ref> de faire ce qu’il veut,</l>
+          <l n="612" xml:id="l612">Quand il m’est <ref target="#interdit1">interdit</ref> de faire ce qu’il veut,</l>
           <l n="613" xml:id="l613">Et puis s’il faut t’ouvrir le fonds de ma pensée,</l>
           <l n="614" xml:id="l614">La gloire d’affranchir nostre Rome opressée,</l>
           <l n="615" xml:id="l615">Et de donner la vie à qui je doibs le jour,</l>
@@ -1810,7 +1807,7 @@
           <l n="617" xml:id="l617">Il est beau qu’une fille en l’honneur de sa race</l>
           <l n="618" xml:id="l618">Marche desus les pas de Scevolle<note place="bottom">Caius Mucius Scaevola (env. 509 av. J.-C.) est un soldat romain connu pour ses exploits lors de la guerre contre Porsenna en 507 av. J.-C., au début de la République romaine. Son histoire est notamment racontée par Tite-Live et Plutarque. </note> et d’Horace<note place="bottom">Horace (dont Corneille en fit le héros éponyme de sa tragédie en 1640) est connu pour son combat lors de la guerre entre les Horaces et les Curiaces. </note> ?</l>
           <l n="619" xml:id="l619">Puisqu’à dire le vray les bras d’un monstre afreux</l>
-          <l n="620" xml:id="l620">Esgallent en horreur les gouffres et les <ref target="#feu2">feux*</ref>,</l>
+          <l n="620" xml:id="l620">Esgallent en horreur les gouffres et les <ref target="#feu2">feux</ref>,</l>
           <l n="621" xml:id="l621">Et peuvent m’acquerir par des peines semblables</l>
           <l n="622" xml:id="l622">De ces vaillants Heros les tiltres honorables.</l>
           <l n="623" xml:id="l623">Comme eux pour servir Rome il faudroit : mais ! ô Dieux.</l>
@@ -1831,12 +1828,12 @@
           <l n="625" xml:id="l625">Madame c’est ainsi qu’en son amour extreme,</l>
           <l n="626" xml:id="l626">L’Empereur tient parolle ! adieu faites le mesme<note place="bottom">Ici, il faut comprendre « faites de même », c’est-à-dire faire la même chose. </note> ?</l>
           <l n="627" xml:id="l627">Dedans son cabinet les plus grands des Romains,</l>
-          <l n="628" xml:id="l628">Taschoient de l’empescher de suivre vos <ref target="#dessein">desseins*</ref> ?</l>
+          <l n="628" xml:id="l628">Taschoient de l’empescher de suivre vos <ref target="#dessein">desseins</ref> ?</l>
           <l n="629" xml:id="l629">Mais forcé de tenir la parolle donnée</l>
           <l n="630" xml:id="l630">Il va tout disposer pour ce grand Hymenée,</l>
           <l n="631" xml:id="l631">Et craignant de gesner<note place="bottom"><emph>Gesner</emph>, verbe : tourmenter. (Furetière, 1690)</note> vostre esprit combattu</l>
           <l n="632" xml:id="l632">J’ay charge pour laisser agir vostre vertu,</l>
-          <l n="633" xml:id="l633">De dire seulement en faveur de sa <ref target="#flame">flame*</ref>,</l>
+          <l n="633" xml:id="l633">De dire seulement en faveur de sa <ref target="#flame">flame</ref>,</l>
           <l n="634" xml:id="l634">Qu’il a tenu parolle, et qu’il attend Madame.</l>
         </sp>
         <sp who="isidore">
@@ -1931,22 +1928,22 @@
           <speaker>ISIDORE</speaker>
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ô ! fille infortunée</l>
           <l n="655" xml:id="l655">Puis qu’en fin mon honneur me contraint en ce jour</l>
-          <l n="656" xml:id="l656">De fuir sans balencer les <ref target="#conseil2">conseils*</ref> de l’amour.</l>
+          <l n="656" xml:id="l656">De fuir sans balencer les <ref target="#conseil2">conseils</ref> de l’amour.</l>
         </sp>
         <sp who="maxime">
           <speaker>MAXIME</speaker>
           <l n="657" xml:id="l657">Quel Dieu m’assistera dedans cette adventure,</l>
-          <l n="658" xml:id="l658">Te dois je <ref target="#conseil">conseiller*</ref> de te rendre parjure ?</l>
-          <l n="659" xml:id="l659">Et dans les <ref target="#mouvement">mouvements*</ref> dont je suis combatu</l>
+          <l n="658" xml:id="l658">Te dois je <ref target="#conseil">conseiller</ref> de te rendre parjure ?</l>
+          <l n="659" xml:id="l659">Et dans les <ref target="#mouvement">mouvements</ref> dont je suis combatu</l>
           <l n="660" xml:id="l660">Pour escouter l’amour d’oublier la vertu ?</l>
           <l n="661" xml:id="l661">Non, ton cœur est trop bon et mon ame est trop haute,</l>
           <l n="662" xml:id="l662">Rougissons à l’envy d’une si belle faute,</l>
           <l n="663" xml:id="l663">Toy de m’abandonner ayant sceu de me cherir,</l>
-          <l n="664" xml:id="l664">Moy de te <ref target="#conseil2">conseiller*</ref> ce qui me fait mourir.</l>
+          <l n="664" xml:id="l664">Moy de te <ref target="#conseil2">conseiller</ref> ce qui me fait mourir.</l>
           <l n="665" xml:id="l665">Ton grand coeur et le mien de nos malheurs complices,</l>
           <l n="666" xml:id="l666">Veullent nous signaller par des fameux supplices,</l>
-          <l n="667" xml:id="l667">Et plus nostre infortune a de <ref target="#severite">severité*</ref><pb n="E, 38"/></l>
-          <l n="668" xml:id="l668">Plus nous debvons monstrer de <ref target="#generosite">generosité*</ref>.</l>
+          <l n="667" xml:id="l667">Et plus nostre infortune a de <ref target="#severite">severité</ref><pb n="E, 38"/></l>
+          <l n="668" xml:id="l668">Plus nous debvons monstrer de <ref target="#generosite">generosité</ref>.</l>
           <l n="669" xml:id="l669">Ne crains point de bassesse en mon amour extreme,</l>
           <l n="670" xml:id="l670">Je sçay qu’en te perdant je pers tout ce que j’aime,</l>
           <l n="671" xml:id="l671">Mais j’aime meiux tout perdre et ne te pas aimer</l>
@@ -1962,15 +1959,15 @@
           <l n="681" xml:id="l681">Illustres ennemys de ma bonne fortune</l>
           <l n="682" xml:id="l682">Adorables Tyrans dont le zelle importune,</l>
           <l n="683" xml:id="l683">Puis-je ne m’abandonnant à vos severes loix,</l>
-          <l n="684" xml:id="l684">Sans <ref target="#choquer">choquer*</ref> mon debvoir murmurer une fois.</l>
-          <l n="685" xml:id="l685">Mais contre le Tyran arme toy, mon <ref target="#courage">courage*</ref>,</l>
+          <l n="684" xml:id="l684">Sans <ref target="#choquer">choquer</ref> mon debvoir murmurer une fois.</l>
+          <l n="685" xml:id="l685">Mais contre le Tyran arme toy, mon <ref target="#courage">courage</ref>,</l>
           <l n="686" xml:id="l686" part="I">Desgageons sa parolle.</l>
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ah ! change de langage,</l>
           <l n="687" xml:id="l687">Ma parolle donnée avec le nom d’espoux</l>
-          <l n="688" xml:id="l688">Le doivent garentir des traits de ton <ref target="#courroux">couroux*</ref>,</l>
+          <l n="688" xml:id="l688">Le doivent garentir des traits de ton <ref target="#courroux">couroux</ref>,</l>
           <l n="689" xml:id="l689">Ma foy luy sert de garde, et quoy qu’il entreprenne</l>
           <l n="690" xml:id="l690">Le serment qui me lie est plus fort que ma haine.</l>
         </sp>
@@ -1982,7 +1979,7 @@
           <l n="694" xml:id="l694">C’est par des beaux moyens forcer le corps et l’ame :</l>
           <l n="695" xml:id="l695">C’est un rapt manifeste et c’est nous obliger</l>
           <l n="696" xml:id="l696">Toy de tenir parolle, et moy de te vanger.</l>
-          <l n="697" xml:id="l697">Ces <ref target="#genereux">genereux*</ref> Romains, qui d’une noble audace</l>
+          <l n="697" xml:id="l697">Ces <ref target="#genereux">genereux</ref> Romains, qui d’une noble audace</l>
           <l n="698" xml:id="l698">Prests de vanger l’exil, et d’Eudoxe<note place="bottom">Voir la partie « Genèse de La Mort de Valentinian et d’Isidore » de l’introduction générale. Pour rappel, il s’agit de la femme de Valentinian. </note> et d’Ursace<note place="bottom">Voir la partie « Genèse de La Mort de Valentinian et d’Isidore » de l’introduction générale. Pour rappel, c’est un chevalier romain amoureux d’Eudoxe.</note>,</l>
           <l n="699" xml:id="l699">Implorent mon secours quand je fus aresté,</l>
           <l n="700" xml:id="l700">Acheveront le coup quand je l’auray porté.</l>
@@ -2060,7 +2057,7 @@
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
-          <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>ô ! dure <ref target="#extremite">extremité*</ref>.</l>
+          <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>ô ! dure <ref target="#extremite">extremité</ref>.</l>
         </sp>
         <sp who="phocion">
           <speaker>PHOCION <pb n="F, 42"/></speaker>
@@ -2081,27 +2078,27 @@
           <l n="726" xml:id="l726">Et la verray partir sans mourir sur la place.</l>
           <l n="727" xml:id="l727">On outrage mes Dieux, on enleve mon bien,</l>
           <l n="728" xml:id="l728">On m’arrache le coeur et je n’entreprens rien,</l>
-          <l n="729" xml:id="l729">Quelle est cette langueur, et qu’atend mon <ref target="#courage">courage*</ref> ?</l>
+          <l n="729" xml:id="l729">Quelle est cette langueur, et qu’atend mon <ref target="#courage">courage</ref> ?</l>
           <l n="730" xml:id="l730">Est-il besoing d’un ordre où l’honneur nous engage ?</l>
           <l n="731" xml:id="l731">Et mon bras pour punir un Tyran inhumain</l>
           <l n="732" xml:id="l732">Atend-il qu’on luy mette un fer dedans la main ?</l>
-          <l n="733" xml:id="l733">La <ref target="#generosite">generosité*</ref> de ma chère Isidore</l>
+          <l n="733" xml:id="l733">La <ref target="#generosite">generosité</ref> de ma chère Isidore</l>
           <l n="734" xml:id="l734">S’atache aux intèrests d’un monstre qu’elle abhorre,</l>
-          <l n="735" xml:id="l735">Et forçant les <ref target="#transport">transports*</ref> d’un noble <ref target="#mouvement">mouvement*</ref><space rend="tab">    </space><pb n="F, 43"/></l>
+          <l n="735" xml:id="l735">Et forçant les <ref target="#transport">transports</ref> d’un noble <ref target="#mouvement">mouvement</ref><space rend="tab">    </space><pb n="F, 43"/></l>
           <l n="736" xml:id="l736">L’oblige de parler contre son sentiment,</l>
           <l n="737" xml:id="l737">Elle deffend la main qui la prive de vie</l>
           <l n="738" xml:id="l738">Mais il la faut servir, et contre son envie,</l>
           <l n="739" xml:id="l739">La tirant des liens où sa vertu la mit</l>
           <l n="740" xml:id="l740">Faire pour la sauver plus qu’elle ne permit</l>
           <l n="741" xml:id="l741">Charmants persecuteurs, doux Tyrans de mon ame,</l>
-          <l n="742" xml:id="l742">Complices de mes maux, chers enfans de ma <ref target="#flame">flame*</ref>,</l>
-          <l n="743" xml:id="l743">Heroyques ardeurs, <ref target="#transport">transports*</ref> reveillés-vous</l>
-          <l n="744" xml:id="l744">Et venés m’<ref target="#flame">enflamer*</ref> d’un viollent <ref target="#courroux">couroux*</ref>,</l>
+          <l n="742" xml:id="l742">Complices de mes maux, chers enfans de ma <ref target="#flame">flame</ref>,</l>
+          <l n="743" xml:id="l743">Heroyques ardeurs, <ref target="#transport">transports</ref> reveillés-vous</l>
+          <l n="744" xml:id="l744">Et venés m’<ref target="#flame">enflamer</ref> d’un viollent <ref target="#courroux">couroux</ref>,</l>
           <l n="745" xml:id="l745">Je vays par un grand coup servir ma renomée,</l>
           <l n="746" xml:id="l746">Mon amour, ma patrie, et la personne aymée :</l>
           <l n="747" xml:id="l747">Et seray trop heureux de perir estimé,</l>
           <l n="748" xml:id="l748">Mourant pour la patrie et pour l’objet aimé.</l>
-          <label>Fin du second Acte</label></sp>
+          <trailer>Fin du second Acte</trailer></sp>
             </div>
             </div>
           <div type="act"><head>ACTE III</head><pb n="F, 44"/>
@@ -2204,13 +2201,13 @@
         </sp>
         <sp who="trazille">
           <speaker>TRAZILLE</speaker>
-          <l n="799" xml:id="l799">Ces <ref target="#genereux">genereux*</ref> discours, et ces rares bontés</l>
+          <l n="799" xml:id="l799">Ces <ref target="#genereux">genereux</ref> discours, et ces rares bontés</l>
           <l n="800" xml:id="l800">Sont d’assés bons tesmoins du lieu d’où vous sortés,</l>
           <l n="801" xml:id="l801">Et si je ne craignois de me couvrir de blasme</l>
           <l n="802" xml:id="l802">En vous offrant icy mon bras contre une femme,</l>
           <l n="803" xml:id="l803">Vous me verriés respondre à vos nobles ardeurs,</l>
           <l n="804" xml:id="l804">Et du sang d’Isidore apuyer vos grandeurs,</l>
-          <l n="805" xml:id="l805">Vous qui m’avés rendu l’esprit et le <ref target="#courage">courage*</ref></l>
+          <l n="805" xml:id="l805">Vous qui m’avés rendu l’esprit et le <ref target="#courage">courage</ref></l>
           <l n="806" xml:id="l806">En me desbarassant d’une jalouze rage,</l>
           <l n="807" xml:id="l807">Qui me faisoit penser que des traits de pitié</l>
           <l n="808" xml:id="l808">Estoient envers Maxime un effet d’amittié,</l>
@@ -2218,7 +2215,7 @@
           <l n="810" xml:id="l810">Avecque tant d’amour cette injuste foiblesse :<space rend="tab">    </space><pb n="F, 48"/></l>
           <l n="811" xml:id="l811">Mais quoy peut-on aimer sans estre un peu jaloux</l>
           <l n="812" xml:id="l812">Quand l’objet que l’on aime est aussi beau que vous ?</l>
-          <l n="813" xml:id="l813">Et doibt on s’en promettre une faveur <ref target="#insigne">insigne*</ref></l>
+          <l n="813" xml:id="l813">Et doibt on s’en promettre une faveur <ref target="#insigne">insigne</ref></l>
           <l n="814" xml:id="l814">Quand on sçait comme moy que l’on en est indigne ?</l>
         </sp>
         <sp who="honorique">
@@ -2241,7 +2238,7 @@
           <speaker>TRAZILLE</speaker>
           <stage><space rend="tab">    </space>(Bas en s’en allant.)</stage>
           <l n="820" xml:id="l820">Lâche tu sçais bien feindre et je feins bien aussi,</l>
-          <l n="821" xml:id="l821">Et pour mieux <ref target="#travailler">travailler*</ref> à destruire Maxime</l>
+          <l n="821" xml:id="l821">Et pour mieux <ref target="#travailler">travailler</ref> à destruire Maxime</l>
           <l n="822" xml:id="l822">Je ne te monstre point de soupçon de son crime.</l></sp>
           </div>
           <div type="scene"><head>SCENE II</head><pb n="G, 49"/>
@@ -2250,7 +2247,7 @@
           <speaker>HONORIQUE</speaker>
           <l n="823" xml:id="l823"><space rend="tab">    </space>Charmant suplice de mon ame</l>
           <l n="824" xml:id="l824"><space rend="tab">    </space>Celeste et cruel enchanteur,</l>
-          <l n="825" xml:id="l825"><space rend="tab">    </space>Dieu des soupirs, Demon de <ref target="#flame">flame*</ref></l>
+          <l n="825" xml:id="l825"><space rend="tab">    </space>Dieu des soupirs, Demon de <ref target="#flame">flame</ref></l>
           <l n="826" xml:id="l826"><space rend="tab">    </space>Doux Tyran, dangereux flateur,</l>
           <l n="827" xml:id="l827"><space rend="tab">    </space>Amour je sçay que tu m’engages</l>
           <l n="828" xml:id="l828"><space rend="tab">    </space>Sur une mer pleine d’orages,</l>
@@ -2273,9 +2270,9 @@
           <l n="845" xml:id="l845"><space rend="tab">    </space>Ouy je l’aime sans esperance</l>
           <l n="846" xml:id="l846"><space rend="tab">    </space>L’ingrat qui se rit de ma foy,</l>
           <l n="847" xml:id="l847"><space rend="tab">    </space>Et je paye d’indiference</l>
-          <l n="848" xml:id="l848"><space rend="tab">    </space>Les <ref target="#feu1">feux*</ref> qu’un autre sent pour moy.</l>
+          <l n="848" xml:id="l848"><space rend="tab">    </space>Les <ref target="#feu1">feux</ref> qu’un autre sent pour moy.</l>
           <l n="849" xml:id="l849"><space rend="tab">    </space>Amour viens consoller mon ame</l>
-          <l n="850" xml:id="l850"><space rend="tab">    </space>Rends moy de glace ou luy de <ref target="#flame">flame*</ref>,</l>
+          <l n="850" xml:id="l850"><space rend="tab">    </space>Rends moy de glace ou luy de <ref target="#flame">flame</ref>,</l>
           <l n="851" xml:id="l851">Ou punis ses mespris ou gueris mes douleurs,</l>
           <l n="852" xml:id="l852"><space rend="tab">    </space>Mais que je suis peu raisonnable</l>
           <l n="853" xml:id="l853">D’appeller à mon ayde un Tyran redoutable</l>
@@ -2310,7 +2307,7 @@
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
-          <l n="863" xml:id="l863"><hi rend="b"></hi>On me le vient de dire en mon apartement,</l>
+          <l n="863" xml:id="l863"><hi rend="b"/>On me le vient de dire en mon apartement,</l>
           <l n="864" xml:id="l864">Et dans les ambaras d’une frayeur mortelle</l>
           <l n="865" xml:id="l865">Je viens tout en desordre en sçavoir la nouvelle, <space rend="tab">    </space>[G, 52]</l>
           <l n="866" xml:id="l866">Sans estre accompagnée aussitost mon debvoir</l>
@@ -2320,7 +2317,7 @@
           <speaker>HONORIQUE</speaker>
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Quand vous le pourrés voir,</l>
           <l n="868" xml:id="l868">Vous le devés blasmer de ce qu’il se hazarde,</l>
-          <l n="869" xml:id="l869">Et luy donner <ref target="#conseil">conseil*</ref> de redoubler sa garde.</l>
+          <l n="869" xml:id="l869">Et luy donner <ref target="#conseil">conseil</ref> de redoubler sa garde.</l>
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
@@ -2340,11 +2337,11 @@
           <l n="876" xml:id="l876">Et prenant interest en tout ce qui le touche</l>
           <l n="877" xml:id="l877">Quoy qu’un soleil n’ayt pas esclairé nostre couche,</l>
           <l n="878" xml:id="l878">Je partage avec luy la peine et le bonheur,</l>
-          <l n="879" xml:id="l879">Et veux dans mes <ref target="#ennui">ennuys*</ref> vivre en femme d’honneur.</l>
+          <l n="879" xml:id="l879">Et veux dans mes <ref target="#ennui">ennuys</ref> vivre en femme d’honneur.</l>
         </sp>
         <sp who="honorique">
           <speaker>HONORIQUE <pb n="G, 53"/></speaker>
-          <l n="880" xml:id="l880">Les <ref target="#ennui">ennuys*</ref> sont legers qui <ref target="#travailler">travaillent*</ref> vostre ame.</l>
+          <l n="880" xml:id="l880">Les <ref target="#ennui">ennuys</ref> sont legers qui <ref target="#travailler">travaillent</ref> vostre ame.</l>
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
@@ -2364,7 +2361,7 @@
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
-          <l n="885" xml:id="l885">Ouy lors que la vertu sçait reigler le <ref target="#courage">courage*</ref>.</l>
+          <l n="885" xml:id="l885">Ouy lors que la vertu sçait reigler le <ref target="#courage">courage</ref>.</l>
         </sp>
         <sp who="honorique">
           <speaker>HONORIQUE</speaker>
@@ -2380,11 +2377,11 @@
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE <pb n="G, 54"/></speaker>
-          <l n="889" xml:id="l889">Vous vous repentiriés d’estre si <ref target="#genereux">genereuse*</ref>,</l>
+          <l n="889" xml:id="l889">Vous vous repentiriés d’estre si <ref target="#genereux">genereuse</ref>,</l>
         </sp>
         <sp who="honorique">
           <speaker>HONORIQUE</speaker>
-          <l n="890" xml:id="l890">Pourquoy me repentir de ces bons <ref target="#mouvement">mouvements*</ref> ?</l>
+          <l n="890" xml:id="l890">Pourquoy me repentir de ces bons <ref target="#mouvement">mouvements</ref> ?</l>
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
@@ -2414,7 +2411,7 @@
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE <pb n="G, 55"/></speaker>
-          <l n="899" xml:id="l899">Il fait justice à Rome et <ref target="#travailler">travaille*</ref> pour luy.</l>
+          <l n="899" xml:id="l899">Il fait justice à Rome et <ref target="#travailler">travaille</ref> pour luy.</l>
         </sp>
         <sp who="honorique">
           <speaker>HONORIQUE</speaker>
@@ -2430,7 +2427,7 @@
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
-          <l n="903" xml:id="l903">Ce sont des afranchis qui rompirent leurs <ref target="#fer">fers*</ref>.</l>
+          <l n="903" xml:id="l903">Ce sont des afranchis qui rompirent leurs <ref target="#fer">fers</ref>.</l>
         </sp>
         <sp who="honorique">
           <speaker>HONORIQUE</speaker>
@@ -2493,7 +2490,7 @@
           <l n="926" xml:id="l926">Et faisant des serments que l’honneur m’inspiroit</l>
           <l n="927" xml:id="l927">J’ay perdu pour jamais celuy qui m’adoroit,</l>
           <l n="928" xml:id="l928">Aujourdhuy que l’honneur l’arrache de mon ame</l>
-          <l n="929" xml:id="l929">Et fait de grands efforts pour esteindre sa <ref target="#flame">flame*</ref>,</l>
+          <l n="929" xml:id="l929">Et fait de grands efforts pour esteindre sa <ref target="#flame">flame</ref>,</l>
           <l n="930" xml:id="l930">Lors que sa passion esclate malgré moy</l>
           <l n="931" xml:id="l931">L’on me tient sa complice et l’on blasme ma foy,</l>
           <l n="932" xml:id="l932">Ah ! serments trop tost faits. Ah ! funeste memoire,</l>
@@ -2504,7 +2501,7 @@
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Comment ne le pas croire,</l>
           <l n="934" xml:id="l934">Et comment discerner quarante jours apres</l>
           <l n="935" xml:id="l935">Qu’un homme s’est noyé, son visage et ses traits.</l>
-          <l n="936" xml:id="l936">Non, non, mal à propos ce regret vous <ref target="#travailler">travaille*</ref><pb n="H, 58"/></l>
+          <l n="936" xml:id="l936">Non, non, mal à propos ce regret vous <ref target="#travailler">travaille</ref><pb n="H, 58"/></l>
           <l n="937" xml:id="l937">Ce mort eust de Maxime et le poil<note place="bottom"><emph>Poil</emph>, substantif masculin : désigne les cheveux ou la barbe. (Furetière, 1690)</note> et la taille,</l>
           <l n="938" xml:id="l938">Et le plus clair voyant eust creu que ce l’estoit</l>
           <l n="939" xml:id="l939">Luy voyant seulement la bague qu’il portoit.</l>
@@ -2513,17 +2510,17 @@
           <speaker>ISIDORE</speaker>
           <l n="940" xml:id="l940">Helas cette bague ! Ou plustost ce cher gage,</l>
           <l n="941" xml:id="l941">Qui d’un voille de pleurs me couvrit le visage,</l>
-          <l n="942" xml:id="l942">Elle qu’il eust de moy pour flater son <ref target="#ennui">ennuy*</ref>,</l>
+          <l n="942" xml:id="l942">Elle qu’il eust de moy pour flater son <ref target="#ennui">ennuy</ref>,</l>
           <l n="943" xml:id="l943">Et qu’Heracle<note place="bottom">Voir la partie « Genèse de La Mort de Valentinian et d’Isidore » de l’introduction générale. Pour rappel, c’est le serviteur de Valentinian.</note> luy prist en joüant avec luy.</l>
-          <l n="944" xml:id="l944">Mais prenons les <ref target="#conseil">conseils*</ref> d’une ame raisonnable,</l>
+          <l n="944" xml:id="l944">Mais prenons les <ref target="#conseil">conseils</ref> d’une ame raisonnable,</l>
           <l n="945" xml:id="l945">Le chemin le plus rude est le plus honorable,</l>
           <l n="946" xml:id="l946">Et la gloire qui tient le compte de mes maux :</l>
-          <l n="947" xml:id="l947">Ne me veut couronner qu’apres de longs <ref target="#travaux">travaux*</ref></l>
+          <l n="947" xml:id="l947">Ne me veut couronner qu’apres de longs <ref target="#travaux">travaux</ref></l>
           <l n="948" xml:id="l948">Oublions un amant si l’amour qui l’anime</l>
           <l n="949" xml:id="l949">Ne se peut empescher de le noircir d’un crime</l>
           <l n="950" xml:id="l950">Et faisons gloire en fin de cherir un espoux</l>
           <l n="951" xml:id="l951">Qui se deffait d’un crime en s’attachant à nous.</l>
-          <l n="952" xml:id="l952">Forte <ref target="#severite">severité*</ref> qui soustiens mon <ref target="#courage">courage*</ref></l>
+          <l n="952" xml:id="l952">Forte <ref target="#severite">severité</ref> qui soustiens mon <ref target="#courage">courage</ref></l>
           <l n="953" xml:id="l953">Viens t’opposer aux traits du Tyran qui m’outrage,</l>
           <l n="954" xml:id="l954">Desarme cet amour qui nous veut des-unir</l>
           <l n="955" xml:id="l955">Et qui fait plus d’effors estant prest de finir.</l>
@@ -2559,8 +2556,8 @@
         <sp who="maxime">
           <speaker>MAXIME</speaker>
           <l n="969" xml:id="l969">Treuvant l’Empereur seul et l’heure favorable,</l>
-          <l n="970" xml:id="l970">Tout d’un coup la <ref target="#fureur">fureur*</ref> qui regne dans mon sein<pb n="H, 60"/></l>
-          <l n="971" xml:id="l971">Me mist ce fer en main sans en avoir <ref target="#dessein">dessein*</ref>,</l>
+          <l n="970" xml:id="l970">Tout d’un coup la <ref target="#fureur">fureur</ref> qui regne dans mon sein<pb n="H, 60"/></l>
+          <l n="971" xml:id="l971">Me mist ce fer en main sans en avoir <ref target="#dessein">dessein</ref>,</l>
           <l n="972" xml:id="l972">Mais dans le mesme instant craignant de vous desplaire</l>
           <l n="973" xml:id="l973">J’avois desja rougy du coup que j’allois faire,</l>
           <l n="974" xml:id="l974">Et quand je n’aurois pas eu peur d’estre aperceu</l>
@@ -2571,7 +2568,7 @@
           <l n="976" xml:id="l976">Pourquoy veiller si tard ? si tu n’avois envie</l>
           <l n="977" xml:id="l977">De me desobeir en attaquant sa vie,</l>
           <l n="978" xml:id="l978">Et pourquoy te treuver dans le Pallais alors</l>
-          <l n="979" xml:id="l979">Si tu n’estois guidé par d’aveugles <ref target="#transport">transports*</ref> ?</l>
+          <l n="979" xml:id="l979">Si tu n’estois guidé par d’aveugles <ref target="#transport">transports</ref> ?</l>
         </sp>
         <sp who="maxime">
           <speaker>MAXIME</speaker>
@@ -2585,14 +2582,14 @@
           <l n="987" xml:id="l987">Le rigoureux moment qui les doit separer,</l>
           <l n="988" xml:id="l988">Mon amour execif estant au dernier terme</l>
           <l n="989" xml:id="l989">Ne vouloit point quitter le lieu qui vous renferme,</l>
-          <l n="990" xml:id="l990">Et me persuadoit qu’espris de vos <ref target="#appas">apas*</ref></l>
+          <l n="990" xml:id="l990">Et me persuadoit qu’espris de vos <ref target="#appas">apas</ref></l>
           <l n="991" xml:id="l991">Je treuverois l’Enfer où vous ne seriés pas.</l>
           <l n="992" xml:id="l992">Aussi lors que de loing je vous suivois sans cesse <space rend="tab">    </space><pb n="H, 61"/></l>
           <l n="993" xml:id="l993">Mes yeux vous adoroient à travers de la presse<note place="bottom"><emph>Presse</emph>, substantif féminin : la foule. (Richelet, 1680)</note>,</l>
           <l n="994" xml:id="l994">J’enviais le bonheur des lieux où vous marchiés,</l>
           <l n="995" xml:id="l995">Je baignois de mes pleurs tout ce que vous touchiés,</l>
           <l n="996" xml:id="l996">Et quand l’obscurité me donnoit la licence</l>
-          <l n="997" xml:id="l997">D’exaller les ardeurs d’un <ref target="#feu1">feu*</ref> plain d’innocence,</l>
+          <l n="997" xml:id="l997">D’exaller les ardeurs d’un <ref target="#feu1">feu</ref> plain d’innocence,</l>
           <l n="998" xml:id="l998">Par mes tristes sanglots j’invoquois le trépas,</l>
           <l n="999" xml:id="l999">Et baisois mille fois la trace de vos pas,</l>
           <l n="1000" xml:id="l1000">Dans les vastes destours de ces sombres demeures</l>
@@ -2611,7 +2608,7 @@
         <sp who="maxime">
           <speaker>MAXIME</speaker>
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ah ! pardonnés Madame,</l>
-          <l n="1009" xml:id="l1009">À ces tristes enfans d’une mourante <ref target="#flame">flame*</ref>,</l>
+          <l n="1009" xml:id="l1009">À ces tristes enfans d’une mourante <ref target="#flame">flame</ref>,</l>
           <l n="1010" xml:id="l1010">Ces malheureux tesmoings sont aux derniers aboys,</l>
           <l n="1011" xml:id="l1011">Et vous parlant d’amour pour la derniere fois,</l>
           <l n="1012" xml:id="l1012" part="I">Hellas…</l>
@@ -2634,7 +2631,7 @@
           <l n="1025" xml:id="l1025">Dont l’abort est charmant et les routes glissantes,</l>
           <l n="1026" xml:id="l1026">Que par trop de clartés elle peut s’aveugler ;</l>
           <l n="1027" xml:id="l1027">Et va parfois plus loing qu’elle ne croist aller</l>
-          <l n="1028" xml:id="l1028">Aussi pour <ref target="#prevenir">prevenir*</ref> ces dangereuses suittes</l>
+          <l n="1028" xml:id="l1028">Aussi pour <ref target="#prevenir">prevenir</ref> ces dangereuses suittes</l>
           <l n="1029" xml:id="l1029">Souffre que je me donne à ces sages conduittes,</l>
           <l n="1030" xml:id="l1030">Qui d’un œil prevoyant nous forcent d’eviter</l>
           <l n="1031" xml:id="l1031">Tout ce qui pour nous perdre a droit de nous flater.</l>
@@ -2644,16 +2641,16 @@
           <l n="1035" xml:id="l1035">Face pour arracher ton portraict de mon coeur.</l>
           <l n="1036" xml:id="l1036">Je ne t’en puis donner de plus grands tesmoignagnes</l>
           <l n="1037" xml:id="l1037">De peur de rapeller de charmantes images, <space rend="tab">    </space><pb n="H, 63"/></l>
-          <l n="1038" xml:id="l1038">Qui par un doux <ref target="#transport">transport*</ref> flattant mon souvenir</l>
+          <l n="1038" xml:id="l1038">Qui par un doux <ref target="#transport">transport</ref> flattant mon souvenir</l>
           <l n="1039" xml:id="l1039">Ne t’y fissent rentrer quand je t’en veux bannir,</l>
           <l n="1040" xml:id="l1040">Mais veux tu signaller par des exces loüables</l>
           <l n="1041" xml:id="l1041">D’un vertueux amour les titres honorables</l>
           <l n="1042" xml:id="l1042">Et ne nous plus causer de tourments superflus,</l>
           <l n="1043" xml:id="l1043">Faisons effort, Maxime, et ne nous voyons plus,</l>
-          <l n="1044" xml:id="l1044">D’un <ref target="#genereux2">genereux*</ref> mespris paye une malheureuse</l>
-          <l n="1045" xml:id="l1045">Qui veut en te quittant parestre <ref target="#genereux2">genereuse*</ref>,</l>
+          <l n="1044" xml:id="l1044">D’un <ref target="#genereux2">genereux</ref> mespris paye une malheureuse</l>
+          <l n="1045" xml:id="l1045">Qui veut en te quittant parestre <ref target="#genereux2">genereuse</ref>,</l>
           <l n="1046" xml:id="l1046">Reprens le trait fatal dont son coeur fust attaint,</l>
-          <l n="1047" xml:id="l1047">Et cesse de brusler quand son <ref target="#feu1">feu*</ref> s’est esteint :</l>
+          <l n="1047" xml:id="l1047">Et cesse de brusler quand son <ref target="#feu1">feu</ref> s’est esteint :</l>
           <l n="1048" xml:id="l1048">Va t’en sors du Pallais et songe je te prie,</l>
           <l n="1049" xml:id="l1049">Que si quelqu’un passoit dans cette gallerie,</l>
           <l n="1050" xml:id="l1050">N’ayant pour tous tesmoings qu’une fille avec nous</l>
@@ -2682,7 +2679,7 @@
           <speaker>MAXIME</speaker>
           <l n="1056" xml:id="l1056">Hé bien si vous voullés que je vous abandonne</l>
           <l n="1057" xml:id="l1057">Donnés m’en dont la force, ou qu’amour me la donne,</l>
-          <l n="1058" xml:id="l1058">Dans mes brullants <ref target="#transport">transports*</ref> je reste sans vigueur</l>
+          <l n="1058" xml:id="l1058">Dans mes brullants <ref target="#transport">transports</ref> je reste sans vigueur</l>
           <l n="1059" xml:id="l1059">Et pers en vous perdant et l’esprit et le coeur,</l>
           <l n="1060" xml:id="l1060">Vous avés oublié pour servir la patrie</l>
           <l n="1061" xml:id="l1061">Celluy qui vous avoit si tendrement cherie,</l>
@@ -2690,7 +2687,7 @@
           <l n="1063" xml:id="l1063">Vous troublés mon repos, vous blasmés mes plaisirs,</l>
           <l n="1064" xml:id="l1064">Vous m’ostés les douceurs d’une juste vengeance,</l>
           <l n="1065" xml:id="l1065">Me deffendés l’espoir de la moindre alegence,</l>
-          <l n="1066" xml:id="l1066">Et m’accablant d’<ref target="#ennui">ennuis*</ref> par un long desespoir</l>
+          <l n="1066" xml:id="l1066">Et m’accablant d’<ref target="#ennui">ennuis</ref> par un long desespoir</l>
           <l n="1067" xml:id="l1067">Vous me voullés encor deffendre de vous voir.</l>
           <l n="1068" xml:id="l1068">Hellas ! considerés qu’en cet estas funeste</l>
           <l n="1069" xml:id="l1069">Vos regards sont enfin le seul bien qui me reste,</l>
@@ -2723,15 +2720,15 @@
           <l n="1079" xml:id="l1079">Et remplir de ton nom tout ce vaste Univers,</l>
           <l n="1080" xml:id="l1080">Pour divertir le cours de mes peines mortelles</l>
           <l n="1081" xml:id="l1081">La gloire me viendra dire de tes nouvelles,</l>
-          <l n="1082" xml:id="l1082">Et nous <ref target="#rencontrer2">rencontrerons*</ref> par de nobles efforts</l>
+          <l n="1082" xml:id="l1082">Et nous <ref target="#rencontrer2">rencontrerons</ref> par de nobles efforts</l>
           <l n="1083" xml:id="l1083">L’union des esprits en divisant les corps,</l>
           <l n="1084" xml:id="l1084">L’honneur qui me defend de te voir d’aventage</l>
-          <l n="1085" xml:id="l1085">Ne me deffendra pas d’admirer ton <ref target="#courage">courage*</ref>,</l>
+          <l n="1085" xml:id="l1085">Ne me deffendra pas d’admirer ton <ref target="#courage">courage</ref>,</l>
           <l n="1086" xml:id="l1086">Et quand je n’auray plus l’espoir de te revoir</l>
-          <l n="1087" xml:id="l1087">Je m’esmenciperay sans <ref target="#choquer">choquer*</ref> mon debvoir,</l>
+          <l n="1087" xml:id="l1087">Je m’esmenciperay sans <ref target="#choquer">choquer</ref> mon debvoir,</l>
           <l n="1088" xml:id="l1088">Et rapellant alors ton fentosme agreable</l>
           <l n="1089" xml:id="l1089">Je ne rougiray point de t’advouer aimable,</l>
-          <l n="1090" xml:id="l1090">Et de m’abandonner à ces <ref target="#feu1">feux*</ref> innocens<space rend="tab">    </space><pb n="I, 66"/></l>
+          <l n="1090" xml:id="l1090">Et de m’abandonner à ces <ref target="#feu1">feux</ref> innocens<space rend="tab">    </space><pb n="I, 66"/></l>
           <l n="1091" xml:id="l1091">Qui flattent nos esprits sans eschauffer nos sens,</l>
           <l n="1092" xml:id="l1092">Que desire tu plus adieu croy que je t’aime</l>
           <l n="1093" xml:id="l1093">Et qu’en t’abandonnant ma doulleur est extreme</l>
@@ -2740,7 +2737,7 @@
         </sp>
         <sp who="maxime">
           <speaker>MAXIME</speaker>
-          <l part="F"><space rend="tab">    </space>Souffrés au moings ces restes de mon <ref target="#feu1">feu*</ref>,</l>
+          <l part="F"><space rend="tab">    </space>Souffrés au moings ces restes de mon <ref target="#feu1">feu</ref>,</l>
           <l n="1096" xml:id="l1096" part="I">Et sur ces belles mains.</l>
         </sp>
         <sp who="isidore">
@@ -2763,14 +2760,14 @@
           <l n="1101" xml:id="l1101" part="I"><hi rend="sc">Mo</hi>n amy puis-je entrer ?</l>
         </sp>
         <sp who="albin">
-          <speaker>LE GARDE ou Albin</speaker>
+          <speaker>LE GARDE</speaker> <stage>ou Albin</stage>
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>L’Empereur sort Madame.</l>
         </sp>
         <sp who="valentinian">
           <speaker>VALENTINIAN</speaker>
           <l n="1102" xml:id="l1102">D’où venés vous Madame, comment ozés vous</l>
           <l n="1103" xml:id="l1103">Venir voir si je suis eschapé de vos coups,</l>
-          <l n="1104" xml:id="l1104">Quelle <ref target="#fureur">fureur*</ref> vous trouble et quel <ref target="#transport">transport*</ref> vous guide</l>
+          <l n="1104" xml:id="l1104">Quelle <ref target="#fureur">fureur</ref> vous trouble et quel <ref target="#transport">transport</ref> vous guide</l>
           <l n="1105" xml:id="l1105">À venir achever le coup d’un paricide.</l>
         </sp>
         <sp who="isidore">
@@ -2779,16 +2776,16 @@
         </sp>
         <sp who="valentinian">
           <speaker>VALENTINIAN</speaker>
-          <l part="F"><space rend="tab">    </space><space rend="tab">    </space>Vos <ref target="#conseil">conseils*</ref> ont fort mal assisté<note place="bottom"><emph>Assister</emph>, verbe : plusieurs significations au XVII<hi rend="sup">e</hi> siècle. Sens 1 : prêter secours à quelqu’un. Sens 2 : être présent. Sens 3 : accompagner quelqu’un. Sens 4 : conseiller. Ici, il faut comprendre le vers selon le sens 1, c’est-à-dire de porter secours. </note></l>
+          <l part="F"><space rend="tab">    </space><space rend="tab">    </space>Vos <ref target="#conseil">conseils</ref> ont fort mal assisté<note place="bottom"><emph>Assister</emph>, verbe : plusieurs significations au XVII<hi rend="sup">e</hi> siècle. Sens 1 : prêter secours à quelqu’un. Sens 2 : être présent. Sens 3 : accompagner quelqu’un. Sens 4 : conseiller. Ici, il faut comprendre le vers selon le sens 1, c’est-à-dire de porter secours. </note></l>
           <l n="1107" xml:id="l1107">Et je reste vivant du coup qu’il a porté.</l>
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE<pb n="I, 68"/></speaker>
-          <l n="1108" xml:id="l1108" part="I">Ah Seigneur ! mes <ref target="#conseil">conseils*</ref>.</l>
+          <l n="1108" xml:id="l1108" part="I">Ah Seigneur ! mes <ref target="#conseil">conseils</ref>.</l>
         </sp>
         <sp who="valentinian">
           <speaker>VALENTINIAN</speaker>
-          <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ouy tes <ref target="#conseil">conseils*</ref> perfide</l>
+          <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ouy tes <ref target="#conseil">conseils</ref> perfide</l>
           <l n="1109" xml:id="l1109">Femme pernicieuse execrable homicide,</l>
           <l n="1110" xml:id="l1110">Toy pour qui j’immolois ma gloire et ma grandeur,</l>
           <l n="1111" xml:id="l1111">Et que j’avois cherie avecque tant d’ardeur :</l>
@@ -2809,7 +2806,7 @@
           <speaker>VALENTINIAN</speaker>
           <l part="F"><space rend="tab">    </space>Tu ne sçaurois me tromper d’aventage</l>
           <l n="1121" xml:id="l1121">Toutte ma passion s’est convertie en rage,</l>
-          <l n="1122" xml:id="l1122">Mes <ref target="#feu1">feux*</ref> en desespoir, mes respects en <ref target="#fureur">fureur*</ref></l>
+          <l n="1122" xml:id="l1122">Mes <ref target="#feu1">feux</ref> en desespoir, mes respects en <ref target="#fureur">fureur</ref></l>
           <l n="1123" xml:id="l1123">Tes beautés en deffauts et ta grace en horreur,</l>
           <l n="1124" xml:id="l1124">Mes yeux sont dessillés<note place="bottom"><emph>Désillé</emph>, participe passé : le verber <emph>désiller</emph> est l’action d’ouvrir les yeux. S’emploie également au sens figuré pour désigner les yeux de l’esprit, les ouvrir c’est se rendre compte de quelque chose. (Furetière, 1690)</note> je n’ay plus d’indulgence</l>
           <l n="1125" xml:id="l1125">Je brusle lentement du desir de vengeance, <space rend="tab">    </space><pb n="I, 69"/></l>
@@ -2820,9 +2817,9 @@
           <l n="1130" xml:id="l1130">Te donner d’heure en heure à des tourmens nouveaux</l>
           <l n="1131" xml:id="l1131">Et faire vanité d’animer tes boureaux,</l>
           <l n="1132" xml:id="l1132">Un desespoir horible est maistre de mon ame</l>
-          <l n="1133" xml:id="l1133">Je n’ay plus pour objets que le fer et la flame*</l>
-          <l n="1134" xml:id="l1134">Et dans ces grands <ref target="#transport">transports*</ref> l’amour n’est plus en moy</l>
-          <l n="1135" xml:id="l1135">Qu’un Dieu de sang, de cris, de <ref target="#courroux">couroux*</ref> et d’effroy,</l>
+          <l n="1133" xml:id="l1133">Je n’ay plus pour objets que le fer et la flame</l>
+          <l n="1134" xml:id="l1134">Et dans ces grands <ref target="#transport">transports</ref> l’amour n’est plus en moy</l>
+          <l n="1135" xml:id="l1135">Qu’un Dieu de sang, de cris, de <ref target="#courroux">couroux</ref> et d’effroy,</l>
           <l n="1136" xml:id="l1136">Albin que l’on l’emmeine, et qu’on cherche Maxime.</l>
         </sp>
         <sp who="isidore">
@@ -2831,7 +2828,7 @@
         </sp>
         <sp who="valentinian">
           <speaker>VALENTINIAN</speaker>
-          <l part="F"><space rend="tab">    </space><space rend="tab">    </space>Mon <ref target="#conseil3">conseil*</ref> jugera de ton crime</l>
+          <l part="F"><space rend="tab">    </space><space rend="tab">    </space>Mon <ref target="#conseil3">conseil</ref> jugera de ton crime</l>
           <l n="1138" xml:id="l1138">C’est toutte la faveur que tu doibs esperer.</l>
         </sp>
         <sp who="isidore">
@@ -2869,7 +2866,7 @@
           <l n="1151" xml:id="l1151">Que ce charmant objet ne se plaigne de rien,</l>
           <l n="1152" xml:id="l1152">Et renvoyés tous ceux qui vous servoyent d’escorte</l>
           <l n="1153" xml:id="l1153">O foible dangereux ? ô passion trop forte,</l>
-          <l n="1154" xml:id="l1154">Helas ! en quel estat m’ont reduit mes <ref target="#transport">transports*</ref></l>
+          <l n="1154" xml:id="l1154">Helas ! en quel estat m’ont reduit mes <ref target="#transport">transports</ref></l>
           <l n="1155" xml:id="l1155">Pour ne m’abandonner qu’à de presens remords</l>
           <l n="1156" xml:id="l1156">Amour… mais le voicy cet objet adorable</l>
           <l n="1157" xml:id="l1157">Cessés de souspirer ? ô charmante coupable,</l>
@@ -2881,9 +2878,9 @@
           <l n="1163" xml:id="l1163">Et la nescessité de mourir en aimant,</l>
           <l n="1164" xml:id="l1164">Je ne m’en deffends point et veux quoy qu’il arive</l>
           <l n="1165" xml:id="l1165">Finir en vous aimant d’une ardeur excessive</l>
-          <l n="1166" xml:id="l1166">Vostre haine ne peut atirer mon <ref target="#courroux">couroux*</ref></l>
+          <l n="1166" xml:id="l1166">Vostre haine ne peut atirer mon <ref target="#courroux">couroux</ref></l>
           <l n="1167" xml:id="l1167">Je ne vous puis hayr estant hay de vous</l>
-          <l n="1168" xml:id="l1168">Mon coeur est tout de <ref target="#feu1">feu*</ref> quand le vostre est de glace</l>
+          <l n="1168" xml:id="l1168">Mon coeur est tout de <ref target="#feu1">feu</ref> quand le vostre est de glace</l>
           <l n="1169" xml:id="l1169">Quand vous me condamnés je signe vostre grace,</l>
           <l n="1170" xml:id="l1170">Quand vous causés mes maux je finis vos doulleurs</l>
           <l n="1171" xml:id="l1171">Et vous offre mon sang pour espargner vos pleurs,</l>
@@ -2919,7 +2916,7 @@
         </sp>
         <sp who="valentinian">
           <speaker>VALENTINIAN</speaker>
-          <l n="1192" xml:id="l1192">La mort a des douceurs qui ne font point d’<ref target="#ennui">enuie*</ref>.</l>
+          <l n="1192" xml:id="l1192">La mort a des douceurs qui ne font point d’<ref target="#ennui">enuie</ref>.</l>
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
@@ -2949,7 +2946,7 @@
           <l n="1200" xml:id="l1200">Allés je ne veux plus vous voir ny vous entendre</l>
           <l n="1201" xml:id="l1201">Et n’estoit les efforts d’une amittié si tendre,</l>
           <l n="1202" xml:id="l1202">Qui me laissent pour vous un amour sans pareil</l>
-          <l n="1203" xml:id="l1203">Vous vous justifiriés devant tout mon <ref target="#conseil3">conseil*</ref>,</l>
+          <l n="1203" xml:id="l1203">Vous vous justifiriés devant tout mon <ref target="#conseil3">conseil</ref>,</l>
           <l n="1204" xml:id="l1204">Et nous verions apres si vous seriés absoute</l>
           <l n="1205" xml:id="l1205">Mais enfin pour Maxime il périra sans doute,</l>
           <l n="1206" xml:id="l1206">C’est un point resolu, qu’on le treuve au plustost</l>
@@ -2960,7 +2957,7 @@
           <speaker>ISIDORE</speaker>
           <l n="1209" xml:id="l1209">Les Tyrans font les lois et les Dieux sont leurs juges.</l>
           </sp>
-          <label>Fin du troisieme Acte</label>
+          <trailer>Fin du troisieme Acte</trailer>
           </div>
             </div>
           <div type="act"><head>ACTE IV</head><pb n="K, 74"/>
@@ -2972,7 +2969,7 @@
           <l n="1211" xml:id="l1211">Tasche à se divertir dans les jardins d’Horace<note place="bottom">Voir la partie « Les sources historiques » de l’introduction générale.</note>,</l>
           <l n="1212" xml:id="l1212">Et que par son absence il deserte ce lieu</l>
           <l n="1213" xml:id="l1213">Je viens vous y redire un eternel adieu</l>
-          <l n="1214" xml:id="l1214">En vain son grand <ref target="#courroux">couroux*</ref> a menacé ma teste</l>
+          <l n="1214" xml:id="l1214">En vain son grand <ref target="#courroux">couroux</ref> a menacé ma teste</l>
           <l n="1215" xml:id="l1215">Puisque dans son Pallais je brave la tempeste</l>
           <l n="1216" xml:id="l1216">Lors que pour me soustraire à son ressentiment,</l>
           <l n="1217" xml:id="l1217">Sa soeur me tient caché dans son apartement,</l>
@@ -3012,7 +3009,7 @@
         </sp>
         <sp who="maxime">
           <speaker>MAXIME</speaker>
-          <l n="1230" xml:id="l1230">Mais touttefois Madame, il n’est point de <ref target="#rencontre">rencontre*</ref></l>
+          <l n="1230" xml:id="l1230">Mais touttefois Madame, il n’est point de <ref target="#rencontre">rencontre</ref></l>
           <l n="1231" xml:id="l1231">Où pour mes interests son zelle ne se monstre, <space rend="tab">    </space><pb n="K, 76"/></l>
           <l n="1232" xml:id="l1232">Et c’est elle qui fist, comme on sçait à la Cour</l>
           <l n="1233" xml:id="l1233">Que Valentinian, me conserva le jour.</l>
@@ -3033,7 +3030,7 @@
           <speaker>MAXIME</speaker>
           <l n="1236" xml:id="l1236">Dieux ? elle me faisoit esquiper un vaisseau</l>
           <l n="1237" xml:id="l1237">Pour me sauver ce soir à la faveur de l’eau,</l>
-          <l n="1238" xml:id="l1238">Et dans son cabinet m’<ref target="#asseurer">asseuroit*</ref> elle mesme :</l>
+          <l n="1238" xml:id="l1238">Et dans son cabinet m’<ref target="#asseurer">asseuroit</ref> elle mesme :</l>
           <l n="1239" xml:id="l1239">Avec mille bontés.</l>
         </sp>
         <sp who="isidore">
@@ -3048,13 +3045,13 @@
           <l n="1243" xml:id="l1243">Helas que deviendray je en vous ayant laissée,</l>
           <l n="1244" xml:id="l1244">Pour la derniere fois je reviens vous treuver <space rend="tab">    </space><pb n="K, 77"/></l>
           <l n="1245" xml:id="l1245">Pour obtenir de vous le bien de vous sauver,</l>
-          <l n="1246" xml:id="l1246">Ayant sceu qu’un Tyran dans sa <ref target="#fureur">fureur*</ref> jalouse</l>
+          <l n="1246" xml:id="l1246">Ayant sceu qu’un Tyran dans sa <ref target="#fureur">fureur</ref> jalouse</l>
           <l n="1247" xml:id="l1247">Vous traitte comme Esclave, et non pas comme espouse,</l>
           <l n="1248" xml:id="l1248">Qu’il menace vos jours, vous qui le conservés,</l>
           <l n="1249" xml:id="l1249">Et qui faites pour luy plus que vous ne debvés,</l>
           <l n="1250" xml:id="l1250">Mais ne prodigués plus des bontés condamnables</l>
           <l n="1251" xml:id="l1251">Que l’on peut acuser de tant d’actes coupables,</l>
-          <l n="1252" xml:id="l1252">Et n’ayés plus pour luy des <ref target="#generosite">generosités*</ref></l>
+          <l n="1252" xml:id="l1252">Et n’ayés plus pour luy des <ref target="#generosite">generosités</ref></l>
           <l n="1253" xml:id="l1253">Qui donnent lieu d’agir à tant de cruautés,</l>
           <l n="1254" xml:id="l1254">Cessés de m’apaiser quand l’amour me transporte</l>
           <l n="1255" xml:id="l1255">N’arestés point mes coups quand la raison les porte,</l>
@@ -3064,13 +3061,13 @@
           <l n="1259" xml:id="l1259">Et vous reduise au point de luy demander grace</l>
           <l n="1260" xml:id="l1260">Je ne puis endurer qu’il se plaigne de vous</l>
           <l n="1261" xml:id="l1261">Ny souffrir qu’il vous parle autrement qu’à genoux,</l>
-          <l n="1262" xml:id="l1262">Qu’il soit dans le respect je souffriray sa flame*</l>
+          <l n="1262" xml:id="l1262">Qu’il soit dans le respect je souffriray sa flame</l>
           <l n="1263" xml:id="l1263">Qu’il vous donne son coeur je luy quitte vostre ame,</l>
           <l n="1264" xml:id="l1264">Qu’il espargne vos pleurs il me sera tres cher</l>
           <l n="1265" xml:id="l1265">Et quelques interests qui me puissent toucher,</l>
           <l n="1266" xml:id="l1266">Je me resouviendray dans mon malheur extreme</l>
           <l n="1267" xml:id="l1267">Que je dois respecter la moittié de vous mesme,</l>
-          <l n="1268" xml:id="l1268">Mais quand il vous expose aux traits de son <ref target="#courroux">couroux*</ref></l>
+          <l n="1268" xml:id="l1268">Mais quand il vous expose aux traits de son <ref target="#courroux">couroux</ref></l>
           <l n="1269" xml:id="l1269">Je ne le connois plus pour estre vostre espoux</l>
           <l n="1270" xml:id="l1270">Aussi vos deux moittiés ont trop de dissemblance</l>
           <l n="1271" xml:id="l1271">L’une est toutte de crime et l’autre d’innocence, <space rend="tab">    </space><pb n="K, 78"/></l>
@@ -3102,12 +3099,12 @@
           <l n="1280" xml:id="l1280">Qu’il abrege plustot le destin de mes jours</l>
           <l n="1281" xml:id="l1281">Et voy sans repugnance en terminer le cours,</l>
           <l n="1282" xml:id="l1282">Réveille toy Maxime et chasse de ton ame</l>
-          <l n="1283" xml:id="l1283">Cette sombre <ref target="#fureur">fureur*</ref> qui noirciroit ta <ref target="#flame">flame*</ref></l>
+          <l n="1283" xml:id="l1283">Cette sombre <ref target="#fureur">fureur</ref> qui noirciroit ta <ref target="#flame">flame</ref></l>
           <l n="1284" xml:id="l1284">Esleve tes desirs que trop d’ardeur abat</l>
           <l n="1285" xml:id="l1285">Et viens chercher la gloire au milieu du combat,</l>
-          <l n="1286" xml:id="l1286">Suy moy dans les <ref target="#travaux">travaux*</ref> où la vertu m’appelle <space rend="tab">    </space><pb n="K, 79"/></l>
+          <l n="1286" xml:id="l1286">Suy moy dans les <ref target="#travaux">travaux</ref> où la vertu m’appelle <space rend="tab">    </space><pb n="K, 79"/></l>
           <l n="1287" xml:id="l1287">Vien me parler d’amour, en souffrant avec elle,</l>
-          <l n="1288" xml:id="l1288">Et chassant de ton coeur de honteux <ref target="#mouvement">mouvements*</ref></l>
+          <l n="1288" xml:id="l1288">Et chassant de ton coeur de honteux <ref target="#mouvement">mouvements</ref></l>
           <l n="1289" xml:id="l1289">Ne t’abandonne plus qu’à de haults sentimens,</l>
           <l n="1290" xml:id="l1290">Si le Ciel m’a soumise au pouvoir d’un barbare</l>
           <l n="1291" xml:id="l1291">Garde de murmurer du coup qui m’en separe,</l>
@@ -3141,7 +3138,7 @@
         </sp>
         <sp who="maxime">
           <speaker>MAXIME</speaker>
-          <l n="1310" xml:id="l1310">Triste raisonnement d’une ame <ref target="#genereux">genereuse*</ref></l>
+          <l n="1310" xml:id="l1310">Triste raisonnement d’une ame <ref target="#genereux">genereuse</ref></l>
           <l n="1311" xml:id="l1311">Helas puis-je souffrir de vous voir malheureuse,</l>
           <l n="1312" xml:id="l1312">D’autant plus qu’en vos maux on me poura blasmer</l>
           <l n="1313" xml:id="l1313">Si vous ne les souffrés que pour me trop aimer :</l>
@@ -3158,14 +3155,14 @@
           <l n="1324" xml:id="l1324">Qui ne reconnoissant les hommes, ny les Dieux,</l>
           <l n="1325" xml:id="l1325">Est l’horreur de la terre et la haine des Cieux.</l>
           <l n="1326" xml:id="l1326">Non je n’escoute plus ces vertus heroïques</l>
-          <l n="1327" xml:id="l1327">Qui souffrent sans punir des flames* Tyraniques,</l>
-          <l n="1328" xml:id="l1328">Et ne puis apreuver la <ref target="#generosite">generosité*</ref></l>
+          <l n="1327" xml:id="l1327">Qui souffrent sans punir des flames Tyraniques,</l>
+          <l n="1328" xml:id="l1328">Et ne puis apreuver la <ref target="#generosite">generosité</ref></l>
           <l n="1329" xml:id="l1329">Qui deffend le party de l’inhumanité,</l>
           <l n="1330" xml:id="l1330">S’il faut par vos tourments illustrer ma memoire <space rend="tab">    </space><pb n="L, 81"/></l>
           <l n="1331" xml:id="l1331">Je suis lasche Madame, et renonce à la gloire,</l>
-          <l n="1332" xml:id="l1332">Ce sentiment farouche excitte mon <ref target="#courroux">courroux*</ref>,</l>
+          <l n="1332" xml:id="l1332">Ce sentiment farouche excitte mon <ref target="#courroux">courroux</ref>,</l>
           <l n="1333" xml:id="l1333">Et je ne connois plus d’autre vertu que vous,</l>
-          <l n="1334" xml:id="l1334">N’importe que percé de mille <ref target="#hallebarde">hallebardes*</ref></l>
+          <l n="1334" xml:id="l1334">N’importe que percé de mille <ref target="#hallebarde">hallebardes</ref></l>
           <l n="1335" xml:id="l1335">Je tombe aux pieds d’un lache accablé de ses Gardes,</l>
           <l n="1336" xml:id="l1336">Pourveu que dans son sein j’enfonce ce poignard.</l>
           <l n="1337" xml:id="l1337">La mort pour m’enlever viendra tousjours trop tard,</l>
@@ -3178,18 +3175,18 @@
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
-          <l n="1344" xml:id="l1344">Ah ! Maxime retiens ces <ref target="#transport">transports*</ref> superflus,</l>
+          <l n="1344" xml:id="l1344">Ah ! Maxime retiens ces <ref target="#transport">transports</ref> superflus,</l>
           <l n="1345" xml:id="l1345">Et sois plus raisonnable, ou ne me parle plus,</l>
           <l n="1346" xml:id="l1346">Dedans ton desespoir ouvre les yeux de l’ame,</l>
           <l n="1347" xml:id="l1347">Et considere enfin comme une honneste femme,</l>
           <l n="1348" xml:id="l1348">Doibt souffrir un discours, qui menace un espoux.</l>
-          <l n="1349" xml:id="l1349">Si tu ne peux calmer ce violent <ref target="#courroux">courroux*</ref>,</l>
-          <l n="1350" xml:id="l1350">Esloigne toy de grace et <ref target="#prevenir">previens*</ref> la menace</l>
-          <l n="1351" xml:id="l1351">Que mes <ref target="#severite">severités*</ref> veullent que je te face,</l>
+          <l n="1349" xml:id="l1349">Si tu ne peux calmer ce violent <ref target="#courroux">courroux</ref>,</l>
+          <l n="1350" xml:id="l1350">Esloigne toy de grace et <ref target="#prevenir">previens</ref> la menace</l>
+          <l n="1351" xml:id="l1351">Que mes <ref target="#severite">severités</ref> veullent que je te face,</l>
           <l n="1352" xml:id="l1352">Je sens que ma vertu se plaint de tes discours,</l>
           <l n="1353" xml:id="l1353">Et qu’enfin mon honneur s’apreste à son secours</l>
           <l n="1354" xml:id="l1354">Tout est dedans mon coeur ligué pour sa deffence</l>
-          <l n="1355" xml:id="l1355">Et pour veincre un amour, qui <ref target="#choquer">choque*</ref> l’innocence <space rend="tab">    </space><pb n="L, 82"/></l>
+          <l n="1355" xml:id="l1355">Et pour veincre un amour, qui <ref target="#choquer">choque</ref> l’innocence <space rend="tab">    </space><pb n="L, 82"/></l>
           <l n="1356" xml:id="l1356">Ces esprits enflammés, qui me pressoient pour toy,</l>
           <l n="1357" xml:id="l1357">Sont desja revoltés et s’arment contre moy.</l>
           <l n="1358" xml:id="l1358">He quoy si je t’aimois et si tu m’as aimée,</l>
@@ -3199,10 +3196,10 @@
           <l n="1362" xml:id="l1362">Car quoy que fasse en moy cette flatteuse Idée</l>
           <l n="1363" xml:id="l1363">Qui de douces erreurs m’a tousjours obsedée,</l>
           <l n="1364" xml:id="l1364">Je n’en fuis point esclave et ses plus grands efforts</l>
-          <l n="1365" xml:id="l1365">Ne peuvent m’emporter, qu’à d’innocents <ref target="#transport">transports*</ref>.</l>
+          <l n="1365" xml:id="l1365">Ne peuvent m’emporter, qu’à d’innocents <ref target="#transport">transports</ref>.</l>
           <l n="1366" xml:id="l1366">Aime moy j’y consens, mais d’un amour tranquille :</l>
           <l n="1367" xml:id="l1367">Qui ramene au debvoir ton esprit indocile</l>
-          <l n="1368" xml:id="l1368">Qui rende la vigueur à des <ref target="#feu1">feux*</ref> innocens</l>
+          <l n="1368" xml:id="l1368">Qui rende la vigueur à des <ref target="#feu1">feux</ref> innocens</l>
           <l n="1369" xml:id="l1369">Et qui puisse accorder l’esprit avec les sens :</l>
           <l n="1370" xml:id="l1370">Car enfin si jamais ta passion hazarde</l>
           <l n="1371" xml:id="l1371">L’espoux, dont ma parole est la plus seure garde,</l>
@@ -3254,7 +3251,7 @@
           <l n="1397" xml:id="l1397">Seigneur continués ces obligeans propos,</l>
           <l n="1398" xml:id="l1398">Il est beau d’exposer la gloire d’une femme,</l>
           <l n="1399" xml:id="l1399">Dont l’indiscretion se va couvrir de blasme,</l>
-          <l n="1400" xml:id="l1400">Et dont l’impieté par un hardy <ref target="#dessein">dessein*</ref></l>
+          <l n="1400" xml:id="l1400">Et dont l’impieté par un hardy <ref target="#dessein">dessein</ref></l>
           <l n="1401" xml:id="l1401">Contre son propre sang protege un assassin.</l>
           <l n="1402" xml:id="l1402">Comment ? Quand je prens soing de sauver vostre teste</l>
           <l n="1403" xml:id="l1403">Vous exposés la mienne aux coups de la tempeste</l>
@@ -3298,17 +3295,17 @@
         </sp>
         <sp who="honorique">
           <speaker>HONORIQUE</speaker>
-          <l n="1424" xml:id="l1424">Ah : dois je declarer mes <ref target="#feu1">feux*</ref> à cet ingrat ?</l>
+          <l n="1424" xml:id="l1424">Ah : dois je declarer mes <ref target="#feu1">feux</ref> à cet ingrat ?</l>
           <l n="1425" xml:id="l1425">J’aime… ouy j’aime peu le bien de cet estat.</l>
           <l n="1426" xml:id="l1426">Puis qu’enfin je deffends son mortel adversaire ?</l>
-          <l n="1427" xml:id="l1427">Ah ! Seigneur est-ce aimer… Dieux est-ce aimer mon frere<hi rend="b"></hi><pb n="L, 86"/></l>
-          <l n="1428" xml:id="l1428"><hi rend="b"></hi>J’ay pensé m’eschaper : ô ma langue ! ô mon coeur.</l>
+          <l n="1427" xml:id="l1427">Ah ! Seigneur est-ce aimer… Dieux est-ce aimer mon frere<hi rend="b"/><pb n="L, 86"/></l>
+          <l n="1428" xml:id="l1428"><hi rend="b"/>J’ay pensé m’eschaper : ô ma langue ! ô mon coeur.</l>
         </sp>
         <sp who="maxime">
           <speaker>MAXIME</speaker>
           <l n="1429" xml:id="l1429">Madame ce grand trouble est l’effet de la peur,</l>
           <l n="1430" xml:id="l1430">Et je reconnois bien que vostre ame inquiete</l>
-          <l n="1431" xml:id="l1431">Ne sçauroit demeurer dans une esgalle <ref target="#assiette">assiette*</ref>,</l>
+          <l n="1431" xml:id="l1431">Ne sçauroit demeurer dans une esgalle <ref target="#assiette">assiette</ref>,</l>
           <l n="1432" xml:id="l1432">Que craignant le reproche elle voudroit laisser</l>
           <l n="1433" xml:id="l1433">Le party d’un ingrat, qu’elle vient d’embrasser</l>
           <l n="1434" xml:id="l1434">Et que tantost l’honneur et la pitié la pressent.</l>
@@ -3325,9 +3322,9 @@
           <l n="1442" xml:id="l1442">Ah ! que vous payés mal mes bontés apparentes</l>
           <l n="1443" xml:id="l1443">Lorsque vous les tenés si fort indifferentes.</l>
           <l n="1444" xml:id="l1444">Mais il m’est bien aizé d’interrompre leur cours,</l>
-          <l n="1445" xml:id="l1445">Et si j’ay <ref target="#travailler">travaillé*</ref> pour deffendre vos jours,</l>
+          <l n="1445" xml:id="l1445">Et si j’ay <ref target="#travailler">travaillé</ref> pour deffendre vos jours,</l>
           <l n="1446" xml:id="l1446">Je sçauray bien changer une lasche indulgence</l>
-          <l n="1447" xml:id="l1447">Aux nobles <ref target="#mouvement">mouvements*</ref> d’une juste vengeance</l>
+          <l n="1447" xml:id="l1447">Aux nobles <ref target="#mouvement">mouvements</ref> d’une juste vengeance</l>
           <l n="1448" xml:id="l1448">Ouy, quoy que j’aye dit que vos jours sont les miens</l>
           <l n="1449" xml:id="l1449">Pour me garentir seule, il reste des moyens</l>
           <l n="1450" xml:id="l1450">Domptant cette pittié qu’un vain espoir fist naistre.<space rend="tab">    </space><pb n="L, 87"/></l>
@@ -3371,20 +3368,20 @@
           <speaker>MAXIME</speaker>
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Et mes vrays sentiments.</l>
           <l n="1465" xml:id="l1465">Mais peuvent ils causer ces grands emportements,</l>
-          <l n="1466" xml:id="l1466">Et par quelle raison les excés de ma flamme*</l>
+          <l n="1466" xml:id="l1466">Et par quelle raison les excés de ma flamme</l>
           <l n="1467" xml:id="l1467">Ont il droit d’exiter ces troubles dans vostre ame ?</l>
         </sp>
         <sp who="honorique">
           <speaker>HONORIQUE</speaker>
           <l n="1468" xml:id="l1468">Tu ne connois que trop, que mon coeur irrité</l>
-          <l n="1469" xml:id="l1469">Se plaint qu’on paye mal ma <ref target="#generosite">générosité*</ref> :</l>
+          <l n="1469" xml:id="l1469">Se plaint qu’on paye mal ma <ref target="#generosite">générosité</ref> :</l>
           <l n="1470" xml:id="l1470">Mais j’auray la raison d’un traittement si rude,</l>
           <l n="1471" xml:id="l1471">Et sçauray me vanger de ton ingratitude,</l>
           <l n="1472" xml:id="l1472">Je te feray connoistre en l’estat où je suis</l>
           <l n="1473" xml:id="l1473">Et tout ce que je souffre, Et tout ce que je puis.</l>
           <l n="1474" xml:id="l1474">Il n’est plus de pardon je suis trop outragée</l>
           <l n="1475" xml:id="l1475">Apres tant de mespris, je veux mourir vangée,</l>
-          <l n="1476" xml:id="l1476">Ta mort seule a pouvoir d’appaiser ma <ref target="#fureur">fureur*</ref>.</l>
+          <l n="1476" xml:id="l1476">Ta mort seule a pouvoir d’appaiser ma <ref target="#fureur">fureur</ref>.</l>
         </sp>
         <sp who="octave">
           <speaker>OCTAVE</speaker>
@@ -3403,7 +3400,7 @@
           <l n="1478" xml:id="l1478">Dieux… dans mon cabinet, retire toy de grace ;</l>
           <l n="1479" xml:id="l1479">Au point de me vanger ma colere se passe,</l>
           <l n="1480" xml:id="l1480">C’est assés, que je puis te perdre, si je veux</l>
-          <l n="1481" xml:id="l1481">Que de foiblesse amour, acompagne tes <ref target="#feu1">feux*</ref>.</l>
+          <l n="1481" xml:id="l1481">Que de foiblesse amour, acompagne tes <ref target="#feu1">feux</ref>.</l>
           <l n="1482" xml:id="l1482">Je voudrois me vanger, et n’oze l’entreprendre :</l>
           <l n="1483" xml:id="l1483" part="I">L’Empereur vient.</l>
         </sp>
@@ -3425,7 +3422,7 @@
           <l n="1486" xml:id="l1486"><hi rend="sc">Al</hi>lés qu’on le saisisse et qu’advouant son crime</l>
           <l n="1487" xml:id="l1487">Il aprenne à parler en faveur de Maxime,</l>
           <l n="1488" xml:id="l1488">Qu’il meure l’insolent, qui m’apelle inhumain,</l>
-          <l n="1489" xml:id="l1489">Quand ma juste <ref target="#fureur">fureur*</ref> s’arme contre un Romain,</l>
+          <l n="1489" xml:id="l1489">Quand ma juste <ref target="#fureur">fureur</ref> s’arme contre un Romain,</l>
           <l n="1490" xml:id="l1490">Et dit que je ne puis injustement le proscrire.</l>
           <stage>(Trazille sors et il dit les trois derniers vers en advençaent vers sa soeur.)</stage>
           <l n="1491" xml:id="l1491">Ah : je leur monstreray que c’est à moy l’Empire,</l>
@@ -3475,7 +3472,7 @@
           <l n="1514" xml:id="l1514">O Dieux ! que l’amant souffre une douleur extreme,</l>
           <l n="1515" xml:id="l1515">Lors qu’il est obligé de perdre ce qu’il aime, <space rend="tab">    </space><pb n="M, 92"/></l>
           <l n="1516" xml:id="l1516">Et que l’on doibt le plaindre à l’instant qu’il voudroit</l>
-          <l n="1517" xml:id="l1517">Tesmoigner du <ref target="#courage">courage*</ref>, et qu’il ne le sçauroit,</l>
+          <l n="1517" xml:id="l1517">Tesmoigner du <ref target="#courage">courage</ref>, et qu’il ne le sçauroit,</l>
           <l n="1518" xml:id="l1518">Helas pourquoy chercher dans les jardins d’Horace<note place="bottom">Voir la partie « Les sources historiques » de l’introduction générale.</note>,</l>
           <l n="1519" xml:id="l1519">Un doux amusement pour flatter ma disgrace :</l>
           <l n="1520" xml:id="l1520">L’amour me suit partout, il est dans mon penser</l>
@@ -3483,12 +3480,12 @@
           <l n="1522" xml:id="l1522">O desespoir injuste ! ô matiere de larmes !</l>
           <l n="1523" xml:id="l1523">O ! Femme, mais plustost, ô demon plain de charmes !</l>
           <l n="1524" xml:id="l1524">Que de facheuses nuicts tu mesles à mes jours,</l>
-          <l n="1525" xml:id="l1525">Et que de longs <ref target="#ennui">ennuis*</ref> menacent mes amours ?</l>
+          <l n="1525" xml:id="l1525">Et que de longs <ref target="#ennui">ennuis</ref> menacent mes amours ?</l>
           <l n="1526" xml:id="l1526">Toy qui cause mes maux puissance souveraine</l>
           <l n="1527" xml:id="l1527">Qui verse dessus nous et l’amour et la haine.</l>
           <l n="1528" xml:id="l1528">Destin qui nous entraisne avec rapidité</l>
           <l n="1529" xml:id="l1529">Force les dures loix de ta fatalité,</l>
-          <l n="1530" xml:id="l1530">Pour destourner le coup de ma <ref target="#fureur">fureur*</ref> extreme ;</l>
+          <l n="1530" xml:id="l1530">Pour destourner le coup de ma <ref target="#fureur">fureur</ref> extreme ;</l>
           <l n="1531" xml:id="l1531">Au moings pour un moment fais qu’Isidore m’aime,</l>
           <l n="1532" xml:id="l1532">Ou si tu ne veux pas la reduire à ce point,</l>
           <l n="1533" xml:id="l1533">Au moings pour un moment fais que je n’aime point,</l>
@@ -3507,7 +3504,7 @@
           <l n="1539" xml:id="l1539">Ou que n’est elle enfin moings belle, ou moing coupable.</l>
           <l n="1540" xml:id="l1540">Juste Ciel devois tu pour enrichir son corps,</l>
           <l n="1541" xml:id="l1541">Desployer ta puissance, et tes plus grands tresors,</l>
-          <l n="1542" xml:id="l1542">Pour ne l’embellir pas de ces divines <ref target="#flame">flames*</ref></l>
+          <l n="1542" xml:id="l1542">Pour ne l’embellir pas de ces divines <ref target="#flame">flames</ref></l>
           <l n="1543" xml:id="l1543">Dont les saintes ardeurs forment les belles ames.</l>
           <l n="1544" xml:id="l1544">Ah ! debvois tu laisser ton chef-deuvre imparfait.</l>
         </sp>
@@ -3523,7 +3520,7 @@
           <l n="1548" xml:id="l1548">Il faut que ma vengeance esclatte desormais.</l>
           <l n="1549" xml:id="l1549">Amour sors de mon coeur et n’y rentre jamais,</l>
           <l n="1550" xml:id="l1550">Tu m’imposes des loix avec trop de foiblesse</l>
-          <l n="1551" xml:id="l1551">La tendresse me choque*, et la pitié me blesse,</l>
+          <l n="1551" xml:id="l1551">La tendresse me choque, et la pitié me blesse,</l>
           <l n="1552" xml:id="l1552">Pour un ingrat objet je n’en doibs plus avoir</l>
           <l n="1553" xml:id="l1553">Tu me presses en vain ; je ne la veux plus voir,</l>
           <l n="1554" xml:id="l1554">Ses yeux rallumeroient par leurs regards funestes</l>
@@ -3534,7 +3531,7 @@
         </sp>
         <sp who="honorique">
           <speaker>HONORIQUE</speaker>
-          <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>O <ref target="#transport">transport*</ref> legitime !</l>
+          <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>O <ref target="#transport">transport</ref> legitime !</l>
         </sp>
         <sp who="valentinian">
           <speaker>VALENTINIAN</speaker>
@@ -3546,7 +3543,7 @@
           <l n="1564" xml:id="l1564">Dans l’une avec horreur, dans l’autre avec atraits,</l>
           <l n="1565" xml:id="l1565">Mais Dieux l’aime-je encore ? Ah ! ny pensons jamais !</l>
           <l n="1566" xml:id="l1566">Ah ! tout me desespere et rien ne me consolle.</l>
-          <l n="1567" xml:id="l1567">Chere soeur adoucis l’<ref target="#ennui">ennuy*</ref> qui me desolle,</l>
+          <l n="1567" xml:id="l1567">Chere soeur adoucis l’<ref target="#ennui">ennuy</ref> qui me desolle,</l>
           <l n="1568" xml:id="l1568">Et jusqu’apres sa mort ayant pittié de moy</l>
           <l n="1569" xml:id="l1569">Treuve bon que je sois tousjours avecque toy,</l>
           <l n="1570" xml:id="l1570">Et que fuyant les lieux où furent mes delices,</l>
@@ -3563,9 +3560,9 @@
           <speaker>VALENTINIAN</speaker>
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Cherchés Tibere<note place="bottom">Il s’agit visiblement d’un serviteur de Valentinian.</note> en diligence,</l>
           <l n="1575" xml:id="l1575">Qu’il vienne chés ma soeur, il n’est plus d’indulgence,</l>
-          <l n="1576" xml:id="l1576">Je signeray sa mort malgré tous ces <ref target="#appas">apas*</ref></l>
+          <l n="1576" xml:id="l1576">Je signeray sa mort malgré tous ces <ref target="#appas">apas</ref></l>
           <l n="1577" xml:id="l1577">Entrons, je sens des maux pires que le trepas.</l></sp>
-          <label>Fin du quatrieme Acte</label>
+          <trailer>Fin du quatrieme Acte</trailer>
           </div>
           </div>
           <div type="act"><head>ACTE V</head>
@@ -3594,7 +3591,7 @@
           <l n="1587" xml:id="l1587">Mon coeur n’a toutefois point desmenty ma bouche,</l>
           <l n="1588" xml:id="l1588">J’ay regret de le perdre et de le mal traitter</l>
           <l n="1589" xml:id="l1589">Mais tout ce que je puis est de le regretter,</l>
-          <l n="1590" xml:id="l1590">Les nobles <ref target="#mouvement">mouvements*</ref> que l’honneur me suggere</l>
+          <l n="1590" xml:id="l1590">Les nobles <ref target="#mouvement">mouvements</ref> que l’honneur me suggere</l>
           <l n="1591" xml:id="l1591">Sont d’un ordre trop haut pour craindre sa colere,</l>
           <l n="1592" xml:id="l1592">Ils sont trop au desubs de ces bas sentiments,</l>
           <l n="1593" xml:id="l1593">Que la noblesse inspire à de foibles amants,</l>
@@ -3617,13 +3614,13 @@
           <l n="1603" xml:id="l1603">Ce n’est que des vertus que l’excés est louable, <space rend="tab">    </space><pb n="N, 98"/></l>
           <l n="1604" xml:id="l1604">Et lors que d’un beau trait amour nous sçait blesser</l>
           <l n="1605" xml:id="l1605">Un grand coeur s’en esleve au lieu de s’abaisser,</l>
-          <l n="1606" xml:id="l1606">Il faut dans les <ref target="#travaux">travaux*</ref> où l’honneur nous engage</l>
-          <l n="1607" xml:id="l1607">Par de masles efforts tesmoigner son <ref target="#courage">courage*</ref>,</l>
+          <l n="1606" xml:id="l1606">Il faut dans les <ref target="#travaux">travaux</ref> où l’honneur nous engage</l>
+          <l n="1607" xml:id="l1607">Par de masles efforts tesmoigner son <ref target="#courage">courage</ref>,</l>
           <l n="1608" xml:id="l1608">Renoncer à soy-mesme, et ne point reprocher</l>
           <l n="1609" xml:id="l1609">Ce qu’on donne à la gloire encor qu’il couste cher,</l>
           <l n="1610" xml:id="l1610">Helas je l’ay perdu pour sauver la patrie</l>
           <l n="1611" xml:id="l1611">Helas je l’aime encor, mais je hay sa furie,</l>
-          <l n="1612" xml:id="l1612">Et quelques doux <ref target="#appas">appas*</ref> qu’il estalle à mes yeux</l>
+          <l n="1612" xml:id="l1612">Et quelques doux <ref target="#appas">appas</ref> qu’il estalle à mes yeux</l>
           <l n="1613" xml:id="l1613">Je n’aprehende plus de perdre un furieux,</l>
           <l n="1614" xml:id="l1614">Estrange effet du sort dont je suis poursuivie.</l>
           <p rend="center">
@@ -3652,15 +3649,15 @@
         </sp>
         <sp who="albin">
           <speaker>ALBIN</speaker>
-          <l part="F"><space rend="tab">    </space>Pour <ref target="#prevenir">prevenir*</ref> de dangereux effets :</l>
+          <l part="F"><space rend="tab">    </space>Pour <ref target="#prevenir">prevenir</ref> de dangereux effets :</l>
           <l n="1621" xml:id="l1621">Je m’en vays mettre un ordre aux portes du Palais,</l>
           <l n="1622" xml:id="l1622">Craignant dans ce malheur une esmeutte publique</l>
-          <l n="1623" xml:id="l1623">Mais Madame, esvittés le <ref target="#courroux">couroux*</ref> d’Honorique,</l>
+          <l n="1623" xml:id="l1623">Mais Madame, esvittés le <ref target="#courroux">couroux</ref> d’Honorique,</l>
           <l n="1624" xml:id="l1624">Et ne vous trouvés point dans son appartement.</l>
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
-          <l n="1625" xml:id="l1625">Compte moy donc la chose et parle <ref target="#asseurer">asseurement*</ref>.</l>
+          <l n="1625" xml:id="l1625">Compte moy donc la chose et parle <ref target="#asseurer">asseurement</ref>.</l>
         </sp>
         <sp who="albin">
           <speaker>ALBIN</speaker>
@@ -3672,7 +3669,7 @@
           <speaker>OCTAVE</speaker>
           <l n="1628" xml:id="l1628">Madame l’Empereur vient d’entrer chés sa soeur,</l>
           <l n="1629" xml:id="l1629">Où ne parlant de vous qu’avec beaucoup d’aigreur,</l>
-          <l n="1630" xml:id="l1630">Voulant vous immoler à son juste <ref target="#ennui">enuie*</ref><pb n="N, 100"/></l>
+          <l n="1630" xml:id="l1630">Voulant vous immoler à son juste <ref target="#ennui">enuie</ref><pb n="N, 100"/></l>
           <l n="1631" xml:id="l1631">Prest d’en donner l’arrest il a perdu la vie.</l>
         </sp>
         <sp who="isidore">
@@ -3719,7 +3716,7 @@
           <l n="1660" xml:id="l1660">Mais si je n’ay l’honneur de mourir de ses coups</l>
           <l n="1661" xml:id="l1661">Porte moy pour le moings mourir à ses genoux,</l>
           <l n="1662" xml:id="l1662">Que mon dernier souspir… là tout son corps frisonne</l>
-          <l n="1663" xml:id="l1663">La mort frape son coeur, son ame s’en <ref target="#estonner">estonne*</ref>,</l>
+          <l n="1663" xml:id="l1663">La mort frape son coeur, son ame s’en <ref target="#estonner">estonne</ref>,</l>
           <l n="1664" xml:id="l1664">Et dans des flots de sang dispute encor son droit</l>
           <l n="1665" xml:id="l1665">Cependant qu’en mes bras le corps tombe tout froit.</l>
         </sp>
@@ -3730,7 +3727,7 @@
         <sp who="octave">
           <speaker>OCTAVE</speaker>
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space>Acablé des soldats de la garde</l>
-          <l n="1667" xml:id="l1667">Alloit estre percé de coups de <ref target="#hallebarde">hallebarde*</ref>,<pb n="N, 102"/></l>
+          <l n="1667" xml:id="l1667">Alloit estre percé de coups de <ref target="#hallebarde">hallebarde</ref>,<pb n="N, 102"/></l>
           <l n="1668" xml:id="l1668">Si la Princesse n’eust empesché son trepas.</l>
           <l n="1669" xml:id="l1669">Leur commendant cent fois de ne le tuer pas</l>
           <l n="1670" xml:id="l1670">Pour aprendre de luy quels estoient ses complices</l>
@@ -3740,20 +3737,20 @@
           <l n="1674" xml:id="l1674">Mon frere qui commande aux Archers de la porte</l>
           <l n="1675" xml:id="l1675">Sy vous le commandés soufrira bien qu’il sorte,</l>
           <l n="1676" xml:id="l1676">Et Julles qui le garde en cette occasion</l>
-          <l n="1677" xml:id="l1677">S’excusera de tout sur la <ref target="#sedition">sedition*</ref>,</l>
+          <l n="1677" xml:id="l1677">S’excusera de tout sur la <ref target="#sedition">sedition</ref>,</l>
           <l n="1678" xml:id="l1678" part="I">Comme il est son amy…</l>
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>N’en dis pas d’avantage,</l>
-          <l n="1679" xml:id="l1679">Et finis un discours qui blesse mon <ref target="#courage">courage*</ref>,</l>
+          <l n="1679" xml:id="l1679">Et finis un discours qui blesse mon <ref target="#courage">courage</ref>,</l>
           <l n="1680" xml:id="l1680">Moy que je m’interesse aux jours d’un criminel</l>
           <l n="1681" xml:id="l1681">Ah ! s’il est des coeurs bas ; le nostre n’est pas tel,</l>
           <l n="1682" xml:id="l1682">Quelques attachements que j’aye à sa personne</l>
           <l n="1683" xml:id="l1683">Je dois m’en separer quand l’honneur l’abandonne</l>
           <l n="1684" xml:id="l1684">Aussi tenant de luy tous respect superflus</l>
           <l n="1685" xml:id="l1685">Puis qu’il est sans vertu, je ne le connois plus :</l>
-          <l n="1686" xml:id="l1686">Va porter tes <ref target="#conseil">conseils*</ref> à de ces ames basses</l>
+          <l n="1686" xml:id="l1686">Va porter tes <ref target="#conseil">conseils</ref> à de ces ames basses</l>
           <l n="1687" xml:id="l1687">Qui restent sans vigueur, dans les moindres disgraces,</l>
           <l n="1688" xml:id="l1688">Qui ne veullent gouster que de honteux plaisirs,</l>
           <l n="1689" xml:id="l1689">Et n’ont jamais poussé de glorieux souspirs,</l>
@@ -3772,7 +3769,7 @@
         </sp>
         <sp who="isidore">
           <speaker>ISIDORE</speaker>
-          <l part="F"><space rend="tab">    </space><space rend="tab">    </space>Evitons sa rencontre*</l>
+          <l part="F"><space rend="tab">    </space><space rend="tab">    </space>Evitons sa rencontre</l>
           <l n="1699" xml:id="l1699">Mais… c’est icy qu’il faut que ma vertu se monstre ?</l>
           <l n="1700" xml:id="l1700">Se dementiroit elle ? Ah c’est trop s’esmouvoir.</l></sp>
           </div>
@@ -3792,7 +3789,7 @@
           <l n="1709" xml:id="l1709">Et je meurs trop heureux puis qu’enfin vous vivés.</l>
           <l n="1710" xml:id="l1710">Je vous ay delivré des noires destinées,</l>
           <l n="1711" xml:id="l1711">Dont un Tyran jaloux menaçoit vos années,</l>
-          <l n="1712" xml:id="l1712">J’ay par un beau <ref target="#transport">transport*</ref> desgagé vostre foy</l>
+          <l n="1712" xml:id="l1712">J’ay par un beau <ref target="#transport">transport</ref> desgagé vostre foy</l>
           <l n="1713" xml:id="l1713">Pour faire tout pour vous j’ay tout perdu pour moy.</l>
           <l n="1714" xml:id="l1714">Et pour vous retirer d’un malheur honorable</l>
           <l n="1715" xml:id="l1715">Je n’ay point redoublé de vous estre effroyable, <space rend="tab">    </space><pb n="O, 105"/></l>
@@ -3805,18 +3802,18 @@
           <l n="1722" xml:id="l1722">Qui cacha du poison, dans son pommeau d’espée</l>
           <l n="1723" xml:id="l1723">Pour rendre de ses Dieux l’esperance trompée,</l>
           <l n="1724" xml:id="l1724">Prest à donner le coup pour qui je soupirois</l>
-          <l n="1725" xml:id="l1725">J’estois bien asseuré* que je vous desplairois,</l>
+          <l n="1725" xml:id="l1725">J’estois bien asseuré que je vous desplairois,</l>
           <l n="1726" xml:id="l1726">Et qu’en vous delivrant malgré vostre deffence</l>
           <l n="1727" xml:id="l1727">Je debvois chastier ma desobeissance,</l>
           <l n="1728" xml:id="l1728">Je l’ay fait et prenant de ce mortel poison</l>
           <l n="1729" xml:id="l1729">J’ay disposé mon coeur à cette trahison,</l>
-          <l n="1730" xml:id="l1730">Luy qui plain du beau <ref target="#feu1">feu*</ref>, qu’inspire vostre image</l>
-          <l n="1731" xml:id="l1731">N’ozoit s’abandonner aux <ref target="#conseil">conseils*</ref> de ma rage,</l>
+          <l n="1730" xml:id="l1730">Luy qui plain du beau <ref target="#feu1">feu</ref>, qu’inspire vostre image</l>
+          <l n="1731" xml:id="l1731">N’ozoit s’abandonner aux <ref target="#conseil">conseils</ref> de ma rage,</l>
           <l n="1732" xml:id="l1732">Et m’auroit resisté le plus qu’il auroit peu</l>
           <l n="1733" xml:id="l1733">Si ce venin fatal ne l’eust pas corrompu,</l>
-          <l n="1734" xml:id="l1734">Helas si de mon sang sa glace esteint la <ref target="#flame">flamme*</ref></l>
+          <l n="1734" xml:id="l1734">Helas si de mon sang sa glace esteint la <ref target="#flame">flamme</ref></l>
           <l n="1735" xml:id="l1735">Il n’obtiendra jamais ce pouvoir sur mon ame,</l>
-          <l n="1736" xml:id="l1736">Le beau <ref target="#feu1">feu*</ref> qui la brusle a des temperaments</l>
+          <l n="1736" xml:id="l1736">Le beau <ref target="#feu1">feu</ref> qui la brusle a des temperaments</l>
           <l n="1737" xml:id="l1737">Qui n’ont point de commerce avec les Elements,</l>
           <l n="1738" xml:id="l1738">Et qui dans les horreurs de la nuict eternelle</l>
           <l n="1739" xml:id="l1739">M’eschauferont encor d’une ardeur immortelle.<space rend="tab">    </space><space rend="tab">    </space><pb n="O, 106"/></l>
@@ -3830,13 +3827,13 @@
           <speaker>MAXIME</speaker>
           <l part="F"><space rend="tab">    </space>Ah mon amour va jusqu’au dernier point !</l>
           <l n="1741" xml:id="l1741">Admirés-le Madame et ne vous rendés point.</l>
-          <l n="1742" xml:id="l1742">Conservés cette audace et ce masle <ref target="#courage">courage*</ref></l>
+          <l n="1742" xml:id="l1742">Conservés cette audace et ce masle <ref target="#courage">courage</ref></l>
           <l n="1743" xml:id="l1743">Qui font que je vous aime encore d’avantage,</l>
           <l n="1744" xml:id="l1744">Apres une action, dont je me dois blasmer</l>
           <l n="1745" xml:id="l1745">Je rougirois pour vous, si vous vouliés m’aimer.</l>
           <l n="1746" xml:id="l1746">Je renonce aux faveurs, dont je me rends indigne,</l>
-          <l n="1747" xml:id="l1747">Et je serois fasché qu’une foiblesse <ref target="#insigne">insigne*</ref></l>
-          <l n="1748" xml:id="l1748">Deshonorast en vous ces vertueux <ref target="#transport">transports*</ref>,</l>
+          <l n="1747" xml:id="l1747">Et je serois fasché qu’une foiblesse <ref target="#insigne">insigne</ref></l>
+          <l n="1748" xml:id="l1748">Deshonorast en vous ces vertueux <ref target="#transport">transports</ref>,</l>
           <l n="1749" xml:id="l1749">Qui me firent resoudre à ces derniers efforts,</l>
           <l n="1750" xml:id="l1750">Si vous ne merités mon trepas que j’apreuve,<note place="bottom">Ici, il faut comprendre <emph>mériter</emph> / <emph>ne pas mériter</emph> dans le sens être digne de / être indigne de. Maxime exprime le souhaite de mourir en hommage à Isidore mais en même temps il témoigne d’un certain regret concernant le fait que si Isidore n’est pas digne de sa mort, il meurt donc en vain. </note></l>
           <l n="1751" xml:id="l1751">Vous m’ostés la douceur, qu’amour veut que j’y treuve,</l>
@@ -3844,7 +3841,7 @@
           <l n="1753" xml:id="l1753">Pour le plus digne objet, que l’on puisse adorer,</l>
           <l n="1754" xml:id="l1754">Je ne demande point dans mon amour extreme,</l>
           <l n="1755" xml:id="l1755">D’estre estimé de vous autant que je vous aime,</l>
-          <l n="1756" xml:id="l1756">Mais quelque grand <ref target="#courroux">couroux*</ref>, qui vous puisse animer</l>
+          <l n="1756" xml:id="l1756">Mais quelque grand <ref target="#courroux">couroux</ref>, qui vous puisse animer</l>
           <l n="1757" xml:id="l1757">Je ne me puis resoudre à ne vous point aimer.</l>
         </sp>
         <sp who="isidore">
@@ -3852,11 +3849,11 @@
           <l n="1758" xml:id="l1758">Helas ! aurois tu fait, si tu m’avois aimée,</l>
           <l n="1759" xml:id="l1759">Une lasche action, dont je seray blasmée,</l>
           <l n="1760" xml:id="l1760">Non, non, en m’arrachant des bras de mon espoux, <space rend="tab">    </space><pb n="N, 107"/></l>
-          <l n="1761" xml:id="l1761">Tu n’as absolument servy que ton <ref target="#courroux">couroux*</ref>,</l>
+          <l n="1761" xml:id="l1761">Tu n’as absolument servy que ton <ref target="#courroux">couroux</ref>,</l>
           <l n="1762" xml:id="l1762">Tu ne pouvois souffrir, qu’il eust la recompance,</l>
           <l n="1763" xml:id="l1763">Que je debvois donner à ta perseverence,</l>
-          <l n="1764" xml:id="l1764">Et ne pouvois comprendre en cette <ref target="#extremite">extremité*</ref>,</l>
-          <l n="1765" xml:id="l1765">Jusqu’où pouvoit aller ma <ref target="#generosite">generosité*</ref></l>
+          <l n="1764" xml:id="l1764">Et ne pouvois comprendre en cette <ref target="#extremite">extremité</ref>,</l>
+          <l n="1765" xml:id="l1765">Jusqu’où pouvoit aller ma <ref target="#generosite">generosité</ref></l>
           <l n="1766" xml:id="l1766">Mais enfin il est temps de la faire parestre</l>
           <l n="1767" xml:id="l1767">Il faut me destacher des interests d’un traistre,</l>
           <l n="1768" xml:id="l1768">Et banissant l’amour qui me parle pour luy,</l>
@@ -3869,10 +3866,10 @@
           <l n="1775" xml:id="l1775">Me debvroit apaiser, te rendant ma victime,</l>
           <l n="1776" xml:id="l1776">Mais par quelle raison prenois tu desur<note place="bottom">Voir la note du vers 910.</note> toy</l>
           <l n="1777" xml:id="l1777">Le droit de te punir qui n’estoit deu qu’à moy ?</l>
-          <l n="1778" xml:id="l1778">Pourquoy m’enuiois* tu la superbe victoire</l>
+          <l n="1778" xml:id="l1778">Pourquoy m’enuiois tu la superbe victoire</l>
           <l n="1779" xml:id="l1779">D’immoler en ton sang mes plaisirs à ma gloire,</l>
           <l n="1780" xml:id="l1780">Et conoissant mon cœur pourquoy pretendois tu</l>
-          <l n="1781" xml:id="l1781">Par ta noire <ref target="#fureur">fureur*</ref> d’instruire ma vertu ?</l>
+          <l n="1781" xml:id="l1781">Par ta noire <ref target="#fureur">fureur</ref> d’instruire ma vertu ?</l>
           <l n="1782" xml:id="l1782">Par du contre poison fais que l’on te guerisse</l>
           <l n="1783" xml:id="l1783">Pour ne t’espargner par la peine du supplice,</l>
           <l n="1784" xml:id="l1784" part="I">Là ton coeur, mais quel bruit ? Dieux !<space rend="tab">    </space><pb n="O, 108"/></l></sp>
@@ -3897,13 +3894,13 @@
           <speaker>OLIMBRE</speaker>
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space>Seigneur le Ciel qui vous rend libre,</l>
           <l n="1787" xml:id="l1787">Veut encor vostre bras pour affrenchir le Tibre,</l>
-          <l n="1788" xml:id="l1788">Et le peuple Romain dans son juste <ref target="#courroux">couroux*</ref>,</l>
+          <l n="1788" xml:id="l1788">Et le peuple Romain dans son juste <ref target="#courroux">couroux</ref>,</l>
           <l n="1789" xml:id="l1789">Se souvient des biensfaits qu’il a receu de vous.</l>
           <l n="1790" xml:id="l1790">Il s’en alloit vanger la cruelle disgrace</l>
           <l n="1791" xml:id="l1791">De la divine Eudoxe<note place="bottom">Voir la partie « Genèse de La Mort de Valentinian et d’Isidore » de l’introduction générale. Pour rappel, il s’agit de la femme de Valentinian.</note>, et du vaillant Ursace<note place="bottom">Voir la partie « Genèse de La Mort de Valentinian et d’Isidore » de l’introduction générale. Pour rappel, c’est un chevalier romain amoureux d’Eudoxe. </note>,</l>
           <l n="1792" xml:id="l1792">Ne pouvant plus souffrir l’outrage qu’on faisoit <space rend="tab">    </space>[O, 109]</l>
           <l n="1793" xml:id="l1793">À la mesme<note place="bottom">Voir la note du vers 626.</note> vertu que l’on tyrannisoit,</l>
-          <l n="1794" xml:id="l1794">Mais par d’autres <ref target="#dessein">desseins*</ref> vostre main <ref target="#genereux">genereuse*</ref></l>
+          <l n="1794" xml:id="l1794">Mais par d’autres <ref target="#dessein">desseins</ref> vostre main <ref target="#genereux">genereuse</ref></l>
           <l n="1795" xml:id="l1795">En perdant un Tyran, va rendre Rome heureuse.</l>
           <l n="1796" xml:id="l1796">Vous avés prevenu le coup qu’elle attendoit,</l>
           <l n="1797" xml:id="l1797">Et luy donnés bien plus qu’elle ne demandoit,</l>
@@ -3913,7 +3910,7 @@
           <l n="1801" xml:id="l1801">Quand j’animois le peuple à défendre vos jours</l>
           <l n="1802" xml:id="l1802">Mais alors Phocion par un bonheur extreme</l>
           <l n="1803" xml:id="l1803">A commencé l’esmeutte et l’a saisi luy mesme</l>
-          <l n="1804" xml:id="l1804">Cependant que le peuple en sa juste <ref target="#fureur">fureur*</ref></l>
+          <l n="1804" xml:id="l1804">Cependant que le peuple en sa juste <ref target="#fureur">fureur</ref></l>
           <l n="1805" xml:id="l1805">Cryoit vive Maxime et meure l’Empereur.<space rend="tab">    </space><pb n="O, 110"/></l></sp>
           </div>
           <div type="scene"><head>SCENE V</head>
@@ -3921,7 +3918,7 @@
         
         <sp who="honorique">
           <speaker>HONORIQUE</speaker>
-          <stage><space rend="tab">    </space>(Surprise de voir Maxime et courant donner ordre à la <ref target="#sedition">sedition*</ref>.)</stage>
+          <stage><space rend="tab">    </space>(Surprise de voir Maxime et courant donner ordre à la <ref target="#sedition">sedition</ref>.)</stage>
           <l n="1806" xml:id="l1806"><hi rend="sc">Qu</hi>oy Romains est-ce ainsi que vostre coeur s’exprime</l>
           <l n="1807" xml:id="l1807">Flatant un criminel loing de punir son crime ?</l>
         </sp>
@@ -3954,7 +3951,7 @@
         </sp>
         <sp who="maxime">
           <speaker>MAXIME</speaker>
-          <l part="F"><space rend="tab">    </space>Mais c’est trop laisser Trazille dans les <ref target="#fer">fers*</ref>,</l>
+          <l part="F"><space rend="tab">    </space>Mais c’est trop laisser Trazille dans les <ref target="#fer">fers</ref>,</l>
           <l n="1825" xml:id="l1825" part="I">Délivrés-le.</l>
         </sp>
         <sp who="olimbre">
@@ -3981,7 +3978,7 @@
           <speaker>HONORIQUE</speaker>
           <stage><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>(Bas.)</stage>
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>C’est trop de lascheté ;</l>
-          <l n="1830" xml:id="l1830"><hi rend="b"></hi>Fuyons d’un lieu fatal, où tout nous abandonne.</l>
+          <l n="1830" xml:id="l1830"><hi rend="b"/>Fuyons d’un lieu fatal, où tout nous abandonne.</l>
         </sp>
         <sp who="trazille">
           <speaker>TRAZILLE</speaker>
@@ -4008,8 +4005,8 @@
           <l n="1843" xml:id="l1843">De servir vostre haine, et de perdre un coupable</l>
           <l n="1844" xml:id="l1844">Au moins en cet estat quand je me puniray.</l>
           <l n="1845" xml:id="l1845">Plus je seray puissant, plus je vous donneray.</l>
-          <l n="1846" xml:id="l1846"><hi rend="b"></hi>Cognoissés maintenant si l’interest m’engage,</l>
-          <l n="1847" xml:id="l1847">Si pour vous posseder j’animay mon courage*</l>
+          <l n="1846" xml:id="l1846"><hi rend="b"/>Cognoissés maintenant si l’interest m’engage,</l>
+          <l n="1847" xml:id="l1847">Si pour vous posseder j’animay mon courage</l>
           <l n="1848" xml:id="l1848">Et respandis le sang de ce monstre amoureux</l>
           <l n="1849" xml:id="l1849">Ou pour vous delivrer, ou pour me rendre heureux.</l>
           <l n="1850" xml:id="l1850">Helas ; je sens desja mon coeur dans la foiblesse.</l>
@@ -4033,7 +4030,7 @@
           <speaker>ISIDORE</speaker>
           <l part="F"><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ah barbare !</l>
           <l n="1855" xml:id="l1855">Ton amour est estrange et ta confiance est rare,</l>
-          <l n="1856" xml:id="l1856">Ta <ref target="#generosite">generosité*</ref> dans l’excés des douleurs</l>
+          <l n="1856" xml:id="l1856">Ta <ref target="#generosite">generosité</ref> dans l’excés des douleurs</l>
           <l n="1857" xml:id="l1857">L’emportant sur la mienne est digne de mes pleurs</l>
           <l n="1858" xml:id="l1858">Il faut qu’un grand effort arrache de mon ame <space rend="tab">    </space>[P, 114]</l>
           <l n="1859" xml:id="l1859">Quelques mourants tesmoins du foible d’une femme,</l>
@@ -4044,17 +4041,17 @@
           <l n="1864" xml:id="l1864">Je ne m’abaisse point à ces honteux souspirs,</l>
           <l n="1865" xml:id="l1865">Qui flattent les douleurs par l’espoir des plaisirs</l>
           <l n="1866" xml:id="l1866">Je renonce aux douceurs dont pour moy tu te prives :</l>
-          <l n="1867" xml:id="l1867">Et loing de te vouloir conseiller* que tu vives</l>
+          <l n="1867" xml:id="l1867">Et loing de te vouloir conseiller que tu vives</l>
           <l n="1868" xml:id="l1868">Lors que par ton trepas tu punis ton forfaict</l>
           <l n="1869" xml:id="l1869">Je te l’ordonnerois si tu ne l’avois faict.</l>
           <l n="1870" xml:id="l1870">Mais quelque fermeté que la vertu me donne</l>
-          <l n="1871" xml:id="l1871">Mon esprit s’en esmeut, et mon coeur s’en <ref target="#estonner">estonne*</ref>.</l>
+          <l n="1871" xml:id="l1871">Mon esprit s’en esmeut, et mon coeur s’en <ref target="#estonner">estonne</ref>.</l>
           <l n="1872" xml:id="l1872">Mon sang par un instinct qu’on ne peut exprimer</l>
           <l n="1873" xml:id="l1873">Me refuse l’ardeur qui me doit animer,</l>
-          <l n="1874" xml:id="l1874">Et d’un glaçon mortel veut atiedir ces <ref target="#flame">flammes*</ref></l>
+          <l n="1874" xml:id="l1874">Et d’un glaçon mortel veut atiedir ces <ref target="#flame">flammes</ref></l>
           <l n="1875" xml:id="l1875">Qu’un veritable honneur inspire aux grandes ames.</l>
           <l n="1876" xml:id="l1876">Ah dieux, Injustes dieux versés encor sur nous</l>
-          <l n="1877" xml:id="l1877">Tout ce que vous avés de fiel, et de <ref target="#courroux">courroux*</ref>.</l>
+          <l n="1877" xml:id="l1877">Tout ce que vous avés de fiel, et de <ref target="#courroux">courroux</ref>.</l>
           <l n="1878" xml:id="l1878">Abandonnés ma vie à ces noires furies</l>
           <l n="1879" xml:id="l1879">Qui vous rendent fameux par tant de barbaries</l>
           <l n="1880" xml:id="l1880">Que leur bruslants aciers fecondant vos rigeurs</l>
@@ -4064,9 +4061,9 @@
           <l n="1884" xml:id="l1884">Idoles criminels<note place="bottom">On remarque ici un accord au masculin alors que le substantif <emph>idole</emph> est féminin. Ce n’est toutefois pas une erreur. Le dictionnaire de Godefroy (1881) nous indique bel et bien qu’il s’agissait d’un substantif masculin en français classique. </note>, de nos foibles esprits,</l>
           <l n="1885" xml:id="l1885">Dieux cruels ! mais helas ! où s’emportent mes cris ?<space rend="tab">    </space>[P, 115]</l>
           <l n="1886" xml:id="l1886">Non : dedans les excés d’un mal inconsolable</l>
-          <l n="1887" xml:id="l1887">Cet aveugle <ref target="#transport">transport*</ref>, doibt estre pardonnable.</l>
+          <l n="1887" xml:id="l1887">Cet aveugle <ref target="#transport">transport</ref>, doibt estre pardonnable.</l>
           <l n="1888" xml:id="l1888">Ah ! donnés moy ce fer teint de sang : mais ô Dieux !</l>
-          <l n="1889" xml:id="l1889">Quel soudain <ref target="#mouvement">mouvement*</ref> me saisit en ces lieux,</l>
+          <l n="1889" xml:id="l1889">Quel soudain <ref target="#mouvement">mouvement</ref> me saisit en ces lieux,</l>
           <l n="1890" xml:id="l1890">Je sens dedans mon cœur une vapeur de glace ;</l>
           <l n="1891" xml:id="l1891" part="I">Qui le serre et l’estouffe ! Ah destin.</l>
         </sp>
@@ -4143,7 +4140,7 @@
         </sp>
         <sp who="maxime">
           <speaker>MAXIME</speaker>
-          <p><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ah souffrés cette <ref target="#ennui">enuie*</ref>.</p>
+          <p><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space>Ah souffrés cette <ref target="#ennui">enuie</ref>.</p>
           <l n="1919" xml:id="l1919">Elle seulle est enfin la source de ma vie,</l>
           <l n="1920" xml:id="l1920">C’est en la revoyant.</l>
         </sp>
@@ -4155,7 +4152,7 @@
           <speaker>MAXIME</speaker>
           <l n="1921" xml:id="l1921">O secours haissable ! Amy trop inhumain,</l>
           <l n="1922" xml:id="l1922">Ah ! vous ne sçavés pas qu’Isidore a mon ame,</l>
-          <l n="1923" xml:id="l1923">Que nous sommes bruslés d’une pareille <ref target="#flame">flamme*</ref>,</l>
+          <l n="1923" xml:id="l1923">Que nous sommes bruslés d’une pareille <ref target="#flame">flamme</ref>,</l>
           <l n="1924" xml:id="l1924">Et que dans le tombeau, sa belle ombre m’attend</l>
           <l n="1925" xml:id="l1925">Ah ! je leur parle en vain, personne ne m’entend,</l>
           <l n="1926" xml:id="l1926">Mais pour me secourir, c’est assés de ma rage</l>
@@ -4172,7 +4169,7 @@
         <sp who="maxime">
           <speaker>MAXIME</speaker>
           <p><space rend="tab">    </space><space rend="tab">    </space>Ah ! si jamais j’estois vostre Empereur,</p>
-          <l n="1933" xml:id="l1933">Vous ne verriés de moy que des traits de <ref target="#fureur">fureur*</ref>,</l>
+          <l n="1933" xml:id="l1933">Vous ne verriés de moy que des traits de <ref target="#fureur">fureur</ref>,</l>
           <l n="1934" xml:id="l1934">Mais helas je succombe ! ah ma chere Isidore.</l>
         </sp>
         <sp who="olimbre">
@@ -4180,8 +4177,8 @@
           <l n="1935" xml:id="l1935">Il faut le secourir tandis qu’il vit encore,</l>
           <l n="1936" xml:id="l1936">Pendant cette foiblesse il n’empeschera pas</l>
           <l n="1937" xml:id="l1937">Ce qui le peut sauver des portes du trepas.</l>
-          <label>FIN</label>
-          <p rend="center"><hi rend="b"></hi>[XVII]</p>
+          <trailer>FIN</trailer>
+          <p rend="center"><hi rend="b"/>[XVII]</p>
         </sp>
       </div>
           </div>
@@ -4276,9 +4273,9 @@
         </entryFree>
         <entryFree>
           <form>Feu / feux</form>
-          <def  xml:id="feu1">Substantif masculin : s’emploie au sens figuré pour désigner la vivacité de l’esprit ou l’ardeur des passions. (Furetière, 1690)</def>
+          <def xml:id="feu1">Substantif masculin : s’emploie au sens figuré pour désigner la vivacité de l’esprit ou l’ardeur des passions. (Furetière, 1690)</def>
           <xr>V. <ref target="#l155">155</ref>, <ref target="#l165">165</ref>, <ref target="#l337">337</ref>, <ref target="#l409">409</ref>, <ref target="#l590">590</ref>, <ref target="#l848">848</ref>, <ref target="#l997">997</ref>, <ref target="#l1047">1047</ref>, <ref target="#l1090">1090</ref>, <ref target="#l1095">1095</ref>, <ref target="#l1122">1122</ref>, <ref target="#l1168">1168</ref>, <ref target="#l1368">1368</ref>, <ref target="#l1424">1424</ref>, <ref target="#l1481">1481</ref>, <ref target="#l1730">1730</ref> et <ref target="#l1736">1736</ref></xr>
-          <def  xml:id="feu2">Attention à ne pas le confondre avec le substantif masculin qui désigne le feu c’est-à-dire la combustion chimique.</def>
+          <def xml:id="feu2">Attention à ne pas le confondre avec le substantif masculin qui désigne le feu c’est-à-dire la combustion chimique.</def>
           <xr>V. <ref target="#l12">12</ref>, <ref target="#l39">39</ref> et <ref target="#l620">620</ref></xr>
         </entryFree>
         <entryFree xml:id="fer">
@@ -4347,7 +4344,7 @@
         <entryFree>
           <form>Rencontrer</form>
           <def>Verbe : plusieurs significations au XVII<hi rend="sup">e</hi> siècle.</def>
-          <def  xml:id="rencontrer1">Sens 1. Trouver, tomber dessus par hasard.</def>
+          <def xml:id="rencontrer1">Sens 1. Trouver, tomber dessus par hasard.</def>
           <xr>P. [V] de l’épitre et v. <ref target="#l54">54</ref></xr>
           <def xml:id="rencontrer2">Sens 2. Réussir dans ses conjectures. (Furetière, 1690)</def>
           <xr>V. <ref target="#l1082">1082</ref></xr>

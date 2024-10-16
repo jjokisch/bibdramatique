@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<!--Odette: 2016-04-04T14:50:27+02:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><!--Odette: 2016-04-04T14:50:27+02:00--><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,11 +22,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/vise_dames-vengees/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/vise_dames-vengees.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/vise_dames-vengees.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/vise_dames-vengees.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/vise_dames-vengees.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/vise_dames-vengees/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/vise_dames-vengees.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/vise_dames-vengees.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/vise_dames-vengees.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/vise_dames-vengees.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><title>Les Dames vangées ou La Dupe de soy mesme. Comédie</title>. A PARIS, Chez MICHEL BRUNET, dans la grand'Salle du Palais, au Mercure galant. M. DC. XCV.</bibl>
@@ -627,7 +625,7 @@
         <div xml:id="dedicace" type="dedication">
           <head>A MONSEIGNEUR LE DAUPHIN<note place="bottom"><p>Il s’agit de Louis, appelé Louis le Grand Dauphin, fils de Louis XIV et de Marie-Thérèse d’Autriche, né en 1661 et décédé le 14 avril 1711. En 1695, année de la parution de la pièce, il épouse Marie-Emilie de Joly de Choin.</p></note>.</head>
           <p rend="center">MONSEIGNEUR.</p>
-          <p>J’ose me flater que vous aurez les mêmes <ref target="#bonte">bontez*</ref> pour cette Comedie que pour mes autres Ouvrages, qui sont depuis dix-neuf ans sous vôtre protection. Vostre auguste nom se trouve à la teste de plus de deux cens, qui renferment les actions les plus remarquables de vostre illustre Vie. Vous y paroissez toujours égal, toujours bon, &amp; toujours infatigable dans la carriere qui conduit à l’immortalité. Vous en avez donné des preuves si éclatantes pendant la derniere Campagne<note place="bottom"><p>Allusion à la campagne menée par Louis Le Grand Dauphin. Nous ne savons pas exactement de quelle guerre il s’agit, mais nous pouvons penser qu’il s’agit de la campagne de 1693, qui a eu lieu dans les Flandres. Rappelons qu’en juin 1693, Louis XIV avait décidé de quitter l’armée.</p></note>, que vostre diligence pour prévenir les desseins de nos Ennemis, a passé pour un prodige aux yeux de toute la terre. Vous avez acheté cette gloire par des fatigues dont l’Histoire fournit peu d’exemples, &amp; vous avez passé des nuits entieres sans prendre le repos auquel la nature assujettit tous les hommes. Je ne repeteray point icy, MONSEIGNEUR, ce qui a fait une des plus belles parties du grand nombre de volumes que vous m’avez permis de vous offir. La matiere est trop vaste, &amp; les bornes d’une Epistre sont trop resserrées. Je diray seulement qu’après avoir travaillé sur tout ce qui vous distingue autant par vous-mesme, que vous estes élevé par vostre auguste naissance, j’ay cru que je devois tâcher de contribuer à vos plaisirs. C’est ce qui m’a fait entreprendre la Comedie que je prens la liberté de vous presenter. L’attention favorable dont vous avez bien voulu la favoriser, lors qu’elle a esté représentée devant vous<note place="bottom"><p> Lancaster explique que la pièce a été représentée à la Cour, mais le <hi rend="i">Journal</hi> du Marquis de Dangeau ne renvoie à aucun moment à un tel fait. Nous ne disposons donc pas de source suffisamment fiable pour affirmer que le Dauphin a assisté à la représentation de la pièce à la Cour, et non pas à la Comédie-Française.</p></note>, m’engage à continuer de donner une partie de mes soins à d’autres Ouvrages de cette nature, persuade que le desir de vous plaire &amp; de vous divertir, me fera acquerir de nouvelles lumieres pour un travail dont le succés est toujours douteux. Quel avantage pour moy, MONSEIGNEUR, si tout mon temps se trouve heureusement partagé entre vostre gloire &amp; vos plaisirs, &amp; si en travaillant à vostre Histoire, je puis en même temps devenir utile à vos divertissemens ! La beauté de la matiere m’assure du succés de tout ce qui parlera de vous. J’aurois tout à craindre de celle qui ne regardera que vos plaisirs, mais je suis seur que mon zele &amp; vostre bonté vous feront toujours excuser ce que vous y trouverez de défectueux. Je suis avec un profond respect,</p>
+          <p>J’ose me flater que vous aurez les mêmes <ref target="#bonte">bontez</ref> pour cette Comedie que pour mes autres Ouvrages, qui sont depuis dix-neuf ans sous vôtre protection. Vostre auguste nom se trouve à la teste de plus de deux cens, qui renferment les actions les plus remarquables de vostre illustre Vie. Vous y paroissez toujours égal, toujours bon, &amp; toujours infatigable dans la carriere qui conduit à l’immortalité. Vous en avez donné des preuves si éclatantes pendant la derniere Campagne<note place="bottom"><p>Allusion à la campagne menée par Louis Le Grand Dauphin. Nous ne savons pas exactement de quelle guerre il s’agit, mais nous pouvons penser qu’il s’agit de la campagne de 1693, qui a eu lieu dans les Flandres. Rappelons qu’en juin 1693, Louis XIV avait décidé de quitter l’armée.</p></note>, que vostre diligence pour prévenir les desseins de nos Ennemis, a passé pour un prodige aux yeux de toute la terre. Vous avez acheté cette gloire par des fatigues dont l’Histoire fournit peu d’exemples, &amp; vous avez passé des nuits entieres sans prendre le repos auquel la nature assujettit tous les hommes. Je ne repeteray point icy, MONSEIGNEUR, ce qui a fait une des plus belles parties du grand nombre de volumes que vous m’avez permis de vous offir. La matiere est trop vaste, &amp; les bornes d’une Epistre sont trop resserrées. Je diray seulement qu’après avoir travaillé sur tout ce qui vous distingue autant par vous-mesme, que vous estes élevé par vostre auguste naissance, j’ay cru que je devois tâcher de contribuer à vos plaisirs. C’est ce qui m’a fait entreprendre la Comedie que je prens la liberté de vous presenter. L’attention favorable dont vous avez bien voulu la favoriser, lors qu’elle a esté représentée devant vous<note place="bottom"><p> Lancaster explique que la pièce a été représentée à la Cour, mais le <hi rend="i">Journal</hi> du Marquis de Dangeau ne renvoie à aucun moment à un tel fait. Nous ne disposons donc pas de source suffisamment fiable pour affirmer que le Dauphin a assisté à la représentation de la pièce à la Cour, et non pas à la Comédie-Française.</p></note>, m’engage à continuer de donner une partie de mes soins à d’autres Ouvrages de cette nature, persuade que le desir de vous plaire &amp; de vous divertir, me fera acquerir de nouvelles lumieres pour un travail dont le succés est toujours douteux. Quel avantage pour moy, MONSEIGNEUR, si tout mon temps se trouve heureusement partagé entre vostre gloire &amp; vos plaisirs, &amp; si en travaillant à vostre Histoire, je puis en même temps devenir utile à vos divertissemens ! La beauté de la matiere m’assure du succés de tout ce qui parlera de vous. J’aurois tout à craindre de celle qui ne regardera que vos plaisirs, mais je suis seur que mon zele &amp; vostre bonté vous feront toujours excuser ce que vous y trouverez de défectueux. Je suis avec un profond respect,</p>
           <p rend="center">MONSEIGNEUR,</p>
           <p rend="right">Vostre tres-humble</p>
           <p rend="right">&amp; tres-obeissant Serviteur,</p>
@@ -635,7 +633,7 @@
         </div>
         <div xml:id="au-lecteur" type="dedication">
           <head>AU LECTEUR.</head>
-          <p>On veut que je fasse une Preface pour rendre justice au bon goust du Public. L’affaire est delicate, puis que les loüanges que je suis obligé de luy donner, semblent en devoir faire retomber sur moy. Voicy le fait. Depuis quelques années les murmures du Parterre &amp; mesme ses éclats un peu trop vifs pour condamner ce qui luy déplaisoit dans une Piece, &amp; qui sembloit approcher du serieux, avoient fait croire qu’il ne vouloit rien <ref target="#souffrir1">souffrir*</ref> au Theatre dont les plaisanteries ne fussent outrées ; que toutes les Scenes devoient estre courtes pour luy plaire, &amp; les Acteurs toujours en action pour arrester les mouvemens de ce mesme Parterre, qu’on prétendoit vouloir toujours rire, &amp; ne pouvoir se donner la patience d’entendre l’exposition d’un sujet. Toutefois le contraire vient d’arriver, puis que ce mesme Public est entré dans toutes les delicatesses du rolle d’Hortense ; qu’il a applaudy à tout ce qu’elle a dit de fin à sa Mere ; qu’il a écouté favorablement deux longues Scenes qu’elle fait avec son Amant, quoy que serieuses ; qu’il a fait voir que les caracteres <ref target="#galant">galans*</ref> de cette Piece ne le divertissoient par moins que les Comiques, &amp; qu’enfin dans cette Comedie les applaudissemens ont esté meslez aux éclats de rire. Tout cela est prouvé par un fait connu &amp; incontestable. On m’avoit tellement persuadé que je devois faire rire le Public, si je voulois que ma Piece en fust favorablement receuë, qu’il m’estoit échapé contre mon goust un cinquiéme Acte plus Comique que les quatre premiers, &amp; auquel on a beaucoup plus ry qu’à tous les autres. Cependant cet Acte n’a pas laissé d’estre si generalement condamné, que le Public ayant souhaité que je le changeasse, j’en ay fait un nouveau dans le goust des quatre premiers, &amp; je l’ay fait avec d’autant plus de plaisir, que j’ay esté détrompé par là de la mauvaise opinion qu’on m’avoit voulu donner du goust du Parterre, &amp; que j’ay connu que les Ouvrages fins, delicats &amp; travaillez, plairont toujours plus que ceux dont les traits seront trop marquez, pour ne pas dire, qui auront un comique plus bas. Ainsi la carriere est presentement ouverte à tous ceux qui croyoient que l’esprit devoit estre banny du theatre, &amp; qui dans cette pensée n’osoient faire paroistre sur la Scene des Ouvrages dont ils s’imaginoient que le Public eust perdu le goust.</p>
+          <p>On veut que je fasse une Preface pour rendre justice au bon goust du Public. L’affaire est delicate, puis que les loüanges que je suis obligé de luy donner, semblent en devoir faire retomber sur moy. Voicy le fait. Depuis quelques années les murmures du Parterre &amp; mesme ses éclats un peu trop vifs pour condamner ce qui luy déplaisoit dans une Piece, &amp; qui sembloit approcher du serieux, avoient fait croire qu’il ne vouloit rien <ref target="#souffrir1">souffrir</ref> au Theatre dont les plaisanteries ne fussent outrées ; que toutes les Scenes devoient estre courtes pour luy plaire, &amp; les Acteurs toujours en action pour arrester les mouvemens de ce mesme Parterre, qu’on prétendoit vouloir toujours rire, &amp; ne pouvoir se donner la patience d’entendre l’exposition d’un sujet. Toutefois le contraire vient d’arriver, puis que ce mesme Public est entré dans toutes les delicatesses du rolle d’Hortense ; qu’il a applaudy à tout ce qu’elle a dit de fin à sa Mere ; qu’il a écouté favorablement deux longues Scenes qu’elle fait avec son Amant, quoy que serieuses ; qu’il a fait voir que les caracteres <ref target="#galant">galans</ref> de cette Piece ne le divertissoient par moins que les Comiques, &amp; qu’enfin dans cette Comedie les applaudissemens ont esté meslez aux éclats de rire. Tout cela est prouvé par un fait connu &amp; incontestable. On m’avoit tellement persuadé que je devois faire rire le Public, si je voulois que ma Piece en fust favorablement receuë, qu’il m’estoit échapé contre mon goust un cinquiéme Acte plus Comique que les quatre premiers, &amp; auquel on a beaucoup plus ry qu’à tous les autres. Cependant cet Acte n’a pas laissé d’estre si generalement condamné, que le Public ayant souhaité que je le changeasse, j’en ay fait un nouveau dans le goust des quatre premiers, &amp; je l’ay fait avec d’autant plus de plaisir, que j’ay esté détrompé par là de la mauvaise opinion qu’on m’avoit voulu donner du goust du Parterre, &amp; que j’ay connu que les Ouvrages fins, delicats &amp; travaillez, plairont toujours plus que ceux dont les traits seront trop marquez, pour ne pas dire, qui auront un comique plus bas. Ainsi la carriere est presentement ouverte à tous ceux qui croyoient que l’esprit devoit estre banny du theatre, &amp; qui dans cette pensée n’osoient faire paroistre sur la Scene des Ouvrages dont ils s’imaginoient que le Public eust perdu le goust.</p>
         </div>
         <div xml:id="acteurs" type="set">
           <head>ACTEURS.</head>
@@ -698,7 +696,7 @@
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
-              <p>On ne doit pas juger de la richesse des Banquiers par l’argent que l’on <ref target="#voiturer">voiture*</ref> chez eux. Tel reçoit quelquefois de gros payemens, qui deux heures aprés en fait de plus grands. Ce n’est pas que Monsieur Polidor ne soit riche.</p>
+              <p>On ne doit pas juger de la richesse des Banquiers par l’argent que l’on <ref target="#voiturer">voiture</ref> chez eux. Tel reçoit quelquefois de gros payemens, qui deux heures aprés en fait de plus grands. Ce n’est pas que Monsieur Polidor ne soit riche.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -710,15 +708,15 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Ouy, je sçay qu’il aime les correspondances, &amp; si je voulois correspondre, il seroit aussi mon Correspondant, mais je n’entens pas le <ref target="#commerce1">commerce*</ref>.</p>
+              <p>Ouy, je sçay qu’il aime les correspondances, &amp; si je voulois correspondre, il seroit aussi mon Correspondant, mais je n’entens pas le <ref target="#commerce1">commerce</ref>.</p>
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
-              <p>Il t’en a donc <ref target="#conter">conté*</ref> ?</p>
+              <p>Il t’en a donc <ref target="#conter">conté</ref> ?</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Est-ce que les Vieillards pécunieux <pb n="3" xml:id="p3"/> n’en <ref target="#conter">content*</ref> pas à toutes les Filles ?</p>
+              <p>Est-ce que les Vieillards pécunieux <pb n="3" xml:id="p3"/> n’en <ref target="#conter">content</ref> pas à toutes les Filles ?</p>
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
@@ -733,7 +731,7 @@
               <p>Vous le voyez, Madame, je viens selon vos ordres. Bon jour, Marton.</p>
             </sp>
             <sp who="marton">
-              <speaker>MARTON, <hi rend="i">brusquement</hi>.</speaker>
+              <speaker>MARTON, </speaker><stage>brusquement</stage>
               <p>Bon jour, Monsieur, bon jour.</p>
             </sp>
             <sp who="silvanire">
@@ -782,7 +780,7 @@
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
-              <p>Il semble que le <ref target="#chagrin">chagrin*</ref> de mon Frere se répande aussi sur moy. Je luy ay <ref target="#mander">mandé*</ref> que j’estois sur le point de marier ma Fille. Je l’ay instruit de tout ce qui regarde l’alliance que je vais contracter, &amp; cependant je n’en ay reçû aucunes nouvelles.</p>
+              <p>Il semble que le <ref target="#chagrin">chagrin</ref> de mon Frere se répande aussi sur moy. Je luy ay <ref target="#mander">mandé</ref> que j’estois sur le point de marier ma Fille. Je l’ay instruit de tout ce qui regarde l’alliance que je vais contracter, &amp; cependant je n’en ay reçû aucunes nouvelles.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -809,12 +807,12 @@
               <p>Vous avez raison de vous allarmer. Les maladies des Vieillards sentent le Testament, &amp; les Testaments sont dangereux pour les absens.</p>
             </sp>
             <sp who="silvanire">
-              <speaker>SILVANIRE, <hi rend="i">à M. Polidor</hi>.</speaker>
+              <speaker>SILVANIRE, </speaker><stage>à M. Polidor</stage>
               <p>Mais croyez-vous que mon Frere en ait fait un ?</p>
             </sp>
             <sp who="polidor">
               <speaker>M. POLIDOR.</speaker>
-              <p>Je ne sçay, Madame, mais croyez-moy, ne comptez que de bonne sorte sur sa succession. Vostre Frere est <ref target="#gouverner">gouverné*</ref> par une Femme qu’il appelle sa Commere, &amp; à qui ce nom a donné de grands privileges dans sa maison. Elle a fait chasser sous divers pretextes tous les Domestiques qui n’estoient pas dans ses interests, &amp; s’est renduë Maistresse absoluë de son esprit.</p>
+              <p>Je ne sçay, Madame, mais croyez-moy, ne comptez que de bonne sorte sur sa succession. Vostre Frere est <ref target="#gouverner">gouverné</ref> par une Femme qu’il appelle sa Commere, &amp; à qui ce nom a donné de grands privileges dans sa maison. Elle a fait chasser sous divers pretextes tous les Domestiques qui n’estoient pas dans ses interests, &amp; s’est renduë Maistresse absoluë de son esprit.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -826,14 +824,14 @@
             </sp>
             <sp who="polidor">
               <speaker>M. POLIDOR.</speaker>
-              <p>Il me vient en pensée d’écrire à un de mes Amis, qui en doit sçavoir quelque chose. Il est jour d’<ref target="#ordinaire">ordinaire*</ref>. Adieu, Madame, comptez sur mes soins.</p>
+              <p>Il me vient en pensée d’écrire à un de mes Amis, qui en doit sçavoir quelque chose. Il est jour d’<ref target="#ordinaire">ordinaire</ref>. Adieu, Madame, comptez sur mes soins.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
               <p>J’aimerois mieux compter sur son coffre fort.</p>
             </sp>
             <sp who="polidor">
-              <speaker>M. POLIDOR, <hi rend="i">se retournant</hi>.</speaker>
+              <speaker>M. POLIDOR, </speaker><stage>se retournant</stage>
               <p>Il ne tiendra qu’à toy d’y compter.</p>
             </sp>
             <sp who="silvanire">
@@ -866,7 +864,7 @@
             <stage>SILVANIRE, MARTON.</stage>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Il aime ses <ref target="#commodite">commoditez*</ref>, il faut aller chez luy.</p>
+              <p>Il aime ses <ref target="#commodite">commoditez</ref>, il faut aller chez luy.</p>
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
@@ -882,7 +880,7 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Je sçay de plus que cette Mere est tellement préoccupée de l’ancienneté de sa Maison, qu’elle croit que ses Ayeux <pb n="9" xml:id="p9"/> estoient nobles avant qu’on eust inventé la Noblesse, &amp; que lors qu’elle veut prouver les chimeres dont elle est <ref target="#entester">entestée*</ref> là-dessus, elle ne <ref target="#deparler">déparle*</ref> point.</p>
+              <p>Je sçay de plus que cette Mere est tellement préoccupée de l’ancienneté de sa Maison, qu’elle croit que ses Ayeux <pb n="9" xml:id="p9"/> estoient nobles avant qu’on eust inventé la Noblesse, &amp; que lors qu’elle veut prouver les chimeres dont elle est <ref target="#entester">entestée</ref> là-dessus, elle ne <ref target="#deparler">déparle</ref> point.</p>
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
@@ -902,7 +900,7 @@
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
-              <p>Garde-toy sur tout, si on parle de mon Frere de la Rochelle, de rien dire qui sente le <ref target="#commerce1">Commerce*</ref>.</p>
+              <p>Garde-toy sur tout, si on parle de mon Frere de la Rochelle, de rien dire qui sente le <ref target="#commerce1">Commerce</ref>.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -946,11 +944,11 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Ne vous mettez point en peine. S’il <pb n="11" xml:id="p11"/> ne faut que rendre galimatias pour <ref target="#galimatia">galimatias*</ref>, comptez que l’avantage me demeurera, &amp; que la Vieille &amp; moy nous nous applaudirons sans nous entendre.</p>
+              <p>Ne vous mettez point en peine. S’il <pb n="11" xml:id="p11"/> ne faut que rendre galimatias pour <ref target="#galimatia">galimatias</ref>, comptez que l’avantage me demeurera, &amp; que la Vieille &amp; moy nous nous applaudirons sans nous entendre.</p>
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
-              <p>Je crains que tu ne me fasses quelque <ref target="#affaire">affaire*</ref>.</p>
+              <p>Je crains que tu ne me fasses quelque <ref target="#affaire">affaire</ref>.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -978,11 +976,11 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Je connois son amour. C’est une passion sans ardeur, un amusement éternel, un tissu de plaisirs fastueux, un amas de bonnes <ref target="#fortune">fortunes*</ref> assez équivoques, qui joint à la vanité d’un jeune homme, qui veut estre crû aimé de toutes les Belles, forme un amour avanturier, plus content du fracas que des réalitez.</p>
+              <p>Je connois son amour. C’est une passion sans ardeur, un amusement éternel, un tissu de plaisirs fastueux, un amas de bonnes <ref target="#fortune">fortunes</ref> assez équivoques, qui joint à la vanité d’un jeune homme, qui veut estre crû aimé de toutes les Belles, forme un amour avanturier, plus content du fracas que des réalitez.</p>
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
-              <p>Puisque tu connois si bien mon Fils, ne l’épargne pas. Fais-luy honte de la vie qu’il mene, tourne-la en ridicule. Ces sortes de <ref target="#remontrance">remontrances*</ref> font quelquefois plus d’effet que les conseils &amp; les reprimandes. Je vais écrire à mon Frere, pour me plaindre de son silence.</p>
+              <p>Puisque tu connois si bien mon Fils, ne l’épargne pas. Fais-luy honte de la vie qu’il mene, tourne-la en ridicule. Ces sortes de <ref target="#remontrance">remontrances</ref> font quelquefois plus d’effet que les conseils &amp; les reprimandes. Je vais écrire à mon Frere, pour me plaindre de son silence.</p>
             </sp>
           </div>
           <div type="scene">
@@ -990,7 +988,7 @@
             <head>SCENE IV.</head>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Ma réputation doit estre bonne, puisqu’on me choisit pour faire des <ref target="#remontrance">remontrances*</ref>. Cependant je ne suis pas faite d’un air à ne servir que pour le conseil, mais par bonheur pour moy, je suis munie d’une fierté qui assomme tous les importuns conteurs de sornettes. Je vois nostre Amant Banal<note place="bottom"><p> Expression qui désigne l’attitude désinvolte de Lisandre, qui se met à la disposition de toutes les femmes pour avoir de nouvelles conquêtes.</p></note>.</p>
+              <p>Ma réputation doit estre bonne, puisqu’on me choisit pour faire des <ref target="#remontrance">remontrances</ref>. Cependant je ne suis pas faite d’un air à ne servir que pour le conseil, mais par bonheur pour moy, je suis munie d’une fierté qui assomme tous les importuns conteurs de sornettes. Je vois nostre Amant Banal<note place="bottom"><p> Expression qui désigne l’attitude désinvolte de Lisandre, qui se met à la disposition de toutes les femmes pour avoir de nouvelles conquêtes.</p></note>.</p>
             </sp>
           </div>
           <div type="scene">
@@ -1002,7 +1000,7 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker><pb n="14" xml:id="p14"/> 
-              <p>Je viens d’un rendez-vous, où j’ay trouvé une Fille assez jolie, vraiment. Elle est encore un peu Agnés<note place="bottom"><p>Allusion au personnage d’Agnès, de <hi rend="i">L’École des Femmes</hi>, de Molière, qui permet de souligner le caractère naïf et ingénu de la jeune femme. « Etre Agnès » semble être devenu une expression courante.</p></note>, mais son <ref target="#ingenuite">ingenuité*</ref> me plaist assez.</p>
+              <p>Je viens d’un rendez-vous, où j’ay trouvé une Fille assez jolie, vraiment. Elle est encore un peu Agnés<note place="bottom"><p>Allusion au personnage d’Agnès, de <hi rend="i">L’École des Femmes</hi>, de Molière, qui permet de souligner le caractère naïf et ingénu de la jeune femme. « Etre Agnès » semble être devenu une expression courante.</p></note>, mais son <ref target="#ingenuite">ingenuité</ref> me plaist assez.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -1034,7 +1032,7 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Il faut avoir l’<ref target="#esprit">esprit*</ref> bien Provincial, pour croire qu’une Fille, aprés avoir respiré l’air de Paris, se mettra dans un Convent.</p>
+              <p>Il faut avoir l’<ref target="#esprit">esprit</ref> bien Provincial, pour croire qu’une Fille, aprés avoir respiré l’air de Paris, se mettra dans un Convent.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -1042,7 +1040,7 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Si je luy en disois deux mots, elle oubliroit bien-tost sa resolution, mais <pb n="16" xml:id="p16"/> cette conqueste ne me récompenseroit pas des momens qu’elle me déroberoit, &amp; que j’employeray mieux auprés de quelques <ref target="#objet">objets*</ref> plus appetissans qu’une Beauté campagnarde.</p>
+              <p>Si je luy en disois deux mots, elle oubliroit bien-tost sa resolution, mais <pb n="16" xml:id="p16"/> cette conqueste ne me récompenseroit pas des momens qu’elle me déroberoit, &amp; que j’employeray mieux auprés de quelques <ref target="#objet">objets</ref> plus appetissans qu’une Beauté campagnarde.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -1050,23 +1048,23 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Ah Marton, Marton, tu ne connois pas ton <ref target="#sexe">sexe*</ref>. Si tu prenois une Perruque &amp; un Chapeau, il te paroistroit tout autre que tu ne penses.</p>
+              <p>Ah Marton, Marton, tu ne connois pas ton <ref target="#sexe">sexe</ref>. Si tu prenois une Perruque &amp; un Chapeau, il te paroistroit tout autre que tu ne penses.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>En verité, je ne vous comprens point. Le mépris à la bouche &amp; l’amour dans le cœur, vous courez sans cesse aprés toutes les Femmes, &amp; vous en <ref target="#dire-rage">dites rage*</ref> dans le temps qu’il semble que Paris n’en ait pas assez pour vous.</p>
+              <p>En verité, je ne vous comprens point. Le mépris à la bouche &amp; l’amour dans le cœur, vous courez sans cesse aprés toutes les Femmes, &amp; vous en <ref target="#dire-rage">dites rage</ref> dans le temps qu’il semble que Paris n’en ait pas assez pour vous.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Il m’en faudroit moins si je n’en craignois la possession. Les Femmes sont les plus amusantes creatures du monde quand on ne s’attache qu’à la <ref target="#superficie">superficie*</ref>. Elles sçavent accorder le mouvement perpetuel avec l’oisiveté. Cent deffauts  <pb n="17" xml:id="p17"/> embellis font tout leur brillant. Tout y surprend de loin, de prés tout y détrompe. On y démêle l’esprit de bagatelle, l’amour des plaisirs, &amp; la passion du luxe. Elles parlent toûjours sans rien dire. Pour paroistre jeunes elles deviennent enfans par leurs manieres. Elles attaquent les cœurs par des regards étudiez, des langueurs affectées, &amp; des sousrires <ref target="#hors-oeuvre">hors d’œuvre*</ref>. Leur bouche est mise au miroir, le son de leur voix est contrefait, &amp; tous leurs mouvemens sont comptez. Plus parfaites dans leur imagination qu’aux yeux des autres, elles passent leur vie à servir leur beauté. Rien n’est solide en elles, tout est dans les grimaces &amp; dans les airs. Tout est art au dehors, au dedans tout est artifice, &amp; la plus jolie femme n’a rien de naturel que le desir de plaire.</p>
+              <p>Il m’en faudroit moins si je n’en craignois la possession. Les Femmes sont les plus amusantes creatures du monde quand on ne s’attache qu’à la <ref target="#superficie">superficie</ref>. Elles sçavent accorder le mouvement perpetuel avec l’oisiveté. Cent deffauts  <pb n="17" xml:id="p17"/> embellis font tout leur brillant. Tout y surprend de loin, de prés tout y détrompe. On y démêle l’esprit de bagatelle, l’amour des plaisirs, &amp; la passion du luxe. Elles parlent toûjours sans rien dire. Pour paroistre jeunes elles deviennent enfans par leurs manieres. Elles attaquent les cœurs par des regards étudiez, des langueurs affectées, &amp; des sousrires <ref target="#hors-oeuvre">hors d’œuvre</ref>. Leur bouche est mise au miroir, le son de leur voix est contrefait, &amp; tous leurs mouvemens sont comptez. Plus parfaites dans leur imagination qu’aux yeux des autres, elles passent leur vie à servir leur beauté. Rien n’est solide en elles, tout est dans les grimaces &amp; dans les airs. Tout est art au dehors, au dedans tout est artifice, &amp; la plus jolie femme n’a rien de naturel que le desir de plaire.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Médisant, vous croyez qu’en répandant vostre venin sur ce qu’il y a de plus parfait, qu’en interpretant tout en mal &amp; en détruisant les réputations, vous vous érigerez en bel esprit, &amp; que vos médisances seront autant d’Arrests, dont <pb n="18" xml:id="p18"/> il ne sera pas permis d’<ref target="#appeler">appeller*</ref>, mais on a changé tout cela, &amp; nous sommes vangées de ceux qui nous déchirent, par le peu de cas que l’on fait de leurs coups de langue<note place="bottom"><p>La réplique de Marton semble être une réponse directe à la <hi rend="i">Satire X</hi> de Boileau.</p></note>.</p>
+              <p>Médisant, vous croyez qu’en répandant vostre venin sur ce qu’il y a de plus parfait, qu’en interpretant tout en mal &amp; en détruisant les réputations, vous vous érigerez en bel esprit, &amp; que vos médisances seront autant d’Arrests, dont <pb n="18" xml:id="p18"/> il ne sera pas permis d’<ref target="#appeler">appeller</ref>, mais on a changé tout cela, &amp; nous sommes vangées de ceux qui nous déchirent, par le peu de cas que l’on fait de leurs coups de langue<note place="bottom"><p>La réplique de Marton semble être une réponse directe à la <hi rend="i">Satire X</hi> de Boileau.</p></note>.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Ah, Marton, la moitié du monde ne sçait pas comment l’autre <ref target="#se-gouverner">se gouverne*</ref>.</p>
+              <p>Ah, Marton, la moitié du monde ne sçait pas comment l’autre <ref target="#se-gouverner">se gouverne</ref>.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -1142,7 +1140,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Aprés vous avoir vû comme un possedé pour Belise, je la croyois la Sultane Favorite. Je ne <ref target="#donner-panneau">donneray plus dans le panneau*</ref>, &amp; je vous verrois mort &amp; enterré pour une Maistresse, que je croirois encore que ce seroit pour la tromper. Mais, Monsieur, vostre amour ou façon d’amour, n’a pas les manieres de qualité.</p>
+              <p>Aprés vous avoir vû comme un possedé pour Belise, je la croyois la Sultane Favorite. Je ne <ref target="#donner-panneau">donneray plus dans le panneau</ref>, &amp; je vous verrois mort &amp; enterré pour une Maistresse, que je croirois encore que ce seroit pour la tromper. Mais, Monsieur, vostre amour ou façon d’amour, n’a pas les manieres de qualité.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -1178,7 +1176,7 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Je cherche un cœur qui n’ait pas resolu d’aimer. Je me fais par avance un plaisir de vaincre sa fierté, mais point ; tout céde dés que je parois, je n’ay pas mesme le temps de souhaiter. Un bonheur si uni me dégouste, &amp; rien n’est plus insipide qu’une fortune de <ref target="#plein-pied">plein pied*</ref>. Non, te dis-je encore une fois, Marton, la terre n’a point de plus malheureux mortel. Si cela continuë, je seray contraint de renoncer à tout le <ref target="#sexe">Sexe*</ref>, je ne trouve point de Femme qui me veüille attendre.</p>
+              <p>Je cherche un cœur qui n’ait pas resolu d’aimer. Je me fais par avance un plaisir de vaincre sa fierté, mais point ; tout céde dés que je parois, je n’ay pas mesme le temps de souhaiter. Un bonheur si uni me dégouste, &amp; rien n’est plus insipide qu’une fortune de <ref target="#plein-pied">plein pied</ref>. Non, te dis-je encore une fois, Marton, la terre n’a point de plus malheureux mortel. Si cela continuë, je seray contraint de renoncer à tout le <ref target="#sexe">Sexe</ref>, je ne trouve point de Femme qui me veüille attendre.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -1206,7 +1204,7 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Je le <ref target="#mettre-au-pis">mets au pis*</ref>, j’ay la parade bonne. Comment feroit-il ?</p>
+              <p>Je le <ref target="#mettre-au-pis">mets au pis</ref>, j’ay la parade bonne. Comment feroit-il ?</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -1242,7 +1240,7 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Vous croyez estre né pour abaisser le <ref target="#sexe">Sexe*</ref>, &amp; nous verrons peut-estre le contraire. Que j’aurois de joye à vous voir soupirer, abjurer vos erreurs, &amp; <pb n="C, p.25" xml:id="p25"/> demander grace. Vous avez beau rire. Quand l’heure sonne &amp; que les yeux sont pris, il faut que le cœur chante.</p>
+              <p>Vous croyez estre né pour abaisser le <ref target="#sexe">Sexe</ref>, &amp; nous verrons peut-estre le contraire. Que j’aurois de joye à vous voir soupirer, abjurer vos erreurs, &amp; <pb n="C, p.25" xml:id="p25"/> demander grace. Vous avez beau rire. Quand l’heure sonne &amp; que les yeux sont pris, il faut que le cœur chante.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -1290,7 +1288,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>A d’autres ; tu ne connois pas le <ref target="#pelerin">Pelerin*</ref>.</p>
+              <p>A d’autres ; tu ne connois pas le <ref target="#pelerin">Pelerin</ref>.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -1298,7 +1296,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Ne vois-tu pas de quelle maniere il parle de tout ton <ref target="#sexe">Sexe*</ref> ?</p>
+              <p>Ne vois-tu pas de quelle maniere il parle de tout ton <ref target="#sexe">Sexe</ref> ?</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -1314,7 +1312,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Je vois bien que tu ne sçais encore que <pb n="27" xml:id="p27"/> la moitié de ce qu’il dit des Femmes. Ecoute, voicy ce qu’il ajoute à leur Portrait. Il dit que vous n’estes qu’un <ref target="#salmigondis">Salmigondis*</ref> de fousrires imposteurs, de minauderies enfantines, de trompeurs je ne sçay quoy, de riens ébloüissans, de voix radoucies, où le cœur &amp; le gosier n’ont point de part ; que le ton de Coqueterie s’est fait naturaliser chez vous, &amp; que c’est sur ce ton là que vos airs, vos coiffures, vostre bouche, &amp; vos yeux sont montez ; que les Femmes ne sont enfin qu’un amas de brillans étrangers, formé de blanc, de rouge, de mouches, de points, de rubans, de rayons, &amp; de firmamens, qui accompagnent un visage toujours masqué sans masque, &amp; enterré dans des ornemens<note place="bottom"><p>Rappelons que des articles de mode paraissaient régulièrement dans le Mercure Galant. Monique Vincent, dans <hi rend="i">Donneau de Visé et le Mercure Galant</hi>, explique que les rubriques de mode ont été mises en valeur dans la préface de l’<hi rend="i">Extraordinaire</hi> d’avril 1678 : « Toute la France demande qu’on lui apprenne les modes nouvelles. [...] Ces modes paraissent ordinairement dans le changement des saisons. [...] Dans les quatre volumes qu’on aura de [l’] Extraordinaire, on aura toutes les modes de l’année courante ».</p></note>, qui pendant le jour forment de belles tailles, qu’on ne revoit plus le soir, &amp; qui déchargées du fardeau de la teste, &amp; dégagées de la prison des pieds, se trouvent, en se mettant au lit, raccourcies de plus de trois quartiers<note place="bottom"><p>Allusion aux « quartiers des souliers », qui équivalent aux talons des chaussures. Les femmes sont coquettes et superficielles de la tête aux pieds.</p></note>.</p>
+              <p>Je vois bien que tu ne sçais encore que <pb n="27" xml:id="p27"/> la moitié de ce qu’il dit des Femmes. Ecoute, voicy ce qu’il ajoute à leur Portrait. Il dit que vous n’estes qu’un <ref target="#salmigondis">Salmigondis</ref> de fousrires imposteurs, de minauderies enfantines, de trompeurs je ne sçay quoy, de riens ébloüissans, de voix radoucies, où le cœur &amp; le gosier n’ont point de part ; que le ton de Coqueterie s’est fait naturaliser chez vous, &amp; que c’est sur ce ton là que vos airs, vos coiffures, vostre bouche, &amp; vos yeux sont montez ; que les Femmes ne sont enfin qu’un amas de brillans étrangers, formé de blanc, de rouge, de mouches, de points, de rubans, de rayons, &amp; de firmamens, qui accompagnent un visage toujours masqué sans masque, &amp; enterré dans des ornemens<note place="bottom"><p>Rappelons que des articles de mode paraissaient régulièrement dans le Mercure Galant. Monique Vincent, dans <hi rend="i">Donneau de Visé et le Mercure Galant</hi>, explique que les rubriques de mode ont été mises en valeur dans la préface de l’<hi rend="i">Extraordinaire</hi> d’avril 1678 : « Toute la France demande qu’on lui apprenne les modes nouvelles. [...] Ces modes paraissent ordinairement dans le changement des saisons. [...] Dans les quatre volumes qu’on aura de [l’] Extraordinaire, on aura toutes les modes de l’année courante ».</p></note>, qui pendant le jour forment de belles tailles, qu’on ne revoit plus le soir, &amp; qui déchargées du fardeau de la teste, &amp; dégagées de la prison des pieds, se trouvent, en se mettant au lit, raccourcies de plus de trois quartiers<note place="bottom"><p>Allusion aux « quartiers des souliers », qui équivalent aux talons des chaussures. Les femmes sont coquettes et superficielles de la tête aux pieds.</p></note>.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -1346,7 +1344,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>N’as-tu point vû un portrait de Femme attaché à la <ref target="#ruelle1">ruelle*</ref> de son lit ?</p>
+              <p>N’as-tu point vû un portrait de Femme attaché à la <ref target="#ruelle1">ruelle</ref> de son lit ?</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -1354,7 +1352,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Va, va, ce n’est que du bruit. Ton honneur y seroit moins en danger que ta reputation. Mais pour t’apprendre l’histoire du Portrait, il est d’un <ref target="#objet">objet*</ref> tout aimable. Mon Maistre le vit à un Inventaire ; il en fut frappé &amp; l’acheta, mais sans pouvoir apprendre le nom &amp; la <ref target="#qualite">qualité*</ref> de l’Original. Cette avanture luy a valu depuis quelques bonnes fortunes. On crut que cette Beauté charmante l’avoit aimé jusqu’à luy faire present de son portrait. Les Femmes à la mode<note place="bottom"><p>La pièce se veut au goût du jour de l’époque puisqu’elle s’intéresse à la mode ; nous noterons aussi que la comparaison des femmes à un troupeau de moutons est très dévaloriosante et que tout le discours de Pasquin rejoint celui de Lisandre, en dénigrant ainsi les femmes.</p></note> ressemblent aux Moutons. Quand le premier d’un Troupeau franchit un fossé, le reste le suit. Lors qu’une Belle <pb n="30" xml:id="p30"/> se rend à l’amour d’un Cavalier, toutes les autres le courent, &amp; veulent juger par elles-mesmes du charme qui a fait aimer les premieres. Ainsi il n’y a qu’à mettre les Moutons en voye.</p>
+              <p>Va, va, ce n’est que du bruit. Ton honneur y seroit moins en danger que ta reputation. Mais pour t’apprendre l’histoire du Portrait, il est d’un <ref target="#objet">objet</ref> tout aimable. Mon Maistre le vit à un Inventaire ; il en fut frappé &amp; l’acheta, mais sans pouvoir apprendre le nom &amp; la <ref target="#qualite">qualité</ref> de l’Original. Cette avanture luy a valu depuis quelques bonnes fortunes. On crut que cette Beauté charmante l’avoit aimé jusqu’à luy faire present de son portrait. Les Femmes à la mode<note place="bottom"><p>La pièce se veut au goût du jour de l’époque puisqu’elle s’intéresse à la mode ; nous noterons aussi que la comparaison des femmes à un troupeau de moutons est très dévaloriosante et que tout le discours de Pasquin rejoint celui de Lisandre, en dénigrant ainsi les femmes.</p></note> ressemblent aux Moutons. Quand le premier d’un Troupeau franchit un fossé, le reste le suit. Lors qu’une Belle <pb n="30" xml:id="p30"/> se rend à l’amour d’un Cavalier, toutes les autres le courent, &amp; veulent juger par elles-mesmes du charme qui a fait aimer les premieres. Ainsi il n’y a qu’à mettre les Moutons en voye.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -1378,7 +1376,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Est-ce que ces gens-là sçavent quelque <pb n="31" xml:id="p31"/> chose ? Ils viennent à l’heure du repas, mangent beaucoup, boivent encore davantage, disent force <ref target="#menterie">menteries*</ref> pour amuser les Payeurs, &amp; sortent pour aller faire de nouvelles dupes.</p>
+              <p>Est-ce que ces gens-là sçavent quelque <pb n="31" xml:id="p31"/> chose ? Ils viennent à l’heure du repas, mangent beaucoup, boivent encore davantage, disent force <ref target="#menterie">menteries</ref> pour amuser les Payeurs, &amp; sortent pour aller faire de nouvelles dupes.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -1386,7 +1384,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Je ne sçay ce qu’ils ont dit à mon Maistre, mais il cherche depuis longtemps l’Original du Portrait, au Bal, à la Comedie, à l’Opera, au Cours, aux Tuilleries<note place="bottom"><p>Lieux  très fréquentés à l’époque.</p></note>. Il regarde toutes les Belles d’un air si passionné, qu’il s’en trouve quelquefois dont les regards croisent avec les siens. Il les <ref target="#agreger">aggrege*</ref> aussi-tost au nombre de ses Maistresses.</p>
+              <p>Je ne sçay ce qu’ils ont dit à mon Maistre, mais il cherche depuis longtemps l’Original du Portrait, au Bal, à la Comedie, à l’Opera, au Cours, aux Tuilleries<note place="bottom"><p>Lieux  très fréquentés à l’époque.</p></note>. Il regarde toutes les Belles d’un air si passionné, qu’il s’en trouve quelquefois dont les regards croisent avec les siens. Il les <ref target="#agreger">aggrege</ref> aussi-tost au nombre de ses Maistresses.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -1423,7 +1421,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Mon Maistre est un homme d’ordre. Aux heures du Palais, il plaide sa cause auprés des Femmes de robe<note place="bottom"><p>Jeu de mots : on dit normalement les « hommes de robe », qui sont les magistrats et tous les hommes de justice.</p></note>. Pendant l’absence des Officiers, il chasse sur leurs terres. Sous pretexte d’emplettes, il fait venir les plus belles Marchandes <pb n="33" xml:id="p33"/> chez luy, &amp; voit en tout temps les Filles joüissantes, &amp; <ref target="#abuser">abusantes*</ref><note place="bottom"><p>Equivaut à : «  jouissant et abusant ». Selon N. Fournier, dans la <hi rend="i">Grammaire du français classique</hi>, p. 299, au XVII<hi rend="sup">e</hi> siècle, « le participe [présent] peut être variable en genre et en nombre et s’accorder avec son support nominal ». Les « Filles » désignées par l’expression sont des courtisanes.</p></note> de leurs droits.</p>
+              <p>Mon Maistre est un homme d’ordre. Aux heures du Palais, il plaide sa cause auprés des Femmes de robe<note place="bottom"><p>Jeu de mots : on dit normalement les « hommes de robe », qui sont les magistrats et tous les hommes de justice.</p></note>. Pendant l’absence des Officiers, il chasse sur leurs terres. Sous pretexte d’emplettes, il fait venir les plus belles Marchandes <pb n="33" xml:id="p33"/> chez luy, &amp; voit en tout temps les Filles joüissantes, &amp; <ref target="#abuser">abusantes</ref><note place="bottom"><p>Equivaut à : «  jouissant et abusant ». Selon N. Fournier, dans la <hi rend="i">Grammaire du français classique</hi>, p. 299, au XVII<hi rend="sup">e</hi> siècle, « le participe [présent] peut être variable en genre et en nombre et s’accorder avec son support nominal ». Les « Filles » désignées par l’expression sont des courtisanes.</p></note> de leurs droits.</p>
             </sp>
             <sp who="henriette">
               <speaker>HENRIETTE.</speaker>
@@ -1443,7 +1441,7 @@
             </sp>
             <sp who="henriette">
               <speaker>HENRIETTE.</speaker>
-              <p>Quand il ne manqueroit de rien, dés que son manege sera découvert par les Lettres qu’il écrit à toutes les Femmes qu’il trompe, on ne liera plus aucun <ref target="#commerce2">commerce*</ref> avec luy.</p>
+              <p>Quand il ne manqueroit de rien, dés que son manege sera découvert par les Lettres qu’il écrit à toutes les Femmes qu’il trompe, on ne liera plus aucun <ref target="#commerce2">commerce</ref> avec luy.</p>
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker><pb n="34" xml:id="p34"/> 
@@ -1455,7 +1453,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Aimé, souhaité par tout, Amant sans amour, riche aprés avoir mangé son bien, &amp; trompant tout le <ref target="#sexe">sexe*</ref> sans en pouvoir estre trompé, il n’auroit jamais d’embarras, si chez trop de Belles à la fois, l’heure du Berger<note place="bottom"><p><hi rend="i">L’heure du Berger</hi> : équivaut à l’heure des amours.</p></note> ne sonnoit trop souvent pour luy. C’est une affaire, puisqu’on regarde toutes les Femmes comme des pendules à repetition<note place="bottom"><p>Allusion aux bavardages incessants des femmes, qui se répètent et provoquent l’ennui des personnes qui les écoutent.</p></note>.</p>
+              <p>Aimé, souhaité par tout, Amant sans amour, riche aprés avoir mangé son bien, &amp; trompant tout le <ref target="#sexe">sexe</ref> sans en pouvoir estre trompé, il n’auroit jamais d’embarras, si chez trop de Belles à la fois, l’heure du Berger<note place="bottom"><p><hi rend="i">L’heure du Berger</hi> : équivaut à l’heure des amours.</p></note> ne sonnoit trop souvent pour luy. C’est une affaire, puisqu’on regarde toutes les Femmes comme des pendules à repetition<note place="bottom"><p>Allusion aux bavardages incessants des femmes, qui se répètent et provoquent l’ennui des personnes qui les écoutent.</p></note>.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -1475,7 +1473,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Vous sçavez qu’il hait tous les Animaux de Province. Que voulez-vous qu’il dise à une Vieille, &amp; à sa Fille <ref target="#dindonniere">dindonniere*</ref>, qui n’ayant esté élevée que pour le Convent, croira faire mal en écoûtant un compliment galant, &amp; cependant mon Maistre n’en peut faire d’autres.</p>
+              <p>Vous sçavez qu’il hait tous les Animaux de Province. Que voulez-vous qu’il dise à une Vieille, &amp; à sa Fille <ref target="#dindonniere">dindonniere</ref>, qui n’ayant esté élevée que pour le Convent, croira faire mal en écoûtant un compliment galant, &amp; cependant mon Maistre n’en peut faire d’autres.</p>
             </sp>
             <sp who="henriette">
               <speaker>HENRIETTE.</speaker>
@@ -1483,7 +1481,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Les enfants de Paris sont <ref target="#volontaire">volontaires*</ref>. Ils ne font que ce qu’ils ont en teste<note place="bottom"><p>Ce commentaire satirique visait très certainement le public de la pièce, un public essentiellement parisien, puisque <hi rend="i">Les Dames vangées</hi> n’ont été représentées qu’à Paris.</p></note>.</p>
+              <p>Les enfants de Paris sont <ref target="#volontaire">volontaires</ref>. Ils ne font que ce qu’ils ont en teste<note place="bottom"><p>Ce commentaire satirique visait très certainement le public de la pièce, un public essentiellement parisien, puisque <hi rend="i">Les Dames vangées</hi> n’ont été représentées qu’à Paris.</p></note>.</p>
             </sp>
           </div>
           <div type="scene">
@@ -1551,9 +1549,9 @@
               <p>Rentrons, Alcippe, ma Mere nous attend.</p>
             </sp>
             <sp who="marton">
-              <speaker>MARTON, <hi rend="i">seule.</hi></speaker>
+              <speaker>MARTON, </speaker><stage>seule.</stage>
               <p>Rien n’est plus doux &amp; plus fort qu’un jeune amour, ny plus foible qu’une passion qui ne peut plus augmenter. L’Amour ressemble à la Lune ; il diminuë lorsqu’il ne sçauroit plus croistre<note place="bottom"><p>Lancaster explique que cette phrase est tirée mot pour mot de la <hi rend="i">Satire</hi> X, « Sur les Femmes », de Boileau ; mais après vérification, nous pouvons affirmer qu’il n’y a rien d’approchant chez Boileau.</p></note>. Allons observer les Lunaisons<note place="bottom"><p>Ce trait d’humour signifie que Marton souhaite observer les évolutions des marques d’amour entre Alcippe et Henriette, mais aussi les éventuels changements chez  Lisandre. Il est renforcé par ce que vient de dire Marton.</p></note>.</p>
-              <p rend="center">Fin du premier Acte.</p>
+              <trailer rend="center">Fin du premier Acte.</trailer>
             </sp>
           </div>
         </div>
@@ -1585,7 +1583,7 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Si vous m’aimez, ma Sœur, faites-moy le plaisir de m’aimer un peu moins, &amp; de ne me plus fatiguer avec vos <ref target="#remontrance">remontrances*</ref> eternelles.</p>
+              <p>Si vous m’aimez, ma Sœur, faites-moy le plaisir de m’aimer un peu moins, &amp; de ne me plus fatiguer avec vos <ref target="#remontrance">remontrances</ref> eternelles.</p>
             </sp>
             <sp who="henriette">
               <speaker>HENRIETTE.</speaker>
@@ -1609,7 +1607,7 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Ah, pour son bien, je n’en veux point avec ses charges. Rien n’est plus terrible pour de jeunes gens, que des Oncles qui les menacent d’un gros heritage. Ils les preschent sans cesse, &amp; comme mon Oncle peut vivre encore vingt ans, je veux fuir le <ref target="#chagrin">chagrin*</ref> que me donneroient ses fatigantes leçons, &amp; je perdrois en les écoûtant vingt années de bon temps qui valent mieux que vingt années de grimaces. Ainsi j’aime mieux, pour éviter la contrainte où je serois obligé de vivre, abandonner le sterile espoir d’une succession douteuse, que de renoncer à tous les plaisirs.</p>
+              <p>Ah, pour son bien, je n’en veux point avec ses charges. Rien n’est plus terrible pour de jeunes gens, que des Oncles qui les menacent d’un gros heritage. Ils les preschent sans cesse, &amp; comme mon Oncle peut vivre encore vingt ans, je veux fuir le <ref target="#chagrin">chagrin</ref> que me donneroient ses fatigantes leçons, &amp; je perdrois en les écoûtant vingt années de bon temps qui valent mieux que vingt années de grimaces. Ainsi j’aime mieux, pour éviter la contrainte où je serois obligé de vivre, abandonner le sterile espoir d’une succession douteuse, que de renoncer à tous les plaisirs.</p>
             </sp>
             <sp who="henriette">
               <speaker>HENRIETTE.</speaker>
@@ -1641,7 +1639,7 @@
             </sp>
             <sp who="henriette">
               <speaker>HENRIETTE.</speaker>
-              <p>Mon Frere n’a d’<ref target="#empressement">empressement*</ref> que pour ce qui le divertit.</p>
+              <p>Mon Frere n’a d’<ref target="#empressement">empressement</ref> que pour ce qui le divertit.</p>
             </sp>
             <sp who="silvanire">
               <speaker> SILVANIRE.</speaker><pb n="43" xml:id="p43"/>
@@ -1701,19 +1699,19 @@
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
-              <p>En verité, mon Fils, vous devenez bien <ref target="#ridicule">ridicule*</ref>.</p>
+              <p>En verité, mon Fils, vous devenez bien <ref target="#ridicule">ridicule</ref>.</p>
             </sp>
           </div>
           <div type="scene">
             <head>SCENE III.</head>
             <stage>SILVANIRE, LISANDRE, HENRIETTE, MARTON.</stage>
             <sp who="marton">
-              <speaker>MARTON, <hi rend="i">à Henriette</hi>.</speaker>
+              <speaker>MARTON, </speaker><stage>à Henriette</stage>
               <p>Enfin vous n’attendrez plus, &amp; vous perdrez bien-tost le nom de Fille. On débarque à nostre porte.</p>
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
-              <p>Il faut aller au devant. Allez les recevoir à la portiere du Carosse, &amp; nous les attendrons vostre Sœur et moy au haut du <ref target="#degre">degré*</ref>.</p>
+              <p>Il faut aller au devant. Allez les recevoir à la portiere du Carosse, &amp; nous les attendrons vostre Sœur et moy au haut du <ref target="#degre">degré</ref>.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -1732,7 +1730,7 @@
               <p>Le jargon de Monsieur n’est entendu que des Coquettes.</p>
             </sp>
             <sp who="silvanire">
-              <speaker>SILVANIRE, <hi rend="i">à Marton</hi>.</speaker>
+              <speaker>SILVANIRE, </speaker><stage>à Marton</stage>
               <p>Cours viste, va leur dire que nous descendons.</p>
             </sp>
             <sp who="marton">
@@ -1749,7 +1747,7 @@
             </sp>
             <sp who="henriette">
               <speaker>HENRIETTE.</speaker>
-              <p>Les voicy. Vostre lenteur est cause qu’elles nous ont <ref target="#prevenir">prevenuës*</ref>.</p>
+              <p>Les voicy. Vostre lenteur est cause qu’elles nous ont <ref target="#prevenir">prevenuës</ref>.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -1776,11 +1774,11 @@
               <p>J’y répondray, Madame, avec la mesme tendresse, accompagnée de beaucoup de respect.</p>
             </sp>
             <sp who="lisandre">
-              <speaker>LISANDRE, <hi rend="i">aprés avoir examiné Hortense attentivement</hi>.</speaker><pb n="48" xml:id="p48"/> 
+              <speaker>LISANDRE, </speaker><stage>aprés avoir examiné Hortense attentivement</stage><pb n="48" xml:id="p48"/> 
               <p>Non, ce qui m’arrive aujourd’huy n’a point d’exemple.</p>
             </sp>
             <sp who="silvanire">
-              <speaker>SILVANIRE, <hi rend="i">embrassant Hortense</hi>.</speaker>
+              <speaker>SILVANIRE, </speaker><stage>embrassant Hortense</stage>
               <p>Paris a peu d’aussi belles personnes.</p>
             </sp>
             <sp who="hortense">
@@ -1796,7 +1794,7 @@
               <p>Non, je ne puis sortir de ma surprise. Ce que je vois me semble incroyable. Je suis… Je sens…</p>
             </sp>
             <sp who="silvanire">
-              <speaker>SILVANIRE, <hi rend="i">à Lisandre</hi>.</speaker>
+              <speaker>SILVANIRE, </speaker><stage>à Lisandre</stage>
               <p>Saluez donc.</p>
             </sp>
             <sp who="orasie">
@@ -1805,7 +1803,7 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Je suis si surpris de voir tant de <ref target="#charme">charmes*</ref>…</p>
+              <p>Je suis si surpris de voir tant de <ref target="#charme">charmes</ref>…</p>
             </sp>
             <sp who="orasie">
               <speaker>ORASIE.</speaker>
@@ -1828,8 +1826,8 @@
               <p>Que pourrois-je dire de meilleur ? je veux que Madame sçache les avantages dont nostre Maison se doit glorifier. Nous allons nous unir, &amp; on ne sçait peut-estre pas bien ce que nous sommes.</p>
             </sp>
             <sp who="alcippe">
-              <speaker>ALCIPPE, <hi rend="i">à part</hi>.</speaker>
-              <p>Je suis au desespoir, son <ref target="#entestement">entestement*</ref> va paroistre.</p>
+              <speaker>ALCIPPE, </speaker><stage>à part</stage>
+              <p>Je suis au desespoir, son <ref target="#entestement">entestement</ref> va paroistre.</p>
             </sp>
             <sp who="orasie">
               <speaker>ORASIE.</speaker><pb n="50" xml:id="p50"/> 
@@ -1877,7 +1875,7 @@
               <p>N’en soyez point en peine. Le hazard l’a fait tomber en bonne main, &amp; celuy qui a le bonheur de le posseder, estime trop l’original pour n’en pas garder la copie.</p>
             </sp>
             <sp who="silvanire">
-              <speaker>SILVANIRE, <hi rend="i">à Orasie</hi>.</speaker>
+              <speaker>SILVANIRE, </speaker><stage>à Orasie</stage>
               <p>Allons dans ma chambre<note place="bottom"><p>Furetière explique qu’une chambre est une « partie d’un appartement » ; le terme « chambre » désigne en fait très généralement un salon.</p></note>. Je vous aurois plutost priée d’y entrer, si je n’avois apprehendé d’interrompre vos titres de Noblesse.</p>
             </sp>
           </div>
@@ -1889,7 +1887,7 @@
               <p>Madame, un moment. Mais mon trouble s’augmente, mon esprit s’embarasse, mon cœur combat contre ma raison.</p>
             </sp>
             <sp who="hortense">
-              <speaker>HORTENSE, <hi rend="i">à Lisette</hi>.</speaker><pb n="53" xml:id="p53"/> 
+              <speaker>HORTENSE, </speaker><stage>à Lisette</stage><pb n="53" xml:id="p53"/> 
               <p>M’arrester, me parler, &amp; se taire tout à coup ! Ces manieres me paroissent nouvelles.</p>
             </sp>
             <sp who="lisandre">
@@ -1902,11 +1900,11 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Peut-on voir tant de merite &amp; tant de <ref target="#charme">charmes*</ref> ?</p>
+              <p>Peut-on voir tant de merite &amp; tant de <ref target="#charme">charmes</ref> ?</p>
             </sp>
             <sp who="hortense">
               <speaker>HORTENSE.</speaker>
-              <p><ref target="#souffrir3">Souffrez*</ref> qu’en interrompant des loüanges peu sinceres, &amp; que l’on donne icy à toutes les Femmes, je vous dise qu’on sçait mieux dans les Provinces ce qui se passe à Paris, que dans Paris mesme, par le soin qu’on prend d’y mander jusques aux moindres choses ; que nous sommes voisines d’une jeune Veuve, qui estant venuë icy pour quelques procés, y a fait des Amis, dont elle reçoit tous les ordinaires jusqu’aux moindres <ref target="#vaudeville">Vaudevilles*</ref>, &amp; que ces mesmes Amis vous ont dépeint dans leurs lettres comme un homme singulier, qui <pb n="54" xml:id="p54"/> estimant peu tout le <ref target="#sexe">sexe*</ref>, se fait une gloire d’en estre aimé.</p>
+              <p><ref target="#souffrir3">Souffrez</ref> qu’en interrompant des loüanges peu sinceres, &amp; que l’on donne icy à toutes les Femmes, je vous dise qu’on sçait mieux dans les Provinces ce qui se passe à Paris, que dans Paris mesme, par le soin qu’on prend d’y mander jusques aux moindres choses ; que nous sommes voisines d’une jeune Veuve, qui estant venuë icy pour quelques procés, y a fait des Amis, dont elle reçoit tous les ordinaires jusqu’aux moindres <ref target="#vaudeville">Vaudevilles</ref>, &amp; que ces mesmes Amis vous ont dépeint dans leurs lettres comme un homme singulier, qui <pb n="54" xml:id="p54"/> estimant peu tout le <ref target="#sexe">sexe</ref>, se fait une gloire d’en estre aimé.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -1937,7 +1935,7 @@
               <p>Rien ne peut embarasser un esprit comme le vostre.</p>
             </sp>
             <sp who="hortense">
-              <speaker>HORTENSE, <hi rend="i">à Lisette</hi>.</speaker>
+              <speaker>HORTENSE, </speaker><stage>à Lisette</stage>
               <p>Les portraits qu’on fait de Lisandre <pb n="55" xml:id="p55"/> me paroissent peu ressemblans.</p>
             </sp>
             <sp who="lisandre">
@@ -1962,7 +1960,7 @@
             </sp>
             <sp who="hortense">
               <speaker>HORTENSE.</speaker>
-              <p>Vous me permettrez, s’il vous plaist, d’allez rejoindre la <ref target="#compagnie">Compagnie*</ref>.</p>
+              <p>Vous me permettrez, s’il vous plaist, d’allez rejoindre la <ref target="#compagnie">Compagnie</ref>.</p>
             </sp>
           </div>
           <div type="scene">
@@ -2014,7 +2012,7 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Ca <ref target="#maraut">maraut*</ref>-là faisoit le sourd.</p>
+              <p>Ca <ref target="#maraut">maraut</ref>-là faisoit le sourd.</p>
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
@@ -2038,7 +2036,7 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Ce <ref target="#coquin">coquin*</ref>-là me fait enrager.</p>
+              <p>Ce <ref target="#coquin">coquin</ref>-là me fait enrager.</p>
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
@@ -2141,7 +2139,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Qui a diverty la <ref target="#compagnie">Compagnie*</ref> par un langage &amp; des contorsions ridicules.</p>
+              <p>Qui a diverty la <ref target="#compagnie">Compagnie</ref> par un langage &amp; des contorsions ridicules.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -2152,12 +2150,12 @@
               <p>Peut-on se taire quand il s’agit de ces animaux-là ?</p>
             </sp>
             <sp who="lisandre">
-              <speaker>LISANDRE, <hi rend="i">le frappant</hi>.</speaker>
+              <speaker>LISANDRE, </speaker><stage>le frappant</stage>
               <p>Insolent, voila ce que tu merites.</p>
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Et ce que j’attendois pour estre éclaircy. Réveur, emporté, ne sçachant ce F, <pb n="61" xml:id="p61"/> que vous faites, ny ce que vous dites, vous me frappez, moy qui vous rens tous les jours des services <ref target="#chatouilleux">chatoüilleux*</ref>. Vous aimez, &amp; le pis que j’y trouve, c’est que vous aimez tout de bon.</p>
+              <p>Et ce que j’attendois pour estre éclaircy. Réveur, emporté, ne sçachant ce F, <pb n="61" xml:id="p61"/> que vous faites, ny ce que vous dites, vous me frappez, moy qui vous rens tous les jours des services <ref target="#chatouilleux">chatoüilleux</ref>. Vous aimez, &amp; le pis que j’y trouve, c’est que vous aimez tout de bon.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -2194,7 +2192,7 @@
             <head>SCENE VIII.</head>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>La playe est profonde, &amp; l’amour bien violent, lors qu’on ne peut demeurer <pb n="63" xml:id="p63"/> en place. Quand les cœurs sont si remplis d’amour, il faut des remedes bien specifiques pour guerir de pareilles <ref target="#repletion">repletions*</ref>.</p>
+              <p>La playe est profonde, &amp; l’amour bien violent, lors qu’on ne peut demeurer <pb n="63" xml:id="p63"/> en place. Quand les cœurs sont si remplis d’amour, il faut des remedes bien specifiques pour guerir de pareilles <ref target="#repletion">repletions</ref>.</p>
             </sp>
           </div>
           <div type="scene">
@@ -2274,7 +2272,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Pour connoistre si son  amour estoit de bon aloy, j’ay dit du mal d’Hortense ; il n’a pu le <ref target="#souffrir4">souffrir*</ref>, &amp; les coups qu’il m’a donnez m’ont appris ce que je voulois sçavoir.</p>
+              <p>Pour connoistre si son  amour estoit de bon aloy, j’ay dit du mal d’Hortense ; il n’a pu le <ref target="#souffrir4">souffrir</ref>, &amp; les coups qu’il m’a donnez m’ont appris ce que je voulois sçavoir.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -2313,7 +2311,7 @@
               <p>Il entre dans les convulsions.</p>
             </sp>
             <sp who="lisandre">
-              <speaker>LISANDRE, <hi rend="i">à Pasquin</hi>.</speaker>
+              <speaker>LISANDRE, </speaker><stage>à Pasquin</stage>
               <p>Quoy, je te retrouve encore icy ?</p>
             </sp>
             <sp who="pasquin">
@@ -2346,7 +2344,7 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p><ref target="#maraut">Maraut*</ref>.</p>
+              <p><ref target="#maraut">Maraut</ref>.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -2402,7 +2400,7 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker><pb n="69" xml:id="p69"/> 
-              <p>Voila le beau <ref target="#sexe">Sexe*</ref> à demi vangé. Je ne croy pas que vous puissiez vous saisir d’abord du corps de la Place<note place="bottom"><p>Allusion à la scène 6 de l’acte I.</p></note>.</p>
+              <p>Voila le beau <ref target="#sexe">Sexe</ref> à demi vangé. Je ne croy pas que vous puissiez vous saisir d’abord du corps de la Place<note place="bottom"><p>Allusion à la scène 6 de l’acte I.</p></note>.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -2458,7 +2456,7 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Je ne riray plus, mais mon serieux vous plaira encore moins. Nous avions resolu Pasquin, vostre Mere, &amp; moy, de travailler à vous rendre <ref target="#honneste">honneste*</ref> homme, en cherchant à vous faire donner dans le mariage. Vous y donnez, mais mal, &amp; gastez tous nos projets &amp; toutes vos affaires. Pensez-vous que la Mere d’Hortense, qui ne cherche que les avantages de son Fils pour soûtenir sa chimerique grandeur, consente à <pb n="71" xml:id="p71"/> vostre mariage qui osteroit à son Fils le bien que sa Sœur luy donne, &amp; si cette donation n’avoit plus de lieu, croyez-vous que vostre Mere voulust que vostre Sœur épousast Alcippe avec moins de bien ?</p>
+              <p>Je ne riray plus, mais mon serieux vous plaira encore moins. Nous avions resolu Pasquin, vostre Mere, &amp; moy, de travailler à vous rendre <ref target="#honneste">honneste</ref> homme, en cherchant à vous faire donner dans le mariage. Vous y donnez, mais mal, &amp; gastez tous nos projets &amp; toutes vos affaires. Pensez-vous que la Mere d’Hortense, qui ne cherche que les avantages de son Fils pour soûtenir sa chimerique grandeur, consente à <pb n="71" xml:id="p71"/> vostre mariage qui osteroit à son Fils le bien que sa Sœur luy donne, &amp; si cette donation n’avoit plus de lieu, croyez-vous que vostre Mere voulust que vostre Sœur épousast Alcippe avec moins de bien ?</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -2499,7 +2497,7 @@
             <sp who="marton">
               <speaker>MARTON.</speaker>
               <p>Nous allons voir. Celuy-cy est des plus difficiles, &amp; l’amour sera bien habile, s’il en peut venir à bout.</p>
-              <p rend="center">Fin du second Acte.</p>
+              <trailer rend="center">Fin du second Acte.</trailer>
             </sp>
           </div>
         </div>
@@ -2515,7 +2513,7 @@
             </sp>
             <sp who="henriette">
               <speaker>HENRIETTE.</speaker><pb n="74" xml:id="p74"/> 
-              <p>Ce que vous dites ne me persuade que trop. Vostre Sœur a des <ref target="#charme">charmes*</ref>, elle a de l’esprit, &amp; mon Frere est prompt à s’enflammer.</p>
+              <p>Ce que vous dites ne me persuade que trop. Vostre Sœur a des <ref target="#charme">charmes</ref>, elle a de l’esprit, &amp; mon Frere est prompt à s’enflammer.</p>
             </sp>
             <sp who="alcippe">
               <speaker>ALCIPPE.</speaker>
@@ -2546,7 +2544,7 @@
               <p>Vous m’avez engagé dans de si beaux liens, que je ne me lasseray jamais de les porter.</p>
             </sp>
             <sp who="orasie">
-              <speaker>ORASIE, <hi rend="i">à Alcippe</hi>.</speaker>
+              <speaker>ORASIE, </speaker><stage>à Alcippe</stage>
               <p>Laissez-nous, je veux entretenir vostre Sœur.</p>
             </sp>
           </div>
@@ -2555,7 +2553,7 @@
             <stage>ORASIE, HORTENSE, LISETTE.</stage>
             <sp who="orasie">
               <speaker>ORASIE.</speaker>
-              <p>C’est en vain que vous prétendez me déguiser vostre chagrin ; il paroist trop depuis nostre arrivée. Il faut que Paris ait bien peu de <ref target="#charme">charmes*</ref> pour vous, ou qu’il en ait que vous ayez peine à quitter.</p>
+              <p>C’est en vain que vous prétendez me déguiser vostre chagrin ; il paroist trop depuis nostre arrivée. Il faut que Paris ait bien peu de <ref target="#charme">charmes</ref> pour vous, ou qu’il en ait que vous ayez peine à quitter.</p>
             </sp>
             <sp who="hortense">
               <speaker>HORTENSE.</speaker>
@@ -2566,7 +2564,7 @@
               <p>Je ne vous ay point forcée à prendre le party que vous avez bien voulu embrasser.</p>
             </sp>
             <sp who="lisette">
-              <speaker>LISETTE, <hi rend="i">à part</hi>.</speaker>
+              <speaker>LISETTE, </speaker><stage>à part</stage>
               <p>Quand les Meres souhaitent, les Filles font souvent voir une volonté peu volontaire.</p>
             </sp>
             <sp who="orasie">
@@ -2574,7 +2572,7 @@
               <p>L’amour que vous avez pour vostre <pb n="77" xml:id="p77"/> Maison vous a fait donner à vostre Frere dequoy marcher sur les traces de ses Ayeux. S’il se distingue, la Gazette<note place="bottom"><p>Il s’agit de <hi rend="i">La Gazette de France</hi>, « écrit périodique contenant les nouvelles politiques, etc. », selon Littré. <hi rend="i">La Gazette de France</hi> était un périodique qui relatait les événements concernant le roi et les grands seigneurs de France. Orasie est attirée par la renommée qu’elle aura une fois le nom de sa famille paru dans la « Gazette ».</p></note> parlera de luy. Que cela vous doit causer de joye !</p>
             </sp>
             <sp who="lisette">
-              <speaker>LISETTE, <hi rend="i">à part</hi>.</speaker>
+              <speaker>LISETTE, </speaker><stage>à part</stage>
               <p>On n’en prend guere quand elle couste si cher.</p>
             </sp>
             <sp who="orasie">
@@ -2639,7 +2637,7 @@
               <p>Je crains d’apprendre quelque chose qui me chagrine. Et bien, parlerez-vous ?</p>
             </sp>
             <sp who="hortense">
-              <speaker>HORTENSE, <hi rend="i">à part</hi>.</speaker>
+              <speaker>HORTENSE, </speaker><stage>à part</stage>
               <p>Que luy diray-je ?</p>
             </sp>
             <sp who="orasie">
@@ -2651,7 +2649,7 @@
               <p>Il faut vous avouër la verité.</p>
             </sp>
             <sp who="lisette">
-              <speaker>LISETTE, <hi rend="i">à part</hi>.</speaker>
+              <speaker>LISETTE, </speaker><stage>à part</stage>
               <p>Voila une verité qui cherche à mentir.</p>
             </sp>
             <sp who="hortense">
@@ -2668,7 +2666,7 @@
             </sp>
             <sp who="orasie">
               <speaker>ORASIE.</speaker>
-              <p>Les hommes sont bien trompeurs, &amp; il est malaisé de les connoistre quand ils ont resolu de se déguiser. Combien le Frere de vostre futur Belle-sœur a-t-il trompé de Femmes avec un air &amp; des manieres agreables ! Cependant c’est un homme qui n’a nulle estime pour le <ref target="#sexe">sexe*</ref>, sans conduite, dereglé dans ses mœurs, &amp; qui rendroit une Femme malheureuse.</p>
+              <p>Les hommes sont bien trompeurs, &amp; il est malaisé de les connoistre quand ils ont resolu de se déguiser. Combien le Frere de vostre futur Belle-sœur a-t-il trompé de Femmes avec un air &amp; des manieres agreables ! Cependant c’est un homme qui n’a nulle estime pour le <ref target="#sexe">sexe</ref>, sans conduite, dereglé dans ses mœurs, &amp; qui rendroit une Femme malheureuse.</p>
             </sp>
             <sp who="hortense">
               <speaker>HORTENSE.</speaker>
@@ -2720,7 +2718,7 @@
             </sp>
             <sp who="hortense">
               <speaker>HORTENSE.</speaker>
-              <p>Lisandre ? Moy, j’aimerois Lisandre, l’ennemy de tout mon <ref target="#sexe">Sexe*</ref>, un presomptueux, qui n’a d’attachement que par rapport à ses plaisirs, qui n’a rien de solide, &amp; qui n’est constant que dans son inconstance ?</p>
+              <p>Lisandre ? Moy, j’aimerois Lisandre, l’ennemy de tout mon <ref target="#sexe">Sexe</ref>, un presomptueux, qui n’a d’attachement que par rapport à ses plaisirs, qui n’a rien de solide, &amp; qui n’est constant que dans son inconstance ?</p>
             </sp>
             <sp who="lisette">
               <speaker>LISETTE.</speaker>
@@ -2736,7 +2734,7 @@
             </sp>
             <sp who="hortense">
               <speaker>HORTENSE.</speaker>
-              <p>Ne vois-tu pas que ma Mere, dans l’<ref target="#entestement">entestement*</ref> qu’elle a d’enrichir mon Frere pour élever sa Maison, seroit au desespoir si je luy manquois de parole ?</p>
+              <p>Ne vois-tu pas que ma Mere, dans l’<ref target="#entestement">entestement</ref> qu’elle a d’enrichir mon Frere pour élever sa Maison, seroit au desespoir si je luy manquois de parole ?</p>
             </sp>
             <sp who="lisette">
               <speaker>LISETTE.</speaker>
@@ -2803,7 +2801,7 @@
               <p>Je le vois. Vous me voulez accabler par vostre indifference.</p>
             </sp>
             <sp who="hortense">
-              <speaker>HORTENSE, <hi rend="i">bas à Lisette</hi>.</speaker>
+              <speaker>HORTENSE, </speaker><stage>bas à Lisette</stage>
               <p>Quelle indifference !</p>
             </sp>
             <sp who="lisandre">
@@ -2812,14 +2810,14 @@
             </sp>
             <sp who="hortense">
               <speaker>HORTENSE.</speaker>
-              <p>Mille raisons me doivent empescher de vous répondre, &amp; je risquerois trop en épousant l’ennemi de mon <ref target="#sexe">Sexe*</ref>.</p>
+              <p>Mille raisons me doivent empescher de vous répondre, &amp; je risquerois trop en épousant l’ennemi de mon <ref target="#sexe">Sexe</ref>.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE<note place="bottom"><p>L’édition de 1695 comporte HORTENSE au lieu de LISANDRE ; l’erreur est corrigée dans l’édition d’Amsterdam.</p></note>.</speaker>
-              <p>Ah, Madame, qui sçait mieux que <pb n="88" xml:id="p88"/> moy, que vostre <ref target="#sexe">Sexe*</ref> fait la plus belle moitié du monde, qu’il est l’admiration de l’Univers, le charme des cœurs, &amp; les delices des yeux, que les hommes consument leur jeunesse à se faire un esprit que les Femmes ont en naissant ; que leur goust nous sert de regle, que la vraye politesse se trouve chez elles ; que la delicatesse y regne, &amp; que nous apprenons le chemin de la gloire, quand pour meriter leur amour, nous marchons sur les traces des Heros ?</p>
+              <p>Ah, Madame, qui sçait mieux que <pb n="88" xml:id="p88"/> moy, que vostre <ref target="#sexe">Sexe</ref> fait la plus belle moitié du monde, qu’il est l’admiration de l’Univers, le charme des cœurs, &amp; les delices des yeux, que les hommes consument leur jeunesse à se faire un esprit que les Femmes ont en naissant ; que leur goust nous sert de regle, que la vraye politesse se trouve chez elles ; que la delicatesse y regne, &amp; que nous apprenons le chemin de la gloire, quand pour meriter leur amour, nous marchons sur les traces des Heros ?</p>
             </sp>
             <sp who="hortense">
-              <speaker>HORTENSE, <hi rend="i">à Lisette</hi>.</speaker>
+              <speaker>HORTENSE, </speaker><stage>à Lisette</stage>
               <p>Ah, Lisette ! s’il estoit bien persuadé de ce qu’il vient de dire.</p>
             </sp>
             <sp who="lisandre">
@@ -2828,7 +2826,7 @@
             </sp>
             <sp who="hortense">
               <speaker>HORTENSE.</speaker>
-              <p>Les loüanges que vous donnez à mon <ref target="#sexe">Sexe*</ref> ne suffisent pas pour gagner l’esprit de ma Mere. Comme elle s’est flattée que je laisserois tout mon bien à mon Frere, pourroit-elle, sans se plaindre, me voir changer de resolution ?</p>
+              <p>Les loüanges que vous donnez à mon <ref target="#sexe">Sexe</ref> ne suffisent pas pour gagner l’esprit de ma Mere. Comme elle s’est flattée que je laisserois tout mon bien à mon Frere, pourroit-elle, sans se plaindre, me voir changer de resolution ?</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker><pb n="89" xml:id="p89"/> 
@@ -2840,7 +2838,7 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Mon amour ne doit pas estre regardé comme un amour naissant &amp; passager. Vostre seul Portrait depuis plus d’une année, a plus fait d’impression sur mon cœur, que cent <ref target="#objet">objets*</ref> d’une beauté reconnuë.</p>
+              <p>Mon amour ne doit pas estre regardé comme un amour naissant &amp; passager. Vostre seul Portrait depuis plus d’une année, a plus fait d’impression sur mon cœur, que cent <ref target="#objet">objets</ref> d’une beauté reconnuë.</p>
             </sp>
             <sp who="hortense">
               <speaker>HORTENSE.</speaker>
@@ -2851,7 +2849,7 @@
               <p>Si vous n’allez pas plus viste, vous n’arriverez de long-temps au Convent.</p>
             </sp>
             <sp who="hortense">
-              <speaker>HORTENSE, <hi rend="i">à Lisette.</hi></speaker>
+              <speaker>HORTENSE, </speaker><stage>à Lisette.</stage>
               <p>Quand on ne sçait ce qu’on veut, peut-on sçavoir ce qu’on fait ?</p>
             </sp>
             <sp who="lisandre">
@@ -2868,7 +2866,7 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p><ref target="#souffrir3">Souffrez*</ref>, Monsieur, que je vous en felicite.</p>
+              <p><ref target="#souffrir3">Souffrez</ref>, Monsieur, que je vous en felicite.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -2948,7 +2946,7 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Ah, Monsieur, vous connoissiez mal le <ref target="#sexe">Sexe*</ref> quand vous avez cru que toutes les Femmes estoient formées sur le modèle des Coquettes.</p>
+              <p>Ah, Monsieur, vous connoissiez mal le <ref target="#sexe">Sexe</ref> quand vous avez cru que toutes les Femmes estoient formées sur le modèle des Coquettes.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -2964,7 +2962,7 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Voila le ton que vous devez prendre pour vous raccommoder avec le <ref target="#sexe">Sexe*</ref>.</p>
+              <p>Voila le ton que vous devez prendre pour vous raccommoder avec le <ref target="#sexe">Sexe</ref>.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -2990,7 +2988,7 @@
               <speaker>MARTON.</speaker>
               <p>Quel torrent de paroles, &amp; que les Amans en disent d’inutiles ! On gasteroit bien des affaires si pour les servir on se donnoit des mouvemens aussi empressez que leur amour. Vous allez voir si nous avons de l’esprit. Je prens sur mon compte Hortense &amp; vostre Mere, &amp; si d’abord je ne vous les rens pas favorables, j’exciteray de si grands troubles dans leur cœur, qu’elles seront dans peu contraintes de capituler. Je prouveray ensuite à Hortense que vous n’aimez ny la table, ny le jeu, &amp; que vous n’estes point de ces Heros nocturnes, qui disputent le haut du pavé aux Archers du Guet<note place="bottom"><p>Les Archets du Guet sont ceux qui, pendant la nuit, assurent la sécurité dans les rues.</p></note>. Je luy feray voir que n’ayant soupiré que pour des Coquettes que vous estimez peu, <pb n="96" xml:id="p96"/></p>
               <stage>(Pasquin paroist),</stage>
-              <p>vous ne quitterez point pour vous marier, de ces Maistresses que l’on reprend aprés quelques jours de mariage. Je n’oublieray point à parler de vostre esprit, Hortense m’écoutera ; elle reflechira sur tout ce que je luy diray, l’amour s’en meslera, la raison parlera plus bas, &amp; l’hymen pour nous réjouïr sera suivi de cent <ref target="#epithalame">Epithalames*</ref>.</p>
+              <p>vous ne quitterez point pour vous marier, de ces Maistresses que l’on reprend aprés quelques jours de mariage. Je n’oublieray point à parler de vostre esprit, Hortense m’écoutera ; elle reflechira sur tout ce que je luy diray, l’amour s’en meslera, la raison parlera plus bas, &amp; l’hymen pour nous réjouïr sera suivi de cent <ref target="#epithalame">Epithalames</ref>.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -3006,7 +3004,7 @@
             <stage>LISANDRE, PASQUIN.</stage>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Il faut l’avouër, les Femmes sont habiles en tout. A quinze ans une Fille est faite, &amp; souvent à trente un homme n’est qu’un sot. L’esprit leur vient avant la raison, &amp; quand leurs Freres sont encore à l’Alphabet, elles regentent dans les <ref target="#ruelle2">ruelles*</ref>.</p>
+              <p>Il faut l’avouër, les Femmes sont habiles en tout. A quinze ans une Fille est faite, &amp; souvent à trente un homme n’est qu’un sot. L’esprit leur vient avant la raison, &amp; quand leurs Freres sont encore à l’Alphabet, elles regentent dans les <ref target="#ruelle2">ruelles</ref>.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -3014,9 +3012,9 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Depuis que vous les estimez, il m’a pris envie de les estimer aussi. Les Femmes sont les delices de la vie, la joye de la table, le Soleil des ruelles, la lune des Voyageurs nocturnes, la boussole des marins, &amp; la ressource des Officiers ruinez. Sur leurs simples recommandations on donne des agrémens de Charges, des audiences, des emplois, des <pb n="98" xml:id="p98"/> Arrests, &amp; des Licences en Droit. Elles font les Academiciens, les Orateurs ont besoin de leur cabale. La pluspart des <ref target="#traitant">Traitans*</ref> leur doivent toute leur fortune. Elles font par tout la pluye &amp; le beau temps,</p>
+              <p>Depuis que vous les estimez, il m’a pris envie de les estimer aussi. Les Femmes sont les delices de la vie, la joye de la table, le Soleil des ruelles, la lune des Voyageurs nocturnes, la boussole des marins, &amp; la ressource des Officiers ruinez. Sur leurs simples recommandations on donne des agrémens de Charges, des audiences, des emplois, des <pb n="98" xml:id="p98"/> Arrests, &amp; des Licences en Droit. Elles font les Academiciens, les Orateurs ont besoin de leur cabale. La pluspart des <ref target="#traitant">Traitans</ref> leur doivent toute leur fortune. Elles font par tout la pluye &amp; le beau temps,</p>
               <l>Elles donnent l’esprit, le merite, le bien,</l>
-              <l><hi rend="i">Tout se fait par le <ref target="#sexe">Sexe*</ref>, &amp; sans le <ref target="#sexe">Sexe*</ref>, rien</hi>.<note place="bottom"><p>Ces deux alexandrins sont certainement une citation, mais leur auteur n’est pas identifiable.</p></note></l>
+              <l><hi rend="i">Tout se fait par le <ref target="#sexe">Sexe</ref>, &amp; sans le <ref target="#sexe">Sexe</ref>, rien</hi>.<note place="bottom"><p>Ces deux alexandrins sont certainement une citation, mais leur auteur n’est pas identifiable.</p></note></l>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -3114,7 +3112,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Si tous vos empressemens sont sans effet, allez jusqu’à l’évanouïssement. C’est une pierre de touche merveilleuse pour éprouver l’amour. <ref target="#souffrir3">Souffrez*</ref> jusques au seau d’eau en homme tout-à-fait mort, pour faire voir que rien ne peut noyer vostre amour. Enfin en évanouy bien sensé, soyez sourd à toutes les voix qui vous appelleront. Que celle d’Hortense vous fasse seule entrouvrir les yeux, &amp; dites-luy du ton d’un homme <pb n="103" xml:id="p103"/> de l’autre monde, <hi rend="i">que sa voix vous a fait revenir des portes du trépas</hi>. Si vous remarquez que vous soyez ressuscité trop tost, redevenez mort, &amp; selon que vous le jugerez à propos, soyez dans la suite, sage, emporté, doux, mort ou vivant. Il ne s’agit que d’estre bon Comedien<note place="bottom"><p>Pasquin donne ici, à travers une forme de métatextualité, la définition du bon comédien.</p></note>. Par là les plus fins sont dupez, &amp; les plus belles en tiennent.</p>
+              <p>Si tous vos empressemens sont sans effet, allez jusqu’à l’évanouïssement. C’est une pierre de touche merveilleuse pour éprouver l’amour. <ref target="#souffrir3">Souffrez</ref> jusques au seau d’eau en homme tout-à-fait mort, pour faire voir que rien ne peut noyer vostre amour. Enfin en évanouy bien sensé, soyez sourd à toutes les voix qui vous appelleront. Que celle d’Hortense vous fasse seule entrouvrir les yeux, &amp; dites-luy du ton d’un homme <pb n="103" xml:id="p103"/> de l’autre monde, <hi rend="i">que sa voix vous a fait revenir des portes du trépas</hi>. Si vous remarquez que vous soyez ressuscité trop tost, redevenez mort, &amp; selon que vous le jugerez à propos, soyez dans la suite, sage, emporté, doux, mort ou vivant. Il ne s’agit que d’estre bon Comedien<note place="bottom"><p>Pasquin donne ici, à travers une forme de métatextualité, la définition du bon comédien.</p></note>. Par là les plus fins sont dupez, &amp; les plus belles en tiennent.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -3125,8 +3123,8 @@
             <head>SCENE VIII.</head>
             <sp who="pasquin">
               <speaker>PASQUIN<note place="bottom"><p>L’édition de 1737 ajoute la didascalie <hi rend="i">seul.</hi></p></note>.</speaker>
-              <p>S’il réüssit, mes avis seront récompensez. Cecy prend un bon chemin. La <ref target="#folie">folie*</ref> des Maistres doit estre utile aux Valets, &amp; quand nous nous engageons avec un jeune homme, nous devons moins compter sur nos gages, que sur ce que ses plaisirs &amp; ses amours nous rapportent. C’est dans ces occasions que <pb n="104" xml:id="p104"/> nos services sont payez comptant. C’est par là qu’un Maistre-Valet gagne dequoy acheter une Noblesse, qui sert d’époussette à toutes les ordures de sa vie. Nombre de mes Camarades sont déja bien époussetez. Travaillons à gagner dequoy nous décroter comme eux. Les desordres des Maistres ne doivent pas moins contribuer à l’établissement des Valets, que la ruine des grandes Maisons à la fortune des Intendans. Allons mettre à profit nos maximes &amp; nos lumieres.</p>
-              <p rend="center">Fin du troisiéme Acte.</p>
+              <p>S’il réüssit, mes avis seront récompensez. Cecy prend un bon chemin. La <ref target="#folie">folie</ref> des Maistres doit estre utile aux Valets, &amp; quand nous nous engageons avec un jeune homme, nous devons moins compter sur nos gages, que sur ce que ses plaisirs &amp; ses amours nous rapportent. C’est dans ces occasions que <pb n="104" xml:id="p104"/> nos services sont payez comptant. C’est par là qu’un Maistre-Valet gagne dequoy acheter une Noblesse, qui sert d’époussette à toutes les ordures de sa vie. Nombre de mes Camarades sont déja bien époussetez. Travaillons à gagner dequoy nous décroter comme eux. Les desordres des Maistres ne doivent pas moins contribuer à l’établissement des Valets, que la ruine des grandes Maisons à la fortune des Intendans. Allons mettre à profit nos maximes &amp; nos lumieres.</p>
+              <trailer rend="center">Fin du troisiéme Acte.</trailer>
             </sp>
           </div>
         </div>
@@ -3150,7 +3148,7 @@
             </sp>
             <sp who="alcippe">
               <speaker>ALCIPPE.</speaker>
-              <p>Cette retraite fait voir que Lisandre ne luy est pas indifferent. Elle ne trouve que ce remede pour empescher le progrés d’un feu puissant. Elle <ref target="#craindre">craint*</ref> Lisandre, elle cherche à le fuir, elle l’aime.</p>
+              <p>Cette retraite fait voir que Lisandre ne luy est pas indifferent. Elle ne trouve que ce remede pour empescher le progrés d’un feu puissant. Elle <ref target="#craindre">craint</ref> Lisandre, elle cherche à le fuir, elle l’aime.</p>
             </sp>
             <sp who="orasie">
               <speaker>ORASIE.</speaker><pb n="106" xml:id="p106"/> 
@@ -3274,7 +3272,7 @@
             </sp>
             <sp who="hortense">
               <speaker>HORTENSE.</speaker>
-              <p>Je vous demande en grace de me <ref target="#souffrir2">souffrir*</ref> encore quelque temps dans le monde, pour le détromper par ma conduite.</p>
+              <p>Je vous demande en grace de me <ref target="#souffrir2">souffrir</ref> encore quelque temps dans le monde, pour le détromper par ma conduite.</p>
             </sp>
             <sp who="orasie">
               <speaker>ORASIE.</speaker>
@@ -3305,14 +3303,14 @@
               <p>C’est pourtant une verité.</p>
             </sp>
             <sp who="lisette">
-              <speaker>LISETTE, <hi rend="i">à Hortense</hi>.</speaker>
+              <speaker>LISETTE, </speaker><stage>à Hortense</stage>
               <p>Vous devez croire ce que vous dit Madame. Voudroit-elle vous tromper ?</p>
             </sp>
             <sp who="orasie">
-              <speaker>ORASIE, <hi rend="i">à Lisette</hi>.</speaker>
-              <p>Taisez-vous, vous estes une <ref target="#raisonneuse">raisonneuse*</ref>.</p>
+              <speaker>ORASIE, </speaker><stage>à Lisette</stage>
+              <p>Taisez-vous, vous estes une <ref target="#raisonneuse">raisonneuse</ref>.</p>
               <stage>à Hortense.</stage>
-              <p>En un mot, je ne veux point sçavoir si Lisandre vous aime, ny si vous l’aimez. Je ne veux rien voir, j’excuse tout. Vous avez pris le party du Convent, vous m’avez fait prendre des mesures là-dessus, vous m’avez fait venir à Paris ; vous sçavez ce que cela veut dire, je vous y laisse <ref target="#resver">resver*</ref>.</p>
+              <p>En un mot, je ne veux point sçavoir si Lisandre vous aime, ny si vous l’aimez. Je ne veux rien voir, j’excuse tout. Vous avez pris le party du Convent, vous m’avez fait prendre des mesures là-dessus, vous m’avez fait venir à Paris ; vous sçavez ce que cela veut dire, je vous y laisse <ref target="#resver">resver</ref>.</p>
             </sp>
           </div>
           <div type="scene">
@@ -3360,7 +3358,7 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Il vous trompe vous-mesme, puis qu’il aime en <ref target="#honneste">honneste*</ref> homme, &amp; que vous n’en croyez rien.</p>
+              <p>Il vous trompe vous-mesme, puis qu’il aime en <ref target="#honneste">honneste</ref> homme, &amp; que vous n’en croyez rien.</p>
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
@@ -3380,7 +3378,7 @@
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
-              <p>Je voudrois bien qu’il pust se fixer. Un attachement veritable l’occuperoit entierement, &amp; il seroit plus souvent avec sa Mere. Marton, si mon Fils aime à bonne intention, il va se faire <ref target="#honneste">honneste*</ref> homme.</p>
+              <p>Je voudrois bien qu’il pust se fixer. Un attachement veritable l’occuperoit entierement, &amp; il seroit plus souvent avec sa Mere. Marton, si mon Fils aime à bonne intention, il va se faire <ref target="#honneste">honneste</ref> homme.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -3392,7 +3390,7 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Oh, Madame, ces Creatures-là n’ont guere de Maris qu’en <ref target="#detremper">détrempe*</ref>, leur mariage ne dure tout au plus que pendant un quartier d’hiver. Vostre Fils a trop d’honneur, il tient de vous.</p>
+              <p>Oh, Madame, ces Creatures-là n’ont guere de Maris qu’en <ref target="#detremper">détrempe</ref>, leur mariage ne dure tout au plus que pendant un quartier d’hiver. Vostre Fils a trop d’honneur, il tient de vous.</p>
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker><pb n="115" xml:id="p115"/> 
@@ -3408,7 +3406,7 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Vous vous <ref target="#gendarmer">gendarmez*</ref> déja. Vous voulez le bien &amp; l’honneur des gens, c’est trop, &amp; quand l’honneur est sans tache, toute une Famille devroit se cottiser pour l’acheter.</p>
+              <p>Vous vous <ref target="#gendarmer">gendarmez</ref> déja. Vous voulez le bien &amp; l’honneur des gens, c’est trop, &amp; quand l’honneur est sans tache, toute une Famille devroit se cottiser pour l’acheter.</p>
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
@@ -3458,7 +3456,7 @@
               <p>Mon Fils veut s’attacher au mariage, &amp; j’en suis ravie.</p>
             </sp>
             <sp who="orasie">
-              <speaker>ORASIE, <hi rend="i">à part</hi>.</speaker>
+              <speaker>ORASIE, </speaker><stage>à part</stage>
               <p>Je ne le suis pas, moy.</p>
             </sp>
             <sp who="silvanire">
@@ -3586,7 +3584,7 @@
             </sp>
             <sp who="orasie">
               <speaker>ORASIE.</speaker>
-              <p>Vostre cœur est rempli de tant d’<ref target="#objet">objets*</ref>, que ma Fille y trouveroit trop peu de place. Je suis venuë exprés pour terminer nos affaires. Voulez-vous, Madme, que nous y travaillions ?</p>
+              <p>Vostre cœur est rempli de tant d’<ref target="#objet">objets</ref>, que ma Fille y trouveroit trop peu de place. Je suis venuë exprés pour terminer nos affaires. Voulez-vous, Madme, que nous y travaillions ?</p>
             </sp>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
@@ -3597,14 +3595,14 @@
             <head>SCENE VIII.</head>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Peut-on trouver un Amant dans une situation plus cruelle<note place="bottom"><p>Question rhétorique qui permet de maintenir l’attention du spectateur et de souligner le désarroi de Lisandre.</p></note> ? Le cœur rempli de la plus violente passion qui fut jamais, méprisé par la Beauté que j’adore, deux Vieilles des plus obstinées contraires <pb n="124" xml:id="p124"/> à ma flâme, la fortune aussi peu favorable que l’amour, raillé de tous ceux qui ont connu mon peu d’estime pour le <ref target="#sexe">Sexe*</ref>, accablé d’obstacles insurmontables, en faut-il davantage pour desesperer un Amant ? Mais j’apperçois Hortense. Faut-il que tout s’oppose à mon Amour ?</p>
+              <p>Peut-on trouver un Amant dans une situation plus cruelle<note place="bottom"><p>Question rhétorique qui permet de maintenir l’attention du spectateur et de souligner le désarroi de Lisandre.</p></note> ? Le cœur rempli de la plus violente passion qui fut jamais, méprisé par la Beauté que j’adore, deux Vieilles des plus obstinées contraires <pb n="124" xml:id="p124"/> à ma flâme, la fortune aussi peu favorable que l’amour, raillé de tous ceux qui ont connu mon peu d’estime pour le <ref target="#sexe">Sexe</ref>, accablé d’obstacles insurmontables, en faut-il davantage pour desesperer un Amant ? Mais j’apperçois Hortense. Faut-il que tout s’oppose à mon Amour ?</p>
             </sp>
           </div>
           <div type="scene">
             <head>SCENE IX.</head>
             <stage>LISANDRE, HORTENSE, LISETTE.</stage>
             <sp who="hortense">
-              <speaker>HORTENSE, <hi rend="i">à part</hi>.</speaker>
+              <speaker>HORTENSE, </speaker><stage>à part</stage>
               <p>Je le vois. Aprés avoir découvert les sentimens de ma Mere, je dois plus que jamais luy cacher ceux de mon cœur.</p>
               <stage>(Haut.)</stage>
               <p>Enfin, Monsieur, vous voulez que vos sentimens, vrais ou faux, ne soient plus inconnus. Ma Mere vient de m’entretenir, &amp; la vostre n’en est pas moins instruite. Je ne puis donc plus les ignorer.</p>
@@ -3686,7 +3684,7 @@
               <p>Non, Madame, le temps &amp; mon amour me fourniront des moyens pour lever les obstacles qui s’opposent à mon bonheur.</p>
             </sp>
             <sp who="hortense">
-              <speaker>HORTENSE, <hi rend="i">à part.</hi></speaker>
+              <speaker>HORTENSE, </speaker><stage>à part.</stage>
               <p>Que<note place="bottom"><p>Cf. note n° 42, p. 53.</p></note> ne dit-il vray ! C'est trop demeurer icy, adieu, Lisandre.</p>
               <stage>(Elle fait quelques pas &amp; se retourne.)</stage>
             </sp>
@@ -3695,7 +3693,7 @@
               <p>Quelle injustice ! mais elle ne m’écoute pas.</p>
             </sp>
             <sp who="lisette">
-              <speaker>LISETTE, <hi rend="i">à Hortense</hi>.</speaker><pb n="128" xml:id="p128"/> 
+              <speaker>LISETTE, </speaker><stage>à Hortense</stage><pb n="128" xml:id="p128"/> 
               <p>Ecoutez-le, Madame.</p>
             </sp>
             <sp who="lisandre">
@@ -3710,7 +3708,7 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Je ne m’en dédis point. Ouy, mon cœur, mon lâche cœur m’a trahi. Je n’estois pas né pour aimer constamment. Ah, ne m’écoutez point, Madame, vos mépris sont cause que je ne sçay ce que <pb n="129" xml:id="p129"/> je dis, je ne me connois plus. Vous estes au dessus de tout vostre <ref target="#sexe">Sexe*</ref>, &amp; vous meritez seule l’hommage de tout l’univers.</p>
+              <p>Je ne m’en dédis point. Ouy, mon cœur, mon lâche cœur m’a trahi. Je n’estois pas né pour aimer constamment. Ah, ne m’écoutez point, Madame, vos mépris sont cause que je ne sçay ce que <pb n="129" xml:id="p129"/> je dis, je ne me connois plus. Vous estes au dessus de tout vostre <ref target="#sexe">Sexe</ref>, &amp; vous meritez seule l’hommage de tout l’univers.</p>
             </sp>
             <sp who="hortense">
               <speaker>HORTENSE.</speaker>
@@ -3737,7 +3735,7 @@
               <p>Et bien, demeurez, n’en parlons plus. Ah, Ciel! En quel estat suis-je reduit ? Je ne vous diray donc rien de ce que <pb n="130" xml:id="p130"/> je sens. Ah, Madame, considerez les bassesses où vous forcez mon orgueïl. Je me rens, tout est contre mon amour. Ma Mere &amp; ma Sœur s’en doivent plaindre. Vostre Frere me doit haïr, &amp; je dois me vouloir mal à moy-mesme, puis qu’on trouve de la honte à se démentir, mesme en se corrigeant. J'ay tort enfin de vouloir empescher une action, dont le Ciel doit vous tenir compte. Je vois tout cela s’élever contre moy. Je le sens, je me le reproche, &amp; cependant je vous aime. N'avez-vous point pitié de moy ?</p>
             </sp>
             <sp who="hortense">
-              <speaker>HORTENSE, <hi rend="i">à Lisette</hi>.</speaker>
+              <speaker>HORTENSE, </speaker><stage>à Lisette</stage>
               <p>C'est icy où j’ay besoin de toute ma raison. Et bien, Lisandre, je vous plains. Que puis-je davantage ?</p>
             </sp>
             <sp who="lisandre">
@@ -3819,7 +3817,7 @@
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Dequoy vous plaignez-vous, quand vos affaires commencent à bien aller ? Calmez vos inquietudes, l’Amour &amp; Marton sont pour vous, laissez-nous faire, nous avons assez bien commencé. Je vous ay fait <ref target="#honneste">honneste*</ref> homme, il ne vous manque que du bien ; c’est à Pasquin à vous en donner. Travaillez-y tous <pb n="135" xml:id="p135"/> deux, je m’en vais penser au reste.</p>
+              <p>Dequoy vous plaignez-vous, quand vos affaires commencent à bien aller ? Calmez vos inquietudes, l’Amour &amp; Marton sont pour vous, laissez-nous faire, nous avons assez bien commencé. Je vous ay fait <ref target="#honneste">honneste</ref> homme, il ne vous manque que du bien ; c’est à Pasquin à vous en donner. Travaillez-y tous <pb n="135" xml:id="p135"/> deux, je m’en vais penser au reste.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -3846,7 +3844,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Vous m’avez demandé du temps, je prétens vous en donner, servez-vous en pour gagner vostre Oncle. Mandez-luy vostre <ref target="#conversion">conversion*</ref>. Faites qu’il l’apprenne par tous vos Amis. Si son mal continuë, employez des gens de bien pour luy parler en vostre faveur. S'il revient en santé, servez-vous de ses Amis de plaisir &amp; d’affaires.</p>
+              <p>Vous m’avez demandé du temps, je prétens vous en donner, servez-vous en pour gagner vostre Oncle. Mandez-luy vostre <ref target="#conversion">conversion</ref>. Faites qu’il l’apprenne par tous vos Amis. Si son mal continuë, employez des gens de bien pour luy parler en vostre faveur. S'il revient en santé, servez-vous de ses Amis de plaisir &amp; d’affaires.</p>
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
@@ -3962,7 +3960,7 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Profites-en donc. Mon Maistre perd l’esprit pour ta Maistresse, il faut le servir. Il est galant homme, <ref target="#liberal">libéral*</ref>…</p>
+              <p>Profites-en donc. Mon Maistre perd l’esprit pour ta Maistresse, il faut le servir. Il est galant homme, <ref target="#liberal">libéral</ref>…</p>
             </sp>
             <sp who="lisette">
               <speaker>LISETTE.</speaker>
@@ -4061,7 +4059,7 @@
               <p>Je le croy, il y a assez d’Officiers qui cherchent à les divertir.</p>
             </sp>
             <sp who="lisette">
-              <speaker>LISETTE, <hi rend="i">bas en s’en allant</hi>.</speaker>
+              <speaker>LISETTE, </speaker><stage>bas en s’en allant</stage>
               <p>Il me croit plus ingenuë que je ne suis, mais je n’ay dit que ce que j’ay voulu dire.</p>
             </sp>
           </div>
@@ -4070,7 +4068,7 @@
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
               <p>Victoire, victoire. Que j’ay fait un beau coup, en arrachant le secret que Lisette vient de m’apprendre, &amp; dont mon Maistre se doutoit seulement! Aprés cela nous pouvons agir, puis qu’il est seur que le seul <pb n="144" xml:id="p144"/> manque de bien peut empescher son bonheur. C'est un Tresor que les Valets comme nous, pour les Maistres qui ont l’amour en teste ; ils seroient bien embarrassez s’ils ne nous avoient pas. De fausses langueurs, des soupirs réïterez, des je me meurs sans mourir, commencent leurs affaires, mais il leur faut des Pasquins &amp; des Martons pour les achever. Mon Maistre avoit perdu tout espoir d’épouser Hortense. Il faut voir si mon adresse sera employée inutilement.</p>
-              <p rend="center">Fin du quatriéme Acte.</p>
+              <trailer rend="center">Fin du quatriéme Acte.</trailer>
             </sp>
           </div>
         </div>
@@ -4196,7 +4194,7 @@
             </sp>
             <sp who="lisandre">
               <speaker>LISANDRE.</speaker>
-              <p>Non, Madame, non, je ne <ref target="#souffrir3">souffriray*</ref> point que la belle Hortense vous quitte. Il n’y a point d’extremité où mon amour ne me porte, pour empêcher ce malheur.</p>
+              <p>Non, Madame, non, je ne <ref target="#souffrir3">souffriray</ref> point que la belle Hortense vous quitte. Il n’y a point d’extremité où mon amour ne me porte, pour empêcher ce malheur.</p>
             </sp>
             <sp who="orasie">
               <speaker>ORASIE.</speaker>
@@ -4215,11 +4213,11 @@
               <p>Les apparences sont contre moy, mais si vous voulez bien m’écouter, je seray bien-tost justifiée. Vous sçavez, Madame, que Lisandre a mon Portrait. Je veux le retirer de ses mains, &amp; je le pressois de me le rendre quand vous nous avez surpris.</p>
             </sp>
             <sp who="lisandre">
-              <speaker>LISANDRE, <hi rend="i">à part.</hi></speaker>
+              <speaker>LISANDRE, </speaker><stage>à part.</stage>
               <p>Je n’ay plus sujet de douter de son amour.</p>
             </sp>
             <sp who="hortense">
-              <speaker>HORTENSE, <hi rend="i">à Lisandre</hi>.</speaker>
+              <speaker>HORTENSE, </speaker><stage>à Lisandre</stage>
               <p>Je vous l’ay déja dit, Monsieur, je ne veux point, lors que je renonce à tout, laisser aucun lieu de faire de méchans contes. Cela ne manqueroit pas d’arriver si vous gardiez mon portrait. On croiroit que vous le tiendriez de moy, <pb n="152" xml:id="p152"/> &amp; j’ay resolu de ne point partir que vous ne me l’ayez rendu<note place="bottom"><p>Comprendre : sans que vous ne me l’ayez rendu.</p></note>.</p>
             </sp>
             <sp who="orasie">
@@ -4275,7 +4273,7 @@
               <p>Madame…</p>
             </sp>
             <sp who="orasie">
-              <speaker>ORASIE <hi rend="i">lit.</hi></speaker>
+              <speaker>ORASIE </speaker><stage>lit.</stage>
               <p rend="i">Je ne vous verray point aujourd’huy, ma chere Enfant. Le mariage de ma Sœur me dérobe tout le temps que je vous avois destiné. Plaignez-moy d’estre obligé de passer la journée avec des Campagnardes. Si vostre amour est aussi fort que le mien, vous devez juger par vous-mesme de l’excez de mon chagrin. Rien ne me plaist, rien ne me divertit quand je ne suis pas auprés de vous, &amp; je compte pour rien tout le reste du monde.</p>
             </sp>
             <sp who="lisandre">
@@ -4283,16 +4281,16 @@
               <p>Il est vray que cette lettre est de moy, mais…</p>
             </sp>
             <sp who="orasie">
-              <speaker>ORASIE, <hi rend="i">à Hortense</hi>.</speaker>              <pb n="154" xml:id="p154"/> 
+              <speaker>ORASIE, </speaker><stage>à Hortense</stage>              <pb n="154" xml:id="p154"/> 
               <p>Et bien, ma Fille, qu’en dites-vous ?</p>
             </sp>
             <sp who="hortense">
               <speaker>HORTENSE.</speaker>
-              <p><ref target="#souffrir3">Souffrez*</ref>, Madame, que je me retire, pour n’estre point exposée à voir plus longtemps le plus perfide de tous les hommes.</p>
+              <p><ref target="#souffrir3">Souffrez</ref>, Madame, que je me retire, pour n’estre point exposée à voir plus longtemps le plus perfide de tous les hommes.</p>
               <stage>(Elle sort.)</stage>
             </sp>
             <sp who="lisandre">
-              <speaker>LISANDRE, <hi rend="i">à Hortense.</hi></speaker>
+              <speaker>LISANDRE, </speaker><stage>à Hortense.</stage>
               <p>Ah, Madame, arrestez.</p>
             </sp>
             <sp who="orasie">
@@ -4312,7 +4310,7 @@
             <head>SCENE IV.</head><pb n="155" xml:id="p155"/> 
             <sp who="orasie">
               <speaker>ORASIE.</speaker>
-              <p>Je dois plus que jamais m’opposer à son amour. Depuis que je suis icy, j’observe tout ce qui s’y passe, &amp; j’ay remarqué cent choses qui sentent la roture. J'entens parler <ref target="#sourdement">sourdement*</ref> de Parens Banquiers, &amp; d’un Oncle de la Rochelle, qui se mesle de negoce. Cependant on dresse le Contrat de mon Fils, &amp; la donation de sa Sœur. Il faut rompre ou conclurre, &amp; je me trouve dans un cruel embarras. J'ay fait dire à Marton que je voulois luy parler. Je la vois, elle pourra m’éclaircir de bien des choses.</p>
+              <p>Je dois plus que jamais m’opposer à son amour. Depuis que je suis icy, j’observe tout ce qui s’y passe, &amp; j’ay remarqué cent choses qui sentent la roture. J'entens parler <ref target="#sourdement">sourdement</ref> de Parens Banquiers, &amp; d’un Oncle de la Rochelle, qui se mesle de negoce. Cependant on dresse le Contrat de mon Fils, &amp; la donation de sa Sœur. Il faut rompre ou conclurre, &amp; je me trouve dans un cruel embarras. J'ay fait dire à Marton que je voulois luy parler. Je la vois, elle pourra m’éclaircir de bien des choses.</p>
             </sp>
           </div>
           <div type="scene">
@@ -4347,7 +4345,7 @@
               <p>Et l’Oncle Richard ?</p>
             </sp>
             <sp who="marton">
-              <speaker>MARTON, <hi rend="i">à part.</hi></speaker>              <pb n="O, p.157" xml:id="p157"/> 
+              <speaker>MARTON, </speaker><stage>à part.</stage>              <pb n="O, p.157" xml:id="p157"/> 
               <p>J'auray bien de la peine à l’ennoblir.</p>
             </sp>
             <sp who="orasie">
@@ -4403,7 +4401,7 @@
             <head>SCENE VI.</head>
             <stage>ORASIE, M. POLIDOR, MARTON.</stage>
             <sp who="polidor">
-              <speaker>M. POLIDOR, <hi rend="i">regardant Orasie</hi>.</speaker>
+              <speaker>M. POLIDOR, </speaker><stage>regardant Orasie</stage>
               <p>Que vois-je ? Non, je ne me trompe point.</p>
             </sp>
             <sp who="orasie">
@@ -4499,7 +4497,7 @@
               <p>Ouy, &amp; sans avoir fait de testament, &amp; comme il est riche à millions…</p>
             </sp>
             <sp who="marton">
-              <speaker>MARTON, <hi rend="i">à Orasie.</hi></speaker>
+              <speaker>MARTON, </speaker><stage>à Orasie.</stage>
               <p>Entendez-vous, Madame ?</p>
             </sp>
             <sp who="polidor">
@@ -4614,7 +4612,7 @@
               <p>Quel malheur viens-tu nous annoncer ?</p>
             </sp>
             <sp who="pasquin">
-              <speaker>PASQUIN, <hi rend="i">à Orasie</hi>.</speaker>
+              <speaker>PASQUIN, </speaker><stage>à Orasie</stage>
               <p>Ah, Madame !</p>
             </sp>
             <sp who="orasie">
@@ -4670,7 +4668,7 @@
             <head>SCENE X.</head>
             <stage>SILVANIRE, ORASIE, LISANDRE, M. POLIDOR, LISETTE, PASQUIN, MARTON.</stage>
             <sp who="lisette">
-              <speaker>LISETTE, <hi rend="i">à Orasie</hi>.</speaker>
+              <speaker>LISETTE, </speaker><stage>à Orasie</stage>
               <p>Ah, Madame ! je ne sçaurois parler. Quel dommage ! Que Paris perd aujourd’huy !</p>
             </sp>
             <sp who="lisandre">
@@ -4706,7 +4704,7 @@
               <p>Ma Fille dans un Convent ?</p>
             </sp>
             <sp who="silvanire">
-              <speaker>SILVANIRE, <hi rend="i">à Orasie</hi>.</speaker>
+              <speaker>SILVANIRE, </speaker><stage>à Orasie</stage>
               <p>Quoy, sans vous avoir rien dit ?</p>
             </sp>
             <sp who="pasquin">
@@ -4714,12 +4712,12 @@
               <p>Elle est partie <hi rend="i">in promptu</hi>, de peur de changer de resolution.</p>
             </sp>
             <sp who="lisandre">
-              <speaker>LISANDRE, <hi rend="i">à Orasie</hi>.</speaker>
+              <speaker>LISANDRE, </speaker><stage>à Orasie</stage>
               <p>Allons, Madame, allons la presser de revenir, elle ne vous refusera pas.</p>
             </sp>
             <sp who="lisette">
               <speaker>LISETTE.</speaker>
-              <p>Elle deteste tous les hommes, &amp; veut <pb n="173" xml:id="p173"/> avoir la gloire de vanger le <ref target="#sexe">Sexe*</ref>.</p>
+              <p>Elle deteste tous les hommes, &amp; veut <pb n="173" xml:id="p173"/> avoir la gloire de vanger le <ref target="#sexe">Sexe</ref>.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
@@ -4747,16 +4745,16 @@
             </sp>
             <sp who="pasquin">
               <speaker>PASQUIN.</speaker>
-              <p>Son <ref target="#ascendant">ascendant*</ref> n’est pas pour les honnestes Femmes.</p>
+              <p>Son <ref target="#ascendant">ascendant</ref> n’est pas pour les honnestes Femmes.</p>
             </sp>
             <sp who="orasie">
 
-              <speaker>ORASIE, <hi rend="i">à Silvanire</hi>.</speaker>              <pb n="174" xml:id="p174"/> 
+              <speaker>ORASIE, </speaker><stage>à Silvanire</stage>              <pb n="174" xml:id="p174"/> 
               <p>Allons, Madame, allons terminer nostre autre affaire.</p>
             </sp>
             <sp who="marton">
               <speaker>MARTON.</speaker>
-              <p>Il est dangereux d’offenser le <ref target="#sexe">Sexe*</ref>, l’Amour le vange tost ou tard.</p>
+              <p>Il est dangereux d’offenser le <ref target="#sexe">Sexe</ref>, l’Amour le vange tost ou tard.</p>
               <p rend="center">FIN.</p>
             </sp>
           </div>
@@ -4826,9 +4824,9 @@
           </entryFree>
           <entryFree>
             <form>Commerce</form>
-            <def  xml:id="commerce1">« Negoce qu’on a fait à dessein de profiter sur les remises, la vente ou l’échange qu’on en fait » (F)</def>
+            <def xml:id="commerce1">« Negoce qu’on a fait à dessein de profiter sur les remises, la vente ou l’échange qu’on en fait » (F)</def>
             <xr>P. <ref target="#p2">2</ref>, <ref target="#p9">9</ref>. </xr>
-            <def  xml:id="commerce2">Relation, mais qui n’est pas toujours amoureuse </def>
+            <def xml:id="commerce2">Relation, mais qui n’est pas toujours amoureuse </def>
             <xr>P. <ref target="#p33">33</ref>.</xr>
           </entryFree>
           <entryFree xml:id="commodite">

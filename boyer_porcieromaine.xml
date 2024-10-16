@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -21,11 +21,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/boyer_porcie/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boyer_porcie.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boyer_porcie.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boyer_porcie.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boyer_porcie.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/boyer_porcie/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/boyer_porcie.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/boyer_porcie.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/boyer_porcie.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/boyer_porcie.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Boyer, Claude</author>. <title>La Porcie romaine. Tragédie</title>. A PARIS,  Chez AUGUSTIN COURBE, dans la petite  Salle du Palais, à la Palme.  M. D C. X L V I.  AVEC PRIVILEGE DU ROY.</bibl>
@@ -589,7 +589,7 @@
             <l n="34" xml:id="l34">Il faut pourtant combatre, et vaincre ces obstacles ;</l>
             <l n="35" xml:id="l35">Ou maistres, ou soubmis à nos persécuteurs,</l>
             <l n="36" xml:id="l36">Ou victimes de Rome, ou ses libérateurs,</l>
-            <l n="37" xml:id="l37">Vivans dans la <ref target="#franchise">franchise*</ref>, ou mourrans avec elle,</l>
+            <l n="37" xml:id="l37">Vivans dans la <ref target="#franchise">franchise</ref>, ou mourrans avec elle,</l>
             <l n="38" xml:id="l38">Décidons<note n="37" place="bottom"> « Décidons » a ici le sens étymologique du latin <hi rend="i">decidere</hi> c’est-à-dire trancher moralement, régler un différend.</note> promptement cette vieille querelle<note n="38" place="bottom">Brutus est décidé à amener une conclusion définitive à ce dilemme. Il est prêt à braver les dieux et à engager le combat.</note>.</l>
           </sp>
           <sp xml:id="I02-3" who="maxime">
@@ -627,22 +627,22 @@
             <speaker>CASSIE</speaker>
             <l n="61" xml:id="l61">Brute je suis Romain, cognoissez mieux Cassie<note n="42" place="bottom">Il s’agit de C. Cassius Longinus. Tribun de la plèbe, il combattit aux côtés de Pompée pendant la guerre civile. Il organisa la conjuration contre César et rejoignit ensuite Brutus et engagea la première bataille de Philippes contre Antoine.</note>:</l>
             <l n="62" xml:id="l62">Je crains pour nostre Rome, et non pas pour ma vie.</l>
-            <l n="63" xml:id="l63">Quoy seray-je sans crainte, et sans <ref target="#ebranlement">ébranlement*</ref> ?</l>
-            <l n="64" xml:id="l64">Quand je voy nos soldats frémir d’<ref target="#estonnement">estonnement*</ref></l>
+            <l n="63" xml:id="l63">Quoy seray-je sans crainte, et sans <ref target="#ebranlement">ébranlement</ref> ?</l>
+            <l n="64" xml:id="l64">Quand je voy nos soldats frémir d’<ref target="#estonnement">estonnement</ref></l>
             <l n="65" xml:id="l65">Ces horribles corbeaux<note n="43" place="bottom"> Plutarque écrit qu’avant la bataille, beaucoup d’oiseaux de proie apparaissaient chaque jour dans le camp et que l’on vit des essaims d’abeilles se rassembler à l’intérieur du retranchement dans un endroit que les devins firent enclore pour conjurer la superstition qui se glissait dans les esprits des soldats (<hi rend="i">Vie de Brutus</hi>, XXXIX ; 5, 6). Cette allusion aux corbeaux rappelle les mauvais présages énumérés par Lucain dans <hi rend="i">La Pharsale</hi> « des oiseaux sinistres souillèrent le jour. » (I, 540)</note>, cette troupe affamée,<pb n="6" xml:id="p6"/></l>
             <l n="66" xml:id="l66">Dans ces champs de Pharsale au sang accoustumée,</l>
             <l n="67" xml:id="l67">Renouvelant l’espoir de leurs derniers butins,</l>
-            <l n="68" xml:id="l68">Sont les noirs <ref target="#truchement">truchemens*</ref> de nos mauvais destins.</l>
+            <l n="68" xml:id="l68">Sont les noirs <ref target="#truchement">truchemens</ref> de nos mauvais destins.</l>
             <l n="69" xml:id="l69">Ces menaces du Ciel, et mille autre présages</l>
             <l n="70" xml:id="l70">Ont droit d’espouvanter les plus fermes courages.</l>
             <l n="71" xml:id="l71">La rencontre d’un More<note n="44" place="bottom">Maure</note> effroyable à nos yeux.</l>
             <l n="72" xml:id="l72">Une suëur de sang qui coule de nos Dieux.</l>
             <l n="73" xml:id="l73">Mon cheval abatu par l’esclat de la foudre<note n="45" place="bottom"> « La foudre silencieuse arrachant son feu aux régions arctiques... » (<hi rend="i">La Pharsale</hi> I, 534).</note>;</l>
-            <l n="74" xml:id="l74">Et par le mesme éclat un Autel mis en <ref target="#poudre">poudre*</ref>.</l>
+            <l n="74" xml:id="l74">Et par le mesme éclat un Autel mis en <ref target="#poudre">poudre</ref>.</l>
             <l n="75" xml:id="l75">Un prestre mort du coup, un autre de frayeur.</l>
             <l n="76" xml:id="l76">La victime échapée au Sacrificateur<note n="46" place="bottom"> « Les offrandes glissèrent des temples. » (<hi rend="i">La Pharsale</hi> I, 558).</note>.</l>
             <l n="77" xml:id="l77">Les malignes ardeurs d’une estrange comete<note n="47" place="bottom"> « La comète qui sur terre bouleverse les royaumes. » (<hi rend="i">La Pharsale</hi> I, 529).</note>,</l>
-            <l n="78" xml:id="l78">Qui rend d’<ref target="#estonnement">estonnement*</ref> la Nature muete,</l>
+            <l n="78" xml:id="l78">Qui rend d’<ref target="#estonnement">estonnement</ref> la Nature muete,</l>
             <l n="79" xml:id="l79">Justifient mon trouble, et font voir aujourd’huy<note n="48" place="bottom">Ce vers compte onze syllabes. Pour respecter le rythme de l’alexandrin, il faudrait prononcer le e muet de « justifient ».</note>,</l>
             <l n="80" xml:id="l80">Qu’icy ma crainte est juste en craignant pour autruy :</l>
             <l n="81" xml:id="l81">Et j’estime envers Rome, insensible ou sans zèle,</l>
@@ -669,7 +669,7 @@
           <sp xml:id="I03-3" who="cassie">
             <speaker>CASSIE</speaker>
             <l n="98" xml:id="l98">Brute, Rome pourtant craint l’effet du présage.</l>
-            <l n="99" xml:id="l99">Vous sçavez que le Ciel par ses ordres cachez*</l>
+            <l n="99" xml:id="l99">Vous sçavez que le Ciel par ses ordres cachez</l>
             <l n="100" xml:id="l100">Tient à certains momens nos mal-heurs attachez.</l>
             <l n="101" xml:id="l101">Differons un combat, que les soldats en crainte,</l>
             <l n="102" xml:id="l102">Entreprendront sans doute avec trop de contrainte.</l>
@@ -690,16 +690,16 @@
             <l n="114" xml:id="l114">Ou de nostre destin dépend celuy des hommes ;</l>
             <l n="115" xml:id="l115">Pouvons-nous différer aux yeux de l’Univers</l>
             <l n="116" xml:id="l116">D’attaquer les Tyrans, qui le tiennent aux fers ?</l>
-            <l n="117" xml:id="l117">Un moment de <ref target="#délay">délay*</ref> nous va couvrir de honte.</l>
+            <l n="117" xml:id="l117">Un moment de <ref target="#délay">délay</ref> nous va couvrir de honte.</l>
             <l n="118" xml:id="l118">L’orgueil des Ennemis nous brave, et nous affronte ;</l>
             <l n="119" xml:id="l119">Et nous serons pourtant, quand il se faut vanger,</l>
-            <l n="120" xml:id="l120">Moins <ref target="#ardens">ardens*</ref>, et moins prompts qu’eux à nous outrager.</l>
-            <l n="121" xml:id="l121">Que s’il faut déférer* à la voix des augures ;</l>
+            <l n="120" xml:id="l120">Moins <ref target="#ardens">ardens</ref>, et moins prompts qu’eux à nous outrager.</l>
+            <l n="121" xml:id="l121">Que s’il faut déférer à la voix des augures ;</l>
             <l n="122" xml:id="l122">S’ils nous ont annoncé nos tristes avantures ;</l>
             <l n="123" xml:id="l123">Prévenons ces mal-heurs par un illustre effort.</l>
             <l n="124" xml:id="l124">Pompée en diférant eut-il un meilleur sort<note n="50" place="bottom">Allusion à la guerre civile précédente. Pompée s’était éloigné de Rome avec ses troupes. Il se mit à la poursuite de César, bien résolu à éviter de lui livrer bataille, mais à le harceler et à l’user par la disette en le serrant de près. L’entourage de Pompée le sommait d’engager le combat et il refusa jusqu’au jour où les troupes de César engagèrent l’offensive. Les troupes de Pompée, peu exercées à combattre, furent battues et Pompée s’enfuit en Egypte où il fut assassiné.</note> ?</l>
             <l n="125" xml:id="l125">Peut-estre sa défaite aussi bien que sa fuite,</l>
-            <l n="126" xml:id="l126">De ses retardemens* fut l’effroyable suite.</l>
+            <l n="126" xml:id="l126">De ses retardemens fut l’effroyable suite.</l>
             <l n="127" xml:id="l127">Profitons de sa honte ; et craignons aujourd’huy,</l>
             <l n="128" xml:id="l128">Que qui sçait diférer, peut bien fuir comme luy.</l>
             <l n="129" xml:id="l129">Conservons à jamais dans ces Ames Romaines</l>
@@ -718,7 +718,7 @@
             <l n="139" xml:id="l139">D’expozer tout un Monde à la haine des Cieux :</l>
             <l n="140" xml:id="l140">Brute l’a résolu contre l’avis des Dieux.</l>
             <l n="141" xml:id="l141">Mais résistera-t-il à l’avis de Cassie ?</l>
-            <l n="142" xml:id="l142">Brute se souvient-il qu’il hazarde* Porcie ?</l>
+            <l n="142" xml:id="l142">Brute se souvient-il qu’il hazarde Porcie ?</l>
           </sp>
           <sp xml:id="I03-6" who="brute">
             <speaker>BRUTE</speaker>
@@ -763,12 +763,12 @@
           <head>SCENE QUATRIESME</head>
           <stage>BRUTE, PORCIE, CASSIE, JULIE</stage>
           <sp xml:id="I04-1" who="brute">
-            <speaker>BRUTE <hi rend="i">à PORCIE</hi></speaker>
+            <speaker>BRUTE </speaker><stage>à PORCIE</stage>
             <l n="171" xml:id="l171">Enfin nous arrivons à ce funeste jour,</l>
             <l n="172" xml:id="l172">Trop différé pour Rome, et peu pour nostre Amour.</l>
             <l n="173" xml:id="l173">L’ennemy s’offre à nous, Caesar<note n="57" place="bottom">« Caesar » désigne ici Octave. Les empereurs romains qui ont dirigé Rome à la suite de Jules César, se sont faits appelés ainsi pour lui rendre hommage.</note> est tout en armes ;</l>
-            <l n="174" xml:id="l174">Et mon Amour troublée au bruit de tant d’<ref target="#allarmes">alarmes*</ref>,</l>
-            <l n="175" xml:id="l175">Ne vous voit qu’en tremblant au milieu des <ref target="#hazard">hazars*.</ref></l>
+            <l n="174" xml:id="l174">Et mon Amour troublée au bruit de tant d’<ref target="#allarmes">alarmes</ref>,</l>
+            <l n="175" xml:id="l175">Ne vous voit qu’en tremblant au milieu des <ref target="#hazard">hazars.</ref></l>
             <l n="176" xml:id="l176">Echapez promptement à la fureur de Mars<note n="58" place="bottom"> « Loin des troubles de Mars... » (I, 5)  <hi rend="i">La Mort de Brute et de Porcie</hi> de Guérin de met (1635)</note>.</l>
             <l n="177" xml:id="l177">En vain vous me priez de garder ce que j’aime ;</l>
             <l n="178" xml:id="l178">Mon Amour qui le veut, le refuze à soy-même.</l>
@@ -781,7 +781,7 @@
             <l n="185" xml:id="l185">Fuyez-donc pour ma gloire : icy vostre présence</l>
             <l n="186" xml:id="l186">Irrite mes frayeurs, et trahit ma constance.</l>
             <l n="187" xml:id="l187">N’exposés pas tout, Brute, et que votre pitié</l>
-            <l n="188" xml:id="l188">Mette enfin à couvert* sa plus belle moitié.</l>
+            <l n="188" xml:id="l188">Mette enfin à couvert sa plus belle moitié.</l>
           </sp>
           <sp xml:id="I04-2" who="porcie">
             <speaker>PORCIE</speaker>
@@ -796,8 +796,8 @@
             <l n="197" xml:id="l197">Luy donnez-vous déjà ce superbe avantage,</l>
             <l n="198" xml:id="l198">De paroistre plus fort que nostre mariage ?</l>
             <l n="199" xml:id="l199">Quoy ? Me soupçonnez-vous ? Ay-je le coeur trop bas ?</l>
-            <l n="200" xml:id="l200">Seray-je en <ref target="#asseurance">asseurance*</ref> où vous ne serez pas ?</l>
-            <l n="201" xml:id="l201">Puis-je estre en <ref target="#asseurance">asseurance*</ref> en craignant vostre chute ?</l>
+            <l n="200" xml:id="l200">Seray-je en <ref target="#asseurance">asseurance</ref> où vous ne serez pas ?</l>
+            <l n="201" xml:id="l201">Puis-je estre en <ref target="#asseurance">asseurance</ref> en craignant vostre chute ?</l>
             <l n="202" xml:id="l202">Si vous craignez pour moy, je ne crains que pour Brute :</l>
             <l n="203" xml:id="l203">Brute estant exposé, je suis dans le danger,</l>
             <l n="204" xml:id="l204">Et mon esloignement ne m’en peut dégager.</l>
@@ -816,14 +816,14 @@
             <l n="217" xml:id="l217">Par ces pleurs, par ce coeur, et par cette tendresse.</l>
           </sp>
           <sp xml:id="I04-3" who="brute">
-            <speaker>BRUTE <hi rend="i">en l’interrompant</hi></speaker>
+            <speaker>BRUTE </speaker><stage>en l’interrompant</stage>
             <l n="218" xml:id="l218">Que faites-vous, Madame, espargnés ma foiblesse ;</l>
             <l n="219" xml:id="l219">Faites à mon Amour une plus juste loy :</l>
             <l n="220" xml:id="l220">Usez mieux du pouvoir que vous avez sur moy.</l>
             <l n="221" xml:id="l221">Pourray-je résister à de si puissans charmes ?</l>
             <l n="222" xml:id="l222">Brute n’a pas un coeur à l’espreuve des larmes :</l>
             <l n="223" xml:id="l223">Demeurés, j’y consens. Ah !Cruel, coeur ingrat ;</l>
-            <l n="224" xml:id="l224">Expozer ma Porcie aux <ref target="#hazard">hazards*</ref> du combat.</l>
+            <l n="224" xml:id="l224">Expozer ma Porcie aux <ref target="#hazard">hazards</ref> du combat.</l>
             <l n="225" xml:id="l225">Mais las !Elle le veut, vous le voulez Madame<note n="61" place="bottom"> Brutus se lamente en des termes dignes d’un amoureux français du XVII<hi rend="sup">e</hi> siècle.</note> ;</l>
             <l n="226" xml:id="l226">Estes vous si contraire aux desseins de mon Ame.</l>
             <l n="227" xml:id="l227">Puis-je vaincre, et trembler en vous voyant icy ?</l>
@@ -880,16 +880,16 @@
             <l n="268" xml:id="l268">L’instrument de ma honte en celui de ma mort.</l>
             <l n="269" xml:id="l269">Enfin vous me verrez au milieu de ma cheute,</l>
             <l n="270" xml:id="l270">Digne sang de Caton, digne femme de Brute ;<pb n="16" xml:id="p16"/></l>
-            <l n="271" xml:id="l271">Imiter comme il faut un père <ref target="#genereux">généreux*</ref> ;</l>
+            <l n="271" xml:id="l271">Imiter comme il faut un père <ref target="#genereux">généreux</ref> ;</l>
             <l n="272" xml:id="l272">Imiter mon espoux, et répondre à tous deux<note n="65" place="bottom">L’anaphore de « imiter » prête à Brutus l’intention de se suicider s’il est lui-même vaincu.</note>.</l>
             <l n="273" xml:id="l273">Reconnoissez Porcie à cet adveu fidèle.</l>
           </sp>
           <sp xml:id="I04-7" who="brute">
             <speaker>BRUTE</speaker>
             <l n="274" xml:id="l274">Plus je la reconnois, et plus je crains pour elle.</l>
-            <l n="275" xml:id="l275">Cachez*-moi des <ref target="#appas">apas,*</ref> que je n’ose exposer ;</l>
-            <l n="276" xml:id="l276">Quoi que tant de <ref target="#vertu">Vertu*</ref> semble m’y disposer,</l>
-            <l n="277" xml:id="l277">Cette même <ref target="#vertu">Vertu*</ref> dans ce péril extrème</l>
+            <l n="275" xml:id="l275">Cachez-moi des <ref target="#appas">apas,</ref> que je n’ose exposer ;</l>
+            <l n="276" xml:id="l276">Quoi que tant de <ref target="#vertu">Vertu</ref> semble m’y disposer,</l>
+            <l n="277" xml:id="l277">Cette même <ref target="#vertu">Vertu</ref> dans ce péril extrème</l>
             <l n="278" xml:id="l278">Semble me le deffendre, et s’opose à soi-même.</l>
             <l n="279" xml:id="l279">Hé ! Que deviendrez-vous dans ces funestes lieux ?</l>
             <l n="280" xml:id="l280">Où mille et mille horreurs blesseront ces beaux yeux<note n="66" place="bottom"> Brutus tente de persuader Porcie de quitter son camp en donnant une vision très réaliste des batailles : « carnages » (v. 284) ; « déluge de sang » (v. 287). Cette description rappelle un passage de La <hi rend="i">Pharsale</hi> de Lucain « Il regarde les fleuves dont le sang précipite le cours des monceaux de cadavres... »  (VII, v. 789-790).</note>;</l>
@@ -918,7 +918,7 @@
             <l n="297" xml:id="l297">L’honneur et l’amour, l’un jaloux, l’autre tendre,</l>
             <l n="298" xml:id="l298">M’inspiroient des frayeurs, qui me venoient surprendre :</l>
             <l n="299" xml:id="l299">Mais malgré ces frayeurs, dont ils m’ont combattu,</l>
-            <l n="300" xml:id="l300">Je sens qu’ils sont d’accord avec vostre <ref target="#vertu">Vertu*</ref>.</l>
+            <l n="300" xml:id="l300">Je sens qu’ils sont d’accord avec vostre <ref target="#vertu">Vertu</ref>.</l>
             <l n="301" xml:id="l301">Puisque par nostre Hymen le destin nous assemble,</l>
             <l n="302" xml:id="l302">Ne nous séparons point, vivons, mourons ensemble.</l>
             <l n="303" xml:id="l303">Courons d’un mesme pas, et par un mesme sort</l>
@@ -933,7 +933,7 @@
             <l n="311" xml:id="l311">Tu sçais combien ce soin importe à mon Amour.</l>
             <l n="312" xml:id="l312">Adieu, nous nous verrons à la pointe du jour.</l>
           </sp>
-          <label rend="center">Fin du premier Acte</label>
+          <trailer rend="center">Fin du premier Acte</trailer>
         </div>
       </div>
       <div xml:id="II" type="act">
@@ -1015,7 +1015,7 @@
           <head>SCENE DEUXIESME</head>
           <stage>BRUTE, PORCIE, JULIE, MAXIME</stage>
           <sp xml:id="II02-1" who="brute">
-            <speaker>BRUTE <hi rend="i">à PORCIE</hi> </speaker>
+            <speaker>BRUTE </speaker><stage>à PORCIE</stage>
             <l n="357" xml:id="l357">Il est temps de partir : souffrez que je vous quite :</l>
             <l n="358" xml:id="l358">On presse le combat, Rome m’y sollicite ;</l>
             <l n="359" xml:id="l359">Et la voix du soldat plein d’un noble courroux,</l>
@@ -1036,7 +1036,7 @@
             <l n="374" xml:id="l374">Par le soin de ma gloire, et de vostre vengeance ;</l>
             <l n="375" xml:id="l375">Enfin commandez-moy de sortir de ces lieux,</l>
             <l n="376" xml:id="l376">Et par de telles loix faites-moy vos adieux.</l>
-            <l n="377" xml:id="l377">Mais vous pleurez Porcie : est-ce <ref target="#avecques">avecque*</ref> des larmes,</l>
+            <l n="377" xml:id="l377">Mais vous pleurez Porcie : est-ce <ref target="#avecques">avecque</ref> des larmes,</l>
             <l n="378" xml:id="l378">Que vous me commandez d’aller prendre les armes ?</l>
             <l n="379" xml:id="l379">Voulez-vous de la sorte animer ce grand coeur ?</l>
             <l n="380" xml:id="l380">N’est-ce pas luy deffendre avec trop de rigueur,</l>
@@ -1088,7 +1088,7 @@
             <l n="423" xml:id="l423">Si la voix de mes pleurs a retardé vos pas,</l>
             <l n="424" xml:id="l424">Suivez celle de Rome, et ne diférez pas,</l>
             <l n="425" xml:id="l425">Ne vous souvenez plus que j’ay versé des larmes :</l>
-            <l n="426" xml:id="l426">Et s’il vous en souvient au milieu des <ref target="#allarmes">allarmes*</ref> ;</l>
+            <l n="426" xml:id="l426">Et s’il vous en souvient au milieu des <ref target="#allarmes">allarmes</ref> ;</l>
             <l n="427" xml:id="l427">Alors que vostre bras ira de toutes pars</l>
             <l n="428" xml:id="l428">Signaler sa valeur dans les plus grands <ref target="#hazard">hazars</ref> :</l>
             <l n="429" xml:id="l429">Connoissant par ces pleurs que ma flâme est extrême</l>
@@ -1202,16 +1202,16 @@
             <l n="514" xml:id="l514">Il me laisse Maxime, et s’en prive lui-mesme.</l>
             <l n="515" xml:id="l515">Il quitte en ma faveur un si fidèle apuy.</l>
             <l n="516" xml:id="l516">Dieux, qu’il a soin de moy. Qu’il en a peu de luy !</l>
-            <l n="517" xml:id="l517">Je le voy dans le sang, dans le camp, dans la <ref target="#poudre">poudre*</ref> ;</l>
+            <l n="517" xml:id="l517">Je le voy dans le sang, dans le camp, dans la <ref target="#poudre">poudre</ref> ;</l>
             <l n="518" xml:id="l518">Je me voy dans ma tante à l’abry de la foudre ;</l>
-            <l n="519" xml:id="l519">Il est dans les <ref target="#hazard">hazards*</ref><note n="92" place="bottom">Risques, dangers. </note>, et l’on me garde icy ?</l>
+            <l n="519" xml:id="l519">Il est dans les <ref target="#hazard">hazards</ref><note n="92" place="bottom">Risques, dangers. </note>, et l’on me garde icy ?</l>
             <l n="520" xml:id="l520">Mais s’il est au combat, n’y suis-je pas aussi ?</l>
             <l n="521" xml:id="l521">Oüy, Maxime, j’y suis ; et pour garder Porcie,</l>
             <l n="522" xml:id="l522">Va t’en auprès de Brute, et prens soin de sa vie :</l>
             <l n="523" xml:id="l523">C’est en luy seulement que tu vois tout mon bien.</l>
             <l n="524" xml:id="l524">En lui je trouve tout, et sans lui tout m’est rien.<pb n="31" xml:id="p31"/></l>
             <l n="525" xml:id="l525">Va donc garder l’endroit, par où je suis sensible ;</l>
-            <l n="526" xml:id="l526">Si Brute est à <ref target="#couvert">couvert*</ref>, je suis inaccessible,</l>
+            <l n="526" xml:id="l526">Si Brute est à <ref target="#couvert">couvert</ref>, je suis inaccessible,</l>
             <l n="527" xml:id="l527">Et les plus grands malheurs qu’on peut craindre aujourd’huy</l>
             <l n="528" xml:id="l528">Pour venir jusqu’à moy doivent passer par luy.</l>
             <l n="529" xml:id="l529" part="I">Va.</l>
@@ -1241,11 +1241,11 @@
           <stage>PORCIE continuë.</stage>
           <sp xml:id="II04-1" who="porcie">
             <speaker>PORCIE</speaker>
-            <l n="541" xml:id="l541">Je puis donc maintenant avecque <ref target="#confidence">confidence*</ref><pb n="32" xml:id="p32"/></l>
+            <l n="541" xml:id="l541">Je puis donc maintenant avecque <ref target="#confidence">confidence</ref><pb n="32" xml:id="p32"/></l>
             <l n="542" xml:id="l542">T’expliquer mes douleurs, et mon peu de constance :</l>
             <l n="543" xml:id="l543">Quelques beaux sentimens que je fasse éclater,</l>
             <l n="544" xml:id="l544">Une secrette peur me vient persecuter.</l>
-            <l n="545" xml:id="l545">Si j’esleue mon coeur dans un <ref target="#pensers">penser*</ref> sublime</l>
+            <l n="545" xml:id="l545">Si j’esleue mon coeur dans un <ref target="#pensers">penser</ref> sublime</l>
             <l n="546" xml:id="l546">Par l’effort glorieux d’un espoir légitime,</l>
             <l n="547" xml:id="l547">Il descend par la crainte, et toute sa vigueur</l>
             <l n="548" xml:id="l548">L’abandonne aussi-tost, et se tourne en langueur.</l>
@@ -1262,7 +1262,7 @@
             <l n="559" xml:id="l559">Et me donnant pour Brute une indigne pitié,</l>
             <l n="560" xml:id="l560">Faut-il quand il triomphe, abatre sa moitié ?</l>
             <l n="561" xml:id="l561">S’il le faut, justes Dieux, achevez vostre ouvrage,</l>
-            <l n="562" xml:id="l562">Et <ref target="#souler">soulez*</ref> dans mon sang vostre jalouze rage.</l>
+            <l n="562" xml:id="l562">Et <ref target="#souler">soulez</ref> dans mon sang vostre jalouze rage.</l>
             <l n="563" xml:id="l563">Mais je ressens assez vostre extrème rigueur</l>
             <l n="564" xml:id="l564">Par les impressions d’une injuste frayeur.</l>
             <l n="565" xml:id="l565">Il vous suffit, cruels, de voir trembler Porcie :</l>
@@ -1306,9 +1306,9 @@
             <l n="594" xml:id="l594">Mais enfin il est temps que vous fassiez paraistre.<pb n="35" xml:id="p35"/></l>
             <l n="595" xml:id="l595">Que l’Amour qui produit ces tendres mouvemens,</l>
             <l n="596" xml:id="l596">Ne descend pas chez vous en de bas sentimens ;</l>
-            <l n="597" xml:id="l597">Que puisque la <ref target="#vertu">vertu*</ref> ne hait pas la tendresse,</l>
+            <l n="597" xml:id="l597">Que puisque la <ref target="#vertu">vertu</ref> ne hait pas la tendresse,</l>
             <l n="598" xml:id="l598">D’elle vient vostre peur, non de quelque foiblesse ;</l>
-            <l n="599" xml:id="l599">Et que par des <ref target="#pensers">pensers*</ref> dignes des plus grands coeurs</l>
+            <l n="599" xml:id="l599">Et que par des <ref target="#pensers">pensers</ref> dignes des plus grands coeurs</l>
             <l n="600" xml:id="l600">Vous sçaurez démentir ces indignes terreurs.</l>
             <l n="601" xml:id="l601">Si Brute a donc suivy le destin de Pompée ;</l>
             <l n="602" xml:id="l602">Si de quelque frayeur ce coup vous a frapée ;</l>
@@ -1346,7 +1346,7 @@
             <l n="631" xml:id="l631">Je pousseray vers l’un des soûpirs généreux,</l>
             <l n="632" xml:id="l632">Et l’autre m’aprendra le succez de mes voeux.</l>
           </sp>
-          <label rend="center">Fin du deuxième acte</label>
+          <trailer rend="center">Fin du deuxième acte</trailer>
         </div>
       </div>
       <div xml:id="III" type="act">
@@ -1357,7 +1357,7 @@
           <sp xml:id="III01-1" who="cassie">
             <speaker>CASSIE</speaker>
             <l n="633" xml:id="l633">Désirs impétueux d’une ardeur violente,<pb n="37" xml:id="p37"/></l>
-            <l n="634" xml:id="l634"><ref target="#transport">Transports*</ref> précipitez, douleurs impatientes,</l>
+            <l n="634" xml:id="l634"><ref target="#transport">Transports</ref> précipitez, douleurs impatientes,</l>
             <l n="635" xml:id="l635">Ne vous oposez plus à mon dernier devoir :</l>
             <l n="636" xml:id="l636">Je m’abandonne après à tout mon désespoir :</l>
             <l n="637" xml:id="l637">Pour le moins un moment souffrez que je respire<note n="100" place="bottom">Cf. Monologue d’Emilie, Cinna (I, 1) : « Impatients désirs d’une illustre vengeance / Dont la mort de mon père a formé la naissance, / Enfants impétueux de mon ressentiment, / Que ma douleur séduite embrasse aveuglément, / Vous prenez sur mon âme un trop puissant empire : / Durant quelques moments, souffrez que je respire ».</note>.</l>
@@ -1499,7 +1499,7 @@
             <l n="735" xml:id="l735">J’esperay de vaincre, où Brute a succombé !</l>
             <l n="736" xml:id="l736">De demeurer debout quand le Monde<note n="110" place="bottom">Hyperbole : la mort de Brutus est perçue comme la fin du Monde. Le vers 738 prolonge cette métaphore.</note> est tombé !</l>
             <l n="737" xml:id="l737">C’est avoir pour la vie une Amour sans seconde,</l>
-            <l n="738" xml:id="l738">Que de n’oser périr <ref target="#avecques">avecque*</ref> tout le Monde.</l>
+            <l n="738" xml:id="l738">Que de n’oser périr <ref target="#avecques">avecque</ref> tout le Monde.</l>
             <l n="739" xml:id="l739">Quiconque en cet estat se perd avec honneur,</l>
             <l n="740" xml:id="l740">Doit rendre les vainqueurs jaloux de son bon-heur,</l>
             <l n="741" xml:id="l741">Et l’on ne peut tomber d’une plus belle chute,</l>
@@ -1529,17 +1529,17 @@
             <l n="757" xml:id="l757">Et s’il faut qu’aujourd’huy la voix d’un misérable</l>
             <l n="758" xml:id="l758">Vous fasse revenir du deuil qui vous accable.</l>
             <l n="759" xml:id="l759">C’est pour ne laisser point ce grand coeur abâtu,<pb n="45" xml:id="p45"/></l>
-            <l n="760" xml:id="l760">Alors qu’il doit agir par sa seule <ref target="#vertu">vertu*</ref>.</l>
+            <l n="760" xml:id="l760">Alors qu’il doit agir par sa seule <ref target="#vertu">vertu</ref>.</l>
             <l n="761" xml:id="l761">Si vaincre la douleur au point de sa naissance,</l>
             <l n="762" xml:id="l762">Est le suprème effort d’une masle<note n="112" place="bottom">« Masle » signifie forte, pleine de vigueur.</note> constance ;</l>
-            <l n="763" xml:id="l763">Si quiconque entreprend un coup si <ref target="#genereux">généreux*</ref>,</l>
+            <l n="763" xml:id="l763">Si quiconque entreprend un coup si <ref target="#genereux">généreux</ref>,</l>
             <l n="764" xml:id="l764">Tente contre soy-mesme un combat dangereux :</l>
             <l n="765" xml:id="l765">Songez, songez qu’Octave est beaucoup plus à craindre ;</l>
             <l n="766" xml:id="l766">Qu’il oste à vostre Amour le loisir de se plaindre.</l>
             <l n="767" xml:id="l767">Relevez donc ce coeur, consultez avec luy</l>
             <l n="768" xml:id="l768">Du glorieux dessein qu’il doit prendre aujourd’huy :</l>
             <l n="769" xml:id="l769">N’agissez que par luy dans ce malheur extrème ;</l>
-            <l n="770" xml:id="l770">Que sa haute <ref target="#vertu">vertu*</ref> se règle sur soy-mème.</l>
+            <l n="770" xml:id="l770">Que sa haute <ref target="#vertu">vertu</ref> se règle sur soy-mème.</l>
             <l n="771" xml:id="l771">Quelque coup dont le sort oze vous assaillir,</l>
             <l n="772" xml:id="l772">Le sang du grand Caton ne peut jampis faillir.</l>
             <l n="773" xml:id="l773">Je vous laisse à vous-mème ;adieu, Brute m’apelle,</l>
@@ -1574,7 +1574,7 @@
             <l n="795" xml:id="l795">Incomparables traits de grace, et de valeur,</l>
             <l n="796" xml:id="l796">Jadis toute ma joye, aujourd’huy ma douleur.</l>
             <l n="797" xml:id="l797">Dernier fleau<note n="115" place="bottom">« Fleau » doit compter pour une seule syllabe. </note> des Tyrans, et plus craint que la foudre,</l>
-            <l n="798" xml:id="l798">Vous n’estes maintenant qu’un tronc couvert de <ref target="#poudre">poudre*</ref>.</l>
+            <l n="798" xml:id="l798">Vous n’estes maintenant qu’un tronc couvert de <ref target="#poudre">poudre</ref>.</l>
             <l n="799" xml:id="l799">Brute vous n’estes plus, et ce coeur amoureux</l>
             <l n="800" xml:id="l800">Peut porter sans mourir, un coup si rigoureux.</l>
             <l n="801" xml:id="l801">Ne puis-je que pleurer une mort sans seconde,</l>
@@ -1600,7 +1600,7 @@
           </sp>
           <sp xml:id="III04-2" who="julie">
             <speaker>JULIE</speaker>
-            <l n="821" xml:id="l821">Madame, surmontez ces premières <ref target="#allarmes">allarmes.*</ref></l>
+            <l n="821" xml:id="l821">Madame, surmontez ces premières <ref target="#allarmes">allarmes.</ref></l>
           </sp>
           <sp xml:id="III04-3" who="porcie">
             <speaker>PORCIE</speaker>
@@ -1641,7 +1641,7 @@
             <speaker>PORCIE</speaker>
             <l n="834" xml:id="l834">Hé ! Je ne sçay que trop, ce que tu veux m’aprendre ;</l>
             <l n="835" xml:id="l835">Tu me diras enfin apres un long discours,</l>
-            <l n="836" xml:id="l836">Que Brute estant <ref target="#defait">défait*</ref> a sçeu trancher ses jours ;</l>
+            <l n="836" xml:id="l836">Que Brute estant <ref target="#defait">défait</ref> a sçeu trancher ses jours ;</l>
             <l n="837" xml:id="l837">Qu’il a sçeu mourir libre, et tout couvert de gloire</l>
           </sp>
           <sp xml:id="III05-6" who="maxime">
@@ -1653,16 +1653,16 @@
             <l n="842" xml:id="l842">Il est vray que quelqu’un vous peut avoir deceuë.</l>
             <l n="843" xml:id="l843">La victoire douteuse a long-temps balancé ;<pb n="51" xml:id="p51"/></l>
             <l n="844" xml:id="l844">J’ay veu plus d’une fois nostre espoir renversé.</l>
-            <l n="845" xml:id="l845">Et voila le sujet de ces fausses <ref target="#allarmes">allarmes.*</ref></l>
+            <l n="845" xml:id="l845">Et voila le sujet de ces fausses <ref target="#allarmes">allarmes.</ref></l>
             <l n="846" xml:id="l846">Mais, Madame, aprenés le succés de nos Armes.</l>
-            <l n="847" xml:id="l847">Estant auprés de Brute, assés prés des <ref target="#hazard">hazards,*</ref></l>
+            <l n="847" xml:id="l847">Estant auprés de Brute, assés prés des <ref target="#hazard">hazards,</ref></l>
             <l n="848" xml:id="l848">J’y voy voler par tout une gresle de dards<note n="118" place="bottom">« Dards » : arme de jet (sens ancien du mot).</note>.</l>
             <l n="849" xml:id="l849">L’avance sans songer au péril de ma vie,</l>
             <l n="850" xml:id="l850">Mais un zèle plus fort m’en fit perdre l’envie :</l>
             <l n="851" xml:id="l851">Je m’escarte, et soudain nos soldats à la fois,</l>
             <l n="852" xml:id="l852">Tous comme par dépit jetent arcs, traits, carquois :</l>
             <l n="853" xml:id="l853">Chacun tire l’espée, et leurs brillantes lames,</l>
-            <l n="854" xml:id="l854">Dans l’air noircy de <ref target="#poudre">poudre*</ref> allument mille flâmes.</l>
+            <l n="854" xml:id="l854">Dans l’air noircy de <ref target="#poudre">poudre</ref> allument mille flâmes.</l>
             <l n="855" xml:id="l855">Tous la foudre à la main, et d’un commun accord</l>
             <l n="856" xml:id="l856">Fondent sur l’autre Armée avecque tant d’effort,</l>
             <l n="857" xml:id="l857">Que par ce rude choc se voyant esbranlée,</l>
@@ -1700,7 +1700,7 @@
             <l n="889" xml:id="l889">Là de crainte, et d’horreur, j’avois l’Ame trancie,</l>
             <l n="890" xml:id="l890">Quand Philippe venant du combat de Cassie</l>
             <l n="891" xml:id="l891">M’aborde avec le front d’un homme satisfait,</l>
-            <l n="892" xml:id="l892">Et me dit en courant qu’Octave estoit <ref target="#defait">défait*</ref><note n="122" place="bottom"> Boyer transforme librement l’histoire. Cassie n’a pas vaincu Octave. Plutarque raconte dans <hi rend="i">La Vie de Brutus</hi>, la débandade des soldats de Cassius : « Tandis qu’il hésitait et tardait, au lieu de commander avec promptitude et prévoyance, il se trouva enveloppé par l’aile droite des ennemis. Ses cavaliers se débandèrent et s’enfuirent vers la mer (...). Il fut contraint de se retirer avec une poignée d’hommes sur une colline et c’est à peine s’il aperçut le pillage de son camp, car sa vue était faible. » (XLIII, 4)</note> ;</l>
+            <l n="892" xml:id="l892">Et me dit en courant qu’Octave estoit <ref target="#defait">défait</ref><note n="122" place="bottom"> Boyer transforme librement l’histoire. Cassie n’a pas vaincu Octave. Plutarque raconte dans <hi rend="i">La Vie de Brutus</hi>, la débandade des soldats de Cassius : « Tandis qu’il hésitait et tardait, au lieu de commander avec promptitude et prévoyance, il se trouva enveloppé par l’aile droite des ennemis. Ses cavaliers se débandèrent et s’enfuirent vers la mer (...). Il fut contraint de se retirer avec une poignée d’hommes sur une colline et c’est à peine s’il aperçut le pillage de son camp, car sa vue était faible. » (XLIII, 4)</note> ;</l>
             <l n="893" xml:id="l893">Il sème dans le camp cette grande victoire ;<pb n="53" xml:id="p53"/></l>
             <l n="894" xml:id="l894">Brute l’aprend soudain, et prend part à la gloire :</l>
             <l n="895" xml:id="l895">Il monstre plus d’ardeur, mais presque en mème instant</l>
@@ -1782,7 +1782,7 @@
             <l n="947" xml:id="l947">Je mourray glorieuse, et béniray mon sort,</l>
             <l n="948" xml:id="l948">Si vous me choisissez pour une telle mort</l>
           </sp>
-          <label rend="center">Fin du troisième acte</label>
+          <trailer rend="center">Fin du troisième acte</trailer>
         </div>
       </div>
       <div xml:id="IV" type="act">
@@ -1845,7 +1845,7 @@
             <l n="986" xml:id="l986">Il offre tout Cassie à leur<note n="125" place="bottom"> Boyer interprète l’histoire. D’après Plutarque, Cassius a été tué sur sa demande par son affranchi Pindaros. Il ajoute même que « personne ne revit plus Pindaros après ce meurtre, ce qui fit penser à quelques uns qu’il avait tué Cassius sans en avoir reçu l’ordre. » <hi rend="i">Vie de Brutus</hi> (XLIII,8).</note> pitié barbare,</l>
             <l n="987" xml:id="l987">Se met en bute<note n="126" place="bottom">Être la cible de </note> à tous, et chacun de son flanc</l>
             <l n="988" xml:id="l988">Ouvre par quelqu’endroit une source de sang.</l>
-            <l n="989" xml:id="l989">Ils condamnent alors le zèle, qu’il <ref target="#avouer">avouë*</ref> ;</l>
+            <l n="989" xml:id="l989">Ils condamnent alors le zèle, qu’il <ref target="#avouer">avouë</ref> ;</l>
             <l n="990" xml:id="l990">Luy regarde leurs coups, les admire, les louë,<pb n="60" xml:id="p60"/></l>
             <l n="991" xml:id="l991">Et de peur d’estre ingrat pour un dernier effort</l>
             <l n="992" xml:id="l992">Sur son premier meurtrier porte le coup de mort<note n="127" place="bottom">Pour respecter le rythme du vers, « meurtrier » compte pour deux syllabes.</note>,</l>
@@ -1954,7 +1954,7 @@
           </sp>
           <sp xml:id="IV03-6" who="porcie">
             <speaker>PORCIE</speaker>
-            <l n="1067" xml:id="l1067">Cent <ref target="#pensers">pensers*</ref> differens, comme un amas des flots</l>
+            <l n="1067" xml:id="l1067">Cent <ref target="#pensers">pensers</ref> differens, comme un amas des flots</l>
             <l n="1068" xml:id="l1068">Viennent soudainement accabler mon repos ;</l>
             <l n="1069" xml:id="l1069">Je connois la fortune, et ses vicissitudes</l>
             <l n="1070" xml:id="l1070">Semblent m’accoustumer à tant d’inquiétudes.</l>
@@ -1974,7 +1974,7 @@
           </sp>
           <sp xml:id="IV03-8" who="porcie">
             <speaker>PORCIE</speaker>
-            <l part="F">O ! <ref target="#transport">Transports*</ref>, ah Seigneur !</l>
+            <l part="F">O ! <ref target="#transport">Transports</ref>, ah Seigneur !</l>
           </sp>
         </div>
         <div type="scene" xml:id="IV04">
@@ -1998,7 +1998,7 @@
           <sp xml:id="IV04-3" who="brute">
             <speaker>BRUTE</speaker>
             <l n="1088" xml:id="l1088">Hélas vostre douleur me rend plus mal-heureux :<pb n="68" xml:id="p68"/></l>
-            <l n="1089" xml:id="l1089">Par l’excez de l’<ref target="#ebranlement">ébranlement*</ref> qui vous rend abatuë<note n="133" place="bottom">Irrégularité de versification : ce vers a quatorze syllabes. Pour rétablir le rythme du vers, nous corrigeons en : « Par cest ébranlement qui vous rend abatuë ».</note>,</l>
+            <l n="1089" xml:id="l1089">Par l’excez de l’<ref target="#ebranlement">ébranlement</ref> qui vous rend abatuë<note n="133" place="bottom">Irrégularité de versification : ce vers a quatorze syllabes. Pour rétablir le rythme du vers, nous corrigeons en : « Par cest ébranlement qui vous rend abatuë ».</note>,</l>
             <l n="1090" xml:id="l1090">César se peut vanter de vous avoir vaincuë.</l>
             <l n="1091" xml:id="l1091">Vous vous faites sentir avec trop de rigueur,</l>
             <l n="1092" xml:id="l1092">Grands-Dieux, si ma disgrace abat un si grand coeur.</l>
@@ -2037,7 +2037,7 @@
             <l n="1122" xml:id="l1122">Et ne m’offrir jamais un si triste avantage.</l>
             <l n="1123" xml:id="l1123">C’est là, c’est là, Seigneur, le sujet de mes pleurs :</l>
             <l n="1124" xml:id="l1124">Je demeure insensible à mes propres mal-heurs,</l>
-            <l n="1125" xml:id="l1125">Et dans l’excez des maux où ma <ref target="#vertu">vertu*</ref> se treuve,</l>
+            <l n="1125" xml:id="l1125">Et dans l’excez des maux où ma <ref target="#vertu">vertu</ref> se treuve,</l>
             <l n="1126" xml:id="l1126">Donnez-luy, s’il se peut, une plus forte épreuve ;</l>
             <l n="1127" xml:id="l1127">Vous la verrez tousjours aller d’un mesme pas,</l>
             <l n="1128" xml:id="l1128">Regarder d’un mesme oeil, la vie et le trespas,</l>
@@ -2046,7 +2046,7 @@
           </sp>
           <sp xml:id="IV04-5" who="brute">
             <speaker>BRUTE.</speaker>
-            <l n="1131" xml:id="l1131">Hélas ! Vostre <ref target="#vertu">vertu*</ref> dans ce pressant mal-heur<pb n="70" xml:id="p70"/></l>
+            <l n="1131" xml:id="l1131">Hélas ! Vostre <ref target="#vertu">vertu</ref> dans ce pressant mal-heur<pb n="70" xml:id="p70"/></l>
             <l n="1132" xml:id="l1132">Ne m’afflige pas moins qu’a fait vostre douleur.</l>
             <l n="1133" xml:id="l1133">Je voy dans l’un et l’autre une pareille envie ;</l>
             <l n="1134" xml:id="l1134">Toutes deux à leur tour menacent vostre vie.</l>
@@ -2060,7 +2060,7 @@
             <l n="1142" xml:id="l1142">Donnons ce grand exemple au veu<note n="135" place="bottom">  « Au veu » : au vu (à la vue).</note> de tous les hommes.</l>
             <l n="1143" xml:id="l1143">Monstrons à nostre Rome en cette extrémité,</l>
             <l n="1144" xml:id="l1144">Que tous deux par un coup de <ref target="#genereux">générosité</ref></l>
-            <l n="1145" xml:id="l1145">Sçavons mettre à <ref target="#couvert">couvert*</ref> d’un tyran inflexible,</l>
+            <l n="1145" xml:id="l1145">Sçavons mettre à <ref target="#couvert">couvert</ref> d’un tyran inflexible,</l>
             <l n="1146" xml:id="l1146">Tout ce qui luy restoit de grand et d’invincible.</l>
             <l n="1147" xml:id="l1147">Que s’il faut espérer la grace du vainqueur,</l>
             <l n="1148" xml:id="l1148">Craignons plus que la mort cette indigne faveur.</l>
@@ -2076,7 +2076,7 @@
           <sp xml:id="IV04-6" who="porcie">
             <speaker>PORCIE</speaker>
             <l n="1157" xml:id="l1157">Seigneur, tant de raisons apuyent ma constance,</l>
-            <l n="1158" xml:id="l1158">Qu’elle aura moins de gloire, ayant trop d’<ref target="#asseurance">asseurance*</ref></l>
+            <l n="1158" xml:id="l1158">Qu’elle aura moins de gloire, ayant trop d’<ref target="#asseurance">asseurance</ref></l>
             <l n="1159" xml:id="l1159">Il suffit de sçavoir que je meurs avec vous :</l>
             <l n="1160" xml:id="l1160">C’est par là que mon sort fera mille jaloux.</l>
             <l n="1161" xml:id="l1161">Il est vray que s’il faut qu’avec vous je périsse,</l>
@@ -2088,7 +2088,7 @@
             <l n="1167" xml:id="l1167">Vous portastes le coup, quand j’eus donné l’arrest.</l>
             <l n="1168" xml:id="l1168">Et si Rome à mes yeux mesla son interest</l>
             <l n="1169" xml:id="l1169">L’ingrate vous trahit en soustenant Octave,</l>
-            <l n="1170" xml:id="l1170">Et vous <ref target="#avouer">desavoüa*</ref> devenant son esclave.</l>
+            <l n="1170" xml:id="l1170">Et vous <ref target="#avouer">desavoüa</ref> devenant son esclave.</l>
             <l n="1171" xml:id="l1171">Si doncques ma vengeance a faït tous vos travaux</l>
             <l n="1172" xml:id="l1172">Vangez-vous par ma mort du plus grand de vos maux<note n="137" place="bottom"> Porcie veut mourir seule et laisser Brutus venger sa mort, comme la Sabine de Corneille qui propose à son frère et à son mari : « qu’un de vous me tue et que l’autre me venge. » <hi rend="i">Horace</hi> (II, 6)</note>:</l>
             <l n="1173" xml:id="l1173">Que je sois par un coup, et noble et légitime,</l>
@@ -2117,7 +2117,7 @@
             <l n="1193" xml:id="l1193">Ne la pouvant sauver dans ce commun naufrage,</l>
             <l n="1194" xml:id="l1194">Que du seul déplaisir de voir mon esclavage.</l>
             <l n="1195" xml:id="l1195">Pour vous, qui méritez un destin plus heureux,</l>
-            <l n="1196" xml:id="l1196">Portez, portez à Rome un coeur si <ref target="#genereux">généreux*</ref> :</l>
+            <l n="1196" xml:id="l1196">Portez, portez à Rome un coeur si <ref target="#genereux">généreux</ref> :</l>
             <l n="1197" xml:id="l1197">Présentés-luy le sang que je verse pour elle,<pb n="73" xml:id="p73"/></l>
             <l n="1198" xml:id="l1198">Reprochez-luy ma mort, et l’ardeur de mon zèle ;</l>
             <l n="1199" xml:id="l1199">Faites enfin pour moy, ce qu’Antoine<note n="139" place="bottom"> Après l’assassinat de César et l’arrivée d’Octave à Rome, Antoine sentit son pouvoir menacé. Il se rapprocha officiellement d’Octave et obtint l’éloignement des principaux conjurés des Ides de Mars. Allusion à la harangue d’Antoine évoquée par G. de Scudéry dans <hi rend="i">La Mort de César</hi> (V, 1) : « Faisons voir que César vit en notre mémoire, / Peignons ses assassins d’une couleur si noire / Que le peuple irrité contre l’acte commis / Aille épandre le sang de tous ses ennemis (c’est-à-dire les ennemis de César). »</note> autrefois</l>
@@ -2156,16 +2156,16 @@
             <l part="F">Hé ! Bien mourons<note n="142" place="bottom">Brutus suggère qu’ils pourraient tous deux mourir courageusement, à leur manière et ainsi éviter de passer sous le joug des vainqueurs ce que malheureusement ils ne pourront éviter. </note>, Madame.</l>
             <l n="1226" xml:id="l1226">Enfin vostre devoir triomphe de ma flamme :</l>
             <l n="1227" xml:id="l1227">Vostre gloire le veut, il y faut consentir :</l>
-            <l n="1228" xml:id="l1228">Ma <ref target="#genereux">générosité*</ref> ne se peut démentir.</l>
+            <l n="1228" xml:id="l1228">Ma <ref target="#genereux">générosité</ref> ne se peut démentir.</l>
             <l n="1229" xml:id="l1229">Tendresse, amour, pitié, qui la vouliez surprendre,</l>
             <l n="1230" xml:id="l1230">Servez mieux mon devoir, il est temps de se rendre.</l>
-            <l n="1231" xml:id="l1231">Je ne me deffends plus contre tant de <ref target="#vertu">vertu*</ref>.</l>
+            <l n="1231" xml:id="l1231">Je ne me deffends plus contre tant de <ref target="#vertu">vertu</ref>.</l>
             <l n="1232" xml:id="l1232">Toy, qui vois son dessein y consentiras-tu.</l>
             <l n="1233" xml:id="l1233">Justes Ciel ! Pourras-tu voir périr ton ouvrage ?</l>
             <l n="1234" xml:id="l1234">Le reste des Catons, la gloire de nostre âge ?</l>
             <l n="1235" xml:id="l1235">Pourras-tu voir enfin entrer dans le tombeau,</l>
             <l n="1236" xml:id="l1236">Tout ce que nostre Rome a de grand et de beau ?</l>
-            <l n="1237" xml:id="l1237">Voir ces brillans appas* se couvrir des ténèbres ?</l>
+            <l n="1237" xml:id="l1237">Voir ces brillans appas se couvrir des ténèbres ?</l>
             <l n="1238" xml:id="l1238">Voir changer ces clartez en des ombres funèbres ?<pb n="75" xml:id="p75"/></l>
             <l n="1239" xml:id="l1239">Voir tomber ce beau sang et par un prompt effort</l>
             <l n="1240" xml:id="l1240">Voir passer dans ce corps les horreurs de la mort<note n="143" place="bottom">Ces quatre vers traduisent le passage de la vie à la mort. Le premier hémistiche décrit la vie : « brillans. appas » (v. 1229); « clartez »(v. 1230) ; « beau sang » (v. 1231) et « corps » (v. 1232) ;tandis que le second figure la mort : « couvrir de ténèbres » (v. 1229) ; « ombres funèbres » (v. 1230) ; « horreurs de la mort » (v. 1232).</note>?</l>
@@ -2208,7 +2208,7 @@
             <l n="1259" xml:id="l1259">Par des sanglants exploits achevant ce grand jour,</l>
             <l n="1260" xml:id="l1260">Honore nostre mort, et vange mon amour.</l>
             <l n="1261" xml:id="l1261">Mourons, mais tous couverts du sang de ces perfides.</l>
-            <l n="1262" xml:id="l1262">Vous, restes <ref target="#genereux">généreux*</ref> de nos troupes timides,</l>
+            <l n="1262" xml:id="l1262">Vous, restes <ref target="#genereux">généreux</ref> de nos troupes timides,</l>
             <l n="1263" xml:id="l1263">Venez sur nos tyrans porter vos derniers coups.</l>
           </sp>
           <sp xml:id="IV05-3" who="porcie">
@@ -2220,7 +2220,7 @@
             <l n="1265" xml:id="l1265">Doi-je pas tenter tout par un effort supréme,</l>
             <l n="1266" xml:id="l1266">Pour servir nostre Rome, et sauver ce que j’ayme ?</l>
             <l n="1267" xml:id="l1267">Nos efforts seront vains, mais nostre désespoir<note n="145" place="bottom">Expression du tragique : Brutus sait qu’Octave a le dessus, mais dans un dernier acte de désespoir, il va combattre pour mourir les armes à la main. Il ne se fait aucune illusion sur l’issue de la bataille. </note></l>
-            <l n="1268" xml:id="l1268">Ne doit pas <ref target="#attenter">attenter*</ref> dessus nostre devoir.</l>
+            <l n="1268" xml:id="l1268">Ne doit pas <ref target="#attenter">attenter</ref> dessus nostre devoir.</l>
           </sp>
         </div>
         <div type="scene" xml:id="IV06">
@@ -2230,7 +2230,7 @@
             <l n="1269" xml:id="l1269">Prépare toy mon ame à la dernière foudre :<pb n="78" xml:id="p78"/></l>
             <l n="1270" xml:id="l1270">Nostre destin s’achève, il est temps de résoudre.</l>
             <l n="1271" xml:id="l1271">Ménageons comme il faut ce précieux moment,</l>
-            <l n="1272" xml:id="l1272">Et mourons sans désordre, et sans <ref target="#estonnement">estonnement*</ref>.</l>
+            <l n="1272" xml:id="l1272">Et mourons sans désordre, et sans <ref target="#estonnement">estonnement</ref>.</l>
             <l n="1273" xml:id="l1273">Oüy malgré vos efforts, Tyrans, malgré vos haines</l>
             <l n="1274" xml:id="l1274">Nous mourrons sans rougir, et libres et Romaines,</l>
             <l n="1275" xml:id="l1275">Et je me puis vanter si proche de la mort,</l>
@@ -2244,7 +2244,7 @@
             <l n="1283" xml:id="l1283">Souviens-toy du devoir, qui m’oblige à périr,</l>
             <l n="1284" xml:id="l1284">Et qu’à qui n’ose vivre, il est bon de mourir.</l>
           </sp>
-          <label rend="center">Fin du quatrième acte.</label>
+          <trailer rend="center">Fin du quatrième acte.</trailer>
         </div>
       </div>
       <div xml:id="V" type="act">
@@ -2280,7 +2280,7 @@
             <l n="1305" xml:id="l1305">Cependant qu’on le cherche, on rencontre sa femme :</l>
             <l n="1306" xml:id="l1306">Ce désordre avoit mis le trouble dans son ame ;</l>
             <l n="1307" xml:id="l1307">Et dans son désespoir, croyant que Brute est mort<note n="150" place="bottom">À nouveau, Boyer se sert de la mort hypothétique de Brutus pour faire avancer l’action. C’est parce qu’elle pense que Brutus est mort que Porcie tente de mettre fin à ses jours. </note>,</l>
-            <l n="1308" xml:id="l1308">Elle fait pour le suivre un <ref target="#genereux">généreux*</ref> effort.</l>
+            <l n="1308" xml:id="l1308">Elle fait pour le suivre un <ref target="#genereux">généreux</ref> effort.</l>
             <l n="1309" xml:id="l1309">Je préviens son dessein, mais je voy qu’on l’emmeine</l>
           </sp>
           <sp xml:id="V01-3" who="octave">
@@ -2310,12 +2310,12 @@
             <l n="1319" xml:id="l1319">Tu ne me viens flater de cette vanité,<pb n="83" xml:id="p83"/></l>
             <l n="1320" xml:id="l1320">Que pour croistre ma honte, et ton indignité.</l>
             <l n="1321" xml:id="l1321">Si ton ame consent à cette haute estime,</l>
-            <l n="1322" xml:id="l1322">Dont tu viens d’honorer cette <ref target="#vertu">vertu*</ref> sublime,</l>
+            <l n="1322" xml:id="l1322">Dont tu viens d’honorer cette <ref target="#vertu">vertu</ref> sublime,</l>
             <l n="1323" xml:id="l1323">Ne déments pas l’honneur, que tu fais à mon sang,</l>
             <l n="1324" xml:id="l1324">Et par tes traitemens fais justice à mon rang.</l>
             <l n="1325" xml:id="l1325">Recognois-tu Caton où je suis enchaisnée ?</l>
             <l n="1326" xml:id="l1326">Oste moi de ces fers, où sa gloire est bornée.</l>
-            <l n="1327" xml:id="l1327">Héros, dont la <ref target="#vertu">vertu*</ref> frape mon souvenir,</l>
+            <l n="1327" xml:id="l1327">Héros, dont la <ref target="#vertu">vertu</ref> frape mon souvenir,</l>
             <l n="1328" xml:id="l1328">Tu devois pénétrer jusques dans l’avenir,</l>
             <l n="1329" xml:id="l1329">Et mélant les destins de père, et de la fille,</l>
             <l n="1330" xml:id="l1330">Sauver par un seul coup l’honneur de ta famille.</l>
@@ -2323,12 +2323,12 @@
             <l n="1332" xml:id="l1332">Par moi la servitude entre dans ma maison ?</l>
             <l n="1333" xml:id="l1333">Toi, si Caton encor peut vivre en ta mémoire,</l>
             <l n="1334" xml:id="l1334">Si tu connois sa fille avec si peu de gloire,</l>
-            <l n="1335" xml:id="l1335">Rends-nous tout nostre éclat par <ref target="#genereux">générosité*</ref> ;</l>
+            <l n="1335" xml:id="l1335">Rends-nous tout nostre éclat par <ref target="#genereux">générosité</ref> ;</l>
             <l n="1336" xml:id="l1336">Ou souffre que je meure avec la liberté.</l>
             <l n="1337" xml:id="l1337">Mais je prie un mortel, et ce triste langage</l>
             <l n="1338" xml:id="l1338">M’introduit à la honte, et sent trop l’esclavage.</l>
             <l n="1339" xml:id="l1339">Que si dans cet estat je puis faire des voeux ;</l>
-            <l n="1340" xml:id="l1340">Puis-je exiger d’Octave un effort <ref target="#genereux">généreux*</ref> ?</l>
+            <l n="1340" xml:id="l1340">Puis-je exiger d’Octave un effort <ref target="#genereux">généreux</ref> ?</l>
             <l n="1341" xml:id="l1341">L’héritier de César, et l’ennemy de Brute ;</l>
             <l n="1342" xml:id="l1342">Lui qui me met aux fers, lui qui me persécute ;</l>
             <l n="1343" xml:id="l1343">Lui qui tout dégoutant du sang de mes parens</l>
@@ -2349,7 +2349,7 @@
             <l n="1351" xml:id="l1351">Et tu t’ozes servir d’un injuste pouvoir,</l>
             <l n="1352" xml:id="l1352">Pour empescher ma mort, et forcer mon devoir.</l>
             <l n="1353" xml:id="l1353">Mais par quel droit, Tiran, faut-il que j’en dépende ?</l>
-            <l n="1354" xml:id="l1354">La <ref target="#vertu">vertu*</ref> ne sert point où le vice commande,</l>
+            <l n="1354" xml:id="l1354">La <ref target="#vertu">vertu</ref> ne sert point où le vice commande,</l>
             <l n="1355" xml:id="l1355">Et ces fers n’ostent rien à l’éclat des Romains ;</l>
             <l n="1356" xml:id="l1356">Ils relèvent nos coeurs, s’ils abaissent nos mains,</l>
             <l n="1357" xml:id="l1357">Et Rome ne sent point la honte du servage.</l>
@@ -2419,7 +2419,7 @@
             <l n="1409" xml:id="l1409">Voila, voila Tyran, ce qu’il faut que je fasse.</l>
             <l n="1410" xml:id="l1410">Je sçauray soustenir la gloire de ma race :</l>
             <l n="1411" xml:id="l1411">Et je trouve chez nous dequoy me secourir,</l>
-            <l n="1412" xml:id="l1412">Mille exemples fameux m’ont <ref target="#apprendre">apris de*</ref> mourir.</l>
+            <l n="1412" xml:id="l1412">Mille exemples fameux m’ont <ref target="#apprendre">apris de</ref> mourir.</l>
             <l n="1413" xml:id="l1413">Préviens tous les moyens, et l’effort ordinaire,</l>
             <l n="1414" xml:id="l1414">Par qui le désespoir tasche à te satisfaire.</l>
             <l n="1415" xml:id="l1415">Je dois à l’Univers un exemple nouveau.</l>
@@ -2456,7 +2456,7 @@
         <div type="scene" xml:id="V03">
           <head>SCENE TROISIESME</head>
           <sp xml:id="V03-1" who="octave">
-            <speaker>OCTAVE <hi rend="i">continuë</hi></speaker>
+            <speaker>OCTAVE </speaker><stage>continuë</stage>
             <l n="1441" xml:id="l1441">Mais plustost qu’elle vive en faveur de ma gloire.<pb n="89" xml:id="p89"/></l>
             <l n="1442" xml:id="l1442">Jouyssons pleinement du fruit de ma victoire.</l>
             <l n="1443" xml:id="l1443">Qu’une illustre pitié la sauve du trespas.</l>
@@ -2476,7 +2476,7 @@
           </sp>
           <sp xml:id="V04-2" who="maxime">
             <speaker>MAXIME</speaker>
-            <l n="1449" xml:id="l1449">J’<ref target="#avouer">avoüeray*</ref> hardiment une action si belle ;</l>
+            <l n="1449" xml:id="l1449">J’<ref target="#avouer">avoüeray</ref> hardiment une action si belle ;</l>
             <l n="1450" xml:id="l1450">Je ne trahiray point la gloire de mon zèle.</l>
             <l n="1451" xml:id="l1451">Oüy, Porcie eut péry si l’on no m’eut surpris,</l>
             <l n="1452" xml:id="l1452">Et d’un si beau trespas le mien estoit le pris.</l>
@@ -2496,16 +2496,16 @@
             <l n="1466" xml:id="l1466">Si le coup est failly, l’honneur n’en est pas moindre ;</l>
             <l n="1467" xml:id="l1467">Et quoy que ma valeur ayt tenté vainement</l>
             <l n="1468" xml:id="l1468">D’oster à ton triomphe un si grand ornement.</l>
-            <l n="1469" xml:id="l1469">Mon coeur <ref target="#avecques">avecque*</ref> joye attend de ta justice</l>
-            <l n="1470" xml:id="l1470">D’un crime <ref target="#genereux">généreux*</ref> un illustre suplice.</l>
+            <l n="1469" xml:id="l1469">Mon coeur <ref target="#avecques">avecque</ref> joye attend de ta justice</l>
+            <l n="1470" xml:id="l1470">D’un crime <ref target="#genereux">généreux</ref> un illustre suplice.</l>
             <l n="1471" xml:id="l1471">Il est vray que j’ay tort dans l’estat où je suis,</l>
-            <l n="1472" xml:id="l1472">De vouloir par ma mort terminer mes <ref target="#ennuy">ennuys*</ref> :</l>
+            <l n="1472" xml:id="l1472">De vouloir par ma mort terminer mes <ref target="#ennuy">ennuys</ref> :</l>
             <l n="1473" xml:id="l1473">Cependant que Porcie esclave et mal-heureuse</l>
-            <l n="1474" xml:id="l1474">Cherche en vain pour sa gloire une mort <ref target="#genereux">généreuse*</ref>.</l>
+            <l n="1474" xml:id="l1474">Cherche en vain pour sa gloire une mort <ref target="#genereux">généreuse</ref>.</l>
             <l n="1475" xml:id="l1475">Souffrez-donc qu’elle meure, ou vive sans rougir.</l>
             <l n="1476" xml:id="l1476">Octave, c’est ainsi qu’un grand coeur doit agir.</l>
             <l n="1477" xml:id="l1477">Une gloire éclatante, et qui n’est pas commune</l>
-            <l n="1478" xml:id="l1478">Dépend de la <ref target="#vertu">vertu*</ref>, non pas de la fortune.</l>
+            <l n="1478" xml:id="l1478">Dépend de la <ref target="#vertu">vertu</ref>, non pas de la fortune.</l>
             <l n="1479" xml:id="l1479">Le sort donne souvent le tiltre de vainqueur ;<pb n="92" xml:id="p92"/></l>
             <l n="1480" xml:id="l1480">Mais celuy de Clément est l’effet d’un grand coeur<note n="156" place="bottom"> Ce vers n’est pas sans rappeler les paroles du philosophe Arée dans la <hi rend="i">Porcie</hi> de Robert Garnier (1568). Il prie Octave d’être clément car « la clémence est l’honneur d’un prince débonnaire » (III, 2).</note>.</l>
             <l n="1481" xml:id="l1481">Est-il d’un <ref target="#genereux">généreux</ref>, et pourrois-tu sans blâme</l>
@@ -2515,7 +2515,7 @@
             <l n="1485" xml:id="l1485">Sauve, sauve ta gloire en celle de Porcie :</l>
             <l n="1486" xml:id="l1486">Triomphe de son coeur, et non pas de sa vie :</l>
             <l n="1487" xml:id="l1487">Et relevant un sort tristement abatu</l>
-            <l n="1488" xml:id="l1488">Oblige une ennemie à loüer ta <ref target="#vertu">vertu*</ref>.</l>
+            <l n="1488" xml:id="l1488">Oblige une ennemie à loüer ta <ref target="#vertu">vertu</ref>.</l>
             <l n="1489" xml:id="l1489">Attendris cet orgueil à l’aspect de ses charmes.</l>
             <l n="1490" xml:id="l1490">Et laisse-toy toucher par de si belles larmes.</l>
             <l n="1491" xml:id="l1491">Mais j’offence ta gloire en cette occasion</l>
@@ -2523,13 +2523,13 @@
             <l n="1493" xml:id="l1493">Ne conçois pas pour nous des sentimens vulgaires,</l>
             <l n="1494" xml:id="l1494">Considère ta gloire, et non pas mes misères ;</l>
             <l n="1495" xml:id="l1495">Et si tu te résous de finir nos mal-heurs,</l>
-            <l n="1496" xml:id="l1496">Escoute ta <ref target="#vertu">vertu*</ref> plustost que nos douleurs.</l>
+            <l n="1496" xml:id="l1496">Escoute ta <ref target="#vertu">vertu</ref> plustost que nos douleurs.</l>
           </sp>
           <sp xml:id="V04-3" who="octave">
             <speaker>OCTAVE</speaker>
             <l n="1497" xml:id="l1497">Maxime je me rends, l’orgueil de ma victoire</l>
             <l n="1498" xml:id="l1498">M’a long-temps ébloüy par une fausse gloire.</l>
-            <l n="1499" xml:id="l1499">Ton discours r’apellant ma <ref target="#genereux">générosité*</ref></l>
+            <l n="1499" xml:id="l1499">Ton discours r’apellant ma <ref target="#genereux">générosité</ref></l>
             <l n="1500" xml:id="l1500">Me rend ce que la haine, et l’orgueil m’ont osté.</l>
             <l n="1501" xml:id="l1501">Tu me rends à moy-mème, et je sens que ton zèle<pb n="93" xml:id="p93"/></l>
             <l n="1502" xml:id="l1502">R’anime une pitié qui m’est si naturelle,</l>
@@ -2546,7 +2546,7 @@
           </sp>
           <sp xml:id="V04-4" who="maxime">
             <speaker>MAXIME</speaker>
-            <l n="1513" xml:id="l1513">Seigneur, je connoy Brute, et sa <ref target="#vertu">vertu*</ref> sévère</l>
+            <l n="1513" xml:id="l1513">Seigneur, je connoy Brute, et sa <ref target="#vertu">vertu</ref> sévère</l>
             <l n="1514" xml:id="l1514">Luy deffend de souffrir un destin si contraire :</l>
             <l n="1515" xml:id="l1515">Il en rompra le cours, et ce coeur indompté</l>
             <l n="1516" xml:id="l1516">Préviendra par sa mort l’effet de ta bonté</l>
@@ -2593,7 +2593,7 @@
             <l n="1535" xml:id="l1535">Brute, qui veut mourir, se met en bute à tous,</l>
             <l n="1536" xml:id="l1536">Se deffend de nos mains ; et non pas de nos coups,</l>
             <l n="1537" xml:id="l1537">Et soigneux seulement d’éviter la surprise,</l>
-            <l n="1538" xml:id="l1538">Il expose son sang, et deffend sa <ref target="#franchise">franchise*</ref>.</l>
+            <l n="1538" xml:id="l1538">Il expose son sang, et deffend sa <ref target="#franchise">franchise</ref>.</l>
             <l n="1539" xml:id="l1539">Le nombre enfin l’accable, et son bras abatu</l>
             <l n="1540" xml:id="l1540">Par un dernier effort secourant sa vertu</l>
             <l n="1541" xml:id="l1541">Contre son propre flanc tourne toute sa rage<note n="160" place="bottom"> D’après Plutarque, c’est Straton, l’ami de Brutus qui l’a tué sur sa demande. <hi rend="i">Vie de Brutus</hi> (Epilogue) Guérin de Bouscal est plus fidèle à l’histoire que Boyer puisqu’il restitue cet épisode dans la <hi rend="i">Mort de Brute et de Porcie</hi> (V, 4).</note>:</l>
@@ -2633,7 +2633,7 @@
             <l n="1569" xml:id="l1569">Elle se lève enfin, et sans paroistre émeuë,<pb n="98" xml:id="p98"/></l>
             <l n="1570" xml:id="l1570">Elle aproche un grand feu qui s’offroit à sa veuë,</l>
             <l n="1571" xml:id="l1571">Et passant tout d’un coup dans un grand désespoir,</l>
-            <l n="1572" xml:id="l1572">Par un soudain <ref target="#transport">transport*</ref> que je ne puis prévoir,</l>
+            <l n="1572" xml:id="l1572">Par un soudain <ref target="#transport">transport</ref> que je ne puis prévoir,</l>
             <l n="1573" xml:id="l1573">Prent des charbons ardans<note n="162" place="bottom"> Au sujet de la mort de Porcie, Boyer est fidèle à Plutarque et à tous les historiens qui s’y sont intéressés. Cependant, Plutarque fait part d’une autre version dans l’épilogue de la <hi rend="i">Vie de Brutus</hi> : « On cite pourtant une lettre de Brutus à ces amis où il leur fait des reproches et déplore qu’ils ne se soient pas occupés de Porcia, alors qu’elle avait décidé de quitter la vie à cause d’une maladie.  » </note>, et d’une bouche avide</l>
             <l n="1574" xml:id="l1574">Dévore avec plaisir cette braise homicide.</l>
             <l n="1575" xml:id="l1575">Elle vouloit parler, mais ses nobles désirs    </l>
@@ -2647,7 +2647,7 @@
           </sp>
           <sp xml:id="V05-6" who="octave">
             <speaker>OCTAVE</speaker>
-            <l n="1583" xml:id="l1583">O ! Miracle inoüy de <ref target="#genereux">générosité*</ref>.</l>
+            <l n="1583" xml:id="l1583">O ! Miracle inoüy de <ref target="#genereux">générosité</ref>.</l>
             <l n="1584" xml:id="l1584">Triste effet de ma haine, et de ma cruauté !</l>
             <l n="1585" xml:id="l1585">Falloit-il que le sort la rendit mon esclave,</l>
             <l n="1586" xml:id="l1586">Pour reprocher sa mort au triomphe d’Octave ?</l>
@@ -2656,7 +2656,7 @@
             <l n="1589" xml:id="l1589">Qu’on délivre Maxime, et que sa délivrance</l>
             <l n="1590" xml:id="l1590">Après tant de rigueur signale ma clémence.</l>
           </sp>
-          <label rend="center">Fin du cinquiesme et dernier Acte.</label>
+          <trailer rend="center">Fin du cinquiesme et dernier Acte.</trailer>
         </div>
       </div>
     </body>
@@ -2707,7 +2707,7 @@
         </entryFree>
         <entryFree xml:id="confidence">
           <form>Confidence</form>
-          <def>Confiance. Ce sens s’explique par l’identité d’origine des deux mots « confiance » et « confidence* », doublets du même mot latin.</def>
+          <def>Confiance. Ce sens s’explique par l’identité d’origine des deux mots « confiance » et « confidence », doublets du même mot latin.</def>
           <xr>V. <ref target="#l541">541</ref>.</xr>
         </entryFree>
         <entryFree xml:id="couvert">

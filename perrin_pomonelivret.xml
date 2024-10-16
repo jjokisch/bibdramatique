@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,7 +22,7 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/perrin_pomonelivret/</idno>
+        <idno>http://bibdramatique.huma-num.fr/perrin_pomonelivret/</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl/>
@@ -127,8 +124,8 @@
         <head>AU ROY.</head>
         <pb n="3" xml:id="p3"/>
         <p>Sire,</p>
-        <p>Aprez avoir rendu Vostre Estat victorieux, tranquille &amp; bien-heureux, il ne restoit plus à V.M. qu’à le rendre riche, brillant &amp; magnifique. C’est dans cette veuë qu’elle a transplanté dans son Royaume les Arts Liberaux, le Commerce &amp; les Manufactures, &amp; qu’elle s’est appliquée avec tant de soin à l’embellissement de ses Maisons, &amp; de sa Ville Capitale : C’est cét Esprit de grandeur &amp; de magnificence, dont Vostre Ame Royale est entierement possedée, qui a fait sortir de terre ces grands Palais du Louvre, &amp; de Versailles, &amp; qui les a comblez de cette profusion admirable de meubles &amp; de richesses : C’est luy qui a donné à la France tant de beaux divertissemens, &amp; nouvellement ce Superbe Ballet<note place="bottom">Il s’agit très probablement de <hi rend="i">Psyché</hi>, tragédie-ballet, issue de la collaboration de Molière, Quinault, Lully et Corneille, jouée pour la première fois aux Tuileries le 17 janvier 1671, puis au théâtre du Palais-Royal à partir du 24 juillet, où la pièce se maintint encore avec un triomphal succès, qui aurait pu faire de l’ombre à celui de <hi rend="i">Pomone</hi>, jouée à partir d’avril, pour huit mois consécutifs, rue de Vaugirard. </note>, qui a fait l’<ref target="#etonnement">étonnement*</ref> de toute l’Europe. Toutes ces choses m’ont persuadé, S I R E, que V. M. auroit agreable<note place="bottom"><hi rend="i">Avoir agréable que</hi> : comprendre « trouver cela agréable que ». La construction de l’attribut de l’objet, en français classique, était plus souple qu’en français moderne. Certains verbes semblent l’accepter moins facilement aujourd’hui. Ex : « J’ai toujours tenu ma servitude une offrande si contemptible » (Malherbe, <hi rend="i">Lettr.</hi>, 1601, cité par Fournier, § 142, p.107). La construction paraît fortement inspirée de la structure latine Mihi est + attribut.</note> que <pb n="4" xml:id="p4"/> l’on introduisit dans son Royaume le seul spectacle &amp; l’unique divertissement dont il estoit privé, qui est celuy des Opera<note place="bottom">Orthographe latine, du pluriel de <hi rend="i">opus, operis</hi>, n. qui désigne généralement l’« ouvrage ». Perrin utilise le terme au féminin, dans son premier Avant-propos (voir p.166). Voir aussi, en annexe, la lettre au Cardinal Della Rovere où Perrin orthographie « <hi rend="i">Opre</hi> ». Le terme d’« opéra » au sens d’œuvre lyrique ne figure pas dans les dictionnaires français du XVI<hi rend="sup">e</hi> et du XVII<hi rend="sup">e</hi> siècle. On lui préfère en général celui de « représentation en musique ». </note>, que l’Italie &amp; l’Allemagne avoient de particuliers, &amp; sembloient nous reprocher tous les jours<note place="bottom">Le premier opéra italien est un <hi rend="i">Euridice</hi> de Peri, membre de la Camerata Bardi de Florence, où il fut représenté pour le mariage d’Henri IV et de Marie de Médicis. (voir Introduction, « L’influence de l’opéra italien en France»). L’Allemagne a quant à elle adopté ce nouveau genre sous sa forme italienne, sans qu’on puisse parler de véritable opéra national avant le XVIII<hi rend="sup">e</hi> siècle. C’est plutôt en Angleterre que l’élaboration d’un opéra national commence très tôt, dans la continuité des <hi rend="i">masks</hi>, divertissements de cour : ainsi <hi rend="i">Le Siège de Rhodes</hi>, dû à Matthew Locke, Henry Lawes et Henry Cook peut être considéré comme une première expérience d’opéra anglais. Par la suite, les chefs-d’œuvres de Henry Purcell seront issus en droite ligne de la musique française, avec notamment le voyage de Cambert et de Grabu, violoniste des 24 violons du Roi, à la Cour de Charles II. Perrin avait déjà établi cette distinction dans la Lettre au Cardinal della Rovere, en 1659 : « … ces messieurs [les Italiens] creurent qu’ils pourroient porter leurs <hi rend="i">Opre</hi> avec la mesme approbation sur les Theatres étrangers Français et Allemans, et en tirer de grands fruits de gain et de loüanges. La faveur des Ministres qui gouvernoient dans l’un et dans l’autre Estat flatta leurs sentimens et seconda leurs desseins. L’on m’a mesme dit que Messieurs les Allemands qui n’ont pas l’estomac si délicat ny la langue si friande, en avoient fait des rosties, et avoient crié <hi rend="i">Vivat</hi> et <hi rend="i">Bibat</hi> à la dernière qui fut représentée en la solemnité du couronnement de l’Empereur. Mais il faut n’estre pas du monde pour ne pas sçavoir que nous leur avons crié <hi rend="i">Au Renard</hi>, et que la protection souveraine à peine les a pu garantir dans ce païs libertin <hi rend="i">delle fischiate e delle merangole.</hi> » Enfin, le privilège de l’Académie met en avant ce « retard » de la France sur ses voisins européens : « Nôtre amé et feal Pierre Perrin […], nous a tres-humblement fait remonstrer, que depuis quelques années les Italiens ont estably diverses Academies, dans lesquelles il se fait des Representations en Musique, qu’on nomme OPERA ; Que ces Academies estans
-          composées des plus excellens Musiciens du Pape et autres Princes, mesme de personnes d’honneste famille, Nobles et Gentils-hommes de naissance, tres-sçavans et experimentez en l’Art de la Musique, qui y vont chanter, font à present les plus beaux Spectacles et les plus agreables divertissemens, non seulement des Villes de Rome, Venise et autres Cours d’Italie ; Mais encore ceux des Villes et Cours d’Allemagne et Angleterre, où lesdites Academies ont esté pareillement établies à l’imitation des Italiens… »</note>. V. M. S I RE, a eu la bonté d’approuver mon dessein, &amp; de l’appuyer de son authorité, &amp; j’ay eu le bon-heur d’estre assisté dans cette entreprise des soins et de la dépense d’un des plus grands Seigneurs<note place="bottom">Alexandre de Rieux, marquis de Sourdéac, d’après une note conservée aux Archives de la Comédie-Française, un « homme de la première naissance du royaume, chef des cadets de la maison de Rieux, l’une des branches de celle de Bretagne ». Sa famille avait fait fortune dans la course le long des côtes bretonnes. C’est un grand Seigneur, et Tallemant des Réaux le décrit comme un distingué homme de science. Les réclamations des acteurs non payés après <hi rend="i">Pomone</hi> firent au personnage une réputation pour le moins sulfureuse, et fréquentait « les cabarets et les lieux infâmes, entretenant publiquement des femmes dans sa maison aux yeux de sa femme et de ses filles. » Il était secondé pour le financement de la pièce par Louis Bersac, sieur de Champeron, gentilhomme semble-t-il couvert de dettes et familier de la prison (cité par Jean Duron, dans « Pierre Perrin, un Virgile françois ? », art. cit., p. 151). </note> tout ensemble<note place="bottom">Comprendre : un grand seigneur, et beau génie avec cela. </note>, &amp; des plus beaux Genies de Vostre Royaume. Avec cela, S I R E, V. M. trouvera sans doute que nous avons mal répondu à la grandeur de ses illustres desseins, &amp; à la magnificence de ses Ballets : Mais quelle proportion y peut-il avoir entre le Soleil et les Etoiles, entre de foibles sujets, &amp; le plus grand des Roys. Le courage, S I R E, nous manque moins que les forces : Elles redoubleront, si V. M. honore nos representations de sa Royale presence, &amp; nostre Academie de sa toute-puissante protection : Nous luy demandons tres-humblement l’un &amp; l’autre. Pour moy, S I R E, je suis déja plus que content d’avoir témoigné par cet effort temeraire le <ref target="#zele">zele*</ref> passionné que j’ay pour l’avancement de vostre gloire, &amp; la profonde veneration avec laquelle je suis,</p>
+        <p>Aprez avoir rendu Vostre Estat victorieux, tranquille &amp; bien-heureux, il ne restoit plus à V.M. qu’à le rendre riche, brillant &amp; magnifique. C’est dans cette veuë qu’elle a transplanté dans son Royaume les Arts Liberaux, le Commerce &amp; les Manufactures, &amp; qu’elle s’est appliquée avec tant de soin à l’embellissement de ses Maisons, &amp; de sa Ville Capitale : C’est cét Esprit de grandeur &amp; de magnificence, dont Vostre Ame Royale est entierement possedée, qui a fait sortir de terre ces grands Palais du Louvre, &amp; de Versailles, &amp; qui les a comblez de cette profusion admirable de meubles &amp; de richesses : C’est luy qui a donné à la France tant de beaux divertissemens, &amp; nouvellement ce Superbe Ballet<note place="bottom">Il s’agit très probablement de <hi rend="i">Psyché</hi>, tragédie-ballet, issue de la collaboration de Molière, Quinault, Lully et Corneille, jouée pour la première fois aux Tuileries le 17 janvier 1671, puis au théâtre du Palais-Royal à partir du 24 juillet, où la pièce se maintint encore avec un triomphal succès, qui aurait pu faire de l’ombre à celui de <hi rend="i">Pomone</hi>, jouée à partir d’avril, pour huit mois consécutifs, rue de Vaugirard. </note>, qui a fait l’<ref target="#etonnement">étonnement</ref> de toute l’Europe. Toutes ces choses m’ont persuadé, S I R E, que V. M. auroit agreable<note place="bottom"><hi rend="i">Avoir agréable que</hi> : comprendre « trouver cela agréable que ». La construction de l’attribut de l’objet, en français classique, était plus souple qu’en français moderne. Certains verbes semblent l’accepter moins facilement aujourd’hui. Ex : « J’ai toujours tenu ma servitude une offrande si contemptible » (Malherbe, <hi rend="i">Lettr.</hi>, 1601, cité par Fournier, § 142, p.107). La construction paraît fortement inspirée de la structure latine Mihi est + attribut.</note> que <pb n="4" xml:id="p4"/> l’on introduisit dans son Royaume le seul spectacle &amp; l’unique divertissement dont il estoit privé, qui est celuy des Opera<note place="bottom">Orthographe latine, du pluriel de <hi rend="i">opus, operis</hi>, n. qui désigne généralement l’« ouvrage ». Perrin utilise le terme au féminin, dans son premier Avant-propos (voir p.166). Voir aussi, en annexe, la lettre au Cardinal Della Rovere où Perrin orthographie « <hi rend="i">Opre</hi> ». Le terme d’« opéra » au sens d’œuvre lyrique ne figure pas dans les dictionnaires français du XVI<hi rend="sup">e</hi> et du XVII<hi rend="sup">e</hi> siècle. On lui préfère en général celui de « représentation en musique ». </note>, que l’Italie &amp; l’Allemagne avoient de particuliers, &amp; sembloient nous reprocher tous les jours<note place="bottom">Le premier opéra italien est un <hi rend="i">Euridice</hi> de Peri, membre de la Camerata Bardi de Florence, où il fut représenté pour le mariage d’Henri IV et de Marie de Médicis. (voir Introduction, « L’influence de l’opéra italien en France»). L’Allemagne a quant à elle adopté ce nouveau genre sous sa forme italienne, sans qu’on puisse parler de véritable opéra national avant le XVIII<hi rend="sup">e</hi> siècle. C’est plutôt en Angleterre que l’élaboration d’un opéra national commence très tôt, dans la continuité des <hi rend="i">masks</hi>, divertissements de cour : ainsi <hi rend="i">Le Siège de Rhodes</hi>, dû à Matthew Locke, Henry Lawes et Henry Cook peut être considéré comme une première expérience d’opéra anglais. Par la suite, les chefs-d’œuvres de Henry Purcell seront issus en droite ligne de la musique française, avec notamment le voyage de Cambert et de Grabu, violoniste des 24 violons du Roi, à la Cour de Charles II. Perrin avait déjà établi cette distinction dans la Lettre au Cardinal della Rovere, en 1659 : « … ces messieurs [les Italiens] creurent qu’ils pourroient porter leurs <hi rend="i">Opre</hi> avec la mesme approbation sur les Theatres étrangers Français et Allemans, et en tirer de grands fruits de gain et de loüanges. La faveur des Ministres qui gouvernoient dans l’un et dans l’autre Estat flatta leurs sentimens et seconda leurs desseins. L’on m’a mesme dit que Messieurs les Allemands qui n’ont pas l’estomac si délicat ny la langue si friande, en avoient fait des rosties, et avoient crié <hi rend="i">Vivat</hi> et <hi rend="i">Bibat</hi> à la dernière qui fut représentée en la solemnité du couronnement de l’Empereur. Mais il faut n’estre pas du monde pour ne pas sçavoir que nous leur avons crié <hi rend="i">Au Renard</hi>, et que la protection souveraine à peine les a pu garantir dans ce païs libertin <hi rend="i">delle fischiate e delle merangole.</hi> » Enfin, le privilège de l’Académie met en avant ce « retard » de la France sur ses voisins européens : « Nôtre amé et feal Pierre Perrin […], nous a tres-humblement fait remonstrer, que depuis quelques années les Italiens ont estably diverses Academies, dans lesquelles il se fait des Representations en Musique, qu’on nomme OPERA ; Que ces Academies estans
+          composées des plus excellens Musiciens du Pape et autres Princes, mesme de personnes d’honneste famille, Nobles et Gentils-hommes de naissance, tres-sçavans et experimentez en l’Art de la Musique, qui y vont chanter, font à present les plus beaux Spectacles et les plus agreables divertissemens, non seulement des Villes de Rome, Venise et autres Cours d’Italie ; Mais encore ceux des Villes et Cours d’Allemagne et Angleterre, où lesdites Academies ont esté pareillement établies à l’imitation des Italiens… »</note>. V. M. S I RE, a eu la bonté d’approuver mon dessein, &amp; de l’appuyer de son authorité, &amp; j’ay eu le bon-heur d’estre assisté dans cette entreprise des soins et de la dépense d’un des plus grands Seigneurs<note place="bottom">Alexandre de Rieux, marquis de Sourdéac, d’après une note conservée aux Archives de la Comédie-Française, un « homme de la première naissance du royaume, chef des cadets de la maison de Rieux, l’une des branches de celle de Bretagne ». Sa famille avait fait fortune dans la course le long des côtes bretonnes. C’est un grand Seigneur, et Tallemant des Réaux le décrit comme un distingué homme de science. Les réclamations des acteurs non payés après <hi rend="i">Pomone</hi> firent au personnage une réputation pour le moins sulfureuse, et fréquentait « les cabarets et les lieux infâmes, entretenant publiquement des femmes dans sa maison aux yeux de sa femme et de ses filles. » Il était secondé pour le financement de la pièce par Louis Bersac, sieur de Champeron, gentilhomme semble-t-il couvert de dettes et familier de la prison (cité par Jean Duron, dans « Pierre Perrin, un Virgile françois ? », art. cit., p. 151). </note> tout ensemble<note place="bottom">Comprendre : un grand seigneur, et beau génie avec cela. </note>, &amp; des plus beaux Genies de Vostre Royaume. Avec cela, S I R E, V. M. trouvera sans doute que nous avons mal répondu à la grandeur de ses illustres desseins, &amp; à la magnificence de ses Ballets : Mais quelle proportion y peut-il avoir entre le Soleil et les Etoiles, entre de foibles sujets, &amp; le plus grand des Roys. Le courage, S I R E, nous manque moins que les forces : Elles redoubleront, si V. M. honore nos representations de sa Royale presence, &amp; nostre Academie de sa toute-puissante protection : Nous luy demandons tres-humblement l’un &amp; l’autre. Pour moy, S I R E, je suis déja plus que content d’avoir témoigné par cet effort temeraire le <ref target="#zele">zele</ref> passionné que j’ay pour l’avancement de vostre gloire, &amp; la profonde veneration avec laquelle je suis,</p>
         <p>SIRE,</p>
         <p>De V. M.</p>
         <p rend="right">Le tres-humble, tres-obeïssant, &amp; tres-fidele sujet &amp; serviteur.</p>
@@ -137,13 +134,13 @@
       <div xml:id="avantpropos">
         <head>AVANT-PROPOS.</head>
         <pb n="B,5" xml:id="p5"/>
-        <p>Dez les premieres representations de cét Opera<note place="bottom">On peut faire ici plusieurs hypothèses. Il peut s’agir des répétitions générales publiques qui se déroulèrent le 12 et le 24 juin 1670, d’abord à Sèvres, puis dans la salle du jeu de paume de la rue de Vaugirard, où se déroulèrent le reste des représentations. Mais l’existence d’un autre Avant-propos de Perrin visiblement destiné à un argument de la pièce inauguratrice de l’Académie d’opéra, que nous reproduisons dans cette édition (p. 166) peut faire penser que le livret Ballard a été publié alors que les représentations avaient déjà commencé. </note>, mes amis m’avertirent que l’on en critiquoit les paroles, &amp; comme ils estoient persuadez que c’estoit injustement, ils me conseillerent pour les justifier de les faire imprimer : Je m’en suis deffendu jusqu’icy, en leur representant que je n’estois point surpris des mauvais bruits que l’on en faisoit courir ; qu’outre que par une <ref target="#fronde">fronde*</ref><note place="bottom"><space/>A) Le mot « fronde » est rayé à la plume sur le livret imprimé, et rectifié par le mot « Guerre ». B) Il s’agit probablement de la cabale, dite « Cabale du petit coucher » (<hi rend="i">Recueil des paroles de musique</hi>, voir annexe) qui empêcha la représentation de <hi rend="i">La Mort d’Adonis</hi>, tragédie lyrique de Perrin avec une musique de Boesset (perdue) en 1660, alors que le roi en avait déjà vu plusieurs extraits. Perrin ressentit vivement cet échec ; il réutilise d’ailleurs des paroles de l’ouverture dans <hi rend="i">Pomone</hi>, à l’Acte IV Sc 1 dans la bouche de Béroé.</note> de deux années j’estois tout accoustumé &amp; tout preparé aux caquets des <ref target="#envie1">envieux*</ref>, des interessez, &amp; des ignorans, dont le nombre estoit infiny, je ne doutois pas que la <ref target="#nouveaute">nouveauté*</ref> de cette Poësie Lyrique &amp; Dramatique tout ensemble ne frapat d’abord les plus <ref target="#habile">habiles*</ref><note place="bottom">Comprendre : qu’elle ne frappât aussitôt et en premier lieu les gens d’esprits. Richelet, 1680, « Abord, s.m. : (…) D’abord : adv. Incontinant, aussi tôt, la première fois et avant toutes choses, premièrement. »</note> , jusqu’à ce qu’ils en eussent pris le goust, &amp; qu’à force de reflechir dessus ils fussent entrez dans son esprit, d’autant plus qu’ils ne trouveroient pas icy ce qu’ils attendoient, qui estoit des Airs &amp; des Chansons de Chambre sur des paroles retournées<note place="bottom">Comprendre : qui sont répétées plusieurs fois. La différence est souvent grande entre l’étendue du texte chanté, sous la partition, et celui présenté sur le livret. Sur cette question, voir le texte de l’<hi rend="i">Idylle sur la paix</hi> de Racine (1684), établi par Georges Forestier et Anne Piéjus, dans l’édition la Pléiade p. 911 à 925.</note> &amp; pleines de redites continuelles, telles que la Musique Françoise en a produit jusqu’icy<note place="bottom"> Perrin s’est formé à l’écriture des « paroles de musique » dans le répertoire de l’air de cour, de la chanson, du motet. Il a produit plusieurs recueils de ces œuvres, notamment les <hi rend="i">Œuvres de poësie</hi> (1661), <hi rend="i">les Cantica pro capella regis</hi> (1665), et le <hi rend="i">Recueil de paroles de musique</hi>, resté manuscrit (avant 1666), chaque fois accompagnés d’importantes réflexions préliminaires sur la forme de ces œuvres (voir annexes).</note>, mais d’une manière de Poësie originale et sans modele : Que je devois estre content de voir que contre l’opinion generale j’estois parvenu à ma fin, &amp; que ces Vers si criti- <pb n="B, 6" xml:id="p6"/>quez formoient non seulement un Opera François, que les Maistres de l’Art soûtenoient estre impossible par le deffaut de la langue &amp; des Acteurs ; mais, de l’aveu public, le spectacle le plus surprenant, le plus divertissant &amp; le plus beau que des particuliers ayent donné de nos jours à la France<note place="bottom">Sur le préjugé défavorable contre un opéra en langue française, voir annexes. </note>. Que les plus mal intentionnez, apres l’avoir veu &amp; <ref target="#censurer">censuré*</ref> en toutes ses parties, estoient forcez de revenir, &amp; d’avoüer qu’ils ne s’y estoient point ennuyez, &amp; que tout leur <ref target="#chagrin">chagrin*</ref>, apres deux heures &amp; demie de representation, estoit de le voir si-tost finir : Qu’au reste ce n’estoient que des bruits confus &amp; mal articulez, qui n’aboutissoient qu’à blâmer trois ou quatre vers, dont les expressions, disoit-on, estoient trop basses et trop vulgaires, sans considerer ny les personnes qui parlent, ny les choses ausquelles elles sont appliquées<note place="bottom"><space/>Comprendre : de style bas. Renvoie à la classification rhétorique des styles de l’<hi rend="i">elocutio, oratio gravis</hi>, ou <hi rend="i">sublimis</hi> (le style haut)<hi rend="i">, oratio mediocris</hi> (le style moyen) et <hi rend="i">oratio
+        <p>Dez les premieres representations de cét Opera<note place="bottom">On peut faire ici plusieurs hypothèses. Il peut s’agir des répétitions générales publiques qui se déroulèrent le 12 et le 24 juin 1670, d’abord à Sèvres, puis dans la salle du jeu de paume de la rue de Vaugirard, où se déroulèrent le reste des représentations. Mais l’existence d’un autre Avant-propos de Perrin visiblement destiné à un argument de la pièce inauguratrice de l’Académie d’opéra, que nous reproduisons dans cette édition (p. 166) peut faire penser que le livret Ballard a été publié alors que les représentations avaient déjà commencé. </note>, mes amis m’avertirent que l’on en critiquoit les paroles, &amp; comme ils estoient persuadez que c’estoit injustement, ils me conseillerent pour les justifier de les faire imprimer : Je m’en suis deffendu jusqu’icy, en leur representant que je n’estois point surpris des mauvais bruits que l’on en faisoit courir ; qu’outre que par une <ref target="#fronde">fronde</ref><note place="bottom"><space/>A) Le mot « fronde » est rayé à la plume sur le livret imprimé, et rectifié par le mot « Guerre ». B) Il s’agit probablement de la cabale, dite « Cabale du petit coucher » (<hi rend="i">Recueil des paroles de musique</hi>, voir annexe) qui empêcha la représentation de <hi rend="i">La Mort d’Adonis</hi>, tragédie lyrique de Perrin avec une musique de Boesset (perdue) en 1660, alors que le roi en avait déjà vu plusieurs extraits. Perrin ressentit vivement cet échec ; il réutilise d’ailleurs des paroles de l’ouverture dans <hi rend="i">Pomone</hi>, à l’Acte IV Sc 1 dans la bouche de Béroé.</note> de deux années j’estois tout accoustumé &amp; tout preparé aux caquets des <ref target="#envie1">envieux</ref>, des interessez, &amp; des ignorans, dont le nombre estoit infiny, je ne doutois pas que la <ref target="#nouveaute">nouveauté</ref> de cette Poësie Lyrique &amp; Dramatique tout ensemble ne frapat d’abord les plus <ref target="#habile">habiles</ref><note place="bottom">Comprendre : qu’elle ne frappât aussitôt et en premier lieu les gens d’esprits. Richelet, 1680, « Abord, s.m. : (…) D’abord : adv. Incontinant, aussi tôt, la première fois et avant toutes choses, premièrement. »</note> , jusqu’à ce qu’ils en eussent pris le goust, &amp; qu’à force de reflechir dessus ils fussent entrez dans son esprit, d’autant plus qu’ils ne trouveroient pas icy ce qu’ils attendoient, qui estoit des Airs &amp; des Chansons de Chambre sur des paroles retournées<note place="bottom">Comprendre : qui sont répétées plusieurs fois. La différence est souvent grande entre l’étendue du texte chanté, sous la partition, et celui présenté sur le livret. Sur cette question, voir le texte de l’<hi rend="i">Idylle sur la paix</hi> de Racine (1684), établi par Georges Forestier et Anne Piéjus, dans l’édition la Pléiade p. 911 à 925.</note> &amp; pleines de redites continuelles, telles que la Musique Françoise en a produit jusqu’icy<note place="bottom"> Perrin s’est formé à l’écriture des « paroles de musique » dans le répertoire de l’air de cour, de la chanson, du motet. Il a produit plusieurs recueils de ces œuvres, notamment les <hi rend="i">Œuvres de poësie</hi> (1661), <hi rend="i">les Cantica pro capella regis</hi> (1665), et le <hi rend="i">Recueil de paroles de musique</hi>, resté manuscrit (avant 1666), chaque fois accompagnés d’importantes réflexions préliminaires sur la forme de ces œuvres (voir annexes).</note>, mais d’une manière de Poësie originale et sans modele : Que je devois estre content de voir que contre l’opinion generale j’estois parvenu à ma fin, &amp; que ces Vers si criti- <pb n="B, 6" xml:id="p6"/>quez formoient non seulement un Opera François, que les Maistres de l’Art soûtenoient estre impossible par le deffaut de la langue &amp; des Acteurs ; mais, de l’aveu public, le spectacle le plus surprenant, le plus divertissant &amp; le plus beau que des particuliers ayent donné de nos jours à la France<note place="bottom">Sur le préjugé défavorable contre un opéra en langue française, voir annexes. </note>. Que les plus mal intentionnez, apres l’avoir veu &amp; <ref target="#censurer">censuré</ref> en toutes ses parties, estoient forcez de revenir, &amp; d’avoüer qu’ils ne s’y estoient point ennuyez, &amp; que tout leur <ref target="#chagrin">chagrin</ref>, apres deux heures &amp; demie de representation, estoit de le voir si-tost finir : Qu’au reste ce n’estoient que des bruits confus &amp; mal articulez, qui n’aboutissoient qu’à blâmer trois ou quatre vers, dont les expressions, disoit-on, estoient trop basses et trop vulgaires, sans considerer ny les personnes qui parlent, ny les choses ausquelles elles sont appliquées<note place="bottom"><space/>Comprendre : de style bas. Renvoie à la classification rhétorique des styles de l’<hi rend="i">elocutio, oratio gravis</hi>, ou <hi rend="i">sublimis</hi> (le style haut)<hi rend="i">, oratio mediocris</hi> (le style moyen) et <hi rend="i">oratio
           humilis</hi> (le style bas). Cette tripartition correspondait traditionnellement aux trois œuvres canoniques de Virgile, l’<hi rend="i">Enéide</hi>, les <hi rend="i">Géorgiques</hi> et les <hi rend="i">Bucoliques</hi> ; le berger et son troupeau, et donc l’univers de la pastorale, relèvent du style bas. Perrin se défend donc de ses détracteurs avec de solides arguments rhétoriques.</note>, &amp; lesquels mesme j’ay changez pour éviter procez, &amp; pour m’épargner des explications importunes.</p>
-        <p>Que le reste n’estoient que de fausses plaisanteries, que l’on y crioit<note place="bottom">Comprendre : vendre à la criée. </note>, disoit-on, des Pommes &amp; des Artichauts, que l’on y parloit de <ref target="#bourrique">Bourriques*</ref>, &amp; de pareils quolibets, qui ne meritoient pas une reflexion. Qu’enfin je devois estre consolé d’apprendre que quatre ou cinq de nos plus <ref target="#habile">habiles*</ref> hommes en Poësie, qui connoissoient par leur propre experience l’Art &amp; la difficulté de composer des paroles pour la Musique, ne disoient pas du mal de celles-cy, &amp; y reprenoient peu de choses, qu’ils confessoient encore estre faciles à corriger.</p>
-        <p><pb n="7" xml:id="p7"/> Mes amis n’ont pas esté satisfaits de ces raisons, &amp; m’ont representé. Que les bruits se fortifioient de jour en jour. Que le venin se glissoit par contagion jusques dans les esprits les plus éclairez, &amp; les personnes les plus desinteressées. Que je leur donnois le temps de former &amp; de debiter de mauvais jugemens, dont apres ils auroient honte &amp; peine de se retracter ; qu’il y alloit non seulement de mon honneur de me justifier en imprimant les vers, mais de l’interest de cét establissement, que ses ennemis tachoient de ruïner par ces calomnies, &amp; qu’enfin je donnasse quelque chose à leur amitié &amp; à leur <ref target="#zele">zele*</ref>, &amp; que je leur fournisse des armes pour me deffendre.</p>
-        <p>Je me suis enfin rendu à leurs raisons &amp; à leurs prieres, &amp; j’ay consenty que la piece fût imprimée plûtost que je ne l’avois resolu, sans toutesfois pretendre de la justifier icy pour plusieurs raisons. L’une que j’aurois mauvaise grace de faire moy-mesme mon Apologie, l’autre que la matiere est trop vaste pour estre renfermée dans un Avant-Propos, &amp; la derniere que je serois obligé d’expliquer les secrets d’un Art que j’ay découverts par un long estude, &amp; que je suis bien aise de me reserver. Je supplie seulement ceux qui ne seront pas satisfaits de la piece d’en faire la critique, &amp; de la donner au jour, nous en profiterons le public &amp; moy. De ma part je pourray me corriger de mes deffauts, et d’ailleurs m’engageans à une responce, ils donneront occasion à une dissertation curieuse<note place="bottom">Comprendre : une dissertation systématique, complète. « Curieusement : D’une manière curieuse, exacte. (…) Il a lu ce livre fort curieusement, pour en observer tous les defauts, tous les beaux endroits. » (Furetière). Perrin fait ici allusion à un ouvrage théorique longtemps promis, et qui devait s’intituler <hi rend="i">Art lyrique</hi>. Il y fait déjà allusion en 1665 dans l’avant-propos des <hi rend="i">Cantica pro capella regis</hi> et en 1667 dans le <hi rend="i">Recueil des paroles de musique</hi> (voir annexes). L’ouvrage promettait une réflexion théorique complète sur la manière de composer des « paroles de musique » ; il ne nous en reste aucune trace.</note> sur ce <pb n="8" xml:id="p8"/> sujet, qui pourra tout ensemble instruire et plaire : Je les avertis seulement de remarquer que par les raisons que j’ay dites dans l’Avant-Propos de l’Argument que j’ay fait imprimer, j’ay jugé à propos d’ouvrir le Theatre par une piece Pastorale, bien que j’en eusse trois <ref target="#heroique">Heroïques*</ref> toutes composées<note place="bottom">Nous ne pouvons faire que des hypothèses sur les pièces dont il s’agit. Le terme « héroïque » (voir lexique) conduit à penser que la comédie <hi rend="i">Ariane ou le mariage de</hi> Bacchus (1661) ne peut en faire partie, <hi rend="i">Pomone</hi> ayant d’ailleurs été préférée à cette comédie pour l’ouverture de la nouvelle Académie de musique. On peut y compter probablement <hi rend="i">La Mort d’Adonis</hi>, tragédie en musique composée en 1660, ainsi que deux des trois pièces du corpus manuscrit que laissa à sa mort, et qui n’a pas été conservé, <hi rend="i">Diane amoureuse ou la Vengeance d’Amour, La Reyne du Parnasse, ou la Muze d’Amour</hi>, et<hi rend="i"> la Nopce de Venus.</hi> </note>, qu’il en faut juger sur ce pied la, &amp; considerer qu’elle est composée de Divinitez, &amp; de Personnages Champestres, &amp; qu’elle conduit tout ensemble, sur les Styles <ref target="#enjoue">enjoüé*</ref> &amp; Rustique, l’intrigue de Theatre, la Musique &amp; la <ref target="#symphonie">Symphonie*</ref> continuelles, la Machine &amp; la Danse.</p>
-        <p>Je leur demande apres cela qu’ils attaquent la place en <ref target="#galant">galants*</ref> hommes ; c’est à dire en soldats &amp; par les formes, et non pas en <ref target="#fronde">frondeurs*</ref> en escarmouchant, &amp; je leur declare que s’ils continuënt de le faire par satyres et par invectives, je leur répondray par un doux silence, &amp; que je donneray toute mon application à composer de nouvelles pieces pour continuer à les divertir.</p>
-        <p>Au reste le champ est ouvert pour mieux faire, &amp; si quelqu’un veut <ref target="#travailler">travailler*</ref> sur cette matiere, &amp; faire l’honneur à l’Academie de luy presenter un Opera, je luy dy de sa part<note place="bottom">Comprendre : je lui dis de la part de l’Académie.</note>, qu’apres qu’il aura esté examiné par des gens <ref target="#habile">habiles*</ref> et non suspects, s’il est par eux jugé digne d’estre representé, il le sera de bonne foy avec tous les soins &amp; tous les ornemens possibles, &amp; mesme si c’est une personne d’interest, on luy promet une honneste reconnoissance.</p>
+        <p>Que le reste n’estoient que de fausses plaisanteries, que l’on y crioit<note place="bottom">Comprendre : vendre à la criée. </note>, disoit-on, des Pommes &amp; des Artichauts, que l’on y parloit de <ref target="#bourrique">Bourriques</ref>, &amp; de pareils quolibets, qui ne meritoient pas une reflexion. Qu’enfin je devois estre consolé d’apprendre que quatre ou cinq de nos plus <ref target="#habile">habiles</ref> hommes en Poësie, qui connoissoient par leur propre experience l’Art &amp; la difficulté de composer des paroles pour la Musique, ne disoient pas du mal de celles-cy, &amp; y reprenoient peu de choses, qu’ils confessoient encore estre faciles à corriger.</p>
+        <p><pb n="7" xml:id="p7"/> Mes amis n’ont pas esté satisfaits de ces raisons, &amp; m’ont representé. Que les bruits se fortifioient de jour en jour. Que le venin se glissoit par contagion jusques dans les esprits les plus éclairez, &amp; les personnes les plus desinteressées. Que je leur donnois le temps de former &amp; de debiter de mauvais jugemens, dont apres ils auroient honte &amp; peine de se retracter ; qu’il y alloit non seulement de mon honneur de me justifier en imprimant les vers, mais de l’interest de cét establissement, que ses ennemis tachoient de ruïner par ces calomnies, &amp; qu’enfin je donnasse quelque chose à leur amitié &amp; à leur <ref target="#zele">zele</ref>, &amp; que je leur fournisse des armes pour me deffendre.</p>
+        <p>Je me suis enfin rendu à leurs raisons &amp; à leurs prieres, &amp; j’ay consenty que la piece fût imprimée plûtost que je ne l’avois resolu, sans toutesfois pretendre de la justifier icy pour plusieurs raisons. L’une que j’aurois mauvaise grace de faire moy-mesme mon Apologie, l’autre que la matiere est trop vaste pour estre renfermée dans un Avant-Propos, &amp; la derniere que je serois obligé d’expliquer les secrets d’un Art que j’ay découverts par un long estude, &amp; que je suis bien aise de me reserver. Je supplie seulement ceux qui ne seront pas satisfaits de la piece d’en faire la critique, &amp; de la donner au jour, nous en profiterons le public &amp; moy. De ma part je pourray me corriger de mes deffauts, et d’ailleurs m’engageans à une responce, ils donneront occasion à une dissertation curieuse<note place="bottom">Comprendre : une dissertation systématique, complète. « Curieusement : D’une manière curieuse, exacte. (…) Il a lu ce livre fort curieusement, pour en observer tous les defauts, tous les beaux endroits. » (Furetière). Perrin fait ici allusion à un ouvrage théorique longtemps promis, et qui devait s’intituler <hi rend="i">Art lyrique</hi>. Il y fait déjà allusion en 1665 dans l’avant-propos des <hi rend="i">Cantica pro capella regis</hi> et en 1667 dans le <hi rend="i">Recueil des paroles de musique</hi> (voir annexes). L’ouvrage promettait une réflexion théorique complète sur la manière de composer des « paroles de musique » ; il ne nous en reste aucune trace.</note> sur ce <pb n="8" xml:id="p8"/> sujet, qui pourra tout ensemble instruire et plaire : Je les avertis seulement de remarquer que par les raisons que j’ay dites dans l’Avant-Propos de l’Argument que j’ay fait imprimer, j’ay jugé à propos d’ouvrir le Theatre par une piece Pastorale, bien que j’en eusse trois <ref target="#heroique">Heroïques</ref> toutes composées<note place="bottom">Nous ne pouvons faire que des hypothèses sur les pièces dont il s’agit. Le terme « héroïque » (voir lexique) conduit à penser que la comédie <hi rend="i">Ariane ou le mariage de</hi> Bacchus (1661) ne peut en faire partie, <hi rend="i">Pomone</hi> ayant d’ailleurs été préférée à cette comédie pour l’ouverture de la nouvelle Académie de musique. On peut y compter probablement <hi rend="i">La Mort d’Adonis</hi>, tragédie en musique composée en 1660, ainsi que deux des trois pièces du corpus manuscrit que laissa à sa mort, et qui n’a pas été conservé, <hi rend="i">Diane amoureuse ou la Vengeance d’Amour, La Reyne du Parnasse, ou la Muze d’Amour</hi>, et<hi rend="i"> la Nopce de Venus.</hi> </note>, qu’il en faut juger sur ce pied la, &amp; considerer qu’elle est composée de Divinitez, &amp; de Personnages Champestres, &amp; qu’elle conduit tout ensemble, sur les Styles <ref target="#enjoue">enjoüé</ref> &amp; Rustique, l’intrigue de Theatre, la Musique &amp; la <ref target="#symphonie">Symphonie</ref> continuelles, la Machine &amp; la Danse.</p>
+        <p>Je leur demande apres cela qu’ils attaquent la place en <ref target="#galant">galants</ref> hommes ; c’est à dire en soldats &amp; par les formes, et non pas en <ref target="#fronde">frondeurs</ref> en escarmouchant, &amp; je leur declare que s’ils continuënt de le faire par satyres et par invectives, je leur répondray par un doux silence, &amp; que je donneray toute mon application à composer de nouvelles pieces pour continuer à les divertir.</p>
+        <p>Au reste le champ est ouvert pour mieux faire, &amp; si quelqu’un veut <ref target="#travailler">travailler</ref> sur cette matiere, &amp; faire l’honneur à l’Academie de luy presenter un Opera, je luy dy de sa part<note place="bottom">Comprendre : je lui dis de la part de l’Académie.</note>, qu’apres qu’il aura esté examiné par des gens <ref target="#habile">habiles</ref> et non suspects, s’il est par eux jugé digne d’estre representé, il le sera de bonne foy avec tous les soins &amp; tous les ornemens possibles, &amp; mesme si c’est une personne d’interest, on luy promet une honneste reconnoissance.</p>
         <pb n="C, 9" xml:id="p9"/>
       </div>
       <div xml:id="personnages">
@@ -163,15 +160,15 @@
               </castItem>
               <castItem>
                 <role xml:id="vertune">VERTUNE.</role>
-                <roleDesc>Dieu des Lares ou Follets, <ref target="#amoureux">amoureux*</ref> de Pomone. </roleDesc>
+                <roleDesc>Dieu des Lares ou Follets, <ref target="#amoureux">amoureux</ref> de Pomone. </roleDesc>
               </castItem>
               <castItem>
-                <role xml:id="faune">FAUNE ou <ref target="#fat">FAT*</ref>.</role>
-                <roleDesc>Dieu des Villageois, <ref target="#amoureux">amoureux*</ref> de Pomone. </roleDesc>
+                <role xml:id="faune">FAUNE ou <ref target="#fat">FAT</ref>.</role>
+                <roleDesc>Dieu des Villageois, <ref target="#amoureux">amoureux</ref> de Pomone. </roleDesc>
               </castItem>
               <castItem>
                 <role xml:id="ledieudesjardins">LE DIEU DES JARDINS.</role>
-                <roleDesc><ref target="#amoureux">Amoureux*</ref> de Pomone. </roleDesc>
+                <roleDesc><ref target="#amoureux">Amoureux</ref> de Pomone. </roleDesc>
               </castItem>
               <castItem>
                 <role xml:id="juturne">JUTURNE. </role>
@@ -252,7 +249,7 @@
               <role xml:id="cueilleurs">CUEILLEURS DE FRUICTS. </role>
             </castItem>
             <castItem>
-              <role xml:id="follets-fantomes">FOLLETS transformez. EN <ref target="#fantome">FANTÔMES*</ref>.</role>
+              <role xml:id="follets-fantomes">FOLLETS transformez. EN <ref target="#fantome">FANTÔMES</ref>.</role>
             </castItem>
             <castItem>
               <role xml:id="follets-demons">FOLLETS transformez. EN DEMONS.</role>
@@ -283,7 +280,7 @@
           </castList>
         </div>
         <div>
-          <head>Decorations, ou <ref target="#changement1">changements*</ref> de theatre.</head>
+          <head>Decorations, ou <ref target="#changement1">changements</ref> de theatre.</head>
           <p>La veuë de Paris à l’endroit du Louvre.</p>
           <p>Vergers de Pomone.</p>
           <p>Parc de Chesnes.</p>
@@ -298,7 +295,7 @@
         <head>PROLOGUE.</head>
         <pb n="11" xml:id="p11"/>
         <stage>Decoration. Paris à l’endroit du Louvre.</stage>
-        <stage>Ouverture du Prologue par la <ref target="#symphonie">Symphonie*</ref>. </stage>
+        <stage>Ouverture du Prologue par la <ref target="#symphonie">Symphonie</ref>. </stage>
         <stage>La toile se leve, &amp; l’on voit Vertune &amp; la Nymphe de la Seine. </stage>
         <stage>Vertune, la nymphe de la Seine.</stage>
         <sp who="lanymphedelaseine">
@@ -310,13 +307,13 @@
         </sp>
         <sp who="vertune">
           <speaker>Vertune.</speaker>
-          <l n="5" xml:id="l5">J’admire tes grandeurs &amp; la <ref target="#felicite">felicité*</ref></l>
+          <l n="5" xml:id="l5">J’admire tes grandeurs &amp; la <ref target="#felicite">felicité</ref></l>
           <l n="6" xml:id="l6">De ta belle Cité ;</l>
-          <l n="7" xml:id="l7">Mais ta <ref target="#merveille">merveille*</ref> la plus grande</l>
-          <l n="8" xml:id="l8">C’est la <ref target="#pompeux">pompeuse*</ref> Majesté</l>
+          <l n="7" xml:id="l7">Mais ta <ref target="#merveille">merveille</ref> la plus grande</l>
+          <l n="8" xml:id="l8">C’est la <ref target="#pompeux">pompeuse</ref> Majesté</l>
           <l n="9" xml:id="l9">Du Roy qui la commande.</l>
-          <l n="10" xml:id="l10">Dans l’Auguste LOUIS<note place="bottom">Le prénom du Roi est doublement mis en valeur, par les lettres capitales, et par la diérèse, qui lui fait occuper les deux dernières syllabes du premier hémistiche qui portent l’accent tonique, et soutenue dans le chant par un port de voix. Les autres mots en diérèse dans le texte se trouvent aux endroits suivants : « visions » (v. 22, 215) ; « illusions » (v. 23, 218) ; « furieux », v. 204 ; la forme verbale en -ion « rions », v. 572, 585, 586, contrairement à « pourrions », employé en synérèse au vers 438.</note> je trouve un <ref target="#nouveaute">nouveau*</ref> Mars,</l>
-          <l n="11" xml:id="l11">Dans sa ville <ref target="#superbe">superbe*</ref> une <ref target="#nouveaute">nouvelle*</ref> Rome :</l>
+          <l n="10" xml:id="l10">Dans l’Auguste LOUIS<note place="bottom">Le prénom du Roi est doublement mis en valeur, par les lettres capitales, et par la diérèse, qui lui fait occuper les deux dernières syllabes du premier hémistiche qui portent l’accent tonique, et soutenue dans le chant par un port de voix. Les autres mots en diérèse dans le texte se trouvent aux endroits suivants : « visions » (v. 22, 215) ; « illusions » (v. 23, 218) ; « furieux », v. 204 ; la forme verbale en -ion « rions », v. 572, 585, 586, contrairement à « pourrions », employé en synérèse au vers 438.</note> je trouve un <ref target="#nouveaute">nouveau</ref> Mars,</l>
+          <l n="11" xml:id="l11">Dans sa ville <ref target="#superbe">superbe</ref> une <ref target="#nouveaute">nouvelle</ref> Rome :</l>
           <l n="12" xml:id="l12">Jamais, jamais un si grand homme</l>
           <l n="13" xml:id="l13">Ne fut assis au thrône des Cesars.</l>
         </sp>
@@ -341,11 +338,11 @@
           <speaker>Vertune.</speaker>
           <l n="22" xml:id="l22">Moy qui forge les visions,</l>
           <l n="23" xml:id="l23">Je viens tromper ses yeux de mes illusions,</l>
-          <l n="24" xml:id="l24">Et luy montrer mes anciennes<note place="bottom">Synérèse sur le mot pour faire un décasyllabe régulier (4/6).</note> <ref target="#merveille">merveilles*</ref>.</l>
+          <l n="24" xml:id="l24">Et luy montrer mes anciennes<note place="bottom">Synérèse sur le mot pour faire un décasyllabe régulier (4/6).</note> <ref target="#merveille">merveilles</ref>.</l>
         </sp>
         <sp who="vertune lanymphedelaseine">
           <speaker>Ensemble. </speaker>
-          <l n="25" xml:id="l25"><ref target="#sus">Sus*</ref> donc, par nos accords <ref target="#amoureux">amoureux*</ref> &amp; <ref target="#toucher1">touchants*</ref>,</l>
+          <l n="25" xml:id="l25"><ref target="#sus">Sus</ref> donc, par nos accords <ref target="#amoureux">amoureux</ref> &amp; <ref target="#toucher1">touchants</ref>,</l>
           <l n="26" xml:id="l26">Commençons de charmer son cœur &amp; ses oreilles :</l>
           <l n="27" xml:id="l27">Meslons nos voix, &amp; remplissons les champs</l>
           <l n="28" xml:id="l28">Du doux bruit de nos chants.</l>
@@ -354,8 +351,8 @@
       <div type="act">
         <head>Acte I.</head>
         <pb n="D,13" xml:id="p13"/>
-        <stage><ref target="#changement1">Changement*</ref> de Theatre. Vergers de Pomone. </stage>
-        <stage>Ouverture de la piece par la <ref target="#symphonie">Symphonie*</ref>. </stage>
+        <stage><ref target="#changement1">Changement</ref> de Theatre. Vergers de Pomone. </stage>
+        <stage>Ouverture de la piece par la <ref target="#symphonie">Symphonie</ref>. </stage>
         <div type="scene">
           <head>Scene premiere.</head>
           <stage>Pomone, Juturne, Venilie, Beroe,</stage>
@@ -368,7 +365,7 @@
           <sp who="pomone juturne">
             <speaker>Pomone, Juturne, à 2. </speaker>
             <l part="F">passons nos jours</l>
-            <l n="32" xml:id="l32">Loin des Bergers et des amours. <hi rend="i"><ref target="#ritournelle">Ritornele*</ref></hi>.</l>
+            <l n="32" xml:id="l32">Loin des Bergers et des amours. <hi rend="i"><ref target="#ritournelle">Ritornele</ref></hi>.</l>
           </sp>
           <sp who="pomone">
             <speaker>Pomone. </speaker>
@@ -376,26 +373,26 @@
             <l n="34" xml:id="l34">Sous les loix d’amour</l>
             <l n="35" xml:id="l35">Qui voudra s’engage</l>
             <l n="36" xml:id="l36">Et fasse la cour</l>
-            <l n="37" xml:id="l37">A ce Dieu <ref target="#volage">volage*</ref>:</l>
+            <l n="37" xml:id="l37">A ce Dieu <ref target="#volage">volage</ref>:</l>
             <l n="38" xml:id="l38">Qui voudra l’adore,</l>
-            <l n="39" xml:id="l39">Pour moy je l’<ref target="#abhorrer">abhorre*</ref></l>
+            <l n="39" xml:id="l39">Pour moy je l’<ref target="#abhorrer">abhorre</ref></l>
             <l n="40" xml:id="l40">Le flot de la mer,</l>
             <l n="41" xml:id="l41">Est moins infidele</l>
             <l n="42" xml:id="l42">La fleur en est belle<pb n="14" xml:id="p14"/></l>
-            <l n="43" xml:id="l43">Mais le fruit <ref target="#amer">amer*</ref>.</l>
+            <l n="43" xml:id="l43">Mais le fruit <ref target="#amer">amer</ref>.</l>
           </sp>
           <sp who="pomone juturne">
             <speaker>Pomone, Juturne. </speaker>
-            <l n="44" xml:id="l44">La fleur, etc. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+            <l n="44" xml:id="l44">La fleur, etc. <hi rend="i"><ref target="#ritournelle">Ritorn</ref></hi>.</l>
           </sp>
           <sp who="venilie">
             <speaker>Venilie.</speaker>
-            <l n="45" xml:id="l45">Qui croit ce <ref target="#cajoler">cajoleur*</ref></l>
+            <l n="45" xml:id="l45">Qui croit ce <ref target="#cajoler">cajoleur</ref></l>
             <l n="46" xml:id="l46">N’a que peine et douleur.</l>
           </sp>
           <sp who="juturne">
             <speaker>Juturne.</speaker>
-            <l n="47" xml:id="l47">Dans l’empire <ref target="#amoureux">amoureux*</ref></l>
+            <l n="47" xml:id="l47">Dans l’empire <ref target="#amoureux">amoureux</ref></l>
             <l n="48" xml:id="l48">Le sort le plus heureux</l>
             <l n="49" xml:id="l49">Est le plus dangereux.</l>
           </sp>
@@ -407,16 +404,16 @@
           <sp who="juturne">
             <speaker>Juturne.</speaker>
             <l n="52" xml:id="l52">La fleur en est belle</l>
-            <l n="53" xml:id="l53">Mais le fruit <ref target="#amer">amer*</ref>.</l>
+            <l n="53" xml:id="l53">Mais le fruit <ref target="#amer">amer</ref>.</l>
           </sp>
           <sp who="juturne venilie">
             <speaker>Juturne, Venilie, à 2. </speaker>
-            <l n="54" xml:id="l54">La fleur, etc. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+            <l n="54" xml:id="l54">La fleur, etc. <hi rend="i"><ref target="#ritournelle">Ritorn</ref></hi>.</l>
           </sp>
           <sp who="juturne">
             <speaker>Juturne. </speaker>
-            <l n="55" xml:id="l55">Le doux plaisir d’<ref target="#amourette">amourette*</ref></l>
-            <l n="56" xml:id="l56">Est une tendre <ref target="#fleurette">fleurette*</ref></l>
+            <l n="55" xml:id="l55">Le doux plaisir d’<ref target="#amourette">amourette</ref></l>
+            <l n="56" xml:id="l56">Est une tendre <ref target="#fleurette">fleurette</ref></l>
             <l n="57" xml:id="l57">Qui ne dure qu’un matin,</l>
             <l n="58" xml:id="l58">Il a le destin</l>
             <l n="59" xml:id="l59">Des plus belles choses,</l>
@@ -426,7 +423,7 @@
           </sp>
           <sp who="juturne venilie">
             <speaker>Juturne, Venilie, à 2. </speaker>
-            <l n="63" xml:id="l63">Les chaisnes, etc. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+            <l n="63" xml:id="l63">Les chaisnes, etc. <hi rend="i"><ref target="#ritournelle">Ritorn</ref></hi>.</l>
           </sp>
           <sp who="pomone">
             <speaker>Pomone. </speaker>
@@ -437,7 +434,7 @@
           <sp who="pomone juturne">
             <speaker>Pomone, Juturne, à 2. </speaker>
             <l part="F">passons nos jours</l>
-            <l n="67" xml:id="l67">Loin des Bergers et des amours. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+            <l n="67" xml:id="l67">Loin des Bergers et des amours. <hi rend="i"><ref target="#ritournelle">Ritorn</ref></hi>.</l>
           </sp>
         </div>
         <div type="scene">
@@ -457,7 +454,7 @@
             <l n="74" xml:id="l74">Je consens que ses flâmes</l>
             <l n="75" xml:id="l75">Brûlent tout l’univers</l>
             <l n="76" xml:id="l76">Pourveu<note place="bottom"><space/>On trouve de nombreux mots comportant la voyelle « u » et « ou » orthographiés au XVII<hi rend="sup">e</hi> siècle avec la syllabe « eu », coexistant avec l’autre orthographe : pourveu/pourvu, rasseurer/rassurer, treuver/trouver, beuvons/buvons, veue/vue, etc. Ces variations permettaient d’enrichir la palette des rimes disponibles. </note> que dans nos ames</l>
-            <l n="77" xml:id="l77">Il trouve incessamment la <ref target="#glace">glace*</ref> et les <ref target="#hiver">hyvers*</ref>.</l>
+            <l n="77" xml:id="l77">Il trouve incessamment la <ref target="#glace">glace</ref> et les <ref target="#hiver">hyvers</ref>.</l>
           </sp>
           <sp who="flore">
             <speaker>Flore. </speaker>
@@ -465,11 +462,11 @@
           </sp>
           <sp who="beroe">
             <speaker>Beroé.</speaker>
-            <l n="79" xml:id="l79">Ah !si tu connoissois comme moi ses <ref target="#malice">malices*</ref> !</l>
+            <l n="79" xml:id="l79">Ah !si tu connoissois comme moi ses <ref target="#malice">malices</ref> !</l>
           </sp>
           <sp who="flore">
             <speaker>Flore. </speaker>
-            <l n="80" xml:id="l80">De combien de douçeurs il <ref target="#flatter">flatte*</ref> nos désirs !</l>
+            <l n="80" xml:id="l80">De combien de douçeurs il <ref target="#flatter">flatte</ref> nos désirs !</l>
           </sp>
           <sp who="beroe">
             <speaker>Beroé.</speaker>
@@ -517,8 +514,8 @@
             <l n="86" xml:id="l86">Soulage donc les flames</l>
             <l n="87" xml:id="l87">Du grand Dieu des Jardins.</l>
             <l n="88" xml:id="l88">De plaisirs eternels il sçait remplir les ames,</l>
-            <l n="89" xml:id="l89">Renonce pour jamais à l’amour des <ref target="#blondin">Blondins*</ref><pb n="E,17" xml:id="p17"/></l>
-            <l n="90" xml:id="l90">Foibles trompeurs, inconstans et <ref target="#badin">badins*</ref>,</l>
+            <l n="89" xml:id="l89">Renonce pour jamais à l’amour des <ref target="#blondin">Blondins</ref><pb n="E,17" xml:id="p17"/></l>
+            <l n="90" xml:id="l90">Foibles trompeurs, inconstans et <ref target="#badin">badins</ref>,</l>
             <l n="91" xml:id="l91">Unissons, unissons nos cœurs et nos empires ;</l>
             <l n="92" xml:id="l92">Ajoûte aux fruits de tes vergers</l>
             <l n="93" xml:id="l93">Les herbes de mes potagers,</l>
@@ -537,12 +534,12 @@
           </sp>
           <sp who="ledieudesjardins">
             <speaker>Le Dieu des jardins. </speaker>
-            <l n="99" xml:id="l99">C’est bien à toy, <ref target="#monstre">monstre*</ref> effroyable,</l>
-            <l n="100" xml:id="l100">De servir un <ref target="#objet">objet*</ref> si rare et si charmant !</l>
+            <l n="99" xml:id="l99">C’est bien à toy, <ref target="#monstre">monstre</ref> effroyable,</l>
+            <l n="100" xml:id="l100">De servir un <ref target="#objet">objet</ref> si rare et si charmant !</l>
           </sp>
           <sp who="faune">
             <speaker>Faune. </speaker>
-            <l n="101" xml:id="l101">Elle a beau resister et faire la <ref target="#mutin">mutine*</ref>,</l>
+            <l n="101" xml:id="l101">Elle a beau resister et faire la <ref target="#mutin">mutine</ref>,</l>
             <l n="102" part="I" xml:id="l102">C’est à moy,</l>
           </sp>
           <sp who="faune ledieudesjardins">
@@ -574,14 +571,14 @@
             <l n="113" xml:id="l113">N’ont qu’une douceur imparfaite ;</l>
             <l n="114" xml:id="l114">Et s’il n’est de la feste,</l>
             <l n="115" xml:id="l115">L’on ne rit pas long-temps.</l>
-            <l n="116" xml:id="l116">Rien n’est si doux que sa <ref target="#furieux2">fureur*</ref></l>
-            <l n="117" xml:id="l117">Ny si plaisant que sa <ref target="#folie2">folie*</ref> ;</l>
+            <l n="116" xml:id="l116">Rien n’est si doux que sa <ref target="#furieux2">fureur</ref></l>
+            <l n="117" xml:id="l117">Ny si plaisant que sa <ref target="#folie2">folie</ref> ;</l>
             <l n="118" xml:id="l118">Elle bannit de nostre cœur</l>
             <l n="119" xml:id="l119">La plus noire mélancolie,</l>
             <l n="120" xml:id="l120">Sans luy, etc.</l>
           </sp>
           <sp who="ledieudesjardins">
-            <speaker>Le dieu des jardins, <hi rend="i">à Faune.</hi></speaker>
+            <speaker>Le dieu des jardins, </speaker><stage>à Faune.</stage>
             <l n="121" xml:id="l121">Hé bien ! dans tes buissons,</l>
             <l n="122" xml:id="l122">Tes Oyseaux chantent-ils de pareilles Chansons ?</l>
           </sp>
@@ -591,22 +588,22 @@
             <l n="124" xml:id="l124">N’ont fait plus douce melodie.</l>
           </sp>
           <sp who="ledieudesjardins">
-            <speaker>Le dieu des jardins,<hi rend="i"> aux Bouviers.</hi> </speaker>
+            <speaker>Le dieu des jardins,</speaker><stage> aux Bouviers.</stage>
             <l n="125" xml:id="l125">A vous, Bouviers,</l>
-            <l n="126" xml:id="l126">Illustre <ref target="#bande">bande*</ref>,</l>
-            <l n="127" xml:id="l127">Touchez, <ref target="#toucher2">touchez*</ref> n’importe, Menestriers<note place="bottom">« Vieux mot qui signifoit autrefois <hi rend="b">violon</hi>, et toute autre <hi rend="b">joüeur d’instruments, ou Maistre à dancer. (…) Ce n’est plus qu’aux nopces de village où on appelle les menestriers.</hi> C’étoit originairement celuy qui alloit chanter ou donner des <hi rend="b">serenades</hi> avec des instruments de musique à sa maistresse. Depuis ce nom a passé à toutes sortes de Flusteurs et de Joüeurs d’instruments.(…) Enfin il est demeuré <hi rend="b">aux vielleux, et aux violons de campagne</hi>. Borel derive ce mot bien ou mal de <hi rend="i">ministere</hi>, ou de <hi rend="i">manus</hi> et <hi rend="i">histrio</hi>, ou de <hi rend="i">minus histrio</hi>, comme qui diroit <hi rend="b"><hi rend="i">petit bouffon</hi></hi>, ou qui divertit avec la main. » (F.) Le mot « ménestrel », qui nous est peut être plus familier, est de la même famille. </note> ; <note place="bottom">On notera la synérèse sur « Ménestriers » qui permet de former un décasyllabe régulier (4/6) ; l’interprète de l’enregistrement d’Hugo Reyne fait, à tort, une diérèse en ajoutant une note. </note><pb n="19" xml:id="p19"/></l>
+            <l n="126" xml:id="l126">Illustre <ref target="#bande">bande</ref>,</l>
+            <l n="127" xml:id="l127">Touchez, <ref target="#toucher2">touchez</ref> n’importe, Menestriers<note place="bottom">« Vieux mot qui signifoit autrefois <hi rend="b">violon</hi>, et toute autre <hi rend="b">joüeur d’instruments, ou Maistre à dancer. (…) Ce n’est plus qu’aux nopces de village où on appelle les menestriers.</hi> C’étoit originairement celuy qui alloit chanter ou donner des <hi rend="b">serenades</hi> avec des instruments de musique à sa maistresse. Depuis ce nom a passé à toutes sortes de Flusteurs et de Joüeurs d’instruments.(…) Enfin il est demeuré <hi rend="b">aux vielleux, et aux violons de campagne</hi>. Borel derive ce mot bien ou mal de <hi rend="i">ministere</hi>, ou de <hi rend="i">manus</hi> et <hi rend="i">histrio</hi>, ou de <hi rend="i">minus histrio</hi>, comme qui diroit <hi rend="b"><hi rend="i">petit bouffon</hi></hi>, ou qui divertit avec la main. » (F.) Le mot « ménestrel », qui nous est peut être plus familier, est de la même famille. </note> ; <note place="bottom">On notera la synérèse sur « Ménestriers » qui permet de former un décasyllabe régulier (4/6) ; l’interprète de l’enregistrement d’Hugo Reyne fait, à tort, une diérèse en ajoutant une note. </note><pb n="19" xml:id="p19"/></l>
             <l n="128" xml:id="l128">Passepied, Menüet, Gavotte ou Sarabande.</l>
             <p rend="center">Entrée de ballet.</p>
             <p rend="center">Bouviers.</p>
             <stage>La troupe s’écarte pour faire place aux Danseurs, puis se rassemble, la danse finie. </stage>
           </sp>
           <sp who="faune">
-            <speaker>Faune, le Dieu des jardins, <hi rend="i">à Pomone, à 2.</hi> </speaker>
+            <speaker>Faune, le Dieu des jardins, </speaker><stage>à Pomone, à 2.</stage>
             <l n="129" xml:id="l129">Couronnez, il est temps, couronnez le vainqueur,</l>
             <l n="130" xml:id="l130">Donnez-luy vostre main, donnez-luy vostre cœur.</l>
           </sp>
           <sp who="pomone">
-            <speaker>Pomone, <hi rend="i">à ses Nymphes.</hi> </speaker>
+            <speaker>Pomone, </speaker><stage>à ses Nymphes.</stage>
             <l n="131" xml:id="l131">Cueillez, Nymphes, dans ces prairies,</l>
             <l n="132" xml:id="l132">Cueillez pour eux des guirlandes fleuries.</l>
             <stage>Pomone fait signe à ses Nymphes de joüer ses Amans, elles feignent d’aller cueillir des fleurs. </stage>
@@ -620,16 +617,16 @@
           <head>Scene cinquiesme.</head>
           <stage>Flore, Juturne, Venilie, Beroé, le Dieu des jardins, troupe de Jardiniers, Faune, troupe de Bouviers. </stage>
           <sp who="faune ledieudesjardins">
-            <speaker>Faune, le Dieu des jardins, <hi rend="i">à Pomone, à 2.</hi> </speaker>
+            <speaker>Faune, le Dieu des jardins, </speaker><stage>à Pomone, à 2.</stage>
             <l n="135" xml:id="l135">Donnez-luy vostre main, donnez-luy vostre cœur.</l>
             <stage>Les Nymphes rapportent à Flore une corbeille, dans laquelle est une couronne d’épine, et une autre de chardons. </stage>
           </sp>
           <sp who="flore">
-            <speaker>Flore, <hi rend="i">aux Dieux.</hi> </speaker>
-            <l n="136" xml:id="l136">Venez voir couronner vos tendres <ref target="#amourette">amourettes*</ref>,</l>
+            <speaker>Flore, </speaker><stage>aux Dieux.</stage>
+            <l n="136" xml:id="l136">Venez voir couronner vos tendres <ref target="#amourette">amourettes</ref>,</l>
             <l n="137" xml:id="l137">Et recevoir le premier de ses dons, <pb n="20" xml:id="p20"/></l>
             <stage>Elle tire les deux couronnes de la corbeille, et faisant l’étonnée, leur dit en se moquant. </stage>
-            <l n="138" xml:id="l138">Ah !pour un plus heureux on garde les <ref target="#fleurette">fleurettes*</ref>,</l>
+            <l n="138" xml:id="l138">Ah !pour un plus heureux on garde les <ref target="#fleurette">fleurettes</ref>,</l>
             <l n="139" xml:id="l139">Pour vous l’épine et les chardons.</l>
           </sp>
           <sp who="flore juturne venilie beroe">
@@ -646,13 +643,13 @@
             <stage>Montrant au Dieu et à sa troupe la couronne d’épine qui leur a esté donnée. </stage>
             <l n="141" xml:id="l141">Voyla le prix de vos Musiques,</l>
             <l n="142" xml:id="l142">Et ce que meritent vos chants :</l>
-            <stage><ref target="#ritournelle">Ritornele*</ref>, pendant laquelle les Bouviers dansent en se moquant. </stage>
+            <stage><ref target="#ritournelle">Ritornele</ref>, pendant laquelle les Bouviers dansent en se moquant. </stage>
           </sp>
           <sp who="ledieudesjardins">
             <speaker>Le Dieu des jardins. </speaker>
             <stage>Montrant à Faune et à sa troupe la couronne de chardons. </stage>
             <l n="143" xml:id="l143">Voyla le fruit du Dieu des champs,</l>
-            <l n="144" xml:id="l144">Et dequoy paistre ses <ref target="#bourrique">Bourriques*</ref>.</l>
+            <l n="144" xml:id="l144">Et dequoy paistre ses <ref target="#bourrique">Bourriques</ref>.</l>
           </sp>
           <sp who="ledieudesjardins lesjardiniers">
             <speaker>Le Dieu et les jardiniers. </speaker>
@@ -665,16 +662,16 @@
             <speaker>Vertune. </speaker>
             <l n="146" xml:id="l146">Helas<note place="bottom">La graphie du « e » de « Helas » est particulière ici : elle ressemble à un <hi rend="i">epsilon</hi> minuscule (ε). Il n’est pas exclu que cela soit intentionnel, le « e » chanté s’étendant sur quatre temps (voir infra la version dramaturgique que nous proposons du texte.) Il n’avait sans doute pas échappé à Perrin que le mot « élégie » vient de « «   »  » et que cette sonorité aspirée évoque particulièrement bien la plainte.</note> !que me sert-il de changer tous les jours</l>
             <l n="147" xml:id="l147">De forme et de figure,</l>
-            <l n="148" xml:id="l148">Et de me <ref target="#deguiser">déguiser*</ref> à toute la nature, <pb n="F,21" xml:id="p21"/></l>
-            <l n="149" xml:id="l149">Si je ne puis changer l’<ref target="#objet">objet*</ref> de mes amours !</l>
-            <l n="150" xml:id="l150">J’aime une <ref target="#insensible">insensible*</ref> maistresse,</l>
-            <l n="151" xml:id="l151">Une <ref target="#ingrate">ingrate*</ref> et fiere<note place="bottom">Eventuellement un diérèse sur fière pour former un vers de neuf, vérifier en chantant.</note> Deesse,</l>
+            <l n="148" xml:id="l148">Et de me <ref target="#deguiser">déguiser</ref> à toute la nature, <pb n="F,21" xml:id="p21"/></l>
+            <l n="149" xml:id="l149">Si je ne puis changer l’<ref target="#objet">objet</ref> de mes amours !</l>
+            <l n="150" xml:id="l150">J’aime une <ref target="#insensible">insensible</ref> maistresse,</l>
+            <l n="151" xml:id="l151">Une <ref target="#ingrate">ingrate</ref> et fiere<note place="bottom">Eventuellement un diérèse sur fière pour former un vers de neuf, vérifier en chantant.</note> Deesse,</l>
             <l n="152" xml:id="l152">Qui se rit du tourment</l>
             <l n="153" xml:id="l153">Et des soins d’un amant.</l>
             <l n="154" xml:id="l154">Que ferons-nous, mon cœur, en des peines si dures ?</l>
-            <l n="155" xml:id="l155">Ah ! puis que vainement je dirois mes <ref target="#langueur">langueurs*</ref>,</l>
+            <l n="155" xml:id="l155">Ah ! puis que vainement je dirois mes <ref target="#langueur">langueurs</ref>,</l>
             <l n="156" xml:id="l156">Il faut nous transformer, et sous d’autres figures,</l>
-            <l n="157" xml:id="l157">Tacher de vaincre ses <ref target="#rigueur">rigueurs*</ref>.</l>
+            <l n="157" xml:id="l157">Tacher de vaincre ses <ref target="#rigueur">rigueurs</ref>.</l>
             <l n="158" xml:id="l158">Vous que le Ciel soumet à ma puissance,</l>
             <l n="159" xml:id="l159">Hola, Follets, venez, volez, suivez mes pas,</l>
             <stage>Une troupe de Follets vole de tous les costez du Theatre. </stage>
@@ -686,11 +683,11 @@
       </div>
       <div>
         <head>Intermède I. </head>
-        <stage><ref target="#symphonie">Symphonie*</ref>.</stage>
+        <stage><ref target="#symphonie">Symphonie</ref>.</stage>
       </div>
       <div type="act">
         <head>Acte II.</head>
-        <stage><ref target="#changement1">Changement*</ref> de theatre, parc de Chesnes. </stage>
+        <stage><ref target="#changement1">Changement</ref> de theatre, parc de Chesnes. </stage>
         <div type="scene">
           <head>Scène première.</head>
           <sp who="beroe">
@@ -698,11 +695,11 @@
             <l n="162" xml:id="l162">Ah ! n’est-ce pas assez qu’on aime et qu’on soupire</l>
             <l n="163" xml:id="l163">Pendant le cours de sa jeune saison ?</l>
             <l n="164" xml:id="l164">Pourquoy faut-il, Amour, étendre ton Empire<pb n="22" xml:id="p22"/></l>
-            <l n="165" xml:id="l165">Jusques sur nostre âge <ref target="#grison">grison*</ref> ?</l>
+            <l n="165" xml:id="l165">Jusques sur nostre âge <ref target="#grison">grison</ref> ?</l>
             <l n="166" xml:id="l166">Malgré tous mes efforts, malgré toutes mes feintes,</l>
             <l n="167" xml:id="l167">Je sents vivre tes feux dans mes cendres éteintes :</l>
             <l n="168" xml:id="l168">D’une crüelle ardeur je me voy consumer,</l>
-            <l n="169" xml:id="l169">Que la <ref target="#glace">glace*</ref> des ans ne fait que rallumer ;</l>
+            <l n="169" xml:id="l169">Que la <ref target="#glace">glace</ref> des ans ne fait que rallumer ;</l>
             <l n="170" xml:id="l170">J’ayme un Dieu… le voicy, tachons de le surprendre ;</l>
             <l n="171" xml:id="l171">Il réve à ses amours, cachons-nous pour l’entendre.</l>
           </sp>
@@ -716,20 +713,20 @@
             <l n="173" xml:id="l173">Vous enflamez la terre</l>
             <l n="174" xml:id="l174">Par vos soupirs ;</l>
             <l n="175" xml:id="l175">Et de vos pleurs</l>
-            <l n="176" xml:id="l176">On voit dans ce <ref target="#parterre2">parterre*</ref></l>
+            <l n="176" xml:id="l176">On voit dans ce <ref target="#parterre2">parterre</ref></l>
             <l n="177" xml:id="l177">Naistre les fleurs :</l>
             <l n="178" xml:id="l178">Helas ! ainsi que vous,</l>
             <l n="179" xml:id="l179">Je suis tendre et fidele,</l>
             <l n="180" xml:id="l180">Discret et doux ;</l>
             <l n="181" xml:id="l181">Et mes douleurs</l>
-            <l n="182" xml:id="l182">Ne <ref target="#toucher1">touchent*</ref> point la belle</l>
+            <l n="182" xml:id="l182">Ne <ref target="#toucher1">touchent</ref> point la belle</l>
             <l n="183" xml:id="l183">Pour qui je meurs.</l>
             <l n="184" xml:id="l184">Mais pourquoy tant gemir ? poursuy ton entreprise,</l>
             <l n="185" xml:id="l185">Lache, c’est trop se plaindre et soupirer en vain,</l>
             <l n="186" xml:id="l186">Use de ton pouvoir divin, <pb n="23" xml:id="p23"/></l>
-            <l n="187" xml:id="l187">Join à l’amour la ruse et la <ref target="#surprise">surprise*</ref>.</l>
-            <l n="188" xml:id="l188">Il faut l’attendre icy ; dans ce <ref target="#bocage">bocage*</ref> vert,</l>
-            <l n="189" xml:id="l189">Elle cherche souvent le frais et le <ref target="#couvert">couvert*</ref>.</l>
+            <l n="187" xml:id="l187">Join à l’amour la ruse et la <ref target="#surprise">surprise</ref>.</l>
+            <l n="188" xml:id="l188">Il faut l’attendre icy ; dans ce <ref target="#bocage">bocage</ref> vert,</l>
+            <l n="189" xml:id="l189">Elle cherche souvent le frais et le <ref target="#couvert">couvert</ref>.</l>
           </sp>
         </div>
         <div type="scene">
@@ -739,12 +736,12 @@
             <speaker>Beroé. </speaker>
             <l n="190" xml:id="l190">Quoy toujours inflexible,</l>
             <l n="191" xml:id="l191">Toujours sourd à mes vœux,</l>
-            <l n="192" xml:id="l192">Et toûjours <ref target="#amoureux">amoureux*</ref></l>
-            <l n="193" xml:id="l193">D’une belle <ref target="#insensible">insensible*</ref> ?</l>
+            <l n="192" xml:id="l192">Et toûjours <ref target="#amoureux">amoureux</ref></l>
+            <l n="193" xml:id="l193">D’une belle <ref target="#insensible">insensible</ref> ?</l>
           </sp>
           <sp who="vertune">
-            <speaker>Vertune <hi rend="i">à l’écart.</hi> </speaker>
-            <l n="194" xml:id="l194">Le ridicule <ref target="#objet">objet*</ref>* !</l>
+            <speaker>Vertune </speaker><stage>à l’écart.</stage>
+            <l n="194" xml:id="l194">Le ridicule <ref target="#objet">objet</ref> !</l>
             <l n="195" xml:id="l195">L’Enfer l’amene icy pour troubler mon projet.</l>
           </sp>
           <sp who="beroe">
@@ -752,16 +749,16 @@
             <l n="196" part="I" xml:id="l196">Quoy ? tant d’amour ? ingrat !</l>
           </sp>
           <sp who="vertune">
-            <speaker>Vertune, <hi rend="i">à l’écart.</hi> </speaker>
+            <speaker>Vertune, </speaker><stage>à l’écart.</stage>
             <l part="F">évitons sa poursuite.</l>
           </sp>
           <sp who="beroe">
-            <speaker>Beroé, <hi rend="i">l’arrestant.</hi></speaker>
-            <l n="197" xml:id="l197">Arreste, et voy du moins ma peine et mes <ref target="#langueur">langueurs*</ref>,</l>
+            <speaker>Beroé, </speaker><stage>l’arrestant.</stage>
+            <l n="197" xml:id="l197">Arreste, et voy du moins ma peine et mes <ref target="#langueur">langueurs</ref>,</l>
             <l n="198" xml:id="l198">Un moment encor et je meurs.</l>
           </sp>
           <sp who="vertune">
-            <speaker>Vertune, <hi rend="i">à l’écart.</hi> </speaker>
+            <speaker>Vertune, </speaker><stage>à l’écart.</stage>
             <l n="199" xml:id="l199">Il faut l’épouvanter et luy donner la fuite.</l>
             <stage>Vertune se transforme en Dragon, et court à elle comme pour la devorer. </stage>
           </sp>
@@ -773,46 +770,46 @@
           <sp who="beroe">
             <speaker>Beroé. </speaker>
             <l n="200" xml:id="l200">Que voyez-vous mes yeux ?</l>
-            <l n="201" xml:id="l201">Quel Dragon <ref target="#furieux1">furieux*</ref> ?</l>
+            <l n="201" xml:id="l201">Quel Dragon <ref target="#furieux1">furieux</ref> ?</l>
             <l n="202" xml:id="l202">Mais non, rasseurons-nous, c’est luy qui se transforme</l>
-            <l n="203" xml:id="l203">En ce <ref target="#monstre">monstre*</ref> difforme.</l>
+            <l n="203" xml:id="l203">En ce <ref target="#monstre">monstre</ref> difforme.</l>
             <stage>Elle affronte le Dragon. </stage>
-            <l n="204" xml:id="l204">Hé bien ! cruël, <ref target="#souler">saoule*</ref>-toy de mon sang,</l>
-            <l n="205" xml:id="l205">Contente ton <ref target="#envie2">envie*</ref>,</l>
+            <l n="204" xml:id="l204">Hé bien ! cruël, <ref target="#souler">saoule</ref>-toy de mon sang,</l>
+            <l n="205" xml:id="l205">Contente ton <ref target="#envie2">envie</ref>,</l>
             <l n="206" xml:id="l206">Dechire moy le flanc,</l>
             <l n="207" xml:id="l207">Arrache moy la vie</l>
             <l n="208" xml:id="l208">Je béniray mon sort,</l>
             <l n="209" xml:id="l209">Et je ne puis mourir d’une plus douce mort.</l>
-            <stage>Le Ciel brille d’éclairs, et gronde de tonnerres, la terre tremble, et douze Follets, par ordre de leur Dieu, transformez en <ref target="#fantome">Fantômes*</ref>, armez de <ref target="#foudre">foudres*</ref> et de griffes de fer, tombent du Ciel dans un nüage enflamé. </stage>
+            <stage>Le Ciel brille d’éclairs, et gronde de tonnerres, la terre tremble, et douze Follets, par ordre de leur Dieu, transformez en <ref target="#fantome">Fantômes</ref>, armez de <ref target="#foudre">foudres</ref> et de griffes de fer, tombent du Ciel dans un nüage enflamé. </stage>
           </sp>
         </div>
         <div type="scene">
           <head>Scene cinquiesme.</head>
-          <stage>Beroé, douze Follets en <ref target="#fantome">fantomes*</ref>. </stage>
+          <stage>Beroé, douze Follets en <ref target="#fantome">fantomes</ref>. </stage>
           <sp who="beroe">
             <speaker>Beroé. </speaker>
             <l n="210" xml:id="l210">Mais quel éclair ? quel horrible tonnerre ?</l>
             <l n="211" xml:id="l211">Quel tremblement de terre ?</l>
             <l n="212" xml:id="l212">Quels Fantômes affreux et quelles visions ?</l>
-            <l n="213" xml:id="l213">Que de <ref target="#monstre">monstres*</ref> armez de feu, de fer, de <ref target="#foudre">foudre*</ref>,</l>
-            <l n="214" xml:id="l214">Pour me reduire en <ref target="#poudre">poudre*</ref>?</l>
+            <l n="213" xml:id="l213">Que de <ref target="#monstre">monstres</ref> armez de feu, de fer, de <ref target="#foudre">foudre</ref>,</l>
+            <l n="214" xml:id="l214">Pour me reduire en <ref target="#poudre">poudre</ref>?</l>
             <l n="215" xml:id="l215">Je vous connoy, Follets, et vos illusions.</l>
-            <l n="216" xml:id="l216">Vous croyez m’<ref target="#etonnement">étonner*</ref> par cette allarme feinte,<pb n="G,25" xml:id="p25"/></l>
+            <l n="216" xml:id="l216">Vous croyez m’<ref target="#etonnement">étonner</ref> par cette allarme feinte,<pb n="G,25" xml:id="p25"/></l>
             <l n="217" xml:id="l217">Et me joüer à vostre tour :</l>
-            <l n="218" xml:id="l218">Mais l’on ne peut former<note place="bottom">Au milieu de ce mot s’arrête la partition, et par conséquent la version du texte sous la musique, que nous possédons. A partir de ce point, le livret Ballard est notre seule référence. </note> les <ref target="#glace">glaces*</ref> de la crainte,</l>
+            <l n="218" xml:id="l218">Mais l’on ne peut former<note place="bottom">Au milieu de ce mot s’arrête la partition, et par conséquent la version du texte sous la musique, que nous possédons. A partir de ce point, le livret Ballard est notre seule référence. </note> les <ref target="#glace">glaces</ref> de la crainte,</l>
             <l n="219" xml:id="l219">Où regnent les feux de l’amour.</l>
-            <stage>Les Follets en <ref target="#fantome">Fantômes*</ref> descendus de la Machine, s’épandent à l’entour de Beroé, et pour l’épouvanter dansent à ses yeux une danse terrible. </stage>
+            <stage>Les Follets en <ref target="#fantome">Fantômes</ref> descendus de la Machine, s’épandent à l’entour de Beroé, et pour l’épouvanter dansent à ses yeux une danse terrible. </stage>
             <p rend="center">Entrée de ballet.</p>
-            <p rend="center"><ref target="#fantome">Fantomes*</ref>.</p>
+            <p rend="center"><ref target="#fantome">Fantomes</ref>.</p>
             <stage>Beroé reste sans s’effrayer, et la Danse finie, dit aux Fantômes. </stage>
           </sp>
           <sp who="beroe">
             <speaker>Beroé.</speaker>
-            <l n="220" xml:id="l220">Hé bien, Follets, est-ce assez d’<ref target="#imposture">impostures*</ref>,</l>
-            <l n="221" xml:id="l221">De grimaces et de <ref target="#posture">postures*</ref> ?</l>
-            <l n="222" xml:id="l222">Et croyez-vous encor sous ce <ref target="#masque">masque*</ref> trompeur,</l>
+            <l n="220" xml:id="l220">Hé bien, Follets, est-ce assez d’<ref target="#imposture">impostures</ref>,</l>
+            <l n="221" xml:id="l221">De grimaces et de <ref target="#posture">postures</ref> ?</l>
+            <l n="222" xml:id="l222">Et croyez-vous encor sous ce <ref target="#masque">masque</ref> trompeur,</l>
             <l n="223" xml:id="l223">Me donner de la peur ?</l>
-            <stage>Trois <ref target="#fantome">Fantômes*</ref> disparoissent, quatre saisissants Beroé l’emportent en l’air, cinq restent sur le Theatre. </stage>
+            <stage>Trois <ref target="#fantome">Fantômes</ref> disparoissent, quatre saisissants Beroé l’emportent en l’air, cinq restent sur le Theatre. </stage>
           </sp>
           <sp who="beroe">
             <speaker>Beroé. </speaker>
@@ -823,60 +820,60 @@
         </div>
         <div type="scene">
           <head>Scene sixiesme.</head>
-          <stage>Cinq follets en <ref target="#fantome">fantomes*</ref>, le dieu des jardins, quatre jardiniers. </stage>
+          <stage>Cinq follets en <ref target="#fantome">fantomes</ref>, le dieu des jardins, quatre jardiniers. </stage>
           <sp who="ledieudesjardins lesjardiniers">
             <speaker>Le Dieu, et les jardiniers, à 5. </speaker>
             <l n="226" xml:id="l226">Pauvre Nourrisse,<note place="bottom">On trouve, dans la didascalie qui suit, ce mot orthographié « Nourrice ». Dans le Furetière de 1690, l’orthographe est « Nourrice », mais on trouve « Nourrisse » chez Nicot (1606), Cotgrave, Ménage et Richelet (1680) : « Le peuple dit « norrisse », mais les gens d’esprit et tous les bons auteurs disent et écrivent nourrisse. »</note> helas ! tes cris sont superflus.</l>
-            <stage>Le Dieu et sa Trouppe, ne pouvans arracher la Nourrice aux <ref target="#fantome">Fantômes*</ref>, qui<pb n="26" xml:id="p26"/>l’emportent, s’en veulent venger sur les cinq qui restent, et crient,</stage>
+            <stage>Le Dieu et sa Trouppe, ne pouvans arracher la Nourrice aux <ref target="#fantome">Fantômes</ref>, qui<pb n="26" xml:id="p26"/>l’emportent, s’en veulent venger sur les cinq qui restent, et crient,</stage>
             <l n="227" xml:id="l227">Donnons, donnons<note place="bottom"><p>Au figuré, « Donner sur l’ennemi, c’est charger l’ennemi et le batre. » (R.)</p><p xml:lang="en">« Donner, se dit quelquefois odieusement, pour dire, Frapper, soit à dessein de faire outrage, soit de faire quelque correction. (…) Il luy a donné sur la jouë, c’est-à-dire, un soufflet. » (F.)</p></note>, frapons dessus.</l>
-            <stage>Le Dieu, et les quatre Jardiniers veulent fraper sur les cinq <ref target="#fantome">fantômes*</ref> ; mais comme ils ont le bras levé, ces derniers se transforment en autant de Bourgeoises de Lampsace, Ville de Grece, où nâquit le Dieu des Jardins<note place="bottom">Lampsace, ou Lampsacé, ville d’Asie mineure, dans la région de Troade, au Sud du détroit des Dardanelles (actuelle Turquie), Autrefois appelée Pityousa, elle reçut son nom de Lampsacé, fille du roi des Bébryces, Mandron, qui régnait alors sur la ville. La jeune fille ayant sauvé des colons Phocidiens d’un massacre, ils lui rendirent cet hommage après sa mort. Le culte de Priape, le « Dieu des jardins », dieu phallique, y serait né.</note>, amies, femmes, maistresses et parentes du Dieu et de sa troupe. </stage>
+            <stage>Le Dieu, et les quatre Jardiniers veulent fraper sur les cinq <ref target="#fantome">fantômes</ref> ; mais comme ils ont le bras levé, ces derniers se transforment en autant de Bourgeoises de Lampsace, Ville de Grece, où nâquit le Dieu des Jardins<note place="bottom">Lampsace, ou Lampsacé, ville d’Asie mineure, dans la région de Troade, au Sud du détroit des Dardanelles (actuelle Turquie), Autrefois appelée Pityousa, elle reçut son nom de Lampsacé, fille du roi des Bébryces, Mandron, qui régnait alors sur la ville. La jeune fille ayant sauvé des colons Phocidiens d’un massacre, ils lui rendirent cet hommage après sa mort. Le culte de Priape, le « Dieu des jardins », dieu phallique, y serait né.</note>, amies, femmes, maistresses et parentes du Dieu et de sa troupe. </stage>
           </sp>
         </div>
         <div type="scene">
           <head>Scene septiesme.</head>
           <stage>Le Dieu des jardins, quatre jardiniers, cinq Follets en bourgeoises de Lampsace<note place="bottom">Dans la Présentation des personnages en tête de l’œuvre, il est mentionné un travestissement de Vertumne lui-même « en Bourgeoise de Lampsace ». On ne sait pas ce qu’il advient du dragon, lorsqu’arrivent les Follets en fantômes pour emporter la nourrice ; cependant l’intermède dansé des fantômes laisserait le temps à Vertumne de revenir sous le déguisement d’une Bourgeoise. L’hypothèse semble confirmée par le fait que Vertumne est mentionné dans les « Personnages muets » sous la forme d’un « buisson d’épines », forme que prennent les Bourgeoises quand les Jardiniers tentent de les embrasser, à fin de la scène 7. Ces métamorphoses en série complètent son image pastorale de Dieu-Protée.</note>.</stage>
           <sp who="follets-bergeres1">
-            <speaker>La premiere bourgeoise, <hi rend="i">au Dieu des Jardins.</hi> </speaker>
+            <speaker>La premiere bourgeoise, </speaker><stage>au Dieu des Jardins.</stage>
             <l n="228" part="I" xml:id="l228">Tu veux m’assassiner ?</l>
           </sp>
           <sp who="ledieudesjardins">
-            <speaker>Le Dieu, <hi rend="i">à la premiere.</hi> </speaker>
+            <speaker>Le Dieu, </speaker><stage>à la premiere.</stage>
             <l part="F">Ah ! ma chere voisine !</l>
           </sp>
           <sp who="jardinier1">
-            <speaker>Le premier jardinier, <hi rend="i">à la deuxiéme.</hi> </speaker>
+            <speaker>Le premier jardinier, </speaker><stage>à la deuxiéme.</stage>
             <l n="229" part="I" xml:id="l229">Ma sœur !</l>
           </sp>
           <sp who="jardinier2">
-            <speaker>Le deuxiéme, <hi rend="i">à la troisiéme.</hi> </speaker>
+            <speaker>Le deuxiéme, </speaker><stage>à la troisiéme.</stage>
             <l part="M">ma femme !</l>
           </sp>
           <sp who="jardinier3">
-            <speaker>Le troisiéme, <hi rend="i">à la quatriéme.</hi> </speaker>
+            <speaker>Le troisiéme, </speaker><stage>à la quatriéme.</stage>
             <l part="F">ma cousine !</l>
           </sp>
           <sp who="follets-bergeres5">
-            <speaker>la cinquiéme, <hi rend="i">au quatriéme.</hi> </speaker>
+            <speaker>la cinquiéme, </speaker><stage>au quatriéme.</stage>
             <l n="230" part="I" xml:id="l230">C’est toy, Philandre, helas !</l>
           </sp>
           <sp who="jardinier4">
-            <speaker>Le quatriéme, <hi rend="i">à la cinquiéme.</hi> </speaker>
+            <speaker>Le quatriéme, </speaker><stage>à la cinquiéme.</stage>
             <l part="F">c’est toy chere Cloris !</l>
           </sp>
           <sp who="follets-bergeres2">
-            <speaker>La deuxiéme, <hi rend="i">au troisiéme.</hi> </speaker>
+            <speaker>La deuxiéme, </speaker><stage>au troisiéme.</stage>
             <l n="231" part="I" xml:id="l231">Mon aymable Alcidor !</l>
           </sp>
           <sp who="jardinier3">
-            <speaker>Le troisiéme, <hi rend="i">à la deuxiéme.</hi> </speaker>
-            <l part="F">ma <ref target="#charmer">charmante*</ref> Doris !</l>
+            <speaker>Le troisiéme, </speaker><stage>à la deuxiéme.</stage>
+            <l part="F">ma <ref target="#charmer">charmante</ref> Doris !</l>
           </sp>
           <sp who="follets-bergeres3">
-            <speaker>La troisiéme, <hi rend="i">au quatriéme.</hi> </speaker>
+            <speaker>La troisiéme, </speaker><stage>au quatriéme.</stage>
             <l n="232" part="I" xml:id="l232">Ah Damon !<pb n="27" xml:id="p27"/></l>
           </sp>
           <sp who="jardinier4">
-            <speaker>Le quatriéme, <hi rend="i">à la troisiéme.</hi> </speaker>
+            <speaker>Le quatriéme, </speaker><stage>à la troisiéme.</stage>
             <l part="F">ah ! Climene !</l>
             <l n="233" xml:id="l233">O Dieux ! qui vous amene</l>
             <l n="234" xml:id="l234">En ces bords étrangers ?</l>
@@ -888,11 +885,11 @@
           <sp who="follets-bergeres1">
             <speaker>La premiere. </speaker>
             <l n="236" xml:id="l236">Depuis que vous cessez de cultiver nos terres,</l>
-            <l n="237" xml:id="l237">La mousse et les buissons croissent dans nos <ref target="#parterre1">parterres*</ref> :</l>
+            <l n="237" xml:id="l237">La mousse et les buissons croissent dans nos <ref target="#parterre1">parterres</ref> :</l>
           </sp>
           <sp who="follets-bergeres2">
             <speaker>La deuxiéme. </speaker>
-            <l n="238" xml:id="l238">On voit sur nostre teint une jaune <ref target="#paleur">pasleur*</ref>,</l>
+            <l n="238" xml:id="l238">On voit sur nostre teint une jaune <ref target="#paleur">pasleur</ref>,</l>
           </sp>
           <sp who="follets-bergeres3">
             <speaker>La troisiéme. </speaker>
@@ -911,7 +908,7 @@
             <speaker>Le troisiéme jardinier. </speaker>
             <l n="242" xml:id="l242">Depuis vostre absence,</l>
             <l n="243" xml:id="l243">Ce n’est que souffrance,</l>
-            <l n="244" xml:id="l244">Tristesse et <ref target="#langueur">langueur*</ref></l>
+            <l n="244" xml:id="l244">Tristesse et <ref target="#langueur">langueur</ref></l>
           </sp>
           <sp who="jardinier4">
             <speaker>Le quatriéme. </speaker>
@@ -926,7 +923,7 @@
           </sp>
           <sp who="jardinier3 follets-bergeres4">
             <speaker>Le troisiéme, et le quatriéme. à 2. </speaker>
-            <l n="250" xml:id="l250">Et nos pauvres <ref target="#beche">beches*</ref></l>
+            <l n="250" xml:id="l250">Et nos pauvres <ref target="#beche">beches</ref></l>
             <l n="251" xml:id="l251">Nous tombent des mains.</l>
           </sp>
           <sp who="jardinier2">
@@ -957,8 +954,8 @@
           <head>Scene huitiesme.</head>
           <stage>Le Dieu des jardins, quatre jardiniers, cinq Follets en buissons d’epines. </stage>
           <sp who="ledieudesjardins lesjardiniers">
-            <speaker>Le Dieu et sa troupe, <hi rend="i">en se piquant.</hi> à 5.</speaker>
-            <l n="258" xml:id="l258"><ref target="#peste2">Peste*</ref> !quel <ref target="#changement2">changement*</ref> ?quelle metamorphose ?</l>
+            <speaker>Le Dieu et sa troupe, </speaker><stage>en se piquant.</stage>
+            <l n="258" xml:id="l258"><ref target="#peste2">Peste</ref> !quel <ref target="#changement2">changement</ref> ?quelle metamorphose ?</l>
             <l n="259" xml:id="l259">Ah !nous trouvons l’épine, où nous cherchons la Rose !</l>
           </sp>
           <sp who="ledieudesjardins">
@@ -978,7 +975,7 @@
             <stage>Deux Follets cachez, chacun dans le tronc d’un Chesne, achevent de joüer le Dieu. </stage>
           </sp>
           <sp who="follets">
-            <speaker>Deux Follets <hi rend="i">cachez.</hi> à 2.</speaker>
+            <speaker>Deux Follets </speaker><stage>cachez.</stage>
             <l n="272" xml:id="l272">Cesse, grand Dieu, cesse tes plaintes vaines.</l>
           </sp>
           <sp who="ledieudesjardins">
@@ -987,7 +984,7 @@
             <l n="274" xml:id="l274">Echos, Arbres, Rochers ; est-ce vous, est-ce vous ?</l>
           </sp>
           <sp who="follets">
-            <speaker>Deux Follets <hi rend="i">cachez.</hi> à 2.</speaker>
+            <speaker>Deux Follets </speaker><stage>cachez.</stage>
             <l n="275" xml:id="l275">Nous sommes deux Nymphes des Chesnes,</l>
             <l n="276" xml:id="l276">Et le Ciel t’annonce par nous,</l>
             <l n="277" xml:id="l277">Qu’un jour il finira tes peines.</l>
@@ -997,14 +994,14 @@
             <l n="278" xml:id="l278">Helas ! hé quand viendra ce bien-heureux moment ?</l>
           </sp>
           <sp who="follets">
-            <speaker>Deux Follets <hi rend="i">cachez.</hi> à 2.</speaker>
+            <speaker>Deux Follets </speaker><stage>cachez.</stage>
             <l n="279" xml:id="l279">Quand tu seras discret et fidele en aymant.</l>
           </sp>
           <sp who="ledieudesjardins">
             <speaker>Le Dieu des jardins. </speaker>
             <l n="280" xml:id="l280">Taisez-vous, taisez-vous, impertinents oracles,</l>
             <l n="281" xml:id="l281">Amour en ma faveur fait bien d’autres miracles,</l>
-            <l n="282" xml:id="l282">Apprenez, apprenez qu’en l’empire <ref target="#amoureux">amoureux*</ref></l>
+            <l n="282" xml:id="l282">Apprenez, apprenez qu’en l’empire <ref target="#amoureux">amoureux</ref></l>
             <l n="283" xml:id="l283">On perd tout pour attendre, <pb n="30" xml:id="p30"/></l>
             <l n="284" xml:id="l284">Et que le vigoureux</l>
             <l n="285" xml:id="l285">Est souvent plus heureux</l>
@@ -1018,11 +1015,11 @@
       </div>
       <div>
         <head>Intermede II. </head>
-        <stage><ref target="#symphonie">Symphonie*</ref>.</stage>
+        <stage><ref target="#symphonie">Symphonie</ref>.</stage>
       </div>
       <div type="act">
         <head>Acte III.</head>
-        <stage><ref target="#changement1">Changement*</ref> de Theatre.Rochers et Verdures.</stage>
+        <stage><ref target="#changement1">Changement</ref> de Theatre.Rochers et Verdures.</stage>
         <div type="scene">
           <head>Scene premiere.</head>
           <sp who="vertune">
@@ -1036,12 +1033,12 @@
         <div type="scene">
           <head>Scene deuxiesme.</head>
           <stage>Pomone, Juturne, Venilie, Vertune caché.</stage>
-          <stage><ref target="#symphonie">Symphonie*</ref> de Flutes.<note place="bottom">Les symphonies de flûtes semblent avoir été une nouveauté introduite par Cambert. Saint-Evremond le remarque à propos de la <hi rend="i">Pastorale d’Issy</hi> (1659) dans ses <hi rend="i">Lettres sur les opéras</hi> : « ce fut comme un essay d’opéra qui eut l’agrément de la nouveauté ; mais ce qu’il y eut de meilleur encore, c’est qu’on y entendit des concerts de flûtes, ce qu’on n’avoit pas entendu sur aucun théâtre depuis les Grecs et les Romains » (cité par Jean Duron, dans « Pierre Perrin, un Virgile françois ? », article cité, p. 144).</note></stage>
+          <stage><ref target="#symphonie">Symphonie</ref> de Flutes.<note place="bottom">Les symphonies de flûtes semblent avoir été une nouveauté introduite par Cambert. Saint-Evremond le remarque à propos de la <hi rend="i">Pastorale d’Issy</hi> (1659) dans ses <hi rend="i">Lettres sur les opéras</hi> : « ce fut comme un essay d’opéra qui eut l’agrément de la nouveauté ; mais ce qu’il y eut de meilleur encore, c’est qu’on y entendit des concerts de flûtes, ce qu’on n’avoit pas entendu sur aucun théâtre depuis les Grecs et les Romains » (cité par Jean Duron, dans « Pierre Perrin, un Virgile françois ? », article cité, p. 144).</note></stage>
           <sp who="pomone venilie">
             <speaker>Pomone, Venilie, à 2.</speaker>
             <l n="292" xml:id="l292">Sortez, petits Oyseaux, sortez de vos boccages,</l>
             <l n="293" xml:id="l293">Quittez, quittez vos nids et vos buissons,</l>
-            <l n="294" xml:id="l294">Et meslez vos tendres <ref target="#ramage">ramages*</ref><pb n="31" xml:id="p31"/></l>
+            <l n="294" xml:id="l294">Et meslez vos tendres <ref target="#ramage">ramages</ref><pb n="31" xml:id="p31"/></l>
             <l n="295" xml:id="l295">A nos agreables Chansons. <hi rend="i">Flutes</hi>.</l>
             <l n="296" xml:id="l296">Volez, doux Rossignols, volez dans ces feüillages,</l>
             <l n="297" xml:id="l297">Venez, Serins<note place="bottom">Espèce d’oiseau chanteur, devenu proverbial, comme le pinson. On dit d’ailleurs « seriner » en langue parlée moderne. Richelet (1680) : « Il y a un serin commun et un serin de Canarie. Le serin commun est un petit oiseau vif et qui a le bec court, et un peu rond, le dessous de la gorge et le ventre d’un jaune qui tire sur le verd (…) mais plus ce serin est joli et plus il chante bien. ». Furetière précise que « Ce nom vient de Syrene, à cause que cet oiseau a le chant melodieux comme les Syrenes. »</note>, venez, venez Pinsons,</l>
@@ -1063,7 +1060,7 @@
             <l n="305" xml:id="l305">Dans mes regards tu les pourras connestre :</l>
             <l n="306" xml:id="l306">Si tu doutes de mes grandeurs</l>
             <l n="307" xml:id="l307">Voy de quels biens je suis le maistre.</l>
-            <stage><ref target="#changement1">Changement*</ref> de Theatre. Palais de Pluton. </stage>
+            <stage><ref target="#changement1">Changement</ref> de Theatre. Palais de Pluton. </stage>
             <stage>Un Palais doré paroit, et cinq Follets transformez en Demons<note place="bottom">Troupe infernale de Pluton, dieu des Enfers, qui a lui aussi droit à sa troupe, comme tous les personnages divins de la pièce.</note>, portants des corbeilles pleines d’or et de richesses.</stage>
           </sp>
         </div>
@@ -1071,13 +1068,13 @@
           <head>Scene quatriesme.</head>
           <pb n="32" xml:id="p32"/>
           <stage>Pomone, Juturne, Venilie, Vertune en Pluton, cinq Follets en demons.</stage>
-          <label>Entrée de ballet.</label>
-          <label>Follets en demons.</label>
+          <stage>Entrée de ballet.</stage>
+          <stage>Follets en demons.</stage>
           <stage>Pomone, ses Nymphes, et Vertune en Pluton s’écartent pour faire place aux Danseurs, puis se rassemblent la danse finie.</stage>
           <sp who="vertune-pluton">
-            <speaker>Vertune en Pluton, <hi rend="i">à Pomone.</hi> </speaker>
-            <l n="308" xml:id="l308">Mon throne et mes tresors, ma flame et mes <ref target="#langueur">langueurs*</ref></l>
-            <l n="309" xml:id="l309">Ne pourront-ils, Deesse ? adoucir tes <ref target="#rigueur">rigueurs*</ref>.</l>
+            <speaker>Vertune en Pluton, </speaker><stage>à Pomone.</stage>
+            <l n="308" xml:id="l308">Mon throne et mes tresors, ma flame et mes <ref target="#langueur">langueurs</ref></l>
+            <l n="309" xml:id="l309">Ne pourront-ils, Deesse ? adoucir tes <ref target="#rigueur">rigueurs</ref>.</l>
           </sp>
           <sp who="pomone">
             <speaker>Pomone.</speaker>
@@ -1107,7 +1104,7 @@
           <sp who="vertune-pluton">
             <speaker>Vertune, en Pluton.</speaker>
             <l n="322" xml:id="l322">Hé bien garde ta pauvreté,</l>
-            <l n="323" xml:id="l323">Adieu, c’est trop aimer une <ref target="#ingrate">ingrate*</ref> beauté.</l>
+            <l n="323" xml:id="l323">Adieu, c’est trop aimer une <ref target="#ingrate">ingrate</ref> beauté.</l>
             <stage>Le palais disparoit, et le Dieu avec ses Demons s’enfonce dans la terre.</stage>
           </sp>
         </div>
@@ -1147,10 +1144,10 @@
           <pb n="34" xml:id="p34"/>
           <stage>Pomone, Juturne, Venilie, Vertune à l’écart. </stage>
           <sp who="vertune">
-            <speaker>Vertune <hi rend="i">à l’écart.</hi></speaker>
+            <speaker>Vertune </speaker><stage>à l’écart.</stage>
             <l n="339" xml:id="l339">J’ay perdu mes soins et mes pas :</l>
             <l n="340" xml:id="l340">Mais je ne me rends pas :</l>
-            <l n="341" xml:id="l341">Achevons l’<ref target="#imposture">imposture*</ref>,</l>
+            <l n="341" xml:id="l341">Achevons l’<ref target="#imposture">imposture</ref>,</l>
             <l n="342" xml:id="l342">Et l’abordons sous une autre figure.</l>
             <stage>Vertune transformé en Bacchus paroit, devancé par trois Satyres, qui tiennent à la main des couppes, des bouteilles et des flaccons.</stage>
           </sp>
@@ -1161,7 +1158,7 @@
           <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
             <speaker>Les Follets en Satyres. à 3.</speaker>
             <l n="343" xml:id="l343">Place, place voisins,</l>
-            <l n="344" xml:id="l344">Place au Dieu des raisins. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+            <l n="344" xml:id="l344">Place au Dieu des raisins. <hi rend="i"><ref target="#ritournelle">Ritorn</ref></hi>.</l>
           </sp>
           <sp who="vertune-bacchus">
             <speaker>Vertune en Bacchus. </speaker>
@@ -1186,13 +1183,13 @@
           </sp>
           <sp who="pomone">
             <speaker>Pomone. </speaker>
-            <l n="357" xml:id="l357">N’ay-je pas dans le mien un <ref target="#jus">jus*</ref> doux et charmant,</l>
+            <l n="357" xml:id="l357">N’ay-je pas dans le mien un <ref target="#jus">jus</ref> doux et charmant,</l>
             <l n="358" xml:id="l358">Que l’on cherit également ?</l>
           </sp>
           <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
             <speaker>Les Follets en satyres. à 3.</speaker>
             <l n="359" xml:id="l359">O la comparaison étrange,</l>
-            <l n="360" xml:id="l360">Du Cidre au <ref target="#jus">jus*</ref> de la vandange !</l>
+            <l n="360" xml:id="l360">Du Cidre au <ref target="#jus">jus</ref> de la vandange !</l>
             <l n="361" xml:id="l361">Vive nostre aymable liqueur.</l>
           </sp>
           <sp who="pomone juturne venilie">
@@ -1225,7 +1222,7 @@
           </sp>
           <sp who="follets-satyres1 follets-satyres2 follets-satyres3 pomone juturne venilie vertune-bacchus">
             <speaker>Tous. à 7. </speaker>
-            <l n="366" xml:id="l366">Vive nostre aymable liqueur. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+            <l n="366" xml:id="l366">Vive nostre aymable liqueur. <hi rend="i"><ref target="#ritournelle">Ritorn</ref></hi>.</l>
             <stage>Pomone et ses Nymphes se retirent en se moquant, Faune arrive.</stage>
           </sp>
         </div>
@@ -1255,7 +1252,7 @@
             <l part="F">il y va de ta gloire.</l>
           </sp>
           <sp who="vertune-bacchus">
-            <speaker>Vertune en Bacchus, <hi rend="i">aux Satyres.</hi></speaker>
+            <speaker>Vertune en Bacchus, </speaker><stage>aux Satyres.</stage>
             <l n="378" xml:id="l378">Donnez-luy du meilleur du muy<note place="bottom">Comprendre : donnez-lui du meilleur vin du tonneau. Art. « Mui », Richelet : « Ce mot en parlant de vin veut dire une sorte de vaisseau fait par le tonnelier et composé de douves et de fond, contenant <hi rend="i">deux cens quatre vingts pinte</hi>s, ou environ mesure de Paris. [Mettre un mui de vin en perce.] »</note>,</l>
             <l n="379" xml:id="l379">Enfants, faites-le boire, et beuvez avec luy.</l>
             <stage>Il fait signe aux Follets de joüer son rival.</stage>
@@ -1276,23 +1273,23 @@
             <l n="386" xml:id="l386">Masse<note place="bottom">Interjection de jeu et de boisson. « Masser », verbe qui signifie à la base « miser », poser des enjeux. Académie : « On dit fig. en beuvant, <hi rend="i">Masse à vous</hi>, pour dire, Je vous porte la santé d’un tel » (voir <hi rend="i">infra</hi> note 37).</note> à luy, tope et tingue<note place="bottom">Tope : terme de jeu de dés, « Tope, se dit aussi en débauche, lorsqu’on accepte un deffi de boire, ou une santé qu’on porte, et dont on promet de faire raison, c’est-à-dire, d’en boire autant Masse à qui dit, on répond tope. » (Furetière). Tingue : Sans doute une onomatopée, sans signification précise. « Cric et croc », RIchelet : « Sorte d’adverbe qui représente le bruit que font les verres pleins de vin lorsqu’on es choque en buvant à la santé les uns des autres. <hi rend="i">Masse, tope, cric et croc</hi>. S. Amant.</note>.</l>
           </sp>
           <sp who="faune">
-            <speaker>Faune, <hi rend="i">leur presentant sa tasse.</hi> </speaker>
+            <speaker>Faune, </speaker><stage>leur presentant sa tasse.</stage>
             <l n="387" xml:id="l387">Versez, versez à rouge bord<note place="bottom">Le dictionnaire de l’Académie explique l’expression à l’article « Rouge »: « On appelle, <hi rend="i">Rouge bord</hi>, Un verre de vin plein jusqu’au bord<hi rend="i">. Il boit tousjours à rouge bords, il bût je ne sçay combien de rouges bords</hi>. » Pour expliquer grammaticalement cette belle et dense expression, on peut dire que l’adjectif « rouge » occupe ici la fonction d’attribut proleptique, et à donc un aspect résultatif (Versez jusqu’à ce que le bord en soit rouge), ainsi que dans  : « La mer laisse les poissons secs sur le rivage. ».</note>,</l>
           </sp>
           <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
-            <speaker>Les Follets, <hi rend="i">continuants</hi><note place="bottom">Le participe présent employé comme épithète se rattache au sujet de la phrase : on peut remarquer une certaine souplesse dans son accord au XVII<hi rend="sup">e</hi> siècle : "N’est-ce pas à vos yeux un spectacle assez doux/Que la veuve d’Hector <hi rend="b">pleurante</hi> à vos genoux ? (Racine, <hi rend="i">Andromaque</hi>, 859-860, 1667)" "Et la Crète <hi rend="b">fumant</hi> du sang du Minotaure (<hi rend="i">Phèdre</hi>, 82, 1677)" Cf. Fournier, §442, p. 304.</note><hi rend="i"> à boire sans l’écouter, à 3.</hi> </speaker>
+            <speaker>Les Follets, <note place="bottom">Le participe présent employé comme épithète se rattache au sujet de la phrase : on peut remarquer une certaine souplesse dans son accord au XVII<hi rend="sup">e</hi> siècle : "N’est-ce pas à vos yeux un spectacle assez doux/Que la veuve d’Hector <hi rend="b">pleurante</hi> à vos genoux ? (Racine, <hi rend="i">Andromaque</hi>, 859-860, 1667)" "Et la Crète <hi rend="b">fumant</hi> du sang du Minotaure (<hi rend="i">Phèdre</hi>, 82, 1677)" Cf. Fournier, §442, p. 304.</note></speaker><stage> à boire sans l’écouter, à 3.</stage><stage>continuants</stage>
             <l n="388" xml:id="l388">Masse à luy, tope et tingue.</l>
           </sp>
           <sp who="faune">
-            <speaker>Faune,<hi rend="i"> s’impatientant.</hi></speaker>
+            <speaker>Faune,</speaker><stage> s’impatientant.</stage>
             <l n="389" xml:id="l389">Donnez-donc, je meurs,</l>
           </sp>
           <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
-            <speaker>Les Follets, <hi rend="i">continuants de mesme.</hi></speaker>
+            <speaker>Les Follets, </speaker><stage>continuants de mesme.</stage>
             <l n="390" part="I" xml:id="l390">Masse à luy, tope et tingue.</l>
           </sp>
           <sp who="faune">
-            <speaker>Faune <hi rend="i">leur saisissant la bouteille.</hi> </speaker>
+            <speaker>Faune </speaker><stage>leur saisissant la bouteille.</stage>
             <l part="F">je suis mort.</l>
             <l n="391" xml:id="l391">Donnez, donnez, quelle fadese !</l>
           </sp>
@@ -1324,51 +1321,51 @@
           </sp>
           <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
             <speaker>Les Follets en Satyres. à 3.</speaker>
-            <l n="406" xml:id="l406">Ah! le <ref target="#fat">fat*</ref> ! ah! le <ref target="#badin">badin*</ref>!</l>
+            <l n="406" xml:id="l406">Ah! le <ref target="#fat">fat</ref> ! ah! le <ref target="#badin">badin</ref>!</l>
             <l n="407" xml:id="l407">Il boit de l’eau pour du vin.</l>
           </sp>
           <sp who="faune">
-            <speaker>Faune,<hi rend="i"> en se levant.</hi></speaker>
+            <speaker>Faune,</speaker><stage> en se levant.</stage>
             <l n="408" xml:id="l408">On me berne, on me raille,</l>
             <l n="409" xml:id="l409">Courez dessus Bouviers,</l>
-            <l n="410" xml:id="l410">Suivons cette <ref target="#racaille">racaille*</ref></l>
-            <l n="411" xml:id="l411">A grand coups de <ref target="#levier">leviers*</ref>.</l>
+            <l n="410" xml:id="l410">Suivons cette <ref target="#racaille">racaille</ref></l>
+            <l n="411" xml:id="l411">A grand coups de <ref target="#levier">leviers</ref>.</l>
           </sp>
           <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
             <speaker>Les Follets en Satyres. à 3. </speaker>
             <pb n="39" xml:id="p39"/>
-            <l n="412" xml:id="l412">Ah ! le <ref target="#fat">fat*</ref>, etc.</l>
+            <l n="412" xml:id="l412">Ah ! le <ref target="#fat">fat</ref>, etc.</l>
             <stage>Faune les poursuit à coups de massüe, ils disparoissent.</stage>
           </sp>
         </div>
       </div>
       <div>
         <head>Intermede III.</head>
-        <stage><ref target="#symphonie">Symphonie*</ref>. </stage>
+        <stage><ref target="#symphonie">Symphonie</ref>. </stage>
       </div>
       <div type="act">
         <head>Acte IV.</head>
-        <stage><ref target="#changement1">Changement*</ref> de theatre. Jardin et Berceau de Pomone.</stage>
+        <stage><ref target="#changement1">Changement</ref> de theatre. Jardin et Berceau de Pomone.</stage>
         <div type="scene">
           <head>Scene premiere.</head>
           <sp who="beroe">
             <speaker>Beroé. </speaker>
             <l n="413" xml:id="l413">Sors de mon cœur,</l>
-            <l n="414" xml:id="l414">Folle <ref target="#furieux1">fureur*</ref>,</l>
+            <l n="414" xml:id="l414">Folle <ref target="#furieux1">fureur</ref>,</l>
             <l n="415" xml:id="l415">Aveugle frenesie,</l>
             <l n="416" xml:id="l416">Brutale ardeur, maudite jalousie ;</l>
-            <l n="417" xml:id="l417"><ref target="#peste1">Peste*</ref> des cœurs, dont le poison</l>
+            <l n="417" xml:id="l417"><ref target="#peste1">Peste</ref> des cœurs, dont le poison</l>
             <l n="418" xml:id="l418">Détruit l’amour et la raison,</l>
-            <l n="419" xml:id="l419">Sors de mon cœur et de ma <ref target="#fantaisie">phantaisie*</ref><note place="bottom">Les vers 418 à 424 sont une reprise exacte des premiers vers de <hi rend="i">La Mort d’Adonis</hi> prononcés par « FALSIRENE, <hi rend="i">fée que preside aux thresors</hi> » (livret publié dans Louis Auld, <hi rend="i">The Lyric Art of Pierre Perrin</hi>, vol. 3).</note>.</l>
+            <l n="419" xml:id="l419">Sors de mon cœur et de ma <ref target="#fantaisie">phantaisie</ref><note place="bottom">Les vers 418 à 424 sont une reprise exacte des premiers vers de <hi rend="i">La Mort d’Adonis</hi> prononcés par « FALSIRENE, <hi rend="i">fée que preside aux thresors</hi> » (livret publié dans Louis Auld, <hi rend="i">The Lyric Art of Pierre Perrin</hi>, vol. 3).</note>.</l>
             <l n="420" xml:id="l420">C’est trop d’affronts soufferts,</l>
             <l n="421" xml:id="l421">Rompons, brisons nos fers,</l>
             <l n="422" xml:id="l422">Vengeons nous de qui nous méprise ;</l>
             <l n="423" xml:id="l423">Et renversons du moins toute son entreprise,</l>
             <stage>A l’écart.</stage>
             <l n="424" xml:id="l424">Mais le voicy qui medite en son cœur</l>
-            <l n="425" xml:id="l425">De <ref target="#nouveaute">nouveaux*</ref> artifices,</l>
-            <l n="426" xml:id="l426">Et n’a pas épuisé sa ruse et ses <ref target="#malice">malices*</ref>,</l>
-            <l n="427" xml:id="l427">Observons ses desseins, fourbe, lâche <ref target="#imposture">imposteur*</ref>.</l>
+            <l n="425" xml:id="l425">De <ref target="#nouveaute">nouveaux</ref> artifices,</l>
+            <l n="426" xml:id="l426">Et n’a pas épuisé sa ruse et ses <ref target="#malice">malices</ref>,</l>
+            <l n="427" xml:id="l427">Observons ses desseins, fourbe, lâche <ref target="#imposture">imposteur</ref>.</l>
           </sp>
         </div>
         <div type="scene">
@@ -1381,7 +1378,7 @@
             <l n="429" xml:id="l429">Pour la fléchir et pour luy plaire ?</l>
             <l n="430" xml:id="l430">Amour, dy-moy, que dois-je faire ?</l>
             <l n="431" xml:id="l431">En qui me transformer ? des plus puissans des Dieux,</l>
-            <l n="432" xml:id="l432">Cette <ref target="#insensible">insensible*</ref> a méprisé les vœux.</l>
+            <l n="432" xml:id="l432">Cette <ref target="#insensible">insensible</ref> a méprisé les vœux.</l>
             <l n="433" xml:id="l433">Mais pourquoy l’attaquer sous la forme d’un autre ?</l>
             <l n="434" xml:id="l434">Peut-estre pourrions-nous luy plaire sous la nostre.</l>
             <l n="435" xml:id="l435">Tachons de la surprendre une derniere fois,</l>
@@ -1403,7 +1400,7 @@
           <sp who="pomone">
             <speaker>Pomone.</speaker>
             <l n="444" xml:id="l444">Qui cause ce soûpir</l>
-            <l n="445" xml:id="l445">De <ref target="#langueur">langueur*</ref> et de flame ?</l>
+            <l n="445" xml:id="l445">De <ref target="#langueur">langueur</ref> et de flame ?</l>
           </sp>
           <sp who="flore">
             <speaker>Flore.</speaker>
@@ -1412,8 +1409,8 @@
           </sp>
           <sp who="pomone">
             <speaker>Pomone.</speaker>
-            <l n="448" xml:id="l448">Pour <ref target="#charmer">charmer*</ref> les <ref target="#ennui">ennuis*</ref></l>
-            <l n="449" xml:id="l449">Dont elle est <ref target="#travailler">travaillée*</ref>,</l>
+            <l n="448" xml:id="l448">Pour <ref target="#charmer">charmer</ref> les <ref target="#ennui">ennuis</ref></l>
+            <l n="449" xml:id="l449">Dont elle est <ref target="#travailler">travaillée</ref>,</l>
             <l n="450" xml:id="l450">Allons sous la verte feüillée</l>
             <l n="451" xml:id="l451">Voir danser nos cüeilleurs de fruits.</l>
             <stage>Vertune s’avance, transformé en Beroé.</stage>
@@ -1423,7 +1420,7 @@
           <head>Scene quatriesme.</head>
           <stage>Pomone, Flore, Vertune en Beroé,Beroé cachée. </stage>
           <sp who="pomone">
-            <speaker>Pomone <hi rend="i">à Vertune, en Beroé.</hi></speaker>
+            <speaker>Pomone </speaker><stage>à Vertune, en Beroé.</stage>
             <l n="452" xml:id="l452">Mais te voila, Nourrisse,</l>
             <l n="453" xml:id="l453">Hé qui t’a fait absenter si long-temps ?</l>
             <l n="454" xml:id="l454">Il faut qu’un baiser t’en punisse.</l>
@@ -1435,8 +1432,8 @@
         <div type="scene">
           <head>Scene cinquiesme.</head>
           <stage>Pomone, Flore, Vertune en Beroé, Beroé cachée. Cueilleurs, et cueilleuses de fruits. </stage>
-          <label>Entrée de Ballet.</label>
-          <label>Cueilleurs de fruits.</label>
+          <stage>Entrée de Ballet.</stage>
+          <stage>Cueilleurs de fruits.</stage>
         </div>
         <div type="scene">
           <head>Scene sixiesme. </head>
@@ -1444,14 +1441,14 @@
           <stage>Pomone, Flore, Vertune en Beroé. Beroé cachée.</stage>
           <stage>Apres la Danse, Pomone, Flore et Vertune en Beroé se rassemblent.</stage>
           <sp who="pomone">
-            <speaker>Pomone, <hi rend="i">à Flore.</hi> </speaker>
+            <speaker>Pomone, </speaker><stage>à Flore.</stage>
             <l n="456" xml:id="l456">Hé bien ! que dis-tu ma sœur</l>
             <l n="457" xml:id="l457">De nostre charmante vie ?</l>
           </sp>
           <sp who="flore">
             <speaker>Flore.</speaker>
             <l n="458" xml:id="l458">Je dy que sa douceur</l>
-            <l n="459" xml:id="l459">Me donne peu d’<ref target="#envie2">envie*</ref> :</l>
+            <l n="459" xml:id="l459">Me donne peu d’<ref target="#envie2">envie</ref> :</l>
             <l n="460" xml:id="l460">Sans le plaisir d’amour tous les autres plaisirs,</l>
             <l n="461" xml:id="l461">Lassent facilement nos cœurs et nos desirs.</l>
           </sp>
@@ -1464,7 +1461,7 @@
             <l n="463" xml:id="l463">Qui commence d’aymer, il commence de vivre.</l>
           </sp>
           <sp who="pomone">
-            <speaker>Pomone, <hi rend="i">à Vertune en Beroé.</hi></speaker>
+            <speaker>Pomone, </speaker><stage>à Vertune en Beroé.</stage>
             <l n="464" part="I" xml:id="l464">Nourisse, qu’en dis-tu ?</l>
           </sp>
           <sp who="vertune-beroe">
@@ -1491,18 +1488,18 @@
             <l n="477" xml:id="l477">Ne seroit point rebelle.</l>
           </sp>
           <sp who="beroe">
-            <speaker>Beroé <hi rend="i">cachée.</hi> </speaker>
-            <l n="478" part="I" xml:id="l478">Le rusé, l’imposteur* !</l>
+            <speaker>Beroé </speaker><stage>cachée.</stage>
+            <l n="478" part="I" xml:id="l478">Le rusé, l’imposteur !</l>
           </sp>
           <sp who="pomone">
             <speaker>Pomone. </speaker>
             <l part="F">il seroit à mes yeux</l>
             <l n="479" xml:id="l479">Le plus parfait des Dieux,</l>
-            <l n="480" xml:id="l480">Qu’à son amour je serois <ref target="#insensible">insensible*</ref> !</l>
+            <l n="480" xml:id="l480">Qu’à son amour je serois <ref target="#insensible">insensible</ref> !</l>
             <l n="481" xml:id="l481">Non, non, ce cœur est invincible.</l>
           </sp>
           <sp who="beroe">
-            <speaker>Beroé <hi rend="i">cachée.</hi> </speaker>
+            <speaker>Beroé </speaker><stage>cachée.</stage>
             <l n="482" xml:id="l482">Allons le démentir.</l>
           </sp>
           <sp who="vertune-beroe">
@@ -1511,7 +1508,7 @@
             <l n="484" xml:id="l484">S’ébranle en un instant.</l>
           </sp>
           <sp who="beroe">
-            <speaker>Beroé, <hi rend="i">courant à luy.</hi> </speaker>
+            <speaker>Beroé, </speaker><stage>courant à luy.</stage>
             <l n="485" xml:id="l485">Je te tiens, fourbe, lâche.</l>
             <stage>Vertune reprend soudainement sa figure naturelle.</stage>
           </sp>
@@ -1520,16 +1517,16 @@
           <head>Scene septiesme.</head>
           <stage>Pomone, Flore, Vertune, Beroé, </stage>
           <sp who="vertune">
-            <speaker>Vertune, <hi rend="i">à Beroé.</hi> </speaker>
+            <speaker>Vertune, </speaker><stage>à Beroé.</stage>
             <l n="486" xml:id="l486">Dequoy m’accuses-tu ? quel crime ay-je commis ?</l>
             <l n="487" xml:id="l487">Ah ! n’ay-je pas sans-toy d’assez fiers ennemis ?</l>
           </sp>
           <sp who="beroe">
-            <speaker>Beroé, <hi rend="i">à l’écart.</hi> </speaker>
-            <l n="488" xml:id="l488">Hélas ! en le voyant ma <ref target="#furieux1">fureur*</ref> se relâche.</l>
+            <speaker>Beroé, </speaker><stage>à l’écart.</stage>
+            <l n="488" xml:id="l488">Hélas ! en le voyant ma <ref target="#furieux1">fureur</ref> se relâche.</l>
           </sp>
           <sp who="pomone">
-            <speaker>Pomone, <hi rend="i">à l’écart.</hi></speaker>
+            <speaker>Pomone, </speaker><stage>à l’écart.</stage>
             <l n="489" xml:id="l489">Qu’il a l’air fier et doux ! ha ! qu’est-ce que je sents ? <pb n="44" xml:id="p44"/></l>
             <l n="490" xml:id="l490">Un mouvement secret me transporte les sens. <anchor xml:id="rime"/></l>
           </sp>
@@ -1539,7 +1536,7 @@
             <l n="492" xml:id="l492">D’aspirer, ô Deesse ! à l’honneur de te plaire.</l>
           </sp>
           <sp who="beroe">
-            <speaker>Beroé, <hi rend="i">à l’écart.</hi> </speaker>
+            <speaker>Beroé, </speaker><stage>à l’écart.</stage>
             <l n="493" part="I" xml:id="l493">O Ciel ! que ferons-nous ?</l>
           </sp>
           <sp who="vertune">
@@ -1551,7 +1548,7 @@
             <stage>Il se jette à genoux devant la Déesse. </stage>
           </sp>
           <sp who="pomone">
-            <speaker>Pomone, <hi rend="i">à l’écart.</hi></speaker>
+            <speaker>Pomone, </speaker><stage>à l’écart.</stage>
             <l n="497" part="I" xml:id="l497">O Dieux ! il m’attendrit.</l>
           </sp>
           <sp who="vertune">
@@ -1559,7 +1556,7 @@
             <l part="F">et me voir condamner</l>
           </sp>
           <sp who="pomone">
-            <speaker>Pomone, <hi rend="i">à l’écart.</hi></speaker>
+            <speaker>Pomone, </speaker><stage>à l’écart.</stage>
             <l n="498" part="I" xml:id="l498">Je n’en puis plus !</l>
           </sp>
           <sp who="vertune">
@@ -1567,7 +1564,7 @@
             <l part="F">à des peines mortelles,</l>
           </sp>
           <sp who="pomone">
-            <speaker>Pomone, <hi rend="i">à l’écart.</hi></speaker>
+            <speaker>Pomone, </speaker><stage>à l’écart.</stage>
             <l n="499" part="I" xml:id="l499">Helas !</l>
           </sp>
           <sp who="vertune">
@@ -1583,7 +1580,7 @@
             <l part="F">que la mort ne peut les terminer,</l>
           </sp>
           <sp who="pomone">
-            <speaker>Pomone, <hi rend="i">se tournant à luy.</hi> </speaker>
+            <speaker>Pomone, </speaker><stage>se tournant à luy.</stage>
             <l n="501" part="I" xml:id="l501">Et je sents<pb n="M,45"/></l>
           </sp>
           <sp who="vertune">
@@ -1603,8 +1600,8 @@
           <stage>Pomone, Flore, Vertune, Beroé, Venilie. Faune le dieu des jardins. </stage>
           <sp who="pomone flore vertune">
             <speaker>Pomone, Flore, Vertune, à 3. </speaker>
-            <l n="503" xml:id="l503">O puissance d’amour ! ô divin <ref target="#changement2">changement*</ref> !</l>
-            <l n="504" xml:id="l504">Ce que l’esprit et la <ref target="#finesse">finesse*</ref>,</l>
+            <l n="503" xml:id="l503">O puissance d’amour ! ô divin <ref target="#changement2">changement</ref> !</l>
+            <l n="504" xml:id="l504">Ce que l’esprit et la <ref target="#finesse">finesse</ref>,</l>
             <l n="505" xml:id="l505">Les honneurs, la richesse</l>
             <l n="506" xml:id="l506">Ont tenté vainement ;</l>
             <l n="507" xml:id="l507">L’amour et la beauté le font en un moment.</l>
@@ -1614,7 +1611,7 @@
           <head>Scene neufviesme.</head>
           <stage>Faune, le Dieu des jardins, Beroé, Venilie. </stage>
           <sp who="faune">
-            <speaker>Faune, <hi rend="i">au Dieu.</hi> </speaker>
+            <speaker>Faune, </speaker><stage>au Dieu.</stage>
             <l n="508" xml:id="l508">Pauvre Dieu des Jardins !</l>
           </sp>
           <sp who="ledieudesjardins">
@@ -1622,29 +1619,29 @@
             <l n="509" xml:id="l509">Pauvre Dieu de Village !</l>
           </sp>
           <sp who="faune">
-            <speaker>Faune <hi rend="i">en luy presentant Beroé.</hi> </speaker>
+            <speaker>Faune </speaker><stage>en luy presentant Beroé.</stage>
             <pb n="46" xml:id="p46"/>
             <l n="510" xml:id="l510">Voicy ce que le Ciel te reserve en partage.</l>
           </sp>
           <sp who="ledieudesjardins">
-            <speaker>Le Dieu des jardins<hi rend="i"> en montrant Venilie.</hi> </speaker>
+            <speaker>Le Dieu des jardins</speaker><stage> en montrant Venilie.</stage>
             <l n="511" part="I" xml:id="l511">Voicy le mien</l>
             <stage>En luy montrant les cornes qu’il porte au front. </stage>
             <l part="F">Voyla le tien.</l>
           </sp>
           <sp who="faune">
-            <speaker>Faune, <hi rend="i">en luy montrant sa bouteille.</hi> </speaker>
+            <speaker>Faune, </speaker><stage>en luy montrant sa bouteille.</stage>
             <l n="512" part="I" xml:id="l512">Voicy le mien</l>
             <stage>En luy montrant Beroé. </stage>
             <l part="F">Voyla le tien.</l>
           </sp>
           <sp who="faune ledieudesjardins">
-            <speaker>Faune et le Dieu, à 2. <hi rend="i">En continüant.</hi> </speaker>
+            <speaker>Faune et le Dieu, à 2. </speaker><stage>En continüant.</stage>
             <l n="513" xml:id="l513">Voicy le mien,</l>
             <l n="514" xml:id="l514">Voyla le tien.</l>
           </sp>
           <sp who="venilie">
-            <speaker>Venilie, <hi rend="i">au Dieu des Jardins.</hi> </speaker>
+            <speaker>Venilie, </speaker><stage>au Dieu des Jardins.</stage>
             <l n="515" xml:id="l515">Si d’un Vulcain aussi difforme</l>
             <l n="516" xml:id="l516">Le Ciel me faisoit la Venus<note place="bottom">Héphaïstos, dieu du feu, fils de Zeus et d’Hera, Vulcain dans la mythologie latine, est un dieu boiteux et difforme ; il avait pris le parti de sa mère contre Zeus, qui le précipita du haut de l’Olympe sur l’île de Lemnos. Son père l’avait uni à la déesse Aphrodite-Venus, qui devint peu après l’amante d’Harès-Mars (Homère<hi rend="i">, Odyssée</hi>, VIII, 266 et suiv.). Vulcain est donc un « dieu cocu ».</note> ;</l>
             <l n="517" xml:id="l517">Il en auroit le front aussi bien que la forme,</l>
@@ -1655,7 +1652,7 @@
       </div>
       <div>
         <head>Intermede IV.</head>
-        <stage><ref target="#symphonie">Symphonie*</ref>. </stage>
+        <stage><ref target="#symphonie">Symphonie</ref>. </stage>
       </div>
       <div type="act">
         <head>Acte V.</head>
@@ -1674,13 +1671,13 @@
           </sp>
           <sp who="vertune">
             <speaker>Vertune</speaker>
-            <l n="526" xml:id="l526">Je sçay trop que ta flame <ref target="#amoureux">amoureuse*</ref></l>
-            <l n="527" xml:id="l527">Est pure et <ref target="#genereux">genereuse*</ref> :</l>
+            <l n="526" xml:id="l526">Je sçay trop que ta flame <ref target="#amoureux">amoureuse</ref></l>
+            <l n="527" xml:id="l527">Est pure et <ref target="#genereux">genereuse</ref> :</l>
             <l n="528" xml:id="l528">Mais ce que je pretends</l>
             <l n="529" xml:id="l529">Te montrer de puissance</l>
             <l n="530" xml:id="l530">Est plus un passe-temps</l>
             <l n="531" xml:id="l531">Qu’une magnificence.</l>
-            <l n="532" xml:id="l532">Mais voicy nostre sœur, dont le soin <ref target="#complaisant">complaisant*</ref></l>
+            <l n="532" xml:id="l532">Mais voicy nostre sœur, dont le soin <ref target="#complaisant">complaisant</ref></l>
             <l n="533" xml:id="l533">Nous regale aujourd’huy d’un aimable present.</l>
           </sp>
         </div>
@@ -1697,7 +1694,7 @@
             <l n="538" xml:id="l538">La plus belle et la plus charmante</l>
             <l n="539" xml:id="l539">Est le Chappeau d’Hymen que ma main vous presente.</l>
             <l n="540" xml:id="l540">Passez dans ses plaisirs et les jours et les nuits,</l>
-            <l n="541" xml:id="l541">Portez ses fleurs, goustez ses fruits. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+            <l n="541" xml:id="l541">Portez ses fleurs, goustez ses fruits. <hi rend="i"><ref target="#ritournelle">Ritorn</ref></hi>.</l>
           </sp>
         </div>
         <div type="scene">
@@ -1708,17 +1705,17 @@
           <sp who="ledieudesjardins">
             <speaker>Le Dieu des jardins. </speaker>
             <l n="542" xml:id="l542">Je vous offre, grands Dieux, le present d’un pauvre homme,</l>
-            <l n="543" xml:id="l543">Mais le <ref target="#ragout">ragoust*</ref> en est <ref target="#friand">friand*</ref> et chaud,</l>
+            <l n="543" xml:id="l543">Mais le <ref target="#ragout">ragoust</ref> en est <ref target="#friand">friand</ref> et chaud,</l>
             <l n="544" xml:id="l544">Et dans un jour pareil la Truffe et l’Artichaut</l>
             <l n="545" xml:id="l545">Vallent mieux que la Pomme.</l>
           </sp>
           <sp who="vertune">
             <speaker>Vertune. </speaker>
-            <l n="546" xml:id="l546">Suivons nostre dessein : sus, <ref target="#sus">sus*</ref>, Lares, Follets<note place="bottom">Voir la liste des personnages : « Vertune, dieu des Lares ou Follets. » Voir aussi la présentation des personnages.</note>,</l>
+            <l n="546" xml:id="l546">Suivons nostre dessein : sus, <ref target="#sus">sus</ref>, Lares, Follets<note place="bottom">Voir la liste des personnages : « Vertune, dieu des Lares ou Follets. » Voir aussi la présentation des personnages.</note>,</l>
             <l n="547" xml:id="l547">Qu’on bastisse un Palais</l>
             <l n="548" xml:id="l548">A ma belle maistresse.</l>
             <stage>Un Palais magnifique se montre. </stage>
-            <stage><ref target="#changement1">Changement*</ref> de Theatre. Palais de Vertune. </stage>
+            <stage><ref target="#changement1">Changement</ref> de Theatre. Palais de Vertune. </stage>
             <l n="549" xml:id="l549">Pages, valets,</l>
             <l n="550" xml:id="l550">Qu’on serve ma Deesse.</l>
             <stage>Huits follets transformez en esclaves font la reverence à la Deesse. </stage>
@@ -1734,7 +1731,7 @@
             <stage>Une fontaine de vin paroit. </stage>
             <l n="553" xml:id="l553">Que le Haut-bois s’apreste<pb n="N,49" xml:id="p49"/></l>
             <l n="554" xml:id="l554">A celebrer la feste.</l>
-            <stage>Un balcon à ferrade se montre, et sur le balcon une troupe de Haut-bois vestus de <ref target="#livree">livrées*</ref> des mariez, et dans le mesme temps, vingt-quatre violons, vestus de mesme, paroissent sur les deux aisles du Theatre. </stage>
+            <stage>Un balcon à ferrade se montre, et sur le balcon une troupe de Haut-bois vestus de <ref target="#livree">livrées</ref> des mariez, et dans le mesme temps, vingt-quatre violons, vestus de mesme, paroissent sur les deux aisles du Theatre. </stage>
           </sp>
         </div>
         <div type="scene">
@@ -1753,21 +1750,21 @@
             <l n="557" xml:id="l557">Hola, follets, paroissez dans les airs,</l>
             <l n="558" xml:id="l558">Sous mille plaisantes images,</l>
             <l n="559" xml:id="l559">Et pour la divertir, formez dans les nüages</l>
-            <l n="560" xml:id="l560">Des spectacles charmants, et d’aymables <ref target="#concert">concerts*</ref>.</l>
+            <l n="560" xml:id="l560">Des spectacles charmants, et d’aymables <ref target="#concert">concerts</ref>.</l>
             <stage>Dix-huit Follets transformez paroissent en differentes nües brillantes, six aux fonds du Theatre dans une grande nüe, six sur le costé droit en trois petites nües diverses, et autant sur le gauche, sous des formes de Dieux de Muses et d’Amours, partie chantants, partie joüants des instruments. </stage>
           </sp>
         </div>
         <div type="scene">
           <head>Scene sixiesme.</head>
           <stage>Vertune, Pomone, Juturne, Venilie, Flore, le Dieu des jardin, deux jardiniers, Follets en esclaves, Follets en symphonistes, Follets en dieux dans les nües. </stage>
-          <stage><ref target="#symphonie">Symphonie*</ref> par les Follets dans les nües. </stage>
+          <stage><ref target="#symphonie">Symphonie</ref> par les Follets dans les nües. </stage>
           <sp who="follets-amours">
             <speaker>Les Follets dans les nües.</speaker>
             <pb n="50" xml:id="p50"/>
             <l n="561" xml:id="l561">Venez, Dieux et mortels, à cette grande feste,</l>
             <l n="562" xml:id="l562">Celebrez ce jour de conqueste,</l>
             <l n="563" xml:id="l563">Ce jour illustre et bienheureux :</l>
-            <l n="564" xml:id="l564">Nostre Dieu va gouster les plaisirs <ref target="#amoureux">amoureux*</ref>,</l>
+            <l n="564" xml:id="l564">Nostre Dieu va gouster les plaisirs <ref target="#amoureux">amoureux</ref>,</l>
             <l n="565" xml:id="l565">Sautons, rions, dansons, et chantons à sa gloire</l>
             <l n="566" xml:id="l566">Des chants d’amour et de victoire. <hi rend="i">Rit.</hi></l>
           </sp>
@@ -1780,25 +1777,25 @@
           <sp who="follets-amours">
             <speaker>Les Follets dans les nües. </speaker>
             <l n="570" xml:id="l570">Et vous, Follets, qui formez dans les airs</l>
-            <l n="571" xml:id="l571">La <ref target="#foudre">foudre*</ref> et les éclairs,</l>
+            <l n="571" xml:id="l571">La <ref target="#foudre">foudre</ref> et les éclairs,</l>
             <l n="572" xml:id="l572">Des vents et des nuages,</l>
             <l n="573" xml:id="l573">Arbitres souverains,</l>
             <l n="574" xml:id="l574">Rendez les Cieux tranquilles et serains,</l>
-            <l n="575" xml:id="l575">Et chassez loin de nous la <ref target="#foudre">foudre*</ref> et les orages.</l>
+            <l n="575" xml:id="l575">Et chassez loin de nous la <ref target="#foudre">foudre</ref> et les orages.</l>
             <l n="576" xml:id="l576">Voicy le jour, voicy le temps,</l>
             <l n="577" xml:id="l577">Des jeux des ris, des passe-temps.</l>
-            <l n="578" xml:id="l578">Sautons, rions, dansons, et chantons, etc. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+            <l n="578" xml:id="l578">Sautons, rions, dansons, et chantons, etc. <hi rend="i"><ref target="#ritournelle">Ritorn</ref></hi>.</l>
           </sp>
         </div>
         <div type="scene">
           <head>Scene septiesme.</head>
           <stage>Vertune, Pomone et les autres. Faune. </stage>
           <sp who="faune">
-            <speaker>Faune, <hi rend="i">en dansant et se moquant.</hi></speaker>
+            <speaker>Faune, </speaker><stage>en dansant et se moquant.</stage>
             <l n="579" xml:id="l579">Sautons, rions, dansons, etc.</l>
-            <l n="580" xml:id="l580">On attrappe aujourd’huy le plus fin des <ref target="#renard">Renards*</ref>,</l>
-            <l n="581" xml:id="l581"> Aujourd’huy se grossit le nombre des <ref target="#cornard">Cornards*</ref>.</l>
-            <l n="582" xml:id="l582">Sans troubler nos <ref target="#humeur">humeurs*</ref> paisibles,</l>
+            <l n="580" xml:id="l580">On attrappe aujourd’huy le plus fin des <ref target="#renard">Renards</ref>,</l>
+            <l n="581" xml:id="l581"> Aujourd’huy se grossit le nombre des <ref target="#cornard">Cornards</ref>.</l>
+            <l n="582" xml:id="l582">Sans troubler nos <ref target="#humeur">humeurs</ref> paisibles,</l>
             <l n="583" xml:id="l583">Nous les porterons sur le front ; <pb n="51" xml:id="p51"/></l>
             <l n="584" xml:id="l584">Mais les miennes y paroistront,</l>
             <l n="585" xml:id="l585">Les siennes seront invisibles.</l>
@@ -1822,7 +1819,7 @@
             <l n="592" xml:id="l592">Avant la fin du jour</l>
             <l n="593" xml:id="l593">Mes fautes dans l’oubly seront ensevelies,</l>
             <l n="594" xml:id="l594">Et qui ressent les plaisirs de l’amour,</l>
-            <l n="595" xml:id="l595">En pardonne aysement le crime et les <ref target="#folie1">folies*</ref>.</l>
+            <l n="595" xml:id="l595">En pardonne aysement le crime et les <ref target="#folie1">folies</ref>.</l>
           </sp>
           <sp who="pomone">
             <speaker>Pomone. </speaker>
@@ -1835,16 +1832,16 @@
           </sp>
           <sp who="vertune faune ledieudesjardins pomone flore beroe">
             <speaker>Vertune, Faune, Le Dieu des jardins, Pomone, Flore, Beroé. </speaker>
-            <l n="599" part="I" xml:id="l599">Vivons, vivons amis. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>.</l>
+            <l n="599" part="I" xml:id="l599">Vivons, vivons amis. <hi rend="i"><ref target="#ritournelle">Ritorn</ref></hi>.</l>
           </sp>
           <sp who="flore faune">
             <speaker>Flore, Faune.à 2. </speaker>
             <l part="F">que par toute la terre</l>
-            <l n="600" xml:id="l600">On chasse les <ref target="#ennui">ennuis*</ref>, on bannisse la guerre.</l>
+            <l n="600" xml:id="l600">On chasse les <ref target="#ennui">ennuis</ref>, on bannisse la guerre.</l>
           </sp>
           <sp who="faune beroe pomone vertune ledieudesjardins">
             <speaker>Tous. </speaker>
-            <l n="601" xml:id="l601">Que par toute la terre, etc. <hi rend="i"><ref target="#ritournelle">Ritorn*</ref></hi>. <pb n="52" xml:id="p52"/></l>
+            <l n="601" xml:id="l601">Que par toute la terre, etc. <hi rend="i"><ref target="#ritournelle">Ritorn</ref></hi>. <pb n="52" xml:id="p52"/></l>
           </sp>
           <sp who="pomone">
             <speaker>Pomone. </speaker>
@@ -1860,8 +1857,8 @@
           </sp>
           <sp who="juturne">
             <speaker>Juturne. </speaker>
-            <l n="604" xml:id="l604">Qu’on y cüeille les <ref target="#fleurette">fleurettes*</ref>,</l>
-            <l n="605" xml:id="l605">Et les doux fruits d’<ref target="#amourette">amourettes*</ref><note place="bottom">On notera qu’« amourette » est au pluriel, pour rimer avec « fleurettes ». Sans doute Perrin aurait pu écrire : « Qu’on y cueille la fleurette ». Peut-être pouvons-nous en déduire que le « s » caduque offre une <hi rend="i">sonorité</hi> sensuelle qui relie le mot au sens. </note>.</l>
+            <l n="604" xml:id="l604">Qu’on y cüeille les <ref target="#fleurette">fleurettes</ref>,</l>
+            <l n="605" xml:id="l605">Et les doux fruits d’<ref target="#amourette">amourettes</ref><note place="bottom">On notera qu’« amourette » est au pluriel, pour rimer avec « fleurettes ». Sans doute Perrin aurait pu écrire : « Qu’on y cueille la fleurette ». Peut-être pouvons-nous en déduire que le « s » caduque offre une <hi rend="i">sonorité</hi> sensuelle qui relie le mot au sens. </note>.</l>
           </sp>
           <sp who="flore">
             <speaker>Flore.</speaker>
@@ -1886,15 +1883,15 @@
           </sp>
           <sp who="flore">
             <speaker>Flore. </speaker>
-            <l part="F">les <ref target="#parterre2">parterres*</ref>.</l>
+            <l part="F">les <ref target="#parterre2">parterres</ref>.</l>
           </sp>
           <sp who="faune beroe pomone vertune ledieudesjardins">
             <speaker>Tous. Instrumens et Voix. </speaker>
             <l n="610" xml:id="l610">Dans les jardins, dans les maisons,</l>
-            <l n="611" xml:id="l611">Les champs, les vergers, les <ref target="#parterre2">parterres*</ref>.</l>
+            <l n="611" xml:id="l611">Les champs, les vergers, les <ref target="#parterre2">parterres</ref>.</l>
             <stage>Les six petites nües se retirent, et la grande vole du fond du Theatre sur le ceintre.</stage>
           </sp>
-          <label>Fin.<pb n="O,53"/></label>
+          <trailer>Fin.<pb n="O,53"/></trailer>
         </div>
       </div>
       <div>
@@ -2102,7 +2099,7 @@
           <form>Folie</form>
           <def xml:id="folie1">Dérèglement de la raison causé par « quelque humeur froide ou pituiteuse, qui l’acable. »</def>
           <xr>(<ref target="#l595">595</ref>)</xr>
-          <def xml:id="folie2">« †* Chose plaisante, choses jolies et agreables qu’on dit. (Ecrire des folies à quelqu’un.) » (R.)</def>
+          <def xml:id="folie2">« † Chose plaisante, choses jolies et agreables qu’on dit. (Ecrire des folies à quelqu’un.) » (R.)</def>
           <xr>(<ref target="#l117">117</ref>)</xr>
         </entryFree>
         <entryFree xml:id="foudre">

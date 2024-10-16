@@ -1,0 +1,2105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Le Jaloux endormy, Comédie</title>
+        <author key="Boursault, Edme (1638-1701)">Edme Boursault</author>
+        <principal>Georges Forestier</principal>
+        <editor>Charlotte Dias</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>Édition critique établie par Charlotte Dias dans le cadre d'un mémoire de master 1
+          sous la direction de Georges Forestier (2014-2015)</edition>
+        <respStmt>
+          <name>Amélie Canu</name>
+          <resp>Édition XML/TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>CELLF 16-18 (CNRS &amp; université Paris-Sorbonne)</publisher>
+        <date when="2014"/>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+        <idno>http://bibdramatique.huma-num.fr/boursault_trois-comedies/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/boursault_trois-comedies.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/boursault_trois-comedies.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/boursault_trois-comedies.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/boursault_trois-comedies.epub</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><title>Le Jaloux endormy, Comédie</title>. Representée sur le Theatre Royal du Marais. <author>Par
+          le Sieur BOURSAULT, Secretaire de Madame la Duchesse d'Angoulesme.</author> A PARIS, Chez
+          ESTIENNE LOYSON, au Palais, à l'entrée de la Gallerie des Prisonnieers, au Nom de Jésus.
+          M. DC. LXII.<hi rend="i">Avec Privilege du Roy.</hi></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1662"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term subtype="comedy" type="genre">Comédie</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Le Jaloux endormy</titlePart>
+          <titlePart type="sub">Comédie</titlePart>
+        </docTitle>
+        <docImprint>Representée sur le Theatre Royal du Marais.</docImprint>
+        <docAuthor rend="i">Par le Sieur BOURSAULT, Secretaire de<lb/>Madame la Duchesse
+          d’Angoulesme.</docAuthor>
+        <docImprint>A PARIS<lb/>Chez ESTIENNE LOYSON, au Palais<lb/>à l’entrée de la Gallerie des
+          Prisonniers,<lb/>au Nom de Jésus.<lb/>M.DC.LXII<lb/><hi rend="i">Avec Privilege du Roy</hi>
+          .</docImprint>
+        <docEdition>Édition critique établie par Charlotte Dias dans le cadre d'un mémoire de master
+          1 sous la direction de Georges Forestier (2014-2015)</docEdition>
+      </titlePage>
+      <div xml:id="dedicace">
+        <head>A MONSEIGNEUR LE COMTE DE SAUX<note place="bottom">« Jacques de Saulx, comte de
+          Tavannes, lieutenant général des armées du roi, bailli de Dijon, un des braves hommes de
+          son temps, et un des plus expérimentés, mourut le 22 décembre 1683, âgé de 63 ans. On
+          imprima en 1691, à Cologne ses memoires, contenant les guerres de Paris, depuis la prison
+          des princes, en 1650, jusqu’en 1653. » (Moreri, <hi rend="i">Le Grand Dictionnaire
+          historique, ou Le mélange curieux de l’histoire sacrée et profane…</hi>)</note>. </head>
+        <pb n="I" xml:id="pI"/>
+        <p>MONSEIGNEUR,</p>
+        <p>Il y a si long-temps que j’ay une forte passion<note place="bottom">« Se dit aussi de
+          tout desir violent, ou inclination qui nous donne de l’affection pour quelque chose. Cet
+          homme a une furieuse <hi rend="i">passion</hi>. Je suis avec <hi rend="i">passion</hi>
+          vôtre serviteur » (Furetière).</note> de vous rendre l’hommage que vostre Merite exige de
+          tous ceux qui ont l’honneur, ou de vous voir, ou de avoir veu, <pb n="II" xml:id="pII"/>
+          que je ne puis attendre que l’expérience m’ait rendu capable de vous offrir quelque chose
+          de proportionné à une des plus illustres Naissances de l’Univers, et aux qualitez les plus
+          sublimes qui se puissent rencontrer dans ce qu’il y a de plus achevé sur la Terre. Ne
+          jugez pas, MONSEIGNEUR, de la grandeur de mon Zele par la mediocrité de mon Présent ; Vous
+          n’avez pas besoin d’un Ouvrage pompeux pour immortaliser votre Nom, et j’ai besoin d’un
+          Nom fameux pour éterniser mon Ouvrage. Mais, MONSEIGNEUR, <ref target="#quand">quand</ref>
+          je n’aurais pas ces considerations : <pb n="III" xml:id="pIII"/><ref target="#quand">
+          quand</ref>, dis-je, ma Plume auroit autant de délicatesse que vostre Esprit : Et <ref target="#quand">quand</ref> mes Œuvres seroient assez considerables pour égaler vostre
+          Generosité, tous ces avantages n’auroient pas assez de force pour authoriser ma temerité,
+          et je n’aurois pas plus de droict pour justifier la liberté que j’ose prendre, puis que
+          vous seriez tousjours au dessus de tout ce que je pourrois vous presenter. Aussi,
+          MONSEIGNEUR, loin de me reprocher la moindre foiblesse dans l’élection que j’ai faite d’un
+          Protecteur pour un Poëme<note place="bottom">« Toute sorte d’ouvrage en vers. » (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1694).</note> qui n’est
+          recommandable que parce qu’il vous est offert ; On <pb n="IV" xml:id="pIV"/>remarque tant
+          d’inégalité entre ce que vous estes, et ce que je vous consacre, que pour me rendre
+          justice, on ne peut condamner ma hardiesse, sans estre obligé d’approuver mon industrie,
+          puis que je ne me prevaux que de la gloire de mon choix, et non pas de la beauté de mon
+          offrande. Quel bon-heur pour moy, MONSEIGNEUR, de pouvoir apprendre à la Posterité, que le
+          mesme Heros qui vient si fraischement de recevoir le Prix de son Courage de la Main La
+          plus Auguste du Monde, n’a pas dedaigné un sacrifice de la mienne ! Si ce que je vous
+          dédie égaloit ce que vous avez, si glorieusement <pb n="V" xml:id="pV"/>emporté, je
+          n’attendrois pas que vous le disputassiez à la plus celebre de toutes les Cours ; Je vous
+          l’immolerois avec d’autant plus d’ardeur, que je croirois vous donner de plus esclatantes
+          marques des profonds respects que je veux avoir pour vous, et du desir inviolable que j’ai
+          d’estre eternellement,</p>
+        <p>MONSEIGNEUR,</p>
+        <p rend="center">DE VOSTRE GRANDEUR,</p>
+        <p rend="right">Tres-humble, tres-obeissant,</p>
+        <p rend="right">et tres-passionné Serviteur<note place="bottom">Nous pouvons noter que dans
+          la tradition des signatures, la suite des trois adjectifs est habituellement précédée du
+          déterminant « le » ou du possessif « votre ».</note>,</p>
+        <p rend="right">BOURSAULT.</p>
+      </div>
+      <div xml:id="privilege">
+        <head>Extraict du Privilege du Roy. </head>
+        <pb n="VI" xml:id="pVI"/>
+        <p>Par grace et Privilege du Roy donne à Paris le unziesme jour de May 1662. Signé par le
+          Roy en son Conseil, DUMOLEY ; Il est permis à Jean Guignard fils, Marchand Libraire à
+          Paris, d’imprimer ou faire imprimer une Piece de Theatre, intitulée <hi rend="i">Le Jaloux
+          Endormi, par le Sieur Boursault</hi> et ce durant le temps de cinq années à compter du
+          jour qu’elle sera achevée d’imprimer pour la premiere fois. Et deffenses sont faites à
+          tous Imprimeurs, Libraires, et autres, de l’imprimer, ou faire imprimer, vendre, debiter
+          ny contrefaire ledit Livre sans le consentement dudit Jean Guignard fils, à peine aux
+          contrevenants de trois mil livres d’amende, confiscation des exemplaires, et de tout <pb n="VII" xml:id="pVII"/> despens, dommages et interests, ainsi qu’il est plus amplement
+          porté parle dit Privilege.</p>
+        <p>Et ledit Jean Guignard a associé au present privilege Nicolas Pepingué et Estienne Loison
+          Marchands Libraires à paris, pour en jouir, signant l’accord fait entr’eux.</p>
+        <p>Achevé d’imprimer pour la premiere fois</p>
+        <p>le treize Juin 1662.</p>
+        <p>Les exemplaires ont esté fournis.</p>
+      </div>
+      <div xml:id="acteurs">
+        <head>PERSONNAGES</head>
+        <pb n="VIII" xml:id="pVIII"/>
+        <castList>
+          <castItem>
+            <role xml:id="spadarille" rend="male senior">SPADARILLE,</role>
+            <roleDesc><ref target="#gouverneur">Gouverneur</ref> de Toulon, mari d’Olimpie, qui en
+              est si jaloux qu’il l’enferme à six cadenats.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="cleandre" rend="male junior">CLEANDRE,</role>
+            <roleDesc><ref target="#amoureux">Amoureux</ref> d’Olimpie, à qui Alcidor l’osta pour
+              la donner en mariage à Sparadille.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="olimpie" rend="female junior">OLIMPIE,</role>
+            <roleDesc>femme de Spadarille, et fille d’Alcidor, autrefois promise à Cléandre.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="alcidor" rend="male senior">ALCIDOR,</role>
+            <roleDesc>Père d’Olimpie.</roleDesc>
+          </castItem>
+          <castItem>
+            <role xml:id="cascaret" rend="male inferior">CASCARET,</role>
+            <roleDesc>Valet de Cléandre.</roleDesc>
+          </castItem>
+        </castList>
+        <set>La scène est à Toulon.</set>
+      </div>
+    </front>
+    <body>
+      <div type="scene">
+        <head>SCENE PREMIERE</head>
+        <stage>SPADARILLE, OLIMPIE</stage>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="1" xml:id="l1">Je vous l’avois bien dit pour calmer vostre effroy,<pb n="p. 1 ; A" xml:id="p1"/></l>
+          <l n="2" xml:id="l2">Que vous seriez tousjours à vostre aise avec moy.</l>
+          <l n="3" xml:id="l3">Et qu’assez de tresors vous auriez en partage,</l>
+          <l n="4" xml:id="l4">Si de me posseder vous aviez l’avantage ;</l>
+          <l n="5" xml:id="l5">Mentois-je ? Et le repos vous est-il asseuré,</l>
+          <l n="6" xml:id="l6">Ayant eu le bon-heur de m’avoir rencontré !</l>
+          <l n="7" xml:id="l7">De semblables profits auriez-vous à pretendre,</l>
+          <l n="8" xml:id="l8">Si l’on vous eut laissée au pouvoir de Cleandre,</l>
+          <l n="9" xml:id="l9">Et si, par un destin à vos vœux pas trop doux,</l>
+          <l n="10" xml:id="l10">J’eusse jeté les yeux sur une autre que vous ?</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="11" xml:id="l11">Quand je songe au mal-heur où je suis condamnée,<pb n="2" xml:id="p2"/></l>
+          <l n="12" xml:id="l12">J’ay regret d’estre à vous par les nœuds d’Hymenée,</l>
+          <l n="13" xml:id="l13">Et j’éprouve du sort les plus sensibles coups,</l>
+          <l n="14" xml:id="l14">Puis qu’il m’a fait tomber dans les mains d’un jaloux,</l>
+          <l n="15" xml:id="l15">Qu’est-ce que de ma part vostre cœur apprehende ?</l>
+          <l n="16" xml:id="l16" part="I">Mon honneur m’est trop cher pour vouloir…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Ah friande<note place="bottom">« (Injure vague). Coquin, vaurien. » (Huguet).</note>
+             !</l>
+          <l n="17" xml:id="l17">Que si je m’empeschois de vous estre cruel<note place="bottom">Diérèse.
+            Ce mot compte pour deux syllabes. Nous retrouvons le même cas de figure aux vers : v.
+            18, v. 239, v. 522, v.539.</note>,</l>
+          <l n="18" xml:id="l18">L’honneur dont vous parlez deviendroit casuel<note place="bottom">« Ce
+            qui arrive fortuitement sans avoir rien d’assuré » (Furetière).</note>;</l>
+          <l n="19" xml:id="l19">Et que sachant les tours dont les femmes sont dignes,</l>
+          <l n="20" xml:id="l20">On nous<note place="bottom">Passage à la deuxième personne du
+            pluriel qui met en valeur la portée générale du propos de Spadarille. Nous retrouvons ce
+            phénomène aux vers : v. 41, v. 42.</note> prendroit bien-tost dans le Ciel pour des
+            Signes<note place="bottom">Fait allusion aux signes du Zodiaque qui constituent les
+            constellations du ciel.</note>,</l>
+          <l n="21" xml:id="l21">Puisque de vos plaisirs un bon Frere garny<note place="bottom">
+            Comprendre <hi rend="i">garny</hi> dans le sens d’« enrichi ». Spadarille fait allusion
+            à un homme qui pourrait prendre sa place dans la couche de sa femme et profiter de ses
+            appas.</note></l>
+          <l n="22" xml:id="l22">Produiroit Capricorne, et feroit Gemini<note place="bottom"><hi rend="i">Produiroit Capricorne</hi>, le Capricorne se caractérisant par ses longues
+            cornes, nous pouvons supposer que l’expression signifie « produirait des cocus ». <hi rend="i">Feroit Gemini</hi>, les Gémeaux sont des jumeaux identiques, nous pouvons
+            donc supposer que Spadarille fait allusion au fait qu’un homme se faisant passer pour
+            lui profiterait de sa couche.</note> !</l>
+          <l n="23" xml:id="l23">Sachez que de tout temps j’appréhende le blasme,</l>
+          <l n="24" xml:id="l24">Qu’au gré de mon désir je gouverne ma femme,</l>
+          <l n="25" xml:id="l25">Que sans en <ref target="#murmurer">murmurer</ref> il faut suivre
+            ma loy,</l>
+          <l n="26" xml:id="l26">Et que quand je vous pris ce ne fut que pour moy.</l>
+          <l n="27" xml:id="l27">Que si vostre Mary dans ce lieu vous enferme,</l>
+          <l n="28" xml:id="l28">C’est qu’il croit votre honneur n’estre pas assez ferme,</l>
+          <l n="29" xml:id="l29">Et que ne pas <ref target="#souffrir">souffrir</ref> qu’on vous
+            puisse approcher,</l>
+          <l n="30" xml:id="l30">C’est oster à vos sens les moyens de pecher.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="31" xml:id="l31">Vous, Monsieur, apprenez qu’un discours incommode,</l>
+          <l n="32" xml:id="l32">D’un crime qu’on ignore enseigne la méthode,</l>
+          <l n="33" xml:id="l33">Et que pour confirmer vos injustes soupçons,</l>
+          <l n="34" xml:id="l34">D’un prétexte inutile on se fait des leçons :</l>
+          <l n="35" xml:id="l35">Pour épargner du trouble à vostre ame allarmée,</l>
+          <l n="36" xml:id="l36">Peut-estre avec raison m’avez-vous enfermée,</l>
+          <l n="37" xml:id="l37">Car de la liberté si j’usois plainement,</l>
+          <l n="38" xml:id="l38">Qui doute de ma foy douteroit justement.</l>
+          <l n="39" xml:id="l39">Voyez-vous qu’en effet d’autres fassent paraitre…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="40" xml:id="l40">Les autres sont des sots et je ne veux pas l’estre ; <pb n="3" xml:id="p3"/></l>
+          <l n="41" xml:id="l41">Nous savons mieux que vous ce que ces autres font,</l>
+          <l n="42" xml:id="l42">Et ne pretendons pas devenir ce qu’ils sont.</l>
+          <l n="43" xml:id="l43">Faut-il point pour vous plaire à l’exemple d’un autre,</l>
+          <l n="44" xml:id="l44"><ref target="#souffrir">Souffrir</ref> en mon absence un Galand
+            qui soit vostre,</l>
+          <l n="45" xml:id="l45">Et qu’apres qu’en honneur cinquante ans j’ai vescu.</l>
+          <l n="46" xml:id="l46">Je sois d’intelligence<note place="bottom">« Se dit aussi en
+            mauvaise part, d’une cabale secrette, d’une collusion de parties qui tend à nuire à
+            autruy. » (Furetière). Comprendre donc que Spadarille ne veut pas être acteur de son
+            propre cocuage ; il ne laisse aucune chance à un quelconque prétendant.</note> à me
+            faire Cocu ?</l>
+          <l n="47" xml:id="l47">Faut-il point, dis-je encor, que moy-mesme je brigue<note place="bottom">« Tascher d’obtenir quelque chose par brigue, par cabale. »
+            (Furetière). Une brigue est « Desir ambitieux qu’on a d’obtenir quelque charge ou
+            dignité, où l’on tasche de parvenir plus par adresse que par merite. » (Furetière).</note>
+             ?</l>
+          <l n="48" xml:id="l48">Que je pousse à la rouë<note place="bottom">« Quand un cheval ne
+            tire qu’à peine, il faut <hi rend="i">pousser</hi> à la rouë. Celuy-cy se dit aussi au
+            figuré, pour dire, aider et secourir quelqu’un, faciliter quelque entreprise »
+            (Furetière).</note>, et conduise l’intrigue ?</l>
+          <l n="49" xml:id="l49">Et sur vos passions<note place="bottom">Diérèse. Ce mot compte pour
+            trois syllabes. Nous retrouvons le même cas de figure aux vers : v. 202, v. 334, v. 487.</note>
+            conformant mes desirs,</l>
+          <l n="50" xml:id="l50">Que l’Espoux ait la peine, et l’<ref target="#amant">Amant</ref>
+            les plaisirs ?</l>
+          <l n="51" xml:id="l51">Quand on vient pour vous voir, faut-il point que je sorte ?</l>
+          <l n="52" xml:id="l52">Sur vous, et vos Muguets<note place="bottom">Désigne un homme « Qui
+            affecte d’estre propre, paré, mignon auprés des Dames. » (Dictionnaire de l’Académie,
+            1694).</note> que je ferme la porte ?</l>
+          <l n="53" xml:id="l53">Et que sous mon aveu vous ayiez le moyen</l>
+          <l n="54" xml:id="l54">D’acheter du Brocard<note place="bottom">« Originairement en sa
+            propre signification, est une étoffe de tissüe d’or, tant en chaîne, qu’en trame, ou en
+            argent, ou des deux ensembles. » (Godefroy).</note> d’autre argent que du mien ?</l>
+          <l n="55" xml:id="l55">Voilà ce qu’aujourd’huy tous ces autres observent,</l>
+          <l n="56" xml:id="l56">Ils se font des Amis dont leurs femmes se servent,</l>
+          <l n="57" xml:id="l57">Et ne <ref target="#murmurer">murmurent</ref> pas quand pour faire
+            l’amour<note place="bottom">« C'est aimer d’une passion declarée et connuë à la personne
+            que l’on aime, à laquelle on continuë de la tesmoigner par les assiduitez, &amp; les
+            autres complaisances des amans. » (<hi rend="i">Dictionnaire de l’Académie française</hi>,
+            1694).</note>,</l>
+          <l n="58" xml:id="l58">Elles courent la nuict, et reposent le jour.</l>
+          <l n="59" xml:id="l59">Ah ! qu’il vaudroit bien mieux que du nombre assez ample,</l>
+          <l n="60" xml:id="l60">De ces Martyrisez je devinsse l’exemple !</l>
+          <l n="61" xml:id="l61">Que si l’on enfermoit chaque femme qui court</l>
+          <l n="62" xml:id="l62">Avec six cadenats, elle auroit le nez court<note place="bottom">L’expression
+            le <hi rend="i">nez court</hi> fait référence à une croyance selon laquelle les
+            personnes ayant le nez long ont une libido très développée.</note> !</l>
+          <l n="63" xml:id="l63">Qu’on verroit de Marys marcher teste levée<note place="bottom">« On
+            dit aussi, qu’un homme va la <hi rend="i">teste</hi> levée par tout, quand il ne craint
+            aucun reproche » (Furetière).</note>,</l>
+          <l n="64" xml:id="l64">Si ma regle par eux estoit bien observée !</l>
+          <l n="65" xml:id="l65">Et que de quantité le destin seroit doux,</l>
+          <l n="66" xml:id="l66">Si leur plus grand mal-heur estoit d’estre Jaloux !</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="67" xml:id="l67">Et de tous les mal-heurs en est-il un plus rude</l>
+          <l n="68" xml:id="l68" part="I">Monsieur !</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Il me le semble, ô Madame la prude !<pb n="4" xml:id="p4"/></l>
+          <l n="69" xml:id="l69">Et qui de la sagesse a le moindre rayon,</l>
+          <l n="70" xml:id="l70">Prefere un sort d’Argus<note place="bottom"><hi rend="i">Argus</hi>
+            est « fils d’Aristor, qu’on feint avoir eu cent yeux, dont il a toûjours cinquante
+            d’ouverts quand il fermoit les autres pour dormir. Il fut choisi par Junon, pour garder
+            Io que Jupiter aimoit et qui fut changée en vache. Mercure l’endormit avec le son de sa
+            flutte, et le tua par ordre de Jupiter : Et Junon pour recompenser sa fidelité le
+            metamorphosa en Paon, et plaça ses yeux dans le plumage de cet oiseau » (Moreri).</note>
+            au destin d’Acteon<note place="bottom"><hi rend="i">Actéon</hi> est le fils d’Aristée et
+            d’Autonoé. Soit parce qu’il s’est vanté d’être meilleur chasseur qu’Artémis, soit parce
+            qu’il a surpris la déesse à son bain, celle-ci le changea en cerf ; ses propres chiens
+            le mirent en pièces.</note>.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="71" xml:id="l71">Quiconque peut avoir un rayon de sagesse,</l>
+          <l n="72" xml:id="l72">Dans les maux d’une femme à jamais s’interesse,</l>
+          <l n="73" xml:id="l73">Et loin qu’à l’outrager il puisse estre contraint,</l>
+          <l n="74" xml:id="l74">Il s’en veut faire aymer, et n’en pas estre craint.</l>
+          <l n="75" xml:id="l75">Qui d’avoir des soupçons ne pouvoit se deffendre,</l>
+          <l n="76" xml:id="l76">Devoit m’abandonner à l’amour de Cleandre,</l>
+          <l n="77" xml:id="l77">Et par l’éclat d’un bien dont je ne puis jouïr<note place="bottom">Diérèse.
+            Ce mot compte pour deux syllabes. Nous retrouvons le même cas de figure aux vers v. 78,
+            v. 501, v. 502.</note>,</l>
+          <l n="78" xml:id="l78">N’abuser pas mon Pere, et ne pas l’éblouïr.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="79" xml:id="l79" part="I">Il vous plaisoit beaucoup ce Cleandre ?</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="F"><ref target="#sans-doute">Sans doute</ref>.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="80" xml:id="l80" part="I">Il avoit vostre estime ?</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="F">Encor mesme, il l’a toute.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="81" xml:id="l81" part="I">Vous voudriez, que je crois, estre à luy<note place="bottom">Nous avons ici modifié le vers en ajoutant des virgules pour une
+            meilleure compréhension. Il faut comprendre « que je crois » comme une incise : « vous
+            voudriez, je crois, être à lui ? ».</note> ?</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="F">Pleust aux Dieux,</l>
+          <l n="82" xml:id="l82" part="I">Mon sort…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">On dit bien vray que l’amour n’a point d’yeux<note place="bottom"><space/>Référence
+            au thème de l’amour aveugle très présent au XVII<hi rend="sup">e</hi> siècle.</note> !</l>
+          <l n="83" xml:id="l83">Vous aurez donc regret de vous voir ma conqueste</l>
+          <l n="84" xml:id="l84" part="I">Madame la <ref target="#mignon">Mignonne</ref> ?</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="M">En effet,</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Bonne beste<note place="bottom">« <hi rend="i">C'est une bonne beste, une
+            meschante beste, une fausse beste, etc</hi>. pour dire, Une personne bien fine, &amp;
+            qu’il n’est pas aisé d’attraper » (<hi rend="i">Dictionnaire de l’Académie française</hi>,
+            1694).</note> !</l>
+          <l n="85" xml:id="l85">De vos mauvais desseins c’est assez m’avertir, <pb n="5" xml:id="p5"/></l>
+          <l n="86" xml:id="l86">Vous voudriez estre gueuse, et vous bien divertir.</l>
+          <l n="87" xml:id="l87">Je vois ce qui vous choque, et le ver qui vous pique,</l>
+          <l n="88" xml:id="l88">Il vous faut un Mary de nouvelle fabrique,</l>
+          <l n="89" xml:id="l89">Qui redoute une femme, et de crainte du choc,</l>
+          <l n="90" xml:id="l90">Laisse chanter la Poule, et plus haut que le Cocq.</l>
+          <l n="91" xml:id="l91">Il vous faut un Mary qui crût faire un grand crime,</l>
+          <l n="92" xml:id="l92">S’il ne donnoit dequoy pour joüer à la <ref target="#prime">Prime</ref>
+            ,</l>
+          <l n="93" xml:id="l93">Et qui ne laisse pas de paraistre gaillard,</l>
+          <l n="94" xml:id="l94">Si l’on quitte la <ref target="#prime">Prime</ref>, et qu’on joüe
+            au Billard.</l>
+          <l n="95" xml:id="l95">Il vous faut un Mary qui confonde sa rente<note place="bottom">
+            Comprendre <hi rend="i">un Mary qui se ruine</hi>.</note>,</l>
+          <l n="96" xml:id="l96">Qui soit brave quatre ans, et gredin plus de trente,</l>
+          <l n="97" xml:id="l97">Et sur qui l’on saisisse au profit des Marchands,</l>
+          <l n="98" xml:id="l98">Et maisons de la ville, et revenus des champs.</l>
+          <l n="99" xml:id="l99">Oüy, je vous charmerois, ô Coureuse<note place="bottom">« Une femme
+            qui vit dans une infame prostitution, qui se donne à tout venant. » (Furetière).</note>
+            recluse,</l>
+          <l n="100" xml:id="l100">Si vos debordements ne trouvoient une écluse,</l>
+          <l n="101" xml:id="l101">Et du moins dans mes biens vous verriez des appas,</l>
+          <l n="102" xml:id="l102">Sans les doubles ressorts de mes six cadenats ;</l>
+          <l n="103" xml:id="l103">Mais quoy que contre moy vostre cœur se propose,</l>
+          <l n="104" xml:id="l104">Sachez qu’avant la nuict j’en veux croistre la dose,</l>
+          <l n="105" xml:id="l105">Et d’eussiez-vous cent fois vous en mettre en courroux,</l>
+          <l n="106" xml:id="l106">A vos six cadenats joindre autant de verroux,</l>
+          <l n="107" xml:id="l107">Rentrez ; car aussi bien je vois un Gentillastre<note place="bottom">« Petit Gentilhomme de Noblesse douteuse, qu’on mesprise, et qui n’a ni
+            bien ni mérite » (Furetière).</note>,</l>
+          <l n="108" xml:id="l108">De vos yeux bien fendus<note place="bottom">« On dit, d’Un homme
+            qui a les yeux grands &amp; un peu longs, qu’<hi rend="i">Il a les yeux bien fendus</hi> »
+            (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1694).</note> il seroit
+            idolastre,</l>
+          <l n="109" xml:id="l109" part="I">Rentrez donc.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="M">Mais…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Rentrez, sans vous embarrasser.</l>
+          <l n="110" xml:id="l110">Diable ! que j’ay bien fait de la cadenasser.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE II</head>
+        <stage>CLEANDRE, SPADARILLE, CASCARET</stage>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l n="111" xml:id="l111">Monsieur, vous savez bien qu’on me nomme Cleandre ?<pb n="6" xml:id="p6"/></l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="112" xml:id="l112" part="I">Oüy.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Vous ne savez pas ce que j’ose pretendre ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="113" xml:id="l113" part="I">Non.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Mais il vous souvient que je fus <ref target="#amoureux">Amoureux</ref> ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="114" xml:id="l114" part="I">Oüy.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Que je ne fus pas un <ref target="#amant">Amant</ref> fort heureux ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="115" xml:id="l115" part="I">Non.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Que votre merite emporta la balance ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="116" xml:id="l116" part="I">Oüy.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Qu’enfin mon ardeur n’eut point de recompense ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="117" xml:id="l117" part="I">Non.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Ainsi donc, Monsieur, ne trouvez pas mauvais<pb n="7" xml:id="p7"/></l>
+          <l n="118" xml:id="l118" part="I">Si je viens…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Vous, Monsieur, trouvez bon si je vais…</l>
+          <l n="119" xml:id="l119">Un si grand preambule est suspect à mon Ame,</l>
+          <l n="120" xml:id="l120" part="I">Parlez bref.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="M">Mais Monsieur…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Mais Monsieur, mais Madame,</l>
+          <l n="121" xml:id="l121">J’ai des soins à donner autre part que vers vous,</l>
+          <l n="122" xml:id="l122">Avec mes cadenats j’ay besoin de verroux,</l>
+          <l n="123" xml:id="l123">Près de mon Serrurier il est temps de me rendre ;</l>
+          <l n="124" xml:id="l124">Pour pouvoir me parler il ne faut que m’attendre,</l>
+          <l n="125" xml:id="l125">Si je trouve mon fait, je reviens sur mes pas,</l>
+          <l n="126" xml:id="l126">Si je ne trouve rien, je ne reviendray pas.</l>
+          <l n="127" xml:id="l127" part="I">Bon jour<note place="bottom">« On dit absolument, <hi rend="i">Bon jour</hi>, pour dire, Dieu vous gard. » (Furetière).</note>.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE III</head>
+        <stage>CLEANDRE, CASCARET</stage>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">De ce qu’il fait j’aurois tort de me plaindre,</l>
+          <l n="128" xml:id="l128">Avec moins de foiblesse il seroit plus à craindre,</l>
+          <l n="129" xml:id="l129">Si de quelque lumiere il estoit éclairé,</l>
+          <l n="130" xml:id="l130">En vain à le tromper je serois preparé.</l>
+          <l n="131" xml:id="l131">Je veux à Spadarille arracher Olimpie,</l>
+          <l n="132" xml:id="l132">Mais je sais que son ame est sans cesse assoupie,<pb n="8" xml:id="p8"/></l>
+          <l n="133" xml:id="l133">Et quand secretement j’ose agir contre luy,</l>
+          <l n="134" xml:id="l134">De sa brutalité je me fais un appuy.</l>
+        </sp>
+        <sp who="cascaret">
+          <speaker>CASCARET</speaker>
+          <l n="135" xml:id="l135">Mais comme Spadarille est sujet à l’ombrage<note place="bottom">
+            Comprendre <hi rend="i">soupçon</hi>.</note></l>
+          <l n="136" xml:id="l136">Quoy que des cadenats il observe l’usage,</l>
+          <l n="137" xml:id="l137">Si pour vostre mal-heur il avient que ce fou,</l>
+          <l n="138" xml:id="l138">De sa femme Olimpie aperçoive le trou ?</l>
+          <l n="139" xml:id="l139">Si d’un sensible affront se sentant l’ame outrée,</l>
+          <l n="140" xml:id="l140">De ce trou favorable il occupe l’entrée,</l>
+          <l n="141" xml:id="l141">Et que de son pouvoir se servant à propos,</l>
+          <l n="142" xml:id="l142">De coups drus comme gresle il nous brise les os ?</l>
+          <l n="143" xml:id="l143" part="I">Plaist-il ?<note place="bottom">Comprendre « Vous
+            plaist-il ? ».</note></l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Non, Spadarille a la teste trop seiche<note place="bottom">« On dit, qu’<hi rend="i">Un homme a la teste seche</hi>, que <hi rend="i">C'est une teste seche</hi>,
+            pour dire, que C'est un homme qui s’emporte aisement, qui se met facilement en colere. »
+            (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1694).</note>,</l>
+          <l n="144" xml:id="l144">Je n’apprehende pas qu’il découvre ma bresche,</l>
+          <l n="145" xml:id="l145">Si pour voir Olimpie en un coin fort obscur,</l>
+          <l n="146" xml:id="l146">On a fait de ma chambre une entrée à son mur,</l>
+          <l n="147" xml:id="l147">Tu sais qu’un lict superbe à ma flâme propice,</l>
+          <l n="148" xml:id="l148">Pour me favoriser cache mon artifice.</l>
+          <l n="149" xml:id="l149">D’ailleurs nostre vaisseau sur la fin de ce jour,</l>
+          <l n="150" xml:id="l150">Doit partir pour Marseille et quitter ce sejour,</l>
+          <l n="151" xml:id="l151">Cet anneau d’Olimpie est la marque secrette,</l>
+          <l n="152" xml:id="l152">Qui doit malgré l’Argus<note place="bottom">Cf. note du vers 70.</note>
+            asseurer sa retraite,</l>
+          <l n="153" xml:id="l153">Et que pour accomplir d’équitables desseins,</l>
+          <l n="154" xml:id="l154">Par l’avis de son Pere elle a mis dans mes mains.</l>
+          <l n="155" xml:id="l155">Ainsi de mon Rival le deffaut effroyable…</l>
+        </sp>
+        <sp who="cascaret">
+          <speaker>CASCARET</speaker>
+          <l n="156" xml:id="l156">Je say que Spadarille est puant comme un Diable,</l>
+          <l n="157" xml:id="l157">Et que de son halaine il infecte tous ceux</l>
+          <l n="158" xml:id="l158">Qui de parler à luy sont assez mal-heureux ;</l>
+          <l n="159" xml:id="l159">Mais il est <ref target="#gouverneur">Gouverneur</ref>, et c’est
+            dont je frissonne<note place="bottom">Il s’agit d’une anaphore non coréférentielle. Cet
+            usage est courant au XVII<hi rend="sup">e</hi> siècle même si de nombreuses critiques
+            sont formulées par Malherbe ou Vaugelas comme le fait remarquer Nathalie Fournier dans
+            sa <hi rend="i">Grammaire du français classique</hi>. Elle décrit le phénomène ainsi :
+            « le nom en emploi intensionnel (non référentiel) se voit doté d’une extension dans
+            l’anaphore par le relatif ou le personnel » (p. 186).</note>,</l>
+          <l n="160" xml:id="l160" part="I">Car son train…</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">A sa suite il n’a nulle personne,</l>
+          <l n="161" xml:id="l161">De peur que de sa femme on pût voir les attraits, <pb n="9" xml:id="p9"/></l>
+          <l n="162" xml:id="l162">Ce Jaloux hypocondre a chassé ses valets :</l>
+          <l n="163" xml:id="l163">Son Ame scrupuleuse, et tousjours deffiante<note place="bottom">Diérèse.
+            Ce mot compte pour trois syllabes. Nous retrouvons le même cas de figure au vers v. 275.</note></l>
+          <l n="164" xml:id="l164">Ne peut près d’Olimpie endurer de servante,</l>
+          <l n="165" xml:id="l165">Dans la crainte qu’il a que l’on eut supposé,</l>
+          <l n="166" xml:id="l166">Sous l’habit d’une fille un garçon déguisé.</l>
+          <l n="167" xml:id="l167">Si bien…mais il écoute, évitons ses reproches…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE IV</head>
+        <stage>SPADARILLE, CLEANDRE, CASCARET</stage>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>avec trois verroux en chaque main</stage>
+          <l n="168" xml:id="l168">Voicy pour des Polis<note place="bottom">Adjectif substantivé
+            désignant un homme « doux, civil, honneste, complaisant, qui pratique de bonne grace
+            tout ce qui regarde l’extérieur de la vie civile » (<hi rend="i">Dictionnaire de
+            l’Académie Française</hi>, 1694).</note> empescher les approches ;</l>
+          <l n="169" xml:id="l169">Qu’ils s’y viennent frotter, ces <ref target="#mignon">Mignons</ref>,
+            ces Poudrez<note place="bottom">« Les galans ont soin d’estre toûjours bien <hi rend="i">
+            poudrez</hi> et bien frisez » (Furetière).</note>.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l n="170" xml:id="l170" part="I">Quoy l’on ose ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Oüy l’on ose, et ce sont des Madrez<note place="bottom">« Fin, adroit, qui
+            trompe facilement, et qui ne se laisse point tromper. » (Furetière).</note>,</l>
+          <l n="171" xml:id="l171">Qui voudroient sur ma terre usurper droit de chasse<note place="bottom">Début d’une métaphore filée sur la chasse. Spadarille considère sa
+            femme comme sa possession, comme un trophée de chasse qu’il a volé aux yeux de Cléandre.</note>
+            ,</l>
+          <l n="172" xml:id="l172">Vous qui d’un Chien couchant<note place="bottom">« <hi rend="i">Les
+            chiens couchants</hi> sont <hi rend="i">chiens</hi> de l’arquebuse [arme à feu], qui
+            chassent de nez haut, et arrestent tout. Les meilleurs viennent d’Espagne. Ils servent à
+            faire lever les perdrix et les cailles, et ces <hi rend="i">chiens</hi> sont au poil et
+            à la plume. » (Furetière).</note> affectez la grimace<note place="bottom"><hi rend="i">
+            Affecter</hi> signifie feindre, contrefaire. Spadarille reproche à Cléandre d’imiter la
+            mine d’un <hi rend="i">chien couchant</hi>.</note>,</l>
+          <l n="173" xml:id="l173">Estes-vous point aussi quelque <ref target="#amant">Amant</ref>
+            aux yeux doux,</l>
+          <l n="174" xml:id="l174">Qui pour plaire à l’Espouse entretienne l’Espoux ?</l>
+          <l n="175" xml:id="l175" part="I">Et lors…</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Ne craignez rien de la part d’Olimpie,</l>
+          <l n="176" xml:id="l176">Tous mes voeux sont bornez à chérir sa copie.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="177" xml:id="l177" part="I">Sa copie ? <pb n="10" xml:id="p10"/></l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="M">Oüy, Monsieur.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Bon, il semble à ce fat<note place="bottom">« Sot, sans Esprit, qui ne dit que
+            des fadaises. » (Furetière).</note>,</l>
+          <l n="178" xml:id="l178">Qu’on copie une femme aussi bien qu’un contrat.</l>
+          <l n="179" xml:id="l179" part="I">Et vous vous en allez ?</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Avec une <ref target="#patente">Patente</ref></l>
+          <l n="180" xml:id="l180" part="I">Je suis prest…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Je vous puis rendre l’ame contente.</l>
+          <l n="181" xml:id="l181">Mais dans ce petit doigt vous avez un anneau</l>
+          <l n="182" xml:id="l182">Qui vous sied assez bien, et me semble fort beau ;</l>
+          <l n="183" xml:id="l183" part="I">Que je voye.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE </speaker><stage>bas</stage>
+          <l part="M">O mal-heur ! c’est…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Vous estes estrange,</l>
+          <l n="184" xml:id="l184">Pour le voir un moment croyez-vous qu’on le mange ?</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l n="185" xml:id="l185" part="I">Non, Monsieur, mais…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Quoy mais ? A-t-il peur de mes yeux ?</l>
+          <stage>Appercevant que c’est l’Anneau d’Olimpie.</stage>
+          <l n="186" xml:id="l186">Où Diable avez-vous pris ce bijou précieux<note place="bottom">Diérèse.
+            Ce mot compte pour trois syllabes. Nous retrouvons le même cas de figure aux vers : v.
+            382, v. 429, v. 454, v.487.</note> ?</l>
+        </sp>
+        <sp who="cascaret">
+          <speaker>CASCARET </speaker><stage>bas à Cleandre</stage>
+          <l n="187" xml:id="l187">Respondez hardiment, et mentez comme un Diable<note place="bottom">Le Diable est fort connu dans les récits pour ses talents de menteur.</note>
+            .</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l n="188" xml:id="l188" part="I">Je l’ay pris…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Parlez viste, ô l’<ref target="#amant">Amant</ref> trop aimable,</l>
+          <l n="189" xml:id="l189" part="I">Où donc l’avez-vous pris ?</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Où prend-on les bijoux ?<pb n="11" xml:id="p11"/></l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="190" xml:id="l190">Et j’ay tort, mon Cadet, de paraistre Jaloux,</l>
+          <l n="191" xml:id="l191" part="I">Est-ce pas ?</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Je ne say s’il se peut qu’Olimpie…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="192" xml:id="l192">Et moy je say fort bien qu’Olimpie est impie,</l>
+          <l n="193" xml:id="l193">Et sans les cadenats à sa porte attachez,</l>
+          <l n="194" xml:id="l194">Qu’elle feroit souvent d’agreables pechez.</l>
+          <l n="195" xml:id="l195">Quelque doux traitement qu’à ce sexe on prepare,</l>
+          <l n="196" xml:id="l196">Une femme fidelle en ce temps est bien rare,</l>
+          <l n="197" xml:id="l197">Et qui peut s’en servir doit s’attendre à ce coup,</l>
+          <l n="198" xml:id="l198">D’acquerir peu d’honneur, et d’en perdre beaucoup !</l>
+          <l n="199" xml:id="l199">N’esperez, cependant, passe-port ny <ref target="#patente">
+            Patente</ref>,</l>
+          <l n="200" xml:id="l200">Ou soyez resolu de remplir mon attente ;</l>
+          <l n="201" xml:id="l201">Et d’un Original que je dois soupçonner,</l>
+          <l n="202" xml:id="l202">Donnez-moy la Copie à collationner<note place="bottom">« Conferer
+            un escrit avec son original, ou deux escrits qui contiennent une mesme chose ensemble,
+            afin de justifier s’il y a quelque chose de plus ou de moins à l’un qu’à l’autre. <hi rend="i">Collationner sur l’original, sur les registres. il a collationné cet acte,
+            ces pieces</hi>. » (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1694)</note>
+            ,</l>
+          <l n="203" xml:id="l203" part="I">Sinon…</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="M">Quoy vous voulez…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Oüy, je le veux, vous dis-je.</l>
+        </sp>
+        <sp who="cascaret">
+          <speaker>CASCARET </speaker><stage>bas à Cleandre</stage>
+          <l n="204" xml:id="l204">Par ce commandement ce Jaloux vous <ref target="#obliger">oblige</ref>
+            ,</l>
+          <l n="205" xml:id="l205">Avant qu’il ait ouvert cinq ou six cadenats,</l>
+          <l n="206" xml:id="l206" part="I">L’anneau…</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">C’est ma pensée, et j’y vais de ce pas.</l>
+          <l n="207" xml:id="l207">Puis qu’il vous plaist, Monsieur, d’admirer ma <ref target="#maitresse">Maistresse</ref>,</l>
+          <l n="208" xml:id="l208" part="I">J’obéïs.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE V</head>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>seul, ouvrant la porte de la chambre d’Olimpie</stage>
+          <l part="F">Je vous tiens, ô la double Traistresse,<pb n="12" xml:id="p12"/></l>
+          <l n="209" xml:id="l209">Qui dans l’aspre dessein d’acquerir du renom,</l>
+          <l n="210" xml:id="l210">Avez l’air d’une Sainte, et l’esprit d’un Démon.</l>
+          <l n="211" xml:id="l211">J’apperçois tous les tours que vostre esprit enfante.</l>
+          <l n="212" xml:id="l212">Vous donnez librement des faveurs par la fente ;</l>
+          <l n="213" xml:id="l213">Mais malgré vos desseins contre moy conjurez,</l>
+          <l n="214" xml:id="l214">Les aiz<note place="bottom">« Piece de bois de siage longue, et
+            peu espaisse, <hi rend="i">Ais</hi> de sapin, <hi rend="i">ais</hi> de bateau, on fait
+            des planchers, des cloisons avec des <hi rend="i">ais</hi>. » (Furetière).</note> de
+            vostre porte en seront resserrez.</l>
+          <l n="215" xml:id="l215" part="I">Voyons un peu sa mine.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE VI</head>
+        <stage>SPADARILLE, OLIMPIE</stage>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Approchez, la Matoise<note place="bottom">« Rusé, difficile à étre trompé,
+            adroit à tromper les autres. » (Furetière).</note>,</l>
+          <l n="216" xml:id="l216">Dont la vertu s’altere, et l’honneur s’apprivoise,</l>
+          <l n="217" xml:id="l217" part="I">Approchez.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="M">De ma part, désirez-vous…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Moy ? Rien ;</l>
+          <l n="218" xml:id="l218">Je viens voir seulement si vous vous portez bien. <pb n="p. 13 ; B" xml:id="p13"/></l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="219" xml:id="l219">Quoy, se peut-il, Monsieur, que mon mal-heur vous touche ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="220" xml:id="l220">Vous n’en savez donc rien, ô la sainte Nitouche<note place="bottom">« On dit aussi d’un hypocrite, qu’il fait bien la <hi rend="i">Sainte</hi>
+            Nitouche, que c’est une petit <hi rend="i">Saint</hi> de bois » (Furetière).</note> !</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="221" xml:id="l221">Non, daignez m’expliquer vos bizarres desseins.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="222" xml:id="l222">Je viens de voir Cleandre, il vous baise les mains.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="223" xml:id="l223" part="I">Quoy Cléandre est icy ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Point du tout, je me moque,</l>
+          <l n="224" xml:id="l224">Je l’ay pris pour un autre, et c’est une equivoque.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="225" xml:id="l225" part="I">Pourquoy donc voulez-vous…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Belzebut incarné,</l>
+          <l n="226" xml:id="l226">Demon acariastre à me nuire obstiné,</l>
+          <l n="227" xml:id="l227">C’est à tort à présent que ton<note place="bottom">Référence à un
+            emploi de la deuxième personne du singulier qui marque le changement dans l’attitude de
+            Spadarille à l’encontre d’Olympie. Il employait jusqu’à présent la deuxième personne du
+            pluriel, marque de son respect pour sa femme ; ceci illustre son emportement qui lui est
+            reproché par Olympie à la réplique suivante. La tension du dialogue augmente. Nous
+            retrouvons ce même cas de figure aux vers : v. 228, v. 229.</note> ame biaise<note place="bottom">« Il signifie figurément Se servir de mauvaises finesses, n’agir pas
+            sincerement. » (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1694). Diérèse.
+            Ce mot compte pour deux syllabes. Nous retrouvons ce cas de figure aux vers : v. 228, v.
+            415.</note> ;</l>
+          <l n="228" xml:id="l228">Je say pour me trahir que tu fais la niaise,</l>
+          <l n="229" xml:id="l229">Et que de ton honneur prevoyant l’abandon…</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="230" xml:id="l230" part="I">Cet outrage…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">A vos yeux je demande pardon !</l>
+          <l n="231" xml:id="l231">Quel que soit le forfait dont mon cœur vous soupçonne,</l>
+          <l n="232" xml:id="l232">C’est vous faire une injure, équitable friponne ;</l>
+          <l n="233" xml:id="l233">Et parmy vostre sexe outrageux à chacun,</l>
+          <l n="234" xml:id="l234">Faire un mary Cocu c’est le vice commun.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="235" xml:id="l235">Enfin, expliquez-vous, qu’avez-vous à m’apprendre ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="236" xml:id="l236">Rien ; sinon que j’ay veu l’un des doigts de Cleandre. <pb n="14" xml:id="p14"/></l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE, </speaker><stage>faisant la surprise</stage>
+          <l n="237" xml:id="l237" part="I">Un des doigts de Cleandre ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="M">Un des doigts.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="F">Un des doigts !</l>
+          <l n="238" xml:id="l238">Si vous m’en assurez, aisément je le crois,</l>
+          <l n="239" xml:id="l239" part="I">Mais qu’en concluez-vous ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Et qu’en peut-on conclure ?</l>
+          <l n="240" xml:id="l240">Fin contre fin n’est pas bon à faire doublure<note place="bottom">« On
+            dit en proverbe, que fin contre fin n’est pas propre à faire <hi rend="i">doublure</hi>,
+            pour dire, que deux gens qui sont également habiles ont de la peine à se tromper l’un
+            l’autre » (Furetière).</note></l>
+          <l n="241" xml:id="l241">La belle, et dans mon aage, il vous sied assez mal</l>
+          <l n="242" xml:id="l242">De vouloir me charger d’un brevet d’animal<note place="bottom">Un <hi rend="i">brevet</hi> « se dit aussi de certains billets, caracteres ou oraisons que
+            donnent des Charlatans et des affronteurs pour guerir de plusieurs maladies, ou pour
+            faire des choses extraordinaires » (Furetière) ; « On appelle par injure, <hi rend="i">
+            Animal</hi>, un homme lourdaut, grossier, stupide. Celuy qui vous a dit cela est un <hi rend="i">animal</hi> » (Furetière). L’expression peut donc se comprendre comme <hi rend="i">mensonge</hi> : elle désigne les mensonges d’Olympie pour confondre
+            Spadarille. </note>.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="243" xml:id="l243" part="I">Ce langage confus…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Vous rend l’ame éperduë<note place="bottom">« Qui a l’esprit troublé ou égaré
+            par quelque violente passion ou surprise. » (Furetière).</note>,</l>
+          <l n="244" xml:id="l244">Et je suis confondu de vous voir confonduë<note place="bottom">Boursault
+            joue sur deux sens du verbe « confondre » dans un même vers. La première occurrence est
+            employée dans le sens de « convaincre » et la seconde dans le sens de « se dit aussi de
+            ceux qu’on surprend en quelque action honteuse qui les fait rougir. » (Furetière).</note>
+            .</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="245" xml:id="l245">Je ne puis rien comprendre à tout vostre discours.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>luy montrant les verroux</stage>
+          <l n="246" xml:id="l246">Voicy pour mettre obstacle à tous vos petits tours,</l>
+          <l n="247" xml:id="l247">Les anneaux desormais n’iront plus en campagne,</l>
+          <l n="248" xml:id="l248">Et vous estes sevrée<note place="bottom">« Se dit figurément en
+            Morale, en parlant des obstacles qu’on fait aux pretentions de quelqu’un » (Furetière).</note>,
+            amoureuse Compagne.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="249" xml:id="l249">Finissez ces discours, ils sont extravagants.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="250" xml:id="l250" part="I">Je suis donc fou ?</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="M">Du moins on le croit.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Bas les gands.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="251" xml:id="l251" part="I">Quoy, Monsieur…<pb n="15" xml:id="p15"/></l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="M">Bas les gands.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="M">Mais au moins…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Bas, vous dis-je.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="252" xml:id="l252" part="I">Si…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="M">Bas, vous dis-je.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="F">Encor, quel dessein vous oblige…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="253" xml:id="l253">Bas, vous dis-je, et tantost votre esprit esclaircy…</l>
+          <stage>appercevant le mesme anneau qu’avait Cleandre</stage>
+          <l n="254" xml:id="l254">Mais vertu-bieu<note place="bottom"><hi rend="i">Vertubleu</hi> :
+            juron caractéristique de la comédie classique.</note> que vois-je ? Et que Diable est-ce
+            cy ?</l>
+          <l n="255" xml:id="l255">Que cét anneau ressemble à celuy de Cleandre !</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="256" xml:id="l256" part="I">Ils sont bas.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Sur ma foy je n’y puis rien comprendre,</l>
+          <l n="257" xml:id="l257">Et ces anneaux tous deux ont un rapport si grand,</l>
+          <l n="258" xml:id="l258">Que plus on les regarde, et plus on s’y méprend.</l>
+          <l n="259" xml:id="l259">Vous pouvez cependant, rechausser la mitaine<note place="bottom">« Gros
+            gant-fourré où il n’y a point de separation pour mettre les doigts, à la reserve du
+            pouce. C’est presque la même chose que <hi rend="i">moufles</hi>. » (Furetière).</note>,</l>
+          <l n="260" xml:id="l260">Puis apres de rentrer il faut prendre la peine,</l>
+          <l n="261" xml:id="l261">Aussi bien un vieillard adresse icy ses pas.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="262" xml:id="l262" part="I">Amour…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Entrez, entrez, et ne raisonnez pas.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE VII</head>
+        <stage>ALCIDOR, SPADARILLE</stage>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="263" xml:id="l263">Monsieur le <ref target="#gouverneur">Gouverneur</ref> dont je
+            suis le beau-pere,<pb n="16" xml:id="p16"/></l>
+          <l n="264" xml:id="l264" part="I">Je viens…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>enfermant sa femme</stage>
+          <l part="F">Beau-pere, ou non, laissez nous<note place="bottom">L’emploi du <hi rend="i">
+            nous</hi> se rapporte plutôt ici à un <hi rend="i">nous</hi> de <hi rend="i">majesté</hi>
+            qui pourrait se rapporter à la charge de Gouverneur de Spadarille qui le met en position
+            de supériorité par rapport à son beau-père. Nous retrouvons le même cas de figure aux
+            vers : v. 265, v. 266, v. 486.</note> un peu faire,</l>
+          <l n="265" xml:id="l265">Quand nostre huys<note place="bottom">« Porte d’un logis » (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1694).</note> une fois sera clos
+            à plaisir<note place="bottom">Avec soin.</note>,</l>
+          <l n="266" xml:id="l266">De vous voir pleinement nous aurons le loisir ;</l>
+          <l n="267" xml:id="l267" part="I">Taisez-vous donc.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="M">Monsieur, mais…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Mais Monsieur vous mesme,</l>
+          <l n="268" xml:id="l268">Dont le morne visage est passablement blesme.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="269" xml:id="l269">Je pretendois de vous qu’en faveur de mes soins…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="270" xml:id="l270">Un peu trop pretendant, pretendez un peu moins,</l>
+          <l n="271" xml:id="l271">Et <ref target="#souffrir">souffrez</ref>, s’il vous plaist,
+            qu’à mon tour je prétende…</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="272" xml:id="l272" part="I">Mais Monsieur…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE, </speaker><stage>ayant achevé de fermer ses cadenats</stage>
+          <l part="F">Hé bien donc, ô Diseur de Legende<note place="bottom">Désigne un bonimenteur. </note>
+            ,</l>
+          <l n="273" xml:id="l273">Dont je suis obligé d’enfermer le present<note place="bottom">Désigne
+            Olympie.</note>,</l>
+          <l n="274" xml:id="l274">Si le cœur vous en dit, raisonnez à present.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="275" xml:id="l275">L’<ref target="#heur">heur</ref> dont vostre alliance a comblé
+            ma famille, <pb n="17" xml:id="p17"/></l>
+          <l n="276" xml:id="l276">Fait que je viens icy m’informer de ma fille,</l>
+          <l n="277" xml:id="l277" part="I">Dites-moy donc comment elle se porte.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Bien.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="278" xml:id="l278">Et de ses mœurs, Monsieur, ne m’apprendrez-vous rien ?</l>
+          <l n="279" xml:id="l279">Dites-moy, si par fois son humeur vous contente,</l>
+          <l n="280" xml:id="l280">Si par fois cette humeur est pour vous complaisante ;</l>
+          <l n="281" xml:id="l281" part="I">Tirez-moy de soucy, comment vit-elle ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Mal.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="282" xml:id="l282">Mal, bons Dieux ! ce mal-heur est pour moy sans égal.</l>
+          <l n="283" xml:id="l283">Où peut-elle avoir pris de mauvaise teinture<note place="bottom">« L'impression
+            que la […] mauvaise éducation, ou frequentation laissent dans l’ame. » (<hi rend="i">Dictionnaire
+            de l’Académie française</hi>, 1694).</note>,</l>
+          <l n="284" xml:id="l284">Elle, que de ses dons a comblé la nature<note place="bottom">Il
+            s’agit d’un cas de postposition du sujet nominal. Ici, le groupe prépositionnel commence
+            la phrase, est suivi par le verbe et finalement par le sujet qui arrive en dernière
+            position. Nathalie Fournier dans sa <hi rend="i">Grammaire du français classique</hi>
+            indique que « c’est le seul schéma syntaxique à sujet postposé (en phrase assertive) qui
+            se soit conservé de l’ancien français, malgré une moindre fréquence. […] Les
+            grammairiens le considèrent comme une élégance (Maupas), ce qui est le signe, et de sa
+            relative régression, et de son caractère stylistiquement marqué. ».</note> ?</l>
+          <l n="285" xml:id="l285" part="I">Pour me faire un outrage elle a donc le sang…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Chaud<note place="bottom"><hi rend="i">Il a le sang chaud</hi> « pour dire,
+            qu’il est colere et emporté » (Furetière).</note>.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="286" xml:id="l286">C’est l’amour chaud<note place="bottom"><hi rend="i">Chaud</hi>
+            « se dit aussi en Morale, des mouvements vifs, et bouillans que causent les passions
+            dans l’esprit, ou le cœur des hommes. <hi rend="i">Chaud</hi> en amour » (Furetière).</note> <ref target="#sans-doute">sans doute</ref>, et plus chaud qu’il ne faut :</l>
+          <l n="287" xml:id="l287">Mais n’est-ce point à tort qu’envers vous je la blâme ?</l>
+          <l n="288" xml:id="l288">Ne luy faites vous rien qui chagrine son ame ?</l>
+          <l n="289" xml:id="l289" part="I">Lors que vous la voyez, quel est son accueil ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Froid.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="290" xml:id="l290">D’en user de la sorte elle a bien peu de droit.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="291" xml:id="l291">D’accord ; mais de vous deux, moy l’Epoux et le Gendre,</l>
+          <l n="292" xml:id="l292">Qui pour faire l’<ref target="#amant">Amant</ref> pris le droit
+            de Cleandre, <pb n="18" xml:id="p18"/></l>
+          <l n="293" xml:id="l293">Sachez que j’aurois lieu de paraistre marry,</l>
+          <l n="294" xml:id="l294">Si par droit reciproque il faisoit le mary.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="295" xml:id="l295" part="I">Cleandre, oseroit-il suborner<note place="bottom">« Débaucher,
+            seduire, induire à faire une mauvaise action, une action contre son devoir. » (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1694).</note>…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">D’Olimpie,</l>
+          <l n="296" xml:id="l296">Il ayme, à ce qu’il dit, seulement la copie ;</l>
+          <l n="297" xml:id="l297">Cependant d’un anneau je le trouve pourveu ;</l>
+          <l n="298" xml:id="l298">Autre part qu’en ses doigts je le crois avoir veu ;</l>
+          <l n="299" xml:id="l299">Aussi-tost par ma bouche Olimpie appellée,</l>
+          <l n="300" xml:id="l300">A mes aigres propos contrefait la troublée ;</l>
+          <l n="301" xml:id="l301">Veut voir par mes discours son esprit esclaircy ;</l>
+          <l n="302" xml:id="l302">Fait semblant d’ignorer que Cleandre est icy ;</l>
+          <l n="303" xml:id="l303">Me soustient à mon nez que souvent j’extravague ;</l>
+          <l n="304" xml:id="l304">Puis soudain se degante, et me montre sa bague ;</l>
+          <l n="305" xml:id="l305">Et je croy là dessus, consultant mon cerveau,</l>
+          <l n="306" xml:id="l306">Que qui la copia copia son Anneau.</l>
+          <l n="307" xml:id="l307">De Cleandre pourtant je crains peu la <ref target="#finesse">
+            finesse</ref>,</l>
+          <l n="308" xml:id="l308">Il doit en ce lieu mesme amener sa <ref target="#maitresse">
+            Maistresse</ref>,</l>
+          <l n="309" xml:id="l309">Je l’attends, nous verrons ; mais tenez je les voy.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="310" xml:id="l310" part="I">Il amene Olimpie.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">En effet, je le croy.</l>
+          <l n="311" xml:id="l311" part="I">La seroit-ce ?</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="F">Ce l’est ; quelle erreur vous domine ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="312" xml:id="l312">Ma foy, si ce ne l’est, elle en a bien la mine.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE VIII</head>
+        <stage>SPADARILLE, CLEANDRE, OLIMPIE, sous le nom d’Aspasie, ALCIDOR, CASCARET</stage>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>appelle sa femme à travers de la porte</stage>
+          <l n="313" xml:id="l313" part="I">Olimpie ! <pb n="19" xml:id="p19"/></l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE </speaker><stage>bas à Cleandre</stage>
+          <l part="M">Ah Cleandre !</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Ah daignez tenir bon,</l>
+          <l n="314" xml:id="l314" part="I">Madame.</l>
+        </sp>
+        <sp who="cascaret">
+          <speaker>CASCARET</speaker>
+          <l part="F">Ou je me trompe, ou j’auray du baston.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>continuë</stage>
+          <l n="315" xml:id="l315" part="I">Olimpie ! ah j’enrage.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="F">Il s’eschauffe la bile.</l>
+        </sp>
+        <sp who="cascaret">
+          <speaker>CASCARET</speaker>
+          <l n="316" xml:id="l316">Vous me parliez tantost de m’envoyer en Ville</l>
+          <l n="317" xml:id="l317" part="I">Monsieur.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="M">Poltron fieffé<note place="bottom">Désigne un lâche « Qui a quelque vice,
+            quelque mauvaise habitude, au supréme degré. » (<hi rend="i">Dictionnaire de l’Académie
+            française</hi>, 1694).</note>.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>continuë</stage>
+          <l part="F">Tout cecy me confond<note place="bottom">Le verbe <hi rend="i">confondre</hi>
+            est employé ici au sens propre de <hi rend="i">rendre confus</hi>.</note>.</l>
+          <l n="318" xml:id="l318">Olimpie ! écoutez comme elle me répond !</l>
+          <l n="319" xml:id="l319">De ce tracas, Beau-pere, en un mot que vous semble.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="320" xml:id="l320" part="I">J’ay peur que ce ne soit Olimpie. <pb n="20" xml:id="p20"/></l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Et j’en tremble :</l>
+          <l n="321" xml:id="l321">Mais on pourroit sortir aussi-tost<note place="bottom">Comprendre
+            dans le sens d’<hi rend="i">aussi bien</hi>.</note> de l’Enfer,</l>
+          <l n="322" xml:id="l322">Sa cheminée est close, et de grilles de fer,</l>
+          <l n="323" xml:id="l323">J’ay de mesme matiere estoffé sa fenestre,</l>
+          <l n="324" xml:id="l324" part="I">Beau-pere !</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="F">S’il est vray, ce ne peut donc pas l’estre.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="325" xml:id="l325">Assez adroitement je la vais pressentir<note place="bottom">« <hi rend="i">Pressentir quelqu’un</hi>, pour dire, Découvrir l’intention de quelqu’un,
+            la disposition où il est » (<hi rend="i">Dictionnaire de l’Académie française</hi>,
+            1694).</note> ;</l>
+          <l n="326" xml:id="l326">Je vous crois Olimpie, et ne crois pas mentir,</l>
+          <l n="327" xml:id="l327">Si vous ne l’estes pas pour le moins sa jumelle<note place="bottom"><hi rend="i">Jumelle</hi> fait référence au <hi rend="i">Miles
+            gloriosus</hi> de Plaute ; dans cette pièce le déguisement consiste en faire croire à
+            l’existence d’une jumelle de la jeune femme qui vient justement d’arriver dans la ville.</note>
+            ,</l>
+          <l n="328" xml:id="l328">Daignez quelque moment discourir avec elle ;</l>
+          <l n="329" xml:id="l329">Entrez jusqu’en sa chambre, et trouvez à propos…</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="330" xml:id="l330" part="I">Monsieur…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Vous luy direz seulement quatre mots,</l>
+          <l n="331" xml:id="l331" part="I">Je vous en prie.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="M">Il faut…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Il ne faut autre chose.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l n="332" xml:id="l332">Des plaintes d’Olimpie elle ignore la case,</l>
+          <l n="333" xml:id="l333" part="I">Ainsi…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Mon Dieu, Monsieur, parlez à vostre écot<note place="bottom">« On dit
+            proverbialement à ceux qui viennent interrompre l’entretien d’autres gens, Parlez à
+            vostre <hi rend="i">escot</hi>, pour dire, Allez entretenir vostre compagnie. »
+            (Furetière).</note>.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="334" xml:id="l334" part="I">Ce n’est pas…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Vous aussi, taisez-vous, idiot.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="335" xml:id="l335">Pour moy, Monsieur, le Ciel me deviendroit propice, <pb n="21" xml:id="p21"/></l>
+          <l n="336" xml:id="l336">S’il m’offroit un moyen de vous rendre service ;</l>
+          <l n="337" xml:id="l337" part="I">Mais enfin sur le point de partir…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Par ma foy</l>
+          <l n="338" xml:id="l338">Vous entrerez, Madame, ou vous direz pourquoy.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="339" xml:id="l339" part="I">Je puis…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Entrez, vous dis-je, ou bien point de <ref target="#patente">Patente</ref>.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="340" xml:id="l340">Vous pouvoir <ref target="#obliger">obliger</ref> c’est me
+            rendre contente ;</l>
+          <l n="341" xml:id="l341">Mais envers Olimpie agréez mon respect,</l>
+          <l n="342" xml:id="l342">Un visage inconnu luy peut estre suspect,</l>
+          <l n="343" xml:id="l343">Durant donc un adieu qu’à l’instant je vais faire,</l>
+          <l n="344" xml:id="l344">Sachez si ma visite aura droit de luy plaire,</l>
+          <l n="345" xml:id="l345">Et tandis que Cleandre attendra mon retour…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="346" xml:id="l346" part="I">C’est fort bien dit, allez.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE </speaker><stage>à Cleandre en s’en allant</stage>
+          <l part="F">Je prépare un detour,</l>
+          <l n="347" xml:id="l347">Et quoy que de ma part ce perfide pretende…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="348" xml:id="l348" part="I">Que luy dites-vous là ?</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="F">Je luy dis qu’il m’attende.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="349" xml:id="l349" part="I">Bon cela<note place="bottom">« On dit proverbialement, <hi rend="i">Bon cela</hi>, pour, Approuver une chose, après en avoir désapprouvé une
+            autre. » (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1798).</note>.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">J’obéïs, et n’y contredis pas.</l>
+          <l n="350" xml:id="l350">Cascaret, d’Aspasie accompagne les pas.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE IX</head>
+        <stage>SPADARILLE, CLEANDRE, ALCIDOR</stage>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="351" xml:id="l351">Or ça, notre Beau-pere, et vous Sire Cleandre,<pb n="22" xml:id="p22"/></l>
+          <l n="352" xml:id="l352">Qui jadis malgré luy vouliez estre son gendre,</l>
+          <l n="353" xml:id="l353">Je vais vous faire voir Olimpie à l’instant.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR </speaker><stage>qui craint qu’Olimpie ne soit pas encores rentrée</stage>
+          <l n="354" xml:id="l354">Si j’en suis crû, Monsieur, ne vous hastez pas tant.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="355" xml:id="l355" part="I">Et pourquoy ?</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="F">Tout l’amour que Cleandre eut pour elle</l>
+          <l n="356" xml:id="l356" part="I">Pourra se rallumer à l’aspect…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Bagatelle<note place="bottom"><space/>« On dit absolument, <hi rend="i">
+            Bagatelle</hi>, quand on ne veut pas demeurer d’accord de quelque proposition qu’un
+            autre met en avant. Vous croyez reüssir en cette entreprise : <hi rend="i">bagatelle</hi>. »
+            (Furetière).</note>.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l n="357" xml:id="l357">En effect la beauté que je vous ay fait voir,</l>
+          <l n="358" xml:id="l358">De tout autre visage affoiblit le pouvoir :</l>
+          <l n="359" xml:id="l359">Et s’il faut que mon ame à vos yeux se découvre,</l>
+          <l n="360" xml:id="l360">Rien ne m’est échapé que mon cœur ne recouvre,</l>
+          <l n="361" xml:id="l361">Puisqu’à l’object que j’ayme avec tant de raison</l>
+          <l n="362" xml:id="l362">Pour paraistre Olimpie il ne faut que le nom.</l>
+          <l n="363" xml:id="l363">C’est pour ce seul object qu’en secret je soupire,</l>
+          <l n="364" xml:id="l364" part="I">Pour sa seule pensée je languis.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">C’est tout dire,</l>
+          <l n="365" xml:id="l365">Et pour l’amour de vous je m’en vais de ce pas<pb n="23" xml:id="p23"/></l>
+          <l n="366" xml:id="l366">Réveiller les ressorts<note place="bottom">Spadarille va ouvrir
+            ses cadenas pour laisser sortir Olympie.</note> de mes six Cadenats.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE X</head>
+        <stage>ALCIDOR, CLEANDRE, et Spadarille au bout du Theatre<note place="bottom">Désigne ici
+          la scène.</note> qui ouvre ses Cadenats</stage>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="367" xml:id="l367">Parlons bas. Enfin brave Cleandre</l>
+          <l n="368" xml:id="l368">Ma fille en peu de temps en vos bras se va rendre :</l>
+          <l n="369" xml:id="l369">Si d’avec ce brutal son hymen se détruit,</l>
+          <l n="370" xml:id="l370">De vos soins genereux vous aurez tout le fruit.</l>
+          <l n="371" xml:id="l371" part="I">Mais surtout que l’honneur.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Je vois peu d’apparence</l>
+          <l n="372" xml:id="l372">A pouvoir affranchir d’une injuste puissance ;</l>
+          <l n="373" xml:id="l373">Mais enfin quelque effet qui succede à mes yeux,</l>
+          <l n="374" xml:id="l374">L’interest d’Olimpie est plus fort que mes feux.</l>
+          <l n="375" xml:id="l375">Nul espoir ne me flatte, et mon cœur avec joye,</l>
+          <l n="376" xml:id="l376">La derobe aux tourmens dont le sien est la proye ;</l>
+          <l n="377" xml:id="l377">Et c’est le moindre effort qu’en semblable danger</l>
+          <l n="378" xml:id="l378">La vertu mal-heureuse ait le droict d’exiger.</l>
+          <l n="379" xml:id="l379" part="I">Ainsi…</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XI</head>
+        <stage>SPADARILLE, OLIMPIE, CLEANDRE, ALCIDOR</stage>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Mes cadenats sont ouverts. Hola<note place="bottom">« Interjection qui sert
+            pour appeller des gens de basse condition, des laquais. » (Furetière) ; il faut tout de
+            même noter que Spadarille s’adresse ici à sa femme, le peu de considération qu’il a pour
+            elle apparaît clairement.</note> la Belle,<pb n="24" xml:id="p24"/></l>
+          <l n="380" xml:id="l380">Venez-ça. Pourquoy donc se frotter la prunelle ?</l>
+          <l n="381" xml:id="l381" part="I">Qu’avez-vous ?</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE </speaker><stage>faisant exprés l’endormie</stage>
+          <l part="F">Du sommeil, les pavots<note place="bottom">« Espece de plante qui porte des
+            fleurs de plusieurs couleurs, &amp; dont la graine a une vertu assoupissante. […] Les
+            Poëtes disent, <hi rend="i">Les pavots du sommeil</hi>, pour dire, L'assoupissement, le
+            sommeil mesme. » (<hi rend="i">Dictionnaire de l’Académie française</hi>, 1694).</note>
+            gracieux</l>
+          <l n="382" xml:id="l382">Assoupissent mon ame, et me sillent les yeux<note place="bottom">« Fermer,
+            clore. Il se dit des yeux &amp; des paupieres, quand on les ferme pour peu de temps. »
+            (Dictionnaire de l’Académie française, 1694).</note> ;</l>
+          <l n="383" xml:id="l383">Depuis une heure ou deux, leur douceur pour confondre<note place="bottom">« Convaincre, fermer la bouche à son adversaire. […] deux depositions
+            suffisent pour <hi rend="i">confondre</hi>, pour convaincre un accusé » (Furetière).</note>
+            …</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="384" xml:id="l384">Elle avoit bien raison de ne pas me répondre</l>
+          <l n="385" xml:id="l385">Vraiment ! ça la dormeuse au sommeil un peu dur,</l>
+          <l n="386" xml:id="l386">Qui n’avez pû m’entendre à travers de ce mur,</l>
+          <l n="387" xml:id="l387" part="I">Ouvrez les yeux.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE </speaker><stage>faisant l’estonnée</stage>
+          <l part="F">Mon Pere ! ô destin quelle grace !</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="388" xml:id="l388" part="I">Ma fille !</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>lui montrant Cléandre</stage>
+          <l part="F"> Et celuy-cy, Bel enfant, qui sera-ce ?</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="389" xml:id="l389" part="I">O Dieux !</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE </speaker><stage>à Sparadille</stage>
+          <l part="F"><ref target="#souffrir">Souffrez</ref> qu’icy je me regle sur vous,</l>
+          <l n="390" xml:id="l390">Et que de cét Objet je devienne jaloux ; <pb n="p. 25 ; C" xml:id="p25"/></l>
+          <l n="391" xml:id="l391">Je crois voir Aspasie, et mon Ame confuse</l>
+          <l n="392" xml:id="l392" part="I">Voudroit…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Le tour est bon ; Peste soit de la Buze<note place="bottom">« Se dit
+            proverbialement d’un sot, d’un stupide, que c’est une <hi rend="i">buse</hi>. »
+            (Furetière).</note>.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l n="393" xml:id="l393">C’est un peu vainement que vous estes surpris,</l>
+          <l n="394" xml:id="l394" part="I">C’est elle.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Il veut <ref target="#sans-doute">sans doute</ref> égayer nos esprits,</l>
+          <l n="395" xml:id="l395" part="I">Pauvre Butor<note place="bottom">« On dit figurément
+            d’un homme stupide et maladroit, que c’est un gros <hi rend="i">butor</hi> ; parce que
+            cet oiseau est sot et paresseux. » (Furetière).</note> !</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="F">Et quoy, de la part de Cleandre,</l>
+          <l n="396" xml:id="l396">Est-ce là tout l’accueil que j’ay droit de pretendre ?</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l n="397" xml:id="l397">Aspasie est-ce vous dont les yeux éclatants…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="398" xml:id="l398">Quand les gens sont si sots, ils le sont pour longtemps,</l>
+          <l n="399" xml:id="l399">Je le trouve bouffon avec sa jalousie.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l n="400" xml:id="l400">Daignez donc me répondre, est-ce vous Aspasie ?</l>
+          <l n="401" xml:id="l401">Dissipez le chagrin qui me rend assoupy,</l>
+          <l n="402" xml:id="l402" part="I">Et pour le moins.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Beau-pere, <hi rend="i">et pecora campi</hi><note place="bottom">Extrait du
+            Psaume 8 verset 8 de la <hi rend="i">Bible</hi> qui chante la toute puissance de Dieu :
+            « <hi rend="i">Omnia subjecisti sub pedibus ejus, oves et boves universas insuper et
+            pecora campi</hi> ». « Tu as mis toutes ces choses sous ses pieds, brebis et bœufs, tous
+            ensemble, et les animaux des champs ». Nous pouvons supposer que Spadarille s’amuse à
+            prendre la prière adressée par Cléandre à celle qu’il feint de prendre pour Aspasie
+            comme une prière à Dieu, dont le psaume en question célèbre la toute puissance.</note>.</l>
+          <l n="403" xml:id="l403" part="I">Quoy, vous n’en riez point ?</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE </speaker><stage>à Spadarille</stage>
+          <l part="F">Esclaircissez mon ame,</l>
+          <l n="404" xml:id="l404" part="I">Monsieur, ne l’est-ce pas ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>en riant</stage>
+          <l part="F">Non ma foy, c’est ma femme.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE </speaker><stage>à Olimpie</stage>
+          <l n="405" xml:id="l405">Veuillez donc m’excuser si pour m’estre mépris…</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="406" xml:id="l406">A vostre indifference ajouster le mépris, <pb n="26" xml:id="p26"/></l>
+          <l n="407" xml:id="l407">Cleandre, et feindre icy de ne pas me connaistre ?</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l n="408" xml:id="l408">J’ay toûjours tout l’amour que vos yeux firent naistre ;</l>
+          <l n="409" xml:id="l409">Mais si mon cœur soupire, apprenez qu’il m’est doux</l>
+          <l n="410" xml:id="l410">De le voir soupirer pour une autre que vous :</l>
+          <l n="411" xml:id="l411">De ce cœur enflammé la langueur est extrême,</l>
+          <l n="412" xml:id="l412">Mais cette autre que vous est une autre vous-mesme ;</l>
+          <l n="413" xml:id="l413">Et mon amour éteint seroit tout consumé,</l>
+          <l n="414" xml:id="l414">Si vos mesmes appas<note place="bottom">« En choses morales de ce
+            qui sert à attraper les hommes, à les inviter à faire quelque chose. […] La beauté est
+            un grand <hi rend="i">appast</hi> pour engager le cœur des hommes. » (Furetière). <hi rend="i">Si vos mesmes appas</hi> est à comprendre comme <hi rend="i">Si vos appas
+            eux-mêmes</hi>.</note> ne l’avoient rallumé.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>à Alcidor</stage>
+          <l n="415" xml:id="l415">Quel niais compliment ce badin luy va faire !</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="416" xml:id="l416" part="I">Il est fou.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE </speaker><stage>à Cleandre</stage>
+          <l part="F">Quelque Objet a donc l’<ref target="#heur">heur</ref> de vous plaire ?</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l n="417" xml:id="l417">Ouy, Madame, et de plus cét Objet plein d’appas</l>
+          <l n="418" xml:id="l418">En merite, en vertu ne vous cederoit<note place="bottom">« Faire
+            une action d’humilité, se reconnoistre inferieur à un autre en quelque chose »
+            (Furetière).</note> pas :</l>
+          <l n="419" xml:id="l419">Quelque chose de plus est dans celle que j’ayme,</l>
+          <l n="420" xml:id="l420" part="I">Et…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Ne disons point plus ; mais disons tout de mesme.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="421" xml:id="l421">Et quoy, pour vous vanger du refus qu’on vous fist,</l>
+          <l n="422" xml:id="l422" part="I">Vous osez…</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="M">J’ay raison d’oser dire…</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE </speaker><stage>dans une feinte colere</stage>
+          <l part="F">Il suffit,</l>
+          <l n="423" xml:id="l423">Je connois vos desseins, et vous estes un lasche,</l>
+          <l n="424" xml:id="l424">Dont l’indigne mépris, et me choque, et me fasche :</l>
+          <l n="425" xml:id="l425">Ne croyez pas pourtant que l’outrage soit grand,</l>
+          <l n="426" xml:id="l426">Vostre amour, vostre choix, tout m’est indifferend :</l>
+          <l n="427" xml:id="l427" part="I">Et ne presumez<note place="bottom">« Avoir bonne opinion
+            de soy » (Furetière).</note> pas…<pb n="27" xml:id="p27"/></l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="M">Quoy, Madame…</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="F">Quoy, Traistre,</l>
+          <l n="428" xml:id="l428">Vous avez pu m’aymer, et m’osez méconnaistre ?</l>
+          <l n="429" xml:id="l429">Et pretendez me faire un outrage odieux,</l>
+          <l n="430" xml:id="l430">Qu’estaller par mépris vostre choix à mes yeux ?</l>
+          <l n="431" xml:id="l431">Je dédaigne à mon tour vos indignes approches,</l>
+          <l n="432" xml:id="l432" part="I">Allez.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Il est penaut comme un fondeur de cloches<note place="bottom">« On dit
+            proverbialement, Il est <hi rend="i">penaud</hi> comme un fondeur de cloches, pour dire
+            triste et estonné de ce que sa fonte n’a pas reüssi. » (Furetière).</note>.</l>
+          <l n="433" xml:id="l433" part="I">C’est qu’il ayme…</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="M">Et qu’importe ?</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Il importe fort peu ;</l>
+          <l n="434" xml:id="l434">Mais je veux vous monstrer à l’Objet de son feu :</l>
+          <l n="435" xml:id="l435">Bien-tost dans cet endroit nous aurons sa presence.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l n="436" xml:id="l436">Moy, Monsieur, me resoudre à cette complaisance ?</l>
+          <l n="437" xml:id="l437" part="I">Que je puisse…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Mon Dieu, forcez-vous de la voir,</l>
+          <l n="438" xml:id="l438" part="I">Et taschez…</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="F">Sur mes sens j’ay trop peu de pouvoir,</l>
+          <l n="439" xml:id="l439">A m’expliquer ainsi son dédain m’authorise,</l>
+          <l n="440" xml:id="l440">J’ay peu de complaisance envers qui me méprise ;</l>
+          <l n="441" xml:id="l441">Et quoy que mon Espoux, c’est avoir le cœur bas</l>
+          <l n="442" xml:id="l442">Qu’exiger de mon ame un respect qu’il n’a pas.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="443" xml:id="l443" part="I">Mais enfin Aspasie…</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="F">Aspasie ou Cleandre,</l>
+          <l n="444" xml:id="l444">Je ne veux ny les voir, ny jamais les entendre,<pb n="28" xml:id="p28"/></l>
+          <l n="445" xml:id="l445">Et prefere aux dédains de ce couple outrageux</l>
+          <l n="446" xml:id="l446">L’inflexible rigueur d’un Espoux soupçonneux.</l>
+          <l n="447" xml:id="l447" part="I">Renfermez-moy.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="M">Ma fille, est-il juste…</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE</speaker>
+          <l part="F">Mon Pere,</l>
+          <l n="448" xml:id="l448">Je ne fais rien icy qui ne soit nécessaire.</l>
+          <l n="449" xml:id="l449">De Cleandre en un mot je connois le desir,</l>
+          <l n="450" xml:id="l450">Dans ce lieu de me voir il a peu de plaisir :</l>
+          <l n="451" xml:id="l451">De ses vœux mes souhaits<note place="bottom">Diérèse. Ce mot
+            compte pour deux syllabes. Nous retrouvons le même cas de figure aux vers : v. 92, v.
+            493, v. 494.</note> precipitent le terme,</l>
+          <l n="452" xml:id="l452">C’est assez l’<ref target="#obliger">obliger</ref> que vouloir
+            qu’on m’enferme ;</l>
+          <l n="453" xml:id="l453">Mais ce qui plus me charme, et que j’ayme le mieux,</l>
+          <l n="454" xml:id="l454">C’est priver mes regards d’un Objet odieux.</l>
+          <l n="455" xml:id="l455">Je vous le dis encor, Aspasie ou Cleandre,</l>
+          <stage>à Spadarille</stage>
+          <l n="456" xml:id="l456">Je ne veux ny les voir, ny jamais les entendre,</l>
+          <l n="457" xml:id="l457">Souscrivez<note place="bottom">« Il signifie figurément
+            Consentir, approuver ce qu’un autre dit. » (<hi rend="i">Dictionnaire de l’Académie
+            française</hi>, 1694).</note> sans murmure<note place="bottom">Sans protestation.</note>
+            aux plus doux de mes vœux,</l>
+          <l n="458" xml:id="l458" part="I">Adieu.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Pauvre Galand te voilà bien chanceux !</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XII</head>
+        <stage>SPADARILLE, CLEANDRE, ALCIDOR</stage>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="459" xml:id="l459" part="I">Vous voyez.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Oüy, Monsieur, je voy ce qui se passe :</l>
+          <l n="460" xml:id="l460">Si je m’en repentois j’aurois l’ame trop basse. <pb n="29" xml:id="p29"/></l>
+          <l n="461" xml:id="l461">J’apperçois qu’Olimpie a pour moy de l’horreur :</l>
+          <l n="462" xml:id="l462">Mais l’amour d’Aspasie adoucit cette aigreur.</l>
+          <l n="463" xml:id="l463">J’ay sujet de gouster une joye assez pleine,</l>
+          <l n="464" xml:id="l464">Si l’une a de l’amour quand l’autre a de la haine ;</l>
+          <l n="465" xml:id="l465">Ou plustost j’aurois tort de me plaindre à mon tour,</l>
+          <l n="466" xml:id="l466">Quand des preuves de haine ont des marques d’amour.</l>
+          <l n="467" xml:id="l467" part="I">Mais je vois Aspasie.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XIII</head>
+        <stage>OLIMPIE sous le nom d’Aspasie, SPADARILLE, CLEANDRE,</stage>
+        <stage>ALCIDOR, CASCARET</stage>
+        <sp who="olimpie">
+          <speaker>OLIMPIE </speaker><stage>sous le nom d’Aspasie</stage>
+          <l part="F">A Present pour vous plaire</l>
+          <l n="468" xml:id="l468">Sur ce que j’ay promis je vous viens satisfaire.</l>
+          <l n="469" xml:id="l469">Je puis voir Olimpie, et je suis sur le point</l>
+          <l n="470" xml:id="l470" part="I">De luy rendre…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">A present, vous ne la verrez point,</l>
+          <l n="471" xml:id="l471">Vous voila ce me semble assez bien <ref target="#attraper1">
+            attrapée</ref>.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE </speaker><stage>sous le nom d’Apasie</stage>
+          <l n="472" xml:id="l472">Vous rendez en effect mon attente trompée,</l>
+          <l n="473" xml:id="l473">Me manquer de parole, et depuis un instant…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="474" xml:id="l474">Olimpie en un mot, ne vous ayme pas tant,</l>
+          <l n="475" xml:id="l475">Si vous ne m’en croyez pas, demandez à Cleandre.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE </speaker><stage>sous le nom d’Aspasie</stage>
+          <l n="476" xml:id="l476" part="I">Quel sujet auroit-elle…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>[SPADARILLE]</speaker>
+          <l part="F">Il pourra vous l’apprendre.<pb n="30" xml:id="p30"/></l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l n="477" xml:id="l477" part="I">Lors…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">De vous écouter je n’ay pas le loisir,</l>
+          <l n="478" xml:id="l478">Partez, ou demeurez, vous n’avez qu’à choisir.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE </speaker><stage>sous le nom d’Aspasie</stage>
+          <l n="479" xml:id="l479" part="I">Et quoy…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Tant de discours me font mal à la teste,</l>
+          <l n="480" xml:id="l480" part="I">Voulez-vous partir ?</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="M">Mais…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Mais la <ref target="#patente">Patente</ref> est preste,</l>
+          <l n="481" xml:id="l481">Et qui plus est pour vous je la donne gratis,</l>
+          <l n="482" xml:id="l482" part="I">Tenez.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Puisqu’il vous plaist, nous voila donc partis,</l>
+          <l n="483" xml:id="l483">Mais si pour m’acquitter de l’excez de vos graces</l>
+          <l n="484" xml:id="l484" part="I">Je puis…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">N’affectons point d’importunes grimaces<note place="bottom">Feinte, moquerie.</note>
+            ,</l>
+          <l n="485" xml:id="l485" part="I">Si vous voulez partir, partez.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l part="F">Adieu Messieurs.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="486" xml:id="l486">Nostre Beau-pere et moy sommes vos serviteurs,</l>
+          <l n="487" xml:id="l487" part="I">Adieu</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE, </speaker><stage>bas à Olimpie</stage>
+          <l part="F">L’occasion ne peut estre plus belle,</l>
+          <l n="488" xml:id="l488" part="I">Allons.</l>
+        </sp>
+        <sp who="cascaret">
+          <speaker>CASCARET</speaker>
+          <l part="F">Le pauvre Diable<note place="bottom">Désigne un misérable.</note> ! il n’a
+            plus de femelle<note place="bottom">« On dit en raillerie qu’une femme rusée est une
+            fine <hi rend="i">femelle</hi>, une fausse <hi rend="i"> femelle</hi>. Hors de là on le
+            dit peu des femmes. » (Furetière).</note>,</l>
+          <l n="489" xml:id="l489">Je le donne en dix coups<note place="bottom">«  On dit […] <hi rend="i">Donner à deviner</hi>, pour dire, Défier de deviner. […] On dit aussi dans
+            le même sens, <hi rend="i">Je le donne au plus habile à mieux faire</hi>, pour dire, Je
+            défie le plus habile de faire mieux […] ou simplement, <hi rend="i">Je vous le donne en
+            dix</hi>, c’est-à-dire, En dix coups, en dix fois. » (<hi rend="i">Dictionnaire de
+            l’Académie française</hi>, 1762).</note> à qui fourbera mieux.<pb n="31" xml:id="p31"/></l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR </speaker><stage>bas</stage>
+          <l n="490" xml:id="l490" part="I">Hastez-vous.</l>
+        </sp>
+        <sp who="olimpie">
+          <speaker>OLIMPIE </speaker><stage>à Cleandre</stage>
+          <l part="F">Mais mon Pere, il fait signe des yeux,</l>
+          <l n="491" xml:id="l491">S’il n’est hors de ses mains, mon soucy n’est pas moindre.</l>
+        </sp>
+        <sp who="cleandre">
+          <speaker>CLEANDRE</speaker>
+          <l n="492" xml:id="l492">N’en soyez point en peine, il saura nous rejoindre,</l>
+          <l n="493" xml:id="l493">Nous avons rendez-vous, et j’en suis avoüé<note place="bottom">Signifie
+            En être protégé, approuvé.</note>,</l>
+          <l n="494" xml:id="l494" part="I">Allons.</l>
+          <stage>Ils s’en vont.</stage>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XIV</head>
+        <stage>SPADARILLE, ALCIDOR</stage>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>fort joyeux</stage>
+          <l part="F">De tout cecy le bon Dieu soit loüé !</l>
+          <l n="495" xml:id="l495">J’ay hors du pied, Beau-pere, une vilaine épine ;</l>
+          <l n="496" xml:id="l496">De me tromper Cleandre avoit toute la mine,</l>
+          <l n="497" xml:id="l497">Il faisoit tout exprés le petit complaisant ;</l>
+          <l n="498" xml:id="l498">Dieu say si vostre fille est joyeuse à present.</l>
+          <l n="499" xml:id="l499">Et si, loin de l’object, qui lui porte bissestre<note place="bottom">Malheur ; « Ce terme est populaire, et est venu par corruption de <hi rend="i">bissextre</hi>, parce que les superstitieux ont crû que c’étoit une année
+            malheureuse. » (Furetière).</note>,</l>
+          <l n="500" xml:id="l500">Ses transports d’allegresse auront lieu de pareistre !</l>
+          <l n="501" xml:id="l501">Du depart de Cleandre allons la resjoüyr,</l>
+          <l n="502" xml:id="l502" part="I">Allons.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR </speaker><stage>bas</stage>
+          <l part="F">De son erreur je le laisse joüyr,</l>
+          <l n="503" xml:id="l503" part="I">Mais… <pb n="32" xml:id="p32"/></l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>à haute voix</stage>
+          <l part="F">Il n’est plus icy ce Cleandre, Mamie,</l>
+          <l n="504" xml:id="l504" part="I">Venez, venez.</l>
+          <stage>Voyant qu’elle ne répond pas</stage>
+          <l part="F">Beau-pere ; elle s’est rendormie.</l>
+          <l n="505" xml:id="l505">Je ne la vis jamais si souvent sommeiller ;</l>
+          <l n="506" xml:id="l506">Mais entrons l’un et l’autre, et l’allons réveiller,</l>
+          <l n="507" xml:id="l507">Loin d’en estre marrie, elle aura de la joye,</l>
+          <l n="508" xml:id="l508" part="I">Entrons.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR </speaker><stage>bas</stage>
+          <l part="F">De me vanger je découvre une voye ;</l>
+          <l n="509" xml:id="l509" part="I">Je tiens.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="M">Sus<note place="bottom">« Interjection, dont on se sert pour exhorter, pour
+            inciter. » (Dictionnaire de l’Académie française, 1694).</note>, Beau-pere, entrez donc.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="F">Ah ! Monsieur,</l>
+          <l n="510" xml:id="l510" part="I">Je say trop…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Je say trop qu’on me doit de l’honneur,</l>
+          <l n="511" xml:id="l511" part="I">Mais entrez.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="F">Moy commettre une faute si grande !</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="512" xml:id="l512" part="I">Entrez, vous dis-je.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="M">Mais…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Mais je vous le commande.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="513" xml:id="l513" part="I">De grace…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Obéissez, Courtisan mal éclos<note place="bottom">Spadarille reproche à
+            Alcidor d’être un mauvais sujet face à son gouverneur pourtant représentant du pouvoir.</note>
+            .</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="514" xml:id="l514" part="I">Monsieur…<pb n="33" xml:id="p33"/></l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">S’il en fait rien qu’on me brise les os.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="515" xml:id="l515">Ce que je suis, Monsieur, me permet de vous rendre.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="516" xml:id="l516">Vous estes mon Beau-pere, et je suis vostre Gendre,</l>
+          <l n="517" xml:id="l517" part="I">Avec vos pieds de veau<note place="bottom">Désigne
+            figurément et bassement des révérences.</note>, passez donc.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="F">Si jamais…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="518" xml:id="l518">Sans tant dire de si, ny de car, ny de mais,</l>
+          <l n="519" xml:id="l519">Courtois souple-jaret<note place="bottom">« Cet homme a le <hi rend="i">jarret</hi> souple, il est ferme sur ses <hi rend="i">arrets</hi>. »
+            (Furetière).</note> qui semblez par bravade</l>
+          <l n="520" xml:id="l520">Pour me faire enrager vouloir faire gambade<note place="bottom">« Espece
+            de saut sans art &amp; sans cadence. » (<hi rend="i">Dictionnaire de l’Académie
+            française</hi>, 1694).</note>,</l>
+          <l n="521" xml:id="l521" part="I">Entrez.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="F">Mais quand je songe aux respects que je doy…</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="522" xml:id="l522">Respectueux Beau-pere, entrez donc apres moy,</l>
+          <l n="523" xml:id="l523">Puis qu’en vos sentiments vous demeurez si ferme.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="524" xml:id="l524">Un cadenat sans clef aisément se refferme,</l>
+          <l n="525" xml:id="l525" part="I">Il est pris.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>dedans la chambre</stage>
+          <l part="M"> Suivez donc.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="F">Je n’ay pas le loisir.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="526" xml:id="l526" part="I">Vous m’enfermez !</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="M">D’accord.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="M">Pourquoy ?</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="F">Pour mon plaisir.<pb n="34" xml:id="p34"/></l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="527" xml:id="l527">Ah trigaut<note place="bottom">« Brouillon, barguigneur qui
+            n’agit point franchement et nettement dans les affaires. On ne peut sortir d’affaire
+            avec les trigauds que dans les Procez. » (Furetière). Un barguigneur est un homme « Qui
+            barguigne, qui marchande trop, qui est irresolu et indeterminé. » (Furetière).</note>
+            malfaisant, si je sors je te jure…</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l n="528" xml:id="l528">Tu<note place="bottom">Emploi de la deuxième personne entre
+            Alcidor et Spadarille. Le vouvoiement respectueux dû au statut d’Olympie n’est plus
+            nécessaire, les deux hommes peuvent donc se manifester tout leur mépris. Nous retrouvons
+            ce même cas de figure aux vers 530, v. 539, v. 543 dans le cas où Alcidor s’adresse à
+            Spadarille et aux vers v. 532 et v. 544 dans le cas où Spadarille s’adresse à Alcidor.</note>
+            ne sortiras pas, c’est moy qui t’en assure ;</l>
+          <l n="529" xml:id="l529">Mais sans tenir icy d’inutiles propos,</l>
+          <l n="530" xml:id="l530">Tu peux par ta fenestre écouter quatre mots.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>à sa fenestre</stage>
+          <l n="531" xml:id="l531">Execrable Barbon<note place="bottom">« Vieillard qui est revenu
+            de tous les plaisirs de la jeunesse, qui les condamne, et qui les empêche autant qu’il
+            peut. » (Furetière).</note> que ne puis-je descendre,</l>
+          <l n="532" xml:id="l532" part="I">Tu verrois.</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="F">Olimpie est aux mains de Cleandre,</l>
+          <l n="533" xml:id="l533">Mais de quelques desirs dont il soit combattu,</l>
+          <l n="534" xml:id="l534">Il est trop genereux pour soüiller sa vertu.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l n="535" xml:id="l535">Gueux par moy revestu<note place="bottom">Spadarille fait
+            allusion aux gains d’Alcidor grâce au mariage de sa fille avec un Gouverneur.</note>,
+            que Dieu puisse confondre<note place="bottom">« Se dit aussi de ceux qu’on surprend en
+            quelque action honteuse qui les fait rougir. » (Furetière).</note>,</l>
+          <l n="536" xml:id="l536" part="I">En ses mains !</l>
+        </sp>
+        <sp who="alcidor">
+          <speaker>ALCIDOR</speaker>
+          <l part="F">En ses mains, et je puis t’en répondre<note place="bottom">« Se dit aussi en
+            discours familier, de ce qu’on affirme avec certitude, sans en être autrement garent. »
+            (Furetière).</note>,</l>
+          <l n="537" xml:id="l537">Mais<note place="bottom"><hi rend="i">Mais</hi> s’employait comme
+            un adverbe de temps, dans le sens de <hi rend="i">lorsque</hi>. L’emploi est déjà
+            signalé comme vieilli dans le Furetière.</note> l’horrible deffaut que chacun connoit
+            bien,</l>
+          <l n="538" xml:id="l538">Pour rompre un mariage est un trop seur moyen.</l>
+          <l n="539" xml:id="l539">La cruelle fureur dont tu l’as poursuivie,</l>
+          <l n="540" xml:id="l540">De vous l’oster des mains m’a fait naistre l’envie<note place="bottom">Il manque une syllabe à ce vers pour faire un alexandrin. Nous pouvons
+            supposer que « vous » à été omis : « De <hi rend="i">vous</hi> l’oster des mains m’a
+            fait naistre l’envie ».</note> ;</l>
+          <l n="541" xml:id="l541">Et si j’ay des regrets le plus rude de tous,</l>
+          <l n="542" xml:id="l542">Est de voir qu’un Barbare ait le titre d’Epoux.</l>
+          <l n="543" xml:id="l543">En entrant le premier tu m’as mis hors de peine,</l>
+          <l n="544" xml:id="l544" part="I">Adieu.</l>
+        </sp>
+        <sp who="spadarille">
+          <speaker>SPADARILLE</speaker>
+          <l part="F">Tu t’en vas donc, Marchand de Chair humaine,</l>
+          <l n="545" xml:id="l545" part="I">Au voleur, au voleur.</l>
+        </sp>
+      </div>
+      <div type="scene">
+        <head>SCENE XV, ET DERNIERE</head>
+        <sp who="spadarille">
+          <speaker>SPADARILLE </speaker><stage>à sa fenestre</stage>
+          <l part="F">Le traistre est échapé,<pb n="35" xml:id="p35"/></l>
+          <l n="546" xml:id="l546">Il court comme un beau Diable, et je suis <ref target="#attraper2">attrapé</ref>.</l>
+          <l n="547" xml:id="l547">Jamais fusté Renard dans sa propre tasniere,</l>
+          <l n="548" xml:id="l548">Se vit-il enfermé de semblable maniere ?</l>
+          <l n="549" xml:id="l549">Et peut-on en <ref target="#finesse">finesse</ref> égaler ce
+            Grison<note place="bottom">« Celuy dont les cheveux commencent à blanchir. »
+            (Furetière).</note>,</l>
+          <l n="550" xml:id="l550">Qui m’enleve sa fille, et me met en prison ?</l>
+          <l n="551" xml:id="l551">Si la meilleure femme en malice est feconde<note place="bottom">Spadarille
+            retrouve un discours général ; il s’adresse au public pour lui donner la morale de la
+            pièce à la manière du chœur antique, rompant ainsi l’illusion théâtrale.</note>,</l>
+          <l n="552" xml:id="l552">Peuples qui m’écoutez, laissez perir le Monde ;</l>
+          <l n="553" xml:id="l553">Et disant à ce sexe un éternel adieu,</l>
+          <l n="554" xml:id="l554">Songez que qui s’en passe est bien-aymé de Dieu.</l>
+          <trailer rend="center">FIN</trailer>
+        </sp>
+      </div>
+    </body>
+    <back>
+      <div>
+        <head>Lexique du Jaloux endormi</head>
+        <entryFree xml:id="amant">
+          <form>Amant</form>
+          <def>« Celuy qui aime d’une passion violente et amoureuse. » (Furetière).</def>
+          <xr>V. <ref target="#l50">50</ref>, v. <ref target="#l114">114</ref>, v. <ref target="#l173">173</ref>, v. <ref target="#l188">188</ref>, v. <ref target="#l292">292</ref></xr>
+        </entryFree>
+        <entryFree xml:id="amoureux">
+          <form>Amoureux </form>
+          <def>« Qui a de la passion pour quelque chose, ou quelque personne. » (Furetière).</def>
+          <xr><ref target="#acteurs">Acteurs</ref>, v. <ref target="#l113">113</ref></xr>
+        </entryFree>
+        <entryFree>
+          <form>Attraper </form>
+          <def xml:id="attraper1">« Se dit aussi de toutes les choses où on est trompé
+            innocemment. » (Furetière).</def>
+          <xr>V. <ref target="#l471">471</ref></xr>
+          <def xml:id="attraper2">Prendre au piège.</def>
+          <xr>V. <ref target="#l546">546</ref></xr>
+        </entryFree>
+        <entryFree xml:id="finesse">
+          <form>Finesse </form>
+          <def>« Ruse, astuce. » (Dictionnaire de l’Académie française, 1694).</def>
+          <xr>V. <ref target="#l307">307</ref>, v. <ref target="#l549">549</ref></xr>
+        </entryFree>
+        <entryFree xml:id="gouverneur">
+          <form>Gouverneur</form>
+          <def>« Officier du Roy qui commande dans une Province, dans une place. […] Un <hi rend="i">
+            Gouverneur</hi> represente le Roy dans une place, et commande non seulement à la
+            garnison, mais aussi aux bourgeois, et à toutes les trouppes qui entrent dans sa
+            place. » (Furetière).</def>
+          <xr><ref target="#acteurs">Acteurs</ref>, v. <ref target="#l159">159</ref>, v. <ref target="#l263">263</ref></xr>
+        </entryFree>
+        <entryFree xml:id="heur">
+          <form>Heur </form>
+          <def>Bonne fortune.</def>
+          <xr>V. <ref target="#l275">275</ref>, v. <ref target="#l416">416</ref></xr>
+        </entryFree>
+        <entryFree xml:id="quand">
+          <form>Quand </form>
+          <def>« Encore que » (Furetière).</def>
+          <xr>
+            <ref target="#dedicace">Dédicace</ref>
+          </xr>
+        </entryFree>
+        <entryFree xml:id="maitresse">
+          <form>Maistresse </form>
+          <def>« On le dit particulierement d’une fille qu’on recherche en mariage. » (Furetière).</def>
+          <xr>V. <ref target="#l207">207</ref>, v. <ref target="#l308">308</ref></xr>
+        </entryFree>
+        <entryFree xml:id="mignon">
+          <form>Mignon </form>
+          <def>« Favory, soit en matiere d’amitié, soit d’amour. La plupart des Princes ont des <hi rend="i">mignons</hi>, des favoris qui les gouvernent. Beaucoup des Dames ont des <hi rend="i">mignons</hi>, de couchette. » (Furetière).</def>
+          <xr>V. <ref target="#l84">84</ref>, v. <ref target="#l169">169</ref></xr>
+        </entryFree>
+        <entryFree xml:id="murmurer">
+          <form>Murmurer </form>
+          <def>« Se plaindre tout bas et avec timidité » (Furetière).</def>
+          <xr>V. <ref target="#l25">25</ref>, v. <ref target="#l57">57</ref></xr>
+        </entryFree>
+        <entryFree xml:id="obliger">
+          <form>Obliger </form>
+          <def>« Faire plaisir, rendre de bons offices à quelqu’un. » (Dictionnaire de l’Académie
+            française, 1694).</def>
+          <xr>V. <ref target="#l204">204</ref>, v. <ref target="#l340">340</ref>, v. <ref target="#l452">452</ref></xr>
+        </entryFree>
+        <entryFree xml:id="patente">
+          <form>Patente </form>
+          <def>Les patentes ou lettres patentes « sont des Lettres du Roy scellées du grand sceau,
+            qui servent de titre pour la concession de quelque octroy, grace, privilege, de quelque
+            établissement. Elles doivent estre signées en commandement d’un Secretaire d’Estat, et
+            verifiées dans les Parlements. Ce que sont les Edits pour le public, les <hi rend="i">
+            Patentes</hi> le sont à l’égard des particuliers. » (Furetière).</def>
+          <def>Ce mot est une allusion au métier de Gouverneur de Spadarille.</def>
+          <xr>V. <ref target="#l179">179</ref>, v. <ref target="#l199">199</ref>, v. <ref target="#l339">339</ref>, v. <ref target="#l480">480</ref></xr>
+        </entryFree>
+        <entryFree xml:id="prime">
+          <form>Prime </form>
+          <def>« Signifie aux cartes une espece de jeu qui a eu grande vogue. Joüez à <hi rend="i">
+            prime</hi> à grande <hi rend="i">prime</hi>, à petite <hi rend="i">prime</hi>. »
+            (Furetière).</def>
+          <xr>V. <ref target="#l92">92</ref>, v. <ref target="#l94">94</ref></xr>
+        </entryFree>
+        <entryFree xml:id="sans-doute">
+          <form>Sans doute </form>
+          <def>Assurément.</def>
+          <xr>V. <ref target="#l79">79</ref>, v. <ref target="#l286">286</ref>, v. <ref target="#l394">394</ref></xr>
+        </entryFree>
+        <entryFree xml:id="souffrir">
+          <form>Souffrir </form>
+          <def>Permettre.</def>
+          <xr>V. <ref target="#l29">29</ref>, v. <ref target="#l44">44</ref>, v. <ref target="#l271">
+            271</ref>, v. <ref target="#l389">389</ref></xr>
+        </entryFree>
+      </div>
+    </back>
+  </text>
+</TEI>

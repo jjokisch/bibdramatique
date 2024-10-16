@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -28,7 +25,7 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/boursault_deux-freres/</idno>
+        <idno>http://bibdramatique.huma-num.fr/boursault_deux-freres/</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Boursault, Edme</author>. <title>Les Deux Frères gémeaux ou les menteurs qui ne mentent point. Comédie</title>. A PARIS, Chez THOMAS JOLLY, au Palais, dans la petite Salle des Merciers, à la Palme &amp; aux Armes d’Hollande. M. DC. LXV. AVEC PRIVILEGE DU ROY.</bibl>
@@ -772,7 +769,7 @@
             </castItem>
             <castItem>
               <role rend="male" xml:id="second-nicandre">Le second NICANDRE,</role>
-              <roleDesc>Amant d’Ismène. <lb/>Freres <ref target="#gémeaux">Gemeaux*</ref>, qui se ressemblent si fort, qu’on les prend à tous moments l’un pour l’autre, &amp; qui se rencontrent fortuitement à Paris, sans que l’un ny l’autre le sçache ; où ils s’habillent par hazard tous deux d’une mesme façon.</roleDesc>
+              <roleDesc>Amant d’Ismène. <lb/>Freres <ref target="#gémeaux">Gemeaux</ref>, qui se ressemblent si fort, qu’on les prend à tous moments l’un pour l’autre, &amp; qui se rencontrent fortuitement à Paris, sans que l’un ny l’autre le sçache ; où ils s’habillent par hazard tous deux d’une mesme façon.</roleDesc>
             </castItem>
             <castItem>
               <role rend="male inferior" xml:id="robin">ROBIN,</role>
@@ -811,7 +808,7 @@
           </sp>
           <sp who="hipolite" xml:id="I01-3">
             <speaker>HIPOLITE.</speaker>
-            <l n="2" xml:id="l2">Et tu dis qu’il viendra <ref target="#sur-heure">tout à l’heure*</ref> ?</l>
+            <l n="2" xml:id="l2">Et tu dis qu’il viendra <ref target="#sur-heure">tout à l’heure</ref> ?</l>
           </sp>
           <sp who="jacinte" xml:id="I01-4">
             <speaker>JACINTE.</speaker>
@@ -832,7 +829,7 @@
             <l n="4" xml:id="l4">Ce que je souhaitois, à present je le crains :</l>
             <l n="5" xml:id="l5">D’une fille en aymant le mal-heur est extrême</l>
             <l n="6" xml:id="l6">Alors qu’elle est reduite à le dire elle méme,</l>
-            <l n="7" xml:id="l7">Et que l’<ref target="#objet">Objet*</ref> charmant qui la comble d’<ref target="#ennuy">ennuy*</ref></l>
+            <l n="7" xml:id="l7">Et que l’<ref target="#objet">Objet</ref> charmant qui la comble d’<ref target="#ennuy">ennuy</ref></l>
             <l n="8" xml:id="l8">A donné de l’amour sans en prendre pour luy.</l>
             <l n="9" xml:id="l9">Je m’estois resoluë à parler de ma flâme,</l>
             <l n="10" part="I" xml:id="l10">Mais Jacinte au moment…</l>
@@ -881,7 +878,7 @@
           </sp>
           <sp who="ragotin" xml:id="I02-2">
             <speaker>RAGOTIN.</speaker>
-            <l part="F">Comme elle parle, écoutez, <ref target="#diablezot">Diablezot*</ref>.</l>
+            <l part="F">Comme elle parle, écoutez, <ref target="#diablezot">Diablezot</ref>.</l>
           </sp>
           <sp who="jacinte" xml:id="I02-3">
             <speaker>JACINTE.</speaker>
@@ -908,7 +905,7 @@
             <l part="F">Nicandre, éloignez ce valet.</l>
           </sp>
           <sp who="premier-nicandre" xml:id="I02-8">
-            <speaker>Le premier NICANDRE, <hi rend="i">à Ragotin.</hi></speaker>
+            <speaker>Le premier NICANDRE, </speaker><stage>à Ragotin.</stage>
             <l n="33" xml:id="l33">Dans une heure au plus tard tu viendras me reprendre.</l>
           </sp>
           <sp who="ragotin" xml:id="I02-9">
@@ -934,12 +931,12 @@
           </sp>
           <sp who="premier-nicandre" xml:id="I02-14">
             <speaker>Le premier NICANDRE.</speaker>
-            <l n="37" xml:id="l37">Qu’elle est belle ! Vois-tu ? J’en ay l’ame <ref target="#surprendre">surprise*</ref>.</l>
+            <l n="37" xml:id="l37">Qu’elle est belle ! Vois-tu ? J’en ay l’ame <ref target="#surprendre">surprise</ref>.</l>
           </sp>
           <sp who="ragotin" xml:id="I02-15">
             <speaker>RAGOTIN.</speaker>
             <l n="38" xml:id="l38">Déja de son honneur tout le reste agonise.</l>
-            <l n="39" part="I" xml:id="l39">Qu’il est <ref target="#aspre">aspre*</ref> !</l>
+            <l n="39" part="I" xml:id="l39">Qu’il est <ref target="#aspre">aspre</ref> !</l>
           </sp>
           <sp who="premier-nicandre" xml:id="I02-16">
             <speaker>Le premier NICANDRE.</speaker>
@@ -954,7 +951,7 @@
             <l part="F">Encor<note n="53" place="bottom"><p>Variante poétique de la forme habituelle « encore » qui présente l’avantage de compter pour deux syllabes (voir également au vers 1550).</p></note> une fois ?</l>
           </sp>
           <sp who="ragotin" xml:id="I02-19">
-            <speaker>RAGOTIN <hi rend="i">s’en allant.</hi></speaker>
+            <speaker>RAGOTIN </speaker><stage>s’en allant.</stage>
             <l n="40" part="I" xml:id="l40">Adieu l’honneur.</l>
           </sp>
         </div>
@@ -965,9 +962,9 @@
           <sp who="hipolite" xml:id="I03-1">
             <speaker>HIPOLITE</speaker>
             <l part="F">Nicandre, &amp; mes yeux, &amp; ma voix…</l>
-            <l n="41" xml:id="l41">Je me sens <ref target="#interdit">interdite*</ref>, &amp; le charme qui brille…</l>
+            <l n="41" xml:id="l41">Je me sens <ref target="#interdit">interdite</ref>, &amp; le charme qui brille…</l>
             <l n="42" xml:id="l42">Quand on est inquiette, &amp; qu’on est une fille…</l>
-            <l n="43" xml:id="l43">Le merite sublime a pour moy tant d’<ref target="#appas">appas*</ref>…</l>
+            <l n="43" xml:id="l43">Le merite sublime a pour moy tant d’<ref target="#appas">appas</ref>…</l>
             <l n="44" xml:id="l44">J’ose…le trouble…Et quoy, ne m’entendez-vous pas ?</l>
           </sp>
           <sp who="premier-nicandre" xml:id="I03-2">
@@ -1011,7 +1008,7 @@
           </sp>
           <sp who="jacinte" xml:id="I03-9">
             <speaker>JACINTE.</speaker>
-            <l part="F">Dame, ô Dieux, je ne puis <ref target="#niaiser">niaiser*</ref>.</l>
+            <l part="F">Dame, ô Dieux, je ne puis <ref target="#niaiser">niaiser</ref>.</l>
           </sp>
           <sp who="premier-nicandre" xml:id="I03-10">
             <speaker>Le premier NICANDRE.</speaker>
@@ -1034,12 +1031,12 @@
           </sp>
           <sp who="premier-nicandre" xml:id="I03-14">
             <speaker>Le premier NICANDRE.</speaker>
-            <l n="64" xml:id="l64">De vos rares bontez je me sens <ref target="#interdit">interdit*</ref>,</l>
+            <l n="64" xml:id="l64">De vos rares bontez je me sens <ref target="#interdit">interdit</ref>,</l>
             <l n="65" part="I" xml:id="l65">Mais, Madame…</l>
           </sp>
           <sp who="jacinte" xml:id="I03-15">
             <speaker>JACINTE.</speaker>
-            <l part="F">Ce mais pourra bien la confondre<note n="56" place="bottom">« Se méprendre, prendre l’un pour l’autre » (F). « Faire une confusion, (…) se tromper. » (H) Boursault annonce implicitement la suite des évènements avec l’emploi des verbes déguiser, niaiser* et confondre.</note>.</l>
+            <l part="F">Ce mais pourra bien la confondre<note n="56" place="bottom">« Se méprendre, prendre l’un pour l’autre » (F). « Faire une confusion, (…) se tromper. » (H) Boursault annonce implicitement la suite des évènements avec l’emploi des verbes déguiser, niaiser et confondre.</note>.</l>
           </sp>
           <sp who="hipolite" xml:id="I03-16">
             <speaker>HIPOLITE.</speaker>
@@ -1061,7 +1058,7 @@
           </sp>
           <sp who="premier-nicandre" xml:id="I03-20">
             <speaker>Le premier NICANDRE.</speaker>
-            <l part="F">De vos <ref target="#appas">appas*</ref> je connois tout le prix,</l>
+            <l part="F">De vos <ref target="#appas">appas</ref> je connois tout le prix,</l>
             <l n="69" xml:id="l69">A me favoriser vostre cœur se dispose,</l>
             <l n="70" xml:id="l70">Mais un serment horrible à mon bon heur s’oppose :</l>
             <l n="71" xml:id="l71">Pour ne pas en douter écoutez seulement.</l>
@@ -1137,7 +1134,7 @@
             <l n="81" part="I" xml:id="l81">Quoy…</l>
           </sp>
           <sp who="hipolite" xml:id="I03-38">
-            <speaker>HIPOLITE <hi rend="i">à Jacinte.</hi></speaker>
+            <speaker>HIPOLITE </speaker><stage>à Jacinte.</stage>
             <l part="F">Ne l’interromps plus qu’au plus viste il acheve.</l>
             <l n="82" part="I" xml:id="l82">D’avoir dit mon secret je deteste.</l>
           </sp>
@@ -1154,7 +1151,7 @@
           </sp>
           <sp who="premier-nicandre" xml:id="I03-41">
             <speaker>Le premier NICANDRE.</speaker>
-            <l n="86" xml:id="l86">De mon <ref target="#aspre">aspre*</ref> mal-heur pour apprendre la suite,</l>
+            <l n="86" xml:id="l86">De mon <ref target="#aspre">aspre</ref> mal-heur pour apprendre la suite,</l>
             <l n="87" xml:id="l87">De ce frere si cher dont j’ignore le sort,</l>
             <l n="88" xml:id="l88">De qui j’ay le visage, &amp; la voix, &amp; le port ;</l>
             <l n="89" xml:id="l89">De ce frere, en un mot qui si fort me ressemble</l>
@@ -1179,7 +1176,7 @@
             <speaker>Le premier NICANDRE.</speaker>
             <l n="94" xml:id="l94">Depuis plus de six ans je voyage, il voyage,</l>
             <l n="95" xml:id="l95">Mais en nous separant nous jurasmes tous deux</l>
-            <l n="96" xml:id="l96">De jamais à l’<ref target="#hymen">Hymen*</ref> ne contraindre nos vœux</l>
+            <l n="96" xml:id="l96">De jamais à l’<ref target="#hymen">Hymen</ref> ne contraindre nos vœux</l>
             <l n="97" xml:id="l97">Que de l’un, ou de l’autre une bouche fidelle</l>
             <l n="98" xml:id="l98">De la mort ou la vie eut appris la nouvelle.</l>
             <l n="99" xml:id="l99">Voyez donc à mon sort quelle peine se joint,</l>
@@ -1210,7 +1207,7 @@
           <sp who="jacinte" xml:id="I04-4">
             <speaker>JACINTE.</speaker>
             <l part="F">Badinage.</l>
-            <l n="107" part="I" xml:id="l107">Il se <ref target="#railler">raille*</ref>, Madame.</l>
+            <l n="107" part="I" xml:id="l107">Il se <ref target="#railler">raille</ref>, Madame.</l>
           </sp>
           <sp who="hipolite" xml:id="I04-5">
             <speaker>HIPOLITE.</speaker>
@@ -1227,17 +1224,17 @@
           <sp who="jacinte" xml:id="I04-8">
             <speaker>JACINTE.</speaker>
             <l part="F">Lui ? Tarrare<note n="63" place="bottom">« Mot burlesque qui marque quand on s’en sert qu’on se moque de ce qu’on dit ou qu’on n’y ajoute point de foi. » (R) Scarron reproduit le son de la trompette de cette façon : « [il] prit une trompette et sonna, / Tara, tara, tara, tantare. » On peut imaginer que Jacinte fait de même pour se moquer des promesses factices de Nicandre.</note> pompon.</l>
-            <l n="109" xml:id="l109">Je m’en suis apperceuë, il <ref target="#biaiser">biaise*</ref>, il <ref target="#bricoler">bricole*</ref>,</l>
+            <l n="109" xml:id="l109">Je m’en suis apperceuë, il <ref target="#biaiser">biaise</ref>, il <ref target="#bricoler">bricole</ref>,</l>
             <l n="110" xml:id="l110">Quand il parle de frere il vous fiche la cole<note n="64" place="bottom">« Signifie parmi le peuple, une bourde, une menterie. Ce laquais lui a fiché la <hi rend="i">colle</hi>, pour dire, lui a dit une défaite, une chose fausse. »</note> ;</l>
             <l n="111" xml:id="l111">Je vous le garentis franc donneur de canards<note n="65" place="bottom">« On dit proverbialement, donner des <hi rend="i">canards</hi> à quelqu’un, pour dire, lui en faire accroire, ne lui pas tenir ce qu’on lui avait promis, tromper son attente. » (F)</note>.</l>
           </sp>
           <sp who="hipolite" xml:id="I04-9">
             <speaker>HIPOLITE.</speaker>
-            <l n="112" xml:id="l112">Tu crois donc que quelqu’autre ait <ref target="#surprendre">surpris*</ref> ses regards ?</l>
+            <l n="112" xml:id="l112">Tu crois donc que quelqu’autre ait <ref target="#surprendre">surpris</ref> ses regards ?</l>
           </sp>
           <sp who="jacinte" xml:id="I04-10">
             <speaker>JACINTE.</speaker>
-            <l n="113" xml:id="l113">Si je le crois ? Vrayment ; ce <ref target="#matois">matois*</ref>, ce Nicandre…</l>
+            <l n="113" xml:id="l113">Si je le crois ? Vrayment ; ce <ref target="#matois">matois</ref>, ce Nicandre…</l>
           </sp>
         </div>
         <div type="scene" xml:id="I05">
@@ -1245,7 +1242,7 @@
           <head>SCENE V.</head>
           <stage>ISMENE vestuë en homme, HIPOLITE, JACINTE.</stage>
           <sp who="ismene" xml:id="I05-1">
-            <speaker>ISMENE <hi rend="i">vestuë en homme.</hi></speaker>
+            <speaker>ISMENE </speaker><stage>vestuë en homme.</stage>
             <l n="114" xml:id="l114">Nicandre ! Le seroit-ce ? Essayons de l’apprendre.</l>
             <l n="115" xml:id="l115">Ce Nicandre, Madame, à mon cœur est bien cher,</l>
             <l n="116" part="I" xml:id="l116">Je le cherche.</l>
@@ -1275,7 +1272,7 @@
             <l part="M">Peut-estre.</l>
           </sp>
           <sp who="ismene" xml:id="I05-7">
-            <speaker>ISMENE, <hi rend="i">bas.</hi></speaker>
+            <speaker>ISMENE, </speaker><stage>bas.</stage>
             <l part="F">Il l’adore, le traistre.</l>
             <l n="122" part="I" xml:id="l122">Vous, l’aymez-vous, Madame, à vostre tour ?</l>
           </sp>
@@ -1289,7 +1286,7 @@
           </sp>
           <sp who="jacinte" xml:id="I05-10">
             <speaker>JACINTE.</speaker>
-            <l part="M"><ref target="#selon">Selon*</ref>.</l>
+            <l part="M"><ref target="#selon">Selon</ref>.</l>
           </sp>
           <sp who="ismene" xml:id="I05-11">
             <speaker>ISMENE.</speaker>
@@ -1297,7 +1294,7 @@
           </sp>
           <sp who="jacinte" xml:id="I05-12">
             <speaker>JACINTE.</speaker>
-            <l n="124" part="I" xml:id="l124">C’est <ref target="#selon">selon*</ref>.</l>
+            <l n="124" part="I" xml:id="l124">C’est <ref target="#selon">selon</ref>.</l>
           </sp>
           <sp who="ismene" xml:id="I05-13">
             <speaker>ISMENE.</speaker>
@@ -1322,7 +1319,7 @@
             <l part="F">Ah ! Madame, voyez</l>
             <l n="128" xml:id="l128">Ce que c’est que nos yeux qui s’étoient fourvoyez ;</l>
             <l n="129" xml:id="l129">Elle est fille, elle mesme elle s’est éclaircie ;</l>
-            <l n="130" xml:id="l130">Ah le joly garçon par la <ref target="#superficie">superficie*</ref><note n="66" place="bottom">C’est un garçon seulement en apparence.</note> !</l>
+            <l n="130" xml:id="l130">Ah le joly garçon par la <ref target="#superficie">superficie</ref><note n="66" place="bottom">C’est un garçon seulement en apparence.</note> !</l>
             <l n="131" part="I" xml:id="l131">Qu’il est drosle !</l>
           </sp>
           <sp who="hipolite" xml:id="I05-18">
@@ -1358,7 +1355,7 @@
             <l n="148" xml:id="l148">Que je trouve Nicandre, &amp; je perds mon amant.</l>
           </sp>
           <sp who="jacinte" xml:id="I05-22">
-            <speaker>JACINTE <hi rend="i">à Hipolite.</hi></speaker>
+            <speaker>JACINTE </speaker><stage>à Hipolite.</stage>
             <l n="149" xml:id="l149">D’où naissoit le refus qui si fort vous afflige ?</l>
             <l n="150" part="I" xml:id="l150">Voyez-vous ?</l>
           </sp>
@@ -1368,7 +1365,7 @@
           </sp>
           <sp who="jacinte" xml:id="I05-24">
             <speaker>JACINTE.</speaker>
-            <l part="M"><ref target="#pay">Pay*</ref>,</l>
+            <l part="M"><ref target="#pay">Pay</ref>,</l>
           </sp>
           <sp who="hipolite" xml:id="I05-25">
             <speaker>HIPOLITE.</speaker>
@@ -1376,7 +1373,7 @@
           </sp>
           <sp who="jacinte" xml:id="I05-26">
             <speaker>JACINTE.    [14]</speaker>
-            <l part="F"><ref target="#pay">Pay*</ref>, vous dis-je,</l>
+            <l part="F"><ref target="#pay">Pay</ref>, vous dis-je,</l>
             <l n="151" xml:id="l151">Et ne luy dites rien qui nourrisse ses feux.</l>
           </sp>
           <sp who="ismene" xml:id="I05-27">
@@ -1414,7 +1411,7 @@
           <sp who="hipolite" xml:id="I06-4">
             <speaker>HIPOLITE.    [15]</speaker>
             <l n="166" xml:id="l166">Elle est belle, bien faite, &amp; paroist de famille,</l>
-            <l n="167" xml:id="l167">Elle cherche Nicandre, &amp; j’en ay du <ref target="#soucy">soucy*</ref> ;</l>
+            <l n="167" xml:id="l167">Elle cherche Nicandre, &amp; j’en ay du <ref target="#soucy">soucy</ref> ;</l>
             <l n="168" xml:id="l168">Mais l’amour est aveugle, &amp; je la suis aussi.</l>
             <l n="169" xml:id="l169">Que Nicandre l’adore, ou Nicandre l’abuse,</l>
             <l n="170" xml:id="l170">Qui n’a point de merite a du moins de la ruse,</l>
@@ -1429,7 +1426,7 @@
           <head>SCENE VII.</head>
           <stage>Le second NICANDRE, HIPOLITE, JACINTE, ROBIN.</stage>
           <sp who="hipolite" xml:id="I07-1">
-            <speaker>HIPOLITE <hi rend="i">en <ref target="#railler">raillant*</ref>.</hi></speaker>
+            <speaker>HIPOLITE </speaker><stage>en </stage>
             <l n="172" part="I" xml:id="l172">A la fin vostre frere est trouvé.</l>
           </sp>
           <sp who="second-nicandre" xml:id="I07-2">
@@ -1483,12 +1480,12 @@
           </sp>
           <sp who="robin" xml:id="I07-13">
             <speaker>ROBIN.</speaker>
-            <l part="F">Ah, la bonne <ref target="#bigot">bigotte*</ref> !</l>
+            <l part="F">Ah, la bonne <ref target="#bigot">bigotte</ref> !</l>
             <l n="182" part="I" xml:id="l182">Diroit-on qu’elle y touche<note n="72" place="bottom">« On dit (…) d’un hypocrite malicieux qui fait le niais, qu’il ne semble pas qu’il y <hi rend="i">touche</hi>. » (F)</note> ?</l>
           </sp>
           <sp who="jacinte" xml:id="I07-14">
             <speaker>JACINTE.</speaker>
-            <l part="F">Un valet vous <ref target="#balotter">balotte*</ref>,</l>
+            <l part="F">Un valet vous <ref target="#balotter">balotte</ref>,</l>
             <l n="183" xml:id="l183">Et je pense… Madame admirez ce bastier<note n="73" place="bottom">« Epithète qu’on donne à celui qu’on veut taxer de bêtise. » (F)</note></l>
             <l n="184" xml:id="l184">Ce n’est pas son valet que ce galefretier<note n="74" place="bottom">« Homme de néant qui n’a ni feu ni lieu. On ne s’en sert qu’en termes de mépris, et pour faire injure. » (F)</note> :</l>
             <l n="185" xml:id="l185">Avec cette finesse il pretend qu’on s’embourbe<note n="75" place="bottom">« Se dit (…) figurément, en parlant de ceux qui s’embarrassent dans de méchantes affaires. » (F)</note>.</l>
@@ -1504,7 +1501,7 @@
           </sp>
           <sp who="robin" xml:id="I07-17">
             <speaker>ROBIN.</speaker>
-            <l n="188" xml:id="l188">Parbleu, pas tant <ref target="#bigot">bigotte*</ref>, elle change de ton.</l>
+            <l n="188" xml:id="l188">Parbleu, pas tant <ref target="#bigot">bigotte</ref>, elle change de ton.</l>
           </sp>
           <sp who="second-nicandre" xml:id="I07-18">
             <speaker>Le second NICANDRE.</speaker>
@@ -1537,7 +1534,7 @@
             <l n="193" xml:id="l193">Mon Ismene, bons Dieux ! Ô parole cruelle !</l>
           </sp>
           <sp who="robin" xml:id="I07-25">
-            <speaker>ROBIN <hi rend="i">appelle son Maistre au coin du Theatre.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>appelle son Maistre au coin du Theatre.</stage>
             <l n="194" xml:id="l194">St, st, une autrefois battez moins la semelle<note n="76" place="bottom">« Voyager, se dit de certaine sorte d’artisans qui vont d’ordinaire par le pays. Cette phrase est basse. » (A)</note></l>
             <l n="195" part="I" xml:id="l195">Monsieur.</l>
           </sp>
@@ -1561,7 +1558,7 @@
           <sp who="hipolite" xml:id="I07-30">
             <speaker>HIPOLITE.</speaker>
             <l part="F">Nicandre.</l>
-            <l n="199" xml:id="l199">Fourbe, <ref target="#artifice">artificieux*</ref>, diseur de faussetez.</l>
+            <l n="199" xml:id="l199">Fourbe, <ref target="#artifice">artificieux</ref>, diseur de faussetez.</l>
           </sp>
           <sp who="robin" xml:id="I07-31">
             <speaker>ROBIN.</speaker>
@@ -1572,7 +1569,7 @@
             <speaker>Le second NICANDRE.</speaker>
             <l n="201" xml:id="l201">Il est vray qu’à l’amour je n’ay pû satisfaire,</l>
             <l n="202" xml:id="l202">Mais par vostre moyen si je trouve mon frere</l>
-            <l n="203" xml:id="l203">Pour rendre un juste hommage à de rares <ref target="#appas">appas*</ref></l>
+            <l n="203" xml:id="l203">Pour rendre un juste hommage à de rares <ref target="#appas">appas</ref></l>
             <l n="204" part="I" xml:id="l204">Ismene…</l>
           </sp>
           <sp who="hipolite" xml:id="I07-33">
@@ -1607,7 +1604,7 @@
           <head>SCENE VIII.</head>
           <stage>Le second NICANDRE, JACINTE, ROBIN.</stage>
           <sp who="second-nicandre" xml:id="I08-1">
-            <speaker>Le second NICANDRE <hi rend="i">arreste Jacinte, &amp; luy dit.</hi></speaker>
+            <speaker>Le second NICANDRE </speaker><stage>arreste Jacinte, &amp; luy dit.</stage>
             <l part="F">De grace, ayés plus de tendresse,</l>
             <l n="218" xml:id="l218">Dites-moy qui des deux est Suivante ou Maistresse ;</l>
             <l n="219" xml:id="l219">Je vous trouve bien faite, est-ce vous qu’elle sert ?</l>
@@ -1617,7 +1614,7 @@
             <l n="220" part="I" xml:id="l220">Oüy.</l>
           </sp>
           <sp who="second-nicandre" xml:id="I08-3">
-            <speaker><hi rend="i">Le second</hi> NICANDRE.</speaker>
+            <speaker/><stage>Le second</stage>
             <l part="M">Madame…</l>
           </sp>
           <sp who="jacinte" xml:id="I08-4">
@@ -1626,8 +1623,8 @@
           </sp>
           <sp who="robin" xml:id="I08-5">
             <speaker>ROBIN.</speaker>
-            <l part="F">Elles sont de <ref target="#concert">concert*</ref></l>
-            <l n="221" part="I" xml:id="l221">Les <ref target="#gaillarde">gaillardes*</ref>.</l>
+            <l part="F">Elles sont de <ref target="#concert">concert</ref></l>
+            <l n="221" part="I" xml:id="l221">Les <ref target="#gaillarde">gaillardes</ref>.</l>
           </sp>
           <sp who="second-nicandre" xml:id="I08-6">
             <speaker>Le second NICANDRE.</speaker>
@@ -1693,7 +1690,7 @@
           <sp who="robin" xml:id="I09-11">
             <speaker>ROBIN.</speaker>
             <pb n="21"/>
-            <l part="F">Les <ref target="#poussecus">Poussecus*</ref> sont de vilaines gens,</l>
+            <l part="F">Les <ref target="#poussecus">Poussecus</ref> sont de vilaines gens,</l>
             <l n="236" xml:id="l236">Garre apres vostre queuë<note n="78" place="bottom">« Espèce d’interjection pour avertir que l’on se mette à l’écart, pour laisser passer, ou pour éviter quelque danger. » (A)</note> un troupeau de Sergens,</l>
             <l n="237" xml:id="l237">Et si vostre personne est par eux attrapée,</l>
             <l n="238" xml:id="l238">Vous aurez une femme, ou la teste coupée.</l>
@@ -1702,7 +1699,7 @@
             <l n="241" xml:id="l241">Mais à vostre prison pour donner une cause</l>
             <l n="242" xml:id="l242">Vous serez accusé d’avoir fait quelque chose ;</l>
             <l n="243" xml:id="l243">Et vous en sortirez si le Ciel vous y met</l>
-            <l n="244" xml:id="l244">Pour aller à la Nopce, ou du moins au <ref target="#gibet">Gibet*</ref>.</l>
+            <l n="244" xml:id="l244">Pour aller à la Nopce, ou du moins au <ref target="#gibet">Gibet</ref>.</l>
           </sp>
           <sp who="second-nicandre" xml:id="I09-12">
             <speaker>Le second NICANDRE.</speaker>
@@ -1725,7 +1722,7 @@
             <l n="258" xml:id="l258">Depuis à vous attendre elle fait sentinelle<note n="80" place="bottom">« <hi rend="i">Faire la sentinelle</hi> [signifie] monter la garde, faire le guet. » (H)</note>,</l>
             <l n="259" xml:id="l259">Tandis qu’en galopant &amp; par vaux &amp; par monts</l>
             <l n="260" xml:id="l260">Nous passons vous &amp; moy pour de francs vagabonds.</l>
-            <l n="261" xml:id="l261">Voyez si la <ref target="#donzelle">Donzelle*</ref> a sujet de bien rire.</l>
+            <l n="261" xml:id="l261">Voyez si la <ref target="#donzelle">Donzelle</ref> a sujet de bien rire.</l>
           </sp>
           <sp who="second-nicandre" xml:id="I09-14">
             <speaker>Le second NICANDRE.</speaker>
@@ -1763,7 +1760,7 @@
             <l part="F">Haste-toy.</l>
           </sp>
           <sp who="robin" xml:id="I09-21">
-            <speaker>ROBIN <hi rend="i">revient sur ses pas.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>revient sur ses pas.</stage>
             <l n="272" xml:id="l272">Daignez donc pour le moins me répondre de moy,</l>
             <l n="273" part="I" xml:id="l273">Car enfin…</l>
           </sp>
@@ -1861,11 +1858,11 @@
           </sp>
           <sp who="second-nicandre" xml:id="I10-18">
             <speaker>Le second NICANDRE.</speaker>
-            <l part="F">Je commence à beaucoup m’<ref target="#ennuy">ennuyer*</ref>.</l>
+            <l part="F">Je commence à beaucoup m’<ref target="#ennuy">ennuyer</ref>.</l>
           </sp>
           <sp who="ragotin" xml:id="I10-19">
             <speaker>RAGOTIN.</speaker>
-            <l n="292" xml:id="l292">En <ref target="#gambade">gambades*</ref> je pense il pretend me payer.</l>
+            <l n="292" xml:id="l292">En <ref target="#gambade">gambades</ref> je pense il pretend me payer.</l>
             <l n="293" part="I" xml:id="l293">Je vous sers.</l>
           </sp>
           <sp who="second-nicandre" xml:id="I10-20">
@@ -1874,12 +1871,12 @@
           </sp>
           <sp who="ragotin" xml:id="I10-21">
             <speaker>RAGOTIN.</speaker>
-            <l part="M">Hé <ref target="#nenny">nenny*</ref>.</l>
+            <l part="M">Hé <ref target="#nenny">nenny</ref>.</l>
           </sp>
           <sp who="second-nicandre" xml:id="I10-22">
             <speaker>Le second NICANDRE.</speaker>
             <l part="F">Je m’irrite,</l>
-            <l n="294" part="I" xml:id="l294"><ref target="#maraut">Maraut*</ref>…</l>
+            <l n="294" part="I" xml:id="l294"><ref target="#maraut">Maraut</ref>…</l>
           </sp>
           <sp who="ragotin" xml:id="I10-23">
             <speaker>RAGOTIN.</speaker>
@@ -1906,9 +1903,9 @@
           </sp>
           <sp who="second-nicandre" xml:id="I10-28">
             <speaker>Le second NICANDRE.</speaker>
-            <l n="301" xml:id="l301">Sçais-tu bien, <ref target="#guoguenarder">guoguenard*</ref> qu’à bons coups de nazardes<note n="83" place="bottom">« Chiquenaude que l’on donne sur le bout du nez ». (F)</note></l>
-            <l n="302" xml:id="l302">Si tu <ref target="#railler">railles*</ref> encore, &amp; que tu <ref target="#guoguenarder">guoguenardes*</ref>,</l>
-            <l n="303" xml:id="l303">Que de tes mots bouffons tu me fasses l’<ref target="#objet">objet*</ref>…</l>
+            <l n="301" xml:id="l301">Sçais-tu bien, <ref target="#guoguenarder">guoguenard</ref> qu’à bons coups de nazardes<note n="83" place="bottom">« Chiquenaude que l’on donne sur le bout du nez ». (F)</note></l>
+            <l n="302" xml:id="l302">Si tu <ref target="#railler">railles</ref> encore, &amp; que tu <ref target="#guoguenarder">guoguenardes</ref>,</l>
+            <l n="303" xml:id="l303">Que de tes mots bouffons tu me fasses l’<ref target="#objet">objet</ref>…</l>
           </sp>
           <sp who="ragotin" xml:id="I10-29">
             <speaker>RAGOTIN.</speaker>
@@ -1936,16 +1933,16 @@
           <pb n="26"/>
           <head>SCENE XI.</head>
           <sp who="ragotin" xml:id="I11-1">
-            <speaker>RAGOTIN <hi rend="i">seul.</hi></speaker>
+            <speaker>RAGOTIN </speaker><stage>seul.</stage>
             <l n="310" xml:id="l310">Il ne faut que cela pour m’achever de peindre<note n="84" place="bottom">« On dit proverbialement, voilà pour l’achever de peindre, pour dire, achever de le ruiner, quand il vient un nouveau malheur à quelqu’un qui l’accable. » (F) Le verbe « ruiner » a un sens plus large au XVII<hi rend="sup">e</hi> siècle, il englobe le sens d’honneur dans sa définition. Dans ce passage, Ragotin est désespéré et voit s’accumuler les malheurs autour de lui.</note>.</l>
             <l n="311" xml:id="l311">Peu courtois Courtisan en chassant ton valet</l>
-            <l n="312" xml:id="l312">Que la peste t’étouffe, &amp; te saute au <ref target="#colet">colet*</ref>.</l>
+            <l n="312" xml:id="l312">Que la peste t’étouffe, &amp; te saute au <ref target="#colet">colet</ref>.</l>
             <l n="313" xml:id="l313">Qu’au fin fond des Enfers le grand diable te plonge.</l>
             <l n="314" xml:id="l314">Mais j’enrage de faim, à propos, quand j’y songe,</l>
             <l n="315" xml:id="l315">Pour branler la machoire<note n="85" place="bottom">« On dit en débauche, <hi rend="i">Branler</hi> le menton, la mâchoire, pour, s’exciter à boire et à manger. » (F)</note>, &amp; nous faire laquais</l>
-            <l n="316" xml:id="l316">Allons chercher fortune aux <ref target="#degré">degrez*</ref> du Palais<note n="86" place="bottom">Ragotin va chercher un autre maître sur la place du Palais de Justice, lieu où l’on pouvait louer les services de domestiques au XVII<hi rend="sup">e</hi> siècle. (Voir aussi au vers 643.)</note>.</l>
+            <l n="316" xml:id="l316">Allons chercher fortune aux <ref target="#degré">degrez</ref> du Palais<note n="86" place="bottom">Ragotin va chercher un autre maître sur la place du Palais de Justice, lieu où l’on pouvait louer les services de domestiques au XVII<hi rend="sup">e</hi> siècle. (Voir aussi au vers 643.)</note>.</l>
           </sp>
-          <label rend="i">Fin du premier Acte.</label>
+          <trailer rend="i">Fin du premier Acte.</trailer>
         </div>
       </div>
       <div type="act" xml:id="II">
@@ -1954,7 +1951,7 @@
         <div type="scene" xml:id="II01">
           <head>SCENE PREMIERE.</head>
           <sp who="premier-nicandre" xml:id="II01-1">
-            <speaker>Le premier NICANDRE <hi rend="i">seul.</hi></speaker>
+            <speaker>Le premier NICANDRE </speaker><stage>seul.</stage>
             <l n="317" xml:id="l317">La charmante Hipolite a pour moy de l’estime,</l>
             <l n="318" xml:id="l318">Et je n’ose répondre au beau feu qui l’anime !</l>
             <l n="319" xml:id="l319">A mon cruel serment tous mes sens occupez…</l>
@@ -1964,7 +1961,7 @@
           <head>SCENE II.</head>
           <stage>ISMENE, le premier NICANDRE.</stage>
           <sp who="ismene" xml:id="II02-1">
-            <speaker>ISMENE <hi rend="i">en habit d’homme.</hi></speaker>
+            <speaker>ISMENE </speaker><stage>en habit d’homme.</stage>
             <l n="320" xml:id="l320">Ou je vois l’infidelle ou mes yeux sont trompez.</l>
             <l n="321" xml:id="l321">C’est luy-mesme, le traistre. A quoy réve Nicandre ?</l>
           </sp>
@@ -2032,7 +2029,7 @@
           </sp>
           <sp who="premier-nicandre" xml:id="II02-16">
             <speaker>Le premier NICANDRE.</speaker>
-            <l n="335" xml:id="l335">Vouloir toute ma vie adorer ses <ref target="#appas">appas*</ref>…</l>
+            <l n="335" xml:id="l335">Vouloir toute ma vie adorer ses <ref target="#appas">appas</ref>…</l>
           </sp>
           <sp who="ismene" xml:id="II02-17">
             <speaker>ISMENE.</speaker>
@@ -2051,7 +2048,7 @@
           </sp>
           <sp who="premier-nicandre" xml:id="II02-20">
             <speaker>Le premier NICANDRE.</speaker>
-            <l n="339" xml:id="l339">Un langage si haut me rend tout <ref target="#interdit">interdit*</ref>…</l>
+            <l n="339" xml:id="l339">Un langage si haut me rend tout <ref target="#interdit">interdit</ref>…</l>
           </sp>
           <sp who="ismene" xml:id="II02-21">
             <speaker>ISMENE.</speaker>
@@ -2120,7 +2117,7 @@
         <div type="scene" xml:id="II03">
           <head>SCENE III.</head>
           <sp who="premier-nicandre" xml:id="II03-1">
-            <speaker>Le premier NICANDRE <hi rend="i">seul.</hi></speaker>
+            <speaker>Le premier NICANDRE </speaker><stage>seul.</stage>
             <l part="F">J’ignore à quoy tend sa querelle</l>
             <l n="358" xml:id="l358">A l’entendre, autrefois je soupiray pour elle :</l>
             <l n="359" xml:id="l359">Moy bon Dieux ! Moy pour elle avoir pû soupirer !</l>
@@ -2183,7 +2180,7 @@
             <l n="373" part="I" xml:id="l373">Adieu, passe-volant<note n="90" place="bottom">« Faux soldats et non enrollés, qu’un Capitaine fait passer aux revue pour montrer que sa Compagnie est complète, ou pour en tirer la paie à son profit ». (F) Hana Baabalki nous explique que « le premier Nicandre (…), confondu avec son frère jumeau le second Nicandre, paraît passer d’une amante à une autre, donnant ainsi une mauvaise impression à sa maîtresse Hipolite et à sa servante Jacinte », <hi rend="i">Recherches sur le lexique d’Edme Boursault</hi>, Paris, 1978, p. 439.</note>.</l>
           </sp>
           <sp who="premier-nicandre" xml:id="II04-12">
-            <speaker>Le premier NICANDRE <hi rend="i">l’arrestant.</hi></speaker>
+            <speaker>Le premier NICANDRE </speaker><stage>l’arrestant.</stage>
             <l part="F">Demeurez, &amp; pour cause,</l>
             <l n="374" xml:id="l374">Au mal-heureux Nicandre apprenez une chose,</l>
             <l n="375" part="I" xml:id="l375">J’allois voir Hipolite…</l>
@@ -2209,7 +2206,7 @@
             <l part="F">Ouy, sans doute, je croy.</l>
             <l n="377" xml:id="l377">Je croy si vous osez dans sa chambre paraistre</l>
             <l n="378" xml:id="l378">Que vous n’en sortirez que par une fenestre.</l>
-            <l n="379" part="I" xml:id="l379">Hipolite <ref target="#picquer">picquée*</ref>…</l>
+            <l n="379" part="I" xml:id="l379">Hipolite <ref target="#picquer">picquée</ref>…</l>
           </sp>
           <sp who="premier-nicandre" xml:id="II04-18">
             <speaker>Le premier NICANDRE.</speaker>
@@ -2221,7 +2218,7 @@
           </sp>
           <sp who="premier-nicandre" xml:id="II04-20">
             <speaker>Le premier NICANDRE.</speaker>
-            <l n="380" part="I" xml:id="l380">Et qui l’a pû <ref target="#picquer">picquer*</ref> ?</l>
+            <l n="380" part="I" xml:id="l380">Et qui l’a pû <ref target="#picquer">picquer</ref> ?</l>
           </sp>
           <sp who="jacinte" xml:id="II04-21">
             <speaker>JACINTE.</speaker>
@@ -2310,7 +2307,7 @@
         <div type="scene" xml:id="II05">
           <head>SCENE V.</head>
           <sp who="premier-nicandre" xml:id="II05-1">
-            <speaker>Le premier NICANDRE <hi rend="i">seul.</hi></speaker>
+            <speaker>Le premier NICANDRE </speaker><stage>seul.</stage>
             <l n="409" xml:id="l409">Temeraire serment sors de cette memoire,</l>
             <l n="410" xml:id="l410">Ne fais pas un obstacle à l’excés de ma gloire,</l>
             <l n="411" xml:id="l411">Depuis plus de six ans je me suis deffendu…</l>
@@ -2323,18 +2320,18 @@
           <sp who="robin" xml:id="II06-1">
             <speaker>ROBIN.</speaker>
             <l n="412" xml:id="l412">Monsieur, vous ne serez ny roüé, ny pendu,</l>
-            <l n="413" xml:id="l413">Je n’ay veu ny <ref target="#record">records*</ref>, ny bourreau, ny charrette,</l>
+            <l n="413" xml:id="l413">Je n’ay veu ny <ref target="#record">records</ref>, ny bourreau, ny charrette,</l>
             <l n="414" part="I" xml:id="l414">Tout va bien.</l>
           </sp>
           <sp who="premier-nicandre" xml:id="II06-2">
             <speaker>Le premier NICANDRE.</speaker>
-            <l part="F">De quel air ce <ref target="#belistre">belistre*</ref> me traitte !</l>
+            <l part="F">De quel air ce <ref target="#belistre">belistre</ref> me traitte !</l>
             <l n="415" part="I" xml:id="l415">A qui parle…</l>
           </sp>
           <sp who="robin" xml:id="II06-3">
             <speaker>ROBIN.</speaker>
             <l part="F">Pour moy, quoy que simple valet,</l>
-            <l n="416" xml:id="l416">Dans la peur que j’avois d’estre pris au <ref target="#colet">colet*</ref></l>
+            <l n="416" xml:id="l416">Dans la peur que j’avois d’estre pris au <ref target="#colet">colet</ref></l>
             <l n="417" xml:id="l417">J’ay joüé de finesse, &amp; l’ay mis dans ma poche<note n="93" place="bottom">Robin parle de son cou, pour sous-entendre qu’il a été discret.</note></l>
             <l n="418" xml:id="l418">Voyez vous ? Pour l’Hostesse elle tourne la broche<note n="94" place="bottom">Elle prépare le repas.</note>,</l>
             <l n="419" xml:id="l419">Elle dit qu’en tout cas vostre lit sera prest,</l>
@@ -2343,13 +2340,13 @@
           <sp who="premier-nicandre" xml:id="II06-4">
             <speaker>Le premier NICANDRE.</speaker>
             <l part="F">A cela, je n’ay point d’interest.</l>
-            <l n="421" xml:id="l421">Où vas-tu ? D’où viens-tu ? Dy le moy <ref target="#sur-heure">toute à l’heure*</ref></l>
+            <l n="421" xml:id="l421">Où vas-tu ? D’où viens-tu ? Dy le moy <ref target="#sur-heure">toute à l’heure</ref></l>
             <l n="422" part="I" xml:id="l422">Et je croy…</l>
           </sp>
           <sp who="robin" xml:id="II06-5">
             <speaker>ROBIN.</speaker>
             <l part="F">Je ne vais, ny ne viens, je demeure.</l>
-            <l n="423" xml:id="l423">Comme il fait le <ref target="#gausseur">gausseur*</ref>, d’où je viens, me dit-il,</l>
+            <l n="423" xml:id="l423">Comme il fait le <ref target="#gausseur">gausseur</ref>, d’où je viens, me dit-il,</l>
             <l n="424" xml:id="l424">Il a crû tout d’abord que j’estois Algoüazil<note n="95" place="bottom">« C’est un mot espagnol qui est connu depuis quelque temps en France pour signifier un Sergent ou un Exempt. » (F)</note>,</l>
             <l n="425" xml:id="l425">Et qu’en vrais pas de loup je venois le surprendre.</l>
           </sp>
@@ -2378,7 +2375,7 @@
           </sp>
           <sp who="robin" xml:id="II06-11">
             <speaker>ROBIN.</speaker>
-            <l part="M"><ref target="#pay">Païs*</ref>.</l>
+            <l part="M"><ref target="#pay">Païs</ref>.</l>
           </sp>
           <sp who="premier-nicandre" xml:id="II06-12">
             <speaker>Le premier NICANDRE.</speaker>
@@ -2454,8 +2451,8 @@
             <l n="447" part="I" xml:id="l447">Et je pense…</l>
           </sp>
           <sp who="premier-nicandre" xml:id="II06-28">
-            <speaker>Le premier NICANDRE, <hi rend="i">en s’en allant.</hi></speaker>
-            <l part="F"><ref target="#maraut">Maraut*</ref>, tu veux estre battu,</l>
+            <speaker>Le premier NICANDRE, </speaker><stage>en s’en allant.</stage>
+            <l part="F"><ref target="#maraut">Maraut</ref>, tu veux estre battu,</l>
             <l n="448" xml:id="l448">Et si je n’avois haste insolent… Où vas-tu ?</l>
           </sp>
           <sp who="robin" xml:id="II06-29">
@@ -2466,14 +2463,14 @@
           <sp who="premier-nicandre" xml:id="II06-30">
             <speaker>Le premier NICANDRE.</speaker>
             <l n="450" xml:id="l450">Je dois si je le suis te le faire paroistre</l>
-            <l n="451" xml:id="l451">Il t’en faut une preuve <ref target="#impudent">impudent*</ref>, la voila.</l>
+            <l n="451" xml:id="l451">Il t’en faut une preuve <ref target="#impudent">impudent</ref>, la voila.</l>
             <stage>(Il luy donne un soufflet.)</stage>
           </sp>
         </div>
         <div type="scene" xml:id="II07">
           <head>SCENE VII.</head>
           <sp who="robin" xml:id="II07-1">
-            <speaker>ROBIN <hi rend="i">seul.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>seul.</stage>
             <l n="452" xml:id="l452">Il a parbleu raison, il le prouve par là.</l>
             <l n="453" xml:id="l453">Le secret est joly pour se bien faire croire !</l>
             <l n="454" xml:id="l454">De sa chienne de patte enfoncer ma machoire</l>
@@ -2529,7 +2526,7 @@
           <sp who="robin" xml:id="II08-6">
             <speaker>ROBIN.</speaker>
             <l n="480" xml:id="l480">A cela, mon amy, je n’ay point d’interest ;</l>
-            <l n="481" xml:id="l481">Où vas-tu ? D’où viens-tu ? Dy-le moy <ref target="#sur-heure">tout à l’heure*</ref>.<pb n="40"/></l>
+            <l n="481" xml:id="l481">Où vas-tu ? D’où viens-tu ? Dy-le moy <ref target="#sur-heure">tout à l’heure</ref>.<pb n="40"/></l>
           </sp>
           <sp who="second-nicandre" xml:id="II08-7">
             <speaker>Le second NICANDRE.</speaker>
@@ -2550,9 +2547,9 @@
           <sp who="robin" xml:id="II08-10">
             <speaker>ROBIN.</speaker>
             <l n="488" xml:id="l488">Ah Démentibuleur<note n="99" place="bottom">Formé à partir du verbe <hi rend="i">démantibuler</hi> qui signifiait « autrefois au propre, rompre la mâchoire, qu’on appelait autrefois <hi rend="i">mantibule</hi> : mais maintenant il ne se dit qu’au figuré et au participe par le peuple en parlant d’une chose rompue, gâtée ou désassemblée. <phr rend="ls">»(</phr>F) Robin l’utilise justement ici au sens propre.</note> je l’ay trop reconnu.</l>
-            <l n="489" xml:id="l489">De ne pas l’ignorer à present je me <ref target="#picquer">pique*</ref>,</l>
+            <l n="489" xml:id="l489">De ne pas l’ignorer à present je me <ref target="#picquer">pique</ref>,</l>
             <l n="490" xml:id="l490">Et ma jouë en peut estre un témoin autentique.</l>
-            <l n="491" xml:id="l491">Faire pleine <ref target="#recepte">recepte*</ref> à deux doigts de mon nez<note n="100" place="bottom">Recevoir une gifle en pleine figure.</note></l>
+            <l n="491" xml:id="l491">Faire pleine <ref target="#recepte">recepte</ref> à deux doigts de mon nez<note n="100" place="bottom">Recevoir une gifle en pleine figure.</note></l>
             <l n="492" xml:id="l492">D’un soufflet plantureux, &amp; des mieux assenez<note n="101" place="bottom">Le verbe désigne l’action de « porter un coup justement où on a dessein de frapper ». (F)</note>,</l>
             <l n="493" xml:id="l493">D’un soufflet qu’une main bien plus noire que blanche</l>
             <l n="494" xml:id="l494">Depuis plus de six mois mitonnoit dans sa manche,</l>
@@ -2561,18 +2558,18 @@
           </sp>
           <sp who="second-nicandre" xml:id="II08-11">
             <speaker>Le second NICANDRE.</speaker>
-            <l n="497" xml:id="l497">Est-ce pure <ref target="#gageure">gageure*</ref> ? Ou bien si tu déterres<note n="102" place="bottom">« Découvrir, faire connaître une chose cachée. » (A) </note>…</l>
+            <l n="497" xml:id="l497">Est-ce pure <ref target="#gageure">gageure</ref> ? Ou bien si tu déterres<note n="102" place="bottom">« Découvrir, faire connaître une chose cachée. » (A) </note>…</l>
           </sp>
           <sp who="robin" xml:id="II08-12">
             <speaker>ROBIN.</speaker>
-            <l n="498" part="I" xml:id="l498">C’est <ref target="#gageure">gageure*</ref>.</l>
+            <l n="498" part="I" xml:id="l498">C’est <ref target="#gageure">gageure</ref>.</l>
           </sp>
           <sp who="second-nicandre" xml:id="II08-13">
             <speaker>Le second NICANDRE.</speaker>
-            <l part="M"><ref target="#gageure">Gageure*</ref> ?</l>
+            <l part="M"><ref target="#gageure">Gageure</ref> ?</l>
           </sp>
           <sp who="robin" xml:id="II08-14">
-            <speaker>ROBIN <hi rend="i">monstrant sa jouë.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>monstrant sa jouë.</stage>
             <l part="F">On m’en donne des erres<note n="103" place="bottom"> Robin, furieux d’avoir été giflé à la scène 6, montre sa joue qui porte les <hi rend="i">erres</hi> c’est-à-dire les traces du soufflet.</note></l>
             <stage>(Il chante de rage.)</stage>
             <pb n="41"/>
@@ -2583,7 +2580,7 @@
           <head>SCENE IX.</head>
           <stage>JACINTE, HIPOLITE, le second NICANDRE, ROBIN.</stage>
           <sp who="jacinte" xml:id="II09-1">
-            <speaker>JACINTE, <hi rend="i">sortant avec Hipolite.</hi></speaker>
+            <speaker>JACINTE, </speaker><stage>sortant avec Hipolite.</stage>
             <l n="500" xml:id="l500">Il vous attend Madame, &amp; c’est luy que voila,</l>
             <l n="501" part="I" xml:id="l501">Avancez.</l>
             <stage>(à Nicandre.)</stage>
@@ -2600,7 +2597,7 @@
             <l n="508" part="I" xml:id="l508">Non, non…</l>
           </sp>
           <sp who="hipolite" xml:id="II09-3">
-            <speaker>HIPOLITE <hi rend="i">à Nicandre.</hi></speaker>
+            <speaker>HIPOLITE </speaker><stage>à Nicandre.</stage>
             <l part="F">De vos mépris vous voila de retour,</l>
             <l n="509" xml:id="l509">Je l’ay sçeu de Jacinte, Ismene est pourtant belle.</l>
           </sp>
@@ -2651,7 +2648,7 @@
           </sp>
           <sp who="second-nicandre" xml:id="II09-14">
             <speaker>Le second NICANDRE.</speaker>
-            <l n="519" xml:id="l519">Moy visite ! Robin pourra dire au <ref target="#besoin">besoin*</ref>…</l>
+            <l n="519" xml:id="l519">Moy visite ! Robin pourra dire au <ref target="#besoin">besoin</ref>…</l>
           </sp>
           <sp who="robin" xml:id="II09-15">
             <speaker>ROBIN.</speaker>
@@ -2667,7 +2664,7 @@
             <l n="522" part="I" xml:id="l522">Mais je me tais.</l>
           </sp>
           <sp who="hipolite" xml:id="II09-18">
-            <speaker>HIPOLITE <hi rend="i">à Jacinte.</hi></speaker>
+            <speaker>HIPOLITE </speaker><stage>à Jacinte.</stage>
             <pb n="43"/>
             <l part="F">Tu vois où ton zele m’expose</l>
             <l n="523" xml:id="l523">A ton rapport sans doute il n’a pas consenty.</l>
@@ -2725,9 +2722,9 @@
             <l n="533" xml:id="l533">Mais perfide Robin le desssein où tu buttes…</l>
           </sp>
           <sp who="robin" xml:id="II09-31">
-            <speaker>ROBIN <hi rend="i">monstrant sa jouë.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>monstrant sa jouë.</stage>
             <pb n="44"/>
-            <l n="534" xml:id="l534">Il <ref target="#ressouvenir">ressouvient*</ref> tousjours à Robin de ses flutes<note n="105" place="bottom"> Il s’agit d’un proverbe déjà connu au XVI<hi rend="sup">e</hi> siècle qui signifie que « chacun pense toujours à ses affaires, à ce qui le concerne. » (H) Ainsi dans ce passage, Robin montre sa joue à Nicandre et lui rappelle qu’il n’a pas oublié le soufflet qu’il a reçu précédemment (II, 6).</note>.</l>
+            <l n="534" xml:id="l534">Il <ref target="#ressouvenir">ressouvient</ref> tousjours à Robin de ses flutes<note n="105" place="bottom"> Il s’agit d’un proverbe déjà connu au XVI<hi rend="sup">e</hi> siècle qui signifie que « chacun pense toujours à ses affaires, à ce qui le concerne. » (H) Ainsi dans ce passage, Robin montre sa joue à Nicandre et lui rappelle qu’il n’a pas oublié le soufflet qu’il a reçu précédemment (II, 6).</note>.</l>
           </sp>
           <sp who="second-nicandre" xml:id="II09-32">
             <speaker>Le second NICANDRE.</speaker>
@@ -2736,10 +2733,10 @@
           <sp who="jacinte" xml:id="II09-33">
             <speaker>JACINTE.</speaker>
             <l n="536" xml:id="l536">Si je luy dechargeois un bon moule de gand<note n="106" place="bottom">« Pour soufflet, coup de poing, ou coup appliqué sur le visage du plat de la main. » (L)</note>,</l>
-            <l n="537" xml:id="l537">Madame, laissez-moy luy <ref target="#bailler">bailler*</ref> sur la <ref target="#creste">creste*</ref>.</l>
+            <l n="537" xml:id="l537">Madame, laissez-moy luy <ref target="#bailler">bailler</ref> sur la <ref target="#creste">creste</ref>.</l>
           </sp>
           <sp who="robin" xml:id="II09-34">
-            <speaker>ROBIN <hi rend="i">à Jacinte.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>à Jacinte.</stage>
             <l n="538" xml:id="l538">Ne prends point de conseil que celuy de ta teste ;</l>
             <l n="539" part="I" xml:id="l539">J’en suis de moitié rosse<note n="107" place="bottom"> « Terme populaire. Bastonner rudement quelqu’un, le traiter en <hi rend="i">rosse</hi> ; et se dit par extension de toutes sortes de mauvais traitements. » (F)</note>.</l>
           </sp>
@@ -2788,15 +2785,15 @@
           <sp who="jacinte" xml:id="II09-43">
             <speaker>JACINTE.</speaker>
             <l part="F">Madame, admirez l’autre traistre,</l>
-            <l n="554" xml:id="l554">Le valet se <ref target="#gauberger">gauberge*</ref> aussi bien que le maistre ;</l>
+            <l n="554" xml:id="l554">Le valet se <ref target="#gauberger">gauberge</ref> aussi bien que le maistre ;</l>
             <l n="555" xml:id="l555">Oses-tu ?... Voyez-vous, il fait signe des yeux…</l>
           </sp>
           <sp who="robin" xml:id="II09-44">
             <speaker>ROBIN.</speaker>
-            <l n="556" part="I" xml:id="l556">Vous mentez comme un Diable <ref target="#impudent">impudente*</ref>.</l>
+            <l n="556" part="I" xml:id="l556">Vous mentez comme un Diable <ref target="#impudent">impudente</ref>.</l>
           </sp>
           <sp who="jacinte" xml:id="II09-45">
-            <speaker>JACINTE <hi rend="i">luy donne un soufflet.</hi></speaker>
+            <speaker>JACINTE </speaker><stage>luy donne un soufflet.</stage>
             <l part="M">Moy ?</l>
           </sp>
           <sp who="robin" xml:id="II09-46">
@@ -2807,7 +2804,7 @@
           </sp>
           <sp who="jacinte" xml:id="II09-47">
             <speaker>JACINTE.</speaker>
-            <l n="559" part="I" xml:id="l559">Quoy <ref target="#belistre">belistre*</ref>…</l>
+            <l n="559" part="I" xml:id="l559">Quoy <ref target="#belistre">belistre</ref>…</l>
           </sp>
           <sp who="second-nicandre" xml:id="II09-48">
             <speaker>Le second NICANDRE.</speaker>
@@ -2820,7 +2817,7 @@
             <l n="565" part="I" xml:id="l565">Je sors.</l>
           </sp>
           <sp who="robin" xml:id="II09-49">
-            <speaker>ROBIN <hi rend="i">à Jacinte.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>à Jacinte.</stage>
             <l part="F">Je sors aussi, mais avant que je sorte</l>
             <l n="566" xml:id="l566">A ton peste de bras qui n’a pas la main morte</l>
             <l n="567" xml:id="l567">Je souhaite la galle, &amp; qui mine ton corps ;<pb n="46"/></l>
@@ -2829,15 +2826,15 @@
             <l n="570" xml:id="l570">Que de toy desormais tout chacun se dégouste ;</l>
             <l n="571" xml:id="l571">Je souhaite à ton ventre une canine faim,    </l>
             <l n="572" xml:id="l572">Et que pas un mortel ne te donne du pain ;</l>
-            <l n="573" xml:id="l573">Loin d’avoir des <ref target="#appas">appas*</ref>, &amp; des charmes qui brillent,</l>
+            <l n="573" xml:id="l573">Loin d’avoir des <ref target="#appas">appas</ref>, &amp; des charmes qui brillent,</l>
             <l n="574" xml:id="l574">Je souhaite à ton sein des tetons qui brandillent ;</l>
             <l n="575" xml:id="l575">A ton bas de visage un menton fort pointu ;</l>
             <l n="576" xml:id="l576">A tes dents une bresche à passer tout vestu ;</l>
             <l n="577" xml:id="l577">A ton nez la roupie ; aux yeux cire<note n="110" place="bottom"> La <hi rend="i">roupie</hi> est une « goutte de pituite qui dégoutte du cerveau par le nez, lors qu’il fait froid ou qu’on est enrhumé » (F) et les yeux <hi rend="i">cire</hi> désigne « la chassie qui vient aux yeux des vieilles gens. » (A)</note>, au front crasse ;</l>
             <l n="578" xml:id="l578">Et que de tes cheveux dont tu tires ta grace</l>
-            <l n="579" xml:id="l579">On fasse des <ref target="#licou">licous*</ref> au Bourreau de Paris</l>
+            <l n="579" xml:id="l579">On fasse des <ref target="#licou">licous</ref> au Bourreau de Paris</l>
             <l n="580" xml:id="l580">Pour pendre les lacquais qui sont au Paradis.</l>
-            <l n="581" part="I" xml:id="l581">Peste de Cagne*.</l>
+            <l n="581" part="I" xml:id="l581">Peste de Cagne.</l>
           </sp>
         </div>
         <div type="scene" xml:id="II10">
@@ -2877,14 +2874,14 @@
             <l n="590" xml:id="l590">De sa voix attractive incorpore<note n="112" place="bottom">« C’est de plusieurs choses n’en faire qu’un corps. » (R) </note> la cause,</l>
             <l n="591" xml:id="l591">Articule tes mots, &amp; divulgue le fait ;</l>
             <l n="592" xml:id="l592">Puis apres de la cause on descend à l’effet.</l>
-            <l n="593" xml:id="l593">Deduits ta <ref target="#malencontre">malencontre*</ref> en maniere succinte.</l>
+            <l n="593" xml:id="l593">Deduits ta <ref target="#malencontre">malencontre</ref> en maniere succinte.</l>
           </sp>
           <sp who="hipolite" xml:id="II11-4">
             <speaker>HIPOLITE.</speaker>
             <l n="594" xml:id="l594">Il est venu… Monsieur, demandez à Jacinte.</l>
           </sp>
           <sp who="isidore" xml:id="II11-5">
-            <speaker>ISIDORE <hi rend="i">à Jacinte.</hi></speaker>
+            <speaker>ISIDORE </speaker><stage>à Jacinte.</stage>
             <l n="595" xml:id="l595">Oculaire témoin du mal-heur qu’elle tait,</l>
             <l n="596" xml:id="l596">Toy, qui peut à son pere inculquer son secret,</l>
             <l n="597" xml:id="l597">De le développer j’interpelle<note n="113" place="bottom">« Sommer quelqu’un de quelque chose à quoi son devoir l’oblige. » (A)</note> ton ame.</l>
@@ -2918,10 +2915,10 @@
           <sp who="hipolite" xml:id="II11-12">
             <speaker>HIPOLITE.</speaker>
             <l part="F">Autre part je sçauray vous tout dire,</l>
-            <l n="603" xml:id="l603">Et puisqu’un prompt remede est icy de <ref target="#saison">saison*</ref></l>
+            <l n="603" xml:id="l603">Et puisqu’un prompt remede est icy de <ref target="#saison">saison</ref></l>
             <l n="604" xml:id="l604">Vous forcerez le traistre à m’en faire raison<note n="115" place="bottom">« Se dit de la justice qu’on fait, ou qu’on demande à quelqu’un, de l’éclaircissement de quelque doute, de la réparation de quelque injure reçue. » (F)</note>.</l>
           </sp>
-          <label rend="i">Fin du second Acte.</label>
+          <trailer rend="i">Fin du second Acte.</trailer>
         </div>
       </div>
       <div type="act" xml:id="III">
@@ -2986,10 +2983,10 @@
           </sp>
           <sp who="ismene" xml:id="III01-7">
             <speaker>ISMENE.</speaker>
-            <l n="640" xml:id="l640">Vous croyez mon <ref target="#cartel">cartel*</ref> fabriqué de ma main ?</l>
+            <l n="640" xml:id="l640">Vous croyez mon <ref target="#cartel">cartel</ref> fabriqué de ma main ?</l>
             <l n="641" xml:id="l641">Une main empruntée a pris soin de l’écrire ;</l>
             <l n="642" xml:id="l642">Et pour en peu de mots achever de tout dire,<pb n="51"/></l>
-            <l n="643" xml:id="l643">Un valet que j’ay pris aux <ref target="#degré">degrez*</ref> du Palais</l>
+            <l n="643" xml:id="l643">Un valet que j’ay pris aux <ref target="#degré">degrez</ref> du Palais</l>
             <l n="644" xml:id="l644">Mieux vestu mille fois que mille autres valets</l>
             <l n="645" xml:id="l645">Servira ma colere, &amp; fera mon message ;</l>
             <l n="646" xml:id="l646">Vous de vostre costé commencez vostre ouvrage,</l>
@@ -3032,7 +3029,7 @@
           <sp who="ragotin" xml:id="III02-5">
             <speaker>RAGOTIN.</speaker>
             <l n="663" xml:id="l663">Du courage ! J’en créve… En mon juste courroux…</l>
-            <l n="664" xml:id="l664"><ref target="#produire">Produisez*</ref> quelques-uns qui me tastent le poux,</l>
+            <l n="664" xml:id="l664"><ref target="#produire">Produisez</ref> quelques-uns qui me tastent le poux,</l>
             <l n="665" part="I" xml:id="l665">Est-ce Brave<note n="118" place="bottom">« En termes de guerre, signifie, intrépide, qui affronte les périls (…), se prend aussi en mauvaise part, et se dit d’un assassin, d’un homme qu’on emploie à toutes sortes de méchantes actions. » (F)</note> ? Soldat ? Mousquetaire ?</l>
           </sp>
           <sp who="ismene" xml:id="III02-6">
@@ -3077,7 +3074,7 @@
             <speaker>ISMENE.</speaker>
             <l part="F">J’ay querelle</l>
             <l n="674" xml:id="l674">Et je veux éprouver à quel poinct va ton zele :</l>
-            <l n="675" xml:id="l675">Pour porter un <ref target="#cartel">Cartel*</ref> de toy seul j’ay fait choix.</l>
+            <l n="675" xml:id="l675">Pour porter un <ref target="#cartel">Cartel</ref> de toy seul j’ay fait choix.</l>
           </sp>
           <sp who="ragotin" xml:id="III02-15">
             <speaker>RAGOTIN.</speaker>
@@ -3085,11 +3082,11 @@
           </sp>
           <sp who="ismene" xml:id="III02-16">
             <speaker>ISMENE.</speaker>
-            <l n="677" part="I" xml:id="l677"><ref target="#selon">Selon*</ref>.</l>
+            <l n="677" part="I" xml:id="l677"><ref target="#selon">Selon</ref>.</l>
           </sp>
           <sp who="ragotin" xml:id="III02-17">
             <speaker>RAGOTIN.</speaker>
-            <l part="F">Dites-moy donc sans donner de <ref target="#bricoler">bricole*</ref></l>
+            <l part="F">Dites-moy donc sans donner de <ref target="#bricoler">bricole</ref></l>
             <l n="678" xml:id="l678">Si c’est que je me louë, ou bien si je m’enrolle<note n="120" place="bottom"> « On dit absolument, <hi rend="i">s’enrôler</hi>, pour dire, se faire soldat. » (F) Ici, Ragotin demande à Ismène s’il est à son service pour un temps ou bien s’il s’engage durablement auprès d’elle.</note> ?</l>
           </sp>
           <sp who="ismene" xml:id="III02-18">
@@ -3112,7 +3109,7 @@
           </sp>
           <sp who="ismene" xml:id="III02-22">
             <speaker>ISMENE.</speaker>
-            <l part="F">Voila le <ref target="#cartel">Cartel*</ref>, prends le soin de le rendre,</l>
+            <l part="F">Voila le <ref target="#cartel">Cartel</ref>, prends le soin de le rendre,</l>
             <l n="682" xml:id="l682">Tu liras le dessus, il s’addresse à Nicandre.</l>
           </sp>
           <sp who="ragotin" xml:id="III02-23">
@@ -3133,7 +3130,7 @@
             <l n="685" xml:id="l685">S’il demande le nom de celuy qui t’envoye,</l>
             <l n="686" xml:id="l686">Il pourra le sçavoir, puis qu’il faut qu’il me voye ;</l>
             <l n="687" xml:id="l687">Je vais dans mon logis, ruë aux Ours, au Dauphin,</l>
-            <l n="688" xml:id="l688">De ce jour <ref target="#ennuy">ennuyeux*</ref> attendre le declin,</l>
+            <l n="688" xml:id="l688">De ce jour <ref target="#ennuy">ennuyeux</ref> attendre le declin,</l>
             <l n="689" xml:id="l689">Cela fait dans ce lieu tu viendras me reprendre,</l>
             <l n="690" part="I" xml:id="l690">Adieu.</l>
           </sp>
@@ -3141,13 +3138,13 @@
         <div type="scene" xml:id="III03">
           <head>SCENE III.</head>
           <sp who="ragotin" xml:id="III03-1">
-            <speaker>RAGOTIN <hi rend="i">seul.</hi></speaker>
-            <l part="F">Je vais porter un <ref target="#cartel">Cartel*</ref> à Nicandre !</l>
+            <speaker>RAGOTIN </speaker><stage>seul.</stage>
+            <l part="F">Je vais porter un <ref target="#cartel">Cartel</ref> à Nicandre !</l>
             <l n="691" xml:id="l691">A luy qui me veut battre, et qui fait le mâdré<note n="121" place="bottom">« Fin, adroit, qui trompe facilement, et qui ne se laisse point tromper. » (F)</note>,</l>
             <l n="692" xml:id="l692">Ah Nicandre, ma foy tu seras Nicandré<note n="122" place="bottom">Participe passé formé à partir du nom propre Nicandre qui est synonyme de tromperie et de mensonge pour Ragotin qui désire se venger.</note> !</l>
             <l n="693" xml:id="l693">Tu t’en vas étrenner mon épée. Il avance,</l>
             <l n="694" xml:id="l694">Mais il ne songe pas à cecy que je pense ;</l>
-            <l n="695" xml:id="l695">Dieu sçait si le <ref target="#cartel">Cartel*</ref> le va rendre esperdu !</l>
+            <l n="695" xml:id="l695">Dieu sçait si le <ref target="#cartel">Cartel</ref> le va rendre esperdu !</l>
           </sp>
         </div>
         <div type="scene" xml:id="III04">
@@ -3161,8 +3158,8 @@
             <l n="698" part="I" xml:id="l698">Où pourray-je à present la trouver ? Ah, ah.</l>
           </sp>
           <sp who="ragotin" xml:id="III04-2">
-            <speaker>RAGOTIN <hi rend="i">luy allongeant une <ref target="#botte">botte*</ref>.</hi></speaker>
-            <l part="F"><ref target="#zeste">Zeste*</ref>.</l>
+            <speaker>RAGOTIN </speaker><stage>luy allongeant une </stage>
+            <l part="F"><ref target="#zeste">Zeste</ref>.</l>
           </sp>
           <sp who="premier-nicandre" xml:id="III04-3">
             <speaker>Le premier NICANDRE.</speaker>
@@ -3179,12 +3176,12 @@
             <l n="702" part="I" xml:id="l702">Et si tu fais le fou tu ne doute[s] pas…</l>
           </sp>
           <sp who="ragotin" xml:id="III04-6">
-            <speaker>RAGOTIN <hi rend="i">allongeant encore une autre <ref target="#botte">botte*</ref>.</hi></speaker>
-            <l part="F"><ref target="#zeste">Zeste*</ref>.</l>
+            <speaker>RAGOTIN </speaker><stage>allongeant encore une autre </stage>
+            <l part="F"><ref target="#zeste">Zeste</ref>.</l>
           </sp>
           <sp who="premier-nicandre" xml:id="III04-7">
             <speaker>Le premier NICANDRE.</speaker>
-            <l n="703" part="I" xml:id="l703">Où crois-tu que tu sois, dy <ref target="#marouffle">marouffle*</ref>.</l>
+            <l n="703" part="I" xml:id="l703">Où crois-tu que tu sois, dy <ref target="#marouffle">marouffle</ref>.</l>
           </sp>
           <sp who="ragotin" xml:id="III04-8">
             <speaker>RAGOTIN.</speaker>
@@ -3211,12 +3208,12 @@
           <sp who="ragotin" xml:id="III04-12">
             <speaker>RAGOTIN.</speaker>
             <l part="F">Tantost vous aurez de l’infame ;</l>
-            <l n="711" xml:id="l711">Vous m’avez querellé, vous avez fait le <ref target="#fat">fat*</ref>,</l>
+            <l n="711" xml:id="l711">Vous m’avez querellé, vous avez fait le <ref target="#fat">fat</ref>,</l>
             <l n="712" xml:id="l712">Vous en mourrez, beau Sire, &amp; mourrez <hi rend="i">intestat</hi><note n="124" place="bottom">Mourir sans faire de testament.</note>,</l>
             <l n="713" part="I" xml:id="l713">Lisez.</l>
           </sp>
           <sp who="premier-nicandre" xml:id="III04-13">
-            <speaker>Le premier NICANDRE <hi rend="i">lit.</hi></speaker>
+            <speaker>Le premier NICANDRE </speaker><stage>lit.</stage>
             <l part="F"><hi rend="i">Sans que je me nomme</hi>,</l>
             <l n="714" xml:id="l714">Nicandre vous sçaurez que je suis Gentil-homme,</l>
             <l n="715" xml:id="l715"><hi rend="i">Qui l’espée à la main ay dessein de vous voir</hi>,</l>
@@ -3267,7 +3264,7 @@
         <div type="scene" xml:id="III05">
           <head>SCENE V.</head>
           <sp who="premier-nicandre" xml:id="III05-1">
-            <speaker>Le premier NICANDRE <hi rend="i">seul.</hi></speaker>
+            <speaker>Le premier NICANDRE </speaker><stage>seul.</stage>
             <l n="730" xml:id="l730">Ciel vous m’estes propice, &amp; l’on ouvre la porte ;</l>
             <l n="731" xml:id="l731">Le bon-heur de vous voir va donc m’estre accordé</l>
             <l n="732" xml:id="l732">Hipolite, Jacinte, ay-je point trop tardé ?</l>
@@ -3281,7 +3278,7 @@
           <stage>JACINTE, Le premier NICANDRE.</stage>
           <sp who="jacinte" xml:id="III06-1">
             <speaker>JACINTE.</speaker>
-            <l part="F">Allez vous-en au <ref target="#peautre">peautre*</ref>, à qui vous estes.</l>
+            <l part="F">Allez vous-en au <ref target="#peautre">peautre</ref>, à qui vous estes.</l>
           </sp>
           <sp who="premier-nicandre" xml:id="III06-2">
             <speaker>Le premier NICANDRE.</speaker>
@@ -3300,8 +3297,8 @@
             <speaker>JACINTE.</speaker>
             <l part="F">Il me semble</l>
             <l n="738" xml:id="l738">Qu’on ne vaut pas la peste alors qu’on vous ressemble,</l>
-            <l n="739" xml:id="l739">Qu’estre lasche, perfide, hipocrite, <ref target="#emballeur">emballeur*</ref>,</l>
-            <l n="740" xml:id="l740">Meschant comme la gresle, insolent <ref target="#suborner">suborneur*</ref>,</l>
+            <l n="739" xml:id="l739">Qu’estre lasche, perfide, hipocrite, <ref target="#emballeur">emballeur</ref>,</l>
+            <l n="740" xml:id="l740">Meschant comme la gresle, insolent <ref target="#suborner">suborneur</ref>,</l>
             <l n="741" xml:id="l741">Qu’avoir l’ame du Diable à tous coups possedée,</l>
             <l n="742" xml:id="l742">C’est de vostre peinture une legere idée<note n="125" place="bottom">Cette description est encore trop loin de la réalité.</note> ;</l>
             <l n="743" part="I" xml:id="l743">Il me semble cela.</l>
@@ -3345,7 +3342,7 @@
             <l n="748" part="I" xml:id="l748">Attendez.</l>
           </sp>
           <sp who="premier-nicandre" xml:id="III07-5">
-            <speaker>Le premier NICANDRE <hi rend="i">à Jacinte.</hi></speaker>
+            <speaker>Le premier NICANDRE </speaker><stage>à Jacinte.</stage>
             <l part="F">Vous pouvez par le mesme moyen…</l>
             <l n="749" xml:id="l749">A tout ce procedé, je ne puis rien comprendre,</l>
             <l n="750" part="I" xml:id="l750">Jacinte…</l>
@@ -3358,7 +3355,7 @@
             <l n="753" part="I" xml:id="l753">Qu’as-tu fait de ma fille ?</l>
           </sp>
           <sp who="jacinte" xml:id="III07-7">
-            <speaker>JACINTE <hi rend="i">appelle à une fenestre.</hi></speaker>
+            <speaker>JACINTE </speaker><stage>appelle à une fenestre.</stage>
             <l part="F">Isidore ! Allons viste.</l>
             <stage>(A Eutrope.)</stage>
             <pb n="60"/>
@@ -3373,14 +3370,14 @@
           <sp who="jacinte" xml:id="III07-9">
             <speaker>JACINTE.</speaker>
             <l part="F">Tenez ferme, &amp; ne le laschez pas ;</l>
-            <l n="757" xml:id="l757">Son <ref target="#filou">filou*</ref> de cacquet m’a sceu rendre ébloüye.</l>
+            <l n="757" xml:id="l757">Son <ref target="#filou">filou</ref> de cacquet m’a sceu rendre ébloüye.</l>
           </sp>
         </div>
         <div type="scene" xml:id="III08">
           <head>SCENE VIII.</head>
           <stage>ISIDORE, JACINTE, EUTROPE, Le premier NICANDRE.</stage>
           <sp who="isidore" xml:id="III08-1">
-            <speaker>ISIDORE <hi rend="i">à la fenestre.</hi></speaker>
+            <speaker>ISIDORE </speaker><stage>à la fenestre.</stage>
             <l n="758" xml:id="l758">Une voix transcendante<note n="128" place="bottom">« Qui est élevé au dessus des autres choses. » (F)</note> a percé mon oüye.</l>
             <l n="759" part="I" xml:id="l759">Apprettez-vous<note n="129" place="bottom">« Préparer, mettre en état. » (A)</note>…</l>
           </sp>
@@ -3417,7 +3414,7 @@
             <l part="F">Il est vray, mais confus…</l>
           </sp>
           <sp who="isidore" xml:id="III08-8">
-            <speaker>ISIDORE <hi rend="i">en bas.</hi></speaker>
+            <speaker>ISIDORE </speaker><stage>en bas.</stage>
             <l n="768" xml:id="l768">Rendons-en grace, &amp; los à Jupin de la sus<note n="131" place="bottom"><hi rend="i">Los</hi> est un « vieux mot qui signifie, louange, et qui n’est plus en usage que dans le burlesque » (A). <hi rend="i">Jupin</hi> équivaut à la « forme du nom Jupiter dans l’ancien français » d’après Emile Littré, et <hi rend="i">sus</hi> est une « sorte d’<hi rend="i">interjection</hi> qui sert à exhorter ». (R) Isidore remercie le ciel qu’on ait retrouvé Nicandre, il pourra ainsi sauvé l’honneur de sa fille.</note>.</l>
             <l n="769" xml:id="l769">O malin Tereus<note n="132" place="bottom">Forme latine de Térée qui, dans la mythologie, viola sa belle-sœur Philomèle.</note> de qui l’ame trop noire</l>
             <l n="770" xml:id="l770">D’une Philomella<note n="133" place="bottom">« Fille de Pandion, Roy d’Athènes. Térée (…) la viola ; et ensuite lui coupa la langue et la mit en prison. Mais Philomèle en avertit sa sœur, qui la délivra durant la fête de Bacchus, et elle fut changée en rossignol. » (M)</note> contamines la gloire ;</l>
@@ -3425,7 +3422,7 @@
             <l n="772" xml:id="l772">Veux immatriculer<note n="134" place="bottom">« Mettre dans la Matricule [qui est] le registre (…) dans lequel on écrit les noms des personnes qui entrent dans quelque Compagnie. » (A)</note> tes coupables desirs ;</l>
             <l n="773" xml:id="l773">Un saut patibulaire<note n="135" place="bottom">Image métaphorique de la pendaison, le saut relate le court moment pendant lequel un coupable se retrouve subitement suspendu au bout d’une corde. Isidore demande que Nicandre soit pendu.</note> est le prix que j’annexe</l>
             <l n="774" xml:id="l774">Aux torrides<note n="136" place="bottom">Se dit « en parlant de géographie et de l’une des zones qui est entre les Tropiques. » (R) Isidore ne l’utilise pas dans son sens habituel.</note> souhaits dont l’outrage me vexe ;</l>
-            <l n="775" xml:id="l775">Et par un sort tragique <ref target="#aspre">asprement*</ref> avancé</l>
+            <l n="775" xml:id="l775">Et par un sort tragique <ref target="#aspre">asprement</ref> avancé</l>
             <l n="776" xml:id="l776">Du terrestre climat tu seras expulsé.</l>
           </sp>
           <sp who="jacinte" xml:id="III08-9">
@@ -3436,7 +3433,7 @@
             <stage>(Elle sort)</stage>
           </sp>
           <sp who="premier-nicandre" xml:id="III08-10">
-            <speaker>Le premier NICANDRE <hi rend="i">tenu par les deux bras.</hi></speaker>
+            <speaker>Le premier NICANDRE </speaker><stage>tenu par les deux bras.</stage>
             <l n="780" xml:id="l780">Quoy, de l’un &amp; de l’autre éprouver la fureur !</l>
             <l n="781" xml:id="l781">D’un couroux si bizarre apprenez-moy la cause ;</l>
             <l n="782" xml:id="l782">Soit à vous, soit à vous, ay-je fait quelque chose ?</l>
@@ -3471,7 +3468,7 @@
           <sp who="isidore" xml:id="III08-16">
             <speaker>ISIDORE.</speaker>
             <l n="792" xml:id="l792">Eutrope ! Ah parangon<note n="141" place="bottom">« Vieux mot qui signifiait autrefois une chose excellente et hors de comparaison. » (F)</note> des fidelles amis !</l>
-            <l n="793" xml:id="l793">Charissime<note n="142" place="bottom"> Construit à partir de l’adjectif « cher » auquel on ajoute le suffixe d’intensité –issime introduit au XVI<hi rend="sup">e</hi> suivant les modèles latins et italiens.</note> Collegue incapable de <ref target="#noise">noises*</ref>,</l>
+            <l n="793" xml:id="l793">Charissime<note n="142" place="bottom"> Construit à partir de l’adjectif « cher » auquel on ajoute le suffixe d’intensité –issime introduit au XVI<hi rend="sup">e</hi> suivant les modèles latins et italiens.</note> Collegue incapable de <ref target="#noise">noises</ref>,</l>
             <l n="794" xml:id="l794">Relegué par le sort aux rives Lyonnoises,</l>
             <l n="795" xml:id="l795">Si vous estes fertille en tendresses pour moy,</l>
             <l n="796" xml:id="l796">Etreignez Isidore, &amp; pleignez son esmoy :</l>
@@ -3515,7 +3512,7 @@
           <head>SCENE IX.</head>
           <stage>Le second NICANDRE, ROBIN, EUTROPE, ISIDORE.</stage>
           <sp who="robin" xml:id="III09-1">
-            <speaker>ROBIN <hi rend="i">chargé d’une Valise.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>chargé d’une Valise.</stage>
             <l n="804" xml:id="l804">Ah ! Que démenager est un rude tracas !</l>
             <l n="805" xml:id="l805">Peste soit la valise, elle est diablement lourde,</l>
             <l n="806" part="I" xml:id="l806">Haye ! Au meurtre ! Ah l’échine<note n="143" place="bottom">Substantif formé à partir du verbe qui « signifie figurément tuer, assommer dans une mêlée, dans un combat, dans une déroute. » (A)</note> !</l>
@@ -3563,12 +3560,12 @@
           </sp>
           <sp who="isidore" xml:id="III10-4">
             <speaker>ISIDORE.</speaker>
-            <l n="820" xml:id="l820">Dans la prison prochaine il le faut <ref target="#colloquer">colloquer*</ref>,</l>
-            <l n="821" xml:id="l821">Et que touchant son Maistre une <ref target="#réminiscence">reminiscence*</ref>…</l>
+            <l n="820" xml:id="l820">Dans la prison prochaine il le faut <ref target="#colloquer">colloquer</ref>,</l>
+            <l n="821" xml:id="l821">Et que touchant son Maistre une <ref target="#réminiscence">reminiscence</ref>…</l>
           </sp>
           <sp who="robin" xml:id="III10-5">
             <speaker>ROBIN.</speaker>
-            <l n="822" xml:id="l822">Moy, Messieurs, en prison ? Vous <ref target="#railler">raillez*</ref> que je pense.</l>
+            <l n="822" xml:id="l822">Moy, Messieurs, en prison ? Vous <ref target="#railler">raillez</ref> que je pense.</l>
           </sp>
           <sp who="eutrope" xml:id="III10-6">
             <speaker>EUTROPE.</speaker>
@@ -3604,7 +3601,7 @@
           </sp>
           <sp who="robin" xml:id="III10-11">
             <speaker>ROBIN.</speaker>
-            <l n="838" xml:id="l838">En son chien de patois qu’est-ce qu’il <ref target="#baragouiner">baragouïne*</ref> ?</l>
+            <l n="838" xml:id="l838">En son chien de patois qu’est-ce qu’il <ref target="#baragouiner">baragouïne</ref> ?</l>
             <l n="839" xml:id="l839">Ma mort est resolüe, il le dit en Hebreu.</l>
             <l n="840" xml:id="l840">A condamner Robin differez tant soit peu</l>
             <l n="841" xml:id="l841">Et qu’un jour à venir le bon Dieu vous le rende</l>
@@ -3620,7 +3617,7 @@
           <stage>EUTROPE, ISIDORE, JACINTE, UN SERGENT, [ROBIN], des Archers.</stage>
           <sp who="sergent" xml:id="III11-1">
             <speaker>LE SERGENT.</speaker>
-            <l n="846" xml:id="l846">Messieurs, de la Justice ayant l’<ref target="#heur">heur*</ref> d’estre Membre<note n="149" place="bottom"> « On appelle aussi figurément, <hi rend="i">Membres</hi>, les parties d’un Corps politique, comme d’un Etat, d’une Compagnie de Magistrats. » (A) Le Sergent, fier de représenter la loi, se présente en accentuant son appartenance à la Justice mais Robin interrompt son discours et le tourne en dérision. Dans la suite du texte, le valet joue sur les différents sens de ce mot, rendant ainsi la situation comique. (Voir la note du v. 878.)</note>…</l>
+            <l n="846" xml:id="l846">Messieurs, de la Justice ayant l’<ref target="#heur">heur</ref> d’estre Membre<note n="149" place="bottom"> « On appelle aussi figurément, <hi rend="i">Membres</hi>, les parties d’un Corps politique, comme d’un Etat, d’une Compagnie de Magistrats. » (A) Le Sergent, fier de représenter la loi, se présente en accentuant son appartenance à la Justice mais Robin interrompt son discours et le tourne en dérision. Dans la suite du texte, le valet joue sur les différents sens de ce mot, rendant ainsi la situation comique. (Voir la note du v. 878.)</note>…</l>
           </sp>
           <sp who="robin" xml:id="III11-2">
             <speaker>ROBIN.</speaker>
@@ -3644,9 +3641,9 @@
             <speaker>ISIDORE.</speaker>
             <l n="852" xml:id="l852">Imperceptiblement il s’est évaporé ;</l>
             <l n="853" xml:id="l853">Mais voila qui le pleige<note n="150" place="bottom">« Caution judiciaire, qui s’oblige devant un Juge de représenter quelqu’un, ou de payer ce qui sera jugé contre lui. » (F)</note>, il faut qu’on l’apprehende ;</l>
-            <l n="854" xml:id="l854">Que dedans une <ref target="#chartre">Chartre*</ref> apres on le descende ;</l>
+            <l n="854" xml:id="l854">Que dedans une <ref target="#chartre">Chartre</ref> apres on le descende ;</l>
             <l n="855" xml:id="l855">Et son procez en suite estant fait, &amp; parfait</l>
-            <l n="856" xml:id="l856">Qu’il serve d’<ref target="#holocauste">holocauste*</ref> à mon sang putrefect<note n="151" place="bottom">« Corrompu, gâté. » (F)</note>.</l>
+            <l n="856" xml:id="l856">Qu’il serve d’<ref target="#holocauste">holocauste</ref> à mon sang putrefect<note n="151" place="bottom">« Corrompu, gâté. » (F)</note>.</l>
           </sp>
           <sp who="eutrope" xml:id="III11-7">
             <speaker>EUTROPE.</speaker>
@@ -3672,15 +3669,15 @@
             <l n="860" part="I" xml:id="l860">Ouy perfide.</l>
           </sp>
           <sp who="robin" xml:id="III11-12">
-            <speaker>ROBIN <hi rend="i">à Isidore.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>à Isidore.</stage>
             <l part="F">La vostre a le mesme mal-heur ?</l>
           </sp>
           <sp who="isidore" xml:id="III11-13">
             <speaker>ISIDORE.</speaker>
-            <l n="861" part="I" xml:id="l861">Ouy, <ref target="#pecore">pecore*</ref>.</l>
+            <l n="861" part="I" xml:id="l861">Ouy, <ref target="#pecore">pecore</ref>.</l>
           </sp>
           <sp who="robin" xml:id="III11-14">
-            <speaker>ROBIN <hi rend="i">à Jacinte.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>à Jacinte.</stage>
             <l part="M">Et le tien ?</l>
           </sp>
           <sp who="jacinte" xml:id="III11-15">
@@ -3708,7 +3705,7 @@
             <l n="869" xml:id="l869">On te void du grand monde imiter la metode,<pb n="68"/></l>
             <l n="870" xml:id="l870">Tu veux comme ce monde encherir sur la mode,</l>
             <l n="871" xml:id="l871">Ce qu’il fait tu le fais, &amp; pour cette raison</l>
-            <l n="872" xml:id="l872">Le Si, dont je te parle est assez de <ref target="#saison">saison*</ref>.</l>
+            <l n="872" xml:id="l872">Le Si, dont je te parle est assez de <ref target="#saison">saison</ref>.</l>
             <l n="873" part="I" xml:id="l873">Si donc…</l>
           </sp>
           <sp who="jacinte" xml:id="III11-19">
@@ -3745,7 +3742,7 @@
             <l part="M">Prenez.</l>
           </sp>
           <sp who="sergent" xml:id="III11-27">
-            <speaker>LE SERGENT <hi rend="i">saisissant Robin.</hi></speaker>
+            <speaker>LE SERGENT </speaker><stage>saisissant Robin.</stage>
             <l part="F">De par le Roy…</l>
           </sp>
           <sp who="robin" xml:id="III11-28">
@@ -3775,10 +3772,10 @@
             <l n="892" part="I" xml:id="l892">Messieurs…</l>
           </sp>
           <sp who="isidore" xml:id="III11-31">
-            <speaker>ISIDORE <hi rend="i">au Sergent.</hi></speaker>
+            <speaker>ISIDORE </speaker><stage>au Sergent.</stage>
             <l part="F">Vous le tenez <hi rend="i">in manibus vestris</hi><note n="158" place="bottom">Dans vos mains.</note>,</l>
             <l n="893" xml:id="l893"><hi rend="i">Suffecit</hi><note n="159" place="bottom">Cela suffit.</note> ; <hi rend="i">Domine</hi><note n="160" place="bottom">Maître.</note> vous sçaurez m’en respondre,</l>
-            <l n="894" xml:id="l894">Dans un sombre manoir* vous devez le profondre<note n="161" place="bottom"> Verbe formé à partir de l’adjectif <hi rend="i">profond</hi>, il signifie mettre au fond.</note>,</l>
+            <l n="894" xml:id="l894">Dans un sombre manoir vous devez le profondre<note n="161" place="bottom"> Verbe formé à partir de l’adjectif <hi rend="i">profond</hi>, il signifie mettre au fond.</note>,</l>
             <l n="895" xml:id="l895">Puis quand dans la prison vous l’aurez integré,</l>
             <l n="896" xml:id="l896">L’hostel de Nicandre vous sera démonstré.</l>
             <l n="897" xml:id="l897">Sur tout vers sa demeure ayez soin qu’on se muce<note n="162" place="bottom"> « Vieux mot qui signifie <hi rend="i">cacher</hi>. » (F)</note>,</l>
@@ -3802,7 +3799,7 @@
           <head>SCENE XII.</head>
           <stage>ROBIN, LE SERGENT, JACINTE, Les Archers.</stage>
           <sp who="robin" xml:id="III12-1">
-            <speaker>ROBIN <hi rend="i">au Sergent.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>au Sergent.</stage>
             <l n="906" xml:id="l906">Membre, nous sommes seuls, on ne peut nous entendre,</l>
             <l n="907" xml:id="l907">Dites-moy, puis-je pas un moment vous parler ?</l>
           </sp>
@@ -3825,7 +3822,7 @@
             <l n="911" xml:id="l911">O Gigot de Justice<note n="165" place="bottom">Comique de mot, Robin emploie le substantif « gigot » qui prolonge ainsi le jeu de mot sur « membre » des vers 846-848, 879 et suivants (voir la note).</note>, &amp; traisnez avec moy</l>
             <l n="912" xml:id="l912">Mon mal-heureux pacquet dans la Maison du Roy<note n="166" place="bottom">« On appelle Maison du Roi, non pas seulement son Palais, mais tous ses Officiers qui servent à sa Cour, et qui sont couchés sur l’Etat. » (F)</note>.</l>
           </sp>
-          <label rend="i">Fin du troiziesme Acte.</label>
+          <trailer rend="i">Fin du troiziesme Acte.</trailer>
         </div>
       </div>
       <div type="act" xml:id="IV">
@@ -3857,7 +3854,7 @@
             <l n="928" xml:id="l928">Ce que vous nommez foible est toute ma vertu.<pb n="72"/></l>
             <l n="929" xml:id="l929">Il est doux d’estre aymé, c’est avoir de la gloire ;</l>
             <l n="930" xml:id="l930">Mais s’il est doux de l’estre, il est doux de le croire ;</l>
-            <l n="931" xml:id="l931">Vous avez tant d’<ref target="#appas">appas*</ref>, je merite si peu,</l>
+            <l n="931" xml:id="l931">Vous avez tant d’<ref target="#appas">appas</ref>, je merite si peu,</l>
             <l n="932" xml:id="l932">Qu’un équitable doute accompagne mon feu :</l>
             <l n="933" xml:id="l933">Je dois à l’apparence un amour qui m’honore,</l>
             <l n="934" xml:id="l934">En voyant mes deffauts m’aymerez-vous encore ?</l>
@@ -3869,17 +3866,17 @@
             <l n="937" xml:id="l937">Avouë ingenument que tu ne peux sans peine</l>
             <l n="938" xml:id="l938">Pour aymer Hipolite abandonner Ismene ;</l>
             <l n="939" xml:id="l939">Et que de mes bontez l’injurieux excez</l>
-            <l n="940" xml:id="l940">De ta premiere flâme empesche le <ref target="#succez">succez*</ref>.</l>
+            <l n="940" xml:id="l940">De ta premiere flâme empesche le <ref target="#succez">succez</ref>.</l>
             <l n="941" xml:id="l941">Afin que ton destin à mon destin s’attache</l>
             <l n="942" xml:id="l942">J’ay sçeu faire moy-meme à moy-meme une tâche ;</l>
-            <l n="943" xml:id="l943">On me croit abusée, on te croit <ref target="#suborner">suborneur*</ref>,</l>
+            <l n="943" xml:id="l943">On me croit abusée, on te croit <ref target="#suborner">suborneur</ref>,</l>
             <l n="944" xml:id="l944">Et l’on doit te contraindre à me rendre l’honneur.</l>
             <l n="945" xml:id="l945">Je te l’ay déjà dit, &amp; ton ame est instruite…</l>
           </sp>
           <sp who="premier-nicandre" xml:id="IV01-4">
             <speaker>Le premier NICANDRE.</speaker>
             <l n="946" xml:id="l946">Je l’avois oublié genereuse Hipolite,</l>
-            <l n="947" xml:id="l947">Mais il m’en <ref target="#ressouvenir">ressouvient*</ref>, &amp; d’un cœur amoureux</l>
+            <l n="947" xml:id="l947">Mais il m’en <ref target="#ressouvenir">ressouvient</ref>, &amp; d’un cœur amoureux</l>
             <l n="948" xml:id="l948">L’obligeante imposture a remply tous mes vœux.</l>
             <l n="949" xml:id="l949">De mon amour aussi daignez estre certaine,</l>
             <l n="950" xml:id="l950">Je soûpire pour vous, &amp; non pas pour Ismene,</l>
@@ -3911,7 +3908,7 @@
             <l part="F">Donc à ma flâme il n’est rien de contraire…</l>
           </sp>
           <sp who="hipolite" xml:id="IV01-9">
-            <speaker>HIPOLITE <hi rend="i">retourne sur ses pas.</hi></speaker>
+            <speaker>HIPOLITE </speaker><stage>retourne sur ses pas.</stage>
             <l n="962" xml:id="l962">Si je fais mon pouvoir je pourray beaucoup faire,</l>
             <l n="963" part="I" xml:id="l963">J’oubliois de le dire, Adieu,</l>
           </sp>
@@ -3931,12 +3928,12 @@
           <head>SCENE II.</head>
           <stage>ROBIN, le premier NICANDRE.</stage>
           <sp who="robin" xml:id="IV02-1">
-            <speaker>ROBIN <hi rend="i">avec une Bouteille à la main.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>avec une Bouteille à la main.</stage>
             <l n="970" xml:id="l970">Ah mon bon Dieu ! Pourtant je ne vois point de monde.</l>
-            <l n="971" xml:id="l971">Ces maudits Houspilleurs<note n="167" place="bottom"> Substantif formé par suffixation à partir du verbe <hi rend="i">houspiller</hi> qui signifie « se prendre et se battre en se jetant et se renversant l’un sur l’autre ». (R) Cette nominalisation désigne donc l’agent du procès.</note> comme ils m’ont fait <ref target="#driller">driller*</ref>.</l>
+            <l n="971" xml:id="l971">Ces maudits Houspilleurs<note n="167" place="bottom"> Substantif formé par suffixation à partir du verbe <hi rend="i">houspiller</hi> qui signifie « se prendre et se battre en se jetant et se renversant l’un sur l’autre ». (R) Cette nominalisation désigne donc l’agent du procès.</note> comme ils m’ont fait <ref target="#driller">driller</ref>.</l>
             <stage>(appercevant Nicandre.)</stage>
             <l n="972" xml:id="l972">Autre Chasse-Coquin qui m’entend babiller<note n="168" place="bottom">« Parler sans cesse, et ne dire que des choses de peu de considération. » (F)</note> ;</l>
-            <l n="973" xml:id="l973">Il me <ref target="#lorgner">lorgne*</ref>. Ah c’est vous, ô Messire Nicandre,</l>
+            <l n="973" xml:id="l973">Il me <ref target="#lorgner">lorgne</ref>. Ah c’est vous, ô Messire Nicandre,</l>
             <l n="974" part="I" xml:id="l974">Bon jour.</l>
           </sp>
           <sp who="premier-nicandre" xml:id="IV02-2">
@@ -3963,7 +3960,7 @@
           <sp who="premier-nicandre" xml:id="IV02-6">
             <speaker>Le premier NICANDRE.</speaker>
             <l part="F">Il t’importe ! As-tu quelque sujet</l>
-            <l n="981" part="I" xml:id="l981"><ref target="#maraut">Maraut*</ref>…</l>
+            <l n="981" part="I" xml:id="l981"><ref target="#maraut">Maraut</ref>…</l>
           </sp>
           <sp who="robin" xml:id="IV02-7">
             <speaker>ROBIN.    [75]</speaker>
@@ -3985,7 +3982,7 @@
           </sp>
           <sp who="robin" xml:id="IV02-11">
             <speaker>ROBIN.</speaker>
-            <l n="985" xml:id="l985"><ref target="#nenny">Nenny*</ref>, c’est pour le mien ; je <ref target="#suborner">suborne*</ref> des filles ;</l>
+            <l n="985" xml:id="l985"><ref target="#nenny">Nenny</ref>, c’est pour le mien ; je <ref target="#suborner">suborne</ref> des filles ;</l>
             <l n="986" xml:id="l986">Et je suis en amour grand abateur de quilles<note n="172" place="bottom"> « Qui abat, qui fait choir. Cet homme est un grand <hi rend="i">abateur</hi> de bois, de quilles : ce qui se dit proverbialement au figuré de celui qui se vante de faire beaucoup de choses au dessus de ses forces. » (F) Hana Baalbaki dans ses <hi rend="i">Recheches sur le lexique d’Edme Boursault</hi> traduit cette expression par « avoir beaucoup de succès en amour » et il traduit l’alexandrin ainsi : « Et je suis en amour grand conquérant », p. 40.</note>.</l>
           </sp>
           <sp who="premier-nicandre" xml:id="IV02-12">
@@ -3994,7 +3991,7 @@
           </sp>
           <sp who="robin" xml:id="IV02-13">
             <speaker>ROBIN.</speaker>
-            <l n="988" xml:id="l988">Ne vous souvient-il pas des deux chiens de <ref target="#grison">grisons*</ref></l>
+            <l n="988" xml:id="l988">Ne vous souvient-il pas des deux chiens de <ref target="#grison">grisons</ref></l>
             <l n="989" xml:id="l989">Vôtre futur beau-pere, &amp; son cher meigre-échine<note n="173" place="bottom"> « On appelle maigre <hi rend="i">échine</hi>, un homme menu, et qui manque de graisse. » (F)</note> ?</l>
           </sp>
           <sp who="premier-nicandre" xml:id="IV02-14">
@@ -4006,13 +4003,13 @@
             <l part="F">Tu Dieu<note n="174" place="bottom"> Interjection courante au XVII<hi rend="sup">e</hi> siècle, « Jurement, qui marque l’étonnement (…) ou la surprise. » (L)</note>, Monsieur, la méchante vermine !</l>
             <l n="991" xml:id="l991">A peine de leur veuë estiez-vous échapé</l>
             <l n="992" xml:id="l992">Qu’un gros peste de Membre aussi-tost m’a gripé<note n="175" place="bottom">« Prendre avec rapacité comme avec une griffe ou une main crochue. » (F)</note> ;</l>
-            <l n="993" xml:id="l993">L’un &amp; l’autre <ref target="#grison">grison*</ref> ne sçavoit où se prendre ;</l>
+            <l n="993" xml:id="l993">L’un &amp; l’autre <ref target="#grison">grison</ref> ne sçavoit où se prendre ;</l>
             <l n="994" xml:id="l994">Moi n’ayant point d’honneur que je pusse leur rendre</l>
             <l n="995" xml:id="l995">Au redoutable son d’un seul, <hi rend="i">De par le Roy</hi></l>
-            <l n="996" xml:id="l996">Cinq ou six <ref target="#poussecus">Poussecus*</ref> se sont jettez sur moy,</l>
+            <l n="996" xml:id="l996">Cinq ou six <ref target="#poussecus">Poussecus</ref> se sont jettez sur moy,</l>
             <l n="997" xml:id="l997">Et par tant de costez m’ont fait coure<note n="176" place="bottom">« En termes de chasse, signifie, poursuivre le cerf, le lièvre, le chevreuil. » (F) Boursault l’emploi au sens figuré.</note> si viste</l>
             <l n="998" xml:id="l998">Qu’à la fin, grace aux Dieux ils m’ont mis dans le giste.</l>
-            <l n="999" xml:id="l999">On nous croit de <ref target="#concert">concert*</ref>, &amp; l’on s’est fourvoyé.<pb n="76"/></l>
+            <l n="999" xml:id="l999">On nous croit de <ref target="#concert">concert</ref>, &amp; l’on s’est fourvoyé.<pb n="76"/></l>
           </sp>
           <sp who="premier-nicandre" xml:id="IV02-16">
             <speaker>Le premier NICANDRE.</speaker>
@@ -4028,7 +4025,7 @@
             <l n="1006" xml:id="l1006">Moy trouvant sur un banc cette chere bouteille</l>
             <l n="1007" xml:id="l1007">D’une joye effrontée étouffant mon chagrin</l>
             <l n="1008" xml:id="l1008">Je luy suis allé dire, <hi rend="i">Où vend-on de bon vin</hi> ?</l>
-            <l n="1009" xml:id="l1009">J’ay <ref target="#céans">ceans*</ref> des Amis que je veux faire boire.</l>
+            <l n="1009" xml:id="l1009">J’ay <ref target="#céans">ceans</ref> des Amis que je veux faire boire.</l>
             <l n="1010" xml:id="l1010"><hi rend="i">A la belle Espousée, ou bien à la Croix noire</hi><note n="177" place="bottom"> Cabarets célèbres du XVII<hi rend="sup">e</hi> siècle, lieux dans lesquels il était possible de consommer du vin et de la nourriture sur place, par opposition aux tavernes. </note>,</l>
             <l n="1011" xml:id="l1011">Me répond bonnement mon niais d’apprenty ;</l>
             <l n="1012" xml:id="l1012">Aussi-tost porte ouverte, aussi-tost moy sorty,</l>
@@ -4061,7 +4058,7 @@
         <div type="scene" xml:id="IV03">
           <head>SCENE III.</head>
           <sp who="robin" xml:id="IV03-1">
-            <speaker>ROBIN <hi rend="i">seul.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>seul.</stage>
             <l n="1026" xml:id="l1026">Il n’a pas dit le mot concernant sa valise,</l>
             <l n="1027" xml:id="l1027">Elle est pourtant restée, &amp; puissay-je mourir</l>
             <l n="1028" xml:id="l1028">Si jamais j’ay dessein de l’aller requerir.</l>
@@ -4073,7 +4070,7 @@
           <stage>ROBIN, JACINTE.</stage>
           <sp who="robin" xml:id="IV04-1">
             <speaker>ROBIN.</speaker>
-            <l part="F">Te voicy cauteleuse<note n="180" place="bottom">« Dangereux, sujet à surprendre par quelque finesse ou mauvais artifice*. » (F)</note> pucelle,</l>
+            <l part="F">Te voicy cauteleuse<note n="180" place="bottom">« Dangereux, sujet à surprendre par quelque finesse ou mauvais artifice. » (F)</note> pucelle,</l>
             <l n="1030" xml:id="l1030">(Ou du moins s’il n’est vray, fille soy-disant telle ;</l>
             <l n="1031" xml:id="l1031">Car d’oser en jurer j’aurois peu de raison.)</l>
             <l n="1032" part="I" xml:id="l1032">Te voicy.</l>
@@ -4086,7 +4083,7 @@
             <speaker>ROBIN.</speaker>
             <pb n="78"/>
             <l n="1033" xml:id="l1033">Te voicy donc, te dis-je &amp; te voicy toy seule ;</l>
-            <l n="1034" xml:id="l1034">Ta carogne<note n="181" place="bottom"> Forme normanno-picarde de charogne : « On dit d’une chose bien infecte, qu’elle est puante comme une <hi rend="i">charogne</hi>. » (F) « Il se dit aussi du corps humain comme sujet à la corruption. » (A)</note> de main m’a <ref target="#bailler">baillé*</ref> sur la gueule,</l>
+            <l n="1034" xml:id="l1034">Ta carogne<note n="181" place="bottom"> Forme normanno-picarde de charogne : « On dit d’une chose bien infecte, qu’elle est puante comme une <hi rend="i">charogne</hi>. » (F) « Il se dit aussi du corps humain comme sujet à la corruption. » (A)</note> de main m’a <ref target="#bailler">baillé</ref> sur la gueule,</l>
             <l n="1035" part="I" xml:id="l1035">Tu le sçais, la pucelle ?</l>
           </sp>
           <sp who="jacinte" xml:id="IV04-4">
@@ -4115,7 +4112,7 @@
             <l n="1042" xml:id="l1042">Et que si je m’y mets je te saute à la veuë ;</l>
             <l n="1043" xml:id="l1043">Sçache qu’en ma furie acharnée à ta peau</l>
             <l n="1044" xml:id="l1044">J’en sçauray de chaque ongle arracher un lambeau :</l>
-            <l n="1045" xml:id="l1045">Et si plus en <ref target="#railler">raillant*</ref> tu me nommes pucelle</l>
+            <l n="1045" xml:id="l1045">Et si plus en <ref target="#railler">raillant</ref> tu me nommes pucelle</l>
             <l n="1046" xml:id="l1046">Pour te mieux faire voir qu’en effet je suis telle,</l>
             <l n="1047" xml:id="l1047">Sçache que mon courroux qu’on ne peut égaler…</l>
           </sp>
@@ -4132,13 +4129,13 @@
           <head>SCENE V.</head>
           <stage>Le second NICANDRE, JACINTE, ROBIN.</stage>
           <sp who="second-nicandre" xml:id="IV05-1">
-            <speaker>Le second NICANDRE <hi rend="i">sortant de la maison d’Isidore.</hi> </speaker>
+            <speaker>Le second NICANDRE </speaker><stage>sortant de la maison d’Isidore.</stage>
             <l n="1052" xml:id="l1052">A la fin je te quitte, ô propice maison.</l>
             <l n="1053" xml:id="l1053">Eutrope en me voyant m’auroit fait de la peine,</l>
             <l n="1054" part="I" xml:id="l1054">Mais enfin…</l>
           </sp>
           <sp who="jacinte" xml:id="IV05-2">
-            <speaker>JACINTE<hi rend="i"> appercevant tout à coup Nicandre.</hi> </speaker>
+            <speaker>JACINTE</speaker><stage> appercevant tout à coup Nicandre.</stage>
             <l part="F">Je vous cherche, ô l’esclave d’Ismene.</l>
           </sp>
           <sp who="second-nicandre" xml:id="IV05-3">
@@ -4151,7 +4148,7 @@
             <l n="1057" part="I" xml:id="l1057">Diable !</l>
           </sp>
           <sp who="second-nicandre" xml:id="IV05-5">
-            <speaker>Le second NICANDRE <hi rend="i">à Jacinte.</hi></speaker>
+            <speaker>Le second NICANDRE </speaker><stage>à Jacinte.</stage>
             <l part="M">Que voulez-vous, la belle ?</l>
           </sp>
           <sp who="robin" xml:id="IV05-6">
@@ -4165,7 +4162,7 @@
             <l part="F">Traistre… Enfin dites-moy donc…</l>
           </sp>
           <sp who="jacinte" xml:id="IV05-8">
-            <speaker>JACINTE <hi rend="i">arrestant Nicandre par le bras.</hi> </speaker>
+            <speaker>JACINTE </speaker><stage>arrestant Nicandre par le bras.</stage>
             <l n="1060" xml:id="l1060">Vous me paîrez ma peine, &amp; paîrez tout du long ;</l>
             <l n="1061" xml:id="l1061">Celle qui vous aymoit est si fort en colere</l>
             <l n="1062" xml:id="l1062">Que de vous faire prendre elle a prié son pere.</l>
@@ -4186,7 +4183,7 @@
             <l n="1067" xml:id="l1067">Mais il n’estoit pas seul, &amp; je n’ay pas osé…</l>
           </sp>
           <sp who="robin" xml:id="IV05-12">
-            <speaker>ROBIN <hi rend="i">à Nicandre.</hi> </speaker>
+            <speaker>ROBIN </speaker><stage>à Nicandre.</stage>
             <l n="1068" xml:id="l1068">La Maitresse est contente, &amp; le pere appaisé.</l>
             <l n="1069" part="I" xml:id="l1069">Ah ! Le menteur.</l>
           </sp>
@@ -4253,7 +4250,7 @@
             <l n="1093" xml:id="l1093">Qui l’outrage m’outrage, &amp; mon ame &amp; la sienne…</l>
           </sp>
           <sp who="robin" xml:id="IV06-3">
-            <speaker>ROBIN <hi rend="i">à Jacinte.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>à Jacinte.</stage>
             <pb n="82"/>
             <l n="1094" xml:id="l1094">Je veux t’aymer aussi bonne peste de Chienne.</l>
           </sp>
@@ -4315,7 +4312,7 @@
             <l n="1111" part="I" xml:id="l1111">Idiot ?</l>
           </sp>
           <sp who="second-nicandre" xml:id="IV06-16">
-            <speaker>Le second NICANDRE <hi rend="i">à Hipolite.</hi></speaker>
+            <speaker>Le second NICANDRE </speaker><stage>à Hipolite.</stage>
             <l part="F">Vous servir m’est un bien precieux,</l>
             <l n="1112" xml:id="l1112">Mais daignez vous resoudre à vous expliquer mieux ;</l>
             <l n="1113" xml:id="l1113">Je vous veux obéïr, j’y mets toute ma gloire,</l>
@@ -4328,12 +4325,12 @@
             <l n="1116" part="I" xml:id="l1116">J’ay trop…</l>
           </sp>
           <sp who="robin" xml:id="IV06-18">
-            <speaker>ROBIN <hi rend="i">à Nicandre.</hi> </speaker>
+            <speaker>ROBIN </speaker><stage>à Nicandre.</stage>
             <l part="F">Concevez-vous ce que disent ces mots :</l>
             <l n="1117" part="I" xml:id="l1117">Pauvre fille !</l>
           </sp>
           <sp who="jacinte" xml:id="IV06-19">
-            <speaker>JACINTE <hi rend="i">à Hipolite.</hi> </speaker>
+            <speaker>JACINTE </speaker><stage>à Hipolite.</stage>
             <l part="F">Expliquez aussi vostre pensée.</l>
           </sp>
           <sp who="robin" xml:id="IV06-20">
@@ -4356,7 +4353,7 @@
             <l part="F">Elle veut…</l>
           </sp>
           <sp who="robin" xml:id="IV06-24">
-            <speaker>ROBIN <hi rend="i">à Hipolite.</hi> </speaker>
+            <speaker>ROBIN </speaker><stage>à Hipolite.</stage>
             <l n="1124" xml:id="l1124">Madame, comprenons, si comprendre se peut…</l>
           </sp>
           <sp who="second-nicandre" xml:id="IV06-25">
@@ -4404,13 +4401,13 @@
             <l n="1137" part="I" xml:id="l1137">L’imposteur !</l>
           </sp>
           <sp who="robin" xml:id="IV06-34">
-            <speaker>ROBIN <hi rend="i">à Nicandre.</hi> </speaker>
+            <speaker>ROBIN </speaker><stage>à Nicandre.</stage>
             <l part="F"><hi rend="i">Cum licence</hi><note n="187" place="bottom"> Avec votre permission, car <hi rend="i">licence</hi> signifie « en général <hi rend="i">permission</hi>, mais en ce sens il est vieux. » (R)</note>, ostez-moy d’une peine</l>
             <l n="1138" xml:id="l1138">Monsieur, en quelle ruë est le Cours de la Reyne ?</l>
           </sp>
           <sp who="second-nicandre" xml:id="IV06-35">
             <speaker>Le second NICANDRE.</speaker>
-            <l n="1139" part="I" xml:id="l1139"><ref target="#maraut">Maraut*</ref>.</l>
+            <l n="1139" part="I" xml:id="l1139"><ref target="#maraut">Maraut</ref>.</l>
           </sp>
           <sp who="robin" xml:id="IV06-36">
             <speaker>ROBIN.</speaker>
@@ -4450,7 +4447,7 @@
           </sp>
           <sp who="second-nicandre" xml:id="IV06-44">
             <speaker>Le second NICANDRE.</speaker>
-            <l n="1147" xml:id="l1147">Quoy qu’il en soit j’en prends peu de <ref target="#soucy">soucy*</ref>,</l>
+            <l n="1147" xml:id="l1147">Quoy qu’il en soit j’en prends peu de <ref target="#soucy">soucy</ref>,</l>
             <l n="1148" xml:id="l1148">Puis que vous le croyez je le veux croire aussi,</l>
             <l n="1149" xml:id="l1149">Je me retire. Adieu trop charmante Hipolite,</l>
             <l n="1150" xml:id="l1150">Ce n’est pas sans regret que Nicandre vous quitte :</l>
@@ -4459,7 +4456,7 @@
             <l n="1153" part="I" xml:id="l1153">Adieu.</l>
           </sp>
           <sp who="robin" xml:id="IV06-45">
-            <speaker>ROBIN <hi rend="i">à Jacinte</hi>.</speaker>
+            <speaker>ROBIN </speaker><stage>à Jacinte</stage>
             <l part="F">Je me retire, &amp; pourtant, ô friponne,</l>
             <l n="1154" xml:id="l1154">Ce n’est pas sans regret que Robin t’abandonne ;<pb n="86"/></l>
             <l n="1155" xml:id="l1155">Car quand dés ce matin je t’ay veuë en ce lieu…</l>
@@ -4491,7 +4488,7 @@
           <head>SCENE VIII.</head>
           <stage>ISMENE, HIPOLITE.</stage>
           <sp who="ismene" xml:id="IV08-1">
-            <speaker>ISMENE <hi rend="i">revenant du Cours, où elle a fait saisir le premier Nicandre.</hi> </speaker>
+            <speaker>ISMENE </speaker><stage>revenant du Cours, où elle a fait saisir le premier Nicandre.</stage>
             <l part="F">A vos vœux tout semble estre propice,</l>
             <l n="1163" xml:id="l1163">Il vous aime Nicandre, &amp; me fait un affront</l>
             <l n="1164" part="I" xml:id="l1164">L’ingrat.</l>
@@ -4519,7 +4516,7 @@
           </sp>
           <sp who="ismene" xml:id="IV08-7">
             <speaker>ISMENE.</speaker>
-            <l n="1169" xml:id="l1169">D’accord. Mais vos <ref target="#appas">appas*</ref> ont de telles amorces…</l>
+            <l n="1169" xml:id="l1169">D’accord. Mais vos <ref target="#appas">appas</ref> ont de telles amorces…</l>
           </sp>
           <sp who="hipolite" xml:id="IV08-8">
             <speaker>HIPOLITE.</speaker>
@@ -4529,13 +4526,13 @@
           </sp>
           <sp who="ismene" xml:id="IV08-9">
             <speaker>ISMENE.</speaker>
-            <l n="1173" xml:id="l1173">Jugez-en mieux, Madame, un honteux <ref target="#artifice">artifice*</ref></l>
-            <l n="1174" xml:id="l1174">De vos foibles <ref target="#appas">appas*</ref> a sçeu faire l’office ;</l>
+            <l n="1173" xml:id="l1173">Jugez-en mieux, Madame, un honteux <ref target="#artifice">artifice</ref></l>
+            <l n="1174" xml:id="l1174">De vos foibles <ref target="#appas">appas</ref> a sçeu faire l’office ;</l>
             <l n="1175" xml:id="l1175">C’est cela qui me choque, &amp; cela qui m’aigrit.</l>
           </sp>
           <sp who="hipolite" xml:id="IV08-10">
             <speaker>HIPOLITE.</speaker>
-            <l n="1176" xml:id="l1176">Qui charme sans <ref target="#appas">appas*</ref> n’a pas manque d’esprit.</l>
+            <l n="1176" xml:id="l1176">Qui charme sans <ref target="#appas">appas</ref> n’a pas manque d’esprit.</l>
           </sp>
           <sp who="ismene" xml:id="IV08-11">
             <speaker>ISMENE.</speaker>
@@ -4561,20 +4558,20 @@
           <head>SCENE IX.</head>
           <stage>ISMENE, HIPOLITE, RAGOTIN, JACINTE.</stage>
           <sp who="ismene" xml:id="IV09-1">
-            <speaker>ISMENE <hi rend="i">avec beaucoup de fierté.</hi> </speaker>
+            <speaker>ISMENE </speaker><stage>avec beaucoup de fierté.</stage>
             <l n="1182" part="I" xml:id="l1182">Hé bien cher Ragotin ?</l>
           </sp>
           <sp who="hipolite" xml:id="IV09-2">
-            <speaker>HIPOLITE <hi rend="i">avec beaucoup de fierté.</hi> </speaker>
+            <speaker>HIPOLITE </speaker><stage>avec beaucoup de fierté.</stage>
             <l part="F">Hé bien chere Jacinte ?</l>
           </sp>
           <sp who="ragotin" xml:id="IV09-3">
-            <speaker>RAGOTIN <hi rend="i">à Ismene parlant du premier Nicandre.</hi></speaker>
+            <speaker>RAGOTIN </speaker><stage>à Ismene parlant du premier Nicandre.</stage>
             <l n="1183" xml:id="l1183">Il est ensevely dans le grand Chastelet.</l>
           </sp>
           <sp who="jacinte" xml:id="IV09-4">
-            <speaker>JACINTE <hi rend="i">à Hipolite parlant du second Nicandre.</hi></speaker>
-            <l n="1184" xml:id="l1184">En ma propre presence on l’a pris au <ref target="#colet">colet*</ref>.</l>
+            <speaker>JACINTE </speaker><stage>à Hipolite parlant du second Nicandre.</stage>
+            <l n="1184" xml:id="l1184">En ma propre presence on l’a pris au <ref target="#colet">colet</ref>.</l>
           </sp>
           <sp who="ragotin" xml:id="IV09-5">
             <speaker>RAGOTIN.</speaker>
@@ -4601,12 +4598,12 @@
             <l part="F">Il vous nomme cruelle.</l>
           </sp>
           <sp who="ismene" xml:id="IV09-11">
-            <speaker>ISMENE <hi rend="i">à Hipolite.</hi></speaker>
+            <speaker>ISMENE </speaker><stage>à Hipolite.</stage>
             <pb n="89"/>
             <l n="1190" part="I" xml:id="l1190">Escoutez.</l>
           </sp>
           <sp who="hipolite" xml:id="IV09-12">
-            <speaker>HIPOLITE <hi rend="i">à Ismene.</hi></speaker>
+            <speaker>HIPOLITE </speaker><stage>à Ismene.</stage>
             <l part="M">Escoutez.</l>
           </sp>
           <sp who="ismene" xml:id="IV09-13">
@@ -4692,7 +4689,7 @@
           </sp>
           <sp who="jacinte" xml:id="IV09-32">
             <speaker>JACINTE.</speaker>
-            <l part="M"><ref target="#ladre">Ladre*</ref>.</l>
+            <l part="M"><ref target="#ladre">Ladre</ref>.</l>
           </sp>
           <sp who="ragotin" xml:id="IV09-33">
             <speaker>RAGOTIN.</speaker>
@@ -4734,7 +4731,7 @@
             <l part="F">Ce l’est, c’est mon pere luy-mesme.</l>
           </sp>
           <sp who="isidore" xml:id="IV10-7">
-            <speaker>ISIDORE <hi rend="i">à Jacinte.</hi></speaker>
+            <speaker>ISIDORE </speaker><stage>à Jacinte.</stage>
             <l n="1207" xml:id="l1207">Definis-moy la cause, &amp; dis-moy la raison…</l>
           </sp>
           <sp who="jacinte" xml:id="IV10-8">
@@ -4744,7 +4741,7 @@
           </sp>
           <sp who="ismene" xml:id="IV10-9">
             <speaker>ISMENE.</speaker>
-            <l n="1210" xml:id="l1210">Ne passe plus outre <ref target="#impudent">impudente*</ref> Soubrette,</l>
+            <l n="1210" xml:id="l1210">Ne passe plus outre <ref target="#impudent">impudente</ref> Soubrette,</l>
             <l n="1211" xml:id="l1211">Découvrant qui je suis tu pretends me punir,</l>
             <l n="1212" xml:id="l1212">Pour te punir toy-mesme il te faut prevenir.</l>
             <l n="1213" xml:id="l1213">Un adveu legitime autorise ma flame,    [92]</l>
@@ -4753,7 +4750,7 @@
             <l n="1216" part="I" xml:id="l1216">J’ose…</l>
           </sp>
           <sp who="ragotin" xml:id="IV10-10">
-            <speaker>RAGOTIN <hi rend="i">à Ismene.</hi></speaker>
+            <speaker>RAGOTIN </speaker><stage>à Ismene.</stage>
             <l part="F">Vous estes donc une fille, Monsieur ?</l>
           </sp>
           <sp who="eutrope" xml:id="IV10-11">
@@ -4769,13 +4766,13 @@
             <l part="F">As-tu pû me connaistre.</l>
           </sp>
           <sp who="ragotin" xml:id="IV10-14">
-            <speaker>RAGOTIN <hi rend="i">à Ismene.</hi></speaker>
+            <speaker>RAGOTIN </speaker><stage>à Ismene.</stage>
             <l n="1218" xml:id="l1218">Je couchois d’ordinaire aux costés de mon Maistre,</l>
             <l n="1219" xml:id="l1219">Il estoit si peureux que j’estois son appuy ;</l>
             <l n="1220" xml:id="l1220">N’estes-vous point peureuse aussi bien comme luy ?</l>
           </sp>
           <sp who="ismene" xml:id="IV10-15">
-            <speaker>ISMENE <hi rend="i">à Eutrope.</hi></speaker>
+            <speaker>ISMENE </speaker><stage>à Eutrope.</stage>
             <l n="1221" xml:id="l1221">Je partis de Lyon sans vous en rien apprendre,</l>
             <l n="1222" xml:id="l1222">Pour venger mon injure, &amp; pour perdre Nicandre ;</l>
             <l n="1223" xml:id="l1223">J’ay trouvé que Madame en a fait son Amant ;</l>
@@ -4783,12 +4780,12 @@
             <l n="1225" part="I" xml:id="l1225">Il est pris.</l>
           </sp>
           <sp who="hipolite" xml:id="IV10-16">
-            <speaker>HIPOLITE <hi rend="i">à Isidore.</hi></speaker>
+            <speaker>HIPOLITE </speaker><stage>à Isidore.</stage>
             <l part="F">Vous sçavez ce que m’a fait Nicandre.</l>
           </sp>
           <sp who="isidore" xml:id="IV10-17">
             <speaker>ISIDORE.</speaker>
-            <l n="1226" part="I" xml:id="l1226"><ref target="#maculé">Maculée*</ref>.</l>
+            <l n="1226" part="I" xml:id="l1226"><ref target="#maculé">Maculée</ref>.</l>
           </sp>
           <sp who="hipolite" xml:id="IV10-18">
             <speaker>HIPOLITE.</speaker>
@@ -4823,7 +4820,7 @@
             <stage>(Isidore s’en va d’un costé, &amp; Eutrope de l’autre.)</stage>
           </sp>
           <sp who="hipolite" xml:id="IV10-22">
-            <speaker>HIPOLITE <hi rend="i">à Ismène.</hi></speaker>
+            <speaker>HIPOLITE </speaker><stage>à Ismène.</stage>
             <l part="F">Consolez-vous, vous pouvez tout pretendre,</l>
             <l n="1242" xml:id="l1242">Demain dans la prison vous reverrez Nicandre.</l>
           </sp>
@@ -4833,7 +4830,7 @@
             <l n="1244" xml:id="l1244">Vous le verrez aussi sans qu’il puisse estre à vous.</l>
           </sp>
           <sp who="jacinte" xml:id="IV10-24">
-            <speaker>JACINTE <hi rend="i">à Ismene.</hi></speaker>
+            <speaker>JACINTE </speaker><stage>à Ismene.</stage>
             <l n="1245" part="I" xml:id="l1245">Adieu donc voyageuse.</l>
           </sp>
           <sp who="ismene" xml:id="IV10-25">
@@ -4844,11 +4841,11 @@
           </sp>
           <sp who="jacinte" xml:id="IV10-26">
             <speaker>JACINTE.</speaker>
-            <l part="F">Adieu donc fille <ref target="#garçonnisé">garçonnisée*</ref>.</l>
+            <l part="F">Adieu donc fille <ref target="#garçonnisé">garçonnisée</ref>.</l>
           </sp>
           <sp who="ragotin" xml:id="IV10-27">
-            <speaker>RAGOTIN <hi rend="i">à Jacinte.</hi></speaker>
-            <l n="1247" xml:id="l1247">Elle <ref target="#garçonnisé">garçonnisée*</ref>, instruits-moy de son sens ?</l>
+            <speaker>RAGOTIN </speaker><stage>à Jacinte.</stage>
+            <l n="1247" xml:id="l1247">Elle <ref target="#garçonnisé">garçonnisée</ref>, instruits-moy de son sens ?</l>
           </sp>
           <sp who="jacinte" xml:id="IV10-28">
             <speaker>JACINTE.</speaker>
@@ -4859,7 +4856,7 @@
             <l part="F">Et tu l’es par dedans.</l>
             <stage>(Hipolite &amp; Jacinte s’en vont du costé d’Isidore, &amp; Ismene &amp; Ragotin du costé d’Eutrope.)</stage>
           </sp>
-          <label rend="i">Fin du quatriesme Acte.</label>
+          <trailer rend="i">Fin du quatriesme Acte.</trailer>
         </div>
       </div>
       <div type="act" xml:id="V">
@@ -4902,8 +4899,8 @@
           <sp who="robin" xml:id="V01-6">
             <speaker>ROBIN.</speaker>
             <l n="1262" xml:id="l1262">On m’a pris mes habits pour ma bonne venuë,</l>
-            <l n="1263" xml:id="l1263">Et tous mes Compagnons, les <ref target="#filou">Filoux*</ref> de <ref target="#céans">ceans*</ref>,</l>
-            <l n="1264" xml:id="l1264">(Qu’au filoutage<note n="199" place="bottom"> Formé à partir du verbe <hi rend="i">filouter</hi> : « Voler et tromper quelqu’un par de mauvaises voies et artifices* ». (F)</note> prés je trouve braves gens ;</l>
+            <l n="1263" xml:id="l1263">Et tous mes Compagnons, les <ref target="#filou">Filoux</ref> de <ref target="#céans">ceans</ref>,</l>
+            <l n="1264" xml:id="l1264">(Qu’au filoutage<note n="199" place="bottom"> Formé à partir du verbe <hi rend="i">filouter</hi> : « Voler et tromper quelqu’un par de mauvaises voies et artifices ». (F)</note> prés je trouve braves gens ;</l>
             <l n="1265" xml:id="l1265">Car ils sont si benins que de peur de rancune</l>
             <l n="1266" xml:id="l1266">Ils ont pris mon bagage au deffaut de pécune.)</l>
           </sp>
@@ -4931,7 +4928,7 @@
           </sp>
           <sp who="robin" xml:id="V01-12">
             <speaker>ROBIN.</speaker>
-            <l n="1272" xml:id="l1272"><ref target="#nenny">Nenny*</ref> pas tout à fait, j’en ay mangé ma part.</l>
+            <l n="1272" xml:id="l1272"><ref target="#nenny">Nenny</ref> pas tout à fait, j’en ay mangé ma part.</l>
             <l n="1273" xml:id="l1273">Mais ce qui me contente ils ont l’ame assez franche,</l>
             <l n="1274" xml:id="l1274">Outre qu’ils m’ont promis que j’aurois ma revanche,</l>
             <l n="1275" xml:id="l1275">Ils souffrent bonnement que je rie avec eux,</l>
@@ -4978,7 +4975,7 @@
         <div type="scene" xml:id="V02">
           <head>SCENE II.</head>
           <sp who="robin" xml:id="V02-1">
-            <speaker>ROBIN <hi rend="i">seul.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>seul.</stage>
             <l n="1288" xml:id="l1288">Il a le Diable au corps de vouloir s’en aller.</l>
             <l n="1289" xml:id="l1289">Du Fidele Robin le bon-heur l’importune,</l>
             <l n="1290" xml:id="l1290">Il mourroit de regret si je faisois fortune,</l>
@@ -5019,8 +5016,8 @@
           <sp who="robin" xml:id="V03-7">
             <speaker>ROBIN.</speaker>
             <l part="F">Moy ? Je suis tout ce que je puis estre,</l>
-            <l n="1299" xml:id="l1299"><ref target="#receveur">Receveur*</ref> (Il est vray qu’à ne vous <ref target="#celer">celer*</ref> rien</l>
-            <l n="1300" xml:id="l1300">La <ref target="#recepte">recepte*</ref> est petite, &amp; ne va pas trop bien ;</l>
+            <l n="1299" xml:id="l1299"><ref target="#receveur">Receveur</ref> (Il est vray qu’à ne vous <ref target="#celer">celer</ref> rien</l>
+            <l n="1300" xml:id="l1300">La <ref target="#recepte">recepte</ref> est petite, &amp; ne va pas trop bien ;</l>
             <l n="1301" xml:id="l1301">Mais faut-il de regret que je m’en aille pendre ?)</l>
           </sp>
           <sp who="ismene" xml:id="V03-8">
@@ -5063,7 +5060,7 @@
             <l n="1315" xml:id="l1315">Agy. Par ton moyen si l’ingrat se resoud…</l>
           </sp>
           <sp who="robin" xml:id="V03-15">
-            <speaker>ROBIN <hi rend="i">parlant des Louys qu’il ne peut avoir.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>parlant des Louys qu’il ne peut avoir.</stage>
             <l n="1316" xml:id="l1316">Je suis trop mal-heureux pour en venir à bout.</l>
           </sp>
           <sp who="ismene" xml:id="V03-16">
@@ -5073,7 +5070,7 @@
             <l n="1318" part="I" xml:id="l1318">Robin…</l>
           </sp>
           <sp who="robin" xml:id="V03-17">
-            <speaker>ROBIN <hi rend="i">parlant des Louys.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>parlant des Louys.</stage>
             <l part="F">Si je le puis, que le Diable m’emporte.</l>
           </sp>
           <sp who="ismene" xml:id="V03-18">
@@ -5086,7 +5083,7 @@
             <l n="1324" part="I" xml:id="l1324">J’ay mis…</l>
           </sp>
           <sp who="robin" xml:id="V03-19">
-            <speaker>ROBIN <hi rend="i">parlant de Louys.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>parlant de Louys.</stage>
             <l part="F">Où Diable aussi les avez-vous là mis ?</l>
           </sp>
           <sp who="ismene" xml:id="V03-20">
@@ -5097,13 +5094,13 @@
             <l n="1328" part="I" xml:id="l1328">Robin…</l>
           </sp>
           <sp who="robin" xml:id="V03-21">
-            <speaker>ROBIN <hi rend="i">songeant à ce qu’Ismene dit.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>songeant à ce qu’Ismene dit.</stage>
             <l part="F">Plais-il ? Quoy ? Qu’est-ce ? &amp; que me dites-vous ?</l>
             <l n="1329" xml:id="l1329">Vous voulez voir mon Maistre, ayez soin de m’attendre.</l>
             <l n="1330" xml:id="l1330">Non, ne m’attendez pas, je l’appelle. Nicandre !</l>
           </sp>
           <sp who="premier-nicandre" xml:id="V03-22">
-            <speaker>Le premier NICANDRE, <hi rend="i">à une fenestre grillée.</hi></speaker>
+            <speaker>Le premier NICANDRE, </speaker><stage>à une fenestre grillée.</stage>
             <l n="1331" part="I" xml:id="l1331">Qui m’appelle ?</l>
           </sp>
           <sp who="robin" xml:id="V03-23">
@@ -5157,7 +5154,7 @@
             <l n="1335" part="I" xml:id="l1335">Je descends.</l>
           </sp>
           <sp who="ismene" xml:id="V03-35">
-            <speaker>ISMENE <hi rend="i">à Robin</hi>.</speaker>
+            <speaker>ISMENE </speaker><stage>à Robin</stage>
             <l part="F">Que dis-tu, de la peine qu’il a ?</l>
             <l n="1336" xml:id="l1336">N’as-tu pas apperceu… Mais l’ingrat le voila.</l>
           </sp>
@@ -5174,7 +5171,7 @@
             <speaker>Le premier NICANDRE.</speaker>
             <l part="F">Hé bien, Madame, estes-vous lasse</l>
             <l n="1338" xml:id="l1338">De me joüer des tours de si mauvaise grace ?</l>
-            <l n="1339" xml:id="l1339">Quels <ref target="#appas">appas*</ref> avez-vous qui puissent me charmer ?</l>
+            <l n="1339" xml:id="l1339">Quels <ref target="#appas">appas</ref> avez-vous qui puissent me charmer ?</l>
             <l n="1340" xml:id="l1340">Et par quel privilege ay-je dû vous aymer<note n="203" place="bottom"> Cette forme équivaut au conditionnel passé <hi rend="i">aurais-je dû vous aimer</hi>, conformément à l’usage latin. Le tour est très courant tout au long du XVII<hi rend="sup">e</hi> siècle.</note> ?</l>
             <l n="1341" xml:id="l1341">Y suis-je obligé, moy ? Voulez-vous m’y contraindre ?</l>
           </sp>
@@ -5193,7 +5190,7 @@
             <l n="1348" part="I" xml:id="l1348">Scachez…</l>
           </sp>
           <sp who="robin" xml:id="V04-5">
-            <speaker>ROBIN <hi rend="i">à Nicandre.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>à Nicandre.</stage>
             <l part="F">Depuis quand donc ne l’adorez-vous plus</l>
             <l n="1349" part="I" xml:id="l1349">Nostre cher ?</l>
           </sp>
@@ -5230,12 +5227,12 @@
             <l n="1360" xml:id="l1360">Il a suivy, Madame un si rare conseil.</l>
             <l n="1361" xml:id="l1361">Vous l’aviez bien payé pour m’appeller son Maistre,</l>
             <l n="1362" xml:id="l1362">Mais par mal-heur pour vous je n’ay pû le connaître.</l>
-            <l n="1363" xml:id="l1363">L’<ref target="#artifice">artifice*</ref> estoit foible, &amp; je suis delicat,</l>
+            <l n="1363" xml:id="l1363">L’<ref target="#artifice">artifice</ref> estoit foible, &amp; je suis delicat,</l>
             <l n="1364" part="I" xml:id="l1364">Madame.</l>
           </sp>
           <sp who="robin" xml:id="V04-12">
             <speaker>ROBIN.</speaker>
-            <l part="F">Ah justes Dieux, le maudit <ref target="#renégat">renegat*</ref> !</l>
+            <l part="F">Ah justes Dieux, le maudit <ref target="#renégat">renegat</ref> !</l>
             <l n="1365" xml:id="l1365">C’est donc quand il vous plaist que vous estes mon Maistre ?</l>
           </sp>
           <sp who="premier-nicandre" xml:id="V04-13">
@@ -5319,12 +5316,12 @@
             <l part="F">J’enrage,</l>
             <l n="1399" xml:id="l1399">Et je souhaiterois que chacun souhaitât</l>
             <l n="1400" xml:id="l1400">Qu’au milieu de la gréve on vous decapitât.</l>
-            <l n="1401" xml:id="l1401">Un <ref target="#tendron">tendron*</ref> l’idolatre, &amp; Monsieur le neglige ;</l>
+            <l n="1401" xml:id="l1401">Un <ref target="#tendron">tendron</ref> l’idolatre, &amp; Monsieur le neglige ;</l>
             <l n="1402" part="I" xml:id="l1402">Une Ismene l’adore, &amp; Monsieur…</l>
           </sp>
           <sp who="premier-nicandre" xml:id="V05-4">
             <speaker>Le premier NICANDRE.</speaker>
-            <l part="F"><ref target="#pay">Pay*</ref>, te dis-je,</l>
+            <l part="F"><ref target="#pay">Pay</ref>, te dis-je,</l>
             <l n="1403" xml:id="l1403">Ou bien si de ta voix rien n’arreste le cours<pb n="106"/></l>
             <l n="1404" xml:id="l1404">Dy-le nom d’Hipolite, &amp; m’en parle toujours :</l>
             <l n="1405" xml:id="l1405">Su tu veux que pour toy mon courroux se désarme</l>
@@ -5339,7 +5336,7 @@
         <div type="scene" xml:id="V06">
           <head>SCENE VI.</head>
           <sp who="robin" xml:id="V06-1">
-            <speaker>ROBIN <hi rend="i">seul.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>seul.</stage>
             <l part="F">Et toy, le Bourreau te décole<note n="206" place="bottom"> Verbe qui signifie « <hi rend="i">couper la tête</hi>, mais il n’est pas bien usité, et même il est fort bas. » (R) Cette construction est incorrecte de nos jours mais le français classique permettait l’emploi du subjonctif sans la béquille <hi rend="i">que</hi> quand un désir ou un souhait était exprimé. A. Haase, <hi rend="i">Syntaxe française du XVII<hi rend="sup">e</hi> siècle</hi>, p. 172.</note></l>
             <l n="1411" xml:id="l1411">Fou des plus achevez, dont les sens abestis</l>
             <l n="1412" xml:id="l1412">Pensent… Mais des verroux j’entends le cliquetis,</l>
@@ -5350,7 +5347,7 @@
           <head>SCENE VII.</head>
           <stage>ROBIN, JACINTE.</stage>
           <sp who="robin" xml:id="V07-1">
-            <speaker>ROBIN <hi rend="i">appercevant Jacinte.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>appercevant Jacinte.</stage>
             <l part="M">Bon jour.</l>
           </sp>
           <sp who="jacinte" xml:id="V07-2">
@@ -5419,7 +5416,7 @@
           </sp>
           <sp who="jacinte" xml:id="V07-14">
             <speaker>JACINTE.</speaker>
-            <l n="1435" xml:id="l1435">Tu te <ref target="#railler">railles*</ref>, peut-estre, &amp; te mocques de nous,</l>
+            <l n="1435" xml:id="l1435">Tu te <ref target="#railler">railles</ref>, peut-estre, &amp; te mocques de nous,</l>
             <l n="1436" part="I" xml:id="l1436">Car Ismene…</l>
           </sp>
           <sp who="robin" xml:id="V07-15">
@@ -5443,7 +5440,7 @@
           <sp who="jacinte" xml:id="V07-18">
             <speaker>JACINTE.</speaker>
             <l n="1444" xml:id="l1444">Attend, mon cher Robin, tu seras contenté.</l>
-            <l n="1445" xml:id="l1445">Voyons dans la <ref target="#geole">geole*</ref>, Hipolite y doit estre,<note n="210" place="bottom">Le mot compte ici pour deux syllabes.</note></l>
+            <l n="1445" xml:id="l1445">Voyons dans la <ref target="#geole">geole</ref>, Hipolite y doit estre,<note n="210" place="bottom">Le mot compte ici pour deux syllabes.</note></l>
             <l n="1446" xml:id="l1446">Elle m’a fait entrer pour pressentir ton Maistre,</l>
             <l n="1447" xml:id="l1447">Et puisqu’enfin Nicandre à l’aymer se resout</l>
             <l n="1448" xml:id="l1448">Disons-luy qu’elle vienne, &amp; l’informe de tout.</l>
@@ -5476,7 +5473,7 @@
           </sp>
           <sp who="robin" xml:id="V08-5">
             <speaker>ROBIN.</speaker>
-            <l n="1456" xml:id="l1456">En ma propre presence il la vient de <ref target="#sevrer">sevrer*</ref>.</l>
+            <l n="1456" xml:id="l1456">En ma propre presence il la vient de <ref target="#sevrer">sevrer</ref>.</l>
             <l n="1457" xml:id="l1457">Mais voyez, on diroit que le Ciel nous l’envoye.</l>
           </sp>
           <sp who="jacinte" xml:id="V08-6">
@@ -5512,7 +5509,7 @@
             <l n="1466" xml:id="l1466">Madame, à vostre aspect je me sens l’ame émeuë…</l>
           </sp>
           <sp who="robin" xml:id="V09-4">
-            <speaker>ROBIN <hi rend="i">à Jacinte.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>à Jacinte.</stage>
             <l n="1467" xml:id="l1467">L’ame émeuë ! Entends-tu ? Sans amour l’auroit-on ?</l>
             <l n="1468" part="I" xml:id="l1468">Que t’en semble ?</l>
           </sp>
@@ -5528,11 +5525,11 @@
             <speaker>Le second NICANDRE.</speaker>
             <l n="1470" xml:id="l1470">Je veux dans une fille une vertu plus grande ;</l>
             <l n="1471" xml:id="l1471">Et quand d’autres que vous ne me charmeroient pas</l>
-            <l n="1472" xml:id="l1472">Vostre extreme foiblesse avilit vos <ref target="#appas">appas*</ref>.</l>
+            <l n="1472" xml:id="l1472">Vostre extreme foiblesse avilit vos <ref target="#appas">appas</ref>.</l>
             <l n="1473" xml:id="l1473">A ne pas vous connaistre &amp; voir vostre visage</l>
             <l n="1474" xml:id="l1474">J’aurois pû vous aymer si j’eusse esté volage ;<pb n="111"/></l>
             <l n="1475" xml:id="l1475">Mais fussay-je volage, à vous connoistre mieux</l>
-            <l n="1476" xml:id="l1476">Vous seriez la derniere à <ref target="#surprendre">surprendre*</ref> mes yeux.</l>
+            <l n="1476" xml:id="l1476">Vous seriez la derniere à <ref target="#surprendre">surprendre</ref> mes yeux.</l>
             <l n="1477" xml:id="l1477">Je vous fais par pitié d’equitables reproches.</l>
           </sp>
           <sp who="jacinte" xml:id="V09-8">
@@ -5541,7 +5538,7 @@
           </sp>
           <sp who="robin" xml:id="V09-9">
             <speaker>ROBIN.</speaker>
-            <l part="F">Je suis <ref target="#penaud">penaud*</ref> comme un fondeur de cloches<note n="213" place="bottom"> « On dit proverbialement d’un homme étonné de quelque chose de fâcheux qui lui arrive contre son attente qu’il est <hi rend="i">étonné comme un fondeur de cloches</hi>. » (A)</note>.</l>
+            <l part="F">Je suis <ref target="#penaud">penaud</ref> comme un fondeur de cloches<note n="213" place="bottom"> « On dit proverbialement d’un homme étonné de quelque chose de fâcheux qui lui arrive contre son attente qu’il est <hi rend="i">étonné comme un fondeur de cloches</hi>. » (A)</note>.</l>
           </sp>
           <sp who="jacinte" xml:id="V09-10">
             <speaker>JACINTE.</speaker>
@@ -5571,7 +5568,7 @@
           </sp>
           <sp who="hipolite" xml:id="V09-16">
             <speaker>HIPOLITE.</speaker>
-            <l n="1484" xml:id="l1484">Ton brutal procedé rend mon cœur <ref target="#interdit">interdit*</ref>…</l>
+            <l n="1484" xml:id="l1484">Ton brutal procedé rend mon cœur <ref target="#interdit">interdit</ref>…</l>
           </sp>
           <sp who="second-nicandre" xml:id="V09-17">
             <speaker>Le second NICANDRE.</speaker>
@@ -5629,7 +5626,7 @@
             <l n="1501" part="I" xml:id="l1501">Méchante.</l>
           </sp>
           <sp who="jacinte" xml:id="V09-27">
-            <speaker>JACINTE <hi rend="i">à Robin.</hi></speaker>
+            <speaker>JACINTE </speaker><stage>à Robin.</stage>
             <l part="F">Qu’il est traistre ! &amp; qu’il a de malice !</l>
           </sp>
           <sp who="robin" xml:id="V09-28">
@@ -5673,7 +5670,7 @@
           <head>SCENE X.</head>
           <stage>ISIDORE, HIPOLITE, ROBIN, Le second NICANDRE, JACINTE.</stage>
           <sp who="isidore" xml:id="V10-1">
-            <speaker>ISIDORE entrant.</speaker>
+            <speaker>ISIDORE </speaker><stage>entrant.</stage>
             <l part="F">Des forfaicteurs<note n="216" place="bottom"> Formé à partir du substantif <hi rend="i">forfait</hi> qui signifie : « Crime. » (R)</note> c’est donc icy le centre ?</l>
             <l n="1519" part="I" xml:id="l1519">Nicandre…</l>
           </sp>
@@ -5703,7 +5700,7 @@
             <l n="1525" xml:id="l1525">S’il s’en peut demesler il n’est pas mal-habile.</l>
           </sp>
           <sp who="second-nicandre" xml:id="V11-4">
-            <speaker>Le second NICANDRE <hi rend="i">à Eutrope.</hi></speaker>
+            <speaker>Le second NICANDRE </speaker><stage>à Eutrope.</stage>
             <l n="1526" part="I" xml:id="l1526">Monsieur…</l>
           </sp>
           <sp who="ismene" xml:id="V11-5">
@@ -5718,7 +5715,7 @@
           </sp>
           <sp who="robin" xml:id="V11-7">
             <speaker>ROBIN.</speaker>
-            <l part="F"><ref target="#nenny">Nenny*</ref>, c’est une autre. Ah le traistre !</l>
+            <l part="F"><ref target="#nenny">Nenny</ref>, c’est une autre. Ah le traistre !</l>
           </sp>
           <sp who="second-nicandre" xml:id="V11-8">
             <speaker>Le second NICANDRE.</speaker>
@@ -5731,15 +5728,15 @@
           </sp>
           <sp who="robin" xml:id="V11-10">
             <speaker>ROBIN.</speaker>
-            <l part="F">C’est un fin Merle<note n="217" place="bottom"> « On dit proverbialement d’un homme fin et matois*, <hi rend="i">c’est un fin merle</hi>. » (A)</note>, il sçait bien d’autres tours.</l>
+            <l part="F">C’est un fin Merle<note n="217" place="bottom"> « On dit proverbialement d’un homme fin et matois, <hi rend="i">c’est un fin merle</hi>. » (A)</note>, il sçait bien d’autres tours.</l>
           </sp>
           <sp who="hipolite" xml:id="V11-11">
-            <speaker>HIPOLITE <hi rend="i">à Isidore.</hi></speaker>
+            <speaker>HIPOLITE </speaker><stage>à Isidore.</stage>
             <l n="1532" xml:id="l1532">Parlez ; souffrirez-vous qu’il luy parle toujours ?</l>
           </sp>
           <sp who="isidore" xml:id="V11-12">
             <speaker>ISIDORE.</speaker>
-            <l n="1533" xml:id="l1533">Sois mon Gener<note n="218" place="bottom">Gendre en latin.</note>, Immond<note n="219" place="bottom">On peut penser qu’il s’agit du masculin de la forme « immonde » qui signifie « impur, qui a contracté quelque saleté, quelque impureté. » (F)</note>, ou descends au <ref target="#sépulcre">sepulcre*</ref>,</l>
+            <l n="1533" xml:id="l1533">Sois mon Gener<note n="218" place="bottom">Gendre en latin.</note>, Immond<note n="219" place="bottom">On peut penser qu’il s’agit du masculin de la forme « immonde » qui signifie « impur, qui a contracté quelque saleté, quelque impureté. » (F)</note>, ou descends au <ref target="#sépulcre">sepulcre</ref>,</l>
             <l n="1534" xml:id="l1534">Tu vois bien que ma fille est passablement pulcre<note n="220" place="bottom"> Adjectif formé à partir du latin <hi rend="i">pulcher, chra, chrum</hi> qui signifie beau, belle.</note> ;</l>
             <l n="1535" part="I" xml:id="l1535">Sois mon Gener, sinon…</l>
           </sp>
@@ -5894,7 +5891,7 @@
             <l n="1559" xml:id="l1559">C’est moi qui dans l’espoir de me voir vôtre Epoux…</l>
           </sp>
           <sp who="second-nicandre" xml:id="V12-13">
-            <speaker>Le second NICANDRE <hi rend="i">à Ismene.</hi></speaker>
+            <speaker>Le second NICANDRE </speaker><stage>à Ismene.</stage>
             <l n="1560" xml:id="l1560">Hé bien, suis-je Madame infidelle pour vous ?</l>
             <l n="1561" xml:id="l1561">Rendez-moy vôtre amour, reprenez vostre haine.</l>
           </sp>
@@ -6001,13 +5998,13 @@
             <l part="M">Tien.</l>
           </sp>
           <sp who="robin" xml:id="V12-36">
-            <speaker>ROBIN <hi rend="i">aux deux Nicandres.</hi></speaker>
+            <speaker>ROBIN </speaker><stage>aux deux Nicandres.</stage>
             <l part="F">Et vous avant vostre sortie</l>
             <l n="1590" xml:id="l1590">Allez dans une Chambre y conter vostre vie,</l>
             <l n="1591" xml:id="l1591">Et faites qu’en tous lieux on vous louë en ce point</l>
             <l n="1592" xml:id="l1592">Qu’on vous a crû MENTEURS, &amp; vous ne MENTIEZ POINT.</l>
           </sp>
-          <label rend="center">FIN.</label>
+          <trailer rend="center">FIN.</trailer>
         </div>
       </div>
       <div type="appendix">
@@ -6345,7 +6342,7 @@
         </entryFree>
         <entryFree xml:id="poussecus">
           <form>Poussecus</form>
-          <def>« Terme odieux dont on qualifie les Records* des Sergents, et autres qui servent à mettre et à pousser les gens en prison. » (F)</def>
+          <def>« Terme odieux dont on qualifie les Records des Sergents, et autres qui servent à mettre et à pousser les gens en prison. » (F)</def>
           <xr>V. <ref target="#l235">235</ref> et <ref target="#l996">996</ref>.</xr>
         </entryFree>
         <entryFree xml:id="railler">
@@ -6355,7 +6352,7 @@
         </entryFree>
         <entryFree xml:id="recepte">
           <form>Recepte</form>
-          <def>« Action par laquelle on reçoit ce qui est dû (…) charge du Receveur*. » (F)</def>
+          <def>« Action par laquelle on reçoit ce qui est dû (…) charge du Receveur. » (F)</def>
           <xr>V. <ref target="#l491">491</ref>, <ref target="#l1300">1300</ref>.</xr>
         </entryFree>
         <entryFree xml:id="receveur">
@@ -6370,7 +6367,7 @@
         </entryFree>
         <entryFree xml:id="réminiscence">
           <form>Réminiscence</form>
-          <def>« Ressouvenir*. Renouvellement d’une idée presque effacée. » (A)</def>
+          <def>« Ressouvenir. Renouvellement d’une idée presque effacée. » (A)</def>
           <xr>V. <ref target="#l821">821</ref>.</xr>
         </entryFree>
         <entryFree xml:id="renégat">
@@ -6425,7 +6422,7 @@
         </entryFree>
         <entryFree xml:id="surprendre">
           <form>Surprendre</form>
-          <def>« Attraper (…) obtenir frauduleusement par artifice*. » (A)</def>
+          <def>« Attraper (…) obtenir frauduleusement par artifice. » (A)</def>
           <xr>V. <ref target="#l37">37</ref>, <ref target="#l112">112</ref>, <ref target="#l1476">1476</ref> ; il est utilisé au sens moderne aux vers <ref target="#l161">161</ref>, <ref target="#l231">231</ref>, <ref target="#l425">425</ref>, <ref target="#l1025">1025</ref>, <ref target="#l1158">1158</ref>, <ref target="#l1205">1205</ref>, <ref target="#l1379">1379</ref>.</xr>
         </entryFree>
         <entryFree xml:id="tendron">

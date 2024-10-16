@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -26,11 +26,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/mareschal_dictateur-romain/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/mareschal_dictateur-romain.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/mareschal_dictateur-romain.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/mareschal_dictateur-romain.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/mareschal_dictateur-romain.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/mareschal_dictateur-romain/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/mareschal_dictateur-romain.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/mareschal_dictateur-romain.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/mareschal_dictateur-romain.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/mareschal_dictateur-romain.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>André Mareschal</author>, <title>Le Dictateur romain. Tragédie dédiée à Monseigneur le duc d'Espernon</title>, à Paris, Chez Toussaint Quinet, au Palais, sous la montée de la Cour des Aides, 1646.</bibl>
@@ -827,27 +827,26 @@
           </div>
         </div>
       </div>
-      <pb n="I"/> </front>
+    </front>
     <body>
-     <head>LE<lb/>DICTATEUR<lb/>ROMAIN<lb/>TRAGEDIE.<lb/>DEDIEE A MONSEIGNEUR<lb/><hi rend="i">le Duc d’Espernon.</hi></head>
+      <head>LE<pb n="I"/><lb/>DICTATEUR<lb/>ROMAIN<lb/>TRAGEDIE.<lb/>DEDIEE A MONSEIGNEUR<lb/><hi rend="i">le Duc d’Espernon.</hi></head>
       <div xml:id="dedicace">
-       
-        <pb n="III"/><head>A HAUT ET PUISSANT PRINCE<lb/>BERNARD DE FOIX <lb/>DE LA VALLETTE, <lb/>DUC D’ESPERNON, DE LAVALLETTE, <lb/>&amp; de Cancale ; Pair &amp; Colonnel General de France ; Chevallier des Ordres du Roy, &amp; de la Jarretiere ; Prince &amp; Captal de Buch, Comte de Foix, d’Astarac, &amp;c. Sire de l’Esparre, &amp;c. Gouverneur &amp; Lieutenant general pour le Roy en Guyenne.</head>
+        <head>A HAUT ET PUISSANT PRINCE<pb n="III"/><lb/>BERNARD DE FOIX <lb/>DE LA VALLETTE, <lb/>DUC D’ESPERNON, DE LAVALLETTE, <lb/>&amp; de Cancale ; Pair &amp; Colonnel General de France ; Chevallier des Ordres du Roy, &amp; de la Jarretiere ; Prince &amp; Captal de Buch, Comte de Foix, d’Astarac, &amp;c. Sire de l’Esparre, &amp;c. Gouverneur &amp; Lieutenant general pour le Roy en Guyenne.</head>
         <p>MONSEIGNEUR,</p>
-        <p>Quand par une douce force vous n’auriez pas gagné tous mes vœux en un moment, dans l’accueil favorable avec lequel VÔTRE GRANDEUR a daigné recevoir les offres de mes tres-humbles services : Quand vôtre Bonté n’auroit pas avecque joye accepté le don que je luy ay fait avec crainte &amp; respect, de cette Pièce de Theatre, pour la faire passer heureusement de vos mains <ref target="#liberal">liberales*</ref> en la bouche de ces Comediens destinez seulement aux plaisirs de V-G ; &amp; dont la Troupe que vous avez enrichie par des presents magnifiques autant que par d’illustres Acteurs, se va rendre sous vos faveurs &amp; sous l’appuy de vôtre Nom, si pompeuse &amp; celebre qu’on ne la poura juger indigne d’estre à Vous. Quand dy-je, MONSEIGNEUR, mes inclinations n’auroient pas /<pb n="IV" xml:id="pIV"/>/ tourné vers V-G ; quand mes interests propres ne m’auroient pas justement porté à chercher l’honneur de vôtre protection, en vous dediant cet Ouvrage ; la raison seule m’obligeoit d’adresser un des plus grands Heros &amp; des plus vertueux de l’ancienne Rome, à un des plus généreux, des plus nobles &amp; des plus parfaits de nôtre Siecle. En effect, MONSEIGNEUR, qui est-ce qui pouvoit plus noblement que vous faire honneur à ce grand PAPYRE ? &amp; par droict de bien-seance accueillir un DICTATEUR ROMAIN, qu’un Colonel de France, de qui le commandement et l’autorité s’étend dans toutes nos Armées, &amp; le fait autant de fois Capitaine qu’il y a de divers Regimens qui les composent ? C’est cette Charge Illustre que vous soutenez aussi glorieusement qu’elle soutient la Couronne, dont elle est aussi le plus fort &amp; le plus necessaire appuy ; c’est elle par qui l’on peut dire que vous estes, bien que quelquefois absent, toûjours de toutes nos Armées, de nos combats, de nos victoires &amp; de nos triomphes. Mais quoy que par elle VÔTRE GRANDEUR paroisse si <ref target="#recommendable">recommendable*</ref> &amp; d’une puissance si étenduë, je vous regarde plus brillant du côté de vous-méme &amp; en vôtre personne<note place="bottom">« Je vous regarde… vôtre personne » = il l’admire plus pour lui-même que pour sa « Charge Illustre » (« elle »).</note> ; &amp; je vous treuve plus noble &amp; plus admirable en vôtre courage &amp; en vos vertus, que magnifique &amp; pompeux en vos <ref target="#dignite">dignitez*</ref>. Vous vous estes de tout temps montré digne Fils, comme aujourd’huy l’on vous voit digne successeur du plus grand Homme que ce siecle puisse opposer à l’antiquité, &amp; que la France ose bien comparer aux Grecs &amp; aux Romains ; que trois Roys avoient élevé &amp; que pas un n’a ni abaissé ni détruit ; que le temps en n’osant toucher à ses années, a respecté aussi bien que la Cour, les Peuples &amp; les Nations ; que la Fortune méme a craint aussi bien que ses Ennemis ; que la bonne &amp; la mauvaise toûjours on treuvé égal ; &amp; que toutes deux ont laissé dedans la gloire, &amp; en la mesme <ref target="#assiette">assiette*</ref>. Comme luy, /<pb n="V" xml:id="pV"/>/ MONSEIGNEUR, vous avez senti les <ref target="#trait">trais*</ref> de l’une &amp; de l’autre ; &amp; vous les avez soûtenus genereusement comme luy. Je voy reluire dans toutes vos actions, outre la grandeur de courage, cette asseurance &amp; fermeté de cœur qui luy estoit si naturelle, &amp; qu’il semble avoir inspirée au vôtre, aussi bien que ce noble &amp; genereux sang qu’il vous a donné. Digne sang qui vous a causé tant de gloire &amp; d’honneur, &amp; à qui vous n’en avez pas moins apporté ; illustre sang encore qui vous a joint à nos Rois, puis que ces Princes de qui vous portez le Nom y touchoient de si prés, eux qui ont donné des Reynes à la Hongrie ainsi qu’à la Boheme, de qui descendent tant de testes couronnées &amp; ces rejettons de la Maison d’Autriche. Comme autrefois Cesar, &amp; devant luy mille autres courageux Romains, dont les esprits fermes &amp; resolus estoient de la trempe du vôtre, se sont opposez à la fureur d’une Populace, ou de tout un Camp mutiné : de mesme, je vous voy avec cette mesme asseurance, presque seul &amp; en petit nombre, desarmer  une populeuse &amp; forte Ville, qui a souffert &amp; repoussé l’effort de plus de soixante mille hommes. Je vous voy, MONSEIGNEUR, dans un peril, qui sans vous étonner étonna presque tout l’Estat, autant que les effets prodigieux qui l’affermirent par vôtre valeur &amp; par vôtre conduite ; Je vous voy l’espée à la main, verser assez de sang pour éteindre un brazier qui devoroit vôtre Province, &amp; à la teste de cette Noblesse, avec une poignée de soldats levez &amp; armez à la hâte, deffaire des Rebeles soûlevez sur un pretexte qui pouvoit renverser cette Monarchie, &amp; dissiper &amp; reduire en fumée cette dangereuse Armée de Mutins qui menassoient d’y mettre le Royaume<note place="bottom">Mareschal évoque sûrement les soulèvements importants qui eurent lieu en Guyenne entre 1633 et 1635, en particulier à Bordeaux en 1635 où une foule armée occupa la ville et y dressa des barricades. Le Duc d’Epernon dut mener des combats de rues avec une armée très peu nombreuse mais réussit à reprendre la ville (<hi rend="sc">Porchnev</hi>, <hi rend="i">Les soulèvements populaires en France au XVII<hi rend="sup">e</hi> siècle</hi>, Flammarion, 1972).</note>. Je vous voy dedans un détroit ouvrir un passage &amp; les bornes de la France, &amp; plus avant la rendre encore témoin de merveilles de vostre valeur. Jusques-là, MONSEIGNEUR, tous ces grands effects de vôtre courage, &amp; de cette constante /<pb n="VI" xml:id="pVI"/>/ fermeté qui n’est qu’aux cœurs des grands Heros, ont eu leur jour, leur éclat, &amp; leur pompe : &amp; quoy que la fortune ou la <ref target="#malice1">malice*</ref> de vos envieux ait tenté d’obscurcir en des occasions fâcheuses quelque peu vôtre gloire ; elle a toutefois conservé parmy les ombres qu’on y vouloit opposer, cette secrete force de lumieres qui partoient des rayons veritables de V.G. Mais icy je la voy fort oppressée, en cette prudente retraite que je nomme vôtre exil, &amp; en cette derniere extremité d’une fortune <ref target="#injurieux">injurieuse*</ref>, qui vous expose sur Mer dans une fregate, ainsi que Cesar à la mercy des tempétes ; &amp; je vous voy à pied, dénué d’armes de pouvoir &amp; d’assistance, au milieu de vos Ennemis, au plus fort de vôtre disgrace, entrer dedans vôtre Maison comme en une Place ennemie. Plus vous tâchez de vous rendre inconnu, &amp; d’effacer le lustre de vôtre condition, plus cette audace presque temeraire &amp; heroïque la fait éclatter. Car c’est icy que je vous voy dedans une double &amp; vertueuse action de courage &amp; de pieté, bien mieux &amp; en plus grand peril qu’un fabuleux Aenée, enlever vôtre Femme, vôtre Fille, &amp; vos autre tresors, pour les sauver d’un embrasement general qui alloit perdre &amp; consommer vôtre Maison<note place="bottom">Enée, selon la légende, s’était enfuit de Troie en flammes en emportant les Pénates (dieux protecteurs de la cité, puis de l’Etat romain) et en emmenant son fils Ascagne et son père, le vieil Anchise, portant ce dernier sur ses épaules.</note>. C’est par cette prevoyance &amp; hardiesse admirable que vous l’avez conservée, &amp; qu’il m’est permis de vous voir dans ce premier éclat où je vous considere &amp; vous admire tout brillant &amp; d’honneur &amp; de gloire, &amp; qui ayant attiré un Dictateur pour vous rendre hommage, me force méme de me declarer &amp; de vous dire que je suis,</p>
+        <p>Quand par une douce force vous n’auriez pas gagné tous mes vœux en un moment, dans l’accueil favorable avec lequel VÔTRE GRANDEUR a daigné recevoir les offres de mes tres-humbles services : Quand vôtre Bonté n’auroit pas avecque joye accepté le don que je luy ay fait avec crainte &amp; respect, de cette Pièce de Theatre, pour la faire passer heureusement de vos mains <ref target="#liberal">liberales</ref> en la bouche de ces Comediens destinez seulement aux plaisirs de V-G ; &amp; dont la Troupe que vous avez enrichie par des presents magnifiques autant que par d’illustres Acteurs, se va rendre sous vos faveurs &amp; sous l’appuy de vôtre Nom, si pompeuse &amp; celebre qu’on ne la poura juger indigne d’estre à Vous. Quand dy-je, MONSEIGNEUR, mes inclinations n’auroient pas /<pb n="IV" xml:id="pIV"/>/ tourné vers V-G ; quand mes interests propres ne m’auroient pas justement porté à chercher l’honneur de vôtre protection, en vous dediant cet Ouvrage ; la raison seule m’obligeoit d’adresser un des plus grands Heros &amp; des plus vertueux de l’ancienne Rome, à un des plus généreux, des plus nobles &amp; des plus parfaits de nôtre Siecle. En effect, MONSEIGNEUR, qui est-ce qui pouvoit plus noblement que vous faire honneur à ce grand PAPYRE ? &amp; par droict de bien-seance accueillir un DICTATEUR ROMAIN, qu’un Colonel de France, de qui le commandement et l’autorité s’étend dans toutes nos Armées, &amp; le fait autant de fois Capitaine qu’il y a de divers Regimens qui les composent ? C’est cette Charge Illustre que vous soutenez aussi glorieusement qu’elle soutient la Couronne, dont elle est aussi le plus fort &amp; le plus necessaire appuy ; c’est elle par qui l’on peut dire que vous estes, bien que quelquefois absent, toûjours de toutes nos Armées, de nos combats, de nos victoires &amp; de nos triomphes. Mais quoy que par elle VÔTRE GRANDEUR paroisse si <ref target="#recommendable">recommendable</ref> &amp; d’une puissance si étenduë, je vous regarde plus brillant du côté de vous-méme &amp; en vôtre personne<note place="bottom">« Je vous regarde… vôtre personne » = il l’admire plus pour lui-même que pour sa « Charge Illustre » (« elle »).</note> ; &amp; je vous treuve plus noble &amp; plus admirable en vôtre courage &amp; en vos vertus, que magnifique &amp; pompeux en vos <ref target="#dignite">dignitez</ref>. Vous vous estes de tout temps montré digne Fils, comme aujourd’huy l’on vous voit digne successeur du plus grand Homme que ce siecle puisse opposer à l’antiquité, &amp; que la France ose bien comparer aux Grecs &amp; aux Romains ; que trois Roys avoient élevé &amp; que pas un n’a ni abaissé ni détruit ; que le temps en n’osant toucher à ses années, a respecté aussi bien que la Cour, les Peuples &amp; les Nations ; que la Fortune méme a craint aussi bien que ses Ennemis ; que la bonne &amp; la mauvaise toûjours on treuvé égal ; &amp; que toutes deux ont laissé dedans la gloire, &amp; en la mesme <ref target="#assiette">assiette</ref>. Comme luy, /<pb n="V" xml:id="pV"/>/ MONSEIGNEUR, vous avez senti les <ref target="#trait">trais</ref> de l’une &amp; de l’autre ; &amp; vous les avez soûtenus genereusement comme luy. Je voy reluire dans toutes vos actions, outre la grandeur de courage, cette asseurance &amp; fermeté de cœur qui luy estoit si naturelle, &amp; qu’il semble avoir inspirée au vôtre, aussi bien que ce noble &amp; genereux sang qu’il vous a donné. Digne sang qui vous a causé tant de gloire &amp; d’honneur, &amp; à qui vous n’en avez pas moins apporté ; illustre sang encore qui vous a joint à nos Rois, puis que ces Princes de qui vous portez le Nom y touchoient de si prés, eux qui ont donné des Reynes à la Hongrie ainsi qu’à la Boheme, de qui descendent tant de testes couronnées &amp; ces rejettons de la Maison d’Autriche. Comme autrefois Cesar, &amp; devant luy mille autres courageux Romains, dont les esprits fermes &amp; resolus estoient de la trempe du vôtre, se sont opposez à la fureur d’une Populace, ou de tout un Camp mutiné : de mesme, je vous voy avec cette mesme asseurance, presque seul &amp; en petit nombre, desarmer  une populeuse &amp; forte Ville, qui a souffert &amp; repoussé l’effort de plus de soixante mille hommes. Je vous voy, MONSEIGNEUR, dans un peril, qui sans vous étonner étonna presque tout l’Estat, autant que les effets prodigieux qui l’affermirent par vôtre valeur &amp; par vôtre conduite ; Je vous voy l’espée à la main, verser assez de sang pour éteindre un brazier qui devoroit vôtre Province, &amp; à la teste de cette Noblesse, avec une poignée de soldats levez &amp; armez à la hâte, deffaire des Rebeles soûlevez sur un pretexte qui pouvoit renverser cette Monarchie, &amp; dissiper &amp; reduire en fumée cette dangereuse Armée de Mutins qui menassoient d’y mettre le Royaume<note place="bottom">Mareschal évoque sûrement les soulèvements importants qui eurent lieu en Guyenne entre 1633 et 1635, en particulier à Bordeaux en 1635 où une foule armée occupa la ville et y dressa des barricades. Le Duc d’Epernon dut mener des combats de rues avec une armée très peu nombreuse mais réussit à reprendre la ville (<hi rend="sc">Porchnev</hi>, <hi rend="i">Les soulèvements populaires en France au XVII<hi rend="sup">e</hi> siècle</hi>, Flammarion, 1972).</note>. Je vous voy dedans un détroit ouvrir un passage &amp; les bornes de la France, &amp; plus avant la rendre encore témoin de merveilles de vostre valeur. Jusques-là, MONSEIGNEUR, tous ces grands effects de vôtre courage, &amp; de cette constante /<pb n="VI" xml:id="pVI"/>/ fermeté qui n’est qu’aux cœurs des grands Heros, ont eu leur jour, leur éclat, &amp; leur pompe : &amp; quoy que la fortune ou la <ref target="#malice1">malice</ref> de vos envieux ait tenté d’obscurcir en des occasions fâcheuses quelque peu vôtre gloire ; elle a toutefois conservé parmy les ombres qu’on y vouloit opposer, cette secrete force de lumieres qui partoient des rayons veritables de V.G. Mais icy je la voy fort oppressée, en cette prudente retraite que je nomme vôtre exil, &amp; en cette derniere extremité d’une fortune <ref target="#injurieux">injurieuse</ref>, qui vous expose sur Mer dans une fregate, ainsi que Cesar à la mercy des tempétes ; &amp; je vous voy à pied, dénué d’armes de pouvoir &amp; d’assistance, au milieu de vos Ennemis, au plus fort de vôtre disgrace, entrer dedans vôtre Maison comme en une Place ennemie. Plus vous tâchez de vous rendre inconnu, &amp; d’effacer le lustre de vôtre condition, plus cette audace presque temeraire &amp; heroïque la fait éclatter. Car c’est icy que je vous voy dedans une double &amp; vertueuse action de courage &amp; de pieté, bien mieux &amp; en plus grand peril qu’un fabuleux Aenée, enlever vôtre Femme, vôtre Fille, &amp; vos autre tresors, pour les sauver d’un embrasement general qui alloit perdre &amp; consommer vôtre Maison<note place="bottom">Enée, selon la légende, s’était enfuit de Troie en flammes en emportant les Pénates (dieux protecteurs de la cité, puis de l’Etat romain) et en emmenant son fils Ascagne et son père, le vieil Anchise, portant ce dernier sur ses épaules.</note>. C’est par cette prevoyance &amp; hardiesse admirable que vous l’avez conservée, &amp; qu’il m’est permis de vous voir dans ce premier éclat où je vous considere &amp; vous admire tout brillant &amp; d’honneur &amp; de gloire, &amp; qui ayant attiré un Dictateur pour vous rendre hommage, me force méme de me declarer &amp; de vous dire que je suis,</p>
         <p>MONSEIGNEUR,</p>
         <p>DE vôtre GRANDEUR</p>
-        <label rend="center">Le tres-humble &amp; tres-obeissant</label>
-        <label rend="center">serviteur. A. MARESCHAL</label>
+        <stage rend="center">Le tres-humble &amp; tres-obeissant</stage>
+        <stage rend="center">serviteur. A. MARESCHAL</stage>
       </div>
       <div xml:id="privilege">
-        <pb n="VII"/><head>Extraict du Privilege du Roy.</head>
+        <head>Extraict du Privilege du Roy.<pb n="VII"/></head>
         <p>Par grace &amp; privilège du Roy donné à Paris le 19. Fevrier 1646. signé, Par le Roy en son Conseil, LE BRUN. Il est permis à Toussainct Quinet Marchand Libraire à Paris d’imprimer ou faire imprimer une piece de Theatre, intitulée LE DICTATEUR ROMAIN, TRAGEDIE, &amp; ce durant le temps &amp; espace de cinq ans, à compter du jour que ladite piece sera achevee d’imprimer, &amp; deffences seront faictes à tous Imprimeurs &amp; Libraires d’en imprimer, vendre &amp; distribuer d’autre impression que celle dudit Quinet ou ses ayans causes, sur peine aux contrevenans de trois mille livres d’amende, confiscation des exemplaires &amp; de tous despens, dommages &amp; interests ainsi qu’il est plus au long<note place="bottom">« Il est plus au long » = il est plus longuement détaillé.</note> porté par lesdites lettres.</p>
-        <label rend="center">Achevé d’imprimer pour la premiere fois le 28. Avril 1646.</label>
-        <label rend="center">Les Exemplaires ont esté fournis.</label>
+        <stage rend="center">Achevé d’imprimer pour la premiere fois le 28. Avril 1646.</stage>
+        <stage rend="center">Les Exemplaires ont esté fournis.</stage>
       </div>
       <div xml:id="personnages" type="set">
-        <pb n="VIII"/><head>PERSONNAGES.</head>
+        <head>PERSONNAGES.<pb n="VIII"/></head>
         <castList>
           <castItem>
             <role xml:id="papyre" rend="male veteran superior">PAPYRE,</role>
@@ -899,8 +898,8 @@
           <stage>CAMILLE, LUCILLE, PAPYRIE.</stage>
           <sp xml:id="scene1-I-1" who="camille">
             <speaker>CAMILLE.</speaker>
-            <l n="1" xml:id="l1">Quoy ? ma Sœur, <ref target="#plaindre">plaindre*</ref> ainsi quelque peu de foiblesse ?<pb n="1; A" xml:id="p1"/></l>
-            <l n="2" xml:id="l2">Ce reste de <ref target="#langueur">langueur*</ref> qu’un mal passé me laisse ?</l>
+            <l n="1" xml:id="l1">Quoy ? ma Sœur, <ref target="#plaindre">plaindre</ref> ainsi quelque peu de foiblesse ?<pb n="1; A" xml:id="p1"/></l>
+            <l n="2" xml:id="l2">Ce reste de <ref target="#langueur">langueur</ref> qu’un mal passé me laisse ?</l>
             <l n="3" xml:id="l3">Je sens naître déja d’une douce chaleur<pb n="2" xml:id="p2"/></l>
             <l n="4" xml:id="l4">Ce plaisir imparfait qui finit la douleur.</l>
           </sp>
@@ -908,9 +907,9 @@
             <speaker>LUCILLE.</speaker>
             <l n="5" xml:id="l5">La douleur qu’on croit morte est souvent endormie,</l>
             <l n="6" xml:id="l6">Et ce plaisir malin réveille une Ennemie :</l>
-            <l n="7" xml:id="l7">Craignez la dans sa fin, c’est trop vous <ref target="#hazarder">hazarder*</ref>,</l>
+            <l n="7" xml:id="l7">Craignez la dans sa fin, c’est trop vous <ref target="#hazarder">hazarder</ref>,</l>
             <l n="8" xml:id="l8">Vous avez en vous seul toute Rome à garder ;</l>
-            <l n="9" xml:id="l9"><ref target="#conserver2">Conservez*</ref> vous pour nous, tout l’Empire en un homme,</l>
+            <l n="9" xml:id="l9"><ref target="#conserver2">Conservez</ref> vous pour nous, tout l’Empire en un homme,</l>
             <l n="10" xml:id="l10">A Lucille son Frere, &amp; son Consul à Rome.</l>
           </sp>
           <sp xml:id="scene1-I-3" who="papyrie">
@@ -936,24 +935,24 @@
             <l n="26" xml:id="l26">J’ay pour luy de la joye, &amp; pour moy je soûpire</l>
             <l n="27" xml:id="l27">De voir qu’estant Consul je manque à mon pays,</l>
             <l n="28" xml:id="l28">Et que ma maladie ait mes desseins trahis :</l>
-            <l n="29" xml:id="l29">En un si foible estat peux-tu, <ref target="#superbe2">superbe*</ref> Ville,</l>
-            <l n="30" xml:id="l30"><ref target="#connaitre2">Connoistre*</ref> ton Consul, connoistre enfin Camille ?</l>
+            <l n="29" xml:id="l29">En un si foible estat peux-tu, <ref target="#superbe2">superbe</ref> Ville,</l>
+            <l n="30" xml:id="l30"><ref target="#connaitre2">Connoistre</ref> ton Consul, connoistre enfin Camille ?</l>
           </sp>
           <sp xml:id="scene1-I-5" who="lucille">
             <speaker>LUCILLE.</speaker>
             <l n="31" xml:id="l31">Ces regrets, vrays enfans d’un noble sentiment,</l>
-            <l n="32" xml:id="l32">Partent d’un cœur Romain, qu’on <ref target="#connaitre2">connoist*</ref> aisément,</l>
+            <l n="32" xml:id="l32">Partent d’un cœur Romain, qu’on <ref target="#connaitre2">connoist</ref> aisément,</l>
             <l n="33" xml:id="l33">D’une égale vertu, parfaite, &amp; confirmee ;</l>
             <l n="34" xml:id="l34">Genereux, dans son mal comme dans une Armée,</l>
             <l n="35" xml:id="l35">Sans force, languissant, &amp; jamais abbatu ;</l>
             <l n="36" xml:id="l36">Sa foiblesse est courage, &amp; son mal est vertu<note place="bottom">V. 33-36 : description du « cœur Romain » de Camille.</note> :</l>
-            <l n="37" xml:id="l37">En un si ferme estat, Rome <ref target="#superbe2">superbe*</ref> Ville,</l>
-            <l n="38" xml:id="l38">Tu <ref target="#connaitre2">connois*</ref> ton Consul, tu connois ton Camille !</l>
+            <l n="37" xml:id="l37">En un si ferme estat, Rome <ref target="#superbe2">superbe</ref> Ville,</l>
+            <l n="38" xml:id="l38">Tu <ref target="#connaitre2">connois</ref> ton Consul, tu connois ton Camille !</l>
           </sp>
           <sp xml:id="scene1-I-6" who="papyrie">
             <speaker>PAPYRIE.</speaker>
-            <l n="39" xml:id="l39">Inutile, malade, en un lict <ref target="#detenu">detenu*</ref>,</l>
-            <l n="40" xml:id="l40">Les Dieux en vous sauvant ces Dieux vous ont <ref target="#connaitre2">connu*</ref> ;</l>
+            <l n="39" xml:id="l39">Inutile, malade, en un lict <ref target="#detenu">detenu</ref>,</l>
+            <l n="40" xml:id="l40">Les Dieux en vous sauvant ces Dieux vous ont <ref target="#connaitre2">connu</ref> ;</l>
             <l n="41" xml:id="l41">Puis qu’en un si grand trouble, &amp; contre les auspices,</l>
             <l n="42" xml:id="l42">Eux, qui nous menassoient, nous ont esté propices ;</l>
             <l n="43" xml:id="l43">Deux victoires ne sont qu’un prix qu’ils vous devoient,</l>
@@ -961,12 +960,12 @@
           </sp>
           <sp xml:id="scene1-I-7" who="camille">
             <speaker>CAMILLE.</speaker>
-            <l n="45" xml:id="l45">C’en est trop ; parlez mieux d’un <ref target="#succes">succez*</ref> si prospere :<pb n="4" xml:id="p4"/></l>
+            <l n="45" xml:id="l45">C’en est trop ; parlez mieux d’un <ref target="#succes">succez</ref> si prospere :<pb n="4" xml:id="p4"/></l>
             <l n="46" xml:id="l46">L’une &amp; l’autre victoire est deuë à vostre Pere :</l>
             <l n="47" xml:id="l47">Quoy que fasse une Armée ou de bien ou de mal,</l>
             <l n="48" xml:id="l48">Tout le blâme ou l’honneur retourne au General ;</l>
             <l n="49" xml:id="l49">Luy seul y fait regner &amp; l’ordre &amp; la police,</l>
-            <l n="50" xml:id="l50">Il instruit les soldats, les forme à la <ref target="#milice">milice*</ref> ;</l>
+            <l n="50" xml:id="l50">Il instruit les soldats, les forme à la <ref target="#milice">milice</ref> ;</l>
             <l n="51" xml:id="l51">Les combats faits par eux sont à luy seulement,</l>
             <l n="52" xml:id="l52">Chacun y prend sa part, luy, tout l’événement ;</l>
             <l n="53" xml:id="l53">Le Corps doit tout au Chef<note place="bottom">« Corps » est un terme militaire (un corps d’armée) mais ce vers présente métaphoriquement l’Armée comme un tout, un corps (les soldats) qui n’est rien sans son « Chef », c’est-à-dire sa tête, pour le commander, et qui est représentée par Papyre (cf. v. 55-56).</note>, c’est l’ame qui l’inspire ;</l>
@@ -1020,17 +1019,17 @@
             <l n="92" xml:id="l92">Gouvernent puissamment &amp; l’un &amp; l’autre cœur.</l>
             <l n="93" xml:id="l93">D’une illustre Maison Fabie a pour partage<note place="bottom">« Partage » : le lot attribué à quelqu’un dans une succession (<hi rend="sc">Robert</hi>). Cela signifie que Fabie a hérité des qualités qui ont fait l’honneur de sa famille.</note></l>
             <l n="94" xml:id="l94">Les triomphes, l’honneur, le nom, &amp; le courage ;</l>
-            <l n="95" xml:id="l95">Unique <ref target="#rejeton">rejetton*</ref> des trois cents Fabiens,</l>
+            <l n="95" xml:id="l95">Unique <ref target="#rejeton">rejetton</ref> des trois cents Fabiens,</l>
             <l n="96" xml:id="l96">Qui seul porte en son cœur les cœurs de tous les siens,</l>
             <l n="97" xml:id="l97">Et qui digne heritier fait revivre en un homme</l>
             <l n="98" xml:id="l98">Ces trois cents dans un jour sacrifiez pour Rome<note place="bottom">La <hi rend="i">gens</hi> Fabia était un des clans patriciens les plus anciens de Rome. Son plus grand titre de gloire provient d’un exploit en 479 avant J.-C. quand la <hi rend="i">gens</hi> offrit de poursuivre toute seule la guerre contre la ville étrusque de Véies. 306 hommes partirent mais tombèrent dans une embuscade et moururent, à l’exception d’un seul jeune homme de qui descendirent tous les autres membres de la <hi rend="i">gens</hi> par la suite. (<hi rend="i">Dictionnaire de l’Antiquité</hi>)</note>.</l>
-            <l n="99" xml:id="l99">Mais sans rien <ref target="#feindre1">feindre*</ref> aussi, sans flatter vostre Epoux,</l>
+            <l n="99" xml:id="l99">Mais sans rien <ref target="#feindre1">feindre</ref> aussi, sans flatter vostre Epoux,</l>
             <l n="100" xml:id="l100">Papyre est tout<note place="bottom">Emploi adverbial signifiant entièrement.</note> Romain, le plus grand d’entre nous ;</l>
             <l n="101" xml:id="l101">Son adresse à la guerre &amp; son experience</l>
             <l n="102" xml:id="l102">Le firent Dictateur, non pas nostre Alliance,</l>
-            <l n="103" xml:id="l103">Pour occuper un <ref target="#lieu">lieu*</ref> qu’il remplit mieux que moy,</l>
+            <l n="103" xml:id="l103">Pour occuper un <ref target="#lieu">lieu</ref> qu’il remplit mieux que moy,</l>
             <l n="104" xml:id="l104">M’acquitter envers Rome &amp; dégager ma foy ;</l>
-            <l n="105" xml:id="l105">Quel homme <ref target="#a">à*</ref> commander ! observateur severe</l>
+            <l n="105" xml:id="l105">Quel homme <ref target="#a">à</ref> commander ! observateur severe</l>
             <l n="106" xml:id="l106">Et de la discipline &amp; de l’art militaire :</l>
             <l n="107" xml:id="l107">De là jugez, ma Sœur, ce qu’il faut aujourd’huy</l>
             <l n="108" xml:id="l108">Esperer de Fabie, &amp; craindre aussi de luy<note place="bottom">Ce pronom renvoie à Papyre puisqu’il est repris au vers suivant en désignant la situation dans laquelle se trouve le dictateur (v. 109-110).</note>,</l>
@@ -1064,7 +1063,7 @@
             <speaker>LUCILLE.</speaker>
             <l part="F">Ils ne le peuvent estre ;</l>
             <l n="122" xml:id="l122">Un secret revelé vous le fera connaître :</l>
-            <l n="123" xml:id="l123">Pour finir vos soupçons, vous tirer de <ref target="#souci">soucy*</ref>,</l>
+            <l n="123" xml:id="l123">Pour finir vos soupçons, vous tirer de <ref target="#souci">soucy</ref>,</l>
             <l n="124" xml:id="l124">Papyre ayme Fabie, &amp; luy ma Fille aussi.</l>
           </sp>
           <sp xml:id="scene1-I-16" who="camille">
@@ -1077,14 +1076,14 @@
             <l n="127" xml:id="l127">Papyre Dictateur éleu par vostre choix,<pb n="8" xml:id="p8"/></l>
             <l n="128" xml:id="l128">Comme l’on croyoit voir au plus haut des emplois</l>
             <l n="129" xml:id="l129">Lieutenant general Valere vostre intime<note place="bottom">On croyait voir  Valère élevé au grade de Lieutenant général.</note>,</l>
-            <l n="130" xml:id="l130">Il éleve Fabie à ce degré <ref target="#sublime">sublime*</ref> :</l>
+            <l n="130" xml:id="l130">Il éleve Fabie à ce degré <ref target="#sublime">sublime</ref> :</l>
             <l n="131" xml:id="l131">Cette grande faveur augmente son amour :</l>
             <l n="132" xml:id="l132">Son Pere voit Papyre, &amp; courtois à son tour</l>
             <l n="133" xml:id="l133">Luy consacrant son Fils &amp; pour Fils &amp; pour Gendre</l>
             <l n="134" xml:id="l134">Est ravi de l’offrir, &amp; l’autre de le prendre.</l>
             <l n="135" xml:id="l135">Jusques à leur retour cet hymen differé</l>
             <l n="136" xml:id="l136">Ne me fut qu’au depart en secret declaré :</l>
-            <l n="137" xml:id="l137">Mais, comme à ce penser mon plaisir <ref target="#renouveller">renouvelle*</ref>,</l>
+            <l n="137" xml:id="l137">Mais, comme à ce penser mon plaisir <ref target="#renouveller">renouvelle</ref>,</l>
             <l n="138" xml:id="l138">Mon cœur veut que ma bouche à tous deux le revelle ;</l>
             <l n="139" xml:id="l139">A vous<note place="bottom">« Vous » : désigne Camille (cf. v. 141 : « A vous, ma Fille »). Sur scène, il faut supposer un geste ou un regard levant l’ambiguïté.</note>, pour effacer des soupçons mal conceus,</l>
             <l n="140" xml:id="l140">Et regler nos desirs &amp; vos soins là dessus ;</l>
@@ -1140,7 +1139,7 @@
           <sp xml:id="scene2-I-4" who="camille">
             <speaker>CAMILLE.</speaker>
             <l n="169" xml:id="l169">Nous l’entendrons : Qu’il entre : Et ce sera luy-mème</l>
-            <l n="170" xml:id="l170">Qui vous <ref target="#deduire">déduira*</ref> mieux ce nouveau stratageme,</l>
+            <l n="170" xml:id="l170">Qui vous <ref target="#deduire">déduira</ref> mieux ce nouveau stratageme,</l>
             <l n="171" xml:id="l171">Qu’il croit faire passer icy pour un secret.</l>
             <l n="172" xml:id="l172">Je ne m’oppose point par un zele indiscret</l>
             <l n="173" xml:id="l173">A ce choix glorieux que Papyre a pû faire :</l>
@@ -1182,7 +1181,7 @@
           <sp xml:id="scene3-I-3" who="comine">
             <speaker>COMINE.</speaker>
             <l part="F">Ouy, depuis un moment ;</l>
-            <l n="192" xml:id="l192">Et je viens de sa part vous faire <ref target="#compliment">compliment*</ref>,</l>
+            <l n="192" xml:id="l192">Et je viens de sa part vous faire <ref target="#compliment">compliment</ref>,</l>
             <l n="193" xml:id="l193">Ce pendant qu’un devoir plus fort &amp; necessaire</l>
             <l n="194" xml:id="l194">Prest de<note place="bottom">Sur le point de (<hi rend="sc">Haase</hi>).</note> venir icy l’arréte chez son Pere.</l>
           </sp>
@@ -1194,7 +1193,7 @@
           </sp>
           <sp xml:id="scene3-I-5" who="lucille">
             <speaker>LUCILLE.</speaker>
-            <l n="198" xml:id="l198">Cette gloire deust estre à ses <ref target="#travaux">travaux*</ref> prescrite :</l>
+            <l n="198" xml:id="l198">Cette gloire deust estre à ses <ref target="#travaux">travaux</ref> prescrite :</l>
             <l n="199" xml:id="l199">Mais cet honneur si grand &amp; si bien merité,</l>
             <l n="200" xml:id="l200">A son retour sans bruit ainsi precipité,</l>
             <l n="201" xml:id="l201">Luy peut estre sans doute envié par Valere.</l>
@@ -1225,7 +1224,7 @@
           </sp>
           <sp xml:id="scene3-I-11" who="comine">
             <speaker>COMINE.</speaker>
-            <l n="211" xml:id="l211">Amy jusqu’à ce poinct, qu’il n’ose <ref target="#publier">publier*</ref>…..<pb n="13" xml:id="p13"/></l>
+            <l n="211" xml:id="l211">Amy jusqu’à ce poinct, qu’il n’ose <ref target="#publier">publier</ref>…..<pb n="13" xml:id="p13"/></l>
           </sp>
           <sp xml:id="scene3-I-12" who="camille">
             <speaker>CAMILLE.</speaker>
@@ -1234,7 +1233,7 @@
           <sp xml:id="scene3-I-13" who="comine">
             <speaker>COMINE.</speaker>
             <l n="213" xml:id="l213">Pour ne divulguer pas le mal qui l’a suivie,</l>
-            <l n="214" xml:id="l214">Je la tay par respect, &amp; non point par <ref target="#envie">envie*</ref>.</l>
+            <l n="214" xml:id="l214">Je la tay par respect, &amp; non point par <ref target="#envie">envie</ref>.</l>
           </sp>
           <sp xml:id="scene3-I-14" who="camille">
             <speaker>CAMILLE.</speaker>
@@ -1248,7 +1247,7 @@
           </sp>
           <sp xml:id="scene3-I-16" who="lucille">
             <speaker>LUCILLE.</speaker>
-            <l n="219" xml:id="l219">Voilà pour un <ref target="#effet">effect*</ref> glorieux &amp; charmant</l>
+            <l n="219" xml:id="l219">Voilà pour un <ref target="#effet">effect</ref> glorieux &amp; charmant</l>
             <l n="220" xml:id="l220">Certes un assez triste &amp; froid commencement.</l>
           </sp>
           <sp xml:id="scene3-I-17" who="comine">
@@ -1259,21 +1258,21 @@
             <l n="224" xml:id="l224">Jusques à son retour de ne combattre point :</l>
             <l n="225" xml:id="l225">L’absence de Papyre en l’une &amp; l’autre Armée</l>
             <l n="226" xml:id="l226">Ainsi qu’un haut mystere estoit déjà semée,</l>
-            <l n="227" xml:id="l227">Et tenoit sans combattre inutiles &amp; <ref target="#vain2">vains*</ref></l>
+            <l n="227" xml:id="l227">Et tenoit sans combattre inutiles &amp; <ref target="#vain2">vains</ref></l>
             <l n="228" xml:id="l228">Le Camp des Ennemis &amp; celuy des Romains :</l>
             <l n="229" xml:id="l229">Sçachans du Dictateur &amp; l’ordre &amp; la deffense</l>
             <l n="230" xml:id="l230">Les Samnites montoient jusques à l’insolence ;</l>
             <l n="231" xml:id="l231">Abandonnez au jeu, noyez dans le festin,</l>
             <l n="232" xml:id="l232">Dans nul ordre, ils sembloient moins un Camp qu’un butin ;</l>
             <l n="233" xml:id="l233">Et les moins dissolus, sans craindre les approches,</l>
-            <l n="234" xml:id="l234">Nous lançoient jusqu’au camp des <ref target="#trait">trais*</ref> &amp; des reproches.</l>
+            <l n="234" xml:id="l234">Nous lançoient jusqu’au camp des <ref target="#trait">trais</ref> &amp; des reproches.</l>
             <l n="235" xml:id="l235">Quand Fabie à la fin de colere enflamé,</l>
             <l n="236" xml:id="l236">Honteux comme un lyon de se voir enfermé<note place="bottom">Honteux de se voir comme un lion (symbole du courage) qui serait enfermé (et ne pourrait donc pas montrer de quoi il est capable).</note>,</l>
-            <l n="237" xml:id="l237"><ref target="#presser">Pressé*</ref> des Ennemis, animé par Valere</l>
+            <l n="237" xml:id="l237"><ref target="#presser">Pressé</ref> des Ennemis, animé par Valere</l>
             <l n="238" xml:id="l238">Alluma son courage au feu de sa colere,</l>
             <l n="239" xml:id="l239">Et par un grand combat heureux &amp; non permis</l>
             <l n="240" xml:id="l240">Forcea leur Camp, deffit, chassa les Ennemis :</l>
-            <l n="241" xml:id="l241">A cet exploit <ref target="#fameux">fameux*</ref>, sa valeur animée</l>
+            <l n="241" xml:id="l241">A cet exploit <ref target="#fameux">fameux</ref>, sa valeur animée</l>
             <l n="242" xml:id="l242">Méme n’employa pas<note place="bottom">N’employa même pas…</note> la moitié de l’Armée ;</l>
             <l n="243" xml:id="l243">Je tins hors du combat dans ces occasions</l>
             <l n="244" xml:id="l244">Et la Cavallerie, &amp; quelques Legions,</l>
@@ -1286,13 +1285,13 @@
           </sp>
           <sp xml:id="scene3-I-18" who="camille">
             <speaker>CAMILLE.</speaker>
-            <l n="251" xml:id="l251">Pouvez-vous luy donner ce lâche <ref target="#mouvement">mouvement*</ref> ?</l>
+            <l n="251" xml:id="l251">Pouvez-vous luy donner ce lâche <ref target="#mouvement">mouvement</ref> ?</l>
             <l n="252" xml:id="l252" part="I">Sçavez-vous ?</l>
           </sp>
           <sp xml:id="scene3-I-19" who="comine">
             <speaker>COMINE.</speaker>
             <l part="F">Je sçay tout ; mais escoutez comment.</l>
-            <l n="253" xml:id="l253">Peu devant<note place="bottom">Peu de temps avant (<hi rend="sc">Haase</hi>).</note> ce combat, qui passa pour <ref target="#furie">furie*</ref>,</l>
+            <l n="253" xml:id="l253">Peu devant<note place="bottom">Peu de temps avant (<hi rend="sc">Haase</hi>).</note> ce combat, qui passa pour <ref target="#furie">furie</ref>,</l>
             <l n="254" xml:id="l254">Valere seul en teste à la Cavallerie</l>
             <l n="255" xml:id="l255">Avecque<note place="bottom">Doublet poétique du mot « avec » (cf. note du vers 209) </note> tout ce Corps faisant ferme<note place="bottom">En termes de guerre, « faire ferme » signifie « avec résolution &amp; sans reculer ». (<hi rend="sc">Furetiere</hi>)</note> à ma voix</l>
             <l n="256" xml:id="l256">Par ordre de Fabie &amp; que je luy portois ;</l>
@@ -1306,9 +1305,9 @@
             <l n="264" xml:id="l264">Comme en gagnant, de crime envers le Dictateur.</l>
             <l n="265" xml:id="l265">Pour ce coup ses raisons grandes &amp; specieuses</l>
             <l n="266" xml:id="l266">Me parurent d’esprit, &amp; non pas envieuses ;</l>
-            <l n="267" xml:id="l267">De son dessein caché ce voile me <ref target="#decevoir">deceut*</ref> ;</l>
+            <l n="267" xml:id="l267">De son dessein caché ce voile me <ref target="#decevoir">deceut</ref> ;</l>
             <l n="268" xml:id="l268">Un Amy les donnoit, un Amy les receut :</l>
-            <l n="269" xml:id="l269">Mais au dernier combat, où poursuivant sa <ref target="#pointe">pointe*</ref></l>
+            <l n="269" xml:id="l269">Mais au dernier combat, où poursuivant sa <ref target="#pointe">pointe</ref></l>
             <l n="270" xml:id="l270">Fabie à leur Armée avait la nostre jointe,</l>
             <l n="271" xml:id="l271">Et poussant les fuyards des champs Pyceniens<pb n="16" xml:id="p16"/></l>
             <l n="272" xml:id="l272">Avait treuvé plus loin les derniers Samniens,</l>
@@ -1355,8 +1354,8 @@
             <l n="294" xml:id="l294">D’aller faire avancer nostre Cavallerie :</l>
             <l n="295" xml:id="l295">L’aîle gauche deux fois, comme tout se perdoit,</l>
             <l n="296" xml:id="l296">Où comme Lieutenant Valere commandoit,</l>
-            <l n="297" xml:id="l297">Contre un gros d’Ennemis, qui commenceoit <ref target="#de">de*</ref> craindre</l>
-            <l n="298" xml:id="l298">Fit quelques vains efforts, &amp; <ref target="#témoigner">tesmoigna*</ref> de feindre,</l>
+            <l n="297" xml:id="l297">Contre un gros d’Ennemis, qui commenceoit <ref target="#de">de</ref> craindre</l>
+            <l n="298" xml:id="l298">Fit quelques vains efforts, &amp; <ref target="#témoigner">tesmoigna</ref> de feindre,</l>
             <l n="299" xml:id="l299">Alors n’espargnant plus mes soins, ni mes travaux</l>
             <l n="300" xml:id="l300">Je fis oster par tout<note place="bottom">Orthographe pour <hi rend="i">partout</hi> au XVII<hi rend="sup">e</hi> siècle</note> les brides aux Chevaux,</l>
             <l n="301" xml:id="l301">Et les faisant pousser<note place="bottom">« Pousser » un cheval = le faire galoper.</note> d’une horrible furie,</l>
@@ -1382,11 +1381,11 @@
           <sp xml:id="scene3-I-27" who="camille">
             <speaker>CAMILLE.</speaker>
             <l n="317" xml:id="l317">Qu’une fureur jalouse aveugla bien Valere !</l>
-            <l n="318" xml:id="l318">Et que son amitié commence à me <ref target="#deplaire">déplaire*</ref> !</l>
+            <l n="318" xml:id="l318">Et que son amitié commence à me <ref target="#deplaire">déplaire</ref> !</l>
           </sp>
           <sp xml:id="scene3-I-28" who="comine">
             <speaker>COMINE.</speaker>
-            <l n="319" xml:id="l319">Je ne vous <ref target="#feindre1">feindray*</ref> rien, je l’ay mesme en horreur :</l>
+            <l n="319" xml:id="l319">Je ne vous <ref target="#feindre1">feindray</ref> rien, je l’ay mesme en horreur :</l>
             <l n="320" xml:id="l320">La vertu de Fabie, &amp; ma premiere erreur</l>
             <l n="321" xml:id="l321">M’ont attaché depuis si fort à sa fortune</l>
             <l n="322" xml:id="l322">Que je ne veux l’avoir qu’avecque luy commune :</l>
@@ -1424,8 +1423,8 @@
             <l part="F">En ce mesme Palais.</l>
           </sp>
           <sp xml:id="scene4-I-4" who="papyrie">
-            <speaker>PAPYRIE. <hi rend="i">bas.</hi></speaker>
-            <l n="332" xml:id="l332">Ma crainte eust<note place="bottom">Ici, le subjonctif permet d’évoquer un procès (mes craintes étaient fondées) que l’on refuse d’ancrer dans ce qui est. (Grammaire de <hi rend="sc">Denis</hi> et <hi rend="sc">Sancier</hi>-<hi rend="sc">Château</hi>). </note> tout appris : Dieux que tu me <ref target="#deplaire">déplais*</ref> !</l>
+            <speaker>PAPYRIE. </speaker><stage>bas.</stage>
+            <l n="332" xml:id="l332">Ma crainte eust<note place="bottom">Ici, le subjonctif permet d’évoquer un procès (mes craintes étaient fondées) que l’on refuse d’ancrer dans ce qui est. (Grammaire de <hi rend="sc">Denis</hi> et <hi rend="sc">Sancier</hi>-<hi rend="sc">Château</hi>). </note> tout appris : Dieux que tu me <ref target="#deplaire">déplais</ref> !</l>
           </sp>
           <sp xml:id="scene4-I-5" who="flavie">
             <speaker>FLAVIE.</speaker>
@@ -1433,7 +1432,7 @@
             <l n="334" xml:id="l334" part="I">Est entré dans la sale.</l>
           </sp>
           <sp xml:id="scene4-I-6" who="papyrie">
-            <speaker>PAPYRIE. <hi rend="i">bas.</hi></speaker>
+            <speaker>PAPYRIE. </speaker><stage>bas.</stage>
             <l part="F">Ah ! ne crains plus, espere.</l>
           </sp>
           <sp xml:id="scene4-I-7" who="lucille">
@@ -1451,11 +1450,11 @@
           <sp xml:id="scene5-I-1" who="papyrie">
             <speaker>PAPYRIE.</speaker>
             <l n="337" xml:id="l337">Ou vas-tu ? quoy ? mon cœur, tu cours apres ta vie ?</l>
-            <l n="338" xml:id="l338">Pour <ref target="#remettre">remettre*</ref> mes sens, arreste un peu : Flavie.</l>
+            <l n="338" xml:id="l338">Pour <ref target="#remettre">remettre</ref> mes sens, arreste un peu : Flavie.</l>
           </sp>
           <sp xml:id="scene5-I-2" who="flavie">
             <speaker>FLAVIE.</speaker>
-            <l n="339" xml:id="l339">Quels sens, quel <ref target="#triste">triste*</ref> cœur vous empesche d’aller ?</l>
+            <l n="339" xml:id="l339">Quels sens, quel <ref target="#triste">triste</ref> cœur vous empesche d’aller ?</l>
           </sp>
           <sp xml:id="scene5-I-3" who="papyrie">
             <speaker>PAPYRIE.</speaker>
@@ -1464,7 +1463,7 @@
           <sp xml:id="scene5-I-4" who="flavie">
             <speaker>FLAVIE.</speaker>
             <l n="341" xml:id="l341">Si vous aviez creu voir toute Rome assemblée</l>
-            <l n="342" xml:id="l342"><ref target="#fondre">Fondre*</ref> dans ce Palais, dont la Cour est comblee,</l>
+            <l n="342" xml:id="l342"><ref target="#fondre">Fondre</ref> dans ce Palais, dont la Cour est comblee,</l>
             <l n="343" xml:id="l343">Et de cris applaudir à ce jeune Vainqueur ;<pb n="21" xml:id="p21"/></l>
             <l n="344" xml:id="l344">Vos yeux auroient volé déja, comme le cœur :</l>
             <l n="345" xml:id="l345">On n’entend à ces cris Echo qui ne responde</l>
@@ -1503,7 +1502,7 @@
             <l n="353" xml:id="l353">Que nos Peres d’accord attendent la journée<pb n="22" xml:id="p22"/></l>
             <l n="354" xml:id="l354">Qu’un promt retour assigne à ce grand hymenee ;</l>
             <l n="355" xml:id="l355">Que le Senat peut-estre en ce pompeux accueil</l>
-            <l n="356" xml:id="l356">Qui le doit justement enfler d’un noble <ref target="#orgueil">orgueil*</ref></l>
+            <l n="356" xml:id="l356">Qui le doit justement enfler d’un noble <ref target="#orgueil">orgueil</ref></l>
             <l n="357" xml:id="l357">Vient offrir, par honneur accompagnant son Pere,</l>
             <l n="358" xml:id="l358">Ce vainqueur au Consul, &amp; ce Gendre à ma Mere :</l>
             <l n="359" xml:id="l359">C’est elle qui tantost m’obligeant à l’aymer</l>
@@ -1513,16 +1512,16 @@
             <l n="363" xml:id="l363">Qui de ma crainte a fait un legitime espoir,</l>
             <l n="364" xml:id="l364">De ma flame un respect, de mes vœux un devoir ;</l>
             <l n="365" xml:id="l365">Et couronnant mes maux d’une fin glorieuse</l>
-            <l n="366" xml:id="l366">A fait de mon amour une vertu <ref target="#pompeuse">pompeuse*</ref> :</l>
-            <l n="367" xml:id="l367">Vertu, devoir, respect, espoir, flame, &amp; <ref target="#langueur">langueur*</ref>,</l>
+            <l n="366" xml:id="l366">A fait de mon amour une vertu <ref target="#pompeuse">pompeuse</ref> :</l>
+            <l n="367" xml:id="l367">Vertu, devoir, respect, espoir, flame, &amp; <ref target="#langueur">langueur</ref>,</l>
             <l n="368" xml:id="l368">Et dignes de Fabie, &amp; dignes de mon cœur,</l>
             <l n="369" xml:id="l369">C’est à vous maintenant que sans crainte &amp; sans blâme</l>
-            <l n="370" xml:id="l370">Je <ref target="#resigner">resigne*</ref> mon cœur, j’abandonne mon ame :</l>
-            <l n="371" xml:id="l371">Enfans doux &amp; secrets d’un violent <ref target="#transport">transport*</ref>,</l>
+            <l n="370" xml:id="l370">Je <ref target="#resigner">resigne</ref> mon cœur, j’abandonne mon ame :</l>
+            <l n="371" xml:id="l371">Enfans doux &amp; secrets d’un violent <ref target="#transport">transport</ref>,</l>
             <l n="372" xml:id="l372">Que ma foy, que l’honneur vient de mettre d’accord,</l>
             <l n="373" xml:id="l373">A ce bonheur si grand que le destin m’envoye</l>
             <l n="374" xml:id="l374">Ouvrez, desirs, ouvrez tous mes sens à la joye ;</l>
-            <l n="375" xml:id="l375">Ah ! si par un <ref target="#exces">excez*</ref> on [en] a veu perir<note place="bottom">Ce vers était faux, nous avons supposé l’oubli du pronom <hi rend="i">en</hi> et l’avons rétabli. Ce vers et le suivant signifient que si jamais l’on a vu quelqu’un mourir d’un excès de joie, ce que Papyrie a l’impression d’être en train de vivre, dans ce cas c’est un « agréable trépas » et « il est doux d’en mourir ».</note>,</l>
+            <l n="375" xml:id="l375">Ah ! si par un <ref target="#exces">excez</ref> on [en] a veu perir<note place="bottom">Ce vers était faux, nous avons supposé l’oubli du pronom <hi rend="i">en</hi> et l’avons rétabli. Ce vers et le suivant signifient que si jamais l’on a vu quelqu’un mourir d’un excès de joie, ce que Papyrie a l’impression d’être en train de vivre, dans ce cas c’est un « agréable trépas » et « il est doux d’en mourir ».</note>,</l>
             <l n="376" xml:id="l376">Agreable trespas ! qu’il est doux d’en mourir !</l>
             <l n="377" xml:id="l377">Qu’à l’aspect de Fabie elle<note place="bottom">La joie évoquée v. 374 et répétée v. 378.</note> soit redoublee ;</l>
             <l n="378" xml:id="l378">Allons mourir de joye &amp; de plaisirs comblee,</l>
@@ -1543,8 +1542,8 @@
           <sp xml:id="scene1-II-1" who="lucille">
             <speaker>LUCILLE.</speaker>
             <l n="385" xml:id="l385">Moderez, Papyrie, &amp; vos cris &amp; vos larmes ;</l>
-            <l n="386" xml:id="l386">Je souffre autant que vous en ces rudes <ref target="#allarmes">allarmes*</ref>,</l>
-            <l n="387" xml:id="l387">Et ce coup <ref target="#etonnant">estonnant*</ref> du sort &amp; du malheur</l>
+            <l n="386" xml:id="l386">Je souffre autant que vous en ces rudes <ref target="#allarmes">allarmes</ref>,</l>
+            <l n="387" xml:id="l387">Et ce coup <ref target="#etonnant">estonnant</ref> du sort &amp; du malheur</l>
             <l n="388" xml:id="l388">Ne m’apporte pas moins de trouble &amp; de douleur.</l>
           </sp>
           <sp xml:id="scene1-II-2" who="papyrie">
@@ -1555,12 +1554,12 @@
             <l n="392" xml:id="l392">Sur un sujet de gloire en est un de pitié<note place="bottom">Mon amour augmenté grâce à vous aurait dû être sujet de gloire (= j’aurais dû en être flattée) mais cet amour devient objet de pitié s’il se révèle ensuite impossible à « concrétiser » à cause du changement du héros « Victorieux » attendu en « Ennemi […] injurieux ». </note> :</l>
             <l n="393" xml:id="l393">C’est peu qu’en ce revers que le destin m’envoye</l>
             <l n="394" xml:id="l394">Une extréme douleur suive une extréme joye ;</l>
-            <l n="395" xml:id="l395">Il est vray, ce <ref target="#passage">passage*</ref> &amp; difficile &amp; grand</l>
-            <l n="396" xml:id="l396">Met un cœur en <ref target="#desordre">desordre*</ref> alors qu<note place="bottom">En même temps que, au moment où (<hi rend="sc">Haase</hi>)</note>’il le surprend :</l>
-            <l n="397" xml:id="l397">Mais au lieu d’un Mary qui <ref target="#flatter">flatte*</ref> nostre attente,</l>
+            <l n="395" xml:id="l395">Il est vray, ce <ref target="#passage">passage</ref> &amp; difficile &amp; grand</l>
+            <l n="396" xml:id="l396">Met un cœur en <ref target="#desordre">desordre</ref> alors qu<note place="bottom">En même temps que, au moment où (<hi rend="sc">Haase</hi>)</note>’il le surprend :</l>
+            <l n="397" xml:id="l397">Mais au lieu d’un Mary qui <ref target="#flatter">flatte</ref> nostre attente,</l>
             <l n="398" xml:id="l398">Que l’on va recevoir d’une joye éclattante,</l>
             <l n="399" xml:id="l399">Où l’on cherche un Amant noble &amp; Victorieux ;</l>
-            <l n="400" xml:id="l400">Treuver un Ennemy <ref target="#superbe1">superbe*</ref>, <ref target="#injurieux">injurieux*</ref>,</l>
+            <l n="400" xml:id="l400">Treuver un Ennemy <ref target="#superbe1">superbe</ref>, <ref target="#injurieux">injurieux</ref>,</l>
             <l n="401" xml:id="l401">Un criminel d’Estat, un mortel Adversaire</l>
             <l n="402" xml:id="l402">De qui l’orgueil offense &amp; les loix, &amp; mon Pere,</l>
             <l n="403" xml:id="l403">Qui jusqu’entre mes bras fuit devant son couroux,</l>
@@ -1577,7 +1576,7 @@
             <l n="411" xml:id="l411">Fabie est Criminel ; mais on peut l’excuser :</l>
             <l n="412" xml:id="l412">Papyre est en couroux ; mais on peut l’appaiser ;</l>
             <l n="413" xml:id="l413">Si l’un est mon Mary, l’autre est aussi mon Gendre ;</l>
-            <l n="414" xml:id="l414">Je scay ce que je puis sur tous deux <ref target="#entreprendre1">entreprendre*</ref> ;</l>
+            <l n="414" xml:id="l414">Je scay ce que je puis sur tous deux <ref target="#entreprendre1">entreprendre</ref> ;</l>
             <l n="415" xml:id="l415">Je veux que mon esprit se treuve plus puissant<pb n="25 ; D" xml:id="p25"/></l>
             <l n="416" xml:id="l416">Qu’un couroux vertueux, &amp; qu’un crime innocent :</l>
             <l n="417" xml:id="l417">Vostre ame, pour faillir, est trop belle &amp; trop haute ;</l>
@@ -1602,7 +1601,7 @@
             <l n="433" xml:id="l433">S’armer contre son crime ? &amp; de haine incapable</l>
             <l n="434" xml:id="l434">Moy, voir son Ennemy ? moy, cherir le Coûpable ?</l>
             <l n="435" xml:id="l435">Tous mes sens en desordre osent donc me trahir ;</l>
-            <l n="436" xml:id="l436">Je le <ref target="#tenir1">tiens*</ref> odieux, &amp; ne le puis haïr ;</l>
+            <l n="436" xml:id="l436">Je le <ref target="#tenir1">tiens</ref> odieux, &amp; ne le puis haïr ;</l>
             <l n="437" xml:id="l437">Je ne le puis aymer, &amp; je le treuve aymable ;</l>
             <l n="438" xml:id="l438">Il me paroist horrible, &amp; me semble agreable ;</l>
             <l n="439" xml:id="l439">Mon Pere &amp; mon Amant combattent dans mon cœur,<pb n="26" xml:id="p26"/></l>
@@ -1613,15 +1612,15 @@
             <l n="444" xml:id="l444">Papyre, ah ! c’est ton Gendre ; &amp; tu peux le chasser ?</l>
             <l n="445" xml:id="l445">Arrestez ; tous vos coups retombent sur moy-mesme ;</l>
             <l n="446" xml:id="l446">Vous ne pouvez blesser un de vous<note place="bottom">En vous blessant l’un l’autre, vous ne pouvez blesser qu’une personne que j’aime.</note> que je n’ayme :</l>
-            <l n="447" xml:id="l447">Ô Papyre ! ô Fabie ! ô cœurs trop <ref target="#animer">animez*</ref> !</l>
+            <l n="447" xml:id="l447">Ô Papyre ! ô Fabie ! ô cœurs trop <ref target="#animer">animez</ref> !</l>
             <l n="448" xml:id="l448">Vous monstrez bien tous deux combien peu vous m’aimez ;</l>
-            <l n="449" xml:id="l449">Un <ref target="#vain1">vain*</ref> desir d’honneur vous force, &amp; me <ref target="#surmonter">surmonte*</ref> ;</l>
+            <l n="449" xml:id="l449">Un <ref target="#vain1">vain</ref> desir d’honneur vous force, &amp; me <ref target="#surmonter">surmonte</ref> ;</l>
             <l n="450" xml:id="l450">Et tous ces grands combats ne seront qu’à ma honte<note place="bottom"><hi rend="i">Honte</hi> : « affront qu’on reçoit, infamie qu’on souffre » (<hi rend="sc">Furetiere</hi>). Ce vers signifie que quelque soit le résultat de ces « combats » Papyrie en souffrira puisqu’elle désavoue les attitudes des deux hommes mais ne peut s’empêcher de les aimer et de craindre pour eux.</note> :</l>
             <l n="451" xml:id="l451">Je voy déja l’orage eslever mille flots,</l>
             <l n="452" xml:id="l452">Et Rome divisee entre ces deux Heros ;</l>
             <l n="453" xml:id="l453">Je voy mon Pere armé de sa toute-puissance</l>
-            <l n="454" xml:id="l454">Combattre un digne effect d’une indigne <ref target="#licence1">licence*</ref>,</l>
-            <l n="455" xml:id="l455">Fabie environné de gloire &amp; de <ref target="#faveur">faveur*</ref></l>
+            <l n="454" xml:id="l454">Combattre un digne effect d’une indigne <ref target="#licence1">licence</ref>,</l>
+            <l n="455" xml:id="l455">Fabie environné de gloire &amp; de <ref target="#faveur">faveur</ref></l>
             <l n="456" xml:id="l456">Opposer le Senat contre le Dictateur :</l>
             <l n="457" xml:id="l457">Que de divisions pour une chere vie</l>
             <l n="458" xml:id="l458">Et trop fort déffenduë, &amp; trop fort poursuivie !</l>
@@ -1637,7 +1636,7 @@
           <sp xml:id="scene1-II-7" who="lucille">
             <speaker>LUCILLE.</speaker>
             <l n="461" xml:id="l461">Je scay ce que Papyre a fait dans sa colere ;<pb n="27" xml:id="p27"/></l>
-            <l n="462" xml:id="l462">Mais je <ref target="#tenir1">tiens*</ref> qu’il estoit <ref target="#enflammer">enflamé*</ref> par Valere :</l>
+            <l n="462" xml:id="l462">Mais je <ref target="#tenir1">tiens</ref> qu’il estoit <ref target="#enflammer">enflamé</ref> par Valere :</l>
             <l n="463" xml:id="l463">Fabie a par sa fuite évité le trespas ;</l>
             <l n="464" xml:id="l464">Papyre est seul au Camp, qu’il ne quittera pas ;</l>
             <l n="465" xml:id="l465">Contre les Ennemis employant son courage,</l>
@@ -1649,14 +1648,14 @@
             <speaker>PAPYRIE.</speaker>
             <l n="469" xml:id="l469">Comme Ennemy d’un Pere, ou comme vostre Gendre</l>
             <l n="470" xml:id="l470">Je ne le puis fuir, &amp; je ne l’ose attendre :</l>
-            <l n="471" xml:id="l471">Que feray-je ? ô <ref target="#fureur">fureur*</ref> ! que voy-je ? ô doux transport !</l>
+            <l n="471" xml:id="l471">Que feray-je ? ô <ref target="#fureur">fureur</ref> ! que voy-je ? ô doux transport !</l>
           </sp>
         </div>
         <div type="scene" xml:id="scene2-II">
           <head>SCENE II</head>
           <stage>FABIE, CAMILLE, LUCILLE, PAPYRIE.</stage>
           <sp xml:id="scene2-II-1" who="fabie-fils">
-            <speaker>FABIE. <hi rend="i">entrant avec Camille.</hi></speaker>
+            <speaker>FABIE. </speaker><stage>entrant avec Camille.</stage>
             <l n="472" xml:id="l472">Cette Maison fera mon naufrage ou mon port :</l>
             <l n="473" xml:id="l473">J’ay quitté le Senat qui m’a pris en sa garde<note place="bottom">Protection (<hi rend="sc">Furetiere</hi>).</note> ;</l>
             <l n="474" xml:id="l474">Pour Juge, ou pour appuy, c’est vous que je regarde ;</l>
@@ -1695,14 +1694,14 @@
             <l n="498" xml:id="l498">Il vous est familier ; c’est mesme la victoire<note place="bottom">Mon crime consiste en la victoire elle-même</note>:</l>
             <l n="499" xml:id="l499">Craindrois-je vostre Arrest, ni<note place="bottom">« Ni » peut remplacer « et » et coordonner deux termes d’une phrase implicitement négative comme dans le cas de l’interrogation. De plus le premier « ni » est très souvent omis. (<hi rend="sc">Spillebout</hi>). En effet ici, la question « craindrais-je… ? » est rhétorique et appelle une réponse négative. C’est une façon de dire « je ne craindrais ni… ni… ».</note> d’estre condamné,</l>
             <l n="500" xml:id="l500">Pour les mesmes succez qui<note place="bottom">Pour les mêmes succès que ceux qui ...</note> vous ont couronné ?</l>
-            <l n="501" xml:id="l501">Et si cet <ref target="#attentat">attentat*</ref> que veut punir Papyre</l>
+            <l n="501" xml:id="l501">Et si cet <ref target="#attentat">attentat</ref> que veut punir Papyre</l>
             <l n="502" xml:id="l502">Fait moins ma gloire encor que celle de l’Empire ?</l>
             <l n="503" xml:id="l503">J’ay l’honneur du combat ; Rome en a tout le fruict ;</l>
             <l n="504" xml:id="l504">Ce combat la maintient ; ce combat me détruit ;</l>
-            <l n="505" xml:id="l505">Et pour un <ref target="#haut">haut*</ref> exploit, dont la gloire est complice,</l>
+            <l n="505" xml:id="l505">Et pour un <ref target="#haut">haut</ref> exploit, dont la gloire est complice,</l>
             <l n="506" xml:id="l506">Au lieu d’une Couronne, on m’appreste un supplice,</l>
             <l n="507" xml:id="l507">Une honteuse mort pour un fait vertueux :</l>
-            <l n="508" xml:id="l508">A peine ay-je évité ce <ref target="#foudre1">foudre*</ref> impetueux,</l>
+            <l n="508" xml:id="l508">A peine ay-je évité ce <ref target="#foudre1">foudre</ref> impetueux,</l>
             <l n="509" xml:id="l509">Qui mesme dans le Camp fumant de ma victoire</l>
             <l n="510" xml:id="l510">Alloit faire tomber, &amp; ma teste, &amp; ma gloire :</l>
             <l n="511" xml:id="l511">Maintenant je la donne, &amp; ne me deffens pas ;</l>
@@ -1717,9 +1716,9 @@
           </sp>
           <sp xml:id="scene2-II-5" who="camille">
             <speaker>CAMILLE.</speaker>
-            <l part="F">Il faut le <ref target="#conserver1">conserver*</ref>;<pb n="30" xml:id="p30"/></l>
+            <l part="F">Il faut le <ref target="#conserver1">conserver</ref>;<pb n="30" xml:id="p30"/></l>
             <l n="520" xml:id="l520">Il fait triompher Rome ; elle doit le sauver ;</l>
-            <l n="521" xml:id="l521">Elle est trop <ref target="#obliger">obligee*</ref> à de si grands services :</l>
+            <l n="521" xml:id="l521">Elle est trop <ref target="#obliger">obligee</ref> à de si grands services :</l>
             <l n="522" xml:id="l522">Et si pour la victoire il faut des sacrifices,</l>
             <l n="523" xml:id="l523">Elle seroit impie en rendant grace aux Dieux</l>
             <l n="524" xml:id="l524">D’immoler en victime un Vainqueur glorieux ;</l>
@@ -1729,7 +1728,7 @@
             <l n="528" xml:id="l528">J’aimeray le Coûpable, &amp; le Persecuteur,</l>
             <l n="529" xml:id="l529">Et nous joignant ensemble &amp; la Fille &amp; la Mere</l>
             <l n="530" xml:id="l530">Nous serons importuns autant qu’il est severe ;</l>
-            <l n="531" xml:id="l531">Il aura pour <ref target="#partie">partie*</ref> en un si grand courroux,</l>
+            <l n="531" xml:id="l531">Il aura pour <ref target="#partie">partie</ref> en un si grand courroux,</l>
             <l n="532" xml:id="l532">Et la Mere, &amp; la Fille, &amp; le Senat, &amp; nous.</l>
           </sp>
           <sp xml:id="scene2-II-6" who="lucille">
@@ -1785,7 +1784,7 @@
           </sp>
           <sp xml:id="scene3-II-7" who="lucille">
             <speaker>LUCILLE.</speaker>
-            <l n="558" xml:id="l558">Mais il faut <ref target="#prevenir">prevenir*</ref> cette mortelle envie ;</l>
+            <l n="558" xml:id="l558">Mais il faut <ref target="#prevenir">prevenir</ref> cette mortelle envie ;</l>
             <l n="559" xml:id="l559">Secondez nous, Camille ; &amp; déja dans ce soin</l>
             <l n="560" xml:id="l560" part="I">Je vais treuver Papyre.</l>
           </sp>
@@ -1795,7 +1794,7 @@
             <l n="561" xml:id="l561">Madame, il vient icy : je viens d’oüir moy-mesme</l>
             <l n="562" xml:id="l562">Un serment qu’il a fait dans sa colere extréme,</l>
             <l n="563" xml:id="l563">Qu’il ne reverra point les Dieux de sa Maison</l>
-            <l n="564" xml:id="l564">Que<note place="bottom">« Que » de restriction qui a ici le sens de « avant que », « sans que » (<hi rend="sc">Spillebout</hi>).</note> d’un Vainqueur coûpable il n’ait <ref target="#tirer-raison">tiré raison*</ref> ;</l>
+            <l n="564" xml:id="l564">Que<note place="bottom">« Que » de restriction qui a ici le sens de « avant que », « sans que » (<hi rend="sc">Spillebout</hi>).</note> d’un Vainqueur coûpable il n’ait <ref target="#tirer-raison">tiré raison</ref> ;</l>
             <l n="565" xml:id="l565">Mesme il en a juré par ses Dieux domestiques<note place="bottom">Les lares, dieux tutélaires protecteurs de la maison, la cité, les rues. Les lares domestiques sont les mânes des ancêtres, devenus protecteurs du foyer.</note> :<pb n="33 ; E" xml:id="p33"/></l>
             <l n="566" xml:id="l566">Le bruit de sa fureur vole aux places publiques ;</l>
             <l n="567" xml:id="l567">Il resonne par tout ; on n’entend que clameurs ;</l>
@@ -1825,7 +1824,7 @@
           <sp xml:id="scene3-II-12" who="lucille">
             <speaker>LUCILLE.</speaker>
             <l n="581" xml:id="l581">Quel desespoir injuste à la mort vous convie ?</l>
-            <l n="582" xml:id="l582">Ah ! laissez nous, sans vous, <ref target="#disputer">disputer*</ref> vostre vie ;</l>
+            <l n="582" xml:id="l582">Ah ! laissez nous, sans vous, <ref target="#disputer">disputer</ref> vostre vie ;</l>
             <l n="583" xml:id="l583">Puis que vostre salut est reduit à ce poinct,<pb n="34" xml:id="p34"/></l>
             <l n="584" xml:id="l584">Demeurez en ce lieu ; mais ne vous montrez point.</l>
           </sp>
@@ -1861,17 +1860,17 @@
             <l n="599" xml:id="l599">C’est me perdre moy-mesme, &amp; par un coup du sort</l>
             <l n="600" xml:id="l600">Me blessant en autruy me tuer par sa mort :</l>
             <l n="601" xml:id="l601">Défendez vous du fer qui causeroit mes larmes,</l>
-            <l n="602" xml:id="l602">Et ne redoutez rien du côté de mes <ref target="#charmes">charmes*</ref> ;</l>
+            <l n="602" xml:id="l602">Et ne redoutez rien du côté de mes <ref target="#charmes">charmes</ref> ;</l>
             <l n="603" xml:id="l603">Mon Pere vous sera plus fatal que mes yeux ;</l>
             <l n="604" xml:id="l604">Je puis sauver l’Amant, non le Victorieux.</l>
           </sp>
           <sp xml:id="scene4-II-3" who="fabie-fils">
             <speaker>FABIE.</speaker>
-            <l n="605" xml:id="l605">Donc ma gloire me perd ? ah ! victoire <ref target="#funeste">funeste*</ref>,</l>
+            <l n="605" xml:id="l605">Donc ma gloire me perd ? ah ! victoire <ref target="#funeste">funeste</ref>,</l>
             <l n="606" xml:id="l606">Qui détruit nostre amour &amp; l’espoir qui me reste !</l>
             <l n="607" xml:id="l607">Las ! pour vous meriter je vainquis seulement<note place="bottom">Je <hi rend="i">ne</hi> vainquis <hi rend="i">que</hi> pour vous mériter (tournure restrictive).</note>,</l>
             <l n="608" xml:id="l608">Je fus victorieux pour me montrer Amant ;</l>
-            <l n="609" xml:id="l609">Et par un sort <ref target="#malin">malin*</ref> autant que plein de gloire</l>
+            <l n="609" xml:id="l609">Et par un sort <ref target="#malin">malin</ref> autant que plein de gloire</l>
             <l n="610" xml:id="l610">Je vous perds, je me perds par ma propre victoire.</l>
           </sp>
           <sp xml:id="scene4-II-4" who="papyrie">
@@ -1887,7 +1886,7 @@
             <l n="616" xml:id="l616">Le courroux paternel viendra nous desunir :</l>
             <l n="617" xml:id="l617">D’un ou d’autre côté vous me serez ravie,</l>
             <l n="618" xml:id="l618">Je vous perds par ma mort, je vous perds par ma vie :</l>
-            <l n="619" xml:id="l619">Ah ! j’ayme mieux, sans suivre un espoir <ref target="#decevant">decevant*</ref>,</l>
+            <l n="619" xml:id="l619">Ah ! j’ayme mieux, sans suivre un espoir <ref target="#decevant">decevant</ref>,</l>
             <l n="620" xml:id="l620">Vous perdre par ma mort que vous perdre en vivant.</l>
           </sp>
           <sp xml:id="scene4-II-6" who="papyrie">
@@ -1902,26 +1901,26 @@
             <l n="628" xml:id="l628">Vous vainquîtes ; vainquez encor pour m’emporter ;</l>
             <l n="629" xml:id="l629">Comme je fus au Camp l’objet de vostre crime,</l>
             <l n="630" xml:id="l630">Que je le sois icy d’un combat legitime ;</l>
-            <l n="631" xml:id="l631"><ref target="#animer">Animez*</ref> le Senat à vous bien <ref target="#maintenir">maintenir*</ref></l>
+            <l n="631" xml:id="l631"><ref target="#animer">Animez</ref> le Senat à vous bien <ref target="#maintenir">maintenir</ref></l>
             <l n="632" xml:id="l632">Sur un crime si beau qu’on ne le peut punir ;</l>
             <l n="633" xml:id="l633">Opposez…. Mais que dy-je ? helas ! que faut-il faire ?</l>
             <l n="634" xml:id="l634">Opposer ? Qui ? Fabie ; un Amant contre un Pere :</l>
-            <l n="635" xml:id="l635">O <ref target="#genereux1">genereux*</ref>, ô doux, ô cruel mouvement !</l>
+            <l n="635" xml:id="l635">O <ref target="#genereux1">genereux</ref>, ô doux, ô cruel mouvement !</l>
             <l n="636" xml:id="l636">Mais puis-je voir un Pere armé contre un Amant ?</l>
             <l n="637" xml:id="l637">Contre son Gendre propre, &amp; contre Rome encore,</l>
             <l n="638" xml:id="l638">Qui coûpable qu’il est, ainsi que moy l’adore :</l>
             <l n="639" xml:id="l639">Mais devrois-je adorer un qu’un Pere poursuit ?<pb n="37" xml:id="p37"/></l>
             <l n="640" xml:id="l640">Ce penser combat l’autre, &amp; l’autre le détruit :</l>
-            <l n="641" xml:id="l641">Non, mon Pere cruel ne le doit pas <ref target="#poursuivre">poursuivre*</ref> ;</l>
+            <l n="641" xml:id="l641">Non, mon Pere cruel ne le doit pas <ref target="#poursuivre">poursuivre</ref> ;</l>
             <l n="642" xml:id="l642">Un si noble Vainqueur merite au moins de vivre ;</l>
             <l n="643" xml:id="l643" part="I">Vivez, vivez, Fabie.</l>
           </sp>
           <sp xml:id="scene4-II-7" who="fabie-fils">
             <speaker>FABIE.</speaker>
             <l part="F">Ah ! sans vous je ne puis ;</l>
-            <l n="644" xml:id="l644">Et ce penser me plonge en un goufre d’<ref target="#ennui">ennuis*</ref> :</l>
+            <l n="644" xml:id="l644">Et ce penser me plonge en un goufre d’<ref target="#ennui">ennuis</ref> :</l>
             <l n="645" xml:id="l645">Ce Pere veut ma vie ; &amp; je la puis deffendre :</l>
-            <l n="646" xml:id="l646">Mais durant son courroux je ne vous puis <ref target="#pretendre">pretendre*</ref>.</l>
+            <l n="646" xml:id="l646">Mais durant son courroux je ne vous puis <ref target="#pretendre">pretendre</ref>.</l>
           </sp>
           <sp xml:id="scene4-II-8" who="papyrie">
             <speaker>PAPYRIE.</speaker>
@@ -1930,7 +1929,7 @@
           <sp xml:id="scene4-II-9" who="fabie-fils">
             <speaker>FABIE.</speaker>
             <l part="F">Helas ! je n’en sçay rien ;</l>
-            <l n="648" xml:id="l648">De me perdre plustôt que de <ref target="#quitter">quitter*</ref> mon bien.</l>
+            <l n="648" xml:id="l648">De me perdre plustôt que de <ref target="#quitter">quitter</ref> mon bien.</l>
           </sp>
           <sp xml:id="scene4-II-10" who="papyrie">
             <speaker>PAPYRIE.</speaker>
@@ -1938,7 +1937,7 @@
             <l n="650" xml:id="l650">S’il faut qu’il vous immole à son couroux severe ;</l>
             <l n="651" xml:id="l651">Autant pour vous vanger qu’afin de le punir,</l>
             <l n="652" xml:id="l652">Ma genereuse mort nous poura reünir ;</l>
-            <l n="653" xml:id="l653">Il faut, pour reparer cette rigueur <ref target="#etrange">étrange*</ref>,</l>
+            <l n="653" xml:id="l653">Il faut, pour reparer cette rigueur <ref target="#etrange">étrange</ref>,</l>
             <l n="654" xml:id="l654">Si le Pere vous perd, que la Fille vous vange.</l>
           </sp>
           <sp xml:id="scene4-II-11" who="fabie-fils">
@@ -1968,11 +1967,11 @@
           </sp>
           <sp xml:id="scene4-II-14" who="papyrie">
             <speaker>PAPYRIE.</speaker>
-            <l part="F">Ah ! qu’il soit moins <ref target="#barbare">barbare*</ref> !</l>
+            <l part="F">Ah ! qu’il soit moins <ref target="#barbare">barbare</ref> !</l>
           </sp>
           <sp xml:id="scene4-II-15" who="flavie">
             <speaker>FLAVIE.</speaker>
-            <l n="671" xml:id="l671">Ce desespoir l’emporte : O cœurs trop <ref target="#genereux1">genereux*</ref> !<pb n="39" xml:id="p39"/></l>
+            <l n="671" xml:id="l671">Ce desespoir l’emporte : O cœurs trop <ref target="#genereux1">genereux</ref> !<pb n="39" xml:id="p39"/></l>
             <l n="672" xml:id="l672">Que feront-ils ? j’en tremble &amp; crains déja pour eux :</l>
             <l n="673" xml:id="l673">Suy les ; empéche au moins qu’on voye icy Fabie ;</l>
             <l n="674" xml:id="l674">Toy-mesme, à son deffaut<note place="bottom">« Au deffaut » = au lieu de, à la place de. (<hi rend="sc">Furetiere</hi>) « A son déffaut » signifierait donc « à sa place, pour lui » et donc finalement « à son insu ».</note>, prends le soin de sa vie<note place="bottom">Vers 673-674 : injonction que Flavie se lance à elle-même.</note>.</l>
@@ -1986,7 +1985,7 @@
           <stage>PAPYRE, CAMILLE, LUCILLE.</stage>
           <sp xml:id="scene1-III-1" who="papyre">
             <speaker>PAPYRE.</speaker>
-            <l n="675" xml:id="l675">Qu’on ne m’en parle plus ; il mourra, l’<ref target="#insolent">insolent*</ref>.</l>
+            <l n="675" xml:id="l675">Qu’on ne m’en parle plus ; il mourra, l’<ref target="#insolent">insolent</ref>.</l>
           </sp>
           <sp xml:id="scene1-III-2" who="camille">
             <speaker>CAMILLE.</speaker>
@@ -2012,8 +2011,8 @@
             <l n="686" xml:id="l686">J’ay soin de mon armée ; &amp; l’Insolent l’expose ;</l>
             <l n="687" xml:id="l687">Je reviens, par la peur d’un succez mal-heureux,</l>
             <l n="688" xml:id="l688">Revoir les Dieux de Rome ; &amp; luy se moque d’eux :</l>
-            <l n="689" xml:id="l689">Je <ref target="#rappeler">r’appelle*</ref> le sort, par de nouveaux auspices ;</l>
-            <l n="690" xml:id="l690">Et luy, <ref target="#tenter">tente*</ref> les Dieux, quand je les rends propices :</l>
+            <l n="689" xml:id="l689">Je <ref target="#rappeler">r’appelle</ref> le sort, par de nouveaux auspices ;</l>
+            <l n="690" xml:id="l690">Et luy, <ref target="#tenter">tente</ref> les Dieux, quand je les rends propices :</l>
             <l n="691" xml:id="l691">Si le sort est changé, c’est par moy, c’est par eux ;</l>
             <l n="692" xml:id="l692">Son courage au combat a moins fait que mes vœux ;</l>
             <l n="693" xml:id="l693">De Rome à nostre Camp j’envoyay la victoire ;</l>
@@ -2031,7 +2030,7 @@
           </sp>
           <sp xml:id="scene1-III-7" who="papyre">
             <speaker>PAPYRE.</speaker>
-            <l n="702" xml:id="l702">Mais il choque les loix, &amp; <ref target="#hazarder">hazarde*</ref> l’Empire.</l>
+            <l n="702" xml:id="l702">Mais il choque les loix, &amp; <ref target="#hazarder">hazarde</ref> l’Empire.</l>
           </sp>
           <sp xml:id="scene1-III-8" who="lucille">
             <speaker>LUCILLE.</speaker>
@@ -2045,20 +2044,20 @@
             <l n="707" xml:id="l707">Le courage parfois ne sert qu’à nous trahir ;</l>
             <l n="708" xml:id="l708">Qui veut bien commander doit sçavoir obeïr ;</l>
             <l n="709" xml:id="l709">Sans cet ordre les Chefs n’auroient plus de puissance,</l>
-            <l n="710" xml:id="l710">Et la guerre seroit un monstre de <ref target="#licence2">licence*</ref> :</l>
+            <l n="710" xml:id="l710">Et la guerre seroit un monstre de <ref target="#licence2">licence</ref> :</l>
             <l n="711" xml:id="l711">Quoy ? Donner un combat, que j’avois deffendu ?</l>
           </sp>
           <sp xml:id="scene1-III-10" who="lucille">
             <speaker>LUCILLE.</speaker>
-            <l n="712" xml:id="l712">Le succez de sa faute en a bien <ref target="#repondre1">répondu*</ref>.</l>
+            <l n="712" xml:id="l712">Le succez de sa faute en a bien <ref target="#repondre1">répondu</ref>.</l>
           </sp>
           <sp xml:id="scene1-III-11" who="papyre">
             <speaker>PAPYRE.</speaker>
             <l n="713" xml:id="l713">Répond-il d’une ardeur qui peut perdre les autres ?</l>
             <l n="714" xml:id="l714">Auront-ils des succez toûjours pareils aux nostres ?</l>
-            <l n="715" xml:id="l715">Faisons leur un exemple <ref target="#epouvantable">épouvantable*</ref> &amp; grand<pb n="42" xml:id="p42"/></l>
+            <l n="715" xml:id="l715">Faisons leur un exemple <ref target="#epouvantable">épouvantable</ref> &amp; grand<pb n="42" xml:id="p42"/></l>
             <l n="716" xml:id="l716">D’un Chef, bien que vainqueur, qui sur l’ordre entreprend<note place="bottom">« Entreprendre sur » signifie ici « empiéter sur », « prendre des libertés avec ». (<hi rend="sc">Furetiere</hi>)</note>,</l>
-            <l n="717" xml:id="l717">Et dedans la <ref target="#carriere">carriere*</ref> à ces grands Cœurs ouverte</l>
+            <l n="717" xml:id="l717">Et dedans la <ref target="#carriere">carriere</ref> à ces grands Cœurs ouverte</l>
             <l n="718" xml:id="l718">Que<note place="bottom">« Que » sous-entend une principale du type « montrons-leur que », exprimée au début de la phrase par la périphrase verbale « faire un exemple ».</note> Fabie aujourd’huy les sauve par sa perte.</l>
           </sp>
           <sp xml:id="scene1-III-12" who="camille">
@@ -2073,8 +2072,8 @@
             <l n="726" xml:id="l726">Voyez ce qu’avant vous fit Camille mon Pere :</l>
             <l n="727" xml:id="l727">Un temeraire Chef, qui l’avoit offencé,</l>
             <l n="728" xml:id="l728">Fut compagnon d’honneur par luy-mesme avancé :</l>
-            <l n="729" xml:id="l729">Quel pardon, qui <ref target="#passer">passa jusqu’à*</ref> la recompense !</l>
-            <l n="730" xml:id="l730">En une faute <ref target="#heureux">heureuse*</ref> imitez sa Clemence ;</l>
+            <l n="729" xml:id="l729">Quel pardon, qui <ref target="#passer">passa jusqu’à</ref> la recompense !</l>
+            <l n="730" xml:id="l730">En une faute <ref target="#heureux">heureuse</ref> imitez sa Clemence ;</l>
             <l n="731" xml:id="l731">L’exemple en est celebre, &amp; c’est d’un Dictateur</l>
             <l n="732" xml:id="l732">Que Rome nomme encor son second fondateur.</l>
             <l n="733" xml:id="l733" part="I">Cincinnate<note place="bottom">Sur l’action de ce dictateur, <hi rend="i">cf.</hi> introduction, paragraphe « qu’est-ce qu’un dictateur à Rome ? »</note> autre fois….</l>
@@ -2092,7 +2091,7 @@
           </sp>
           <sp xml:id="scene1-III-15" who="papyre">
             <speaker>PAPYRE.</speaker>
-            <l n="738" xml:id="l738">L’importance du faict les rend icy <ref target="#leger">legeres*</ref> ;</l>
+            <l n="738" xml:id="l738">L’importance du faict les rend icy <ref target="#leger">legeres</ref> ;</l>
             <l n="739" xml:id="l739">Non, vous ne sçavez pas ce que vous demandez.</l>
           </sp>
           <sp xml:id="scene1-III-16" who="lucille">
@@ -2109,7 +2108,7 @@
           </sp>
           <sp xml:id="scene1-III-19" who="papyre">
             <speaker>PAPYRE.</speaker>
-            <l part="F">Ah ? c’est trop <ref target="#entreprendre2">entreprendre*</ref> ;</l>
+            <l part="F">Ah ? c’est trop <ref target="#entreprendre2">entreprendre</ref> ;</l>
             <l n="742" xml:id="l742" part="I">Ce Vainqueur doit perir.</l>
           </sp>
         </div>
@@ -2139,7 +2138,7 @@
             <l n="750" xml:id="l750">Qui te fait demander &amp; sa vie, &amp; ma grace ?</l>
             <l n="751" xml:id="l751">Quoy ? pour mon Ennemy, qu’un crime rend Vainqueur,</l>
             <l n="752" xml:id="l752">Ta bouche ose s’ouvrir aussi bien que ton cœur ?</l>
-            <l n="753" xml:id="l753">Quelle indiscretion<note place="bottom">Exprime ici le « défaut de jugement » (<hi rend="sc">Cayrou</hi>).</note> ? où va cette <ref target="#imprudence">imprudence*</ref> ?<pb n="45" xml:id="p45"/></l>
+            <l n="753" xml:id="l753">Quelle indiscretion<note place="bottom">Exprime ici le « défaut de jugement » (<hi rend="sc">Cayrou</hi>).</note> ? où va cette <ref target="#imprudence">imprudence</ref> ?<pb n="45" xml:id="p45"/></l>
             <l n="754" xml:id="l754">Madame, &amp; l’on trahit ainsi ma confidence ?</l>
             <l n="755" xml:id="l755">Vous estes femme enfin, &amp; vous avez parlé.</l>
           </sp>
@@ -2151,8 +2150,8 @@
           </sp>
           <sp xml:id="scene2-III-6" who="papyre">
             <speaker>PAPYRE.</speaker>
-            <l n="759" xml:id="l759">Le secret n’estoit pas si prest à<note place="bottom">Prêt de, sur le point de (marque l’imminence) (<hi rend="sc">Furetiere</hi>).</note> <ref target="#publier">publier*</ref> :</l>
-            <l n="760" xml:id="l760">Ma parole est sacrée, elle me doit <ref target="#lier">lier*</ref> ;</l>
+            <l n="759" xml:id="l759">Le secret n’estoit pas si prest à<note place="bottom">Prêt de, sur le point de (marque l’imminence) (<hi rend="sc">Furetiere</hi>).</note> <ref target="#publier">publier</ref> :</l>
+            <l n="760" xml:id="l760">Ma parole est sacrée, elle me doit <ref target="#lier">lier</ref> ;</l>
             <l n="761" xml:id="l761">Ouy ouy, nous la tiendrons. Vous n’avez sceu vous taire ;</l>
             <l n="762" xml:id="l762">Ma Fille a trop appris, &amp; n’ose que trop faire :</l>
             <l n="763" xml:id="l763">Mais un moyen me reste, en le faisant punir,</l>
@@ -2174,7 +2173,7 @@
           <sp xml:id="scene2-III-9" who="papyrie">
             <speaker>PAPYRIE.</speaker>
             <l n="770" xml:id="l770">Sçachez que son trépas sera suivi d’un autre :<pb n="46" xml:id="p46"/></l>
-            <l n="771" xml:id="l771">Regardez vostre <ref target="#foi">foy*</ref>, ma douleur, &amp; son rang ;</l>
+            <l n="771" xml:id="l771">Regardez vostre <ref target="#foi">foy</ref>, ma douleur, &amp; son rang ;</l>
             <l n="772" xml:id="l772">Epargnez vostre Gendre ; épargnez vostre sang ;</l>
             <l n="773" xml:id="l773">Nous avons merité tous deux vostre colere ;</l>
             <l n="774" xml:id="l774">Mais il est vostre Gendre, &amp; vous estes mon Pere.</l>
@@ -2186,7 +2185,7 @@
           </sp>
           <sp xml:id="scene2-III-11" who="lucille">
             <speaker>LUCILLE.</speaker>
-            <l part="F">Ferez-vous perir vostre <ref target="#race">race*</ref> aujourd’huy ?</l>
+            <l part="F">Ferez-vous perir vostre <ref target="#race">race</ref> aujourd’huy ?</l>
             <l n="777" xml:id="l777">Croyez que je suivray le destin de ma Fille :</l>
             <l n="778" xml:id="l778">Quoy ? pour un poinct d’honneur perdre vostre Famille ?</l>
           </sp>
@@ -2207,7 +2206,7 @@
             <l n="787" xml:id="l787">Répondons luy de cœur ; s’il faut mourir, mourons.</l>
           </sp>
           <sp xml:id="scene2-III-14" who="lucille">
-            <speaker>LUCILLE. <hi rend="i">S’en allant avec sa fille.</hi></speaker>
+            <speaker>LUCILLE. </speaker><stage>S’en allant avec sa fille.</stage>
             <l n="788" xml:id="l788">Cruel, va l’immoler ; dans peu nous le suivrons.</l>
           </sp>
           <sp xml:id="scene2-III-15" who="camille">
@@ -2216,8 +2215,8 @@
           </sp>
           <sp xml:id="scene2-III-16" who="papyre">
             <speaker>PAPYRE.</speaker>
-            <l n="790" xml:id="l790">Quelle <ref target="#fureur">fureur*</ref> ? ô Dieux ! retenez les, mon Frere :</l>
-            <l n="791" xml:id="l791" part="I">J’en demeure <ref target="#interdire">interdit*</ref>.</l>
+            <l n="790" xml:id="l790">Quelle <ref target="#fureur">fureur</ref> ? ô Dieux ! retenez les, mon Frere :</l>
+            <l n="791" xml:id="l791" part="I">J’en demeure <ref target="#interdire">interdit</ref>.</l>
           </sp>
         </div>
         <div type="scene" xml:id="scene3-III">
@@ -2239,7 +2238,7 @@
           </sp>
           <sp xml:id="scene3-III-4" who="papyre">
             <speaker>PAPYRE.</speaker>
-            <l part="F">Ah ! c’est trop <ref target="#balancer">balancer*</ref> mon couroux ;</l>
+            <l part="F">Ah ! c’est trop <ref target="#balancer">balancer</ref> mon couroux ;</l>
             <l n="796" xml:id="l796">Il tombera… Que voy-je ? il tombera sur vous :</l>
             <l n="797" xml:id="l797">Quoy ? tous deux à mes yeux, dedans ce trouble extréme,</l>
             <l n="798" xml:id="l798">Vous venez me braver jusqu’en ce Palais mesme ?</l>
@@ -2255,20 +2254,20 @@
           <sp xml:id="scene3-III-7" who="fabie-fils">
             <speaker>FABIE.</speaker>
             <l n="801" xml:id="l801">Tous deux en vrays Romains, luy de mon sort complice,</l>
-            <l n="802" xml:id="l802">Moy, n’ayant pu <ref target="#souffrir">soufrir*</ref> la honte d’un supplice,</l>
-            <l n="803" xml:id="l803">Nous venons <ref target="#genereux2">genereux*</ref> à vos pieds apporter</l>
-            <l n="804" xml:id="l804">Deux tétes, qu’on pouvoit contre vous <ref target="#disputer">disputer*</ref>.</l>
+            <l n="802" xml:id="l802">Moy, n’ayant pu <ref target="#souffrir">soufrir</ref> la honte d’un supplice,</l>
+            <l n="803" xml:id="l803">Nous venons <ref target="#genereux2">genereux</ref> à vos pieds apporter</l>
+            <l n="804" xml:id="l804">Deux tétes, qu’on pouvoit contre vous <ref target="#disputer">disputer</ref>.</l>
           </sp>
           <sp xml:id="scene3-III-8" who="papyre">
             <speaker>PAPYRE.</speaker>
             <l n="805" xml:id="l805">Quoy ? ces cœurs sont rendus, ces ardents<note place="bottom">« Ces ardents » : qualifie les cœurs par métonymie.</note> à combattre ?</l>
             <l n="806" xml:id="l806">Ces courages pli’ront, quand je croy les abbattre<note place="bottom">« Quand » a une valeur de simultanéité et signifie « au moment (même) où ». Le futur « pli’ront » exprime lui une « action future dont la réalisation commence à l’instant présent [cf. sens de « quand »] et s’étend jusqu’à un avenir indéterminé » (<hi rend="sc">Spillebout</hi>). En fait, le futur exprime ici un constat indigné de Papyre qui ordonne à ses soldats de résister (cf. « relevez » v.807).</note> ?</l>
             <l n="807" xml:id="l807">Relevez les ; j’ay honte à vous voir relâcher ;<pb n="49 ; G" xml:id="p49"/></l>
-            <l n="808" xml:id="l808">Soyez, en résistant, dignes de me <ref target="#facher">fâcher*</ref> :</l>
+            <l n="808" xml:id="l808">Soyez, en résistant, dignes de me <ref target="#facher">fâcher</ref> :</l>
             <l n="809" xml:id="l809">Donc Fabie est rebele aux loix, dans mon Armée ?</l>
             <l n="810" xml:id="l810">Et dans Rome, ses feux<note place="bottom">« Ses feux » = sa colère, son ardeur.</note> ne sont plus que fumée ?</l>
-            <l n="811" xml:id="l811">Le Senat le soûtient, il peut faire un <ref target="#parti">party*</ref>;</l>
-            <l n="812" xml:id="l812">Et devant<note place="bottom">Très souvent employé pour <hi rend="i">avant</hi>. (<hi rend="sc">Haase</hi>). Papyre s’étonne de voir Fabie abandonner une fois qu’il se retrouve face à son adversaire, avant même que le « combat » entre eux ait commencé.</note> le combat son cœur s’est <ref target="#dementir">démenty*</ref> ?</l>
+            <l n="811" xml:id="l811">Le Senat le soûtient, il peut faire un <ref target="#parti">party</ref>;</l>
+            <l n="812" xml:id="l812">Et devant<note place="bottom">Très souvent employé pour <hi rend="i">avant</hi>. (<hi rend="sc">Haase</hi>). Papyre s’étonne de voir Fabie abandonner une fois qu’il se retrouve face à son adversaire, avant même que le « combat » entre eux ait commencé.</note> le combat son cœur s’est <ref target="#dementir">démenty</ref> ?</l>
           </sp>
           <sp xml:id="scene3-III-9" who="fabie-fils">
             <speaker>FABIE.</speaker>
@@ -2312,7 +2311,7 @@
             <speaker>CAMILLE.</speaker>
             <l n="833" xml:id="l833">Je le suis de sa gloire, &amp; de son innocence,</l>
             <l n="834" xml:id="l834">Qui fait une vertu d’un crime de licence ;</l>
-            <l n="835" xml:id="l835">Son cœur, par un <ref target="#remords">remords*</ref> &amp; noble &amp; <ref target="#genereux1">genereux*</ref></l>
+            <l n="835" xml:id="l835">Son cœur, par un <ref target="#remords">remords</ref> &amp; noble &amp; <ref target="#genereux1">genereux</ref></l>
             <l n="836" xml:id="l836">Desavouë à ses bras ce qu’il a fait par eux,</l>
             <l n="837" xml:id="l837">Il renonce à sa gloire, &amp; leur en fait reproche :</l>
             <l n="838" xml:id="l838">Et ce cœur ne sçauroit toucher un cœur de roche.</l>
@@ -2366,9 +2365,9 @@
             <l n="867" xml:id="l867" part="I">Dieux ! que sents-je ? est-ce moy<note place="bottom">Papyre est étonné de se découvrir sensible à la pitié, il ne se reconnaît pas lui-même</note> ?</l>
           </sp>
           <sp xml:id="scene4-III-2" who="fabie-pere">
-            <speaker>FABIE. Pere, <hi rend="i">Voyant son fils à genoux.</hi></speaker>
+            <speaker>FABIE. Pere, </speaker><stage>Voyant son fils à genoux.</stage>
             <l part="F">Dieux ! que voy-je ? est-ce luy ?</l>
-            <l n="868" xml:id="l868">Quel spectacle ? ô mes yeux ! ô mon cœur ! quel <ref target="#ennui">ennuy*</ref> ?</l>
+            <l n="868" xml:id="l868">Quel spectacle ? ô mes yeux ! ô mon cœur ! quel <ref target="#ennui">ennuy</ref> ?</l>
           </sp>
           <sp xml:id="scene4-III-3" who="comine">
             <speaker>COMINE.</speaker>
@@ -2396,7 +2395,7 @@
             <l part="F">Tay toy : puis-je l’avoir esté ?</l>
             <l n="877" xml:id="l877">Ce cœur remporta-t’il une double victoire ?</l>
             <l n="878" xml:id="l878">Ce cœur pouroit-il bien ternir ainsi sa gloire ?</l>
-            <l n="879" xml:id="l879">A-t’il tant de foiblesse ? eut-il tant de <ref target="#vigueur">vigueur*</ref> ?</l>
+            <l n="879" xml:id="l879">A-t’il tant de foiblesse ? eut-il tant de <ref target="#vigueur">vigueur</ref> ?</l>
             <l n="880" xml:id="l880">Infame, répons moy ; répons moy, noble cœur :</l>
             <l n="881" xml:id="l881">Mais lâche &amp; genereux, que me peux-tu répondre ?</l>
             <l n="882" xml:id="l882">On voit une action dans l’autre se confondre ;</l>
@@ -2451,7 +2450,7 @@
           </sp>
           <sp xml:id="scene4-III-12" who="fabie-fils">
             <speaker>FABIE. Fils.</speaker>
-            <l part="F">Faut-il qu’on me <ref target="#confondre">confonde*</ref> ?</l>
+            <l part="F">Faut-il qu’on me <ref target="#confondre">confonde</ref> ?</l>
             <l n="918" xml:id="l918">Soufre que de mon cœur mon propre bras réponde.</l>
           </sp>
           <sp xml:id="scene4-III-13" who="comine">
@@ -2464,7 +2463,7 @@
           </sp>
           <sp xml:id="scene4-III-15" who="papyre">
             <speaker>PAPYRE.</speaker>
-            <l n="921" xml:id="l921">La <ref target="#prevenir">prevenir*</ref> ainsi, c’est la craindre, &amp; se rendre ;</l>
+            <l n="921" xml:id="l921">La <ref target="#prevenir">prevenir</ref> ainsi, c’est la craindre, &amp; se rendre ;</l>
             <l n="922" xml:id="l922">Il faut la disputer ; la force est à l’attendre.</l>
           </sp>
           <sp xml:id="scene4-III-16" who="fabie-fils">
@@ -2495,7 +2494,7 @@
             <l n="934" xml:id="l934">Tu refuses sa main, pour mieux avoir sa téte ;</l>
             <l n="935" xml:id="l935">Ce n’est pas de son bras que tu veux obtenir</l>
             <l n="936" xml:id="l936">Une mort qui te vange &amp; le puisse punir :</l>
-            <l n="937" xml:id="l937">Ta douceur n’est que feinte, &amp; je voy ta <ref target="#malice2">malice*</ref> ;</l>
+            <l n="937" xml:id="l937">Ta douceur n’est que feinte, &amp; je voy ta <ref target="#malice2">malice</ref> ;</l>
             <l n="938" xml:id="l938">Tu retardes sa mort, pour hâter son supplice ;</l>
             <l n="939" xml:id="l939">C’est dessus son honneur que tu veux te vanger :<pb n="57 ; H" xml:id="p57"/></l>
             <l n="940" xml:id="l940">Mais le Senat est juste, &amp; doit le proteger :</l>
@@ -2507,18 +2506,18 @@
             <l n="946" xml:id="l946">Nous eussions tû sa gloire, &amp; tu fais qu’elle éclatte ;</l>
             <l n="947" xml:id="l947">Rome, qu’elle enrichit, porte au dessus des loix</l>
             <l n="948" xml:id="l948">Ce crime, qui n’est plus crime que dans ta voix ;</l>
-            <l n="949" xml:id="l949">Que ta voix annoblit, que ta rigueur <ref target="#illustrer">illustre*</ref>,</l>
+            <l n="949" xml:id="l949">Que ta voix annoblit, que ta rigueur <ref target="#illustrer">illustre</ref>,</l>
             <l n="950" xml:id="l950">Qu’elle fera passer de l’un à l’autre lustre ;</l>
             <l n="951" xml:id="l951">Ce crime, honneur de Rome, &amp; dont l’accusateur,</l>
             <l n="952" xml:id="l952">Ou plustôt l’Envieux, est un grand Dictateur ;</l>
-            <l n="953" xml:id="l953">Ce crime, qui la sauve, &amp; que le Camp <ref target="#renommer">renomme*</ref> ;</l>
+            <l n="953" xml:id="l953">Ce crime, qui la sauve, &amp; que le Camp <ref target="#renommer">renomme</ref> ;</l>
             <l n="954" xml:id="l954">Pour qui l’on dûst ouvrir tous les Temples de Rome,</l>
             <l n="955" xml:id="l955">Pour faire sacrifice, &amp; rendre grace aux Dieux</l>
             <l n="956" xml:id="l956">Des victoires qui vont perdre un Victorieux :</l>
             <l n="957" xml:id="l957">Je ne le nomme point ton Amy ni ton Gendre ;</l>
             <l n="958" xml:id="l958">Je retire mon sang quand tu le veux répendre :</l>
             <l n="959" xml:id="l959">Veux-tu, pour confirmer l’alliance &amp; l’accord,</l>
-            <l n="960" xml:id="l960">Le signer par son sang, l’<ref target="#arreter">arréter*</ref> par sa mort ?</l>
+            <l n="960" xml:id="l960">Le signer par son sang, l’<ref target="#arreter">arréter</ref> par sa mort ?</l>
             <l n="961" xml:id="l961">Tygre, va le répendre, &amp; Tygre, va le boire :</l>
             <l n="962" xml:id="l962">Mais revere son nom, punissant sa victoire ;</l>
             <l n="963" xml:id="l963">Songe au sang precieux, qu’elle-mesme épargna,</l>
@@ -2543,7 +2542,7 @@
           </sp>
           <sp xml:id="scene4-III-23" who="papyre">
             <speaker>PAPYRE.</speaker>
-            <l n="974" xml:id="l974">Ah ! c’est trop offencer &amp; ma <ref target="#charge">charge*</ref> &amp; ma gloire :</l>
+            <l n="974" xml:id="l974">Ah ! c’est trop offencer &amp; ma <ref target="#charge">charge</ref> &amp; ma gloire :</l>
             <l n="975" xml:id="l975">Nous verrons au Senat quel pouvoir nous avons,</l>
             <l n="976" xml:id="l976" part="I">Je vous attendray là.</l>
           </sp>
@@ -2577,32 +2576,32 @@
             <l n="985" xml:id="l985">Quoy ? ce Victorieux, que toute Rome admire,</l>
             <l n="986" xml:id="l986">Au milieu de sa gloire en triomphant expire ?</l>
             <l n="987" xml:id="l987">Et ce qui dans mes sens fait naître plus d’horreur,</l>
-            <l n="988" xml:id="l988">Mon Pere impetueux l’immole à sa <ref target="#fureur">fureur*</ref>.</l>
+            <l n="988" xml:id="l988">Mon Pere impetueux l’immole à sa <ref target="#fureur">fureur</ref>.</l>
             <l n="989" xml:id="l989">Est-ce un Gendre ? est-ce un Pere ? &amp; suis-je encor sa Fille ?</l>
             <l n="990" xml:id="l990">Ne considerer point son rang ni sa famille ?</l>
             <l n="991" xml:id="l991">Sa foy, leur amitié, ma sainte affection,<pb n="60" xml:id="p60"/></l>
             <l n="992" xml:id="l992">Vous-mesme, Rome entiere, &amp; sa protection ?</l>
             <l n="993" xml:id="l993">Malgré tout le Senat, qui respecte sa gloire,</l>
-            <l n="994" xml:id="l994"><ref target="#accabler">Acabler*</ref> ce Vainqueur sous sa propre victoire ?</l>
+            <l n="994" xml:id="l994"><ref target="#accabler">Acabler</ref> ce Vainqueur sous sa propre victoire ?</l>
             <l n="995" xml:id="l995">Suivre contre nos vœux son violent transport ?</l>
-            <l n="996" xml:id="l996">Oter à sa Maison un si noble <ref target="#support">support*</ref> ?</l>
+            <l n="996" xml:id="l996">Oter à sa Maison un si noble <ref target="#support">support</ref> ?</l>
             <l n="997" xml:id="l997">Un Gendre, dont la gloire honoroit sa famille ?</l>
             <l n="998" xml:id="l998">Est-ce un Pere en effect ? &amp; suis-je encor sa Fille ?</l>
           </sp>
           <sp xml:id="scene1-IV-3" who="lucille">
             <speaker>LUCILLE.</speaker>
             <l n="999" xml:id="l999">Vous l’estes, Papyrie, &amp; dans ce sentiment</l>
-            <l n="1000" xml:id="l1000">Vous <ref target="#témoigner">témoignez*</ref> assez de l’estre noblement ;</l>
-            <l n="1001" xml:id="l1001">Fidelle Amante autant que Fille <ref target="#genereux1">genereuse*</ref></l>
+            <l n="1000" xml:id="l1000">Vous <ref target="#témoigner">témoignez</ref> assez de l’estre noblement ;</l>
+            <l n="1001" xml:id="l1001">Fidelle Amante autant que Fille <ref target="#genereux1">genereuse</ref></l>
             <l n="1002" xml:id="l1002">Vous blâmez justement sa loy trop rigoureuse ;</l>
             <l n="1003" xml:id="l1003">Comme vous je la blâme, &amp; suis pour vostre Amant :</l>
             <l n="1004" xml:id="l1004" part="I">Mais….</l>
           </sp>
           <sp xml:id="scene1-IV-4" who="papyrie">
             <speaker>PAPYRIE.</speaker>
-            <l part="F">Veut-on que j’étoufe un juste <ref target="#mouvement">mouvement*</ref> ?</l>
+            <l part="F">Veut-on que j’étoufe un juste <ref target="#mouvement">mouvement</ref> ?</l>
             <l n="1005" xml:id="l1005">Donc aprés sa parole &amp; donnée &amp; receuë</l>
-            <l n="1006" xml:id="l1006">Son Gendre par sa mort verra sa <ref target="#foi">foy*</ref> <ref target="#decevoir">deceuë*</ref> ?</l>
+            <l n="1006" xml:id="l1006">Son Gendre par sa mort verra sa <ref target="#foi">foy</ref> <ref target="#decevoir">deceuë</ref> ?</l>
             <l n="1007" xml:id="l1007">Est-ce comme il la donne ? est-ce comme il la tient ?</l>
             <l n="1008" xml:id="l1008">Je me treuve engagée ; à peine il s’en souvient :</l>
             <l n="1009" xml:id="l1009">C’est mon Epoux enfin ; &amp; quoy qu’il en avienne ;</l>
@@ -2612,11 +2611,11 @@
           </sp>
           <sp xml:id="scene1-IV-5" who="lucille">
             <speaker>LUCILLE.</speaker>
-            <l n="1013" xml:id="l1013">Ce sentiment est juste, encore que trop <ref target="#tendre">tendre*</ref> :<pb n="61" xml:id="p61"/></l>
+            <l n="1013" xml:id="l1013">Ce sentiment est juste, encore que trop <ref target="#tendre">tendre</ref> :<pb n="61" xml:id="p61"/></l>
             <l n="1014" xml:id="l1014">Dans un sort si cruel vous la devez attendre :</l>
-            <l n="1015" xml:id="l1015">Mais l’attendre, ma Fille ; &amp; non pas <ref target="#prevenir">prevenir*</ref></l>
+            <l n="1015" xml:id="l1015">Mais l’attendre, ma Fille ; &amp; non pas <ref target="#prevenir">prevenir</ref></l>
             <l n="1016" xml:id="l1016">Par elle le trépas d’un<note place="bottom">« <hi rend="i">Un</hi> dans l’acception de <hi rend="i">quelqu’un</hi> de la langue actuelle est très usité dans l’ancienne langue et dans celle du XVII<hi rend="sup">e</hi> siècle ». (<hi rend="sc">Haase</hi>). Il s’agit bien sûr de Fabie.</note> qu’on ne peut punir ;</l>
-            <l n="1017" xml:id="l1017">Le Senat, toute Rome <ref target="#obliger">obligee*</ref> à sa gloire</l>
+            <l n="1017" xml:id="l1017">Le Senat, toute Rome <ref target="#obliger">obligee</ref> à sa gloire</l>
             <l n="1018" xml:id="l1018">Maintiendra le Vainqueur, admirant la victoire ;</l>
             <l n="1019" xml:id="l1019">Ou son propre destin s’estendant dessus nous</l>
             <l n="1020" xml:id="l1020">Me fera suivre un Gendre, &amp; vous, suivre un Epoux :</l>
@@ -2660,7 +2659,7 @@
           </sp>
           <sp xml:id="scene2-IV-6" who="papyrie">
             <speaker>PAPYRIE.</speaker>
-            <l n="1038" xml:id="l1038">Papyre pour le <ref target="#perdre">perdre*</ref> encore a plus d’envie :<pb n="63" xml:id="p63"/></l>
+            <l n="1038" xml:id="l1038">Papyre pour le <ref target="#perdre">perdre</ref> encore a plus d’envie :<pb n="63" xml:id="p63"/></l>
             <l n="1039" xml:id="l1039">Le Senat tout puissant n’ayant pû le sauver,</l>
             <l n="1040" xml:id="l1040">Rome pour son salut ne peut plus rien treuver ;</l>
             <l n="1041" xml:id="l1041">Non, le Peuple est trop foible, il a trop d’inconstance ;</l>
@@ -2685,7 +2684,7 @@
             <l n="1053" xml:id="l1053">Que demander au Ciel, pour m’estre plus prospere,</l>
             <l n="1054" xml:id="l1054">Ou la honte, ou l’honneur, d’un Epoux, ou d’un Pere ?</l>
             <l n="1055" xml:id="l1055">L’un &amp; l’autre en ce jour doit vaincre, ou doit ceder ;</l>
-            <l n="1056" xml:id="l1056">Aucun bien, sans un mal, ne me peut <ref target="#succeder">succeder*</ref> ;</l>
+            <l n="1056" xml:id="l1056">Aucun bien, sans un mal, ne me peut <ref target="#succeder">succeder</ref> ;</l>
             <l n="1057" xml:id="l1057">Si Fabie est plus fort, Papyre enfin succombe ;<pb n="64" xml:id="p64"/></l>
             <l n="1058" xml:id="l1058">L’un vainqueur, l’autre meurt ; l’un sauvé, l’autre tombe :</l>
             <l n="1059" xml:id="l1059">Soûtenez les tous deux, &amp; pour m’estre plus doux,</l>
@@ -2723,7 +2722,7 @@
             <l n="1078" xml:id="l1078">Je n’ay pas daigné dire un mot en ma deffense ;</l>
             <l n="1079" xml:id="l1079">Deffendrois-je mon sang, si vous le demandez ?</l>
             <l n="1080" xml:id="l1080">Attendrois-je un Arrest, si vous ne le rendez<note place="bottom">Dois-je attendre un autre arrêt que le vôtre, celui que vous rendrez ?</note> ?</l>
-            <l n="1081" xml:id="l1081">Le Senat respectant ma téte, &amp; vôtre <ref target="#foudre1">foudre*</ref> ;</l>
+            <l n="1081" xml:id="l1081">Le Senat respectant ma téte, &amp; vôtre <ref target="#foudre1">foudre</ref> ;</l>
             <l n="1082" xml:id="l1082">Ne m’a pû condamner, &amp; n’ose pas m’absoudre,</l>
             <l n="1083" xml:id="l1083">Comme il n’accorde rien, il n’a rien refusé ;</l>
             <l n="1084" xml:id="l1084">Quoy qu’il m’ait par priere envers vous excusé,</l>
@@ -2756,7 +2755,7 @@
             <l n="1108" xml:id="l1108">Et dessous cette cendre ensevelir mon Nom ?</l>
             <l n="1109" xml:id="l1109">Ce Nom poura, sans vous, passer à la memoire ;</l>
             <l n="1110" xml:id="l1110">Ce Nom peut honorer la plus belle victoire,</l>
-            <l n="1111" xml:id="l1111">Des <ref target="#infracteur">infracteurs*</ref> des loix ennemy capital</l>
+            <l n="1111" xml:id="l1111">Des <ref target="#infracteur">infracteurs</ref> des loix ennemy capital</l>
             <l n="1112" xml:id="l1112">Ce Nom doit triompher, &amp; vous estre fatal.</l>
           </sp>
           <sp xml:id="scene3-IV-4" who="fabie-fils">
@@ -2766,7 +2765,7 @@
             <l n="1115" xml:id="l1115">Je devois à ce Nom ce qu’un zele pieux</l>
             <l n="1116" xml:id="l1116">Par un voeu solennel me fit donner aux Dieux,</l>
             <l n="1117" xml:id="l1117">Les dépoüilles d’un Camp sur l’Ennemy tirees</l>
-            <l n="1118" xml:id="l1118">Pour cet heureux <ref target="#succes">succez*</ref> leur furent consacrees.</l>
+            <l n="1118" xml:id="l1118">Pour cet heureux <ref target="#succes">succez</ref> leur furent consacrees.</l>
           </sp>
           <sp xml:id="scene3-IV-5" who="papyre">
             <speaker>PAPYRE.</speaker>
@@ -2777,7 +2776,7 @@
           </sp>
           <sp xml:id="scene3-IV-6" who="fabie-fils">
             <speaker>FABIE. Fils.</speaker>
-            <l n="1123" xml:id="l1123">L’<ref target="#avantage">avantage*</ref> de Rome offert presque à mes yeux</l>
+            <l n="1123" xml:id="l1123">L’<ref target="#avantage">avantage</ref> de Rome offert presque à mes yeux</l>
             <l n="1124" xml:id="l1124">Ne me sembloit venir que de la main des Dieux ;</l>
             <l n="1125" xml:id="l1125">Et contre un ordre étroit ayant l’ame trop haute,</l>
             <l n="1126" xml:id="l1126">J’ay creu qu’une victoire effaceroit ma faute.</l>
@@ -2808,7 +2807,7 @@
             <l n="1151" xml:id="l1151">Sous vostre ordre une fois combattant à vos yeux</l>
             <l n="1152" xml:id="l1152">Que j’aille demander un trépas glorieux</l>
             <l n="1153" xml:id="l1153">A ceux que j’ay vaincus contre vôtre deffense,</l>
-            <l n="1154" xml:id="l1154">Que ma valeur expie un crime de <ref target="#vaillance">vaillance*</ref> :</l>
+            <l n="1154" xml:id="l1154">Que ma valeur expie un crime de <ref target="#vaillance">vaillance</ref> :</l>
             <l n="1155" xml:id="l1155">Puis qu’il faut par la loy perir, je periray ;</l>
             <l n="1156" xml:id="l1156">Vous serez satisfait ; &amp; je triompheray ;</l>
             <l n="1157" xml:id="l1157" part="I">Souffrez…</l>
@@ -2832,7 +2831,7 @@
             <l n="1171" xml:id="l1171">Contre elles j’arme aussi, non ma severité,</l>
             <l n="1172" xml:id="l1172">Mais les loix, pour punir vostre temerité :</l>
             <l n="1173" xml:id="l1173">Attendez mesme sort qu’eut le Fils de Manlie<note place="bottom">Cet épisode se situe au livre VIII de L’<hi rend="i">Histoire romaine, op.cit</hi>., § VI, 7-VII, 22. À cause de la ressemblance entre les Romains et les Latins contre lesquels ils étaient en guerre, les consuls avaient interdit « de combattre contre l’ennemi hors des rangs » pour éviter les méprises. Mais il advint que Titus Manlius, fils du consul du même nom, se trouva proche d’un camp ennemi, et, provoqué, accepta un combat singulier contre un guerrier latin, le gagna et rentra ovationné par ses camarades. En apprenant ce fait, son père désapprouva aussitôt son fils et le condamna à mort. L’exécution eut aussitôt lieu, dans la stupeur générale.</note> ;</l>
-            <l n="1174" xml:id="l1174">Vostre crime est plus grand, un moindre <ref target="#noeud">nœud*</ref> nous lie ;</l>
+            <l n="1174" xml:id="l1174">Vostre crime est plus grand, un moindre <ref target="#noeud">nœud</ref> nous lie ;</l>
             <l n="1175" xml:id="l1175">Son sang n’eut par sa mort qu’un combat à laver ;</l>
             <l n="1176" xml:id="l1176">Mais le vostre en a deux, &amp; se peut moins sauver.</l>
             <l n="1177" xml:id="l1177">Ce n’est pas qu’en effect mon amitié blessee</l>
@@ -2848,10 +2847,10 @@
             <l n="1187" xml:id="l1187">Vostre victime attend, &amp; le supplice est prest.</l>
             <l n="1188" xml:id="l1188">Mais Dieux ! mon amitié s’oppose à mon arrest :</l>
             <l n="1189" xml:id="l1189">Perdre un Gendre, un Heros, un Demon de vaillance ?</l>
-            <l n="1190" xml:id="l1190">Quel sang ! quel crime aussi ma Justice <ref target="#balancer">balance*</ref> <note place="bottom">Ma Justice hésite entre l’importance du sang (= du rang, de la « vaillance ») et celle du « crime » de Fabie. </note> !</l>
+            <l n="1190" xml:id="l1190">Quel sang ! quel crime aussi ma Justice <ref target="#balancer">balance</ref> <note place="bottom">Ma Justice hésite entre l’importance du sang (= du rang, de la « vaillance ») et celle du « crime » de Fabie. </note> !</l>
             <l n="1191" xml:id="l1191">Rome à Rome s’oppose en un coup si fatal ;<pb n="70" xml:id="p70"/></l>
             <l n="1192" xml:id="l1192">Le sauver ? que de bien ! le sauver ? que de mal !</l>
-            <l n="1193" xml:id="l1193">Mais c’est trop <ref target="#balancer">balancer*</ref> ; la chose est <ref target="#resoudre">resoluë*</ref> ;</l>
+            <l n="1193" xml:id="l1193">Mais c’est trop <ref target="#balancer">balancer</ref> ; la chose est <ref target="#resoudre">resoluë</ref> ;</l>
             <l n="1194" xml:id="l1194">Ton interest l’emporte, ô Puissance absoluë !</l>
             <l n="1195" xml:id="l1195">Il mourra<note place="bottom">Dans toutes les éditions, il y avait un blanc de la taille de 5 ou 6 signes après « mourra ». Il était probablement destiné à souligner la forte pause qui était faite après cette sentence et à mettre en relief l’opposition qui suit.</note>. Mais pourtant lors que<note place="bottom">« Lors que » = alors même que, bien que.</note> je le promets</l>
             <l n="1196" xml:id="l1196">Deffendez vous, Fabie, &amp; je vous le permets :</l>
@@ -2884,7 +2883,7 @@
             <l n="1207" xml:id="l1207">Le Peuple prest de rendre un Arrest solennel</l>
             <l n="1208" xml:id="l1208">Demande à haute voix le Vainqueur Criminel,</l>
             <l n="1209" xml:id="l1209">Et que le Dictateur pour la chose commune<note place="bottom">L’expression « chose commune » est une variation de « chose publique », probable traduction du latin <hi rend="i">res publica</hi>, qui désigne « ce qui regarde l’Etat, la République » (<hi rend="sc">Furetiere</hi>). Ici elle a le sens d’« intérêt commun ».</note>,</l>
-            <l n="1210" xml:id="l1210">Daigne en les <ref target="#visiter">visitant*</ref> honorer la Tribune :</l>
+            <l n="1210" xml:id="l1210">Daigne en les <ref target="#visiter">visitant</ref> honorer la Tribune :</l>
             <l n="1211" xml:id="l1211">Je viens, pour vous y suivre, &amp; vous accompagner.</l>
           </sp>
           <sp xml:id="scene4-IV-4" who="fabie-pere">
@@ -2930,7 +2929,7 @@
             <l n="1240" xml:id="l1240">Rien ne peut l’adoucir, ni le Senat, ni vous ;</l>
             <l n="1241" xml:id="l1241">Le Peuple nous attend, &amp; fera moins encore :</l>
             <l n="1242" xml:id="l1242">Je vay perdre Fabie, &amp; dans moy je l’adore ;</l>
-            <l n="1243" xml:id="l1243">Et mes sens genereux sont si fort <ref target="#combattre">combattus*</ref></l>
+            <l n="1243" xml:id="l1243">Et mes sens genereux sont si fort <ref target="#combattre">combattus</ref></l>
             <l n="1244" xml:id="l1244">Que je puny son crime, admirant ses vertus.</l>
             <l n="1245" xml:id="l1245">Elles parlent dans moy, leur puissance est bien forte,<pb n="73 ; K" xml:id="p73"/></l>
             <l n="1246" xml:id="l1246">Elle attire mon cœur ; mais Rome enfin l’emporte ;</l>
@@ -2940,7 +2939,7 @@
           <sp xml:id="scene4-IV-8" who="fabie-fils">
             <speaker>FABIE. Fils.</speaker>
             <l n="1249" xml:id="l1249">A quoy ce grand combat ? que sert cette deffense ?</l>
-            <l n="1250" xml:id="l1250">Je <ref target="#connaitre1">connoy*</ref> que mon sort est en vostre puissance</l>
+            <l n="1250" xml:id="l1250">Je <ref target="#connaitre1">connoy</ref> que mon sort est en vostre puissance</l>
             <l n="1251" xml:id="l1251" part="I">Que le Peuple ne peut….</l>
           </sp>
           <sp xml:id="scene4-IV-9" who="martian">
@@ -2958,9 +2957,9 @@
             <l n="1258" xml:id="l1258">Pour un mal incertain, &amp; que l’on apprehende ?</l>
             <l n="1259" xml:id="l1259">Rome peut abolir de si timides loix,</l>
             <l n="1260" xml:id="l1260">Ou du moins adoucir leur rigueur une fois ;</l>
-            <l n="1261" xml:id="l1261">Le fruict qu’elle en attend ne vaut pas l’<ref target="#avantage">avantage*</ref></l>
+            <l n="1261" xml:id="l1261">Le fruict qu’elle en attend ne vaut pas l’<ref target="#avantage">avantage</ref></l>
             <l n="1262" xml:id="l1262">Qu’elle a déjà receu d’un si noble courage ;</l>
-            <l n="1263" xml:id="l1263"> C’est avancer sa perte, augmenter son <ref target="#ennui">ennuy*</ref></l>
+            <l n="1263" xml:id="l1263"> C’est avancer sa perte, augmenter son <ref target="#ennui">ennuy</ref></l>
             <l n="1264" xml:id="l1264">Que de faire perir un homme tel que luy,</l>
             <l n="1265" xml:id="l1265">Et qui peut rendre à Rome un Monde tributaire ;<pb n="74" xml:id="p74"/></l>
             <l n="1266" xml:id="l1266">Pour ce grand interest les loix doivent se taire.</l>
@@ -2998,14 +2997,14 @@
             <l n="1283" xml:id="l1283">Et cette liberté qu’elle met en nos mains<pb n="75" xml:id="p75"/></l>
             <l n="1284" xml:id="l1284">Nous rend, plus que les Roys, puissants &amp; Souverains :</l>
             <l n="1285" xml:id="l1285">Il est vray qu’elle est libre à se donner un Maître ;</l>
-            <l n="1286" xml:id="l1286">Elle le fait ; après elle doit le <ref target="#connaitre2">connaître*</ref><note place="bottom">C’est-à-dire le reconnaître comme maître.</note> :</l>
+            <l n="1286" xml:id="l1286">Elle le fait ; après elle doit le <ref target="#connaitre2">connaître</ref><note place="bottom">C’est-à-dire le reconnaître comme maître.</note> :</l>
             <l n="1287" xml:id="l1287">Dittes, que peut le Peuple, &amp; qu’a pû le Senat ?</l>
-            <l n="1288" xml:id="l1288">Ma dignité soufroit pour vous cet <ref target="#attentat">attentat*</ref><note place="bottom">Ma dignité de dictateur a souffert pour vous des entorses (« attentat ») à ma charge (en appeler au peuple, au Sénat alors que le dictateur aurait le pouvoir de décider seul).</note> ;</l>
+            <l n="1288" xml:id="l1288">Ma dignité soufroit pour vous cet <ref target="#attentat">attentat</ref><note place="bottom">Ma dignité de dictateur a souffert pour vous des entorses (« attentat ») à ma charge (en appeler au peuple, au Sénat alors que le dictateur aurait le pouvoir de décider seul).</note> ;</l>
             <l n="1289" xml:id="l1289">Et contre mon pouvoir n’estant point de refuge,</l>
             <l n="1290" xml:id="l1290">Vers le Peuple, au Senat je suis &amp; Maître &amp; Juge ;</l>
-            <l n="1291" xml:id="l1291">Quoy que pour ma décharge, &amp; vôtre <ref target="#allegement">allegement*</ref>,</l>
+            <l n="1291" xml:id="l1291">Quoy que pour ma décharge, &amp; vôtre <ref target="#allegement">allegement</ref>,</l>
             <l n="1292" xml:id="l1292">Je les fay compagnons dans ce haut Jugement.</l>
-            <l n="1293" xml:id="l1293">Vous n’avez sceu <ref target="#connaitre3">connaître*</ref> une si grande grace :</l>
+            <l n="1293" xml:id="l1293">Vous n’avez sceu <ref target="#connaitre3">connaître</ref> une si grande grace :</l>
             <l n="1294" xml:id="l1294">Mais je sçauray tantôt rabbattre cette audace.</l>
           </sp>
           <sp xml:id="scene4-IV-16" who="martian">
@@ -3020,7 +3019,7 @@
           </sp>
           <sp xml:id="scene4-IV-18" who="fabie-fils">
             <speaker>FABIE. Fils.</speaker>
-            <l n="1298" xml:id="l1298">Allons donc à la mort ; rien ne m’en peut <ref target="#defendre">deffendre*</ref>.</l>
+            <l n="1298" xml:id="l1298">Allons donc à la mort ; rien ne m’en peut <ref target="#defendre">deffendre</ref>.</l>
           </sp>
         </div>
       </div>
@@ -3040,22 +3039,22 @@
             <l n="1305" xml:id="l1305">Je l’ay mise en sa force, &amp; mon cœur l’a portée</l>
             <l n="1306" xml:id="l1306">En un poinct où jamais elle n’estoit montée :</l>
             <l n="1307" xml:id="l1307">De ce lieu si superbe<note place="bottom">Ici, l’adjectif tire son sens de l’étymologie latine (<hi rend="i">super</hi> = au-dessus) et signifie « élevé au-dessus des autres » (<hi rend="sc">Furetière</hi>) : <hi rend="i">cf</hi>. « montée » au v. 1306.</note>, où vainqueur je la voy,</l>
-            <l n="1308" xml:id="l1308">Elle me <ref target="#rire">rit*</ref>, me plaît, elle est digne de moy :</l>
+            <l n="1308" xml:id="l1308">Elle me <ref target="#rire">rit</ref>, me plaît, elle est digne de moy :</l>
             <l n="1309" xml:id="l1309">J’ay par un mème coup sauvé ma renommée,</l>
             <l n="1310" xml:id="l1310">Et l’Ordre souverain, cette ame d’une Armée ;</l>
             <l n="1311" xml:id="l1311">J’ay maintenu l’Empire, &amp; le commandement.</l>
           </sp>
           <sp xml:id="scene1-V-2" who="camille">
             <speaker>CAMILLE.</speaker>
-            <l n="1312" xml:id="l1312">Et vous perdez Fabie en ce <ref target="#chaud">chaud*</ref> mouvement.<pb n="77" xml:id="p77"/></l>
+            <l n="1312" xml:id="l1312">Et vous perdez Fabie en ce <ref target="#chaud">chaud</ref> mouvement.<pb n="77" xml:id="p77"/></l>
           </sp>
           <sp xml:id="scene1-V-3" who="papyre">
             <speaker>PAPYRE.</speaker>
             <l n="1313" xml:id="l1313">Je perds un Criminel ; il vaut mieux qu’il perisse</l>
             <l n="1314" xml:id="l1314">Que cette autorité, les loix, &amp; la Justice ;</l>
-            <l n="1315" xml:id="l1315">Quoy ? j’aurois veu décheoir par ma <ref target="#facilite">facilité*</ref></l>
+            <l n="1315" xml:id="l1315">Quoy ? j’aurois veu décheoir par ma <ref target="#facilite">facilité</ref></l>
             <l n="1316" xml:id="l1316">La Justice, les loix, &amp; cette autorité ?</l>
-            <l n="1317" xml:id="l1317">A ma honte, par moy, durant mon <ref target="#ministère">ministere*</ref></l>
+            <l n="1317" xml:id="l1317">A ma honte, par moy, durant mon <ref target="#ministère">ministere</ref></l>
             <l n="1318" xml:id="l1318">Perir la Dictature, un si haut caractere ?</l>
             <l n="1319" xml:id="l1319">Pour l’honneur de Fabie, &amp; de ses deux combats,</l>
             <l n="1320" xml:id="l1320">J’aurois veu perdre Rome, &amp; tout l’Empire à bas<note place="bottom">Zeugma. Le « j’aurois veu » est en facteur commun à deux propositions qui n’ont pas la même construction syntaxique : le premier complément est un infinitif (« perdre »), le second un syntagme nominal (« tout l’Empire »).</note> ?</l>
@@ -3063,11 +3062,11 @@
             <l n="1322" xml:id="l1322">Observateur des loix &amp; de la discipline,</l>
             <l n="1323" xml:id="l1323">Je fay pour l’avenir, je voy par le passé</l>
             <l n="1324" xml:id="l1324">Le chemin que Manlie &amp; Brute<note place="bottom">« Manlie &amp; Brute » : cf. note du vers 1173 pour Manlie. La mention de Brute fait sûrement référence à Lucius Junius Brutus qui fit chasser de Rome le dernier des Tarquins en 509 av. J.-C. et qui fit condamner à mort et exécuter ses deux fils qui complotaient pour rétablir les rois sur le trône. (<hi rend="i">Dictionnaire de l’Antiquité</hi>)</note> m’ont tracé.</l>
-            <l n="1325" xml:id="l1325">Par mon propre <ref target="#tourment">tourment*</ref> pour te rendre <ref target="#obliger">obligee*</ref>,</l>
+            <l n="1325" xml:id="l1325">Par mon propre <ref target="#tourment">tourment</ref> pour te rendre <ref target="#obliger">obligee</ref>,</l>
             <l n="1326" xml:id="l1326">Que<note place="bottom">« Que » : adverbe interro-exclamatif ayant le sens de « pourquoi ne pas ! ». Même emploi au vers suivant.</note> n’est-il mon Parent, ô Rome protegee !</l>
             <l n="1327" xml:id="l1327">Ah ! Que n’est-il mon Fils, ce Gendre pretendu !</l>
             <l n="1328" xml:id="l1328">Je t’aurois plus donné, quand j’aurois plus perdu :</l>
-            <l n="1329" xml:id="l1329">Je soufre autant qu’un Pere, &amp; ce grand coup m’<ref target="#etonner">étonne*</ref>,</l>
+            <l n="1329" xml:id="l1329">Je soufre autant qu’un Pere, &amp; ce grand coup m’<ref target="#etonner">étonne</ref>,</l>
             <l n="1330" xml:id="l1330">Je l’ayme autant qu’un Fils, Rome ; &amp; je te le donne.</l>
           </sp>
           <sp xml:id="scene1-V-4" who="camille">
@@ -3081,7 +3080,7 @@
           </sp>
           <sp xml:id="scene1-V-5" who="papyre">
             <speaker>PAPYRE.</speaker>
-            <l n="1337" xml:id="l1337">Il ne l’a point absous, c’est trop pour le <ref target="#confondre">confondre*</ref>.</l>
+            <l n="1337" xml:id="l1337">Il ne l’a point absous, c’est trop pour le <ref target="#confondre">confondre</ref>.</l>
           </sp>
           <sp xml:id="scene1-V-6" who="camille">
             <speaker>CAMILLE.</speaker>
@@ -3089,7 +3088,7 @@
           </sp>
           <sp xml:id="scene1-V-7" who="papyre">
             <speaker>PAPYRE.</speaker>
-            <l part="F">Et c’est pour m’en <ref target="#repondre2">répondre*</ref>:</l>
+            <l part="F">Et c’est pour m’en <ref target="#repondre2">répondre</ref>:</l>
             <l n="1339" xml:id="l1339">Pour ne l’irriter pas, je le laisse en ses mains.</l>
           </sp>
           <sp xml:id="scene1-V-8" who="camille">
@@ -3099,22 +3098,22 @@
           <sp xml:id="scene1-V-9" who="papyre">
             <speaker>PAPYRE.</speaker>
             <l n="1341" xml:id="l1341">S’ils l’ayment, ces mutins<note place="bottom">La subordonnée causale introduite par « si » explique le fait par une cause déjà connue. Si exprime un fait réel dont le locuteur apporte la preuve et qui est la cause du fait principal. (<hi rend="sc">Spillebout</hi>). Si a donc ici le sens moderne de « puisque ».</note> ; ils craindront ma puissance ;</l>
-            <l n="1342" xml:id="l1342">Je laisse à leur orgueil cette ombre<note place="bottom">« Ombre » se dit aussi pour apparence. (<hi rend="sc">Furetiere</hi>)</note> de <ref target="#licence1">licence*</ref>,</l>
+            <l n="1342" xml:id="l1342">Je laisse à leur orgueil cette ombre<note place="bottom">« Ombre » se dit aussi pour apparence. (<hi rend="sc">Furetiere</hi>)</note> de <ref target="#licence1">licence</ref>,</l>
             <l n="1343" xml:id="l1343">Et le temps d’aviser s’ils se rendront garants</l>
             <l n="1344" xml:id="l1344">D’un crime à soûtenir<note place="bottom">« À soutenir » = qu’il faudra soutenir.</note> par des crimes plus grands :</l>
             <l n="1345" xml:id="l1345">Ils ne le feront pas ; ce soin est inutile ;</l>
             <l n="1346" xml:id="l1346">Je suis Maître du Camp, je puis tout dans la Ville ;</l>
-            <l n="1347" xml:id="l1347">Le Peuple, qui me voit <ref target="#animer">animé*</ref> pour la loy,</l>
+            <l n="1347" xml:id="l1347">Le Peuple, qui me voit <ref target="#animer">animé</ref> pour la loy,</l>
             <l n="1348" xml:id="l1348">N’osera pas l’enfraindre, &amp; méme contre moy ;</l>
             <l n="1349" xml:id="l1349">Il connoît mon pouvoir, il connoit mon courage :<pb n="79" xml:id="p79"/></l>
-            <l n="1350" xml:id="l1350">Employons l’un &amp; l’autre à ce <ref target="#fameux">fameux*</ref> ouvrage ;</l>
+            <l n="1350" xml:id="l1350">Employons l’un &amp; l’autre à ce <ref target="#fameux">fameux</ref> ouvrage ;</l>
             <l n="1351" xml:id="l1351">Dans un juste dessein autant que rigoureux,</l>
             <l n="1352" xml:id="l1352">Pour leur propre interest, opposons nous contre eux ;</l>
             <l n="1353" xml:id="l1353">Refusant les Romains montrons que je les ayme,</l>
             <l n="1354" xml:id="l1354">Et rendons Rome heureuse en dépit d’elle-méme ;</l>
             <l n="1355" xml:id="l1355">Faisons son propre bien contre ses propres vœux ;</l>
             <l n="1356" xml:id="l1356">Ne la regardons point, regardons ses Neveux<note place="bottom">« Neveux » : c’est-à-dire ses descendants.</note> ;</l>
-            <l n="1357" xml:id="l1357"><ref target="#indulgent">Indulgente*</ref> à son mal encor qu’elle soûpire,</l>
+            <l n="1357" xml:id="l1357"><ref target="#indulgent">Indulgente</ref> à son mal encor qu’elle soûpire,</l>
             <l n="1358" xml:id="l1358">N’écoutons point sa voix, &amp; gardons luy l’Empire ;</l>
             <l n="1359" xml:id="l1359">Faisons un bien qui dure, &amp; qu’on treuve aprés nous ;</l>
             <l n="1360" xml:id="l1360">Perdons un Criminel, pour l’interest de tous.</l>
@@ -3124,10 +3123,10 @@
             <l n="1361" xml:id="l1361">C’est perdre la Valeur, sous les loix opprimée ;</l>
             <l n="1362" xml:id="l1362">Avec elle il faut donc perdre toute l’Armée,</l>
             <l n="1363" xml:id="l1363">Qui dans ses interests entre &amp; s’ose méler<note place="bottom">Ose se mêler de ses intérêts. « Ses » renvoie à Fabie.</note> :</l>
-            <l n="1364" xml:id="l1364">Il n’est plus temps de <ref target="#feindre2">feindre*</ref>, &amp; de vous rien<note place="bottom">« Rien » a ici le sens positif de « quelque chose » car il n’est pas précédé du discordanciel « ne ».</note> <ref target="#celer">celer*</ref> :</l>
+            <l n="1364" xml:id="l1364">Il n’est plus temps de <ref target="#feindre2">feindre</ref>, &amp; de vous rien<note place="bottom">« Rien » a ici le sens positif de « quelque chose » car il n’est pas précédé du discordanciel « ne ».</note> <ref target="#celer">celer</ref> :</l>
             <l n="1365" xml:id="l1365">Tout le Camp se mutine, &amp; prend part en ce crime,</l>
             <l n="1366" xml:id="l1366">Que vous allez punir, qui contre vous l’anime ;</l>
-            <l n="1367" xml:id="l1367">Valere me l’a peint un Camp <ref target="#seditieux">seditieux*</ref>,</l>
+            <l n="1367" xml:id="l1367">Valere me l’a peint un Camp <ref target="#seditieux">seditieux</ref>,</l>
             <l n="1368" xml:id="l1368">Qui… Mais Comine vient ; peut-estre il le sçait mieux.</l>
           </sp>
         </div>
@@ -3142,10 +3141,10 @@
             <l n="1372" xml:id="l1372">Legion opposée à l’autre Legion,</l>
             <l n="1373" xml:id="l1373">Aigle contre Aigle, enfin dans l’émûte<note place="bottom">Graphie de « émeute » conforme à la prononciation de l’époque. Signifie « Emotion, désordre » (<hi rend="sc">Dubois</hi>).</note> publique</l>
             <l n="1374" xml:id="l1374">Homme presque contre homme, &amp; pique contre pique,</l>
-            <l n="1375" xml:id="l1375">Le Camp prest de se battre, ou de se <ref target="#debander">débander*</ref> ;</l>
+            <l n="1375" xml:id="l1375">Le Camp prest de se battre, ou de se <ref target="#debander">débander</ref> ;</l>
             <l n="1376" xml:id="l1376">Personne n’obeit, nul n’ose commander ;</l>
             <l n="1377" xml:id="l1377">Et cette Armée encor chaude &amp; victorieuse,</l>
-            <l n="1378" xml:id="l1378">D’une insolente voix, <ref target="#superbe1">superbe*</ref>, injurieuse,</l>
+            <l n="1378" xml:id="l1378">D’une insolente voix, <ref target="#superbe1">superbe</ref>, injurieuse,</l>
             <l n="1379" xml:id="l1379">Menasse, en demandant à Rome, à tous ses Dieux</l>
             <l n="1380" xml:id="l1380">Pour prix de ses combats son Chef victorieux.</l>
           </sp>
@@ -3211,9 +3210,9 @@
           </sp>
           <sp xml:id="scene3-V-6" who="papyrie">
             <speaker>PAPYRIE.</speaker>
-            <l n="1406" xml:id="l1406">Pour vostre interest seul nous en soufrons l’<ref target="#atteinte">attainte*</ref> ;</l>
+            <l n="1406" xml:id="l1406">Pour vostre interest seul nous en soufrons l’<ref target="#atteinte">attainte</ref> ;</l>
             <l n="1407" xml:id="l1407">Ce mal-heur vous regarde, &amp; ne nous fait trembler,<pb n="83" xml:id="p83"/></l>
-            <l n="1408" xml:id="l1408">Qu’à cause qu’il vous <ref target="#presser">presse*</ref> &amp; vous peut <ref target="#accabler">acabler*</ref>.</l>
+            <l n="1408" xml:id="l1408">Qu’à cause qu’il vous <ref target="#presser">presse</ref> &amp; vous peut <ref target="#accabler">acabler</ref>.</l>
           </sp>
           <sp xml:id="scene3-V-7" who="lucille">
             <speaker>LUCILLE.</speaker>
@@ -3221,7 +3220,7 @@
           </sp>
           <sp xml:id="scene3-V-8" who="papyre">
             <speaker>PAPYRE.</speaker>
-            <l part="F">Ah ! le <ref target="#rebelle">Rebele*</ref> !</l>
+            <l part="F">Ah ! le <ref target="#rebelle">Rebele</ref> !</l>
           </sp>
           <sp xml:id="scene3-V-9" who="lucille">
             <speaker>LUCILLE.</speaker>
@@ -3230,12 +3229,12 @@
           <sp xml:id="scene3-V-10" who="papyre">
             <speaker>PAPYRE.</speaker>
             <l n="1411" xml:id="l1411">Soûtenir un coûpable ? &amp; contre un Dictateur ?</l>
-            <l n="1412" xml:id="l1412" part="I">Quel <ref target="#desordre">desordre*</ref> !</l>
+            <l n="1412" xml:id="l1412" part="I">Quel <ref target="#desordre">desordre</ref> !</l>
           </sp>
           <sp xml:id="scene3-V-11" who="papyrie">
             <speaker>PAPYRIE.</speaker>
             <l part="F">Il en est l’objet, non pas l’auteur :</l>
-            <l n="1413" xml:id="l1413">Le Peuple en le sauvant, de peur qu’il se <ref target="#hazarder">hazarde*</ref>,</l>
+            <l n="1413" xml:id="l1413">Le Peuple en le sauvant, de peur qu’il se <ref target="#hazarder">hazarde</ref>,</l>
             <l n="1414" xml:id="l1414">Contre luy, contre vous le deffend &amp; le garde,</l>
             <l n="1415" xml:id="l1415">Et craignant de sa main l’attentat genereux</l>
             <l n="1416" xml:id="l1416">Luy semble par ses soins, plus que vous, rigoureux :</l>
@@ -3244,18 +3243,18 @@
             <l n="1419" xml:id="l1419">La foule l’environne, &amp; l’emporte à la fois :</l>
             <l n="1420" xml:id="l1420">On le louë, on vous blâme &amp; vos severes loix ;</l>
             <l n="1421" xml:id="l1421">Et pour mieux resister contre vous &amp; contre elles<pb n="84" xml:id="p84"/></l>
-            <l n="1422" xml:id="l1422">De tous côtez s’assemble un nombre de <ref target="#rebelle">Rebeles*</ref></l>
+            <l n="1422" xml:id="l1422">De tous côtez s’assemble un nombre de <ref target="#rebelle">Rebeles</ref></l>
             <l n="1423" xml:id="l1423">Prests de se retirer sur le Mont Aventin<note place="bottom">Il s’agit d’une des 7 collines de Rome. Pendant la révolte de 494 av. J.-C. contre le patriarcat, une partie de la plèbe s’était en effet déjà réfugiée sur l’Aventin. (<hi rend="i">Dictionnaire de l’Antiquité</hi>)</note>,</l>
-            <l n="1424" xml:id="l1424">Pour <ref target="#conserver1">conserver*</ref> Fabie, ou suivre son destin.</l>
+            <l n="1424" xml:id="l1424">Pour <ref target="#conserver1">conserver</ref> Fabie, ou suivre son destin.</l>
           </sp>
           <sp xml:id="scene3-V-12" who="lucille">
             <speaker>LUCILLE.</speaker>
             <l n="1425" xml:id="l1425">Nous-mémes avons veu, presque au sortir du Temple,</l>
             <l n="1426" xml:id="l1426">Leur extrême fureur, &amp; qui n’a point d’exemple :</l>
-            <l n="1427" xml:id="l1427"><ref target="#demettre">Demettons*</ref>, disent-ils, ce rude Dictateur</l>
+            <l n="1427" xml:id="l1427"><ref target="#demettre">Demettons</ref>, disent-ils, ce rude Dictateur</l>
             <l n="1428" xml:id="l1428">Jaloux de la victoire autant que de l’auteur ;</l>
             <l n="1429" xml:id="l1429">N’ayant plus d’Ennemis, qu’est-il plus necessaire ?</l>
-            <l n="1430" xml:id="l1430"><ref target="#deposer">Deposons*</ref> le : On diroit qu’ils sont prests de le faire.</l>
+            <l n="1430" xml:id="l1430"><ref target="#deposer">Deposons</ref> le : On diroit qu’ils sont prests de le faire.</l>
           </sp>
           <sp xml:id="scene3-V-13" who="papyre">
             <speaker>PAPYRE.</speaker>
@@ -3278,8 +3277,8 @@
             <l n="1441" xml:id="l1441">Je sçay trop ce qu’il faut, dans ce peril extréme,</l>
             <l n="1442" xml:id="l1442">Faire pour le Pays contre le Pays méme :</l>
             <l n="1443" xml:id="l1443">J’yray voir violer les loix, &amp; leur serment,</l>
-            <l n="1444" xml:id="l1444">Et de tout l’Aventin faire mon <ref target="#monument">Monument*</ref> ;</l>
-            <l n="1445" xml:id="l1445">Plustôt que <ref target="#relacher">relâcher*</ref> il faudra que j’expire,</l>
+            <l n="1444" xml:id="l1444">Et de tout l’Aventin faire mon <ref target="#monument">Monument</ref> ;</l>
+            <l n="1445" xml:id="l1445">Plustôt que <ref target="#relacher">relâcher</ref> il faudra que j’expire,</l>
             <l n="1446" xml:id="l1446">Qu’on détruise tout l’ordre, &amp; les loix, &amp; Papyre.</l>
           </sp>
           <sp xml:id="scene3-V-16" who="lucille">
@@ -3344,14 +3343,14 @@
             <l n="1484" xml:id="l1484">Il ne faut qu’un supplice ; ils soufriront en vous ;</l>
             <l n="1485" xml:id="l1485">Vostre honteuse mort sera leur infamie,<pb n="88" xml:id="p88"/></l>
             <l n="1486" xml:id="l1486">Punira mon Armée, &amp; Rome vostre Amie ;</l>
-            <l n="1487" xml:id="l1487">Ils verront, ces Soldats, punir leur <ref target="#faction">faction*</ref></l>
+            <l n="1487" xml:id="l1487">Ils verront, ces Soldats, punir leur <ref target="#faction">faction</ref></l>
             <l n="1488" xml:id="l1488">Sur l’auteur criminel d’une noble action ;</l>
             <l n="1489" xml:id="l1489">La honte du supplice en tous lieux publiée</l>
             <l n="1490" xml:id="l1490">Me rend Maître en mon Camp, &amp; Rome châtiée.</l>
           </sp>
           <sp xml:id="scene4-V-5" who="fabie-fils">
             <speaker>FABIE. Fils.</speaker>
-            <l n="1491" xml:id="l1491">Je sçauray <ref target="#prevenir">prevenir*</ref> cet infame trépas.</l>
+            <l n="1491" xml:id="l1491">Je sçauray <ref target="#prevenir">prevenir</ref> cet infame trépas.</l>
           </sp>
           <sp xml:id="scene4-V-6" who="fabie-pere">
             <speaker>FABIE Pere.</speaker>
@@ -3360,7 +3359,7 @@
             <l n="1494" xml:id="l1494">De soufrir en mon sang cette honteuse tache ;</l>
             <l n="1495" xml:id="l1495">J’espererois au Ciel, &amp; croirois que les Dieux,</l>
             <l n="1496" xml:id="l1496">Pour l’enlever là haut, descendroient en ces lieux ;</l>
-            <l n="1497" xml:id="l1497">Ou, si j’espere trop, lanceroient une <ref target="#foudre2">foudre*</ref>,</l>
+            <l n="1497" xml:id="l1497">Ou, si j’espere trop, lanceroient une <ref target="#foudre2">foudre</ref>,</l>
             <l n="1498" xml:id="l1498">Pour laisser de ses os une honorable poudre :</l>
             <l n="1499" xml:id="l1499">Le sang des Fabiens est trop noble &amp; trop beau,</l>
             <l n="1500" xml:id="l1500">Pour craindre le supplice, &amp; la main d’un Boureau :</l>
@@ -3369,18 +3368,18 @@
             <l n="1503" xml:id="l1503">Il ne sçauroit couler si ce n’est noblement,</l>
             <l n="1504" xml:id="l1504">Pour servir son Pays, dont il est l’ornement ;</l>
             <l n="1505" xml:id="l1505">Il fut toûjours de Rome un glorieux partage<note place="bottom">« Partage » : <hi rend="i">cf</hi>. note du vers 93. Ce vers signifie que Rome a de la chance d’avoir hérité d’un bien aussi précieux pour elle que l’est Fabie.</note>,</l>
-            <l n="1506" xml:id="l1506">Ou pour la secourir, ou pour son <ref target="#avantage">avantage*</ref>.</l>
+            <l n="1506" xml:id="l1506">Ou pour la secourir, ou pour son <ref target="#avantage">avantage</ref>.</l>
             <l n="1507" xml:id="l1507">Pour la servir encore en cet évenement,<pb n="89 ; M" xml:id="p89"/></l>
             <l n="1508" xml:id="l1508">Pour empécher son crime &amp; son soûlevement,</l>
             <l n="1509" xml:id="l1509">Au milieu de Tribuns, dans la place publique</l>
             <l n="1510" xml:id="l1510">Ce bras n’alloit-il pas tuer mon Fils unique ?</l>
             <l n="1511" xml:id="l1511">Mon courage l’eust fait, &amp; le doit faire icy :</l>
-            <l n="1512" xml:id="l1512">Pour vous j’ay calmé Rome ; &amp; c’estoit mon <ref target="#souci">soucy*</ref>.</l>
+            <l n="1512" xml:id="l1512">Pour vous j’ay calmé Rome ; &amp; c’estoit mon <ref target="#souci">soucy</ref>.</l>
             <l n="1513" xml:id="l1513">Maintenant c’est mon cœur, c’est Rome repentie</l>
             <l n="1514" xml:id="l1514">Qui donne en sacrifice une si grande hostie<note place="bottom"><hi rend="i">Cf.</hi> note du vers 1150.</note> :</l>
             <l n="1515" xml:id="l1515">Mais Rome à se punir veut quelque coup nouveau,</l>
             <l n="1516" xml:id="l1516">Un Sacrificateur, &amp; non pas un Boureau :</l>
-            <l n="1517" xml:id="l1517">Autre que moy ne peut luy rendre cet <ref target="#office">office*</ref> ;</l>
+            <l n="1517" xml:id="l1517">Autre que moy ne peut luy rendre cet <ref target="#office">office</ref> ;</l>
             <l n="1518" xml:id="l1518">J’ay droict sur la Victime, &amp; sur le Sacrifice ;</l>
             <l n="1519" xml:id="l1519">Mon bras seul peut verser un sang que j’ay donné ;</l>
             <l n="1520" xml:id="l1520">Que par luy soit son sort &amp; mon Nom terminé ;</l>
@@ -3390,7 +3389,7 @@
             <l n="1524" xml:id="l1524">Que le Nom Fabien par un Fabie est mort :</l>
             <l n="1525" xml:id="l1525">Pour expier ton crime, &amp; le sien que je louë,</l>
             <l n="1526" xml:id="l1526">Un Pere tuë un Fils, ô Rome, &amp; te le vouë.</l>
-            <l n="1527" xml:id="l1527">C’en est fait ; il le faut : <ref target="#prononcer">prononcez*</ref> donc l’arrest ;</l>
+            <l n="1527" xml:id="l1527">C’en est fait ; il le faut : <ref target="#prononcer">prononcez</ref> donc l’arrest ;</l>
             <l n="1528" xml:id="l1528">Et vous verrez bien tôt comme mon bras est prest.</l>
           </sp>
           <sp xml:id="scene4-V-7" who="camille">
@@ -3407,7 +3406,7 @@
             <speaker>PAPYRIE.</speaker>
             <l n="1533" xml:id="l1533">Pour achever ce coup genereux &amp; barbare,</l>
             <l n="1534" xml:id="l1534">Si vous versez son sang, que le mien le repare ;</l>
-            <l n="1535" xml:id="l1535">Qu’une <ref target="#fille">Fille*</ref> en cet acte entre, &amp; prenne un beau rang ;</l>
+            <l n="1535" xml:id="l1535">Qu’une <ref target="#fille">Fille</ref> en cet acte entre, &amp; prenne un beau rang ;</l>
             <l n="1536" xml:id="l1536">Quelle pleure en Romaine, &amp; ses pleurs soient du sang.</l>
           </sp>
           <sp xml:id="scene4-V-10" who="fabie-pere">
@@ -3416,7 +3415,7 @@
           </sp>
           <sp xml:id="scene4-V-11" who="flavie">
             <speaker>FLAVIE.</speaker>
-            <l n="1538" xml:id="l1538">Elle ne seroit plus, sans mon adresse <ref target="#heureux">heureuse*</ref>,</l>
+            <l n="1538" xml:id="l1538">Elle ne seroit plus, sans mon adresse <ref target="#heureux">heureuse</ref>,</l>
             <l n="1539" xml:id="l1539">Qui d’un Epoux sauvé luy faisant le rapport</l>
             <l n="1540" xml:id="l1540">De toutes deux au Temple a détourné la mort.</l>
           </sp>
@@ -3459,7 +3458,7 @@
             <l n="1565" xml:id="l1565">Voyez voyez, Tribuns, où vous l’avez jettée,</l>
             <l n="1566" xml:id="l1566">Où vous la descendez, où vous l’aviez montée ;</l>
             <l n="1567" xml:id="l1567">Regardez son orgueil, &amp; son abbaissement ;<pb n="92" xml:id="p92"/></l>
-            <l n="1568" xml:id="l1568">Comme elle m’a traité ; comme elle se <ref target="#dementir">dement*</ref> :</l>
+            <l n="1568" xml:id="l1568">Comme elle m’a traité ; comme elle se <ref target="#dementir">dement</ref> :</l>
             <l n="1569" xml:id="l1569">Mais regardez plustôt ce qu’elle me demande,</l>
             <l n="1570" xml:id="l1570">Et quel fruict mal-heureux il faut qu’elle en attende.</l>
           </sp>
@@ -3468,7 +3467,7 @@
             <l n="1571" xml:id="l1571">Rome prefere un homme à ce grand interest,</l>
             <l n="1572" xml:id="l1572">Et demande un Heros, tout criminel qu’il est ;</l>
             <l n="1573" xml:id="l1573">Elle vous en veut estre à jamais obligée ;</l>
-            <l n="1574" xml:id="l1574">Et retombe à vos pieds, cette grande <ref target="#affliger">Affligée*</ref> :</l>
+            <l n="1574" xml:id="l1574">Et retombe à vos pieds, cette grande <ref target="#affliger">Affligée</ref> :</l>
             <l n="1575" xml:id="l1575">Pouvez-vous refuser à Rome un seul Romain ?</l>
             <l n="1576" xml:id="l1576">Elle prie, &amp; jamais ne doit prier en vain.</l>
           </sp>
@@ -3506,7 +3505,7 @@
           <sp xml:id="scene4-V-20" who="fabie-pere">
             <speaker>FABIE. Pere.</speaker>
             <l n="1599" xml:id="l1599">Ouy, je l’aurois perdu ; vous luy fûtes trop doux :</l>
-            <l n="1600" xml:id="l1600">Et je ne le <ref target="#tenir2">tiens*</ref> plus que de Rome, &amp; de vous :</l>
+            <l n="1600" xml:id="l1600">Et je ne le <ref target="#tenir2">tiens</ref> plus que de Rome, &amp; de vous :</l>
             <l n="1601" xml:id="l1601">Quand<note place="bottom">Alors que.</note> la mort me l’ôtoit, vous daignez me le rendre ;</l>
             <l n="1602" xml:id="l1602" part="I">Vous me l’avez donné.</l>
           </sp>
@@ -3520,10 +3519,10 @@
           </sp>
           <sp xml:id="scene4-V-22" who="fabie-fils">
             <speaker>FABIE. Fils.</speaker>
-            <l n="1607" xml:id="l1607">Quel <ref target="#charmes">charme*</ref> à mes esprits ! ô doux ravissement !<pb n="94" xml:id="p94"/></l>
+            <l n="1607" xml:id="l1607">Quel <ref target="#charmes">charme</ref> à mes esprits ! ô doux ravissement !<pb n="94" xml:id="p94"/></l>
           </sp>
           <sp xml:id="scene4-V-23" who="lucille">
-            <speaker>LUCILLE. <hi rend="i">luy presentant sa Fille.</hi></speaker>
+            <speaker>LUCILLE. </speaker><stage>luy presentant sa Fille.</stage>
             <l n="1608" xml:id="l1608">Vous deviez l’acquerir un peu plus seureument.</l>
           </sp>
           <sp xml:id="scene4-V-24" who="fabie-fils">
@@ -3541,7 +3540,7 @@
           <sp xml:id="scene4-V-26" who="fabie-fils">
             <speaker>FABIE. Fils.</speaker>
             <l n="1615" xml:id="l1615">Et vous serez par tout maîtresse de mon sort :</l>
-            <l n="1616" xml:id="l1616">O le <ref target="#naufrage">naufrage*</ref> <ref target="#heureux">heureux*</ref>, qui treuve un si beau port !</l>
+            <l n="1616" xml:id="l1616">O le <ref target="#naufrage">naufrage</ref> <ref target="#heureux">heureux</ref>, qui treuve un si beau port !</l>
           </sp>
           <sp xml:id="scene4-V-27" who="fabie-pere">
             <speaker>FABIE Pere.</speaker>
@@ -3567,7 +3566,7 @@
             <l n="1626" xml:id="l1626">Aprés, chargez d’honneurs, la guerre terminée,</l>
             <l n="1627" xml:id="l1627">Un méme jour verra triompher deux Guerriers,</l>
             <l n="1628" xml:id="l1628">L’un couronné de myrthe, &amp; l’autre de lauriers<note place="bottom">Définitions de <hi rend="sc">Furetiere</hi> : <hi rend="u">« Lauriers »</hi> : « se dit figurément en Morale, pour signifier la gloire d’un triomphe, d’une conquête. » <hi rend="u">« Mythe »</hi> : « se prend figurément &amp; poétiquement pour le symbole de l’amour. On dit d’un jeune conquérant de ville et de cœurs qu’il a meslé les myrtes aux lauriers. »</note>.</l>
-            <p>FIN.</p>
+            <trailer>FIN.</trailer>
           </sp>
         </div>
       </div>

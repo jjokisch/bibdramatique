@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -29,11 +26,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/sallebray_belle-egyptienne/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/sallebray_belle-egyptienne.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/sallebray_belle-egyptienne.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/sallebray_belle-egyptienne.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/sallebray_belle-egyptienne.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/sallebray_belle-egyptienne/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/sallebray_belle-egyptienne.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/sallebray_belle-egyptienne.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/sallebray_belle-egyptienne.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/sallebray_belle-egyptienne.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Sallebray</author>, <title>La Belle Égyptienne. Tragi-comédie</title>, Paris, Chez A. de Sommaville et A. Courbé, 1642.</bibl>
@@ -1210,7 +1207,7 @@
         <head>Extrait du Privilege du Roy.</head>
         <p>Par Grace et Privilege du Roy, donné à Paris le 8 jour d’Avril 1642. Signé par le Roy en son Conseil, le BRUN, il est permis à Augustin Courbé, Marchand Libraire à Paris, d’imprimer ou faire imprimer une piece de Theatre, intitulée <hi rend="i">la belle Egyptienne</hi>, durant cinq ans : Et deffences sont faites à tous autres d’en vendre d’autre impression que de celle qu’aura fait faire ledit Courbé, ou les ayans cause, à peine de trois mil liures d’amende, et de tous ses despens, dommages et interests, ainsi qu’il est plus au long porté par ledit Privilege.</p>
         <p>Et le dit Courbé a associé audit Priviliege Antoine de Sommaville, aussi Marchand Libraire à Paris, suivant l’accord fait entr'eux.</p>
-        <label>Achevé d’imprimer le deuxiesme jour de May 1642.</label>
+        <stage>Achevé d’imprimer le deuxiesme jour de May 1642.</stage>
       </div>
       <div xml:id="personnages" type="set">
         <head>LES PERSONNAGES.</head>
@@ -1279,17 +1276,17 @@
           </sp>
           <sp xml:id="I01-2" who="la-vieille">
             <speaker>La Vieille.</speaker>
-            <l n="5" xml:id="l5">Ha l’heureux <ref target="#accident">accident*</ref> ! l’admirable <ref target="#aventure">avanture*</ref>,</l>
+            <l n="5" xml:id="l5">Ha l’heureux <ref target="#accident">accident</ref> ! l’admirable <ref target="#aventure">avanture</ref>,</l>
             <l n="6" xml:id="l6">Si j’en doy croire au moins certaine conjecture.</l>
           </sp>
           <sp xml:id="I01-3" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="7" xml:id="l7">Mais ces <ref target="#ravissement">ravissemens*</ref> sont pour moy superflus,</l>
+            <l n="7" xml:id="l7">Mais ces <ref target="#ravissement">ravissemens</ref> sont pour moy superflus,</l>
             <l n="8" xml:id="l8">Et mon impatience<note n="177" place="bottom"> Diérèse. Nous en trouvons d’autres le long de l’acte I à « permission » (v.29), « glorieux » (v.34, v.152), « curiosité » (v.55, v.136, v.196), « poésie » (v.101, v.142, v.170), « glorieux » (v.132), « poëte » (v.146), « condition » (v.150), « odieux » (v.153), « ambitieux » (v.164), « condition » (v.194, v.391, v.402), « Précieuse » (v.231), « ambitieux » (v.260), « diamant » (v.272), « precieux » (v.275), « passion » (v.275), « nations » (v.276).</note> en augmente encor plus.</l>
           </sp>
           <sp xml:id="I01-4" who="la-vieille">
             <speaker>La Vieille.</speaker>
-            <l n="9" xml:id="l9">O Ciel ! quelle <ref target="#fortune">fortune*</ref> à la nostre est pareille ?</l>
+            <l n="9" xml:id="l9">O Ciel ! quelle <ref target="#fortune">fortune</ref> à la nostre est pareille ?</l>
             <l n="10" xml:id="l10">Et que ne promet point cette rare merveille ?</l>
           </sp>
           <sp xml:id="I01-5" who="precieuse">
@@ -1311,7 +1308,7 @@
           </sp>
           <sp xml:id="I01-8" who="la-vieille">
             <speaker>La Vieille.</speaker>
-            <l n="19" xml:id="l19">Encor, sur ce sujet quel est ton <ref target="#sentiment">sentiment*</ref> ?</l>
+            <l n="19" xml:id="l19">Encor, sur ce sujet quel est ton <ref target="#sentiment">sentiment</ref> ?</l>
             <l n="20" xml:id="l20" part="I">Songe un peu.</l>
           </sp>
           <sp xml:id="I01-9" who="precieuse">
@@ -1347,7 +1344,7 @@
           </sp>
           <sp xml:id="I01-15" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="33" xml:id="l33">En effet, ce jour-là j’eus quelques <ref target="#avantage">avantages*</ref>.</l>
+            <l n="33" xml:id="l33">En effet, ce jour-là j’eus quelques <ref target="#avantage">avantages</ref>.</l>
           </sp>
           <sp xml:id="I01-16" who="la-vieille">
             <speaker>La Vieille.</speaker>
@@ -1371,14 +1368,14 @@
           <sp xml:id="I01-20" who="la-vieille">
             <speaker>La Vieille.</speaker>
             <l n="39" xml:id="l39">Toutes ces qualités ne font ni bien, ni mal,<pb n="5"/></l>
-            <l n="40" xml:id="l40">Di<note n="187" place="bottom">À propos de cette désinence, voir la note sur la présente édition.  </note> qu’il est <ref target="#genereux">genereux*</ref>, di qu’il est <ref target="#liberal">liberal*</ref>,</l>
+            <l n="40" xml:id="l40">Di<note n="187" place="bottom">À propos de cette désinence, voir la note sur la présente édition.  </note> qu’il est <ref target="#genereux">genereux</ref>, di qu’il est <ref target="#liberal">liberal</ref>,</l>
             <l n="41" xml:id="l41">C'est la vertu des Rois, et qui fait l’honeste homme,</l>
             <l n="42" xml:id="l42">De toute autre vertu l’effet est moins qu’un somme<note n="188" place="bottom"> Topos baroque (v. Calderón « y el mayor bien es pequeño; /que toda la vida es sueño, /y los sueños, sueños son. »). L'image du somme permet de comparer, par métonymie, l’effet des autres vertus à un rêve et d’en souligner le caractère éphémère par opposition à la libéralité. Le topos devient bien entendu comique dans la bouche de la Vieille.</note>,</l>
             <l n="43" xml:id="l43">A peine est-il formé qu’il meurt le plus souvent,</l>
-            <l n="44" xml:id="l44">Ce n’est qu’ombre et fumée, un apas decevant* :</l>
-            <l n="45" xml:id="l45">La <ref target="#liberal">liberalité*</ref> produit tout au contraire</l>
+            <l n="44" xml:id="l44">Ce n’est qu’ombre et fumée, un apas decevant :</l>
+            <l n="45" xml:id="l45">La <ref target="#liberal">liberalité</ref> produit tout au contraire</l>
             <l n="46" xml:id="l46">Un effet à la fois solide et necessaire,</l>
-            <l n="47" xml:id="l47">Tel que sont ces <ref target="#ducat">ducas*</ref> dont il me fit present,</l>
+            <l n="47" xml:id="l47">Tel que sont ces <ref target="#ducat">ducas</ref> dont il me fit present,</l>
             <l n="48" xml:id="l48">Joint que<note n="189" place="bottom"> « Sorte de conjonction qui veut dire <hi rend="i">outre que</hi> » (Richelet). </note> l’aspect aussi n’en est pas deplaisant<note n="190" place="bottom"> Var. : « Dont l’aspect à mes yeux, est aussi fort plaisant. » </note>.</l>
           </sp>
           <sp xml:id="I01-21" who="precieuse">
@@ -1411,7 +1408,7 @@
           </sp>
           <sp xml:id="I01-27" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="58" xml:id="l58">Que dit-elle, bon Dieu ? quel <ref target="#transport">transport*</ref> me possede ?</l>
+            <l n="58" xml:id="l58">Que dit-elle, bon Dieu ? quel <ref target="#transport">transport</ref> me possede ?</l>
           </sp>
           <sp xml:id="I01-28" who="la-vieille">
             <speaker>La Vieille.</speaker>
@@ -1424,7 +1421,7 @@
           </sp>
           <sp xml:id="I01-30" who="la-vieille">
             <speaker>La Vieille.</speaker>
-            <l n="62" xml:id="l62">Dans quelque <ref target="#etonner">étonnement*</ref> que ce discours te plonge,</l>
+            <l n="62" xml:id="l62">Dans quelque <ref target="#etonner">étonnement</ref> que ce discours te plonge,</l>
             <l n="63" xml:id="l63" part="I">Croy qu’il est veritable, et de plus...</l>
           </sp>
           <sp xml:id="I01-31" who="precieuse">
@@ -1449,7 +1446,7 @@
             <speaker>Precieuse.</speaker>
             <l n="68" xml:id="l68">Il est vray que souvent il me baisoit la main,</l>
             <l n="69" xml:id="l69">Et mesmes au raport que m’en fait ma mémoire,</l>
-            <l n="70" xml:id="l70">Les discours qu’il me tint furent tous à ma <ref target="#gloire">gloire*</ref>,</l>
+            <l n="70" xml:id="l70">Les discours qu’il me tint furent tous à ma <ref target="#gloire">gloire</ref>,</l>
             <l n="71" xml:id="l71">M'accusant d’un grand vol qu’avoit fait ma beauté.</l>
           </sp>
           <sp xml:id="I01-36" who="la-vieille">
@@ -1459,7 +1456,7 @@
           <sp xml:id="I01-37" who="precieuse">
             <speaker>Precieuse.</speaker>
             <l part="F">Et de sa liberté<note n="191" place="bottom"> Le récit de Précieuse place d’emblée sa relation à Andrés dans la tradition de l’amour courtois, où la femme détient la position de <hi rend="i">domina</hi> et ravit la liberté de l’amant, réduit au statut de <hi rend="i">seruus.</hi> </note> :</l>
-            <l n="73" xml:id="l73">Mais quoy qu’il me jurast dans sa <ref target="#cajoler">cajolerie*</ref>,<pb n="8"/></l>
+            <l n="73" xml:id="l73">Mais quoy qu’il me jurast dans sa <ref target="#cajoler">cajolerie</ref>,<pb n="8"/></l>
             <l n="74" xml:id="l74">Je crus que ce n’étoit que par galanterie.</l>
           </sp>
           <sp xml:id="I01-38" who="la-vieille">
@@ -1499,7 +1496,7 @@
           <sp xml:id="I02-5" who="le-poete">
             <speaker>Le Poete.</speaker>
             <l n="83" xml:id="l83">Doux charme de mon cœur, miracle de nos jours,</l>
-            <l n="84" xml:id="l84">Jeune source d’apas*, de graces, et d’Amours,</l>
+            <l n="84" xml:id="l84">Jeune source d’apas, de graces, et d’Amours,</l>
             <l n="85" xml:id="l85">Vôtre divine main m’enchaina dans Séville,</l>
             <l n="86" xml:id="l86">La mesme a resserré mes fers en cette ville<note n="194" place="bottom"> Var. : « Chargé des mesmes fers, je viens en cette ville, »</note>,</l>
             <l n="87" xml:id="l87">Et ce rencontre<note n="195" place="bottom"> Le substantif revêtait encore une acception masculine. Il est réutilisé au vers 1335.</note> heureux fait voir que le destin</l>
@@ -1523,10 +1520,10 @@
             <l n="93" xml:id="l93">Doy-je pas de nouveau vous rendre mes homages ?<pb n="10"/></l>
             <l n="94" xml:id="l94">Doy-je pas de mon feu retracer les images ?</l>
             <l n="95" xml:id="l95">Et bravant les effors d’un respect rigoureux,</l>
-            <l n="96" xml:id="l96">Doy-je pas <ref target="#derechef">derechef*</ref> m’avouër Amoureux ?<note n="197" place="bottom"> Var. : « Vous dire encor icy, que je suis amoureux : » </note></l>
+            <l n="96" xml:id="l96">Doy-je pas <ref target="#derechef">derechef</ref> m’avouër Amoureux ?<note n="197" place="bottom"> Var. : « Vous dire encor icy, que je suis amoureux : » </note></l>
             <l n="97" xml:id="l97">Ce discours vous déplaist, et je suis temeraire,</l>
             <l n="98" xml:id="l98">Mais qui se sent brûler ne sçauroit pas se taire,</l>
-            <l n="99" xml:id="l99">Et les <ref target="#trait">trais*</ref> de vos yeux, malgré vôtre rigueur,</l>
+            <l n="99" xml:id="l99">Et les <ref target="#trait">trais</ref> de vos yeux, malgré vôtre rigueur,</l>
             <l n="100" xml:id="l100">M'ouvrent tout à la fois et la bouche et le cœur.</l>
           </sp>
           <sp xml:id="I02-10" who="precieuse">
@@ -1536,7 +1533,7 @@
             <l n="103" xml:id="l103">Quelque aimable travail de ce noble métier<note n="199" place="bottom"> Var. : « Faites moy voir icy quelque piece choisie, / Quelque travail galant de ce noble mestier, »</note></l>
             <l n="104" xml:id="l104">Qui charge son autheur de gloire et de laurier,</l>
             <l n="105" xml:id="l105">Nous peut mieux divertir, et causer moins de blâme,</l>
-            <l n="106" xml:id="l106">Que tous ces vains discours et de <ref target="#trait">trais*</ref> et de flame<note n="200" place="bottom"> Compléments du verbe « causer » sous-entendu.</note>.</l>
+            <l n="106" xml:id="l106">Que tous ces vains discours et de <ref target="#trait">trais</ref> et de flame<note n="200" place="bottom"> Compléments du verbe « causer » sous-entendu.</note>.</l>
           </sp>
           <sp xml:id="I02-11" who="le-poete">
             <speaker>Le Poete.</speaker>
@@ -1544,7 +1541,7 @@
             <l n="108" xml:id="l108">De lire ce Sonnet où j’ai peint mon bon-heur ?</l>
           </sp>
           <sp xml:id="I02-12" who="la-vieille">
-            <speaker>La Vieille, <hi rend="i">à part avec Precieuse.</hi></speaker>
+            <speaker>La Vieille, </speaker><stage>à part avec Precieuse.</stage>
             <l n="109" xml:id="l109">Puisque cet entretien te plaist et te contente,</l>
             <l n="110" xml:id="l110">Je m’en vay cependant faire un tour dans la tante,<pb n="11"/></l>
             <l n="111" xml:id="l111">Mais si de son amour il t’ose encor parler,</l>
@@ -1606,7 +1603,7 @@
             <speaker>Le Poete.</speaker>
             <l part="F">Non :</l>
             <l n="140" xml:id="l140">Il est trop peu de gens qui méritent ce nom,</l>
-            <l n="141" xml:id="l141">Avec <ref target="#ardeur">ardeur*</ref> pourtant j’aime la Poësie,</l>
+            <l n="141" xml:id="l141">Avec <ref target="#ardeur">ardeur</ref> pourtant j’aime la Poësie,</l>
             <l n="142" xml:id="l142">Et j’en puis sans secours, passer ma fantaisie.</l>
             <l n="143" xml:id="l143">Si j’ay besoin d’une Ode, ou de quelque Sonnet,</l>
             <l n="144" xml:id="l144">Une heure en fait l’office au lit, au cabinet,</l>
@@ -1634,20 +1631,20 @@
             <l n="154" xml:id="l154">Qui n’ont aucune part à nos sacrés mysteres,</l>
             <l n="155" xml:id="l155">D'un tas de jeunes gens qui n’ont pas merité</l>
             <l n="156" xml:id="l156">De sentir ce rayon de la divinité,</l>
-            <l n="157" xml:id="l157">De ces petits esprits qui se donnent la géne*</l>
+            <l n="157" xml:id="l157">De ces petits esprits qui se donnent la géne</l>
             <l n="158" xml:id="l158">Pour treuver dans leur teste un mot qui rime à chaine,</l>
             <l n="159" xml:id="l159">Qui n’ont sceu penetrer dans ces saintes forests,</l>
             <l n="160" xml:id="l160">Où le Dieu du sçavoir découvre ses secrets,</l>
             <l n="161" xml:id="l161">Et que les doctes Soeurs<note n="211" place="bottom"> L'image des « neufs Soeurs » est plus fréquente, mais la périphrase ici n’en désigne pas moins les Muses poétiques. On la trouve un siècle plus tard chez le poète Rousseau : « Eloignez-vous, pâles censeurs / De ces retraites solitaires / Qu'habitent les neuf doctes Soeurs. » (« Ode VI sur les Divinités poétiques »).</note> ont jugé trop indignes</l>
-            <l n="162" xml:id="l162">D'honorer comme nous de leurs <ref target="#faveur">faveurs*</ref> <ref target="#insigne">insignes*</ref>,</l>
-            <l n="163" xml:id="l163">Ignorans, <ref target="#babillard">babillars*</ref>, censeurs, ambitieux,</l>
+            <l n="162" xml:id="l162">D'honorer comme nous de leurs <ref target="#faveur">faveurs</ref> <ref target="#insigne">insignes</ref>,</l>
+            <l n="163" xml:id="l163">Ignorans, <ref target="#babillard">babillars</ref>, censeurs, ambitieux,</l>
             <l n="164" xml:id="l164">Enragés de nous voir si bien avec les Dieux :</l>
             <l n="165" xml:id="l165">Ouy, ce sont ces messieurs, qui d’une humeur profane</l>
             <l n="166" xml:id="l166">Approuvent dans leur cœur ce que leur voix condane :</l>
             <l n="167" xml:id="l167">Car enfin ce bel Art, l’amour des beaux esprits,</l>
             <l n="168" xml:id="l168">Dont les honestes gens se sentent tous épris,</l>
             <l n="169" xml:id="l169">Cette chaste beauté qu’on nomme Poësie,</l>
-            <l n="170" xml:id="l170">Ne vient point, comme on croit, de nôtre <ref target="#frenesie">frenesie*</ref>,</l>
+            <l n="170" xml:id="l170">Ne vient point, comme on croit, de nôtre <ref target="#frenesie">frenesie</ref>,</l>
             <l n="171" xml:id="l171">Elle est fille du Ciel, son aimable entretien</l>
             <l n="172" xml:id="l172">Fait reverer par tout quiconque en use bien.</l>
             <l n="173" xml:id="l173">Les Rois avec plaisir goûtent sa compagnie,</l>
@@ -1685,11 +1682,11 @@
           </sp>
           <sp xml:id="I03-13" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="198" xml:id="l198">Ouy <ref target="#da">da*</ref>, c’est la raison qu’icy je vous l’expose,</l>
+            <l n="198" xml:id="l198">Ouy <ref target="#da">da</ref>, c’est la raison qu’icy je vous l’expose,</l>
             <l n="199" xml:id="l199">C'est que vous croyant Poëte à vôtre procedé,</l>
             <l n="200" xml:id="l200">Et par cette raison pas trop acommodé,</l>
             <l n="201" xml:id="l201">Voulant lire vos Vers, je crus étre charmée</l>
-            <l n="202" xml:id="l202">De voir une <ref target="#pistole">pistole*</ref> avec eux enfermée,</l>
+            <l n="202" xml:id="l202">De voir une <ref target="#pistole">pistole</ref> avec eux enfermée,</l>
             <l n="203" xml:id="l203">Je la tâtay cent fois, et j’en doutais encor,</l>
             <l n="204" xml:id="l204">Mais l’ayant fait sonner, je veis qu’elle étoit d’or,<note n="214" place="bottom"> Var. : « Mais je conus au son qu’elle estoit de bon or, »</note></l>
             <l n="205" xml:id="l205">Lors, quoy que toute seule à ce nouveau spectacle,</l>
@@ -1701,7 +1698,7 @@
           </sp>
           <sp xml:id="I03-15" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l part="F"><ref target="#souffrir">Souffrés*</ref> ma liberté,</l>
+            <l part="F"><ref target="#souffrir">Souffrés</ref> ma liberté,</l>
             <l n="208" xml:id="l208">Puisque vous n’avés rien de cette qualité.</l>
           </sp>
           <sp xml:id="I03-16" who="le-poete">
@@ -1764,19 +1761,19 @@
           <pb n="19"/>
           <head>SCENE V.</head>
           <sp xml:id="I05-1" who="dom-jean-de-carcame">
-            <speaker>DOM JEAN DE CARCAME, <hi rend="i">seul.</hi> </speaker>
+            <speaker>DOM JEAN DE CARCAME, </speaker><stage>seul.</stage>
             <l n="235" xml:id="l235">Hé bien, es-tu content puissant Maistre des Dieux<note n="222" place="bottom"> La périphrase ici désigne bien l’Amour, qui est nommé quelques vers plus loin.</note>,</l>
             <l n="236" xml:id="l236">Conessant le sujet qui m’amene en ces lieux ?</l>
             <l n="237" xml:id="l237">Ay-je enfin satisfait à ta juste colere ?</l>
             <l n="238" xml:id="l238">Et puis-je desormais esperer de te plaire ?</l>
             <l n="239" xml:id="l239">Je le confesse Amour, j’ay bravé ton pouvoir,</l>
             <l n="240" xml:id="l240">Tes effets jusqu’icy n’avoient pû m’émouvoir,</l>
-            <l n="241" xml:id="l241">J'ay devant tes sujets ta <ref target="#gloire">gloire*</ref> méprisée,</l>
+            <l n="241" xml:id="l241">J'ay devant tes sujets ta <ref target="#gloire">gloire</ref> méprisée,</l>
             <l n="242" xml:id="l242">J'ay fait de ton carquois un objet de risée,</l>
             <l n="243" xml:id="l243">J'ay renversé ton trône, abatu tes autels,</l>
             <l n="244" xml:id="l244">Je t’ay mesme tiré du rang des immortels,</l>
-            <l n="245" xml:id="l245">Et ne t’avois placé que dans la <ref target="#fantaisie">fantaisie*</ref></l>
-            <l n="246" xml:id="l246">De ceux qui sont ateints d’un peu de <ref target="#frenesie">frenesie*</ref> :</l>
+            <l n="245" xml:id="l245">Et ne t’avois placé que dans la <ref target="#fantaisie">fantaisie</ref></l>
+            <l n="246" xml:id="l246">De ceux qui sont ateints d’un peu de <ref target="#frenesie">frenesie</ref> :</l>
             <l n="247" xml:id="l247">Mais puisque je pechois par une aveugle erreur,</l>
             <l n="248" xml:id="l248">Tu devois moderer l’excés de ta fureur,</l>
             <l n="249" xml:id="l249">Et pour rendre pareil le châtiment au crime,</l>
@@ -1808,7 +1805,7 @@
             <stage>(Il tire une bourse de sa poche.)</stage>
             <l n="275" xml:id="l275">Precieux instrument des nobles passions,</l>
             <l n="276" xml:id="l276">Brillant fourier<note n="225" place="bottom"> Chose ou personne qui annonce, prépare l’arrivée de quelque chose ou l’avènement de quelqu’un. L'image est empruntée à la version de Hardy : « L'or fourier de l’amour par tout luy trouve place, » (v.49, I, 1, éd. de B. Bearez Caravaggi, Schena-Nizet). </note> d’amour de toutes nations,</l>
-            <l n="277" xml:id="l277">Favorable <ref target="#enchanteur">enchanteur*</ref> dont la force des charmes<pb n="21"/></l>
+            <l n="277" xml:id="l277">Favorable <ref target="#enchanteur">enchanteur</ref> dont la force des charmes<pb n="21"/></l>
             <l n="278" xml:id="l278">Peut des plus chastes mains faire tomber des armes,</l>
             <l n="279" xml:id="l279">Ame de l’Univers qui fais tout, qui peux tout,</l>
             <l n="280" xml:id="l280">Par qui de toute chose on peut venir à bout,</l>
@@ -1816,7 +1813,7 @@
             <l n="282" xml:id="l282">Puisqu’il n’est rien si fort que tu ne puisse rompre,</l>
             <l n="283" xml:id="l283">Qu'un Dieu mesme implora ton pouvoir souverain,</l>
             <l n="284" xml:id="l284">Et n’entra que par toy dedans la tour d’airain<note n="227" place="bottom"> Comme Hardy (I, 1), Sallebray fait allusion à Zeus prenant l’apparence d’une pluie d’or pour se présenter à Danaé, enfermée par son père dans une tour d’airain.</note>,</l>
-            <l n="285" xml:id="l285">Tu peux bien faire moins, <ref target="#second">seconde*</ref> ma licence,</l>
+            <l n="285" xml:id="l285">Tu peux bien faire moins, <ref target="#second">seconde</ref> ma licence,</l>
             <l n="286" xml:id="l286">Et fay moy triompher d’une jeune innocence.</l>
             <l n="287" xml:id="l287">La voicy, Dieux ! je tremble à son divin aspect,</l>
             <l n="288" xml:id="l288">Et je sens ce desir qui se change en respect<note n="228" place="bottom"> Dom Jean s’apprête à traiter Précieuse comme si elle était de condition noble. « Il ne faut jamais perdre le <hi rend="i">respect</hi> devant les Dames, leur manquer de <hi rend="i">respect.</hi> » écrit Furetière.</note>.<note n="229" place="bottom"> Var. : les vers 267-290 sont supprimés dans l’édition de 1671 et remplacés par les vers suivants : « Du moins cruel amour adoucis ta vengeance, / Sans me laisser languir dans mon extravagance. / La voicy : par quel sort faut-il que son aspect / Dans ce honteux estat donne tant de respect. »</note></l>
@@ -1826,7 +1823,7 @@
           <head>SCENE VI.</head>
           <stage>LA VIEILLE, PRECIEUSE, DOM JEAN DE CARCAME.</stage>
           <sp xml:id="I06-1" who="la-vieille">
-            <speaker>LA VIEILLE, <hi rend="i">voyant Precieuse qui cherche quelque chose.</hi></speaker>
+            <speaker>LA VIEILLE, </speaker><stage>voyant Precieuse qui cherche quelque chose.</stage>
             <l n="289" xml:id="l289" part="I">Qu'est-ce donc ?</l>
           </sp>
           <sp xml:id="I06-2" who="precieuse">
@@ -1834,7 +1831,7 @@
             <l part="M">Ce n’est rien.<pb n="22"/></l>
           </sp>
           <sp xml:id="I06-3" who="dom-jean-de-carcame">
-            <speaker>DOM JEAN, <hi rend="i">seul.</hi> </speaker>
+            <speaker>DOM JEAN, </speaker><stage>seul.</stage>
             <l part="F">Amour soutien ta cause.</l>
           </sp>
           <sp xml:id="I06-4" who="la-vieille">
@@ -1856,11 +1853,11 @@
             <l n="293" xml:id="l293" part="I">Etes-vous satisfaite ?</l>
           </sp>
           <sp xml:id="I06-8" who="dom-jean-de-carcame">
-            <speaker>Dom Jean,  <hi rend="i">à part.</hi></speaker>
+            <speaker>Dom Jean,  </speaker><stage>à part.</stage>
             <l part="F">Ha que cet Astre brille !</l>
           </sp>
           <sp xml:id="I06-9" who="precieuse">
-            <speaker>Precieuse, <hi rend="i">ayant apperceu son papier.</hi></speaker>
+            <speaker>Precieuse, </speaker><stage>ayant apperceu son papier.</stage>
             <l n="294" xml:id="l294" part="I">Le voylà.</l>
           </sp>
           <sp xml:id="I06-10" who="la-vieille">
@@ -1906,24 +1903,24 @@
           </sp>
           <sp xml:id="I06-19" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="302" xml:id="l302">Voyons dans vôtre main, qui ce discours <ref target="#cajoler">cajole*</ref>.</l>
+            <l n="302" xml:id="l302">Voyons dans vôtre main, qui ce discours <ref target="#cajoler">cajole</ref>.</l>
           </sp>
           <sp xml:id="I06-20" who="la-vieille">
             <speaker>La Vieille.</speaker>
             <l n="303" xml:id="l303">Mon bon Seigneur sur tout, mettés la Croix dedans,</l>
-            <l n="304" xml:id="l304">Celles d’or marquent mieux les heureux <ref target="#accident">accidens*</ref>.</l>
+            <l n="304" xml:id="l304">Celles d’or marquent mieux les heureux <ref target="#accident">accidens</ref>.</l>
           </sp>
           <sp xml:id="I06-21" who="precieuse">
             <speaker>Precieuse.</speaker>
             <l n="305" xml:id="l305">Vous étes né sous les planettes</l>
             <l n="306" xml:id="l306">D'Amour et de Valeur, de Venus et de Mars,</l>
-            <l n="307" xml:id="l307">Vôtre honneur court quelques <ref target="#hasard">hazars*</ref></l>
+            <l n="307" xml:id="l307">Vôtre honneur court quelques <ref target="#hasard">hazars</ref></l>
             <l n="308" xml:id="l308">Dans l’entreprise que vous faites.</l>
           </sp>
           <sp xml:id="I06-22" who="dom-jean-de-carcame">
             <speaker>Dom Jean.</speaker>
             <l n="325" xml:id="l325">Ha ! ne me flate plus de cette erreur comune,</l>
-            <l n="326" xml:id="l326">De toy seulle depend l’une et l’autre <ref target="#fortune">fortune*</ref>,</l>
+            <l n="326" xml:id="l326">De toy seulle depend l’une et l’autre <ref target="#fortune">fortune</ref>,</l>
             <l n="327" xml:id="l327">Et mon sort si tu veux, soit doux, soit inhumain,</l>
             <l n="328" xml:id="l328">Se lira dans tes yeux beaucoup mieux qu’en ma main.</l>
             <l n="329" xml:id="l329">Ne reconois-tu pas ce Dom Jean de Carcame ?</l>
@@ -1962,7 +1959,7 @@
           </sp>
           <sp xml:id="I06-28" who="dom-jean-de-carcame">
             <speaker>Dom Jean.</speaker>
-            <l n="343" xml:id="l343">Si tu veux approuver ma constante <ref target="#amitie">amitié*</ref>.</l>
+            <l n="343" xml:id="l343">Si tu veux approuver ma constante <ref target="#amitie">amitié</ref>.</l>
           </sp>
           <sp xml:id="I06-29" who="la-vieille">
             <speaker>La Vieille.</speaker>
@@ -1970,7 +1967,7 @@
           </sp>
           <sp xml:id="I06-30" who="dom-jean-de-carcame">
             <speaker>Dom Jean.</speaker>
-            <l n="345" xml:id="l345">Ouy, si quelque <ref target="#faveur">faveur*</ref> répond à mon envie,<note n="238" place="bottom"> Var. : « Si de quelques faveurs vous flatez mon envie, » </note></l>
+            <l n="345" xml:id="l345">Ouy, si quelque <ref target="#faveur">faveur</ref> répond à mon envie,<note n="238" place="bottom"> Var. : « Si de quelques faveurs vous flatez mon envie, » </note></l>
             <l n="346" xml:id="l346">Sans mener plus long-temps cette honteuse vie,<pb n="27"/></l>
             <l n="347" xml:id="l347">Je vous mets toutes deux au faiste du bon-heur,</l>
             <l n="348" xml:id="l348">Et je vous fay passer de l’opprobre à l’honneur.</l>
@@ -1980,7 +1977,7 @@
             <l n="349" xml:id="l349">Vous n’étes pas le seul de qui l’ame abusée</l>
             <l n="350" xml:id="l350">A jugé mon honneur une conqueste aisée,</l>
             <l n="351" xml:id="l351">Plusieurs l’ont ataqué, tous ont été confus</l>
-            <l n="352" xml:id="l352">De <ref target="#souffrir">souffrir*</ref> comme vous la honte du refus.</l>
+            <l n="352" xml:id="l352">De <ref target="#souffrir">souffrir</ref> comme vous la honte du refus.</l>
             <l n="353" xml:id="l353">Consolés-vous Monsieur, vous avés des semblables,</l>
             <l n="354" xml:id="l354">C'est le soulagement de tous les miserables.</l>
             <l n="355" xml:id="l355">Le métier que je fays, et mes gayes<note n="239" place="bottom"> L'adjectif compte pour deux syllabes. </note> humeurs,</l>
@@ -2030,7 +2027,7 @@
           </sp>
           <sp xml:id="I06-36" who="dom-jean-de-carcame">
             <speaker>Dom Jean.</speaker>
-            <l n="386" xml:id="l386">Amour dans le <ref target="#besoin">besoin*</ref> sçait faire des miracles.</l>
+            <l n="386" xml:id="l386">Amour dans le <ref target="#besoin">besoin</ref> sçait faire des miracles.</l>
           </sp>
           <sp xml:id="I06-37" who="la-vieille">
             <speaker>La Vieille.</speaker>
@@ -2040,7 +2037,7 @@
             <speaker>Precieuse.</speaker>
             <l part="F">Sçachés que parmi nous</l>
             <l n="388" xml:id="l388">La fille et son amant qui s’offre pour époux</l>
-            <l n="389" xml:id="l389">Eprouvent leurs <ref target="#humeur">humeurs*</ref><note n="248" place="bottom"> Sens hippocratique ici – « Humeur, se dit en morale des passions qui s’émeuvent en nous suivant la disposition ou l’agitation de ces quatre <hi rend="i">humeurs</hi> » (Furetière).</note> le cours de deux années,</l>
+            <l n="389" xml:id="l389">Eprouvent leurs <ref target="#humeur">humeurs</ref><note n="248" place="bottom"> Sens hippocratique ici – « Humeur, se dit en morale des passions qui s’émeuvent en nous suivant la disposition ou l’agitation de ces quatre <hi rend="i">humeurs</hi> » (Furetière).</note> le cours de deux années,</l>
             <l n="390" xml:id="l390">Avant que de pouvoir joindre leurs destinées.</l>
             <l n="391" xml:id="l391">A ces conditions engager vôtre foy,</l>
             <l n="392" xml:id="l392">Subir à mon sujet la rigueur de la loy,</l>
@@ -2049,16 +2046,16 @@
           </sp>
           <sp xml:id="I06-39" who="dom-jean-de-carcame">
             <speaker>Dom Jean.</speaker>
-            <l n="395" xml:id="l395">Douter de ma <ref target="#constance">constance*</ref>, ha ! mon cœur conoy mieux<note n="249" place="bottom"> Var. : « Moy je pourais changer ! que ne conois-tu mieux »</note></l>
+            <l n="395" xml:id="l395">Douter de ma <ref target="#constance">constance</ref>, ha ! mon cœur conoy mieux<note n="249" place="bottom"> Var. : « Moy je pourais changer ! que ne conois-tu mieux »</note></l>
             <l n="396" xml:id="l396">Le pouvoir de ma flame, et celuy de tes yeux.</l>
             <l n="397" xml:id="l397">Propose si tu veux à mon ame asseurée</l>
             <l n="398" xml:id="l398">Les perils encourus pour la Toison dorée<note n="250" place="bottom"> Référence à la quête de la Toison d’Or par Jason. </note>,<note n="251" place="bottom"> Var. : « Ose encor proposer au sort où je m’apreste / D'une autre Toison d’or la penible conqueste. »</note></l>
-            <l n="399" xml:id="l399">Rien ne peut <ref target="#etonner">étonner*</ref> mon amour courageux,</l>
-            <l n="400" xml:id="l400">Tout m’est doux, tout m’est beau, tout m’est <ref target="#avantage">avantageux*</ref>:</l>
+            <l n="399" xml:id="l399">Rien ne peut <ref target="#etonner">étonner</ref> mon amour courageux,</l>
+            <l n="400" xml:id="l400">Tout m’est doux, tout m’est beau, tout m’est <ref target="#avantage">avantageux</ref>:</l>
             <l n="401" xml:id="l401">Bref le Ciel m’est témoin qu’avec ma Precieuse<pb n="30"/></l>
             <l n="402" xml:id="l402">Toute condition me sera glorieuse,</l>
             <l n="403" xml:id="l403">Et je triompheray de toutes ses rigueurs,</l>
-            <l n="404" xml:id="l404">Pourveu qu’un chaste <ref target="#hymen">hymen*</ref> unisse un jour nos cœurs.</l>
+            <l n="404" xml:id="l404">Pourveu qu’un chaste <ref target="#hymen">hymen</ref> unisse un jour nos cœurs.</l>
           </sp>
           <sp xml:id="I06-40" who="la-vieille">
             <speaker>La Vieille.</speaker>
@@ -2121,7 +2118,7 @@
             <l n="419" xml:id="l419" part="I">Faites.</l>
           </sp>
           <sp xml:id="I06-53" who="dom-jean-de-carcame">
-            <speaker>Dom Jean, <hi rend="i">lui presentant la bourse.</hi></speaker>
+            <speaker>Dom Jean, </speaker><stage>lui presentant la bourse.</stage>
             <l part="F">En m’atendant garde toujours cecy.</l>
           </sp>
           <sp xml:id="I06-54" who="precieuse">
@@ -2155,7 +2152,7 @@
           <stage>LA VIEILLE, PRECIEUSE.</stage>
           <sp xml:id="I07-1" who="la-vieille">
             <speaker>La Vieille.</speaker>
-            <l n="424" xml:id="l424">Mes leçons et mes <ref target="#soin">soins*</ref> sont donc ainsi trahis.</l>
+            <l n="424" xml:id="l424">Mes leçons et mes <ref target="#soin">soins</ref> sont donc ainsi trahis.</l>
           </sp>
           <sp xml:id="I07-2" who="precieuse">
             <speaker>Precieuse.</speaker>
@@ -2172,7 +2169,7 @@
             <l n="432" xml:id="l432">Est prest de succomber sous la rigueur des lois :</l>
             <l n="433" xml:id="l433">Ces rayons exposés éblouïssent la veuë,</l>
             <l n="434" xml:id="l434">Dissipent du malheur l’épouventable nuë<note n="256" place="bottom"> Pour « nuée ». </note>,</l>
-            <l n="435" xml:id="l435">Eclairent à<note n="257" place="bottom"> Le verbe admettait la construction avec la préposition « à » (v. A. Haase, §125, A).</note> signer nôtre <ref target="#elargissement">élargissement*</ref>,</l>
+            <l n="435" xml:id="l435">Eclairent à<note n="257" place="bottom"> Le verbe admettait la construction avec la préposition « à » (v. A. Haase, §125, A).</note> signer nôtre <ref target="#elargissement">élargissement</ref>,</l>
             <l n="436" xml:id="l436">Et nous font retirer des prisons prontement,<note n="258" place="bottom"> Vers 435-438 supprimés dans l’édition de 1671. </note></l>
             <l n="437" xml:id="l437">Apprens qu’une clef d’or ouvre toutes serrures.</l>
           </sp>
@@ -2184,7 +2181,7 @@
           <sp xml:id="I07-5" who="la-vieille">
             <speaker>La Vieille.</speaker>
             <l n="440" xml:id="l440">Passe pour cette fois, mais n’y retourne plus.</l>
-            <p rend="center">Fin du premier Acte.</p>
+            <trailer rend="center">Fin du premier Acte.</trailer>
           </sp>
         </div>
       </div>
@@ -2195,7 +2192,7 @@
         <div type="scene" xml:id="II01">
           <head>SCENE PREMIERE</head>
           <sp xml:id="II01-1" who="dom-jean-de-carcame">
-            <speaker>Dom Jean, <hi rend="i">seul.</hi></speaker>
+            <speaker>Dom Jean, </speaker><stage>seul.</stage>
             <l n="441" xml:id="l441">A peine mon vaisseau s’éloigne du rivage,</l>
             <l n="442" xml:id="l442">Qu'un Neptune jaloux veut exciter l’orage,</l>
             <l n="443" xml:id="l443">A peine dans la lice<note n="259" place="bottom"> « Champs clos, carrière où combattaient les anciens Chevaliers, soit à outrance, soit par galanterie dans les joutes et tournois » (Furetière)</note> ay-je fait quelques pas,</l>
@@ -2217,7 +2214,7 @@
             <l n="459" xml:id="l459">En vain vous combatés ce vainqueur que je sers,</l>
             <l n="460" xml:id="l460">Qui me donte à<note n="263" place="bottom"> La préposition marque un rapport de causalité ici. </note> ma gloire, et m’honore en ses fers.</l>
             <l n="461" xml:id="l461">Quel noble sentiment, partisan de ma flame,</l>
-            <l n="462" xml:id="l462">Me fait voir <ref target="#gloire">glorieux*</ref> ce que je crûs <ref target="#infame">infame*</ref> ?</l>
+            <l n="462" xml:id="l462">Me fait voir <ref target="#gloire">glorieux</ref> ce que je crûs <ref target="#infame">infame</ref> ?</l>
             <l n="463" xml:id="l463">Et quels nouveaux rayons ont si-tost dissipé</l>
             <l n="464" xml:id="l464">Les vapeurs dont mon cœur étoit envelopé.</l>
             <l n="465" xml:id="l465">Je sens qu’il est plus calme, et mon ame éclairée</l>
@@ -2247,12 +2244,12 @@
             <speaker>Precieuse.</speaker>
             <l part="F">Hé bien mon Gentilhome,</l>
             <l n="471" xml:id="l471">Avés-vous medité dessus<note n="266" place="bottom"> Préposition encore fréquemment utilisée ainsi. Elle équivaut à « sur ». </note> votre dessein ?<note n="267" place="bottom"> Var. : « N'avez-vous point changé vostre étrange dessein, »</note></l>
-            <l n="472" xml:id="l472">Et sentés-vous encor mesme <ref target="#ardeur">ardeur*</ref> dans le sein ?</l>
+            <l n="472" xml:id="l472">Et sentés-vous encor mesme <ref target="#ardeur">ardeur</ref> dans le sein ?</l>
             <l n="473" xml:id="l473">Etes-vous resolu d’entrer en nôtre bande ?</l>
           </sp>
           <sp xml:id="II02-5" who="dom-jean-de-carcame">
             <speaker>Dom Jean.</speaker>
-            <l n="474" xml:id="l474">Mais veut-on m’honorer d’une <ref target="#faveur">faveur*</ref> si grande ?</l>
+            <l n="474" xml:id="l474">Mais veut-on m’honorer d’une <ref target="#faveur">faveur</ref> si grande ?</l>
           </sp>
           <sp xml:id="II02-6" who="precieuse">
             <speaker>Precieuse.</speaker>
@@ -2267,7 +2264,7 @@
             <l n="479" xml:id="l479">Le dessein que j’ay fait de vivre sous tes lois,</l>
             <l n="480" xml:id="l480">Doit m’élever plus haut que le trône des Rois,</l>
             <l n="481" xml:id="l481">Juge si ma fortune en si beau lieu placée,</l>
-            <l n="482" xml:id="l482">Me peut faire <ref target="#dedire">dédire*</ref> et changer de pensée.</l>
+            <l n="482" xml:id="l482">Me peut faire <ref target="#dedire">dédire</ref> et changer de pensée.</l>
           </sp>
           <sp xml:id="II02-8" who="precieuse">
             <speaker>Precieuse.</speaker>
@@ -2281,15 +2278,15 @@
             <l n="487" xml:id="l487">J'atens de luy beaucoup en ce qu’il entreprend,</l>
             <l n="488" xml:id="l488">Et sa mine promet quelque chose de grand.</l>
             <l n="489" xml:id="l489">Tu sois<note n="271" place="bottom"> Elision de la particule « que » : nous avons affaire un subjonctif de souhait.</note> le bien venu, cher soldat de Mercure,<note n="272" place="bottom"> L'alinéa signale un infléchissement dans le discours : en effet, le Capitaine s’adresse désormais directement à Dom Jean et passe de la description du cavalier à son accueil au sein des Egyptiens.</note></l>
-            <l n="490" xml:id="l490">Aprens de ce nom seul quelle est ton <ref target="#aventure">avanture*</ref>.</l>
-            <l n="491" xml:id="l491">Le Ciel de ses faveurs fut ainsi <ref target="#liberal">liberal*</ref>,</l>
+            <l n="490" xml:id="l490">Aprens de ce nom seul quelle est ton <ref target="#aventure">avanture</ref>.</l>
+            <l n="491" xml:id="l491">Le Ciel de ses faveurs fut ainsi <ref target="#liberal">liberal</ref>,</l>
             <l n="492" xml:id="l492">Donnant à nôtre armée un Dieu pour General<note n="273" place="bottom"> Rappelons que Mercure est, entre autres, le dieu des voleurs. </note>,<pb n="38"/></l>
             <l n="493" xml:id="l493">Rien n’échape à nos mains avec ses artifices,</l>
-            <l n="494" xml:id="l494">Et nous <ref target="#hasard">hazardons*</ref> tout sous ses divins auspices,</l>
+            <l n="494" xml:id="l494">Et nous <ref target="#hasard">hazardons</ref> tout sous ses divins auspices,</l>
             <l n="495" xml:id="l495">Cet avertissement doit déjà t’animer.</l>
           </sp>
           <sp xml:id="II02-10" who="dom-jean-de-carcame">
-            <speaker>DOM JEAN, <hi rend="i">bas.</hi></speaker>
+            <speaker>DOM JEAN, </speaker><stage>bas.</stage>
             <l n="496" xml:id="l496" part="I">Le glorieux motif !</l>
           </sp>
           <sp xml:id="II02-11" who="le-capitaine">
@@ -2298,7 +2295,7 @@
             <l n="497" xml:id="l497">Dans la profession que tu veux entreprendre,</l>
             <l n="498" xml:id="l498">Observe bien nos lois, que je te vais apprendre.</l>
             <l n="499" xml:id="l499">Eloigne en premier lieu ce fantôme d’honneur,</l>
-            <l n="500" xml:id="l500">Si tu veux réussir avec quelque <ref target="#bonheur">bon-heur*</ref>,</l>
+            <l n="500" xml:id="l500">Si tu veux réussir avec quelque <ref target="#bonheur">bon-heur</ref>,</l>
             <l n="501" xml:id="l501">C'est un fâcheux demon<note n="274" place="bottom"> Voir la note 3.</note> jaloux<note n="275" place="bottom"> « Se dit aussi à l’égard de quelques autres passions, et de ceux qui possèdent une chose qu’ils craignent de perdre. (…) un Prince est <hi rend="i">jaloux</hi> de son autorité. » (Furetière). Comprendre : « c’est un démon jaloux qu’il faut ».</note> de nôtre adresse,</l>
             <l n="502" xml:id="l502">Qui rafine<note n="276" place="bottom"> « Subtiliser en faisant des recherches, des découvertes nouvelles. <hi rend="i">Il a bien raffiné sur cette science. il raffine sur tout.</hi> » (Ac.). Comprendre donc ici « qui cherche de tout ». </note> sur tout, et de tout s’interesse,</l>
             <l n="503" xml:id="l503">Dont les tristes conseils, et les severes lois,</l>
@@ -2316,22 +2313,22 @@
           <sp xml:id="II02-13" who="le-capitaine">
             <speaker>Le Capitaine.</speaker>
             <l n="511" xml:id="l511">Nous cherchons les combas dont la bourse est le prix,<pb n="39"/></l>
-            <l n="512" xml:id="l512">Où la <ref target="#gloire">gloire*</ref> consiste à n’étre point surpris,</l>
+            <l n="512" xml:id="l512">Où la <ref target="#gloire">gloire</ref> consiste à n’étre point surpris,</l>
             <l n="513" xml:id="l513">Où la subtilité l’emporte sur la force.</l>
-            <l n="514" xml:id="l514">Là, l’espoir du butin nous est bien quelque <ref target="#amorce">amorce*</ref>,</l>
+            <l n="514" xml:id="l514">Là, l’espoir du butin nous est bien quelque <ref target="#amorce">amorce</ref>,</l>
             <l n="515" xml:id="l515">Le gain donne un plaisir, mais il s’en faut beaucoup</l>
             <l n="516" xml:id="l516">Qu'il égale celuy d’avoir fait un beau coup,</l>
-            <l n="517" xml:id="l517">Eprouve cette joye, et quoy que tu <ref target="#hasard">hazardes*</ref>,</l>
+            <l n="517" xml:id="l517">Eprouve cette joye, et quoy que tu <ref target="#hasard">hazardes</ref>,</l>
             <l n="518" xml:id="l518">Songe qu’il faut duper qui se tient sur ses gardes,</l>
             <l n="519" xml:id="l519">Endormir de discours ceux que nous réveillons,</l>
             <l n="520" xml:id="l520">Et parétre en repos lors que nous travaillons,</l>
             <l n="521" xml:id="l521">Comme il faut plus d’esprit, nôtre ame est plus ravie</l>
-            <l n="522" xml:id="l522">Quand un <ref target="#heureux">heureux*</ref> effet succede à son envie.</l>
+            <l n="522" xml:id="l522">Quand un <ref target="#heureux">heureux</ref> effet succede à son envie.</l>
             <l n="523" xml:id="l523">Etre prompt, avisé, hardi, subtil, adroit,</l>
             <l n="524" xml:id="l524">Tirer sans qu’on le sente une bague du doit,</l>
             <l n="525" xml:id="l525">Dénouër un colier, fouïller dans une poche,</l>
             <l n="526" xml:id="l526">Prendre quoy que ce soit à qui que l’on approche,</l>
-            <l n="527" xml:id="l527">Afiner<note n="279" place="bottom"> Comprendre : « tromper ». Le verbe « se dit aussi figurément en Morale des niais, qu’on rend plus fins en leur faisant quelque tromperie. » (Furetière).</note> le plus <ref target="#fin">fin*</ref>, et le moins empéché<note n="280" place="bottom"> Comprendre : « le moins embarrassé », soit le plus adroit. </note>,</l>
+            <l n="527" xml:id="l527">Afiner<note n="279" place="bottom"> Comprendre : « tromper ». Le verbe « se dit aussi figurément en Morale des niais, qu’on rend plus fins en leur faisant quelque tromperie. » (Furetière).</note> le plus <ref target="#fin">fin</ref>, et le moins empéché<note n="280" place="bottom"> Comprendre : « le moins embarrassé », soit le plus adroit. </note>,</l>
             <l n="528" xml:id="l528">Escamoter par tout, dans le Temple, au marché,</l>
             <l n="529" xml:id="l529">Relever ce qui tombe, et serrer ce qui traine,</l>
             <l n="530" xml:id="l530">Tout nous duit<note n="281" place="bottom"> « Etre propre à quelqu’un, l’accommoder. » (Furetière). Comprendre « tout nous convient ». L'expression est déjà assez vieillie à l’époque. </note>, tout nous plaist, tout est bon, quoy qu’on prene,</l>
@@ -2341,12 +2338,12 @@
             <l n="534" xml:id="l534">Luy déguiser son bien jusqu’à le méconetre,</l>
             <l n="535" xml:id="l535">Faire la guerre à l’oeil, que rien ne soit perdu<note n="282" place="bottom"> Suite d’images apologétiques de la tromperie : il faut s’approprier les biens des autres au point que le dupé ne puisse pas même s’en rendre compte, et ne rater aucune occasion de le faire.</note>,</l>
             <l n="536" xml:id="l536">Bref, ne livrer jamais ce que l’on a vendu,</l>
-            <l n="537" xml:id="l537">C'est à quoy nôtre esprit applique son étude*,</l>
-            <l n="538" xml:id="l538"><ref target="#second">Secondé*</ref> de nos mains et de leur prontitude.</l>
+            <l n="537" xml:id="l537">C'est à quoy nôtre esprit applique son étude,</l>
+            <l n="538" xml:id="l538"><ref target="#second">Secondé</ref> de nos mains et de leur prontitude.</l>
           </sp>
           <sp xml:id="II02-14" who="dom-jean-de-carcame">
             <speaker>Dom Jean.</speaker>
-            <l n="539" xml:id="l539">Le royal passe-temps ! quel <ref target="#divertir">divertissement*</ref> !</l>
+            <l n="539" xml:id="l539">Le royal passe-temps ! quel <ref target="#divertir">divertissement</ref> !</l>
             <l n="540" xml:id="l540">Et que jusques icy le métier est charmant !</l>
           </sp>
           <sp xml:id="II02-15" who="le-capitaine">
@@ -2355,7 +2352,7 @@
             <l n="542" xml:id="l542">Pour l’ordre du carcan<note n="284" place="bottom"> Forme de supplice public infligé aux malfaiteurs. </note>, le fouët ou les galeres,</l>
             <l n="543" xml:id="l543">Pour<note n="285" place="bottom"> Signifie « à cause de » ici. </note> quelque trait de corde<note n="286" place="bottom"> Dans une pratique de torture appelée la « question », « on appelle trait de corde l’effort que l’on fait en la bandant pour augmenter la douleur du patient. » (Ac.). Le Capitaine pourrait également faire référence à la pendaison.  </note>, ou ces petits afrons</l>
             <l n="544" xml:id="l544">Dont on punit icy les plus fameux larrons :</l>
-            <l n="545" xml:id="l545">Que pas un de ces maux n’ébranle ta <ref target="#constance">constance*</ref>,</l>
+            <l n="545" xml:id="l545">Que pas un de ces maux n’ébranle ta <ref target="#constance">constance</ref>,</l>
             <l n="546" xml:id="l546">Et si ton mauvais sort te fait surprendre en France,</l>
             <l n="547" xml:id="l547">Comme un present du Roy, reçoy la fleur de Lys<note n="287" place="bottom"> Le Capitaine fait allusion au marquage au fer qui incrustait la forme d’une fleur de lys sur la peau du criminel condamné.</note>,</l>
             <l n="548" xml:id="l548">Par ces marques d’honneur nous somes ennoblis,</l>
@@ -2365,11 +2362,11 @@
             <l n="552" xml:id="l552">Il subit châtiment, non pour ce qu’il a pris,<pb n="F, 41"/></l>
             <l n="553" xml:id="l553">Mais pour étre si sot de s’étre laissé prendre.</l>
             <l n="554" xml:id="l554">Qui ne sçait son métier doit tâcher de l’apprendre,</l>
-            <l n="555" xml:id="l555">Cela le <ref target="#subtiliser">subtilise*</ref> en autre occasion,</l>
+            <l n="555" xml:id="l555">Cela le <ref target="#subtiliser">subtilise</ref> en autre occasion,</l>
             <l n="556" xml:id="l556">Et le rend bien plus prompt à l’execution.</l>
           </sp>
           <sp xml:id="II02-16" who="dom-jean-de-carcame">
-            <speaker>Dom Jean, <hi rend="i">bas.</hi></speaker>
+            <speaker>Dom Jean, </speaker><stage>bas.</stage>
             <l n="557" xml:id="l557">Qu'on prepare mon ame à d’agreables choses.</l>
           </sp>
           <sp xml:id="II02-17" who="le-capitaine">
@@ -2380,7 +2377,7 @@
             <l n="561" xml:id="l561">Nous chassons dans les bois et dessus les montagnes,</l>
             <l n="562" xml:id="l562">Nous jouissons des biens des plus riches campagnes,</l>
             <l n="563" xml:id="l563">La terre à nos desirs offre tout avec chois,</l>
-            <l n="564" xml:id="l564">Les forests au <ref target="#besoin">besoin*</ref> nous presentent du bois,</l>
+            <l n="564" xml:id="l564">Les forests au <ref target="#besoin">besoin</ref> nous presentent du bois,</l>
             <l n="565" xml:id="l565">Les fontaines de l’eau, les côteaux de l’ombrage,</l>
             <l n="566" xml:id="l566">Les rochers un abri quand il fait quelque orage,</l>
             <l n="567" xml:id="l567">Les vignes des raisins, les étangs des poissons,</l>
@@ -2408,7 +2405,7 @@
             <l n="583" xml:id="l583">Ce cuir<note n="289" place="bottom"> Le Capitaine parle de leur propre robustesse. </note> impenetrable aux rigueurs des saisons</l>
             <l n="584" xml:id="l584">Nous fait braver le Ciel dans ces febles maisons,</l>
             <l n="585" xml:id="l585">Les tonerres grondans sont pour nous des musiques,</l>
-            <l n="586" xml:id="l586">Les vens impetueux des <ref target="#zephyr">zephirs*</ref> pacifiques,</l>
+            <l n="586" xml:id="l586">Les vens impetueux des <ref target="#zephyr">zephirs</ref> pacifiques,</l>
             <l n="587" xml:id="l587">Les éclairs des flambeaux, la pluye un bain charmant,</l>
             <l n="588" xml:id="l588">Et les neges enfin un rafraichissement :<pb n="43"/></l>
             <l n="589" xml:id="l589">Ainsi toujours contens nous passons nôtre vie</l>
@@ -2421,7 +2418,7 @@
           </sp>
           <sp xml:id="II02-21" who="le-capitaine">
             <speaker>Le Capitaine.</speaker>
-            <l n="593" xml:id="l593">Au reste, tu peux prendre en l’<ref target="#ardeur">ardeur*</ref> qui t’enflame</l>
+            <l n="593" xml:id="l593">Au reste, tu peux prendre en l’<ref target="#ardeur">ardeur</ref> qui t’enflame</l>
             <l n="594" xml:id="l594">Cette jeune beauté pour maitresse ou pour femme.</l>
           </sp>
           <sp xml:id="II02-22" who="precieuse">
@@ -2450,7 +2447,7 @@
           <sp xml:id="II02-24" who="dom-jean-de-carcame">
             <speaker>Dom Jean.</speaker>
             <l part="F">Je te suis donc suspect ?</l>
-            <l n="612" xml:id="l612">Quoy dans beaucoup d’amour crains-tu peu de <ref target="#respect">respect*</ref> ?</l>
+            <l n="612" xml:id="l612">Quoy dans beaucoup d’amour crains-tu peu de <ref target="#respect">respect</ref> ?</l>
             <l n="613" xml:id="l613">Non, non, engage encor mes flames amoureuses</l>
             <l n="614" xml:id="l614">A des conditions qui soient plus rigoureuses,</l>
             <l n="615" xml:id="l615">Mon cœur est une cire où tu ne peux imprimer</l>
@@ -2482,8 +2479,8 @@
           </sp>
           <sp xml:id="II02-28" who="dom-jean-de-carcame">
             <speaker>Dom Jean.</speaker>
-            <l n="631" xml:id="l631"><ref target="#souffrir">Souffrés*</ref> que dans ce temps je n’en fasse pas un,</l>
-            <l n="632" xml:id="l632">Ces quatre cens <ref target="#ducat">ducas*</ref> départis au comun<note n="293" place="bottom"> Comprendre : « partagés entre tous ». Dom Jean prévoit une sorte de gage pour le cas où il échouerait à commettre au moins un vol.</note></l>
+            <l n="631" xml:id="l631"><ref target="#souffrir">Souffrés</ref> que dans ce temps je n’en fasse pas un,</l>
+            <l n="632" xml:id="l632">Ces quatre cens <ref target="#ducat">ducas</ref> départis au comun<note n="293" place="bottom"> Comprendre : « partagés entre tous ». Dom Jean prévoit une sorte de gage pour le cas où il échouerait à commettre au moins un vol.</note></l>
             <l n="633" xml:id="l633">Supleront au defaut de cette main oisive,</l>
             <l n="634" xml:id="l634">Prenés-les pour ma part du bien dont je vous prive, 635</l>
             <l n="635" xml:id="l635">Apres qu’on laisse faire à mes secrets effors,</l>
@@ -2492,7 +2489,7 @@
           <sp xml:id="II02-29" who="le-capitaine">
             <speaker>Le Capitaine.</speaker>
             <l n="637" xml:id="l637">Ta generosité n’eut jamais son égale,</l>
-            <l n="638" xml:id="l638">Ouy, ces riches effets de ta main <ref target="#liberal">liberale*</ref>,</l>
+            <l n="638" xml:id="l638">Ouy, ces riches effets de ta main <ref target="#liberal">liberale</ref>,</l>
             <l n="639" xml:id="l639">Font resoudre la troupe à quoy que tu voudras,</l>
             <l n="640" xml:id="l640">Dispose de nos cœurs ainsi que de nos bras.</l>
             <l n="641" xml:id="l641">Il reste maintenant à prendre un nom de guerre<pb n="46"/></l>
@@ -2504,7 +2501,7 @@
           <sp xml:id="II02-30" who="dom-jean-de-carcame">
             <speaker>Dom Jean.</speaker>
             <l n="646" xml:id="l646">Je le conserveray tout le temps de ma vie,</l>
-            <l n="647" xml:id="l647">Andrés, ha ! que ce nom me semble <ref target="#gloire">glorieux*</ref>,</l>
+            <l n="647" xml:id="l647">Andrés, ha ! que ce nom me semble <ref target="#gloire">glorieux</ref>,</l>
             <l n="648" xml:id="l648">Puisqu’il m’est imposé pour servir ces beaux yeux !</l>
           </sp>
           <sp xml:id="II02-31" who="le-capitaine">
@@ -2515,21 +2512,21 @@
             <l n="652" xml:id="l652">Et faisons mille vœux pour ses contentemens.</l>
           </sp>
           <sp xml:id="II02-32" who="egyptiens">
-            <speaker>Les Egiptiens<hi rend="i">chantent en musique ces quatre Vers.</hi></speaker>
+            <speaker>Les Egiptiens</speaker><stage>chantent en musique ces quatre Vers.</stage>
             <l n="653" xml:id="l653">Vive le noble Andrés, vive la Precieuse</l>
             <l n="654" xml:id="l654">D'une vie à leur gré la plus delicieuse,<note n="294" place="bottom"> Var. : « Que le sort en tous lieux rende leur vie heureuse, »</note></l>
-            <l n="655" xml:id="l655">Qu'<ref target="#hymen">Hymen*</ref> joigne bien-tost ce beau couple d’Amans,</l>
-            <l n="656" xml:id="l656">Et que rien ne s’oppose à leurs embrassemens*.</l>
+            <l n="655" xml:id="l655">Qu'<ref target="#hymen">Hymen</ref> joigne bien-tost ce beau couple d’Amans,</l>
+            <l n="656" xml:id="l656">Et que rien ne s’oppose à leurs embrassemens.</l>
           </sp>
           <sp xml:id="II02-33" who="le-capitaine">
             <speaker>Le Capitaine.</speaker>
-            <l n="657" xml:id="l657">Voyla qui vaut l’argent, cet <ref target="#objet">objet*</ref> qui t’engage</l>
+            <l n="657" xml:id="l657">Voyla qui vaut l’argent, cet <ref target="#objet">objet</ref> qui t’engage</l>
             <l n="658" xml:id="l658">Du fard<note n="295" place="bottom"> Comprendre : déguisement. </note> Egiptien t’enseignera l’usage,<pb n="47"/></l>
             <l n="659" xml:id="l659">Surtout change d’habit pour nôtre seureté,</l>
             <l n="660" xml:id="l660">Et pour aller par tout avecque liberté,</l>
             <l n="661" xml:id="l661">Nous en avons tousjours quelques-un dans nos tantes</l>
             <l n="662" xml:id="l662">Pour ceux qui sont receus au métier que tu tentes :</l>
-            <l n="663" xml:id="l663">Tandis, pour eviter tout <ref target="#accident">accident*</ref> fatal,<note n="296" place="bottom"> Var. : « De crainte cependant de quelque sort fatal, »</note></l>
+            <l n="663" xml:id="l663">Tandis, pour eviter tout <ref target="#accident">accident</ref> fatal,<note n="296" place="bottom"> Var. : « De crainte cependant de quelque sort fatal, »</note></l>
             <l n="664" xml:id="l664">Je vay rendre l’honneur qu’on doit au Senechal,</l>
             <l n="665" xml:id="l665">Nôtre bande a besoin du pouvoir qu’il possede,</l>
             <l n="666" xml:id="l666">Déjà depuis deux jours nous rodons dans Tolede</l>
@@ -2548,7 +2545,7 @@
             <l n="673" xml:id="l673">Afin qu’aux yeux de tous il vole en assurance,</l>
             <l n="674" xml:id="l674">Et trompe des Argus<note n="298" place="bottom"> Bien que le nom d’Argus puisse désigner plusieurs personnages mythologiques, il est vraisemblable qu’il soit question ici de l’homme fabuleux né de la terre qui aurait eu cent yeux, d’où son association à la vigilance. La référence fait d’autant plus sens ici que le mythe veut qu’il soit tué par Mercure. </note> l’exacte vigilance.</l>
             <l n="675" xml:id="l675">Suivés-moy Compagnons, tous en ordre rangés,</l>
-            <l n="676" xml:id="l676">Ces <ref target="#ducat">ducas*</ref> au retour vous seront partagés. </l>
+            <l n="676" xml:id="l676">Ces <ref target="#ducat">ducas</ref> au retour vous seront partagés. </l>
           </sp>
         </div>
         <div type="scene" xml:id="II03">
@@ -2564,8 +2561,8 @@
             <l n="681" xml:id="l681">Ce n’est point le pouvoir que ce titre leur donne</l>
             <l n="682" xml:id="l682">Qui m’atache avec joye auprez de ta personne,</l>
             <l n="683" xml:id="l683">Ce n’est point un espoir de leurs vaines grandeurs</l>
-            <l n="684" xml:id="l684">Qui contente mes sens et nourrit mes <ref target="#ardeur">ardeurs*</ref>,</l>
-            <l n="685" xml:id="l685">Ce n’est point ce <ref target="#hasard">hazard*</ref> contre qui l’on declame,</l>
+            <l n="684" xml:id="l684">Qui contente mes sens et nourrit mes <ref target="#ardeur">ardeurs</ref>,</l>
+            <l n="685" xml:id="l685">Ce n’est point ce <ref target="#hasard">hazard</ref> contre qui l’on declame,</l>
             <l n="686" xml:id="l686">Qui fait voir dans tes fers et mon corps et mon ame,</l>
             <l n="687" xml:id="l687">C'est ce charme adorable, invisible et puissant</l>
             <l n="688" xml:id="l688">Que forment tes atrais, et ton cœur inocent,</l>
@@ -2589,7 +2586,7 @@
             <l n="706" xml:id="l706">Peut enflamer les cœurs à l’aspect de leur nege,</l>
             <l n="707" xml:id="l707">Et par ce noble tout, ouvrage precieux</l>
             <l n="708" xml:id="l708">Que formerent l’Amour, la Nature et les Dieux :<note n="301" place="bottom"> Vers 683-710 supprimés dans l’édition de 1671. </note></l>
-            <l n="709" xml:id="l709">Mais à te voir si triste en mon bon-heur <ref target="#insigne">insigne*</ref>,</l>
+            <l n="709" xml:id="l709">Mais à te voir si triste en mon bon-heur <ref target="#insigne">insigne</ref>,</l>
             <l n="710" xml:id="l710">Il semble que déjà tu m’en juges indigne.</l>
           </sp>
           <sp xml:id="II03-2" who="precieuse">
@@ -2597,24 +2594,24 @@
             <l n="711" xml:id="l711">Me doy-je réjouir de vous avoir réduit</l>
             <l n="712" xml:id="l712">A quiter un beau jour pour une afreuse nuit,</l>
             <l n="713" xml:id="l713">A quiter des rayons pour un nuage sombre,</l>
-            <l n="714" xml:id="l714">La <ref target="#gloire">gloire*</ref> pour la honte, et le Soleil pour l’ombre,</l>
+            <l n="714" xml:id="l714">La <ref target="#gloire">gloire</ref> pour la honte, et le Soleil pour l’ombre,</l>
             <l n="715" xml:id="l715">Les plaisirs pour la peine, et les biens pour les maux,</l>
-            <l n="716" xml:id="l716">Un repos assuré pour de rudes <ref target="#travaux">travaux*</ref>,<pb n="50"/></l>
+            <l n="716" xml:id="l716">Un repos assuré pour de rudes <ref target="#travaux">travaux</ref>,<pb n="50"/></l>
             <l n="717" xml:id="l717">Une Princesse enfin pour une Egiptienne ?</l>
             <l n="718" xml:id="l718">Non, Seigneur, croyés-moy, quelque honneur qui m’en vienne,</l>
             <l n="719" xml:id="l719">Je vous estime trop pour ne m’afliger pas</l>
-            <l n="720" xml:id="l720">Du tort que je vous fais par mes febles <ref target="#appat">apas*</ref>.</l>
+            <l n="720" xml:id="l720">Du tort que je vous fais par mes febles <ref target="#appat">apas</ref>.</l>
           </sp>
           <sp xml:id="II03-3" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
             <l n="721" xml:id="l721">Que ton affliction console bien mon ame !</l>
             <l n="722" xml:id="l722">Que ton regret me plaist ! que ta frédeur<note n="302" place="bottom"> Voir la note du vers 102.</note> m’enflame !</l>
-            <l n="723" xml:id="l723">Il est donc vray, mon cœur, que ta sainte <ref target="#amitie">amitié*</ref></l>
+            <l n="723" xml:id="l723">Il est donc vray, mon cœur, que ta sainte <ref target="#amitie">amitié</ref></l>
             <l n="724" xml:id="l724">Fait déjà le devoir d’une chaste moitié :</l>
             <l n="725" xml:id="l725">Mais ne plains point mon sort digne qu’un Dieu l’envie,</l>
-            <l n="726" xml:id="l726">Et juge mieux de l’<ref target="#heure">heur*</ref> qui va suivre ma vie,</l>
+            <l n="726" xml:id="l726">Et juge mieux de l’<ref target="#heure">heur</ref> qui va suivre ma vie,</l>
             <l n="727" xml:id="l727">Treuvay-je pas en toy sans forcer mes desirs</l>
-            <l n="728" xml:id="l728">Ma <ref target="#gloire">gloire*</ref>, mon repos, mes biens et mes plaisirs ?</l>
+            <l n="728" xml:id="l728">Ma <ref target="#gloire">gloire</ref>, mon repos, mes biens et mes plaisirs ?</l>
             <l n="729" xml:id="l729">Tes yeux ne sont-ils pas des Soleils ? et ces Astres</l>
             <l n="730" xml:id="l730">N'écarteront-ils par loin de moy les desastres ?</l>
             <l n="731" xml:id="l731">N'ont-ils pas pour rayons mille feux petillans ?</l>
@@ -2678,7 +2675,7 @@
             <l n="748" xml:id="l748" part="I">Il est un peu remis.</l>
           </sp>
           <sp xml:id="II03-15" who="dom-jean-de-carcame">
-            <speaker>ANDRES, <hi rend="i">à part, ayant leu.</hi></speaker>
+            <speaker>ANDRES, </speaker><stage>à part, ayant leu.</stage>
             <l part="F">Mon cœur ne crains plus rien.</l>
           </sp>
           <sp xml:id="II03-16" who="precieuse">
@@ -2700,7 +2697,7 @@
             <speaker>Andres.</speaker>
             <stage>(Il lit tout haut ces Vers.)</stage>
             <l n="753" xml:id="l753">Je chante dans les fers mieux qu’un Egiptien,</l>
-            <l n="754" xml:id="l754">Vous me réjouissés en me donnant la géne*:</l>
+            <l n="754" xml:id="l754">Vous me réjouissés en me donnant la géne:</l>
             <l n="755" xml:id="l755">Mais pourquoy joignés-vous le repos à ma chaine ?</l>
             <l n="756" xml:id="l756">Suis-je si malheureux de n’étre propre à rien ?</l>
             <l n="757" xml:id="l757">L'esclave trop oisif souffre un double tourment,</l>
@@ -2764,7 +2761,7 @@
           <sp xml:id="II03-31" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
             <l part="F">A ce penser il faut que je soupire,<pb n="55"/></l>
-            <l n="775" xml:id="l775">Là, mes <ref target="#superbe">superbes*</ref> sens furent humiliés,</l>
+            <l n="775" xml:id="l775">Là, mes <ref target="#superbe">superbes</ref> sens furent humiliés,</l>
             <l n="776" xml:id="l776">Et ta grace à danser foula mon cœur aux piés.<note n="312" place="bottom"> « J'entends ce que vous voulez dire, / Voyons. » : Précieuse lui montre qu’elle a compris qui est l’auteur des vers qui vont suivre. Mais Andrés comprend sa réplique comme si elle signifiait « je sais de quel événement vous parlez ». C'est ainsi qu’« à ce penser » renvoie au ballet ; bien entendu, il persiste à dissimuler l’identité de l’auteur du récit. Etant donné les conditions que Précieuse a imposées à Andrés – attendre deux ans avant de pouvoir l’épouser – ce dernier ne peut effectivement pas lui adresser directement un texte aux contours amoureux.</note></l>
           </sp>
           <sp xml:id="II03-32" who="precieuse">
@@ -2784,7 +2781,7 @@
             <l n="780" xml:id="l780">Il est juste, tiens donc, tu peux en rire aussi.</l>
           </sp>
           <sp xml:id="II03-36" who="precieuse">
-            <speaker>PRECIEUSE, <hi rend="i">lit ce qui suit.</hi></speaker>
+            <speaker>PRECIEUSE, </speaker><stage>lit ce qui suit.</stage>
             <stage>Recit de la belle Egiptienne. </stage>
             <l n="781" xml:id="l781">Si je vous semble Egiptienne,</l>
             <l n="782" xml:id="l782">Je n’en ay que l’habit, l’adresse et les cheveux<note n="313" place="bottom"> Le récit a bien évidemment une valeur proleptique.</note>,</l>
@@ -2804,7 +2801,7 @@
             <l n="796" xml:id="l796">Et ne profite point que du delicieux.</l>
             <l n="797" xml:id="l797">Comme on void nos larcins estre fort différens,</l>
             <l n="798" xml:id="l798">Nos restitutions ont des effets contraires,</l>
-            <l n="799" xml:id="l799">La leur oblige* fort, et moy lorsque je rens,</l>
+            <l n="799" xml:id="l799">La leur oblige fort, et moy lorsque je rens,</l>
             <l n="800" xml:id="l800">Je cause des douleurs ameres,</l>
             <l n="801" xml:id="l801">Et l’on me fait mille prieres</l>
             <l n="802" xml:id="l802">De retenir tousjours ce que je prens.</l>
@@ -2838,8 +2835,8 @@
           </sp>
           <sp xml:id="II03-43" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
-            <l n="810" xml:id="l810">Elle s’en doute, Amour <ref target="#second">seconde*</ref> son dessein.</l>
-            <p rend="center">Fin du second Acte.</p>
+            <l n="810" xml:id="l810">Elle s’en doute, Amour <ref target="#second">seconde</ref> son dessein.</l>
+            <trailer rend="center">Fin du second Acte.</trailer>
           </sp>
         </div>
       </div>
@@ -2851,12 +2848,12 @@
           <head>SCENE PREMIERE.</head>
           <stage>LE POETE, LES EGIPTIENS.</stage>
           <sp xml:id="III01-1" who="le-poete">
-            <speaker>LE POETE, <hi rend="i">en habit de berger et de nuit.</hi></speaker>
+            <speaker>LE POETE, </speaker><stage>en habit de berger et de nuit.</stage>
             <l n="811" xml:id="l811">Au secours, je suis mort, ha ! quelle destinée</l>
             <l n="812" xml:id="l812">M'a fait treuver ces chiens dans leur rage obstinée ?</l>
           </sp>
           <sp xml:id="III01-2" who="egyptien">
-            <speaker>L'Egiptien<hi rend="i">à son camarade.</hi></speaker>
+            <speaker>L'Egiptien</speaker><stage>à son camarade.</stage>
             <l n="813" xml:id="l813">Sans doute nos mâtins<note n="318" place="bottom"> « Gros chien de cuisine, ou de bassecour. » (Furetière). </note> font quelque bon repas,</l>
             <l n="814" xml:id="l814">Ils cessent d’aboyer, suy moy, doublons le pas.</l>
           </sp>
@@ -2883,7 +2880,7 @@
           </sp>
           <sp xml:id="III01-7" who="le-poete">
             <speaker>Le Poete.</speaker>
-            <l part="F">Ma <ref target="#fortune">fortune*</ref> inhumaine,</l>
+            <l part="F">Ma <ref target="#fortune">fortune</ref> inhumaine,</l>
             <l n="821" xml:id="l821">Mais sans plus discourir, de grace assistés-moy.</l>
           </sp>
           <sp xml:id="III01-8" who="egyptien">
@@ -2901,14 +2898,14 @@
           </sp>
           <sp xml:id="III01-11" who="le-poete">
             <speaker>Le Poete.</speaker>
-            <l n="824" xml:id="l824">Ouy, tenés, ce <ref target="#ducat">ducat*</ref> vous servira de <ref target="#gage">gages*</ref>.</l>
+            <l n="824" xml:id="l824">Ouy, tenés, ce <ref target="#ducat">ducat</ref> vous servira de <ref target="#gage">gages</ref>.</l>
           </sp>
           <sp xml:id="III01-12" who="egyptien">
             <speaker>L'Egiptien.</speaker>
             <l n="825" xml:id="l825">Prens courage à present, va, croy moy, ce n’est rien,</l>
             <l n="826" xml:id="l826">Quant tu seras guery tu te porteras bien.</l>
             <stage>(A part.)</stage>
-            <l n="827" xml:id="l827" part="I">Un <ref target="#ducat">ducat*</ref> d’un berger !</l>
+            <l n="827" xml:id="l827" part="I">Un <ref target="#ducat">ducat</ref> d’un berger !</l>
           </sp>
           <sp xml:id="III01-13" who="le-poete">
             <speaker>Le Poete.</speaker>
@@ -2920,7 +2917,7 @@
             <l n="829" xml:id="l829">Une vieille entre nous<note n="319" place="bottom"> Parmi nous. </note> par un magique sort,</l>
             <l n="830" xml:id="l830">En touchant de l’argent feroit revivre un mort,<note n="320" place="bottom"> Var. : « Nous avons une femme habille à faire un sort, / Qui pour de l’ord ducat ferait revivre un mort, »</note></l>
             <l n="831" xml:id="l831">Nous allons de ce pas te porter dans sa tante,</l>
-            <l n="832" xml:id="l832">Pour en estre content, rens-la <ref target="#devant">devant*</ref> contente.</l>
+            <l n="832" xml:id="l832">Pour en estre content, rens-la <ref target="#devant">devant</ref> contente.</l>
           </sp>
           <sp xml:id="III01-15" who="le-poete">
             <speaker>Le Poete.</speaker>
@@ -2932,7 +2929,7 @@
           <head>SCENE II.</head>
           <stage>ANDRES, LA VIEILLE, PRECIEUSE LES EGIPTIENS, LE POETE.</stage>
           <sp xml:id="III02-1" who="la-vieille">
-            <speaker>La Vieille, <hi rend="i">à Andres.</hi></speaker>
+            <speaker>La Vieille, </speaker><stage>à Andres.</stage>
             <l n="834" xml:id="l834" part="I">Mon fils, où courés-vous ?</l>
           </sp>
           <sp xml:id="III02-2" who="precieuse">
@@ -2997,12 +2994,12 @@
             <l part="F">Amy, prens patience.</l>
           </sp>
           <sp xml:id="III02-14" who="la-vieille">
-            <speaker>La Vieille, <hi rend="i">à Precieuse.</hi></speaker>
+            <speaker>La Vieille, </speaker><stage>à Precieuse.</stage>
             <l n="857" xml:id="l857">Ne l’as-tu point tantost assés considéré ?</l>
             <l n="858" xml:id="l858" part="I">Cours, es-tu revenuë ?<note n="322" place="bottom"> Précieuse n’a visiblement pas réagi à la première injonction de la Vieille au vers 854. Il faut donc comprendre : « cours, ou bien es-tu déjà revenue ? »</note></l>
           </sp>
           <sp xml:id="III02-15" who="precieuse">
-            <speaker>PRECIEUSE, <hi rend="i">à part en s’en allant.</hi></speaker>
+            <speaker>PRECIEUSE, </speaker><stage>à part en s’en allant.</stage>
             <l part="F">Il est trop assuré<note n="323" place="bottom"> « On dit, qu’n homme est bien assuré de son coup, [...] de ce qu’il fait, pour dire, qu’il est sûr de l’événement de ce qu’il entreprend » (Ac.)</note>,</l>
             <l n="859" xml:id="l859">C'est nôtre Poëte, ô Dieux ! quelle est son entreprise,</l>
             <l n="860" xml:id="l860">De nuit, et déguisé, je crains quelque surprise.</l>
@@ -3027,7 +3024,7 @@
             <l n="864" xml:id="l864">Peut des maux que je sens charmer la violence.</l>
           </sp>
           <sp xml:id="III03-4" who="la-vieille">
-            <speaker>La Vieille, <hi rend="i">aux Egiptiens.</hi></speaker>
+            <speaker>La Vieille, </speaker><stage>aux Egiptiens.</stage>
             <l n="865" xml:id="l865">Entrés-là, c’en est fait, son sang est arresté.</l>
           </sp>
           <sp xml:id="III03-5" who="dom-jean-de-carcame">
@@ -3041,7 +3038,7 @@
           <head>SCENE IV.</head>
           <stage>LA VIEILLE, ANDRES, PRECIEUSE</stage>
           <sp xml:id="III04-1" who="dom-jean-de-carcame">
-            <speaker>ANDRES, <hi rend="i">à Precieuse.</hi></speaker>
+            <speaker>ANDRES, </speaker><stage>à Precieuse.</stage>
             <l n="867" xml:id="l867" part="I">Quoy déjà de retour ?</l>
           </sp>
           <sp xml:id="III04-2" who="la-vieille">
@@ -3055,7 +3052,7 @@
           <stage>PRECIEUSE, ANDRES.</stage>
           <sp xml:id="III05-1" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="868" xml:id="l868">La charité m’oblige* à courir de la sorte.</l>
+            <l n="868" xml:id="l868">La charité m’oblige à courir de la sorte.</l>
           </sp>
           <sp xml:id="III05-2" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -3075,7 +3072,7 @@
           <head>SCENE VI.</head>
           <stage>LA VIEILLE, ANDRES, PRECIEUSE.</stage>
           <sp xml:id="III06-1" who="la-vieille">
-            <speaker>LA VIEILLE <hi rend="i">sortant de la tante et parlant au Poëte</hi>.</speaker>
+            <speaker>LA VIEILLE </speaker><stage>sortant de la tante et parlant au Poëte</stage>
             <l n="873" xml:id="l873">Te voylà bien, à Dieu, repose en seureté,</l>
             <l n="874" xml:id="l874">Tandis que j’en vay faire autant de mon côté,</l>
             <l n="875" xml:id="l875">Si pour ta guerison trop long-temps je someille,</l>
@@ -3117,7 +3114,7 @@
           </sp>
           <sp xml:id="III07-3" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="888" xml:id="l888">Le plaisant<note n="331" place="bottom"> Emploi ambigu : l’adjectif peut signifier divertissant, tout comme il peut revêtir une tournure plus péjorative, presque synonyme de bouffonnerie : « <hi rend="i">Plaisant</hi> se dit aussi par manière de mépris, et pour signifier impertinent, ridicule. » (<hi rend="i">Aca.</hi>, éd. 1694).</note> <ref target="#accident">accident*</ref> que je vous vais apprendre !<pb n="68"/></l>
+            <l n="888" xml:id="l888">Le plaisant<note n="331" place="bottom"> Emploi ambigu : l’adjectif peut signifier divertissant, tout comme il peut revêtir une tournure plus péjorative, presque synonyme de bouffonnerie : « <hi rend="i">Plaisant</hi> se dit aussi par manière de mépris, et pour signifier impertinent, ridicule. » (<hi rend="i">Aca.</hi>, éd. 1694).</note> <ref target="#accident">accident</ref> que je vous vais apprendre !<pb n="68"/></l>
           </sp>
           <sp xml:id="III07-4" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -3138,7 +3135,7 @@
           <sp xml:id="III07-8" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
             <l n="891" xml:id="l891">Assis entre les Dieux, et parmi l’ambroisie,</l>
-            <l n="892" xml:id="l892">Qui pouroit à present troubler ma <ref target="#fantaisie">fantaisie*</ref> ?</l>
+            <l n="892" xml:id="l892">Qui pouroit à present troubler ma <ref target="#fantaisie">fantaisie</ref> ?</l>
           </sp>
           <sp xml:id="III07-9" who="precieuse">
             <speaker>Precieuse.</speaker>
@@ -3175,7 +3172,7 @@
           </sp>
           <sp xml:id="III07-17" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="900" xml:id="l900">Celuy-là mesme, autheur de ces <ref target="#extravagance">extravagances*</ref>.</l>
+            <l n="900" xml:id="l900">Celuy-là mesme, autheur de ces <ref target="#extravagance">extravagances</ref>.</l>
           </sp>
           <sp xml:id="III07-18" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -3199,14 +3196,14 @@
             <l n="908" xml:id="l908" part="I">Vous estes donc jaloux.</l>
           </sp>
           <sp xml:id="III07-22" who="dom-jean-de-carcame">
-            <speaker>ANDRES, <hi rend="i">à part.</hi></speaker>
+            <speaker>ANDRES, </speaker><stage>à part.</stage>
             <l part="F">Est-ce franchise ou feinte ?</l>
             <l n="909" xml:id="l909" part="I">Moy, jaloux, nullement.</l>
           </sp>
           <sp xml:id="III07-23" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l part="F">L'estrange <ref target="#vision">vision*</ref><note n="333" place="bottom"> Diérèse.</note></l>
-            <l n="910" xml:id="l910">De me croire complice en cette occasion* !</l>
+            <l part="F">L'estrange <ref target="#vision">vision</ref><note n="333" place="bottom"> Diérèse.</note></l>
+            <l n="910" xml:id="l910">De me croire complice en cette occasion !</l>
             <l n="911" xml:id="l911">Hé bien, pour avoir paix, et me montrer fidelle,</l>
             <l n="912" xml:id="l912" part="I">Je ne le verray point.</l>
           </sp>
@@ -3217,7 +3214,7 @@
           <sp xml:id="III07-25" who="precieuse">
             <speaker>Precieuse.</speaker>
             <l n="913" xml:id="l913">Je vous ay fait déja deux fois mon confident,<pb n="71"/></l>
-            <l n="914" xml:id="l914">J'attens de vous le mesme en pareil <ref target="#accident">accident*</ref>,</l>
+            <l n="914" xml:id="l914">J'attens de vous le mesme en pareil <ref target="#accident">accident</ref>,</l>
             <l n="915" xml:id="l915">Ne me procurés point le mal dont je vous prive,</l>
             <l n="916" xml:id="l916">Et chassons le martel<note n="334" place="bottom"> « Marteau. Il n’est plus en usage qu’en cette phrase figurée, Martel en teste, qui signifie, Jalousie, en matière d’amour. Il a vu un jeune galant qui parlait à sa femme, cela lui donne martel en teste. Il signifie aussi, Inquiétude, appréhension qu’on a d’un mal qui peut arriver. » (Richelet).</note> aussi-tost qu’il arrive.</l>
           </sp>
@@ -3228,8 +3225,8 @@
           </sp>
           <sp xml:id="III07-27" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="919" xml:id="l919">Ha ! ma sainte <ref target="#amitie">amitié*</ref> defend cette vangeance,</l>
-            <l n="920" xml:id="l920">Adieu, separons-nous en bonne <ref target="#intelligence">intelligence*</ref>.</l>
+            <l n="919" xml:id="l919">Ha ! ma sainte <ref target="#amitie">amitié</ref> defend cette vangeance,</l>
+            <l n="920" xml:id="l920">Adieu, separons-nous en bonne <ref target="#intelligence">intelligence</ref>.</l>
           </sp>
           <sp xml:id="III07-28" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -3243,7 +3240,7 @@
           <sp xml:id="III07-30" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
             <l n="924" xml:id="l924">Ouy, mal-gré mon amour mon respect continuë,</l>
-            <l n="925" xml:id="l925">Mais c’est une <ref target="#faveur">faveur*</ref> permise à mon desir.</l>
+            <l n="925" xml:id="l925">Mais c’est une <ref target="#faveur">faveur</ref> permise à mon desir.</l>
           </sp>
           <sp xml:id="III07-31" who="precieuse">
             <speaker>Precieuse.</speaker>
@@ -3258,7 +3255,7 @@
         <div type="scene" xml:id="III08">
           <head>SCENE VIII.</head>
           <sp xml:id="III08-1" who="dom-jean-de-carcame">
-            <speaker>ANDRES, <hi rend="i">seul.</hi> </speaker>
+            <speaker>ANDRES, </speaker><stage>seul.</stage>
             <l n="929" xml:id="l929">Loin de ces beaux charmeurs qui corrompent les sens,</l>
             <l n="930" xml:id="l930">Donnons un libre cours à nos desirs pressans,</l>
             <l n="931" xml:id="l931">Amour, foy, complaisance, incomparable idée,</l>
@@ -3277,7 +3274,7 @@
             <l n="944" xml:id="l944">Inconstante beauté, lâche cœur, ame ingrate,</l>
             <l n="945" xml:id="l945">Dont l’adresse perfide a caché sous des fleurs</l>
             <l n="946" xml:id="l946">Le dangereux aspic<note n="338" place="bottom"> Synonyme de vipère.</note> qui cause mes douleurs.</l>
-            <l n="947" xml:id="l947">Ne suis-je descendu du plus haut rang de <ref target="#gloire">gloire*</ref></l>
+            <l n="947" xml:id="l947">Ne suis-je descendu du plus haut rang de <ref target="#gloire">gloire</ref></l>
             <l n="948" xml:id="l948">Dans ce honteux estat qui ternit ma memoire ?</l>
             <l n="949" xml:id="l949">Ne t’avois-je promis d’élever ton bon-heur</l>
             <l n="950" xml:id="l950">Au faiste des plaisirs, des biens et de l’honneur ?</l>
@@ -3287,17 +3284,17 @@
             <l n="954" xml:id="l954">Celuy d’un suborneur<note n="339" place="bottom"> « Qui suborne, qui corrompt, qui débauche. ». L'adjectif est substantivé. A l’origine, on parle d’un « subornateur ». (Furetière).</note> qui regne dans ton sein ?</l>
             <l n="955" xml:id="l955">Acheve d’eriger ton indigne trophée,</l>
             <l n="956" xml:id="l956">Sur le reste mourant de ma flame estouffée,</l>
-            <l n="957" xml:id="l957">Comble-le de <ref target="#faveur">faveurs*</ref> en me comblant d’<ref target="#ennui">ennuis*</ref>,</l>
+            <l n="957" xml:id="l957">Comble-le de <ref target="#faveur">faveurs</ref> en me comblant d’<ref target="#ennui">ennuis</ref>,</l>
             <l n="958" xml:id="l958">Tout m’est indifferent en l’estat où je suis,</l>
             <l n="959" xml:id="l959">Ton lâche mouvement vient d’arrester ma course,</l>
             <l n="960" xml:id="l960">Et je vay remonter à mon illustre source<note n="340" place="bottom"> Comprendre : « à ma condition noble. ». L'instant de quelques secondes, Andrès songe à se désengager de sa promesse. </note>.</l>
             <l n="961" xml:id="l961">Mais pouray-je accomplir le projet que je fais ?</l>
             <l n="962" xml:id="l962">Non, j’aime trop mes fers pour en sortir jamais :</l>
             <l n="963" xml:id="l963">Impuissans ennemis du Dieu qui me maitrise,</l>
-            <l n="964" xml:id="l964">Sçavés-vous quelle chaine arreste ma franchise* ?</l>
+            <l n="964" xml:id="l964">Sçavés-vous quelle chaine arreste ma franchise ?</l>
             <l n="965" xml:id="l965">Sçavés-vous le pouvoir de ces noirs assassins ,</l>
             <l n="966" xml:id="l966">Qui me percent le cœur, et rompent vos desseins ?</l>
-            <l n="967" xml:id="l967">Si les <ref target="#trait">trais*</ref> et les feux vous marquent leur puissance,</l>
+            <l n="967" xml:id="l967">Si les <ref target="#trait">trais</ref> et les feux vous marquent leur puissance,</l>
             <l n="968" xml:id="l968">Que ne me rangés-vous sous leur obeissance<note n="341" place="bottom"> Comprendre : « Pourquoi ne me rangez-vous pas sous... » </note>, </l>
             <l n="969" xml:id="l969">Et si de ces brillans vous ignorés le prix,<pb n="74"/></l>
             <l n="970" xml:id="l970">Pourquoy me conseiller un injuste mépris ?</l>
@@ -3308,7 +3305,7 @@
             <l n="975" xml:id="l975">Quoy donc je fay regner mon amour dereglée ?</l>
             <l n="976" xml:id="l976">Quelle ombre, ou quel grand jour à mon ame aveuglée ?</l>
             <l n="977" xml:id="l977">On s’offre à me tirer d’une infame prison,</l>
-            <l n="978" xml:id="l978">Et ce zele obligeant* me paroist trahison,</l>
+            <l n="978" xml:id="l978">Et ce zele obligeant me paroist trahison,</l>
             <l n="979" xml:id="l979">A quel point m’a reduit ma fiere destinée ?</l>
             <l n="980" xml:id="l980">Dans cet aveuglement mon ame est obstinée,</l>
             <l n="981" xml:id="l981">A me faire du mal je suis ingenieux,</l>
@@ -3326,7 +3323,7 @@
           <head>SCENE IX.</head>
           <stage>ANDRES, LE POETE couché dans la tante.</stage>
           <sp xml:id="III09-1" who="dom-jean-de-carcame">
-            <speaker>ANDRES, <hi rend="i">ayant relevé un costé de la tante.</hi></speaker>
+            <speaker>ANDRES, </speaker><stage>ayant relevé un costé de la tante.</stage>
             <l n="989" xml:id="l989" part="I">Camarade, dors-tu ?</l>
           </sp>
           <sp xml:id="III09-2" who="le-poete">
@@ -3344,10 +3341,10 @@
           </sp>
           <sp xml:id="III09-5" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
-            <l n="993" xml:id="l993">Je plains ton <ref target="#infortune">infortune*</ref>, et j’en suis bien marry<note n="344" place="bottom"> « Repentant, fâché, qui a du regret d’avoir fait quelque chose. » (Furetière).</note>.</l>
+            <l n="993" xml:id="l993">Je plains ton <ref target="#infortune">infortune</ref>, et j’en suis bien marry<note n="344" place="bottom"> « Repentant, fâché, qui a du regret d’avoir fait quelque chose. » (Furetière).</note>.</l>
             <l n="994" xml:id="l994">Dans trois jours au plus tard tu seras tout guery.</l>
             <l n="995" xml:id="l995">Mais qui te presse ainsi ? quelle affaire importante<pb n="76"/></l>
-            <l n="996" xml:id="l996">Te fait marcher de nuit, et <ref target="#devers">devers*</ref> cette tante ?</l>
+            <l n="996" xml:id="l996">Te fait marcher de nuit, et <ref target="#devers">devers</ref> cette tante ?</l>
             <l n="997" xml:id="l997" part="I">Parle.</l>
           </sp>
           <sp xml:id="III09-6" who="le-poete">
@@ -3413,7 +3410,7 @@
           </sp>
           <sp xml:id="III09-16" who="le-poete">
             <speaker>Le Poete.</speaker>
-            <l n="1024" xml:id="l1024">Je ne puis avouer un si faux <ref target="#avantage">avantage*</ref>.</l>
+            <l n="1024" xml:id="l1024">Je ne puis avouer un si faux <ref target="#avantage">avantage</ref>.</l>
           </sp>
           <sp xml:id="III09-17" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -3431,7 +3428,7 @@
             <l n="1033" xml:id="l1033">Ton zele enfin me charme, et ta civilité</l>
             <l n="1034" xml:id="l1034">Me force à contenter ta curiosité,</l>
             <l n="1035" xml:id="l1035">Mon cœur s’ouvre de joye au nom de cette belle,</l>
-            <l n="1036" xml:id="l1036">J'ay l’<ref target="#heure">heur*</ref> de la connestre, et d’estre connu d’elle,</l>
+            <l n="1036" xml:id="l1036">J'ay l’<ref target="#heure">heur</ref> de la connestre, et d’estre connu d’elle,</l>
             <l n="1037" xml:id="l1037">Et puisque tu peux lire en ce cœur malheureux,</l>
             <l n="1038" xml:id="l1038">Je ne te niray plus que j’en suis amoureux.</l>
           </sp>
@@ -3456,14 +3453,14 @@
           </sp>
           <sp xml:id="III09-23" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
-            <l part="F">Quoy tu t’en plains, ha ! n’en fais plus le <ref target="#fin">fin*</ref>,</l>
+            <l part="F">Quoy tu t’en plains, ha ! n’en fais plus le <ref target="#fin">fin</ref>,</l>
             <l n="1046" xml:id="l1046">Acheve d’exposer ton bien-heureux destin,</l>
             <l n="1047" xml:id="l1047">Nous sommes, tu le sçais, les plus secrets du monde.</l>
-            <l n="1048" xml:id="l1048">As-tu de ses <ref target="#faveur">faveurs*</ref> ? ta <ref target="#gloire">gloire*</ref> est sans seconde<note n="351" place="bottom"> Comprendre : « ta gloire est sans pareille »</note>,</l>
+            <l n="1048" xml:id="l1048">As-tu de ses <ref target="#faveur">faveurs</ref> ? ta <ref target="#gloire">gloire</ref> est sans seconde<note n="351" place="bottom"> Comprendre : « ta gloire est sans pareille »</note>,</l>
             <l n="1049" xml:id="l1049">Montre-les moy, de grace, et ne me cache rien,</l>
             <l n="1050" xml:id="l1050">Fay moy ton confident, je te feray le mien,</l>
             <l n="1051" xml:id="l1051">Sous d’autres vestemens j’ay fait des avantures,</l>
-            <l n="1052" xml:id="l1052">Dignes de raconter à nos <ref target="#race">races*</ref> futures,</l>
+            <l n="1052" xml:id="l1052">Dignes de raconter à nos <ref target="#race">races</ref> futures,</l>
             <l n="1053" xml:id="l1053">Et sans aller plus loin que ce mesme sejour,</l>
             <l n="1054" xml:id="l1054">Je t’en pourois conter une du dernier jour,</l>
             <l n="1055" xml:id="l1055">Qui vaut bien à mon gré la peine de l’entendre.</l>
@@ -3483,14 +3480,14 @@
           </sp>
           <sp xml:id="III09-26" who="le-poete">
             <speaker>Le Poete.</speaker>
-            <l n="1063" xml:id="l1063">Je ne refuse pas cette offre <ref target="#avantage">avantageuse*</ref>,</l>
+            <l n="1063" xml:id="l1063">Je ne refuse pas cette offre <ref target="#avantage">avantageuse</ref>,</l>
             <l n="1064" xml:id="l1064">Mais mieux que son parent je connoy Precieuse,</l>
             <l n="1065" xml:id="l1065">On ne peut faire bréche à sa chaste vertu,</l>
             <l n="1066" xml:id="l1066">Par discours, par presens, en vain j’ay combatu,</l>
             <l n="1067" xml:id="l1067">Rien ne peut ébranler cette vivante roche,</l>
-            <l n="1068" xml:id="l1068">Mille <ref target="#trait">trais*</ref> enflamés en défendent l’approche,</l>
+            <l n="1068" xml:id="l1068">Mille <ref target="#trait">trais</ref> enflamés en défendent l’approche,</l>
             <l n="1069" xml:id="l1069">Et lorsqu’on la permet, c’est pour mieux faire voir</l>
-            <l n="1070" xml:id="l1070">Que sans <ref target="#intelligence">intelligence*</ref> on ne la peut avoir.</l>
+            <l n="1070" xml:id="l1070">Que sans <ref target="#intelligence">intelligence</ref> on ne la peut avoir.</l>
           </sp>
           <sp xml:id="III09-27" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -3508,7 +3505,7 @@
           </sp>
           <sp xml:id="III09-28" who="le-poete">
             <speaker>Le Poete.</speaker>
-            <l n="1082" xml:id="l1082">Cher ami, ce discours est par trop obligeant*.</l>
+            <l n="1082" xml:id="l1082">Cher ami, ce discours est par trop obligeant.</l>
           </sp>
           <sp xml:id="III09-29" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -3516,7 +3513,7 @@
           </sp>
           <sp xml:id="III09-30" who="le-poete">
             <speaker>Le Poete.</speaker>
-            <l part="F">J'ay sur moy quelques six vingts<note n="353" place="bottom"> Comprendre : cent vingt pistoles.</note> <ref target="#pistole">pistoles*</ref>.</l>
+            <l part="F">J'ay sur moy quelques six vingts<note n="353" place="bottom"> Comprendre : cent vingt pistoles.</note> <ref target="#pistole">pistoles</ref>.</l>
           </sp>
           <sp xml:id="III09-31" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -3544,7 +3541,7 @@
             <l n="1100" xml:id="l1100">Que j’eusse à me pourvoir de retraite assurée<note n="354" place="bottom"> Une autre maison.</note>,</l>
             <l n="1101" xml:id="l1101">Tout ce que j’ay pû faire en ce pressant soucy,</l>
             <l n="1102" xml:id="l1102">Est de changer d’habit, et de venir icy,</l>
-            <l n="1103" xml:id="l1103">Contre les <ref target="#trait">trais*</ref> du sort implorer assistance.</l>
+            <l n="1103" xml:id="l1103">Contre les <ref target="#trait">trais</ref> du sort implorer assistance.</l>
           </sp>
           <sp xml:id="III09-33" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -3553,18 +3550,18 @@
           </sp>
           <sp xml:id="III09-34" who="le-poete">
             <speaker>Le Poete.</speaker>
-            <l n="1106" xml:id="l1106">Va, je reconnestray tant de soins obligeans*.</l>
+            <l n="1106" xml:id="l1106">Va, je reconnestray tant de soins obligeans.</l>
             <stage>(La tante se referme.) </stage>
           </sp>
           <sp xml:id="III09-35" who="dom-jean-de-carcame">
-            <speaker>ANDRES, <hi rend="i">en s’en allant.</hi></speaker>
-            <l n="1107" xml:id="l1107">Marche droit <ref target="#hardiment">hardiment*</ref>, ou mon ame abusée<pb n="83"/></l>
+            <speaker>ANDRES, </speaker><stage>en s’en allant.</stage>
+            <l n="1107" xml:id="l1107">Marche droit <ref target="#hardiment">hardiment</ref>, ou mon ame abusée<pb n="83"/></l>
             <l n="1108" xml:id="l1108">Sçaura bien se vanger de ta flame rusée,</l>
-            <l n="1109" xml:id="l1109">Qui cherche ma maitresse il cherche le trespas*,</l>
-            <l n="1110" xml:id="l1110">Je t’irois <ref target="#immoler">immoler*</ref>, à ses yeux, dans ses bras,</l>
+            <l n="1109" xml:id="l1109">Qui cherche ma maitresse il cherche le trespas,</l>
+            <l n="1110" xml:id="l1110">Je t’irois <ref target="#immoler">immoler</ref>, à ses yeux, dans ses bras,</l>
             <l n="1111" xml:id="l1111">Et si son lâche cœur trempoit dedans ton crime,</l>
             <l n="1112" xml:id="l1112">J'abatrois d’un seul coup l’autel et la victime.</l>
-            <p rend="center">Fin du troisieme Acte.</p>
+            <trailer rend="center">Fin du troisieme Acte.</trailer>
           </sp>
         </div>
       </div>
@@ -3589,7 +3586,7 @@
           <sp xml:id="IV01-3" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
             <l part="F">Ouy, je l’ay visité,</l>
-            <l n="1118" xml:id="l1118">J'ay plus de <ref target="#soin">soin*</ref> que toy, j’ay plus de charité.<pb n="85"/></l>
+            <l n="1118" xml:id="l1118">J'ay plus de <ref target="#soin">soin</ref> que toy, j’ay plus de charité.<pb n="85"/></l>
           </sp>
           <sp xml:id="IV01-4" who="precieuse">
             <speaker>Precieuse.</speaker>
@@ -3602,7 +3599,7 @@
           </sp>
           <sp xml:id="IV01-6" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="1122" xml:id="l1122">Apres avoir eu <ref target="#soin">soin*</ref> de vous bien enquerir,</l>
+            <l n="1122" xml:id="l1122">Apres avoir eu <ref target="#soin">soin</ref> de vous bien enquerir,</l>
             <l n="1123" xml:id="l1123" part="I">Mais se porte-t’il mieux ?</l>
           </sp>
           <sp xml:id="IV01-7" who="dom-jean-de-carcame">
@@ -3615,7 +3612,7 @@
           </sp>
           <sp xml:id="IV01-8" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="1128" xml:id="l1128">Quoy ? sur cet <ref target="#accident">accident*</ref> vous me raillés encore,</l>
+            <l n="1128" xml:id="l1128">Quoy ? sur cet <ref target="#accident">accident</ref> vous me raillés encore,</l>
             <l n="1129" xml:id="l1129">Apprenés-moy plustost quel etrange dessein</l>
             <l n="1130" xml:id="l1130">Sous ce rustique habit il cache dans le sein,</l>
             <l n="1131" xml:id="l1131">Ce secret n’aura pas échapé<note n="355" place="bottom"> Emploi transitif encore très courant. Le verbe conserve le même sens qu’avec l’emploi intransitif. </note> vôtre adresse.</l>
@@ -3623,7 +3620,7 @@
           <sp xml:id="IV01-9" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
             <l n="1132" xml:id="l1132">Il ne le dira point qu’à sa seule maitresse,</l>
-            <l n="1133" xml:id="l1133">Et je me suis chargé pour son <ref target="#allegement">allegement*</ref>,<pb n="86"/></l>
+            <l n="1133" xml:id="l1133">Et je me suis chargé pour son <ref target="#allegement">allegement</ref>,<pb n="86"/></l>
             <l n="1134" xml:id="l1134">D'obtenir l’entretien d’une heure seulement,</l>
             <l n="1135" xml:id="l1135">Ne luy refuse pas un bien si desirable,</l>
             <l n="1136" xml:id="l1136">Et prepare à ses vœux un acueil favorable.</l>
@@ -3633,12 +3630,12 @@
           <head>SCENE II.</head>
           <stage>ANDRES, PRECIEUSE, HIPOLITE</stage>
           <sp xml:id="IV02-1" who="dom-jean-de-carcame">
-            <speaker>ANDRES, <hi rend="i">ayant apperceu Hipolite.</hi></speaker>
-            <l n="1137" xml:id="l1137" part="I">Ha ! le fâcheux <ref target="#objet">objet*</ref>.</l>
+            <speaker>ANDRES, </speaker><stage>ayant apperceu Hipolite.</stage>
+            <l n="1137" xml:id="l1137" part="I">Ha ! le fâcheux <ref target="#objet">objet</ref>.</l>
           </sp>
           <sp xml:id="IV02-2" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l part="F">Hé quel <ref target="#malheur">mal-heur*</ref> si prompt</l>
+            <l part="F">Hé quel <ref target="#malheur">mal-heur</ref> si prompt</l>
             <l n="1138" xml:id="l1138">Vous met la flame aux yeux et la rougeur au front ?</l>
             <l n="1139" xml:id="l1139" part="I">Ha ! c’est une Maistresse.</l>
           </sp>
@@ -3648,7 +3645,7 @@
           </sp>
           <sp xml:id="IV02-4" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="1140" xml:id="l1140">Hé bien, faut-il rougir d’une bonne <ref target="#fortune">fortune*</ref> ?</l>
+            <l n="1140" xml:id="l1140">Hé bien, faut-il rougir d’une bonne <ref target="#fortune">fortune</ref> ?</l>
             <l n="1141" xml:id="l1141">Voyla ce que produit vôtre sombre beauté,</l>
             <l n="1142" xml:id="l1142">Et le fard que je donne à cette qualité<note n="356" place="bottom"> Le sens du vers demeure obscur : le « fard » dont parle Précieuse semble faire référence à son aspect d’Egyptien. C'est elle qui l’a effectivement forcé à prendre cette apparence.</note>,</l>
             <l n="1143" xml:id="l1143">Mais sa peine m’oblige à vous laisser ensemble.<pb n="87"/></l>
@@ -3664,7 +3661,7 @@
           <sp xml:id="IV02-7" who="precieuse">
             <speaker>Precieuse.</speaker>
             <l n="1145" xml:id="l1145">Prié par ce regard si doux et si charmant</l>
-            <l n="1146" xml:id="l1146">D'une heure d’entretien pour son <ref target="#allegement">allegement*</ref>,</l>
+            <l n="1146" xml:id="l1146">D'une heure d’entretien pour son <ref target="#allegement">allegement</ref>,</l>
             <l n="1147" xml:id="l1147">Ne luy refusés pas un bien si desirable,</l>
             <l n="1148" xml:id="l1148">Et faites à ses vœux un acueil favorable<note n="357" place="bottom"> Précieuse reprend mot pour mot la phrase d’Andrés au vers 1138.</note>.</l>
           </sp>
@@ -3686,7 +3683,7 @@
           <sp xml:id="IV02-11" who="precieuse">
             <speaker>Precieuse.</speaker>
             <l n="1154" xml:id="l1154">Je ne suis point du tout sçavante en l’avenir.</l>
-            <l n="1155" xml:id="l1155">Celuy que vous voyés suivant ma <ref target="#conjecture">conjecture*</ref>,<pb n="88"/></l>
+            <l n="1155" xml:id="l1155">Celuy que vous voyés suivant ma <ref target="#conjecture">conjecture</ref>,<pb n="88"/></l>
             <l n="1156" xml:id="l1156">Vous dira mieux que moy vôtre bonne avanture.</l>
           </sp>
           <sp xml:id="IV02-12" who="hipolite">
@@ -3695,7 +3692,7 @@
           </sp>
           <sp xml:id="IV02-13" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
-            <l n="1158" xml:id="l1158">De quel nouveau <ref target="#malheur">mal-heur*</ref> mes jours sont-ils suivis ?</l>
+            <l n="1158" xml:id="l1158">De quel nouveau <ref target="#malheur">mal-heur</ref> mes jours sont-ils suivis ?</l>
           </sp>
         </div>
         <div type="scene" xml:id="IV03">
@@ -3703,13 +3700,13 @@
           <stage>ANDRES, HIPOLITE.</stage>
           <sp xml:id="IV03-1" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
-            <l n="1159" xml:id="l1159">Madame, vous m’offrés un honneur qui m’<ref target="#etonner">étonne*</ref>.</l>
+            <l n="1159" xml:id="l1159">Madame, vous m’offrés un honneur qui m’<ref target="#etonner">étonne</ref>.</l>
             <l n="1160" xml:id="l1160">J'ay veu de vôtre part l’une et l’autre personne<note n="360" place="bottom"> Andrés fait vraisemblablement référence à deux messagers envoyés par Hipolite, ou bien à deux rencontres antérieures avec elle.</note>,</l>
             <l n="1161" xml:id="l1161">Toutes deux m’ont parlé de vôtre indigne choix,</l>
             <l n="1162" xml:id="l1162">Toutes deux m’ont ravy l’usage de la voix,</l>
             <l n="1163" xml:id="l1163">Et maintenant encor je ne sçay que répondre,</l>
-            <l n="1164" xml:id="l1164">Trop d’éclat m’éblouit, trop d’<ref target="#heure">heur*</ref> me vient confondre,</l>
-            <l n="1165" xml:id="l1165">Et ces rares <ref target="#faveur">faveurs*</ref> me font imaginer</l>
+            <l n="1164" xml:id="l1164">Trop d’éclat m’éblouit, trop d’<ref target="#heure">heur</ref> me vient confondre,</l>
+            <l n="1165" xml:id="l1165">Et ces rares <ref target="#faveur">faveurs</ref> me font imaginer</l>
             <l n="1166" xml:id="l1166">Qu'à quelque autre qu’à moy vous croyés les donner :<pb n="M, 89"/></l>
             <l n="1167" xml:id="l1167">Sortés de vôtre erreur, voyés ce que vous faites,</l>
             <l n="1168" xml:id="l1168">Regardés qui je suis, et songés qui vous estes,</l>
@@ -3748,24 +3745,24 @@
             <l n="1192" xml:id="l1192">Qui donne à mon amour une mortelle atteinte.</l>
             <l n="1193" xml:id="l1193">De Roy ne devient point un tyran de mon cœur,</l>
             <l n="1194" xml:id="l1194">Ni de maitre adorable un insolent vainqueur,</l>
-            <l n="1195" xml:id="l1195">Que l’<ref target="#amitie">amitié*</ref> succede à la feinte banie,</l>
+            <l n="1195" xml:id="l1195">Que l’<ref target="#amitie">amitié</ref> succede à la feinte banie,</l>
             <l n="1196" xml:id="l1196">N'ajoûte point la honte à ma peine infinie,</l>
             <l n="1197" xml:id="l1197">Ne méle point l’orgueil aux belles qualités</l>
             <l n="1198" xml:id="l1198">Que je vois au travers de ces obscurités.<note n="365" place="bottom"> Vers 1197-1200 supprimés dans l’édition de 1671. </note></l>
-            <l n="1199" xml:id="l1199">Quoy, manquay-je d’apas* ? quoy, manquay-je de charmes</l>
+            <l n="1199" xml:id="l1199">Quoy, manquay-je d’apas ? quoy, manquay-je de charmes</l>
             <l n="1200" xml:id="l1200">Qui puissent t’obliger à me rendre les armes ?</l>
             <l n="1201" xml:id="l1201">Ma personne, mes biens, et ma condition,</l>
             <l n="1202" xml:id="l1202">Ne peuvent-ils forcer ton inclination ?</l>
             <l n="1203" xml:id="l1203">Ne peux-tu preferer à cette vie infame</l>
-            <l n="1204" xml:id="l1204">L'<ref target="#avantage">avantageux*</ref> <ref target="#bonheur">bon-heur*</ref> de m’avoir pour ta femme ?</l>
+            <l n="1204" xml:id="l1204">L'<ref target="#avantage">avantageux</ref> <ref target="#bonheur">bon-heur</ref> de m’avoir pour ta femme ?</l>
             <l n="1205" xml:id="l1205">Quitte, quitte la honte où le sort t’engagea,</l>
             <l n="1206" xml:id="l1206">Sors de cette misere où le sort te plongea, </l>
-            <l n="1207" xml:id="l1207"><ref target="#second">Seconde*</ref> mes desirs en faveur de toy-mesme,<pb n="91"/></l>
-            <l n="1208" xml:id="l1208">Respons au nom d’<ref target="#hymen">Hymen*</ref> à mon amour extréme,</l>
+            <l n="1207" xml:id="l1207"><ref target="#second">Seconde</ref> mes desirs en faveur de toy-mesme,<pb n="91"/></l>
+            <l n="1208" xml:id="l1208">Respons au nom d’<ref target="#hymen">Hymen</ref> à mon amour extréme,</l>
             <l n="1209" xml:id="l1209">Par là, de mes tresors tu deviens possesseur,</l>
-            <l n="1210" xml:id="l1210">Tu vivras avec <ref target="#gloire">gloire*</ref>, en paix, dans la douceur,</l>
+            <l n="1210" xml:id="l1210">Tu vivras avec <ref target="#gloire">gloire</ref>, en paix, dans la douceur,</l>
             <l n="1211" xml:id="l1211">Et goûtant des plaisirs tous purs et sans limites,<note n="366" place="bottom"> Var. : « Je t’en feray goûter la tranquile douceur, / Et comblé de plaisirs tous purs &amp; sans limites, »</note></l>
-            <l n="1212" xml:id="l1212">Braveras la <ref target="#fortune">Fortune*</ref> ingratte à tes mérites.</l>
+            <l n="1212" xml:id="l1212">Braveras la <ref target="#fortune">Fortune</ref> ingratte à tes mérites.</l>
           </sp>
           <sp xml:id="IV03-5" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -3779,8 +3776,8 @@
             <l n="1220" xml:id="l1220">Que je ne puisse pas contenter vôtre envie,</l>
             <l n="1221" xml:id="l1221">Que je ne puisse pas jouir de ce bon-heur</l>
             <l n="1222" xml:id="l1222">Qui contient le plaisir, la richesse et l’honneur ?<note n="367" place="bottom"> Vers 1217-1224 supprimés dans l’édition de 1671.</note></l>
-            <l n="1223" xml:id="l1223">Ha ! c’est bien maintenant que l’ingratte <ref target="#fortune">Fortune*</ref></l>
-            <l n="1224" xml:id="l1224">Me fait sentir les <ref target="#trait">trais*</ref> de sa haine importune,</l>
+            <l n="1223" xml:id="l1223">Ha ! c’est bien maintenant que l’ingratte <ref target="#fortune">Fortune</ref></l>
+            <l n="1224" xml:id="l1224">Me fait sentir les <ref target="#trait">trais</ref> de sa haine importune,</l>
             <l n="1225" xml:id="l1225">Me venant d’une main un tresor presenter,</l>
             <l n="1226" xml:id="l1226">Que l’autre au mesme instant me defend d’accepter.</l>
           </sp>
@@ -3793,7 +3790,7 @@
             <speaker>Andres.</speaker>
             <l n="1229" xml:id="l1229">La rigueur de nos loix, qui veut que parmi nous</l>
             <l n="1230" xml:id="l1230">Nous prénions une femme et la fille un époux,</l>
-            <l n="1231" xml:id="l1231">Lors par qui mon <ref target="#malheur">mal-heur*</ref> a sa rage assouvie<note n="368" place="bottom"> Remarque ambivalente, qui repose essentiellement sur la complicité avec le public. Andrès explique que l’embarras dans lequel il se trouve pourrait bien consoler Précieuse, qui était attristée par sa jalousie.</note>,</l>
+            <l n="1231" xml:id="l1231">Lors par qui mon <ref target="#malheur">mal-heur</ref> a sa rage assouvie<note n="368" place="bottom"> Remarque ambivalente, qui repose essentiellement sur la complicité avec le public. Andrès explique que l’embarras dans lequel il se trouve pourrait bien consoler Précieuse, qui était attristée par sa jalousie.</note>,</l>
             <l n="1232" xml:id="l1232">Et qu’il faut observer sur peine de la vie.</l>
           </sp>
           <sp xml:id="IV03-8" who="hipolite">
@@ -3806,7 +3803,7 @@
           </sp>
           <sp xml:id="IV03-10" who="hipolite">
             <speaker>Hipolite.</speaker>
-            <l n="1235" xml:id="l1235">Es-tu déjà soûmis au joug de l’<ref target="#hymen">Hymenée*</ref> ?</l>
+            <l n="1235" xml:id="l1235">Es-tu déjà soûmis au joug de l’<ref target="#hymen">Hymenée</ref> ?</l>
           </sp>
           <sp xml:id="IV03-11" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -3814,19 +3811,19 @@
           </sp>
           <sp xml:id="IV03-12" who="hipolite">
             <speaker>Hipolite.</speaker>
-            <l n="1237" xml:id="l1237">L'<ref target="#avantage">avantage*</ref> en ce cas te permet de changer.</l>
+            <l n="1237" xml:id="l1237">L'<ref target="#avantage">avantage</ref> en ce cas te permet de changer.</l>
           </sp>
           <sp xml:id="IV03-13" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
-            <l n="1238" xml:id="l1238">Trop puissant est l’<ref target="#objet">objet*</ref> qui me sceut engager,</l>
+            <l n="1238" xml:id="l1238">Trop puissant est l’<ref target="#objet">objet</ref> qui me sceut engager,</l>
           </sp>
           <sp xml:id="IV03-14" who="hipolite">
             <speaker>Hipolite.</speaker>
-            <l n="1239" xml:id="l1239">Mais cet <ref target="#objet">objet*</ref> enfin n’est qu’une Egiptienne.</l>
+            <l n="1239" xml:id="l1239">Mais cet <ref target="#objet">objet</ref> enfin n’est qu’une Egiptienne.</l>
           </sp>
           <sp xml:id="IV03-15" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
-            <l n="1240" xml:id="l1240">Sa vertu me plaist mieux qu’une <ref target="#race">race*</ref> ancienne.<pb n="93"/></l>
+            <l n="1240" xml:id="l1240">Sa vertu me plaist mieux qu’une <ref target="#race">race</ref> ancienne.<pb n="93"/></l>
           </sp>
           <sp xml:id="IV03-16" who="hipolite">
             <speaker>Hipolite.</speaker>
@@ -3846,7 +3843,7 @@
           </sp>
           <sp xml:id="IV03-20" who="hipolite">
             <speaker>Hipolite.</speaker>
-            <l n="1245" xml:id="l1245">Le <ref target="#malheur">mal-heur*</ref> trop souvent suit cet esprit flateur.</l>
+            <l n="1245" xml:id="l1245">Le <ref target="#malheur">mal-heur</ref> trop souvent suit cet esprit flateur.</l>
           </sp>
           <sp xml:id="IV03-21" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -3873,11 +3870,11 @@
             <l n="1251" xml:id="l1251">Quoy d’un Egiptien je me voy refusée !</l>
             <l n="1252" xml:id="l1252">Quoy d’un fier vagabond je me voy méprisée !</l>
             <l n="1253" xml:id="l1253">Ma faveur le poursuit, il suit d’autres apas,</l>
-            <l n="1254" xml:id="l1254">Je luy parle d’<ref target="#hymen">Hymen*</ref>, il ne l’accepte pas,</l>
+            <l n="1254" xml:id="l1254">Je luy parle d’<ref target="#hymen">Hymen</ref>, il ne l’accepte pas,</l>
             <l n="1255" xml:id="l1255">Honte, dépit, affront, ressentiment, vengeance,</l>
-            <l n="1256" xml:id="l1256">Laissés-vous triompher cette <ref target="#superbe">superbe*</ref> engeance<note n="371" place="bottom"> Selon Furetière, le nom peut être employé à la fois pour signifier «  race » et pour désigner « figurément des hommes méchants ». Ici, il en revêt la polysémie.</note> ?</l>
-            <l n="1257" xml:id="l1257"><ref target="#souffrir">Souffrés*</ref>-vous que ce traitre avec impunité</l>
-            <l n="1258" xml:id="l1258">Profane ma vertu, ma <ref target="#gloire">gloire*</ref> et ma beauté ?</l>
+            <l n="1256" xml:id="l1256">Laissés-vous triompher cette <ref target="#superbe">superbe</ref> engeance<note n="371" place="bottom"> Selon Furetière, le nom peut être employé à la fois pour signifier «  race » et pour désigner « figurément des hommes méchants ». Ici, il en revêt la polysémie.</note> ?</l>
+            <l n="1257" xml:id="l1257"><ref target="#souffrir">Souffrés</ref>-vous que ce traitre avec impunité</l>
+            <l n="1258" xml:id="l1258">Profane ma vertu, ma <ref target="#gloire">gloire</ref> et ma beauté ?</l>
             <l n="1259" xml:id="l1259">Au secours ma fureur, viste forgeons un foudre<note n="372" place="bottom"> Le substantif au sens figuré serait « plus ordinairement masculin que féminin. » (Richelet). </note>,</l>
             <l n="1260" xml:id="l1260">Qui reduise à mes yeux ces deux amans en poudre,</l>
             <l n="1261" xml:id="l1261">Faisons pour le haster des effors merveilleux,</l>
@@ -3891,7 +3888,7 @@
             <l n="1269" xml:id="l1269">Tu ne tiens pas encor cet objet de tes vœux,</l>
             <l n="1270" xml:id="l1270">Tu periras au port, et peut-estre tous deux,</l>
             <l n="1271" xml:id="l1271">Je te vays de ce pas faire charger de chaines,</l>
-            <l n="1272" xml:id="l1272">Je te vays exposer aux plus cruelles <ref target="#gene">génes*</ref>,</l>
+            <l n="1272" xml:id="l1272">Je te vays exposer aux plus cruelles <ref target="#gene">génes</ref>,</l>
             <l n="1273" xml:id="l1273">Et tu confesseras dans l’horreur de tes fers,</l>
             <l n="1274" xml:id="l1274">Qu'il vaudroit mieux vivant tomber dans les enfers,</l>
             <l n="1275" xml:id="l1275">Qu'au pouvoir irrité d’une amante enragée</l>
@@ -3947,7 +3944,7 @@
           <sp xml:id="IV04-9" who="precieuse">
             <speaker>Precieuse.</speaker>
             <l n="1296" xml:id="l1296">Il le faut avouër, je suis bien mal-heureuse,</l>
-            <l n="1297" xml:id="l1297">Je <ref target="#souffrir">souffre*</ref> tout, je m’offre, et le veux consoler,</l>
+            <l n="1297" xml:id="l1297">Je <ref target="#souffrir">souffre</ref> tout, je m’offre, et le veux consoler,</l>
             <l n="1298" xml:id="l1298">Et pour tant de bontés il me vient quereller.</l>
           </sp>
           <sp xml:id="IV04-10" who="dom-jean-de-carcame">
@@ -3967,9 +3964,9 @@
             <l n="1305" xml:id="l1305">Mais le Ciel m’est témoin si j’ay peur que pour toy<note n="374" place="bottom"> Comprendre : « le Ciel m’est témoin du fait que je n’ai peur que pour toi »</note>,</l>
             <l n="1306" xml:id="l1306">Quoy que cette enragée ait vomy contre moy,</l>
             <l n="1307" xml:id="l1307">Quelques fers qu’à present me forge sa malice,</l>
-            <l n="1308" xml:id="l1308">Je ne me plaindrois point d’un si proche <ref target="#supplice">supplice*</ref>,</l>
+            <l n="1308" xml:id="l1308">Je ne me plaindrois point d’un si proche <ref target="#supplice">supplice</ref>,</l>
             <l n="1309" xml:id="l1309">Si ce mesme démon pour crestre<note n="375" place="bottom"> Voir la note du vers 102.</note> mes douleurs,<pb n="98"/></l>
-            <l n="1310" xml:id="l1310">Ne vouloit t’exposer à de mesmes <ref target="#malheur">mal-heurs*</ref> ;</l>
+            <l n="1310" xml:id="l1310">Ne vouloit t’exposer à de mesmes <ref target="#malheur">mal-heurs</ref> ;</l>
             <l n="1311" xml:id="l1311">Je crains que sa menace enfin ne s’effectuë,</l>
             <l n="1312" xml:id="l1312">Et c’est ce qui me trouble, et c’est qui me tuë,</l>
             <l n="1313" xml:id="l1313">Fuyons, si tu m’en crois, de ce lieu mal-heureux.</l>
@@ -3977,7 +3974,7 @@
           <sp xml:id="IV04-13" who="precieuse">
             <speaker>Precieuse.</speaker>
             <l n="1314" xml:id="l1314">Fort bien, pour mieux nier vos larcins amoureux.</l>
-            <l n="1315" xml:id="l1315">Peut-on couvrir sa faute avec plus d’<ref target="#industrie">industrie*</ref> ?</l>
+            <l n="1315" xml:id="l1315">Peut-on couvrir sa faute avec plus d’<ref target="#industrie">industrie</ref> ?</l>
           </sp>
           <sp xml:id="IV04-14" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -4007,7 +4004,7 @@
             <l part="F">Que je crains son pouvoir !<pb n="99"/></l>
             <l n="1323" xml:id="l1323">Courons donc du depart prier le Capitaine,</l>
             <l n="1324" xml:id="l1324">Faut-il qu’à mon sujet vous ayés tant de peine ?</l>
-            <l n="1325" xml:id="l1325">O Ciel ! contre ces <ref target="#trait">traits*</ref> daigne armer nôtre sein,</l>
+            <l n="1325" xml:id="l1325">O Ciel ! contre ces <ref target="#trait">traits</ref> daigne armer nôtre sein,</l>
             <l n="1326" xml:id="l1326">Ou bien fais avorter ce damnable dessein.<note n="378" place="bottom"> Var. : « Ou plustost sauvé nous de son cruel dessein. »</note></l>
           </sp>
         </div>
@@ -4061,7 +4058,7 @@
           <pb n="101"/>
           <head>SCENE VI.</head>
           <sp xml:id="IV06-1" who="hipolite">
-            <speaker>HIPOLITE, <hi rend="i">seule.</hi></speaker>
+            <speaker>HIPOLITE, </speaker><stage>seule.</stage>
             <l n="1351" xml:id="l1351">Je te tiens arrogant, et ta perte arrestée</l>
             <l n="1352" xml:id="l1352">Va vanger mon amour lachement rejetée<note n="382" place="bottom"> Voir la note 61.</note>,</l>
             <l n="1353" xml:id="l1353">Ma fourbe par mes mains conduite adrétement<note n="383" place="bottom"> Voir la note 19.</note>,</l>
@@ -4104,7 +4101,7 @@
           </sp>
           <sp xml:id="IV07-5" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="1370" xml:id="l1370">Ainsi rien ne s’oppose à vos soins diligens*.</l>
+            <l n="1370" xml:id="l1370">Ainsi rien ne s’oppose à vos soins diligens.</l>
           </sp>
           <sp xml:id="IV07-6" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -4163,7 +4160,7 @@
             <l n="1380" xml:id="l1380">Toy que l’on m’a dépeint, et que chacun soupçonne.</l>
           </sp>
           <sp xml:id="IV08-11" who="dom-jean-de-carcame">
-            <speaker>ANDRES <hi rend="i">la tirant à part, et luy parlant bas.</hi></speaker>
+            <speaker>ANDRES </speaker><stage>la tirant à part, et luy parlant bas.</stage>
             <l n="1381" xml:id="l1381">Celle qui m’a prié m’ose-t’elle accuser ?</l>
             <l n="1382" xml:id="l1382">Craint-elle point la honte où je puis l’exposer ?</l>
           </sp>
@@ -4180,7 +4177,7 @@
           </sp>
           <sp xml:id="IV08-14" who="hipolite">
             <speaker>Hipolite.</speaker>
-            <l n="1388" xml:id="l1388">Son bagage fouillé prouve<note n="387" place="bottom"> Comprendre : prouvera. </note> ma <ref target="#conjecture">conjecture*</ref>,</l>
+            <l n="1388" xml:id="l1388">Son bagage fouillé prouve<note n="387" place="bottom"> Comprendre : prouvera. </note> ma <ref target="#conjecture">conjecture</ref>,</l>
             <l n="1389" xml:id="l1389" part="I">Commandés qu’on l’apporte.</l>
           </sp>
           <sp xml:id="IV08-15" who="dom-jean-de-carcame">
@@ -4218,7 +4215,7 @@
             <l n="1396" xml:id="l1396">Nous n’aurions point ces maux si l’on l’eut caressée<note n="388" place="bottom"> La Vieille pense qu’il aurait fallu flatter Hipolite pour ne pas la mécontenter.</note>.</l>
           </sp>
           <sp xml:id="IV08-23" who="hipolite">
-            <speaker>HIPOLITE <hi rend="i">voyant l’Egiptien qui revient avec la malle.</hi></speaker>
+            <speaker>HIPOLITE </speaker><stage>voyant l’Egiptien qui revient avec la malle.</stage>
             <l n="1397" xml:id="l1397">Apporte icy, mets là, vous verrés si j’ay tort</l>
             <l n="1398" xml:id="l1398" part="I">D'accuser ce voleur.</l>
           </sp>
@@ -4231,9 +4228,9 @@
             <l part="F">Mais quel sort !</l>
           </sp>
           <sp xml:id="IV08-26" who="hipolite">
-            <speaker>HIPOLITE, <hi rend="i">fouillant la malle.</hi></speaker>
+            <speaker>HIPOLITE, </speaker><stage>fouillant la malle.</stage>
             <l n="1399" xml:id="l1399">Ne voyla pas déjà mes bracelets, ma chaine ?</l>
-            <l n="1400" xml:id="l1400">Pour découvrir le reste il ne faut point de géne*.</l>
+            <l n="1400" xml:id="l1400">Pour découvrir le reste il ne faut point de géne.</l>
           </sp>
           <sp xml:id="IV08-27" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -4273,11 +4270,11 @@
           <sp xml:id="IV08-35" who="hipolite">
             <speaker>Hipolite.</speaker>
             <l n="1409" xml:id="l1409">Courage, le voicy, nous tenons tout. Enfin</l>
-            <l n="1410" xml:id="l1410">Confesse qu’avec moy tu n’es pas le plus <ref target="#fin">fin*</ref>.<pb n="108"/></l>
+            <l n="1410" xml:id="l1410">Confesse qu’avec moy tu n’es pas le plus <ref target="#fin">fin</ref>.<pb n="108"/></l>
           </sp>
           <sp xml:id="IV08-36" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
-            <l n="1411" xml:id="l1411">Ouy, je succombe aux <ref target="#trait">trais*</ref> de ta noire malice.</l>
+            <l n="1411" xml:id="l1411">Ouy, je succombe aux <ref target="#trait">trais</ref> de ta noire malice.</l>
           </sp>
           <sp xml:id="IV08-37" who="hipolite">
             <speaker>Hipolite.</speaker>
@@ -4303,7 +4300,7 @@
             <l n="1416" xml:id="l1416" part="I">Tu m’empesches en vain.</l>
           </sp>
           <sp xml:id="IV08-42" who="archer">
-            <speaker>UN ARCHER <hi rend="i">luy donnant un soufflet.</hi></speaker>
+            <speaker>UN ARCHER </speaker><stage>luy donnant un soufflet.</stage>
             <l part="F">Tu discoures encore.<note n="390" place="bottom"> Dans l’édition de 1671, la réplique est remplacée par « Quoy, tu discour encore ! » ce qui permet de faciliter la diction de l’hémistiche alourdi par la liaison.</note></l>
           </sp>
           <sp xml:id="IV08-43" who="precieuse">
@@ -4311,7 +4308,7 @@
             <l n="1417" xml:id="l1417" part="I">Ha Dieu, quelle impudence !</l>
           </sp>
           <sp xml:id="IV08-44" who="dom-jean-de-carcame">
-            <speaker>ANDRES <hi rend="i">le tuant de son épée, qu’il luy tire de son costé.</hi></speaker>
+            <speaker>ANDRES </speaker><stage>le tuant de son épée, qu’il luy tire de son costé.</stage>
             <l part="F">Un soufflet, effronté !<pb n="109"/></l>
             <l n="1418" xml:id="l1418">Ton sang me vangera de ta temerité.</l>
           </sp>
@@ -4343,7 +4340,7 @@
           <sp xml:id="IV08-51" who="hipolite">
             <speaker>Hipolite.</speaker>
             <l n="1423" xml:id="l1423">Amis, vangés la mort de vôtre camarade,</l>
-            <l n="1424" xml:id="l1424"><ref target="#immoler">Immolés*</ref>-luy ce traitre, et toute sa brigade,</l>
+            <l n="1424" xml:id="l1424"><ref target="#immoler">Immolés</ref>-luy ce traitre, et toute sa brigade,</l>
             <l n="1425" xml:id="l1425">Encor sera-ce peu pour contenter son sang.<pb n="110"/></l>
           </sp>
           <sp xml:id="IV08-52" who="le-prevost">
@@ -4367,7 +4364,7 @@
           <sp xml:id="IV08-56" who="le-prevost">
             <speaker>Le Prevost.</speaker>
             <l n="1432" xml:id="l1432">Je seray toujours prest à vous rendre service.</l>
-            <p rend="center">Fin du quatriéme Acte.</p>
+            <trailer rend="center">Fin du quatriéme Acte.</trailer>
           </sp>
         </div>
       </div>
@@ -4382,7 +4379,7 @@
             <speaker>Isabelle.</speaker>
             <l n="1433" xml:id="l1433">Vous voyés bien, Monsieur, par cet évenement,</l>
             <l n="1434" xml:id="l1434">Qu'hier je combatois vos bontés justement,</l>
-            <l n="1435" xml:id="l1435">Et qu’avecque raison mon ame estoit <ref target="#gene">génée*</ref></l>
+            <l n="1435" xml:id="l1435">Et qu’avecque raison mon ame estoit <ref target="#gene">génée</ref></l>
             <l n="1436" xml:id="l1436">De la permission<note n="393" place="bottom"> Diérèse. Nous en trouvons d’autre aux termes suivants : « occasion » (v.1545, v.1636, v.1774), « affection » (v.1546, v.1694, v.1773), « confusion » (v.1620), « extraction » (v.1693, v.1825), « actions » (v.1804), « odieux » (v.1445), « glorieux » (v.1477, v.1666, v.1782), « precieux » (v.1621, v.1710), « Egiptien » (v.1565, v.1732, v.1746), « Egiptienne » (v.1665, v.1760, v.1795).</note> que vous aviés donnée :</l>
             <l n="1437" xml:id="l1437">Ces démons que le Ciel eut déjà foudroyés,</l>
             <l n="1438" xml:id="l1438">Si comme un de ses fleaux<note n="394" place="bottom"> Synérèse : « fléaux » se prononce comme un monosyllabe.</note> il n’estoient envoyés,</l>
@@ -4395,7 +4392,7 @@
             <l n="1445" xml:id="l1445">Tant ce charme odieux est puissant sur leurs cœurs,</l>
             <l n="1446" xml:id="l1446">Il faut donc l’arracher par d’extrémes rigueurs,</l>
             <l n="1447" xml:id="l1447">Et qu’un arrest de flame en ce jour extérmine</l>
-            <l n="1448" xml:id="l1448">Ces noirs autheurs de maux, de fraude et de <ref target="#rapine">rapine*</ref>.</l>
+            <l n="1448" xml:id="l1448">Ces noirs autheurs de maux, de fraude et de <ref target="#rapine">rapine</ref>.</l>
           </sp>
           <sp xml:id="V01-2" who="ferdinand">
             <speaker>Ferdinand.</speaker>
@@ -4408,10 +4405,10 @@
           </sp>
           <sp xml:id="V01-3" who="isabelle">
             <speaker>Isabelle.</speaker>
-            <l n="1455" xml:id="l1455">N'en demeurés pas là, que de rudes <ref target="#supplice">suplices*</ref></l>
+            <l n="1455" xml:id="l1455">N'en demeurés pas là, que de rudes <ref target="#supplice">suplices</ref></l>
             <l n="1456" xml:id="l1456">Soient aussi preparés pour ses lâches complices ;</l>
             <l n="1457" xml:id="l1457">Une seule entre tous m’excite à la pitié,</l>
-            <l n="1458" xml:id="l1458">Et par un tendre instinct gagne mon <ref target="#amitie">amitié*</ref>,</l>
+            <l n="1458" xml:id="l1458">Et par un tendre instinct gagne mon <ref target="#amitie">amitié</ref>,</l>
             <l n="1459" xml:id="l1459">Ce charme de nos cœurs, ce jeune astre qui brille,</l>
             <l n="1460" xml:id="l1460">Me fait ressouvenir de nôtre chere fille,</l>
             <l n="1461" xml:id="l1461">A ce triste penser, coulés, coulés mes pleurs.<pb n="P, 113"/></l>
@@ -4426,8 +4423,8 @@
             <speaker>Isabelle.</speaker>
             <l n="1465" xml:id="l1465">Helas ! depuis douze ans qu’un destin mal-heureux</l>
             <l n="1466" xml:id="l1466">Nous ravit à Madrid ce gage de nos feux,</l>
-            <l n="1467" xml:id="l1467">Au travers des <ref target="#ennui">ennuis*</ref> dont je suis possedee,</l>
-            <l n="1468" xml:id="l1468">Cet <ref target="#objet">objet*</ref> que je plains m’en retrace l’idee.</l>
+            <l n="1467" xml:id="l1467">Au travers des <ref target="#ennui">ennuis</ref> dont je suis possedee,</l>
+            <l n="1468" xml:id="l1468">Cet <ref target="#objet">objet</ref> que je plains m’en retrace l’idee.</l>
             <l n="1469" xml:id="l1469">Cela luy doit valoir quelque meilleur parti,</l>
             <l n="1470" xml:id="l1470">Son sort avec ce traitre estoit mal assorti,</l>
             <l n="1471" xml:id="l1471">Pour un plus noble époux elle semble estre nee.</l>
@@ -4441,7 +4438,7 @@
             <l n="1473" xml:id="l1473">En m’apprenant son crime on me l’a dit ainsi,</l>
             <l n="1474" xml:id="l1474">Mais dessus ce propos je croy que la voicy,<note n="396" place="bottom"> Var. : « Mais le sort à propos l’a fait venir icy, »</note></l>
             <l n="1475" xml:id="l1475">Considérés, Monsieur, sa grace non commune,</l>
-            <l n="1476" xml:id="l1476">Et ce front dont l’éclat repugne à sa <ref target="#fortune">fortune*</ref>.</l>
+            <l n="1476" xml:id="l1476">Et ce front dont l’éclat repugne à sa <ref target="#fortune">fortune</ref>.</l>
           </sp>
           <sp xml:id="V01-8" who="ferdinand">
             <speaker>Ferdinand.</speaker>
@@ -4467,7 +4464,7 @@
             <l n="1482" xml:id="l1482">Sa vertu vous en prie, et le Ciel y consent,</l>
             <l n="1483" xml:id="l1483">S'il meurt, je doy mourir, c’est à tort qu’on l’accuse,</l>
             <l n="1484" xml:id="l1484">Le vol qu’on luy suppose est l’effet d’une ruse,</l>
-            <l n="1485" xml:id="l1485">C'est un mauvais <ref target="#office">office*</ref>, et qui part d’un démon</l>
+            <l n="1485" xml:id="l1485">C'est un mauvais <ref target="#office">office</ref>, et qui part d’un démon</l>
             <l n="1486" xml:id="l1486">Dont il vous apprendra la malice et le nom,</l>
             <l n="1487" xml:id="l1487">Faites-luy seulement la faveur de l’entendre,</l>
             <l n="1488" xml:id="l1488">Escoutés ses raisons qui le sçauront defendre,</l>
@@ -4492,14 +4489,14 @@
             <l n="1501" xml:id="l1501">Qu'on me mette en sa place, et qu’il soit delivré,</l>
             <l n="1502" xml:id="l1502">Il ne sçauroit mourir tandis que je vivray,</l>
             <l n="1503" xml:id="l1503">Il vit dedans mon cœur beaucoup mieux qu’en luy-mesme,</l>
-            <l n="1504" xml:id="l1504">Et je suis cause enfin de ce <ref target="#malheur">mal-heur*</ref> extréme.</l>
+            <l n="1504" xml:id="l1504">Et je suis cause enfin de ce <ref target="#malheur">mal-heur</ref> extréme.</l>
             <l n="1505" xml:id="l1505" part="I">Mais oyés ses raisons.</l>
           </sp>
           <sp xml:id="V02-4" who="ferdinand">
             <speaker>Ferdinand.</speaker>
             <l part="F">Cesse de t’affliger,</l>
             <l n="1506" xml:id="l1506">Ouy, tes vœux sont receus, je vay l’interroger,</l>
-            <l n="1507" xml:id="l1507">Demeure cependant pour <ref target="#divertir">divertir*</ref> Madame.<pb n="116"/></l>
+            <l n="1507" xml:id="l1507">Demeure cependant pour <ref target="#divertir">divertir</ref> Madame.<pb n="116"/></l>
           </sp>
           <sp xml:id="V02-5" who="isabelle">
             <speaker>Isabelle.</speaker>
@@ -4514,7 +4511,7 @@
             <speaker>Precieuse.</speaker>
             <l part="F">Hé ! Monsieur, depéchés.</l>
             <l n="1511" xml:id="l1511">Justes Dieux qui sçavés le crime et l’innocence !</l>
-            <l n="1512" xml:id="l1512">N'ordonnés point la peine à qui <ref target="#souffrir">souffre*</ref> l’offense.</l>
+            <l n="1512" xml:id="l1512">N'ordonnés point la peine à qui <ref target="#souffrir">souffre</ref> l’offense.</l>
           </sp>
         </div>
         <div type="scene" xml:id="V03">
@@ -4537,8 +4534,8 @@
             <l n="1525" xml:id="l1525" part="I">Bonne mere, approchés.</l>
           </sp>
           <sp xml:id="V03-2" who="la-vieille">
-            <speaker>LA VIEILLE <hi rend="i">à part.</hi></speaker>
-            <l part="F">Dans l’<ref target="#ennui">ennuy*</ref> que je sens</l>
+            <speaker>LA VIEILLE </speaker><stage>à part.</stage>
+            <l part="F">Dans l’<ref target="#ennui">ennuy</ref> que je sens</l>
             <l n="1526" xml:id="l1526">Quelle nouvelle peur vient troubler tous mes sens ?</l>
           </sp>
           <sp xml:id="V03-3" who="isabelle">
@@ -4567,7 +4564,7 @@
             <l n="1534" xml:id="l1534">Qu'on nous ravit si jeune à Madrid en plein jour.</l>
           </sp>
           <sp xml:id="V03-8" who="la-vieille">
-            <speaker>LA VIEILLE <hi rend="i">à part.</hi></speaker>
+            <speaker>LA VIEILLE </speaker><stage>à part.</stage>
             <l n="1535" xml:id="l1535" part="I">Dieu ! Qu'est-ce que j’entens ?</l>
           </sp>
           <sp xml:id="V03-9" who="isabelle">
@@ -4575,7 +4572,7 @@
             <l part="F">Ha, ma chere Constance !</l>
           </sp>
           <sp xml:id="V03-10" who="la-vieille">
-            <speaker>LA VIEILLE <hi rend="i">à part.</hi></speaker>
+            <speaker>LA VIEILLE </speaker><stage>à part.</stage>
             <l n="1536" xml:id="l1536" part="I">Voyla son mesme nom.</l>
           </sp>
           <sp xml:id="V03-11" who="isabelle">
@@ -4584,7 +4581,7 @@
             <l n="1537" xml:id="l1537">Fay nous voir ta personne, et non pas ton portrait.<note n="401" place="bottom"> Isabelle demande à ce que Précieuse s’avance vers elle.</note></l>
           </sp>
           <sp xml:id="V03-12" who="la-vieille">
-            <speaker>LA VIEILLE <hi rend="i">à part.</hi></speaker>
+            <speaker>LA VIEILLE </speaker><stage>à part.</stage>
             <l n="1538" xml:id="l1538">O Ciel ! pour quelque temps cache encor ce secret.</l>
           </sp>
           <sp xml:id="V03-13" who="isabelle">
@@ -4595,15 +4592,15 @@
           <sp xml:id="V03-14" who="precieuse">
             <speaker>Precieuse.</speaker>
             <l part="F">Si ma priere est vaine,</l>
-            <l n="1541" xml:id="l1541">Madame assurés-vous que je cours au trespas*,</l>
+            <l n="1541" xml:id="l1541">Madame assurés-vous que je cours au trespas,</l>
             <l n="1542" xml:id="l1542">Puisque de mon époux je veux suivre les pas.</l>
           </sp>
           <sp xml:id="V03-15" who="isabelle">
             <speaker>Isabelle.</speaker>
             <l n="1543" xml:id="l1543">Ha ! c’est trop affecter<note n="403" place="bottom"> Affecter « se dit aussi pour marquer l’inclination par laquelle on veut une chose, une personne plutôt qu’une autre. » (Ac.)</note> sa ville destinée,<note n="404" place="bottom"> Autre orthographe pour « vile destinée ».</note></l>
-            <l n="1544" xml:id="l1544">Espere, Precieuse, un plus noble <ref target="#hymen">Hymenée*</ref>,</l>
+            <l n="1544" xml:id="l1544">Espere, Precieuse, un plus noble <ref target="#hymen">Hymenée</ref>,</l>
             <l n="1545" xml:id="l1545">Ouy, nous voulons donner en cette occasion</l>
-            <l n="1546" xml:id="l1546">Un plus illustre <ref target="#objet">objet*</ref> à ton affection.</l>
+            <l n="1546" xml:id="l1546">Un plus illustre <ref target="#objet">objet</ref> à ton affection.</l>
           </sp>
           <sp xml:id="V03-16" who="precieuse">
             <speaker>Precieuse.</speaker>
@@ -4622,13 +4619,13 @@
           <sp xml:id="V03-18" who="precieuse">
             <speaker>Precieuse.</speaker>
             <l n="1555" xml:id="l1555">Ha ! ne luy donnés point cette honteuse tache,</l>
-            <l n="1556" xml:id="l1556">Il est bien éloigné d’un <ref target="#sentiment">sentiment*</ref> si lâche,<pb n="120"/></l>
+            <l n="1556" xml:id="l1556">Il est bien éloigné d’un <ref target="#sentiment">sentiment</ref> si lâche,<pb n="120"/></l>
             <l n="1557" xml:id="l1557">Puisque quelque tresor qu’on lui vint presenter,</l>
             <l n="1558" xml:id="l1558">Je doute avec raison qu’il voulut l’accepter.</l>
             <l n="1559" xml:id="l1559">Il est riche et content, il est sage et fidelle,</l>
             <l n="1560" xml:id="l1560">C'est d’un homme de bien le plus parfait modelle,</l>
             <l n="1561" xml:id="l1561">Et s’il avait l’honneur d’estre connu de vous,</l>
-            <l n="1562" xml:id="l1562">Vous vous <ref target="#etonner">étonneriés*</ref> qu’il se fit mon époux.</l>
+            <l n="1562" xml:id="l1562">Vous vous <ref target="#etonner">étonneriés</ref> qu’il se fit mon époux.</l>
           </sp>
           <sp xml:id="V03-19" who="isabelle">
             <speaker>Isabelle.</speaker>
@@ -4647,7 +4644,7 @@
           <sp xml:id="V03-22" who="precieuse">
             <speaker>Precieuse.</speaker>
             <l n="1568" xml:id="l1568">Aussi l’est-il, Madame, en merite, en noblesse,</l>
-            <l n="1569" xml:id="l1569">Et ce cœur <ref target="#genereux">genereux*</ref> n’eut jamais de second<note n="405" place="bottom"> Comprendre : « ce cœur est sans pareil. » </note>.</l>
+            <l n="1569" xml:id="l1569">Et ce cœur <ref target="#genereux">genereux</ref> n’eut jamais de second<note n="405" place="bottom"> Comprendre : « ce cœur est sans pareil. » </note>.</l>
           </sp>
           <sp xml:id="V03-23" who="isabelle">
             <speaker>ISABELLE</speaker>
@@ -4675,31 +4672,31 @@
             <l n="1582" xml:id="l1582">Si vous aimés encor vostre fidelle époux,</l>
             <l n="1583" xml:id="l1583">Madame, par vos soins, vos bontés et vos charmes,</l>
             <l n="1584" xml:id="l1584">Par ces divines mains que j’arrose de larmes,</l>
-            <l n="1585" xml:id="l1585">Par vostre cher époux, par mes fébles <ref target="#appat">apas*</ref>,</l>
+            <l n="1585" xml:id="l1585">Par vostre cher époux, par mes fébles <ref target="#appat">apas</ref>,</l>
             <l n="1586" xml:id="l1586">Que vous me témoignés ne vous déplaire pas<note n="406" place="bottom"> Comprendre : « Vous me témoignez que ces faibles appâts ne vous déplaisent pas ». Selon Nathalie Fournier, cette construction ayant recours à l’infinitive est approuvée. Le glissement de la relative « que vous me témoignez » à l’infinitive « ne vous déplaire pas » est permis par le fait que, syntaxiquement, la relation entre l’objet (« que », soit les « febles apas ») et le prédicat (« déplaire ») n’est pas tant celle d’une construction sujet-verbe que celle entretenue par le couple complément d’objet-attribut du complément d’objet. (v. N. Fournier, <hi rend="i">Grammaire du français classique</hi>, §147 et 150)</note>,</l>
             <l n="1587" xml:id="l1587">Par vostre fille prise en un âge si tendre,</l>
             <l n="1588" xml:id="l1588">Que peut-estre le Ciel se prepare à vous rendre,</l>
             <l n="1589" xml:id="l1589">Par cette ressemblance et ce juste rapport,<pb n="122"/></l>
             <l n="1590" xml:id="l1590">D'âge, d’aspect, de mœurs, et possible de sort,</l>
-            <l n="1591" xml:id="l1591">Enfin au nom d’<ref target="#hymen">Hymen*</ref> je demande une grace,</l>
+            <l n="1591" xml:id="l1591">Enfin au nom d’<ref target="#hymen">Hymen</ref> je demande une grace,</l>
             <l n="1592" xml:id="l1592">Que la Justice mesme ordonne qu’on nous fasse,</l>
             <l n="1593" xml:id="l1593">Ne laissés point au vice opprimer la vertu<note n="407" place="bottom"> Emploi du verbe « laisser » comme semi-auxiliaire (« laisser opprimer ») qui justifie la construction intransitive avec la préposition « à » (« au vice »). </note>,</l>
-            <l n="1594" xml:id="l1594">Mon <ref target="#genereux">genereux*</ref> Andres l’a trop bien combatu,</l>
+            <l n="1594" xml:id="l1594">Mon <ref target="#genereux">genereux</ref> Andres l’a trop bien combatu,</l>
             <l n="1595" xml:id="l1595">Sauvés-le du danger où l’a mis l’imposture,</l>
-            <l n="1596" xml:id="l1596">Mon destin est meslé dans sa triste <ref target="#aventure">avanture*</ref>,</l>
-            <l n="1597" xml:id="l1597">E s’il succombe aux <ref target="#trait">trais*</ref> d’une injuste rigueur,</l>
-            <l n="1598" xml:id="l1598">Les mesmes <ref target="#trait">trais*</ref> aussi me perceront le cœur.</l>
+            <l n="1596" xml:id="l1596">Mon destin est meslé dans sa triste <ref target="#aventure">avanture</ref>,</l>
+            <l n="1597" xml:id="l1597">E s’il succombe aux <ref target="#trait">trais</ref> d’une injuste rigueur,</l>
+            <l n="1598" xml:id="l1598">Les mesmes <ref target="#trait">trais</ref> aussi me perceront le cœur.</l>
           </sp>
           <sp xml:id="V03-27" who="isabelle">
             <speaker>Isabelle.</speaker>
             <l n="1599" xml:id="l1599">Quoy qu’il ait fait pour toy, par là tu le surpasses,</l>
-            <l n="1600" xml:id="l1600">Heureux dans son <ref target="#malheur">mal-heur*</ref> d’avoir tes bonnes <ref target="#graces">graces*</ref>,</l>
-            <l n="1601" xml:id="l1601">Hé bien, pour t’obliger* ; je parleray pour luy,</l>
-            <l n="1602" xml:id="l1602">Modere cependant l’excez de ton <ref target="#ennui">ennuy*</ref>.</l>
+            <l n="1600" xml:id="l1600">Heureux dans son <ref target="#malheur">mal-heur</ref> d’avoir tes bonnes <ref target="#graces">graces</ref>,</l>
+            <l n="1601" xml:id="l1601">Hé bien, pour t’obliger ; je parleray pour luy,</l>
+            <l n="1602" xml:id="l1602">Modere cependant l’excez de ton <ref target="#ennui">ennuy</ref>.</l>
           </sp>
           <sp xml:id="V03-28" who="la-vieille">
-            <speaker>LA VIEILLE <hi rend="i">à part.</hi></speaker>
-            <l n="1603" xml:id="l1603">Parlons ; pour <ref target="#second">seconder*</ref> une si juste envie,</l>
+            <speaker>LA VIEILLE </speaker><stage>à part.</stage>
+            <l n="1603" xml:id="l1603">Parlons ; pour <ref target="#second">seconder</ref> une si juste envie,</l>
             <l n="1604" xml:id="l1604">C'est l’unique moyen pour luy sauver la vie.</l>
             <l n="1605" xml:id="l1605" part="I">Puis-je esperer, Madame, un pardon ?</l>
           </sp>
@@ -4730,7 +4727,7 @@
           </sp>
           <sp xml:id="V03-35" who="isabelle">
             <speaker>Isabelle.</speaker>
-            <l n="1610" xml:id="l1610">Un si nouveau remors estonne* mes espris,</l>
+            <l n="1610" xml:id="l1610">Un si nouveau remors estonne mes espris,</l>
             <l n="1611" xml:id="l1611">Et déja sur ce point certain desir me presse,</l>
             <l n="1612" xml:id="l1612" part="I">Parlés donc,<note n="408" place="bottom"> L'usage d’une virgule est commandé par l’intonation exclamative du personnage qui demeure en attente d’une réponse.</note></l>
           </sp>
@@ -4740,7 +4737,7 @@
           </sp>
           <sp xml:id="V03-37" who="la-vieille">
             <speaker>La Vieille.</speaker>
-            <l n="1613" xml:id="l1613">Si l’heureux <ref target="#accident">accident*</ref> que je vay découvrir</l>
+            <l n="1613" xml:id="l1613">Si l’heureux <ref target="#accident">accident</ref> que je vay découvrir</l>
             <l n="1614" xml:id="l1614">Ne sçauroit empescher qu’on me fasse mourir,<pb n="124"/></l>
             <l n="1615" xml:id="l1615">Et si vostre bonté vainement je reclame,</l>
             <l n="1616" xml:id="l1616">Au moins auparavant, lisés cela Madame,</l>
@@ -4767,13 +4764,13 @@
           <sp xml:id="V03-41" who="isabelle">
             <speaker>Isabelle.</speaker>
             <l n="1625" xml:id="l1625">Quoy, c’est là ma Constance ? hé dites-moy comment,</l>
-            <l n="1626" xml:id="l1626">Ne laissés point de doute en mon <ref target="#ravissement">ravissement*</ref>.</l>
+            <l n="1626" xml:id="l1626">Ne laissés point de doute en mon <ref target="#ravissement">ravissement</ref>.</l>
           </sp>
           <sp xml:id="V03-42" who="la-vieille">
             <speaker>La Vieille.</speaker>
             <l n="1627" xml:id="l1627">Faites-moy donc l’honneur de m’écouter encore.</l>
             <l n="1628" xml:id="l1628">Je pris cette beauté, que tout le monde adore,<pb n="125"/></l>
-            <l n="1629" xml:id="l1629">A l’âge de trois ans, <ref target="#devers">devers*</ref><note n="409" place="bottom"> Comprendre : vers cette époque de l’année. </note> cette saison,</l>
+            <l n="1629" xml:id="l1629">A l’âge de trois ans, <ref target="#devers">devers</ref><note n="409" place="bottom"> Comprendre : vers cette époque de l’année. </note> cette saison,</l>
             <l n="1630" xml:id="l1630">A Madrid, en plein jour, et dans vôtre maison,</l>
             <l n="1631" xml:id="l1631">J'appris secretement qu’on la nommoit Constance,</l>
             <l n="1632" xml:id="l1632">Et fis écrire un mot de chaque circonstance<note n="410" place="bottom"> L'édition de 1671 mentionne dans une didascalie que la Vieille remet « une carte roulée » annotée à Isabelle en même temps que le collier.</note>,</l>
@@ -4784,7 +4781,7 @@
             <l n="1637" xml:id="l1637">Depuis elle a vescu mieux que nous ne faisons,</l>
             <l n="1638" xml:id="l1638">En combatant nos mœurs avec mille raisons,</l>
             <l n="1639" xml:id="l1639">Dont les moindres prouvoient par leur force divine</l>
-            <l n="1640" xml:id="l1640">La <ref target="#gloire">gloire*</ref> et la vertu de sa noble origine.</l>
+            <l n="1640" xml:id="l1640">La <ref target="#gloire">gloire</ref> et la vertu de sa noble origine.</l>
           </sp>
           <sp xml:id="V03-43" who="isabelle">
             <speaker>Isabelle.</speaker>
@@ -4795,15 +4792,15 @@
           </sp>
           <sp xml:id="V03-44" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="1645" xml:id="l1645">Madame, je cheris un <ref target="#bonheur">bon-heur*</ref> si parfait,</l>
+            <l n="1645" xml:id="l1645">Madame, je cheris un <ref target="#bonheur">bon-heur</ref> si parfait,</l>
             <l n="1646" xml:id="l1646">D'autant plus que je voy qu’il vous plaist en effet.</l>
           </sp>
           <sp xml:id="V03-45" who="isabelle">
             <speaker>Isabelle.</speaker>
-            <l n="1647" xml:id="l1647">Apres douze ans d’<ref target="#ennui">ennuis*</ref> et de peine <ref target="#souffrir">soufferte*</ref>,<pb n="126"/></l>
+            <l n="1647" xml:id="l1647">Apres douze ans d’<ref target="#ennui">ennuis</ref> et de peine <ref target="#souffrir">soufferte</ref>,<pb n="126"/></l>
             <l n="1648" xml:id="l1648">Je recouvre en ce jour une si chere perte,</l>
             <l n="1649" xml:id="l1649">Je te revoy, ma fille, ha quel contentement !</l>
-            <l n="1650" xml:id="l1650">O favorable* jour, ô bien-heureux moment !</l>
+            <l n="1650" xml:id="l1650">O favorable jour, ô bien-heureux moment !</l>
             <l n="1651" xml:id="l1651">Ouy, tout confirme icy ces faveurs desirees,</l>
             <l n="1652" xml:id="l1652">J'en voy dessus ton bras des marques assurees,</l>
             <l n="1653" xml:id="l1653">Mon œil de ce colier reconnoist la façon,</l>
@@ -4839,7 +4836,7 @@
             <speaker>La Vieille.</speaker>
             <l part="F">Et son nom seul en donne connessance.</l>
             <l n="1665" xml:id="l1665">L'esprit de vôtre fille avec sa chasteté,</l>
-            <l n="1666" xml:id="l1666">D'un pouvoir glorieux <ref target="#second">secondant*</ref> sa beauté,</l>
+            <l n="1666" xml:id="l1666">D'un pouvoir glorieux <ref target="#second">secondant</ref> sa beauté,</l>
             <l n="1667" xml:id="l1667">Ont fait naitre en plusieurs une amour sans pareille</l>
             <l n="1668" xml:id="l1668">Pour cette incomparable et celeste merveille,</l>
             <l n="1669" xml:id="l1669">Mais Dom Jean de Carcame est le seul entre tous</l>
@@ -4856,9 +4853,9 @@
           </sp>
           <sp xml:id="V03-53" who="isabelle">
             <speaker>Isabelle.</speaker>
-            <l n="1674" xml:id="l1674">Ha l’aimable <ref target="#aventure">avanture*</ref>, ha l’<ref target="#insigne">insigne*</ref> <ref target="#bonheur">bon-heur*</ref> !</l>
+            <l n="1674" xml:id="l1674">Ha l’aimable <ref target="#aventure">avanture</ref>, ha l’<ref target="#insigne">insigne</ref> <ref target="#bonheur">bon-heur</ref> !</l>
             <l n="1675" xml:id="l1675">Sois beny juste Ciel d’un destin si prospere,<pb n="128"/></l>
-            <l n="1676" xml:id="l1676">Que ce rare <ref target="#accident">accident*</ref> va réjouir ton père !</l>
+            <l n="1676" xml:id="l1676">Que ce rare <ref target="#accident">accident</ref> va réjouir ton père !</l>
           </sp>
           <sp xml:id="V03-54" who="precieuse">
             <speaker>Precieuse.</speaker>
@@ -4902,8 +4899,8 @@
             <l part="F">Enfin, console toy,</l>
             <l n="1691" xml:id="l1691">Attens cette faveur des bontés de ton pere,</l>
             <l n="1692" xml:id="l1692">C'est luy qui te rendra ce noble époux, espere<note n="413" place="bottom"> Comprendre : « espère que c’est lui qui te rendra ce noble époux ».</note> :</l>
-            <l n="1693" xml:id="l1693">Ce que tu m’as appris de son <ref target="#extraction">extraction*</ref></l>
-            <l n="1694" xml:id="l1694">Le rend un digne <ref target="#objet">objet*</ref> de ton affection,</l>
+            <l n="1693" xml:id="l1693">Ce que tu m’as appris de son <ref target="#extraction">extraction</ref></l>
+            <l n="1694" xml:id="l1694">Le rend un digne <ref target="#objet">objet</ref> de ton affection,</l>
             <l n="1695" xml:id="l1695" part="I">Mais le voicy.</l>
           </sp>
         </div>
@@ -4912,8 +4909,8 @@
           <stage>FERDINAND, ISABELLE, PRECIEUSE, LA VIEILLE, UN VALET muët.</stage>
           <sp xml:id="V04-1" who="isabelle">
             <speaker>Isabelle.</speaker>
-            <l part="F">Monsieur, benissés l’<ref target="#aventure">avanture*</ref></l>
-            <l n="1696" xml:id="l1696">Qui prepare une histoire à la <ref target="#race">race*</ref> future,</l>
+            <l part="F">Monsieur, benissés l’<ref target="#aventure">avanture</ref></l>
+            <l n="1696" xml:id="l1696">Qui prepare une histoire à la <ref target="#race">race</ref> future,</l>
             <l n="1697" xml:id="l1697" part="I">Qui nous rend nôtre fille.<pb n="130"/></l>
           </sp>
           <sp xml:id="V04-2" who="ferdinand">
@@ -4936,7 +4933,7 @@
             <l n="1702" xml:id="l1702">La marque de son bras, le colier que voicy,</l>
             <l n="1703" xml:id="l1703">Et ce que dit encor cette carte roulee</l>
             <l n="1704" xml:id="l1704">De l’endroit et du temps qu’elle nous fut volee,</l>
-            <l n="1705" xml:id="l1705">Vous doivent bien, Monsieur, assurer du <ref target="#bonheur">bon-heur*</ref></l>
+            <l n="1705" xml:id="l1705">Vous doivent bien, Monsieur, assurer du <ref target="#bonheur">bon-heur</ref></l>
             <l n="1706" xml:id="l1706">Qui nous la rend si belle, et même avec l’honneur.</l>
           </sp>
           <sp xml:id="V04-6" who="ferdinand">
@@ -5004,10 +5001,10 @@
           </sp>
           <sp xml:id="V04-18" who="ferdinand">
             <speaker>Ferdinand.</speaker>
-            <l n="1731" xml:id="l1731">Dom François de Carcame ! ô Ciel ! quels <ref target="#avantage">avantages*</ref>,</l>
+            <l n="1731" xml:id="l1731">Dom François de Carcame ! ô Ciel ! quels <ref target="#avantage">avantages</ref>,</l>
             <l n="1732" xml:id="l1732">Ce noble compagnon d’armes et de voyages,</l>
             <l n="1733" xml:id="l1733">Mon Pylade<note n="416" place="bottom"> Référence au mythe selon lequel Oreste et Pylade étaient inséparables.</note> avec qui j’ay si long-temps vescu,<pb n="133"/></l>
-            <l n="1734" xml:id="l1734">Mon <ref target="#second">second*</ref>, avec qui j’ay tant de fois vaincu,</l>
+            <l n="1734" xml:id="l1734">Mon <ref target="#second">second</ref>, avec qui j’ay tant de fois vaincu,</l>
             <l n="1735" xml:id="l1735">Ha comble de plaisir qui n’est point ordinaire !</l>
             <l n="1736" xml:id="l1736">Ouy par l’aspect du fils je me remets le pere,</l>
             <l n="1737" xml:id="l1737">Il est ainsi posé, grave, modeste et doux.</l>
@@ -5023,7 +5020,7 @@
           </sp>
           <sp xml:id="V04-21" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="1741" xml:id="l1741">Je n’ay d’amour pour luy dans un si grand <ref target="#bonheur">bon-heur*</ref></l>
+            <l n="1741" xml:id="l1741">Je n’ay d’amour pour luy dans un si grand <ref target="#bonheur">bon-heur</ref></l>
             <l n="1742" xml:id="l1742">Que ce qu’en doit avoir une fille d’honneur,</l>
             <l n="1743" xml:id="l1743">Une fille portée à la reconnessance</l>
             <l n="1744" xml:id="l1744">Des devoirs d’un amant de si haute naissance,</l>
@@ -5067,9 +5064,9 @@
           <sp xml:id="V05-3" who="ferdinand">
             <speaker>Ferdinand.</speaker>
             <l n="1754" xml:id="l1754">Ouy, je veux aujourd’huy rendre tes vœux contens,<pb n="135"/></l>
-            <l n="1755" xml:id="l1755">Devant que<note n="419" place="bottom"> Comprendre : plutôt que de...</note> de <ref target="#souffrir">souffrir*</ref> la mort la plus infame,</l>
-            <l n="1756" xml:id="l1756">A l’<ref target="#hymen">Hymen*</ref> pretendu dispose icy ton ame,</l>
-            <l n="1757" xml:id="l1757">M'as-tu pas demandé cette <ref target="#insigne">insigne*</ref> faveur ?</l>
+            <l n="1755" xml:id="l1755">Devant que<note n="419" place="bottom"> Comprendre : plutôt que de...</note> de <ref target="#souffrir">souffrir</ref> la mort la plus infame,</l>
+            <l n="1756" xml:id="l1756">A l’<ref target="#hymen">Hymen</ref> pretendu dispose icy ton ame,</l>
+            <l n="1757" xml:id="l1757">M'as-tu pas demandé cette <ref target="#insigne">insigne</ref> faveur ?</l>
           </sp>
           <sp xml:id="V05-4" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -5101,7 +5098,7 @@
           </sp>
           <sp xml:id="V05-10" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
-            <l n="1767" xml:id="l1767">Ces reproches honteux commencent mon <ref target="#supplice">suplice*</ref>.</l>
+            <l n="1767" xml:id="l1767">Ces reproches honteux commencent mon <ref target="#supplice">suplice</ref>.</l>
           </sp>
           <sp xml:id="V05-11" who="ferdinand">
             <speaker>Ferdinand.</speaker>
@@ -5138,7 +5135,7 @@
             <speaker>Andres.</speaker>
             <l n="1780" xml:id="l1780">Si j’ay la liberté, permetés que j’en use.</l>
             <l n="1781" xml:id="l1781">Ce n’est pas que mon sort dans l’honneur de ce chois</l>
-            <l n="1782" xml:id="l1782">Ne fut trop <ref target="#gloire">glorieux*</ref> de vivre sous ses lois,</l>
+            <l n="1782" xml:id="l1782">Ne fut trop <ref target="#gloire">glorieux</ref> de vivre sous ses lois,</l>
             <l n="1783" xml:id="l1783">Mais j’ay déja donné mon ame à cette belle,</l>
             <l n="1784" xml:id="l1784">Et j’aime mieux mourir mal-heureux qu’infidelle.</l>
           </sp>
@@ -5149,7 +5146,7 @@
           </sp>
           <sp xml:id="V05-19" who="precieuse">
             <speaker>Precieuse.</speaker>
-            <l n="1787" xml:id="l1787">Ouy, cet <ref target="#hymen">Hymen*</ref> me plaist, et je vous le conseille.</l>
+            <l n="1787" xml:id="l1787">Ouy, cet <ref target="#hymen">Hymen</ref> me plaist, et je vous le conseille.</l>
           </sp>
           <sp xml:id="V05-20" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -5159,7 +5156,7 @@
           <sp xml:id="V05-21" who="ferdinand">
             <speaker>Ferdinand.</speaker>
             <l part="F">Ne vous en fâchez pas,</l>
-            <l n="1790" xml:id="l1790">Ma fille est aussi belle, et n’a pas moins d’apas*.</l>
+            <l n="1790" xml:id="l1790">Ma fille est aussi belle, et n’a pas moins d’apas.</l>
             <l n="1791" xml:id="l1791" part="I">Madame, montrés-luy.</l>
           </sp>
           <sp xml:id="V05-22" who="isabelle">
@@ -5198,8 +5195,8 @@
           </sp>
           <sp xml:id="V05-27" who="isabelle">
             <speaker>Isabelle.</speaker>
-            <l n="1809" xml:id="l1809">Non, non, un faux <ref target="#appat">apas*</ref> n’abuse point vos yeux,</l>
-            <l n="1810" xml:id="l1810">Au nom de l’<ref target="#hymen">Hymenée*</ref> embrassés-vous tous deux.</l>
+            <l n="1809" xml:id="l1809">Non, non, un faux <ref target="#appat">apas</ref> n’abuse point vos yeux,</l>
+            <l n="1810" xml:id="l1810">Au nom de l’<ref target="#hymen">Hymenée</ref> embrassés-vous tous deux.</l>
           </sp>
           <sp xml:id="V05-28" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
@@ -5240,7 +5237,7 @@
           </sp>
           <sp xml:id="V05-37" who="dom-jean-de-carcame">
             <speaker>Andres.</speaker>
-            <l n="1817" xml:id="l1817">Et vous, pour vous payer ma <ref target="#gloire">gloire*</ref> et votre <ref target="#soin">soin*</ref>,</l>
+            <l n="1817" xml:id="l1817">Et vous, pour vous payer ma <ref target="#gloire">gloire</ref> et votre <ref target="#soin">soin</ref>,</l>
             <l n="1818" xml:id="l1818">Puissiés vous jusqu’au bout en estre le témoin.</l>
             <l n="1819" xml:id="l1819">Mais en faveur du bien que je prétens vous faire,</l>
             <l n="1820" xml:id="l1820">Ayés soin du blessé dont vous sçavés l’affaire.</l>
@@ -5259,9 +5256,9 @@
           </sp>
           <sp xml:id="V05-41" who="ferdinand">
             <speaker>Ferdinand.</speaker>
-            <l n="1823" xml:id="l1823">Au reste assurés-vous d’un aveu* que j’espere,<pb n="141"/></l>
+            <l n="1823" xml:id="l1823">Au reste assurés-vous d’un aveu que j’espere,<pb n="141"/></l>
             <l n="1824" xml:id="l1824">Estant comme je suis amy de vôtre pere,</l>
-            <l n="1825" xml:id="l1825">Joint que<note n="428" place="bottom"> Voir la note 10.</note> l’<ref target="#extraction">extraction*</ref>, les biens, la qualité,</l>
+            <l n="1825" xml:id="l1825">Joint que<note n="428" place="bottom"> Voir la note 10.</note> l’<ref target="#extraction">extraction</ref>, les biens, la qualité,</l>
             <l n="1826" xml:id="l1826">Font voir de nos deux maisons dedans l’égalité.</l>
           </sp>
           <sp xml:id="V05-42" who="dom-jean-de-carcame">
@@ -5319,17 +5316,17 @@
           <sp xml:id="V06-6" who="egyptien">
             <speaker>Un de la Troupe.</speaker>
             <l n="1845" xml:id="l1845">Si nous eussions préveu tant de contentement,</l>
-            <l n="1846" xml:id="l1846">Nous eussions augmenté ce <ref target="#divertir">divertissement*</ref>.</l>
+            <l n="1846" xml:id="l1846">Nous eussions augmenté ce <ref target="#divertir">divertissement</ref>.</l>
           </sp>
           <sp xml:id="V06-7" who="ferdinand">
             <speaker>LE SENESCHAL.</speaker>
             <l n="1847" xml:id="l1847">Allés, vivés contens, rendés grace à ma fille,</l>
             <l n="1848" xml:id="l1848">Dont vous avés privé si long-temps ma famille,</l>
-            <l n="1849" xml:id="l1849">Publiés ce <ref target="#bonheur">bon-heur*</ref> et nos <ref target="#ravissement">ravissements*</ref>,</l>
+            <l n="1849" xml:id="l1849">Publiés ce <ref target="#bonheur">bon-heur</ref> et nos <ref target="#ravissement">ravissements</ref>,</l>
             <l n="1850" xml:id="l1850">Annoncés la vertu de ces nobles Amans,</l>
             <l n="1851" xml:id="l1851">Et que par vôtre choix voix l’Univers s’entretienne</l>
             <l n="1852" xml:id="l1852">Du destin qu’épreuva <hi rend="sc">la belle egiptienne</hi>.</l>
-            <p rend="center">FIN.</p>
+            <trailer rend="center">FIN.</trailer>
           </sp>
         </div>
       </div>

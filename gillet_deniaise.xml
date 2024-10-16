@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -26,11 +26,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/gillet_desniaise/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/gillet_desniaise.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/gillet_desniaise.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/gillet_desniaise.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/gillet_desniaise.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/gillet_desniaise/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/gillet_desniaise.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/gillet_desniaise.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/gillet_desniaise.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/gillet_desniaise.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl>Gillet de la Tessonnerie, <title>Le Desniaisé. Comédie</title>, Paris, Chez Toussaint Quinet, 1647.</bibl>
@@ -1039,14 +1039,14 @@
           <head>SCENE PREMIERE</head>
           <stage>ARISTE, CLIMANTE, JODELET<note n="159" place="bottom"> Comme l’indique ses commentaires à propos de Climante à la scène suivante, le valet assiste à la scène mais son personnage est muet.</note>.</stage>
           <sp xml:id="I01-1" who="climante">
-            <speaker>CLIMANTE <hi rend="i">regardant Ariste jusques aux pieds.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>regardant Ariste jusques aux pieds.</stage>
             <l n="1" xml:id="l1">Certes, c’est rencherir dessus les plus galans,</l>
             <l n="2" xml:id="l2">Cette confusion de neuds &amp; de rubans,</l>
             <l n="3" xml:id="l3">Ne tesmoignent que trop ce dont aucun ne doûte</l>
             <l n="4" xml:id="l4">Qu’un amant est prodigue, &amp; que rien ne luy coûte.</l>
           </sp>
           <sp xml:id="I01-2" who="ariste">
-            <speaker>ARISTE <hi rend="i">respondant d’un air ingenu.</hi></speaker>
+            <speaker>ARISTE </speaker><stage>respondant d’un air ingenu.</stage>
             <l n="5" xml:id="l5" part="I">Vous me raillez tousjours …</l>
           </sp>
           <sp xml:id="I01-3" who="climante">
@@ -1115,15 +1115,15 @@
             <speaker>CLIMANTE</speaker>
             <l part="F">Au moins prenez y garde,</l>
             <l n="17" xml:id="l17">Il fait bon d’en donner, mais c’est un grand malheur<note n="161" place="bottom"><hi rend="i">Malheur</hi>  (v. 17, 1794) est aussi orthographié  <hi rend="i">mal-heur</hi> (v. 1400, 1622, 1926) sans altération de sens.</note></l>
-            <l n="18" xml:id="l18">Quelque habille<note n="162" place="bottom"> Nous avons conservé le redoublement de la consonne <hi rend="i">l</hi> sans que cette graphie affecte la prononciation. On trouve aussi <hi rend="i">habile</hi> au vers 204.</note> qu’on soit de passer pour <ref target="#habler">hableur*</ref>,</l>
+            <l n="18" xml:id="l18">Quelque habille<note n="162" place="bottom"> Nous avons conservé le redoublement de la consonne <hi rend="i">l</hi> sans que cette graphie affecte la prononciation. On trouve aussi <hi rend="i">habile</hi> au vers 204.</note> qu’on soit de passer pour <ref target="#habler">hableur</ref>,</l>
             <l n="19" xml:id="l19">Si lors qu’on s’introduit dedans les compagnies,</l>
-            <l n="20" xml:id="l20">On ne concerte bien toutes ses <ref target="#menterie">menteries*</ref>,</l>
+            <l n="20" xml:id="l20">On ne concerte bien toutes ses <ref target="#menterie">menteries</ref>,</l>
             <l n="21" xml:id="l21">Et si l’on n’a l’esprit de les faire avoüer,</l>
             <l n="22" xml:id="l22">Ce n’est qu’un beau talent pour se faire joüer.</l>
             <l n="23" xml:id="l23">Pour moy qui comme vous en revenant de Rome,<pb n="4"/></l>
             <l n="24" xml:id="l24">Par tout où je pouvois en donnois en jeune homme,</l>
             <l n="25" xml:id="l25">Et voulois tout risquer pour faire le plaisant,</l>
-            <l n="26" xml:id="l26">Je recognois fort bien mes <ref target="#foibles">foibles*</ref> à present :</l>
+            <l n="26" xml:id="l26">Je recognois fort bien mes <ref target="#foibles">foibles</ref> à present :</l>
             <l n="27" xml:id="l27">Et puis en me voyant dans un autre moy-mesme</l>
             <l n="28" xml:id="l28">Vous tirer aujourd’huy d’un embaras extréme.</l>
           </sp>
@@ -1138,16 +1138,16 @@
           <sp xml:id="I01-20" who="ariste">
             <speaker>ARISTE</speaker>
             <l n="31" xml:id="l31">Combien un honneste homme en ses galanteries,</l>
-            <l n="32" xml:id="l32">Peut-il de fois par jour donner des <ref target="#menterie">menteries*</ref> ?</l>
+            <l n="32" xml:id="l32">Peut-il de fois par jour donner des <ref target="#menterie">menteries</ref> ?</l>
           </sp>
           <sp xml:id="I01-21" who="climante">
             <speaker>CLIMANTE</speaker>
             <l n="33" xml:id="l33">Il faut selon les gens regler la quantité,</l>
             <l n="34" xml:id="l34">Apprendre leur humeur, sçavoir leur qualité ;</l>
-            <l n="35" xml:id="l35">Mais lors que vous voudrez donner quelque <ref target="#cassade">cassade*</ref>,</l>
-            <l n="36" xml:id="l36">Consultez-moy <ref target="#devant">devant*</ref> pour regler la boutade,</l>
+            <l n="35" xml:id="l35">Mais lors que vous voudrez donner quelque <ref target="#cassade">cassade</ref>,</l>
+            <l n="36" xml:id="l36">Consultez-moy <ref target="#devant">devant</ref> pour regler la boutade,</l>
             <l n="37" xml:id="l37">Le feu que vous avez a besoin de leçon</l>
-            <l n="38" xml:id="l38">Apres vous <ref target="#habler">hablerez*</ref> de la bonne façon :</l>
+            <l n="38" xml:id="l38">Apres vous <ref target="#habler">hablerez</ref> de la bonne façon :</l>
             <l n="39" xml:id="l39" part="I">En voulez-vous donner ?<note n="163" place="bottom"> Climante parle des « menteries » qu’Ariste évoque au vers 32.</note></l>
           </sp>
           <sp xml:id="I01-22" who="ariste">
@@ -1169,7 +1169,7 @@
           </sp>
           <sp xml:id="I01-26" who="ariste">
             <speaker>ARISTE</speaker>
-            <l n="41" xml:id="l41">Chez le rare <ref target="#objet">objet*</ref> dont mes sens sont <ref target="#charmer">charmez*</ref>.</l>
+            <l n="41" xml:id="l41">Chez le rare <ref target="#objet">objet</ref> dont mes sens sont <ref target="#charmer">charmez</ref>.</l>
           </sp>
           <sp xml:id="I01-27" who="climante">
             <speaker>CLIMANTE</speaker>
@@ -1222,7 +1222,7 @@
           </sp>
           <sp xml:id="I02-2" who="jodelet">
             <speaker>JODELET</speaker>
-            <l part="F">Ah ! le plaisant <ref target="#falot">falot*</ref>.</l>
+            <l part="F">Ah ! le plaisant <ref target="#falot">falot</ref>.</l>
           </sp>
           <sp xml:id="I02-3" who="ariste">
             <speaker>ARISTE</speaker>
@@ -1248,14 +1248,14 @@
           <sp xml:id="I02-6" who="jodelet">
             <speaker>JODELET</speaker>
             <l part="F">Quand vous le voudrez je la rendray plus douce</l>
-            <l n="69" xml:id="l69">Et plus souple cent fois qu’un gand de <ref target="#chevrotin">chevrotin*</ref>,</l>
+            <l n="69" xml:id="l69">Et plus souple cent fois qu’un gand de <ref target="#chevrotin">chevrotin</ref>,</l>
           </sp>
           <sp xml:id="I02-7" who="ariste">
             <speaker>ARISTE</speaker>
             <l n="70" xml:id="l70" part="I">Tu l’entens, Jodelet,</l>
           </sp>
           <sp xml:id="I02-8" who="jodelet">
-            <speaker>JODELET <hi rend="i">porte le doigt à sa bouche.</hi></speaker>
+            <speaker>JODELET </speaker><stage>porte le doigt à sa bouche.</stage>
             <l part="F">Je suis un faux matin<note n="170" place="bottom"><hi rend="i">Faux matin : faus</hi> : « se dit quelquefois par antiphrase pour augmenter la vérité de quelque chose, mais toûjours en mauvaise part » (Furetière). <hi rend="i">mastin</hi> : « se dit […] des hommes grossiers, mal bastis de corps, ou d’esprit » (Furetière). Jodelet signifie qu’il met en jeu son esptit subtil et rusé pour servir les amours de son maître.</note>,</l>
             <l n="71" xml:id="l71">Sans moy dans vos amours vous auriez votre compte<note n="171" place="bottom"> Comprendre : « Vous n’auriez pas de succès dans vos amours ».</note>,</l>
             <l n="72" xml:id="l72">Car Lisette m’a dit que l’Intendant d’Oronte</l>
@@ -1283,7 +1283,7 @@
           </sp>
           <sp xml:id="I02-12" who="jodelet">
             <speaker>JODELET</speaker>
-            <l n="83" xml:id="l83">Qu’a cela de commun au feu qui vous <ref target="#consommer">consomme*</ref></l>
+            <l n="83" xml:id="l83">Qu’a cela de commun au feu qui vous <ref target="#consommer">consomme</ref></l>
             <l n="84" xml:id="l84">De vous faire introduire à titre de jeune homme,</l>
             <l n="85" xml:id="l85">Et pourquoy ne peut-il haranguer ses amours</l>
             <l n="86" xml:id="l86">Sans vous faire parler &amp; chercher ces destours ?</l>
@@ -1349,7 +1349,7 @@
           </sp>
           <sp xml:id="I02-23" who="ariste">
             <speaker>ARISTE</speaker>
-            <l n="115" xml:id="l115">Il croit qu’estant trop <ref target="#fat">fat*</ref> je ne luy sçaurois nuire.</l>
+            <l n="115" xml:id="l115">Il croit qu’estant trop <ref target="#fat">fat</ref> je ne luy sçaurois nuire.</l>
           </sp>
           <sp xml:id="I02-24" who="jodelet">
             <speaker>JODELET</speaker>
@@ -1358,7 +1358,7 @@
           <sp xml:id="I02-25" who="ariste">
             <speaker>ARISTE</speaker>
             <l part="F">Il croit qu’il ne veut m’introduire</l>
-            <l n="117" xml:id="l117">Que pour rire avec eux des <ref target="#cadeau">cadeaux*</ref> que je fais,</l>
+            <l n="117" xml:id="l117">Que pour rire avec eux des <ref target="#cadeau">cadeaux</ref> que je fais,</l>
             <l n="118" xml:id="l118">Puis il veut divertir Olympe à peu de frais,</l>
             <l n="119" xml:id="l119">Et treuve qu’elle vit avec plus de franchise</l>
             <l n="120" xml:id="l120">Depuis qu’il l’aprivoise avecque<note n="176" place="bottom"> On trouve deux graphies possibles : <hi rend="i">avec</hi> et <hi rend="i">avecque</hi> (v. 119, 138, 168, 379, 408, 424, 793, 930, 1010, 1011, 1019, 1202, 1420, 1637, 1818) employées également au XVIIe siècle dans le langage poétique.</note> ma sotise,</l>
@@ -1366,14 +1366,14 @@
           </sp>
           <sp xml:id="I02-26" who="jodelet">
             <speaker>JODELET</speaker>
-            <l n="122" xml:id="l122" part="I">Climante <ref target="#cependant">ce pendant*</ref>…</l>
+            <l n="122" xml:id="l122" part="I">Climante <ref target="#cependant">ce pendant</ref>…</l>
           </sp>
           <sp xml:id="I02-27" who="ariste">
             <speaker>ARISTE</speaker>
             <l part="F">Croit fort bien reüssir,</l>
             <l n="123" xml:id="l123">Et ne pouvant souvent entretenir la belle<pb n="12"/></l>
             <l n="124" xml:id="l124">Se croyant le plus fin est d’accord avec elle,</l>
-            <l n="125" xml:id="l125">Que ce qu’elle dira pour flatter mon <ref target="#ennui1">ennuy*</ref></l>
+            <l n="125" xml:id="l125">Que ce qu’elle dira pour flatter mon <ref target="#ennui1">ennuy</ref></l>
             <l n="126" xml:id="l126">Soit<note n="177" place="bottom"> soit […] ou : soit … soit. Même remarque aux vers 260 et 262.</note> en secret ou non, doit s’adresser à luy.</l>
           </sp>
           <sp xml:id="I02-28" who="jodelet">
@@ -1386,7 +1386,7 @@
           </sp>
           <sp xml:id="I02-30" who="jodelet">
             <speaker>JODELET</speaker>
-            <l part="F">Si bien donc qu’il est le <ref target="#fat">fat*</ref> luy-mesme.</l>
+            <l part="F">Si bien donc qu’il est le <ref target="#fat">fat</ref> luy-mesme.</l>
           </sp>
           <sp xml:id="I02-31" who="ariste">
             <speaker>ARISTE</speaker>
@@ -1418,7 +1418,7 @@
           <sp xml:id="I02-36" who="jodelet">
             <speaker>JODELET</speaker>
             <l part="F">Mais au moins</l>
-            <l n="138" xml:id="l138"><ref target="#souffrir">Souffrez*</ref> qu’avecque luy je fasse à coups de poings,</l>
+            <l n="138" xml:id="l138"><ref target="#souffrir">Souffrez</ref> qu’avecque luy je fasse à coups de poings,</l>
             <l n="139" xml:id="l139">Et que de ces cinq doigts plus pesans qu’une meule</l>
             <l n="140" xml:id="l140">Je luy casse le nez ou luy paume<note n="178" place="bottom"><hi rend="i">Paumer</hi> : donner des coups, frapper. Le comportement de Jodelet rappelle celui du valet fanfaron.</note> la gueule</l>
           </sp>
@@ -1427,7 +1427,7 @@
             <l n="141" xml:id="l141">Je me vangeray bien sans exposer tes jours</l>
           </sp>
           <sp xml:id="I02-38" who="jodelet">
-            <speaker>JODELET <hi rend="i">faisant le grave.</hi></speaker>
+            <speaker>JODELET </speaker><stage>faisant le grave.</stage>
             <l n="142" xml:id="l142">Qu’il aille vous railler au Royaume des sourds,</l>
           </sp>
           <sp xml:id="I02-39" who="ariste">
@@ -1493,18 +1493,18 @@
             <l n="168" xml:id="l168">Qu’avecque vostre adveu j’allumay dans mon ame.</l>
           </sp>
           <sp xml:id="I03-6" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">à ORONTHE</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>à ORONTHE</stage>
             <l n="169" xml:id="l169" part="I">O qu’il est ingenu !</l>
           </sp>
           <sp xml:id="I03-7" who="oronthe">
             <speaker>ORONTHE</speaker>
             <l part="F">Monsieur, il ne faut pas</l>
-            <l n="170" xml:id="l170">La forcer pour <ref target="#souffrir">souffrir*</ref> un <ref target="#objet">objet*</ref> plein d’<ref target="#appas">appas*</ref>,    </l>
+            <l n="170" xml:id="l170">La forcer pour <ref target="#souffrir">souffrir</ref> un <ref target="#objet">objet</ref> plein d’<ref target="#appas">appas</ref>,    </l>
             <l n="171" xml:id="l171">Et toute sa rigueur ne consistant qu’en mine,</l>
             <l n="172" xml:id="l172">Sans doute elle vous aime, &amp; fait icy la fine.</l>
           </sp>
           <sp xml:id="I03-8" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">d’un air gay.</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>d’un air gay.</stage>
             <l n="173" xml:id="l173" part="I">Vous pensez-vous railler, mais…</l>
           </sp>
           <sp xml:id="I03-9" who="oronthe">
@@ -1529,7 +1529,7 @@
             <l n="175" xml:id="l175">Quelqu’autre se pendroit apres cette parole.</l>
           </sp>
           <sp xml:id="I03-14" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">en riant.</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>en riant.</stage>
             <l n="176" xml:id="l176" part="I">Que ne le faites vous ?</l>
           </sp>
           <sp xml:id="I03-15" who="oronthe">
@@ -1547,25 +1547,24 @@
             <l n="182" xml:id="l182">Autrefois il aimoit la femme d’un amy.</l>
           </sp>
           <sp xml:id="I03-17" who="ariste">
-            <speaker>ARISTE <hi rend="i">comme voulant le faire taire.</hi></speaker>
+            <speaker>ARISTE </speaker><stage>comme voulant le faire taire.</stage>
             <l n="183" xml:id="l183" part="I">Au moins…</l>
           </sp>
           <sp xml:id="I03-18" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">à ARISTE</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>à ARISTE</stage>
             <l part="M">Serez vous fourbe ?</l>
           </sp>
           <sp xml:id="I03-19" who="ariste">
             <speaker>ARISTE</speaker>
-            <l part="F">Il vous en fait <ref target="#accroire">accroire*</ref>.</l>
+            <l part="F">Il vous en fait <ref target="#accroire">accroire</ref>.</l>
           </sp>
           <sp xml:id="I03-20" who="climante">
-            <speaker>CLIMANTE <hi rend="i">en particulier à Ariste.</hi>
-            </speaker><pb n="C ; 17"/>
+            <speaker>CLIMANTE </speaker><stage>en particulier à Ariste.</stage><pb n="C ; 17"/>
             <l n="184" xml:id="l184">N’en faites point le fin, &amp; comptez leur l’histoire,</l>
             <l n="185" xml:id="l185">Quand Oronthe sçaura que vous aimez ailleurs,</l>
             <l n="186" xml:id="l186">Il en aura pour vous des sentimens meilleurs,</l>
             <l n="187" xml:id="l187">Et vous l’exempterez de cette jalousie,</l>
-            <l n="188" xml:id="l188">Qui peut estre pourroit troubler sa <ref target="#fantaisie">fantaisie*</ref>.</l>
+            <l n="188" xml:id="l188">Qui peut estre pourroit troubler sa <ref target="#fantaisie">fantaisie</ref>.</l>
           </sp>
           <sp xml:id="I03-21" who="oronthe">
             <speaker>ORONTHE</speaker>
@@ -1583,19 +1582,19 @@
             <speaker>ARISTE</speaker>
             <l n="191" xml:id="l191">Si je vous ments d’un mot que le Ciel m’extermine ;</l>
             <l n="192" xml:id="l192">Estant donc amoureux d’une jeune voisine</l>
-            <l n="193" xml:id="l193">Dont le mary jaloux me <ref target="#souffrir">souffroit*</ref> par bon-heur,</l>
+            <l n="193" xml:id="l193">Dont le mary jaloux me <ref target="#souffrir">souffroit</ref> par bon-heur,</l>
             <l n="194" xml:id="l194">Et ne voyoit que moy de tous les gens d’honneur,</l>
             <l n="195" xml:id="l195">Je pouvois à mon gré voir cet Ange visible,</l>
             <l n="196" xml:id="l196">Mais de l’entretenir il m’estoit impossible,</l>
             <l n="197" xml:id="l197">Car en fin ce mary ne me quittant jamais</l>
             <l n="198" xml:id="l198">Me suivoit au manege, au tripot, au Palais,</l>
             <l n="199" xml:id="l199">En affaire, en emplette, à la campagne, en ville,</l>
-            <l n="200" xml:id="l200"><ref target="#encore-que">Encore*</ref> que par tout je luy fusse inutile ;</l>
+            <l n="200" xml:id="l200"><ref target="#encore-que">Encore</ref> que par tout je luy fusse inutile ;</l>
             <l n="201" xml:id="l201">Si j’allois promener le bon homme y venoit ;<pb n="18"/></l>
             <l n="202" xml:id="l202">Si je gardois la chambre, alors il s’y tenoit.</l>
           </sp>
           <sp xml:id="I03-25" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">bas.</hi></speaker>
+            <speaker>PANCRACE </speaker><stage>bas.</stage>
             <l n="203" xml:id="l203">Ce zele est paradoxe &amp; ces soins incommodes.</l>
           </sp>
           <sp xml:id="I03-26" who="jodelet">
@@ -1615,7 +1614,7 @@
             <l n="206" xml:id="l206">Un soir prenant le frais en sa maison des champs</l>
             <l n="207" xml:id="l207">Sur le bord d’un estang nous vismes cette belle</l>
             <l n="208" xml:id="l208">Qui sautta tout d’un coup dedans une nascelle,</l>
-            <l n="209" xml:id="l209">Où<note n="182" place="bottom"> « Où, sans antécédent, équivalent à une conjonction de temps (<hi rend="i">quand, lorsque</hi>), très usité dans l’ancienne langue, est encore employé au XVIIe siècle et même plus tard » (Haase, § 38, G).</note> craignant pour ses jours de <ref target="#triste1">tristes*</ref> accidens</l>
+            <l n="209" xml:id="l209">Où<note n="182" place="bottom"> « Où, sans antécédent, équivalent à une conjonction de temps (<hi rend="i">quand, lorsque</hi>), très usité dans l’ancienne langue, est encore employé au XVIIe siècle et même plus tard » (Haase, § 38, G).</note> craignant pour ses jours de <ref target="#triste1">tristes</ref> accidens</l>
             <l n="210" xml:id="l210">Presque tout aussi tost je me jettay dedans</l>
             <l n="211" xml:id="l211">Quand le mary pour rire en ayant pris la corde</l>
             <l n="212" xml:id="l212">Se vantoit de nous voir à sa misericorde<note n="183" place="bottom"><hi rend="i">A  sa miséricorde</hi> signifie « à sa merci ».</note>,</l>
@@ -1629,13 +1628,13 @@
             <l n="220" xml:id="l220">Faisoient un petit vent qui poussoit la nascelle,</l>
             <l n="221" xml:id="l221">Et flatant de leur bec la surface des eaux</l>
             <l n="222" xml:id="l222">Nous pousserent en fin en un fort<note n="184" place="bottom"><hi rend="i">Fort</hi> : « terme de <hi rend="i">Chasse</hi>. Buisson fort &amp; épais où quelques bêtes sauvages se retirent » (Richelet) </note> de roseaux ;</l>
-            <l n="223" xml:id="l223">Où du monstre jaloux les ardentes* prunelles</l>
+            <l n="223" xml:id="l223">Où du monstre jaloux les ardentes prunelles</l>
             <l n="224" xml:id="l224">Ne pûrent éclairer<note n="185" place="bottom"><hi rend="i">Eclairer</hi> : surveiller. « Au diable le fâcheux qui nous éclaire. » (Molière, <hi rend="i">L’Etourdi</hi>, I, 4) </note> ce miracle des belles,</l>
             <l n="225" xml:id="l225">Là pleins d’un beau desir qu’on ne peut exprimer</l>
             <l n="226" xml:id="l226">Tout rioit à nos yeux, &amp; tout parloit d’aimer.</l>
           </sp>
           <sp xml:id="I03-30" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">bas.</hi></speaker>
+            <speaker>PANCRACE </speaker><stage>bas.</stage>
             <l n="227" xml:id="l227">Cet homme a leu les Grecs, &amp; possede les fables.</l>
           </sp>
           <sp xml:id="I03-31" who="olimpe">
@@ -1671,7 +1670,7 @@
           <sp xml:id="I03-37" who="jodelet">
             <speaker>JODELET</speaker>
             <l part="F">Que ces <ref target="#nymphes">Nimphes°</ref> volages</l>
-            <l n="240" xml:id="l240">N’estoient foy de <ref target="#pieton">pieton*</ref> que des canards sauvages</l>
+            <l n="240" xml:id="l240">N’estoient foy de <ref target="#pieton">pieton</ref> que des canards sauvages</l>
             <l n="241" xml:id="l241">Que vous sceutes du lit si bien effaroucher</l>
             <l n="242" xml:id="l242">Que jamais du depuis<note n="187" place="bottom"> « <hi rend="i">Du depuis</hi>, adverbe, était courant dans le moyen français ; on ne le trouve guère plus au XVIIe siècle que dans Malherbe, qui pourtant le blâme chez Desportes, et souvent chez Scarron. Vaugelas (I, 287) déclare que le bon usage a proscrit du depuis. Th. Corneille ne l’admet pas, même dans le langage familier » (Haase, 134, 3°, Rem. II). Jodelet s’exprime donc dans un langage archaïque.</note> ils n’y vindrent coucher.</l>
           </sp>
@@ -1683,7 +1682,7 @@
             <l n="246" xml:id="l246">Croyoit voir des esprits à travers des roseaux</l>
             <l n="247" xml:id="l247">Qui voulans nous traisner sur les rivages sombres</l>
             <l n="248" xml:id="l248">Avoient desja compté nos corps au rang des ombres,</l>
-            <l n="249" xml:id="l249"><ref target="#cependant">Ce pendant*</ref> possedez par des transports divins</l>
+            <l n="249" xml:id="l249"><ref target="#cependant">Ce pendant</ref> possedez par des transports divins</l>
             <l n="250" xml:id="l250">Ma bouche s’exppliquoit dessus ses belles mains,</l>
             <l n="251" xml:id="l251">Et par de longs regards pris &amp; rendus sans nombre</l>
             <l n="252" xml:id="l252">Nous goustions des plaisirs qui n’avoient rien de l’ombre ;</l>
@@ -1727,10 +1726,10 @@
             <l n="278" xml:id="l278">Il est vain de son crime, &amp; voudra mourir tel.</l>
           </sp>
           <sp xml:id="I03-43" who="ariste">
-            <speaker>ARISTE <hi rend="i">à CLIMANTE</hi></speaker>
+            <speaker>ARISTE </speaker><stage>à CLIMANTE</stage>
             <l n="279" xml:id="l279">Amy, pourquoy dis-tu’que je ne sçay pas feindre ?</l>
             <l n="280" xml:id="l280">Helas ! combien de fois m’as-tu veu me contreindre ?</l>
-            <l n="281" xml:id="l281">Quand voyant cet <ref target="#objet">objet*</ref> sousrire à son jaloux,</l>
+            <l n="281" xml:id="l281">Quand voyant cet <ref target="#objet">objet</ref> sousrire à son jaloux,</l>
             <l n="282" xml:id="l282">Je voulois, &amp; n’osois luy dire, arrestez-vous ;</l>
             <l n="283" xml:id="l283">Contraignant les ardeurs de mon amour extreme,</l>
             <l n="284" xml:id="l284">J’ay cent fois esté prest de dire, je vous aime :</l>
@@ -1738,7 +1737,7 @@
             <l n="286" xml:id="l286">Et si bien deguisé, qu’ils ne m’ont pas connu.</l>
           </sp>
           <sp xml:id="I03-44" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">à CLIMANTE</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>à CLIMANTE</stage>
             <l n="287" xml:id="l287" part="I">Il est fin,</l>
           </sp>
           <sp xml:id="I03-45" who="climante">
@@ -1820,19 +1819,19 @@
           </sp>
           <sp xml:id="I04-2" who="pancrace">
             <speaker>PANCRACE</speaker>
-            <l n="314" xml:id="l314">C’est qu’elle a reconnu quelques <ref target="#appas">appas*</ref> en toy.</l>
+            <l n="314" xml:id="l314">C’est qu’elle a reconnu quelques <ref target="#appas">appas</ref> en toy.</l>
           </sp>
           <sp xml:id="I04-3" who="jodelet">
             <speaker>JODELET
             </speaker><pb n="D ; 25"/>
-            <l n="315" xml:id="l315">Qu’est-ce que des <ref target="#appas">appas*</ref>, est-ce une belle chose ?</l>
+            <l n="315" xml:id="l315">Qu’est-ce que des <ref target="#appas">appas</ref>, est-ce une belle chose ?</l>
           </sp>
           <sp xml:id="I04-4" who="pancrace">
             <speaker>PANCRACE</speaker>
             <l n="316" xml:id="l316">C’est le visible effet d’une agreable cause,</l>
             <l n="317" xml:id="l317">C’est un enthousiasme<note n="190" place="bottom"><hi rend="i">Enthousiasme</hi> (entousiasme) : « Fureur prophétique ou poëtique qui transporte l’esprit, &amp; qui lui fait dire des choses surprenantes &amp; extraordinaires »  (Furetière). Pancrace, docteur pédant, fait usage d’un lexique philosophique.</note>, un puissant attractif,</l>
             <l n="318" xml:id="l318">Qui rend individus le passif &amp; l’actif<note n="191" place="bottom"><hi rend="i">Individu</hi> : « terme de <hi rend="i">Philosophie</hi>. Le mot d’<hi rend="i">individu</hi> est en usage parmi les Philosophes, pour marquer une chose particulière, &amp; pour la distinguer des choses générales qui se peuvent diviser. » (Richelet). Ce terme implique la concorde de deux contraires.</note>,</l>
-            <l n="319" xml:id="l319">Et qui de nos esprits, domptant la <ref target="#tyrannie">tyrannie*</ref>,</l>
+            <l n="319" xml:id="l319">Et qui de nos esprits, domptant la <ref target="#tyrannie">tyrannie</ref>,</l>
             <l n="320" xml:id="l320">Forme le plus farouche au goust de son genie.</l>
           </sp>
           <sp xml:id="I04-5" who="jodelet">
@@ -1842,7 +1841,7 @@
           <sp xml:id="I04-6" who="pancrace">
             <speaker>PANCRACE</speaker>
             <l part="F">Les doutes sont grans</l>
-            <l n="322" xml:id="l322">Pour definir s’il est des <ref target="#appas">appas*</ref> differens.</l>
+            <l n="322" xml:id="l322">Pour definir s’il est des <ref target="#appas">appas</ref> differens.</l>
             <l n="323" xml:id="l323">Pythagore, Zenon, Aristote, Socrates,</l>
             <l n="324" xml:id="l324">Philostrate, Bias, Eschille, Zenocrates,</l>
             <l n="325" xml:id="l325">Aristippe, Plutarque, Isocrates, Platon,</l>
@@ -1879,7 +1878,7 @@
             <l n="343" xml:id="l343">Les uns disent que c’est un vif esclair de flame,</l>
             <l n="344" xml:id="l344">Qu’un estre independant alluma dans nostre ame,</l>
             <l n="345" xml:id="l345">Et qui fait son effet mal-gré nostre pouvoir</l>
-            <l n="346" xml:id="l346">Quand il treuve un <ref target="#objet">objet*</ref> propre à le recevoir.</l>
+            <l n="346" xml:id="l346">Quand il treuve un <ref target="#objet">objet</ref> propre à le recevoir.</l>
           </sp>
           <sp xml:id="I04-11" who="jodelet">
             <speaker>JODELET</speaker>
@@ -1897,15 +1896,15 @@
             <l n="354" xml:id="l354">Qu’aprés s’estre engagé sans son consentement.</l>
           </sp>
           <sp xml:id="I04-13" who="jodelet">
-            <speaker>JODELET <hi rend="i">levant la main pour parler.</hi></speaker>
+            <speaker>JODELET </speaker><stage>levant la main pour parler.</stage>
             <l n="355" xml:id="l355" part="I">Ainsi donc …</l>
           </sp>
           <sp xml:id="I04-14" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">l’interrompant.</hi></speaker>
-            <l part="F">Nous perdrions<note n="194" place="bottom">  <hi rend="i">Perdrions</hi>, affecté d’une synérèse, doit se lire en deux syllabes « per-drions ».</note> le droict du libre <ref target="#arbitre">arbitre*</ref></l>
+            <speaker>PANCRACE </speaker><stage>l’interrompant.</stage>
+            <l part="F">Nous perdrions<note n="194" place="bottom">  <hi rend="i">Perdrions</hi>, affecté d’une synérèse, doit se lire en deux syllabes « per-drions ».</note> le droict du libre <ref target="#arbitre">arbitre</ref></l>
           </sp>
           <sp xml:id="I04-15" who="jodelet">
-            <speaker>JODELET <hi rend="i">veut parler.</hi></speaker>
+            <speaker>JODELET </speaker><stage>veut parler.</stage>
             <l n="356" xml:id="l356" part="I">Mais …</l>
           </sp>
           <sp xml:id="I04-16" who="pancrace">
@@ -1913,7 +1912,7 @@
             <l part="F">Il n’est point de mais, c’est nostre plus beau titre.</l>
           </sp>
           <sp xml:id="I04-17" who="jodelet">
-            <speaker>JODELET <hi rend="i">encor de mesme.</hi></speaker>
+            <speaker>JODELET </speaker><stage>encor de mesme.</stage>
             <l n="357" xml:id="l357" part="I">Quoy …</l>
           </sp>
           <sp xml:id="I04-18" who="pancrace">
@@ -1921,7 +1920,7 @@
             <l part="F">C’est parler en vain, l’ame a sa volonté.</l>
           </sp>
           <sp xml:id="I04-19" who="jodelet">
-            <speaker>JODELET <hi rend="i">encor de mesme.</hi></speaker>
+            <speaker>JODELET </speaker><stage>encor de mesme.</stage>
             <l n="358" xml:id="l358" part="I">Il est vray …</l>
           </sp>
           <sp xml:id="I04-20" who="pancrace">
@@ -1929,7 +1928,7 @@
             <l part="F">Nous naissons en pleine liberté.</l>
           </sp>
           <sp xml:id="I04-21" who="jodelet">
-            <speaker>JODELET <hi rend="i">voulant parler.</hi></speaker>
+            <speaker>JODELET </speaker><stage>voulant parler.</stage>
             <l n="359" xml:id="l359" part="I">C’est sans doute …</l>
           </sp>
           <sp xml:id="I04-22" who="pancrace">
@@ -1937,7 +1936,7 @@
             <l part="F">Autrement nostre essence est mortelle.</l>
           </sp>
           <sp xml:id="I04-23" who="jodelet">
-            <speaker>JODELET <hi rend="i">voulant parler.</hi></speaker>
+            <speaker>JODELET </speaker><stage>voulant parler.</stage>
             <l n="360" xml:id="l360" part="I">D’effet …</l>
           </sp>
           <sp xml:id="I04-24" who="pancrace">
@@ -1970,11 +1969,11 @@
             <l n="364" xml:id="l364">Où<note n="195" place="bottom"> « Où se rapportant à une phrase entière est équivalent à <hi rend="i">quoi</hi> précédé d’<hi rend="i">une préposition</hi> » (Haase, § 38, E).</note> l’operation<note n="196" place="bottom"><hi rend="i">Operation</hi> : le mot est à prendre dans son sens théologique de grâce, d’intervention divine. Pancrace évoque la théorie des âmes radicales, qui auraient leur principe en elles-mêmes.</note> pareille aux animales.</l>
           </sp>
           <sp xml:id="I04-31" who="jodelet">
-            <speaker>JODELET <hi rend="i">en luy voulant fermer la bouche.</hi></speaker>
+            <speaker>JODELET </speaker><stage>en luy voulant fermer la bouche.</stage>
             <l n="365" xml:id="l365" part="I">Je voudrois te casser la gueule,</l>
           </sp>
           <sp xml:id="I04-32" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">en se desbarassant</hi><note n="197" place="bottom"><hi rend="i">Se desbarasser</hi> : « Se tirer d’embaras. Se dépêtrer. Se dégager. Se délivrer des choses qui embarassent. » (Richelet). Pancrace cherche à se libérer de Jodelet qui l’entrave physiquement – comme l’indique la didascalie relative à Jodelet -dans l’exposé de sa dissertation.</note>.</speaker>
+            <speaker>PANCRACE <note n="197" place="bottom"><hi rend="i">Se desbarasser</hi> : « Se tirer d’embaras. Se dépêtrer. Se dégager. Se délivrer des choses qui embarassent. » (Richelet). Pancrace cherche à se libérer de Jodelet qui l’entrave physiquement – comme l’indique la didascalie relative à Jodelet -dans l’exposé de sa dissertation.</note>.</speaker><stage>en se desbarassant</stage>
             <l part="F">On a grand tort</l>
             <l n="366" xml:id="l366">De vouloir que l’esprit s’esteigne par la mort,</l>
             <l n="367" xml:id="l367">Il faut pour en avoir l’entière connoissance,</l>
@@ -1987,7 +1986,7 @@
             <l n="374" xml:id="l374">Qui renferme dans soy tant de diversitez.</l>
           </sp>
           <sp xml:id="I04-33" who="jodelet">
-            <speaker>JODELET <hi rend="i">s’appreste à parler.</hi></speaker>
+            <speaker>JODELET </speaker><stage>s’appreste à parler.</stage>
             <l n="375" xml:id="l375" part="I">En fin</l>
           </sp>
           <sp xml:id="I04-34" who="pancrace">
@@ -2002,7 +2001,7 @@
             <l n="382" xml:id="l382">L’ambre attire des corps, ainsi que fait l’aimant.</l>
           </sp>
           <sp xml:id="I04-35" who="jodelet">
-            <speaker>JODELET <hi rend="i">lassé.</hi></speaker>
+            <speaker>JODELET </speaker><stage>lassé.</stage>
             <l n="383" xml:id="l383" part="I">Ah !</l>
           </sp>
           <sp xml:id="I04-36" who="pancrace">
@@ -2011,7 +2010,7 @@
             <l n="384" xml:id="l384">Qui se meut ou qui fait mouvoir sans connoissance.</l>
           </sp>
           <sp xml:id="I04-37" who="jodelet">
-            <speaker>JODELET <hi rend="i">jettant son chapeau à terre.</hi></speaker>
+            <speaker>JODELET </speaker><stage>jettant son chapeau à terre.</stage>
             <l n="385" xml:id="l385" part="I">J’enrage,</l>
           </sp>
           <sp xml:id="I04-38" who="pancrace">
@@ -2019,7 +2018,7 @@
             <l part="F">Elle n’est pas le sang, comme on a dit.</l>
           </sp>
           <sp xml:id="I04-39" who="jodelet">
-            <speaker>JODELET <hi rend="i">en le regardant de <ref target="#colere">colere*</ref>.</hi></speaker>
+            <speaker>JODELET </speaker><stage>en le regardant de </stage>
             <l n="386" xml:id="l386" part="I">Parlera-t’il tousjours ? mais,</l>
           </sp>
           <sp xml:id="I04-40" who="pancrace">
@@ -2027,7 +2026,7 @@
             <l part="F">Ce mais m’estourdit.</l>
           </sp>
           <sp xml:id="I04-41" who="jodelet">
-            <speaker>JODELET <hi rend="i">fermant les poings.</hi></speaker>
+            <speaker>JODELET </speaker><stage>fermant les poings.</stage>
             <l n="387" xml:id="l387" part="I">Peste.</l>
           </sp>
           <sp xml:id="I04-42" who="pancrace">
@@ -2061,7 +2060,7 @@
             <l n="406" xml:id="l406">Et la troisiesme en fin par de divins efforts</l>
             <l n="407" xml:id="l407">Pour faire un composé sceut renfermer en elle</l>
             <l n="408" xml:id="l408">La nature divine avecque la mortelle,</l>
-            <l n="409" xml:id="l409" part="I">Aussi l’ame à l’<ref target="#arbitre">arbitre*</ref>.</l>
+            <l n="409" xml:id="l409" part="I">Aussi l’ame à l’<ref target="#arbitre">arbitre</ref>.</l>
           </sp>
           <sp xml:id="I04-45" who="jodelet">
             <speaker>JODELET</speaker>
@@ -2070,7 +2069,7 @@
           </sp>
           <sp xml:id="I04-46" who="pancrace">
             <speaker>PANCRACE</speaker>
-            <l n="411" xml:id="l411">Au diable le <ref target="#pendart">pendart*</ref> qui ne veut rien apprendre.</l>
+            <l n="411" xml:id="l411">Au diable le <ref target="#pendart">pendart</ref> qui ne veut rien apprendre.</l>
           </sp>
           <sp xml:id="I04-47" who="jodelet">
             <speaker>JODELET</speaker>
@@ -2084,7 +2083,7 @@
           <sp xml:id="I04-49" who="jodelet">
             <speaker>JODELET</speaker>
             <l part="F">Encor me parler, bon soir &amp; bonne nuit.</l>
-            <p rend="center">Fin du premier Acte.</p>
+            <trailer rend="center">Fin du premier Acte.</trailer>
           </sp>
         </div>
       </div>
@@ -2139,14 +2138,14 @@
           </sp>
           <sp xml:id="II01-7" who="ariste">
             <speaker>ARISTE</speaker>
-            <l n="439" xml:id="l439">Une si longue feinte est une ardente* preuve</l>
+            <l n="439" xml:id="l439">Une si longue feinte est une ardente preuve</l>
             <l n="440" xml:id="l440">De l’estat miserable où mon ame se treuve :</l>
             <l n="441" xml:id="l441">Et tant de veritez se doivent appuyer<pb n="35"/></l>
             <l n="442" xml:id="l442">Par les divers affronts qu’il me faut essuyer.</l>
           </sp>
           <sp xml:id="II01-8" who="olimpe">
             <speaker>OLIMPE</speaker>
-            <l n="443" xml:id="l443">Il faut donner au temps ces lasches <ref target="#deference">deferences*</ref></l>
+            <l n="443" xml:id="l443">Il faut donner au temps ces lasches <ref target="#deference">deferences</ref></l>
             <l n="444" xml:id="l444">Qu’il exige de nous pour finir nos souffrances.</l>
           </sp>
           <sp xml:id="II01-9" who="ariste">
@@ -2172,7 +2171,7 @@
           </sp>
           <sp xml:id="II02-2" who="climante">
             <speaker>CLIMANTE</speaker>
-            <l n="452" xml:id="l452">Elle passe au delà de toute la <ref target="#creance">creance*</ref>.</l>
+            <l n="452" xml:id="l452">Elle passe au delà de toute la <ref target="#creance">creance</ref>.</l>
           </sp>
           <sp xml:id="II02-3" who="oronthe">
             <speaker>ORONTHE</speaker>
@@ -2192,18 +2191,18 @@
           <sp xml:id="II02-6" who="climante">
             <speaker>CLIMANTE</speaker>
             <l n="459" xml:id="l459">Mais il faut luy joüer des pieces d’importance</l>
-            <l n="460" xml:id="l460">Pour luy donner plaisir de son <ref target="#extravagance">extravagance*</ref>.</l>
+            <l n="460" xml:id="l460">Pour luy donner plaisir de son <ref target="#extravagance">extravagance</ref>.</l>
           </sp>
           <sp xml:id="II02-7" who="oronthe">
             <speaker>ORONTHE</speaker>
             <l n="461" xml:id="l461">Il m’est venu treuver dedans le cabinet,</l>
             <l n="462" xml:id="l462">Où nous entretenant des graces du Sonnet,</l>
-            <l n="463" xml:id="l463">Par des <ref target="#galimathias">galimathias*</ref> d’une assez longue haleine</l>
+            <l n="463" xml:id="l463">Par des <ref target="#galimathias">galimathias</ref> d’une assez longue haleine</l>
             <l n="464" xml:id="l464">Il m’a voulu produire un effort de sa veine ;</l>
             <l n="465" xml:id="l465">De qui les meilleurs vers sont pleins de mauvais mots</l>
             <l n="466" xml:id="l466">Et de raisonnemens ridicules &amp; sots.</l>
             <l n="467" xml:id="l467">Pour, je me resouviens, il met je me recorde,<note n="206" place="bottom"> Peut-être Molière s’est-il souvenu de ce passage, en 1662, dans sa comédie <hi rend="i">L’Ecole des Femmes</hi> lorsqu’Arnolphe dit à Chrysalde à la scène 1 de l’acte I : « Je prétends que la mienne [ma femme], en clartés peu sublime, / Même ne sache pas ce qu’est une rime ; / Et s’il faut qu’avec elle on joue au corbillon, / Et qu’on vienne à lui dire, à son tour, “Qu’y met-on ? ” / Je veux qu’elle réponde : “Une tarte à la crème” ».</note></l>
-            <l n="468" xml:id="l468">Et rime <ref target="#halebarde">halebarde*</ref> avec misericorde,</l>
+            <l n="468" xml:id="l468">Et rime <ref target="#halebarde">halebarde</ref> avec misericorde,</l>
             <l n="469" xml:id="l469">Les voyelles chez luy sont en confusion,<pb n="37"/></l>
             <l n="470" xml:id="l470">Il dit que l’on s’en sert dedans l’illusion</l>
             <l n="471" xml:id="l471">Comme dans la ceruse<note n="207" place="bottom"><hi rend="i">Ceruse</hi> : « Blanc d’Espagne ou blanc de plomb. C’est ainsi que la nomment les chimistes. Elle est faite de lames fort déliées de plomb, trempées dans de fort vinaigre, qui les dissout et y forme une certaine crasse qu’on racle tous les dix jours. On la broie et on la cuit, et ce qui demeure au fond est la céruse. Les femmes s’en servent pour se farder, mais elle gâte l’haleine et les dents, fait des rides et apporte plusieurs autres incommodités, étant une espèce de poison quand elle est avalée. C’est un médicament quand on l’applique par dehors » (Furetière).</note> &amp; dedans le mystique,</l>
@@ -2235,16 +2234,16 @@
           <sp xml:id="II02-10" who="climante">
             <speaker>CLIMANTE</speaker>
             <l n="489" xml:id="l489">Les vers me coustent trop, &amp; je veux desormais,</l>
-            <l n="490" xml:id="l490">Hors pour un bel <ref target="#objet">objet*</ref> n’en escrire jamais.</l>
+            <l n="490" xml:id="l490">Hors pour un bel <ref target="#objet">objet</ref> n’en escrire jamais.</l>
           </sp>
           <sp xml:id="II02-11" who="oronthe">
             <speaker>ORONTHE</speaker><pb n="38"/>
             <l n="491" xml:id="l491">Si les seules beautez eschauffent vostre muse,</l>
             <l n="492" xml:id="l492">Vous ne pourrez treuver de legitime excuse,</l>
-            <l n="493" xml:id="l493">Olimpe pour qui c’est ne manque point d’<ref target="#appas">appas*</ref>.</l>
+            <l n="493" xml:id="l493">Olimpe pour qui c’est ne manque point d’<ref target="#appas">appas</ref>.</l>
           </sp>
           <sp xml:id="II02-12" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas la moitié du vers.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas la moitié du vers.</stage>
             <l n="494" xml:id="l494">Feignons, elle en a trop. Mais je ne l’aime pas.</l>
           </sp>
           <sp xml:id="II02-13" who="oronthe">
@@ -2256,7 +2255,7 @@
             <l n="499" xml:id="l499">Pensez à ces beaux yeux, conservez en l’image.</l>
           </sp>
           <sp xml:id="II02-14" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="500" xml:id="l500">Il est bien mal-aisé d’y penser davantage.</l>
           </sp>
           <sp xml:id="II02-15" who="oronthe">
@@ -2265,7 +2264,7 @@
             <l n="502" xml:id="l502" part="I">A sa taille, à son port.</l>
           </sp>
           <sp xml:id="II02-16" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l part="F">J’y songe à tout moment.</l>
           </sp>
           <sp xml:id="II02-17" who="oronthe">
@@ -2273,10 +2272,10 @@
             <l n="503" xml:id="l503">Ayant devant les yeux un si parfaict modelle,</l>
             <l n="504" xml:id="l504">Vous nous ferez au moins une Stance assez belle,</l>
             <l n="505" xml:id="l505">Et quand devant Olimpe Ariste les dira,<pb n="39"/></l>
-            <l n="506" xml:id="l506">C’est pour moy seulement que le <ref target="#fat">fat*</ref> parlera.</l>
+            <l n="506" xml:id="l506">C’est pour moy seulement que le <ref target="#fat">fat</ref> parlera.</l>
           </sp>
           <sp xml:id="II02-18" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="507" xml:id="l507" part="I">Ou plustot pour moy seul.</l>
           </sp>
           <sp xml:id="II02-19" who="oronthe">
@@ -2284,7 +2283,7 @@
             <l part="F">S’il n’estoit necessaire</l>
             <l n="508" xml:id="l508">Que d’escrire à Bordeaux<note n="208" place="bottom"> Seule fois dans la pièce où la ville de Bordeaux est nommée. Nous pouvons supposer qu’après avoir ravi Olimpe de Provence, Oronthe ait, ensuite, traversé Bordeaux – chemin commercial très usité à l’époque - pour revenir à Paris. Par crainte d’une arrestation, il s’informe des suites que son enlèvement provoque. « On appelle un courier <hi rend="i">ordinaire</hi>, celuy qui part regulierement à un certain jour de la semaine » (Furetière). </note>, que par l’autre ordinaire,</l>
             <l n="509" xml:id="l509">Je vous espargnerois la peine de rîmer,</l>
-            <l n="510" xml:id="l510">Et de feindre qu’Olimpe auroit pû vous <ref target="#charmer">charmer*</ref>.</l>
+            <l n="510" xml:id="l510">Et de feindre qu’Olimpe auroit pû vous <ref target="#charmer">charmer</ref>.</l>
           </sp>
           <sp xml:id="II02-20" who="climante">
             <speaker>CLIMANTE</speaker>
@@ -2304,7 +2303,7 @@
           </sp>
           <sp xml:id="II02-24" who="climante">
             <speaker>CLIMANTE</speaker>
-            <l n="513" xml:id="l513">J’ay des yeux qui sont bons, &amp; connois ses <ref target="#appas">appas*</ref>.</l>
+            <l n="513" xml:id="l513">J’ay des yeux qui sont bons, &amp; connois ses <ref target="#appas">appas</ref>.</l>
           </sp>
           <sp xml:id="II02-25" who="oronthe">
             <speaker>ORONTHE</speaker><pb n="40"/>
@@ -2339,7 +2338,7 @@
             <l n="521" xml:id="l521">Vous trouver sans Lisette, &amp; de plus avec luy ?</l>
           </sp>
           <sp xml:id="II03-2" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">d’un air enjoüé.</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>d’un air enjoüé.</stage>
             <l n="522" xml:id="l522">Je voudrois y pouvoir estre tout aujourd’huy</l>
             <l n="523" xml:id="l523" part="I">En est-ce assez ?</l>
           </sp>
@@ -2436,7 +2435,7 @@
             <speaker>ORONTHE</speaker>
             <l part="F">Pour vous loüer on treuve des amis.</l>
             <l n="543" xml:id="l543">Climante prend sur luy cette charge agreable,<pb n="44"/></l>
-            <l n="544" xml:id="l544">D’autant<note n="213" place="bottom"> Nous proposons de remplacer la graphie <hi rend="i">Dautant</hi>, non attestée ds les dictionnaires de l’époque, par « d’autant » que l’on trouve aussi aux vers 811 et 1902.</note> plus aysement que l’<ref target="#objet">objet*</ref> est <ref target="#aimable">aimable*</ref>.</l>
+            <l n="544" xml:id="l544">D’autant<note n="213" place="bottom"> Nous proposons de remplacer la graphie <hi rend="i">Dautant</hi>, non attestée ds les dictionnaires de l’époque, par « d’autant » que l’on trouve aussi aux vers 811 et 1902.</note> plus aysement que l’<ref target="#objet">objet</ref> est <ref target="#aimable">aimable</ref>.</l>
           </sp>
           <sp xml:id="II04-4" who="climante">
             <speaker>CLIMANTE</speaker>
@@ -2509,7 +2508,7 @@
             <l n="574" xml:id="l574">Aussi ne pensez pas qu’il ne serve rien,</l>
             <l n="575" xml:id="l575">Et tenez asseuré qu’une ame genereuse</l>
             <l n="576" xml:id="l576">En payant un bien-fait se tient tousjours heureuse.</l>
-            <l n="577" xml:id="l577">Vous prenez trop de soin pour chasser mon <ref target="#ennui1">ennuy*</ref></l>
+            <l n="577" xml:id="l577">Vous prenez trop de soin pour chasser mon <ref target="#ennui1">ennuy</ref></l>
             <l n="578" xml:id="l578" part="I">Ariste …</l>
           </sp>
           <sp xml:id="II05-5" who="oronthe">
@@ -2518,7 +2517,7 @@
             <l n="579" xml:id="l579">Dites luy que ce soir je dois souper en ville,</l>
             <l n="580" xml:id="l580">Que de vous voir la nuict il sera tres-facile ;</l>
             <l n="581" xml:id="l581">S’il veut entrer chez vous sous l’habit d’un Archer</l>
-            <l n="582" xml:id="l582"><ref target="#pendant">Pendant*</ref> Climante &amp; moy nous irons nous cacher,</l>
+            <l n="582" xml:id="l582"><ref target="#pendant">Pendant</ref> Climante &amp; moy nous irons nous cacher,</l>
             <l n="583" xml:id="l583">En ces logis voisins de la Conciergerie,</l>
             <l n="584" xml:id="l584">Où des gens apostez pour cette raillerie</l>
             <l n="585" xml:id="l585">De ce deguisement luy demandant raison</l>
@@ -2572,9 +2571,9 @@
             <l n="605" xml:id="l605">Aussi mes seuls respects, mes pleurs, &amp; mes soûpirs</l>
             <l n="606" xml:id="l606">Seront les confidens de mes brûlans desirs,</l>
             <l n="607" xml:id="l607">Et par quelques endroits que mon cœur soit sensible,</l>
-            <l n="608" xml:id="l608">Je <ref target="#souffrir">souffriray*</ref> mon mal sans le rendre visible,</l>
-            <l n="609" xml:id="l609">Et devorant les feux dont je suis <ref target="#consommer">consommé*</ref></l>
-            <l n="610" xml:id="l610">Mourray sans m’expliquer devant l’<ref target="#objet">objet*</ref> aymé !</l>
+            <l n="608" xml:id="l608">Je <ref target="#souffrir">souffriray</ref> mon mal sans le rendre visible,</l>
+            <l n="609" xml:id="l609">Et devorant les feux dont je suis <ref target="#consommer">consommé</ref></l>
+            <l n="610" xml:id="l610">Mourray sans m’expliquer devant l’<ref target="#objet">objet</ref> aymé !</l>
             <l n="611" xml:id="l611">Trop heureux ! si l’amour déroboit à ma veuë</l>
             <l n="612" xml:id="l612">Un jaloux obligeant dont le regard me tuë,</l>
             <l n="613" xml:id="l613">Qui d’un zele importun &amp; d’un soin odieux</l>
@@ -2584,7 +2583,7 @@
             <l n="617" xml:id="l617">C’est l’obstacle eternel qu’oppose à mes desirs</l>
             <l n="618" xml:id="l618">Le mortel ennemy de mes plus doux plaisirs,</l>
             <l n="619" xml:id="l619">Et dedans les transports de l’ardeur qui m’enflâme,</l>
-            <l n="620" xml:id="l620">C’est l’<ref target="#effroy">effroy*</ref> de mes yeux &amp; l’<ref target="#horreur">horreur*</ref> de mon ame !</l>
+            <l n="620" xml:id="l620">C’est l’<ref target="#effroy">effroy</ref> de mes yeux &amp; l’<ref target="#horreur">horreur</ref> de mon ame !</l>
           </sp>
           <sp xml:id="II06-4" who="oronthe">
             <speaker>ORONTHE</speaker><pb n="G ; 49"/>
@@ -2612,7 +2611,7 @@
             <l n="630" xml:id="l630">C’est en quoy le plaisir en doit estre assez doux.</l>
           </sp>
           <sp xml:id="II06-9" who="climante">
-            <speaker>CLIMANTE <hi rend="i">à OLIMPE</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>à OLIMPE</stage>
             <l n="631" xml:id="l631">En effet nous verrons travailler sa finesse</l>
             <l n="632" xml:id="l632">Pour dire je vous ayme, avec un peu d’adresse,</l>
             <l n="633" xml:id="l633">Et pour accompagner ces discours amoureux</l>
@@ -2620,16 +2619,16 @@
           </sp>
           <sp xml:id="II06-10" who="oronthe">
             <speaker>ORONTHE</speaker>
-            <l n="635" xml:id="l635">Passant pour le plus fin dedans sa <ref target="#fantaisie">fantaisie*</ref>,</l>
+            <l n="635" xml:id="l635">Passant pour le plus fin dedans sa <ref target="#fantaisie">fantaisie</ref>,</l>
             <l n="636" xml:id="l636">Quel plaisir de luy voir blasmer la jalousie,</l>
             <l n="637" xml:id="l637">Et de nostre équivoque ignorant tous les nœuds<pb n="50"/></l>
             <l n="638" xml:id="l638">Se jouër de luy-mesme en riant de nous deux ?</l>
           </sp>
           <sp xml:id="II06-11" who="climante">
-            <speaker>CLIMANTE <hi rend="i">à OLIMPE</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>à OLIMPE</stage>
             <l n="639" xml:id="l639">Je le croy desja voir pour peu qu’il reussisse</l>
             <l n="640" xml:id="l640">Devenir glorieux d’un mauvais artifice</l>
-            <l n="641" xml:id="l641">Alors qu’il vous dira, j’adore vos <ref target="#appas">appas*</ref>.</l>
+            <l n="641" xml:id="l641">Alors qu’il vous dira, j’adore vos <ref target="#appas">appas</ref>.</l>
             <l n="642" xml:id="l642">Je vous parle d’amour, et l’on ne m’entend pas</l>
             <l n="643" xml:id="l643">Dans les divers efforts du feu qui me devore,</l>
             <l n="644" xml:id="l644">Je puis en liberté dire, je vous adore,</l>
@@ -2659,7 +2658,7 @@
           </sp>
           <sp xml:id="II06-17" who="olimpe">
             <speaker>OLIMPE</speaker><pb n="51"/>
-            <l n="651" xml:id="l651"><ref target="#cependant">Ce pendant*</ref> que diray-je à cet amant fidele ?</l>
+            <l n="651" xml:id="l651"><ref target="#cependant">Ce pendant</ref> que diray-je à cet amant fidele ?</l>
           </sp>
           <sp xml:id="II06-18" who="oronthe">
             <speaker>ORONTHE</speaker>
@@ -2668,11 +2667,11 @@
             <l n="654" xml:id="l654">De tout ce que l’honneur vous permet de plaisirs.</l>
           </sp>
           <sp xml:id="II06-19" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">bas.</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>bas.</stage>
             <l n="655" xml:id="l655">En tenant ces discours que sa prudence est forte !</l>
           </sp>
           <sp xml:id="II06-20" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="656" xml:id="l656">Qu’elle m’obligera luy parlant de la sorte !</l>
           </sp>
           <sp xml:id="II06-21" who="oronthe">
@@ -2680,11 +2679,11 @@
             <l n="657" xml:id="l657">Dieux ! que j’auray de joye en l’entendant parler !</l>
           </sp>
           <sp xml:id="II06-22" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">haut.</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>haut.</stage>
             <l n="658" xml:id="l658">Que j’auray du plaisir à bien dissimuler !</l>
           </sp>
           <sp xml:id="II06-23" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="659" xml:id="l659">Que de ces mots adroits je luy suis redevable !</l>
           </sp>
           <sp xml:id="II06-24" who="oronthe">
@@ -2726,9 +2725,9 @@
             <l n="671" xml:id="l671">Quoy, pour moy ta follie est toûjours sans pareille</l>
           </sp>
           <sp xml:id="II07-2" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">en la poursuivant.</hi></speaker>
+            <speaker>PANCRACE </speaker><stage>en la poursuivant.</stage>
             <l n="672" xml:id="l672">Ah ! cruelle, ah ! <ref target="#bachante">bachante°</ref><note n="222" place="bottom"><hi rend="i">Bachante</hi> (bacchante) : « pour figurer une fille ou femme méchante, colère, furieuse et sans raison » (Le Roux). L’emploi de ce terme et de ceux qui suivent témoigne du caractère pédant de Pancrace.</note>, ah ! scitique<note n="223" place="bottom"><hi rend="i">Scitique</hi> (scythique) : barbare (Dictionnaire du moyen français, Larousse, 1992).</note> merveille !</l>
-            <l n="673" xml:id="l673">De l’élement <ref target="#nitreux">nitreux*</ref> le monstre le plus <ref target="#fier">fier*</ref></l>
+            <l n="673" xml:id="l673">De l’élement <ref target="#nitreux">nitreux</ref> le monstre le plus <ref target="#fier">fier</ref></l>
             <l n="674" xml:id="l674">Se rendroit plus sensible en m’escoutant prier,</l>
             <l n="675" xml:id="l675">Le Discourtois Sarmathe, &amp; le froid Sicophage<note n="224" place="bottom"><hi rend="i">Sicophage</hi> (sycophage) : « qui vit de figues » (Littré).</note></l>
             <l n="676" xml:id="l676">Auprès de ton humeur n’ont rien qui soit sauvage ;</l>
@@ -2757,9 +2756,9 @@
           <sp xml:id="II07-4" who="pancrace">
             <speaker>PANCRACE</speaker>
             <l n="694" xml:id="l694">Je puis me rajeunir mieux que ne fit <ref target="#eson">Eson°</ref>,</l>
-            <l n="695" xml:id="l695">Et domtant la rigueur des <ref target="#fier">fieres*</ref> destinées</l>
+            <l n="695" xml:id="l695">Et domtant la rigueur des <ref target="#fier">fieres</ref> destinées</l>
             <l n="696" xml:id="l696">Dérober à <ref target="#cloton">Cloton°</ref> le fil de mes années</l>
-            <l n="697" xml:id="l697">Par la rare <ref target="#vertu">vertu*</ref> d’un sçavoir dominant,</l>
+            <l n="697" xml:id="l697">Par la rare <ref target="#vertu">vertu</ref> d’un sçavoir dominant,</l>
             <l n="698" xml:id="l698">Je confondray mon estre avec l’Altitonant<note n="227" place="bottom"><hi rend="i">Altitonant</hi> : « ce mot marque par synonyme Jupiter » (Le Roux).</note>:</l>
             <l n="699" xml:id="l699">Et joignant le principe à sa cause premiere,</l>
             <l n="700" xml:id="l700">J’emprunteray d’un Dieu l’éclat &amp; la lumière</l>
@@ -2772,7 +2771,7 @@
           </sp>
           <sp xml:id="II07-6" who="pancrace">
             <speaker>PANCRACE</speaker>
-            <l n="704" xml:id="l704">Je suis sot en effet <ref target="#souffrir">souffrant*</ref> que tu me bernes,</l>
+            <l n="704" xml:id="l704">Je suis sot en effet <ref target="#souffrir">souffrant</ref> que tu me bernes,</l>
             <l n="705" xml:id="l705">Mais Ovide m’apprend dedans son art d’aimer<pb n="55"/></l>
             <l n="706" xml:id="l706">Qu’au veritable Amant rien ne doit estre amer :</l>
             <l n="707" xml:id="l707">Aristote m’a dit que nostre ame enflâmée</l>
@@ -2782,7 +2781,7 @@
             <l n="711" xml:id="l711">Platon a souhaité que nostre ame obsedée</l>
             <l n="712" xml:id="l712">Se donnast toute entiere à cette belle idée,</l>
             <l n="713" xml:id="l713">Et moy qui les connois, &amp; qui vaux mieux qu’eux tous</l>
-            <l n="714" xml:id="l714">Je veux tout endurer &amp; tout <ref target="#souffrir">souffrir*</ref> pour vous.</l>
+            <l n="714" xml:id="l714">Je veux tout endurer &amp; tout <ref target="#souffrir">souffrir</ref> pour vous.</l>
           </sp>
           <sp xml:id="II07-7" who="lisette">
             <speaker>LISETTE</speaker>
@@ -2790,7 +2789,7 @@
             <l n="716" xml:id="l716">Voyez ce qu’il veut dire avec son Aristote,</l>
             <l n="717" xml:id="l717">Sa Piqueure à Ploton<note n="230" place="bottom"><hi rend="i">Piqueure à Ploton</hi> : Lisette déforme les noms de « Platon » et d’« Epicure » prononcés par Pancrace à la réplique précédente. Ce calembour participe de la tradition farcesque. </note>, &amp; ses brides à veaux<note n="231" place="bottom"><hi rend="i">Brides à veaux</hi> : « on appelle des brides à vaux, les raisons qui persuadent les sots, et dont se moquent les gens éclairez » (Le Roux).</note>,</l>
             <l n="718" xml:id="l718">Que croit-il attraper avec ces mots nouveaux ?</l>
-            <l n="719" xml:id="l719">Vrayment vieux Rocantin<note n="232" place="bottom"><hi rend="i">Rocantin</hi> : « mot injurieux, qu’on dit aux vieillards, vieux rancuneux, radoteur, grondeur, avare » (Furetière).</note> vous me la <ref target="#bailler-bonne">baillez*</ref> bonne,</l>
+            <l n="719" xml:id="l719">Vrayment vieux Rocantin<note n="232" place="bottom"><hi rend="i">Rocantin</hi> : « mot injurieux, qu’on dit aux vieillards, vieux rancuneux, radoteur, grondeur, avare » (Furetière).</note> vous me la <ref target="#bailler-bonne">baillez</ref> bonne,</l>
             <l n="720" xml:id="l720">Ou ne haranguez point, ou ne raillez personne,</l>
             <l n="721" xml:id="l721">Car si je ne suis pas la perle de Paris,</l>
             <l n="722" xml:id="l722">Vous ne devez pas croire estre le beau <ref target="#paris">Paris°</ref><note n="233" place="bottom"> Il est étonnant que Lisette connaisse le nom de l’amant d’Hélène, mais Gillet, sacrifiant la vraisemblance et valorisant le jeu de mots, préfère suivre la tradition des auteurs burlesques. </note>.</l>
@@ -2800,9 +2799,9 @@
             <l n="723" xml:id="l723">Celle qui descendit de la voûte estoilée</l>
             <l n="724" xml:id="l724">Pour se faire admirer aux nopces de <ref target="#pelee">Pelée°</ref>,</l>
             <l n="725" xml:id="l725">Et fut<note n="234" place="bottom"><hi rend="i">Fut</hi> : alla ; « Je fus retrouver mon janséniste » (Pascal, <hi rend="i">Première Provinciale</hi>).</note> apres porter dessus le <ref target="#mont-ida">mont Ida°</ref>,</l>
-            <l n="726" xml:id="l726">Le fameux different que ce Grec <ref target="#decider">decida*</ref>,</l>
-            <l n="727" xml:id="l727">N’avoit pas plus que vous d’<ref target="#appas">appas*</ref>
-              <ref target="#hieroglyphique">hieroglifiques*</ref><pb n="56"/></l>
+            <l n="726" xml:id="l726">Le fameux different que ce Grec <ref target="#decider">decida</ref>,</l>
+            <l n="727" xml:id="l727">N’avoit pas plus que vous d’<ref target="#appas">appas</ref>
+              <ref target="#hieroglyphique">hieroglifiques</ref><pb n="56"/></l>
             <l n="728" xml:id="l728">Pour donner à mon cœur des coups simptomatiques,</l>
             <l n="729" xml:id="l729">Et celle qui fuyant les bras de <ref target="#menelas">Menelas°</ref></l>
             <l n="730" xml:id="l730">Reduisit Ilion à dix ans de combats,</l>
@@ -2812,20 +2811,20 @@
             <l n="734" xml:id="l734">Et n’auroit jamais pû me donner des liens,</l>
             <l n="735" xml:id="l735">Car ce cœur que j’ay mis au rang de vos conquestes</l>
             <l n="736" xml:id="l736">En bonnes qualitez est un <ref target="#hidre">Hidre°</ref> à cent testes,</l>
-            <l n="737" xml:id="l737">Et quand de ses <ref target="#vertu">vertus*</ref> un gros est abbatu,</l>
-            <l n="738" xml:id="l738">Il en renaist un autre avec plus de <ref target="#vertu">vertu*</ref>.</l>
-            <l n="739" xml:id="l739">Jugez s’il est aisé de luy donner la <ref target="#gesne">gesne*</ref>,</l>
-            <l n="740" xml:id="l740">Et ce que peut l’<ref target="#objet">objet*</ref> qui le met à la chaisne ?</l>
+            <l n="737" xml:id="l737">Et quand de ses <ref target="#vertu">vertus</ref> un gros est abbatu,</l>
+            <l n="738" xml:id="l738">Il en renaist un autre avec plus de <ref target="#vertu">vertu</ref>.</l>
+            <l n="739" xml:id="l739">Jugez s’il est aisé de luy donner la <ref target="#gesne">gesne</ref>,</l>
+            <l n="740" xml:id="l740">Et ce que peut l’<ref target="#objet">objet</ref> qui le met à la chaisne ?</l>
           </sp>
           <sp xml:id="II07-9" who="lisette">
             <speaker>LISETTE</speaker>
             <l n="741" xml:id="l741">Moy ! je pourrois aymer ce nez de Harlequin<note n="235" place="bottom"> Arlequin est le valet bouffon, superstitieux et pleutre de la <hi rend="i">commedia dell’arte</hi>. D’origine bergamasque, il porte un masque noir aux paupières étroites, un chapeau de feutre gris, un habit bariolé et, à la ceinture, une batte blanche qui lui sert d’arme, de sceptre ou de louche.</note>,</l>
             <l n="742" xml:id="l742">Ce poil de Goupillon, &amp; cet œil de Bouquin<note n="236" place="bottom"> Jeux de mots étymologiques. Le goupillon a d’abord été « la queue du renard » utilisée « pour distribuer l’eau bénite » et, peu à peu, il est devenu un « petit bâton garni par le bout de soies de porc », puis un objet purement métallique. « Bouquin » est synonyme de « vieux débauché » (Trévoux), mais le sens de « vieux livre », courant dès le XVIIe siècle, s’applique également assez bien au pédant ; de plus, la locution « sentir le bouquin », au sens de « sentir mauvais » (Le Roux), fournit une connotation supplémentaire pour souligner la bestialité du personnage.</note></l>
-            <l n="743" xml:id="l743">Pour <ref target="#attraper-miche">attraper la Miche*</ref> allez à l’autre porte.</l>
+            <l n="743" xml:id="l743">Pour <ref target="#attraper-miche">attraper la Miche</ref> allez à l’autre porte.</l>
           </sp>
           <sp xml:id="II07-10" who="pancrace">
             <speaker>PANCRACE</speaker>
-            <l n="744" xml:id="l744">Aymable &amp; cher <ref target="#objet">objet*</ref>, traitez moy d’autre sorte<note n="237" place="bottom"> Au XVIIe siècle, « autre » était employé comme un prédéterminant. Aujourd’hui, il conviendrait de déterminer le substantif par l’article indéfini.</note>,</l>
+            <l n="744" xml:id="l744">Aymable &amp; cher <ref target="#objet">objet</ref>, traitez moy d’autre sorte<note n="237" place="bottom"> Au XVIIe siècle, « autre » était employé comme un prédéterminant. Aujourd’hui, il conviendrait de déterminer le substantif par l’article indéfini.</note>,</l>
             <l n="745" xml:id="l745">L’Ironie est choquante à<note n="238" place="bottom"> « <hi rend="i">A</hi> indiquant un but s’employait là où nous nous servons de la préposition <hi rend="i">pour</hi> » (Haase, § 123, B).</note> l’esprit d’un Amant</l>
             <l n="746" xml:id="l746">Qui n’a pas recognu qu’on l’ayme infiniment,</l>
             <l n="747" xml:id="l747">Apres l’enormité de cette Catachrese<note n="239" place="bottom"><hi rend="i">Catachrese</hi> : figure de rhétorique définie comme « trope d’un usage forcé » (Fontanier). L’emploi de ces termes de rhétorique témoigne du langage affecté du savant docteur.</note>,</l>
@@ -2888,10 +2887,10 @@
             <l n="769" xml:id="l769">Ma chere Dulcinee, attens encor un peu,</l>
             <l n="770" xml:id="l770">Et loing de t’en aller faire allumer du feu,</l>
             <l n="771" xml:id="l771">Appaise dans mon cœur la devorante flâme</l>
-            <l n="772" xml:id="l772">Qui met mon corps en cendre, &amp; <ref target="#consommer">consomme*</ref> mon ame !</l>
+            <l n="772" xml:id="l772">Qui met mon corps en cendre, &amp; <ref target="#consommer">consomme</ref> mon ame !</l>
           </sp>
           <sp xml:id="II07-21" who="lisette">
-            <speaker>LIZETTE <hi rend="i">en voulant s’enfuir.</hi></speaker>
+            <speaker>LIZETTE </speaker><stage>en voulant s’enfuir.</stage>
             <l n="773" xml:id="l773">Bon Dieu ! je n’ay pas fait nettoyer le jardin,</l>
             <l n="774" xml:id="l774" part="I">Monsieur criera tantost.</l>
           </sp>
@@ -2919,7 +2918,7 @@
             <l n="786" xml:id="l786">Elle a fermé l’oreille, &amp; vient de s’en aller :</l>
             <l n="787" xml:id="l787">Allons chercher l’<ref target="#echo">Echo°</ref> de quelque Antre sauvage,</l>
             <l n="788" xml:id="l788">Et plaignons nous à luy d’un si sensible outrage.</l>
-            <p rend="center">Fin du second Acte.</p>
+            <trailer rend="center">Fin du second Acte.</trailer>
           </sp>
         </div>
       </div>
@@ -2936,7 +2935,7 @@
             <l n="791" xml:id="l791">En vain j’ay moderé toutes mes passions</l>
             <l n="792" xml:id="l792">Par la sage froideur des circonspections ;</l>
             <l n="793" xml:id="l793">Et concerté mon cœur avecque mon visage,</l>
-            <l n="794" xml:id="l794">Pour ne rien descouvrir de l’<ref target="#ennui1">ennuy*</ref> qui m’outrage :</l>
+            <l n="794" xml:id="l794">Pour ne rien descouvrir de l’<ref target="#ennui1">ennuy</ref> qui m’outrage :</l>
             <l n="795" xml:id="l795">En vain d’un jeune amy j’esvente le secret,</l>
             <l n="796" xml:id="l796">En vain je l’introduis à titre d’indiscret,</l>
             <l n="797" xml:id="l797">Et le rends parmy nous un objet de risee ;</l>
@@ -2951,7 +2950,7 @@
             <l n="803" xml:id="l803">Quand je preste l’oreille à ce jeune innocent</l>
             <l n="804" xml:id="l804">Qui m’explique vos maux par les peines qu’il sent !</l>
             <l n="805" xml:id="l805">C’est par vostre moyen que j’apprens de sa bouche</l>
-            <l n="806" xml:id="l806">Le mal que nous <ref target="#souffrir">souffrons*</ref> lors que l’amour nous touche !</l>
+            <l n="806" xml:id="l806">Le mal que nous <ref target="#souffrir">souffrons</ref> lors que l’amour nous touche !</l>
             <l n="807" xml:id="l807">Et quand mourant du traict dont il nous sceut piquer,</l>
             <l n="808" xml:id="l808">On parle par enigme au lieu de s’expliquer !</l>
             <l n="809" xml:id="l809">Je benis toutefois un si beau stratageme</l>
@@ -2966,7 +2965,7 @@
           <sp xml:id="III01-3" who="climante">
             <speaker>CLIMANTE</speaker>
             <l n="817" xml:id="l817">Vous ayant fait resoudre à cette complaisance,</l>
-            <l n="818" xml:id="l818">D’oüir un ingenu parler de ma <ref target="#souffrance">souffrance*</ref> ;</l>
+            <l n="818" xml:id="l818">D’oüir un ingenu parler de ma <ref target="#souffrance">souffrance</ref> ;</l>
             <l n="819" xml:id="l819">C’est assez en effet du bien que je reçoy</l>
             <l n="820" xml:id="l820">Lors que j’oblige un autre à vous parler pour moy.</l>
           </sp>
@@ -3044,7 +3043,7 @@
             <l n="843" xml:id="l843">Nous vivons sans donner aucun soupçon de nous.</l>
           </sp>
           <sp xml:id="III01-20" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">voulant parler d’Ariste &amp; d’elle</hi><note n="247" place="bottom"> Une telle indication semble plus intelligible aux lecteurs qu’à un éventuel metteur en scène. Cette didascalie souligne donc que Gillet ne songeait pas à la représentation de ses pièces.</note>.</speaker>
+            <speaker>OLIMPE <note n="247" place="bottom"> Une telle indication semble plus intelligible aux lecteurs qu’à un éventuel metteur en scène. Cette didascalie souligne donc que Gillet ne songeait pas à la représentation de ses pièces.</note>.</speaker><stage>voulant parler d’Ariste &amp; d’elle</stage>
             <l n="844" xml:id="l844">Nous nous aimons tous deux sans faire des jaloux.</l>
           </sp>
           <sp xml:id="III01-21" who="climante">
@@ -3114,7 +3113,7 @@
             <l n="862" xml:id="l862">J’y vay ?<note n="251" place="bottom"> Cf. note v. 850.</note> c’est mépier d’une façon adroitte.</l>
           </sp>
           <sp xml:id="III02-9" who="climante">
-            <speaker>CLIMANTE  <hi rend="i">monstrant le Docteur qui vient.</hi></speaker>
+            <speaker>CLIMANTE  </speaker><stage>monstrant le Docteur qui vient.</stage>
             <l n="863" xml:id="l863" part="I">Encor’ un surveillant ?</l>
           </sp>
         </div>
@@ -3122,11 +3121,11 @@
           <head>SCENE III</head>
           <stage>CLIMANTE, LISETTE, OLIMPE, PANCRACE.</stage>
           <sp xml:id="III03-1" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">à Climante.</hi></speaker>
+            <speaker>PANCRACE </speaker><stage>à Climante.</stage>
             <l part="F">Quatre mots, s’il vous plaist.</l>
-            <l n="864" xml:id="l864">Mon maistre vous <ref target="#expecter">expecte*</ref>, &amp; dit que tout est prest :</l>
+            <l n="864" xml:id="l864">Mon maistre vous <ref target="#expecter">expecte</ref>, &amp; dit que tout est prest :</l>
             <l n="865" xml:id="l865">Qu’il a veu les Archers, &amp; qu’il est tantost l’heure</l>
-            <l n="866" xml:id="l866" part="I">D’attendre le <ref target="#badaut">Badaut*</ref>.</l>
+            <l n="866" xml:id="l866" part="I">D’attendre le <ref target="#badaut">Badaut</ref>.</l>
           </sp>
           <sp xml:id="III03-2" who="climante">
             <speaker>CLIMANTE</speaker>
@@ -3138,7 +3137,7 @@
             <l part="M">Allons.</l>
           </sp>
           <sp xml:id="III03-4" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">arrestant Lisette qui s’en va.</hi></speaker>
+            <speaker>PANCRACE </speaker><stage>arrestant Lisette qui s’en va.</stage>
             <l part="F">Quoy sans amour tousjours ?</l>
           </sp>
           <sp xml:id="III03-5" who="lisette">
@@ -3216,12 +3215,12 @@
         <div type="scene" xml:id="III04">
           <head>SCENE IV</head>
           <sp xml:id="III04-1" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">seul.</hi></speaker>
+            <speaker>PANCRACE </speaker><stage>seul.</stage>
             <lg>
               <l n="913" xml:id="l913">Elle fuit ! &amp; je suis feru<note n="257" place="bottom"><hi rend="i">Feru</hi> : frappé.</note>,</l>
               <l n="914" xml:id="l914">Ma poitrine est mortiferée<note n="258" place="bottom"><hi rend="i">Mortiferé</hi> : frappé à mort. Néologisme formé sur l’adjectif « mortifère » qui est lui-même burlesque.</note>,</l>
               <l n="915" xml:id="l915">Et d’Amour la fléche acerée<pb n="70"/></l>
-              <l n="916" xml:id="l916">Me va rendre l’esprit <ref target="#bouru">bouru*</ref>;</l>
+              <l n="916" xml:id="l916">Me va rendre l’esprit <ref target="#bouru">bouru</ref>;</l>
               <l n="917" xml:id="l917">Mon estude est bouleversée.</l>
               <l n="918" xml:id="l918">Ma capacité fracassée ;</l>
               <l n="919" xml:id="l919">Et dedans mon individu</l>
@@ -3232,10 +3231,10 @@
             </lg>
             <lg>
               <l n="924" xml:id="l924">Ce brasier est si violent</l>
-              <l n="925" xml:id="l925">Que par sa <ref target="#vertu">vertu*</ref> specifique,</l>
+              <l n="925" xml:id="l925">Que par sa <ref target="#vertu">vertu</ref> specifique,</l>
               <l n="926" xml:id="l926">En m’eschauffant d’un feu centrique</l>
               <l n="927" xml:id="l927">Je suis un vesuve brûlant ;</l>
-              <l n="928" xml:id="l928">De sa <ref target="#consommer">consommante*</ref> hypostase<note n="261" place="bottom"><hi rend="i">Hypostase</hi> (hipostase) : « le mot est à prendre dans son sens médical "se dit du sédiment de certaines liqueurs" » (Furetière). L’emploi d’un lexique précieux suggère l’affectation du langage de Pancrace. </note></l>
+              <l n="928" xml:id="l928">De sa <ref target="#consommer">consommante</ref> hypostase<note n="261" place="bottom"><hi rend="i">Hypostase</hi> (hipostase) : « le mot est à prendre dans son sens médical "se dit du sédiment de certaines liqueurs" » (Furetière). L’emploi d’un lexique précieux suggère l’affectation du langage de Pancrace. </note></l>
               <l n="929" xml:id="l929">Se forme un antiperistase<note n="262" place="bottom"><hi rend="i">Antiperistase</hi> : « combat qui se fait entre deux choses, où celle qui a le moins de force cède à l’autre » (Richelet).</note></l>
               <l n="930" xml:id="l930">Avecque ma froide raison ;</l>
               <l n="931" xml:id="l931">D’où vient la foudroyante flâme</l>
@@ -3275,12 +3274,12 @@
               <l n="959" xml:id="l959">Pour chasser l’amoureuse <ref target="#erinyes">herine°</ref><note n="264" place="bottom"> Nous proposons de corriger <hi rend="i">herine</hi> par « Erinne » d’après « Erinnye » ce qui nous semble justifié par la présence de « furie » au vers 961 et par la correction effectuée dans l’édition de 1658 qui donne pour ce vers « Mes poulmons perdent leurs Erynnes ».</note><pb n="72"/></l>
               <l n="960" xml:id="l960">Qui met tout l’enfer dans mon cœur :</l>
               <l n="961" xml:id="l961">Cette <ref target="#furies">furie°</ref> est si fatale,</l>
-              <l n="962" xml:id="l962">Qu’avec toute vostre cabale*</l>
+              <l n="962" xml:id="l962">Qu’avec toute vostre cabale</l>
               <l n="963" xml:id="l963">Vous n’y pouriez pas un festu<note n="265" place="bottom"><hi rend="i">Festu</hi> : « petit brin de paille. On dit d’une chose de peu de valeur pour la mépriser, qu’elle ne vaut pas un festu » (Furetière). <hi rend="i">Festu</hi> équivaut donc à « rien du tout ».</note> ;</l>
               <l n="964" xml:id="l964">Mes polmons perdent leurs haleines.</l>
               <l n="965" xml:id="l965">Mon cœur en est tout abatu</l>
-              <l n="966" xml:id="l966">Et mon sang restant sans <ref target="#vertu">vertu*</ref></l>
-              <l n="967" xml:id="l967">Coule tout <ref target="#nitreux">nitreux*</ref> dans mes veines.</l>
+              <l n="966" xml:id="l966">Et mon sang restant sans <ref target="#vertu">vertu</ref></l>
+              <l n="967" xml:id="l967">Coule tout <ref target="#nitreux">nitreux</ref> dans mes veines.</l>
             </lg>
             <l n="968" xml:id="l968" part="I">Mais quelqu’un vient icy, füions ;</l>
           </sp>
@@ -3289,7 +3288,7 @@
           <head>SCENE V</head>
           <stage>ARISTE, OLIMPE, JODELET.</stage>
           <sp xml:id="III05-1" who="ariste">
-            <speaker>ARISTE <hi rend="i">seul le nez dans son manteau &amp; faisant signe à quelqu’un de se cacher.</hi></speaker>
+            <speaker>ARISTE </speaker><stage>seul le nez dans son manteau &amp; faisant signe à quelqu’un de se cacher.</stage>
             <l part="F">La nuict est sombre ;</l>
             <l n="969" xml:id="l969">Et je puis m’introduire à la faveur de l’ombre ;</l>
             <l n="970" xml:id="l970" part="I">Cht ; l’on ne m’entend point, hem, hem.</l>
@@ -3305,14 +3304,14 @@
           </sp>
           <sp xml:id="III05-4" who="olimpe">
             <speaker>OLIMPE</speaker>
-            <l part="F">Ils sont allez faire les <ref target="#loup-garou">loups garous*</ref>,</l>
+            <l part="F">Ils sont allez faire les <ref target="#loup-garou">loups garous</ref>,</l>
             <l n="972" xml:id="l972">Et croyent vous joüer une piece excellente.</l>
           </sp>
           <sp xml:id="III05-5" who="ariste">
             <speaker>ARISTE</speaker>
             <l n="973" xml:id="l973">Pour les contrejoüer d’une façon galante,</l>
             <l n="974" xml:id="l974">J’ay fait au lieu de moy déguiser Jodelet,</l>
-            <l n="975" xml:id="l975">Qui loin de vous porter un amoureux <ref target="#poulet">poulet*</ref>,</l>
+            <l n="975" xml:id="l975">Qui loin de vous porter un amoureux <ref target="#poulet">poulet</ref>,</l>
             <l n="976" xml:id="l976">Tient un escrit tout plein d’excuses ingenües</l>
             <l n="977" xml:id="l977">Pour ne pouvoir venir à ces heures induës,</l>
             <l n="978" xml:id="l978">Où je vous dis qu’estant fort brave cavalier</l>
@@ -3330,7 +3329,7 @@
             <speaker>ARISTE</speaker>
             <l part="F">Par cette raillerie,</l>
             <l n="985" xml:id="l985">J’enchery galamment dessus leur fourberie ;</l>
-            <l n="986" xml:id="l986">Car en fin ces <ref target="#badaut">badaux*</ref> en m’en tenant plus sot<pb n="74"/></l>
+            <l n="986" xml:id="l986">Car en fin ces <ref target="#badaut">badaux</ref> en m’en tenant plus sot<pb n="74"/></l>
             <l n="987" xml:id="l987">Ne me croiront pas homme à vous dire le mot ;</l>
             <l n="988" xml:id="l988">Et me voyant aimer avec tant d’innocence,</l>
             <l n="989" xml:id="l989">Me laisseront enfin agir sans deffiance.</l>
@@ -3346,7 +3345,7 @@
           <sp xml:id="III05-10" who="olimpe">
             <speaker>OLIMPE</speaker>
             <l n="992" xml:id="l992">Ils pensent qu’ils feront manquer la serenade,</l>
-            <l n="993" xml:id="l993">Et qu’ils vous berneront apres cette <ref target="#cassade">cassade*</ref>.</l>
+            <l n="993" xml:id="l993">Et qu’ils vous berneront apres cette <ref target="#cassade">cassade</ref>.</l>
           </sp>
           <sp xml:id="III05-11" who="ariste">
             <speaker>ARISTE</speaker>
@@ -3388,7 +3387,7 @@
               <l n="1008" xml:id="l1008">J’y suis…les Rihmes sont figue, jaloux, &amp; ligue</l>
               <l n="1009" xml:id="l1009">Veroux et brigue &amp; choux intrigue avec filoux<note n="266" place="bottom"> « Ariste rassemble ses rimes comme Cyrano choisit les siennes, en les énumérant. Signalons à cet égard une permutation dont il faut probablement tenir responsable l’éditeur Toussaint Quinet et qui n’a pas été corrigée depuis : pour rimer avec 1008 dont la rime est en “ ligue ”, il convient d’intervertir les mots “ intrigue ” et “ filoux ” au vers 1009 : “ Verroux et brigue &amp; choux intrigue avec filoux ”. Une semblable permutation à propos des deux dernières rimes, opérée cette fois spontanément, peut en cela nous servir de caution dans la perturbation que l’on est ainsi amené à introduire dans la reproduction fidèle de la succession des rimes du sonnet » (L. Marmin).</note></l>
               <l n="1010" xml:id="l1010">Et beste avecque feste &amp; maison &amp; monnoye</l>
-              <l n="1011" xml:id="l1011">Et les deux derniers sont <ref target="#oison">oison*</ref> avecque joye.</l>
+              <l n="1011" xml:id="l1011">Et les deux derniers sont <ref target="#oison">oison</ref> avecque joye.</l>
             </lg>
             <p rend="center">SONNET.</p>
             <lg>
@@ -3410,9 +3409,9 @@
               <l n="1022" xml:id="l1022">Et sommes tout un jour maistres de la… maison,</l>
               <l n="1023" xml:id="l1023">Et quand mon rival vient &amp; me voit sans… monnoye</l>
               <l n="1024" xml:id="l1024">Par quelques quolibets il tesmoigne sa… joye,</l>
-              <l n="1025" xml:id="l1025">Et me croit un cheval quand il n’est qu’un… <ref target="#oison">oison*</ref>.</l>
+              <l n="1025" xml:id="l1025">Et me croit un cheval quand il n’est qu’un… <ref target="#oison">oison</ref>.</l>
             </lg>
-            <p rend="center">FIN</p>
+            <trailer rend="center">FIN</trailer>
             <l n="1026" xml:id="l1026">Puis je mieux m’expliquer à moins que je le nomme ?</l>
           </sp>
           <sp xml:id="III05-18" who="olimpe">
@@ -3433,7 +3432,7 @@
             <l part="F">Ne craignez rien ce sont vers imprimez</l>
             <l n="1030" xml:id="l1030">Et j’avois concerté cette seconde addresse,</l>
             <l n="1031" xml:id="l1031">Pour les dupper encor’ avec plus de finesse,</l>
-            <l n="1032" xml:id="l1032">Et m’establir chez eux pour <ref target="#fat">fat*</ref> au dernier poinct.</l>
+            <l n="1032" xml:id="l1032">Et m’establir chez eux pour <ref target="#fat">fat</ref> au dernier poinct.</l>
           </sp>
           <sp xml:id="III05-22" who="olimpe">
             <speaker>OLIMPE</speaker>
@@ -3451,24 +3450,24 @@
         <div type="scene" xml:id="III06">
           <head>SCENE VI</head><pb n="78"/>
           <sp xml:id="III06-1" who="jodelet">
-            <speaker>JODELET <hi rend="i">seul sous l’habit d’un Archer.</hi></speaker>
-            <l n="1038" xml:id="l1038">Amour jeune <ref target="#falot">falot*</ref>, petit monstre fantasque<note n="271" place="bottom"><hi rend="i">Fantasque</hi> : « Capricieux, bouru, qui a des manieres ou des humeurs extraordinaires » (Furetière). Jodelet fait ici usage d’un lexique burlesque qui témoigne du caractère grotesque du personnage.</note>,</l>
+            <speaker>JODELET </speaker><stage>seul sous l’habit d’un Archer.</stage>
+            <l n="1038" xml:id="l1038">Amour jeune <ref target="#falot">falot</ref>, petit monstre fantasque<note n="271" place="bottom"><hi rend="i">Fantasque</hi> : « Capricieux, bouru, qui a des manieres ou des humeurs extraordinaires » (Furetière). Jodelet fait ici usage d’un lexique burlesque qui témoigne du caractère grotesque du personnage.</note>,</l>
             <l n="1039" xml:id="l1039">Qui pour nous attraper court toûjours mieux qu’un Basque<note n="272" place="bottom"> « On dit proverbialement, courir comme un Basque, pour dire, marcher vite et long-temps, parce que ceux de Biscaye sont en réputation pour cela » (Furetière).</note>;</l>
             <l n="1040" xml:id="l1040">Et faisant de nos cœurs un amoureux tison,</l>
             <l n="1041" xml:id="l1041">Mets en fin tost ou tard le feu dans ta maison ;</l>
             <l n="1042" xml:id="l1042">N’es-tu pas satisfait de me voir de la sorte ?</l>
             <l n="1043" xml:id="l1043">Ne ris-tu point de voir les armes que je porte ?</l>
             <l n="1044" xml:id="l1044">Et n’es-tu pas en fin un plaisant maroquin<note n="273" place="bottom"><hi rend="i">Maroquin</hi> : « ce mot est fort injurieux, lorsqu’on le donne en France à quelqu’un, et signifie autant que sot, stupide, bête, sauvage, ridicule » (Le Roux). « On dit aussi ironiquement, vous estes un plaisant maroquin, un plaisant bouffon » (Furetière).</note></l>
-            <l n="1045" xml:id="l1045">De m’avoir engagé dessous ce <ref target="#casaquin">casaquin*</ref> ?</l>
+            <l n="1045" xml:id="l1045">De m’avoir engagé dessous ce <ref target="#casaquin">casaquin</ref> ?</l>
             <l n="1046" xml:id="l1046">Par toy je suis Archer, mais un Archer sans gage,</l>
             <l n="1047" xml:id="l1047">Par toy je suis soldat, mais soldat sans courage ;</l>
             <l n="1048" xml:id="l1048">Par toy je suis amant mais amant sans amour ;</l>
             <l n="1049" xml:id="l1049">Et par toy je produis sans mettre rien au jour ;</l>
-            <l n="1050" xml:id="l1050">D’un jeune <ref target="#enamoure">ennamouré*</ref> qui va voir sa donzelle<note n="274" place="bottom"><hi rend="i">Donzelle</hi> : « terme burlesque qui se dit pour Demoiselle, mais il est odieux, et se prend ordinairement en mauvaise part » (Furetière).</note></l>
+            <l n="1050" xml:id="l1050">D’un jeune <ref target="#enamoure">ennamouré</ref> qui va voir sa donzelle<note n="274" place="bottom"><hi rend="i">Donzelle</hi> : « terme burlesque qui se dit pour Demoiselle, mais il est odieux, et se prend ordinairement en mauvaise part » (Furetière).</note></l>
             <l n="1051" xml:id="l1051">Sans estre en faction je suis la sentinelle ;</l>
             <l n="1052" xml:id="l1052">Et des pieces d’amour, dont il est l’inventeur,</l>
             <l n="1053" xml:id="l1053">Je seray la machine alors qu’il est l’acteur :</l>
-            <l n="1054" xml:id="l1054">Je suis par le secret de cette <ref target="#halebarde">halebarde*</ref><pb n="79"/></l>
+            <l n="1054" xml:id="l1054">Je suis par le secret de cette <ref target="#halebarde">halebarde</ref><pb n="79"/></l>
             <l n="1055" xml:id="l1055">Caporal, &amp; Sergent, soldat &amp; corps de garde ;</l>
             <l n="1056" xml:id="l1056">Et seul faisant le tout dans un si bel employ</l>
             <l n="1057" xml:id="l1057">Toute la compagnie est au dessous de moy ;</l>
@@ -3494,13 +3493,13 @@
             <l n="1077" xml:id="l1077">Puisque je suis archer aussi bien comme toy ;</l>
             <l n="1078" xml:id="l1078">Nous sommes compagnons &amp; devons ce me semble</l>
             <l n="1079" xml:id="l1079">Travaillant l’un pour l’autre, aider qui nous ressemble !</l>
-            <l n="1080" xml:id="l1080">Nous de la ressemblance, Ah <ref target="#fat">fat*</ref> au dernier poinct !<pb n="80"/></l>
+            <l n="1080" xml:id="l1080">Nous de la ressemblance, Ah <ref target="#fat">fat</ref> au dernier poinct !<pb n="80"/></l>
             <l n="1081" xml:id="l1081">J’ay des yeux qui sont bons, &amp; toy tu n’en as point !</l>
             <l n="1082" xml:id="l1082">D’un cocüage encor nul mary ne me blasme,</l>
             <l n="1083" xml:id="l1083">Et ma mere apres tout est fort honneste femme.</l>
             <l n="1084" xml:id="l1084">Non, non je suis archer, tu n’es qu’un archerot<note n="284" place="bottom"><hi rend="i">Archerot</hi> : petit archer, désigne Cupidon.</note>;</l>
             <l n="1085" xml:id="l1085">Je suis fort honneste homme &amp; toy tu n’es qu’un sot.</l>
-            <l n="1086" xml:id="l1086">Au diable soit l’amour, avec la <ref target="#halebarde">halebarde*</ref> !</l>
+            <l n="1086" xml:id="l1086">Au diable soit l’amour, avec la <ref target="#halebarde">halebarde</ref> !</l>
           </sp>
         </div>
         <div type="scene" xml:id="III07">
@@ -3511,7 +3510,7 @@
             <l n="1087" xml:id="l1087" part="I">La Verdure<note n="285" place="bottom"> La Verdure est le nom d’un archer du guet.</note>,</l>
           </sp>
           <sp xml:id="III07-2" who="jodelet">
-            <speaker>JODELET <hi rend="i">bas.</hi></speaker>
+            <speaker>JODELET </speaker><stage>bas.</stage>
             <l part="M">Motus.</l>
           </sp>
           <sp xml:id="III07-3" who="le-caporal">
@@ -3519,7 +3518,7 @@
             <l part="F">Venez au corps de garde ?</l>
           </sp>
           <sp xml:id="III07-4" who="jodelet">
-            <speaker>JODELET <hi rend="i">bas.</hi></speaker>
+            <speaker>JODELET </speaker><stage>bas.</stage>
             <l n="1088" xml:id="l1088" part="I">Commande à tes valets.</l>
           </sp>
           <sp xml:id="III07-5" who="le-caporal">
@@ -3531,7 +3530,7 @@
             <l n="1092" xml:id="l1092">Il semble que le mal ne soit que pour les vieux.</l>
           </sp>
           <sp xml:id="III07-6" who="jodelet">
-            <speaker>JODELET <hi rend="i">bas.</hi></speaker>
+            <speaker>JODELET </speaker><stage>bas.</stage>
             <l n="1093" xml:id="l1093">Ce vieillard à l’entendre est bien seditieux !</l>
           </sp>
           <sp xml:id="III07-7" who="le-caporal">
@@ -3543,7 +3542,7 @@
             <l part="F">Qu’il aime la querelle !</l>
           </sp>
           <sp xml:id="III07-9" who="le-caporal">
-            <speaker>LE CAPORAL <hi rend="i">s’avance avec sa lanterne.</hi></speaker>
+            <speaker>LE CAPORAL </speaker><stage>s’avance avec sa lanterne.</stage>
             <l n="1095" xml:id="l1095" part="I">Voyons, qu’attens-tu là ?</l>
           </sp>
           <sp xml:id="III07-10" who="jodelet">
@@ -3552,7 +3551,7 @@
             <l n="1096" xml:id="l1096" part="I">Peste !</l>
           </sp>
           <sp xml:id="III07-11" who="le-caporal">
-            <speaker>LE CAPORAL <hi rend="i">bas.</hi></speaker>
+            <speaker>LE CAPORAL </speaker><stage>bas.</stage>
             <l part="F">Ce n’est pas luy, je le reconnois bien !</l>
             <l n="1097" xml:id="l1097" part="I">Ton nom ?</l>
           </sp>
@@ -3603,7 +3602,7 @@
             <speaker>JODELET</speaker><pb n="83"/>
             <l part="F">J’y serois jusqu’à demain matin.</l>
             <l n="1105" xml:id="l1105">A d’autre, viel amy, vous m’espreuvez en vain :</l>
-            <l n="1106" xml:id="l1106">Je n’en <ref target="#bransler">branslerois*</ref> pas pour gagner un Empire.</l>
+            <l n="1106" xml:id="l1106">Je n’en <ref target="#bransler">branslerois</ref> pas pour gagner un Empire.</l>
             <l n="1107" xml:id="l1107">Dieu vous doint<note n="286" place="bottom"><hi rend="i">Doint</hi> : subjonctif présent du verbe donner. « Dans les propositions principales exprimant  […] la prière […], l’ancien français employait le subjonctif sans <hi rend="i">que</hi> ; le français moderne, au contraire l’amène par <hi rend="i">que</hi>, et n’a conservé l’ancien usage que pour des cas exceptionnels. » (Haase, § 73).</note> tout le bien que vostre cœur desire,</l>
             <l n="1108" xml:id="l1108" part="I">Encor, Dieu vous assiste, &amp; bon soir.</l>
           </sp>
@@ -3614,7 +3613,7 @@
             <l n="1110" xml:id="l1110" part="I">Il me faut suivre amy.</l>
           </sp>
           <sp xml:id="III07-24" who="jodelet">
-            <speaker>JODELET <hi rend="i">en le flattant.</hi></speaker>
+            <speaker>JODELET </speaker><stage>en le flattant.</stage>
             <l part="F">Le Belaud<note n="287" place="bottom"><hi rend="i">Belaud</hi> : niais. En Anjou, « berlaud » a conservé ce sens (d’après P. Lerat).</note>, qu’il est drosle !</l>
           </sp>
           <sp xml:id="III07-25" who="le-caporal">
@@ -3661,9 +3660,9 @@
             <l part="F">Quelle gresle de coups !</l>
             <l n="1118" xml:id="l1118">Au meurtre, l’on m’assomme, on me vole, on me tuë !</l>
             <l n="1119" xml:id="l1119">Au diable soit l’amour, la maison &amp; la ruë !</l>
-            <l n="1120" xml:id="l1120">Lettres, message, amy, maistresse, <ref target="#casaquin">casaquin*</ref>,</l>
-            <l n="1121" xml:id="l1121">Sentinelle, poignard, <ref target="#halebarde">halebarde*</ref> &amp; Rouquin<note n="288" place="bottom"><hi rend="i">Rouquin</hi> : le même contexte dans <hi rend="i">Le Campagnard</hi>, à la scène 3 de l’acte V, explicite ce terme de Rouquin : « Jodelet, <hi rend="i">s’essayant à chanter</hi> […]  / Maudit soit le rouquin qui m’embarasse icy / <hi rend="i">Il laisse tomber son épée</hi> »</note>.</l>
-            <p rend="center">Fin du troisiesme Acte.</p>
+            <l n="1120" xml:id="l1120">Lettres, message, amy, maistresse, <ref target="#casaquin">casaquin</ref>,</l>
+            <l n="1121" xml:id="l1121">Sentinelle, poignard, <ref target="#halebarde">halebarde</ref> &amp; Rouquin<note n="288" place="bottom"><hi rend="i">Rouquin</hi> : le même contexte dans <hi rend="i">Le Campagnard</hi>, à la scène 3 de l’acte V, explicite ce terme de Rouquin : « Jodelet, <hi rend="i">s’essayant à chanter</hi> […]  / Maudit soit le rouquin qui m’embarasse icy / <hi rend="i">Il laisse tomber son épée</hi> »</note>.</l>
+            <trailer rend="center">Fin du troisiesme Acte.</trailer>
           </sp>
         </div>
       </div>
@@ -3700,7 +3699,7 @@
           <sp xml:id="IV01-5" who="oronthe">
             <speaker>ORONTHE</speaker>
             <l part="F">Tu viendras apres avec les autres</l>
-            <l n="1132" xml:id="l1132">Feras monter mes gens, prendras soin de mon <ref target="#train">train*</ref>,</l>
+            <l n="1132" xml:id="l1132">Feras monter mes gens, prendras soin de mon <ref target="#train">train</ref>,</l>
             <l n="1133" xml:id="l1133">Mettras ordre par tout, &amp; suivras mon chemin :</l>
             <l n="1134" xml:id="l1134">De plus ayant besoin de deguiser l’affaire</l>
             <l n="1135" xml:id="l1135">Dans châque hostellerie il te faut dire pere</l>
@@ -3727,7 +3726,7 @@
             <speaker>ORONTHE</speaker><pb n="87"/>
             <l n="1143" xml:id="l1143">Moy pour ne tesmoigner mes desseins à personne,</l>
             <l n="1144" xml:id="l1144">Je vais avec Climante encore raisonner</l>
-            <l n="1145" xml:id="l1145">Pour berner nostre <ref target="#fat">fat*</ref>, qui s’appreste à donner</l>
+            <l n="1145" xml:id="l1145">Pour berner nostre <ref target="#fat">fat</ref>, qui s’appreste à donner</l>
             <l n="1146" xml:id="l1146">Dans deux heures d’icy sa belle serenade.</l>
           </sp>
           <sp xml:id="IV01-10" who="pancrace">
@@ -3784,7 +3783,7 @@
           </sp>
           <sp xml:id="IV02-10" who="climante">
             <speaker>CLIMANTE</speaker>
-            <l n="1159" xml:id="l1159">Sans doute il y fera quelque bonne <ref target="#incartade">incartade*</ref>.</l>
+            <l n="1159" xml:id="l1159">Sans doute il y fera quelque bonne <ref target="#incartade">incartade</ref>.</l>
           </sp>
           <sp xml:id="IV02-11" who="oronthe">
             <speaker>ORONTHE</speaker>
@@ -3829,7 +3828,7 @@
             <l n="1165" xml:id="l1165" part="I">Allons.</l>
           </sp>
           <sp xml:id="IV03-8" who="lisette">
-            <speaker>LISETTE <hi rend="i">seule.</hi></speaker><pb n="90"/>
+            <speaker>LISETTE </speaker><stage>seule.</stage><pb n="90"/>
             <l part="F">Ay-je dessein de mourir de la tous ?</l>
             <l n="1166" xml:id="l1166">Et la fraischeur qui vient de l’air &amp; de la terre</l>
             <l n="1167" xml:id="l1167">Pourroit-elle estre bonne à guerir mon catherre<note n="290" place="bottom"><hi rend="i">Catherre</hi> : « Catarrhe : flux d’humeurs pecantes […] aucuns l’appellent [la goutte] descente, rheume, ou catarre, par-ce que le nom de goutte est odieux, principalement aux jeunes gens » (Huguet, <hi rend="i">Dictionnaire de la langue française du 16<hi rend="sup">ème</hi></hi>).</note> ?</l>
@@ -3842,7 +3841,7 @@
             <l n="1174" xml:id="l1174">Ah ! de despit j’enrage, &amp; de regret j’en pleure ;</l>
             <l n="1175" xml:id="l1175">A t’il le chien qu’il est resolu que j’en meure ?</l>
             <l n="1176" xml:id="l1176">Ah folle que je suis d’aimer trop ce lourdaut !</l>
-            <l n="1177" xml:id="l1177">Encor s’il estoit beau : mais ce n’est qu’un <ref target="#badaut">badaut*</ref>.</l>
+            <l n="1177" xml:id="l1177">Encor s’il estoit beau : mais ce n’est qu’un <ref target="#badaut">badaut</ref>.</l>
             <l n="1178" xml:id="l1178">Et quelque long chagrin qui m’ait defigurée,</l>
             <l n="1179" xml:id="l1179">Je ne suis pas si sotte &amp; pas tant deschiree<note n="291" place="bottom"><hi rend="i">Deschiré</hi> : « on dit qu’une femme n’est pas trop déchirée pour dire qu’elle est encore assez jolie et assez fraîche pour qu’on cherche à lui plaire » (Trévoux).</note>,</l>
             <l n="1180" xml:id="l1180">Que je ne vaille bien un amour mutuel.</l>
@@ -3854,7 +3853,7 @@
           <head>SCENE IV</head><pb n="91"/>
           <stage>JODELET, LISETTE.</stage>
           <sp xml:id="IV04-1" who="jodelet">
-            <speaker>JODELET, <hi rend="i">en luy-mesme songeant comme il avoit esté pris des Archers.</hi></speaker>
+            <speaker>JODELET, </speaker><stage>en luy-mesme songeant comme il avoit esté pris des Archers.</stage>
             <l n="1183" xml:id="l1183">Ouy, Jodelet sans eux tu n’estois plus au monde.</l>
             <l n="1184" xml:id="l1184">Quelle commission mon maistre me donna ?</l>
             <l n="1185" xml:id="l1185">Et m’envoyer encor nonosbstant tout cela</l>
@@ -3873,7 +3872,7 @@
             <l n="1189" xml:id="l1189">Que ne viens-tu pour voir celle qui t’y cherchoit ?</l>
           </sp>
           <sp xml:id="IV04-5" who="jodelet">
-            <speaker>JODELET <hi rend="i">s’en veut separer.</hi></speaker>
+            <speaker>JODELET </speaker><stage>s’en veut separer.</stage>
             <l n="1190" xml:id="l1190">Que l’on me cherche ou non, ma foy pour te le dire,</l>
             <l n="1191" xml:id="l1191">Laisse moy, l’on n’est pas tousjours d’humeur à rire.</l>
           </sp>
@@ -3895,7 +3894,7 @@
           </sp>
           <sp xml:id="IV04-10" who="lisette">
             <speaker>LISETTE</speaker>
-            <l n="1196" xml:id="l1196">Si mes yeux sont ardens* &amp; sont rouges de feu,</l>
+            <l n="1196" xml:id="l1196">Si mes yeux sont ardens &amp; sont rouges de feu,</l>
             <l n="1197" xml:id="l1197" part="I">C’est de celuy d’amour.</l>
           </sp>
           <sp xml:id="IV04-11" who="jodelet">
@@ -4002,7 +4001,7 @@
             <l n="1233" xml:id="l1233">Si tu parles tousjours, je veux tousjours t’aimer.</l>
           </sp>
           <sp xml:id="IV04-30" who="lisette">
-            <speaker>LISETTE <hi rend="i">le tire à part, &amp; luy parle à l’oreille.</hi></speaker>
+            <speaker>LISETTE </speaker><stage>le tire à part, &amp; luy parle à l’oreille.</stage>
             <l n="1234" xml:id="l1234" part="I">Pancrace vient, escoute.</l>
           </sp>
         </div>
@@ -4010,7 +4009,7 @@
           <head>SCENE V</head>
           <stage>PANCRACE, JODELET.</stage>
           <sp xml:id="IV05-1" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">seul.</hi></speaker>
+            <speaker>PANCRACE </speaker><stage>seul.</stage>
             <l part="F">Elle n’est pas sortie,</l>
             <l n="1235" xml:id="l1235">Mes yeux se sont trompez, j’ay mal fait ma partie.</l>
           </sp>
@@ -4036,7 +4035,7 @@
             <l n="1239" xml:id="l1239" part="I">Tu le peux sans sortir :</l>
           </sp>
           <sp xml:id="IV05-7" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">bas ces deux vers.</hi></speaker>
+            <speaker>PANCRACE </speaker><stage>bas ces deux vers.</stage>
             <l part="F">Il faut joüer d’adresse,</l>
             <l n="1240" xml:id="l1240">Et ne pas tesmoigner que l’amour me menoit ;</l>
             <l n="1241" xml:id="l1241">Ouy ; mais l’impatience au logis me prenoit.</l>
@@ -4054,13 +4053,12 @@
             <l n="1244" xml:id="l1244">Sans doute, mais encor que veut dire ce mot ?</l>
           </sp>
           <sp xml:id="IV05-11" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">en frappant sur l’espaule de Jodelet.</hi>
-            </speaker>
+            <speaker>PANCRACE </speaker><stage>en frappant sur l’espaule de Jodelet.</stage>
             <pb n="N ; 97"/>
             <l n="1245" xml:id="l1245" part="I">J’ayme les curieux.</l>
           </sp>
           <sp xml:id="IV05-12" who="jodelet">
-            <speaker>JODELET <hi rend="i">faisant l’habile homme.</hi></speaker>
+            <speaker>JODELET </speaker><stage>faisant l’habile homme.</stage>
             <l part="F">Je ne suis pas tant sot.</l>
             <l n="1246" xml:id="l1246">Mais si tu veux parler modere toy, de grace,</l>
             <l n="1247" xml:id="l1247">Du latin j’en sçay peu, mais pour du grés j’en casse<note n="300" place="bottom"> Même si on prononçait souvent [gRε] pour grec, l’emploi de ce terme par rapport à celui de « latin » produit un effet comique. <hi rend="i">Casser du grès</hi> semble vouloir dire « envoyer promener » selon un exemple de d’Assoucy commenté par F. Bar.</note>.</l>
@@ -4081,7 +4079,7 @@
           <sp xml:id="IV05-16" who="jodelet">
             <speaker>JODELET</speaker>
             <l n="1252" xml:id="l1252">S’il en est sous le Ciel nostre Espicier en a,</l>
-            <l n="1253" xml:id="l1253">Il vend bien du mercure &amp; du <ref target="#diapalma">diapalma*</ref>.</l>
+            <l n="1253" xml:id="l1253">Il vend bien du mercure &amp; du <ref target="#diapalma">diapalma</ref>.</l>
           </sp>
           <sp xml:id="IV05-17" who="pancrace">
             <speaker>PANCRACE</speaker>
@@ -4100,7 +4098,7 @@
             <l n="1259" xml:id="l1259">Qui porte un grand desordre aux regions du foye,</l>
             <l n="1260" xml:id="l1260">Et qui par le venin d’un esprit sulfuré,</l>
             <l n="1261" xml:id="l1261">Corrompt le meilleur sang, &amp; le plus espuré.</l>
-            <l n="1262" xml:id="l1262">C’est le <ref target="#funeste">funeste*</ref> autheur de ces <ref target="#triste1">tristes*</ref> ravages,</l>
+            <l n="1262" xml:id="l1262">C’est le <ref target="#funeste">funeste</ref> autheur de ces <ref target="#triste1">tristes</ref> ravages,</l>
             <l n="1263" xml:id="l1263">Qu’excitent les desirs dans le cœur des plus sages ;</l>
             <l n="1264" xml:id="l1264">Et le noir seducteur des belles passions,</l>
             <l n="1265" xml:id="l1265">Par où l’honneur nous pousse aux bonnes actions.</l>
@@ -4126,7 +4124,7 @@
             <l n="1279" xml:id="l1279">Veid un jour forligner<note n="301" place="bottom"><hi rend="i">Forligner</hi> : « ne pas suivre la vertu et les bons exemples de ses Ancêtres, de ceux dont on est issu, faire quelque chose indigne de leur race. On le dit particulièrement de ceux qui se sont mesalliez » (Furetière). Conformément à son personnage de docteur savant, Pancrace emploie un vocabulaire affecté.</note> la Reyne d’Amadonthe<note n="302" place="bottom"><hi rend="i">Amadonthe</hi> (Amathonte) : ancienne ville de Chypre, célèbre par le culte d’Adonis et de Vénus.</note>,</l>
             <l n="1280" xml:id="l1280">Et dedans la prison des reseaux qu’il avoit<note n="303" place="bottom"> Ce vers donne à voir la capture au filet de Vénus, prise en flagrant délit d’adultère, par Vulcain.</note></l>
             <l n="1281" xml:id="l1281">Fit voir à tous les Dieux l’affront qu’il recevoit :</l>
-            <l n="1282" xml:id="l1282">Mais je soustiens en fin à tous <ref target="#gymnosophiste">gymnosophistes*</ref>,</l>
+            <l n="1282" xml:id="l1282">Mais je soustiens en fin à tous <ref target="#gymnosophiste">gymnosophistes</ref>,</l>
             <l n="1283" xml:id="l1283">Cosmographes du Ciel &amp; tous Mithologistes,</l>
             <l n="1284" xml:id="l1284">Que l’enfant <ref target="#cupidon">Cupidon°</ref> voyoit desja le jour</l>
             <l n="1285" xml:id="l1285">Quand <ref target="#mars">Mars°</ref> connut sa mere, &amp; qu’il luy fit l’amour.</l>
@@ -4152,7 +4150,7 @@
             <l n="1298" xml:id="l1298">Et prenant comme <ref target="#atlas">Athlas°</ref> le fardeau sur l’espaule.</l>
           </sp>
           <sp xml:id="IV05-24" who="jodelet">
-            <speaker>JODELET <hi rend="i">se lassant.</hi></speaker>
+            <speaker>JODELET </speaker><stage>se lassant.</stage>
             <l n="1299" xml:id="l1299">C’est assez, concluons que l’amour est bon drole.</l>
             <l n="1300" xml:id="l1300" part="I">Tu te mets en colere ?</l>
           </sp>
@@ -4163,7 +4161,7 @@
           </sp>
           <sp xml:id="IV05-26" who="jodelet">
             <speaker>JODELET</speaker>
-            <l n="1302" xml:id="l1302">Du <ref target="#cahos">Cahos°</ref> ! par ma foy tu m’en<note n="306" place="bottom"> Cf. note v. 1066.</note> fais bien  <ref target="#accroire">accroire*</ref>.</l>
+            <l n="1302" xml:id="l1302">Du <ref target="#cahos">Cahos°</ref> ! par ma foy tu m’en<note n="306" place="bottom"> Cf. note v. 1066.</note> fais bien  <ref target="#accroire">accroire</ref>.</l>
           </sp>
           <sp xml:id="IV05-27" who="pancrace">
             <speaker>PANCRACE</speaker>
@@ -4261,7 +4259,7 @@
             <l part="M">Elle m’aime.</l>
           </sp>
           <sp xml:id="IV05-41" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">bas.</hi></speaker>
+            <speaker>PANCRACE </speaker><stage>bas.</stage>
             <l part="M">Ah !</l>
           </sp>
           <sp xml:id="IV05-42" who="jodelet">
@@ -4286,7 +4284,7 @@
             <l part="F">J’en ay bien veu d’autres.</l>
             <l n="1352" xml:id="l1352">Ils<note n="313" place="bottom"> Jodelet emploie le pronom masculin alors qu’il parle des femmes. Nous devons supposer qu’il s’agit d’un masculin de généralité.</note> ont beau me prier, mon honneur m’est trop cher,</l>
             <l n="1353" xml:id="l1353">S’ils veulent de l’amour qu’ils en aillent chercher,</l>
-            <l n="1354" xml:id="l1354">Je ne suis pas payé pour <ref target="#souffrir">souffrir*</ref> leurs fredaines,</l>
+            <l n="1354" xml:id="l1354">Je ne suis pas payé pour <ref target="#souffrir">souffrir</ref> leurs fredaines,</l>
             <l n="1355" xml:id="l1355">Et j’aimerois bien mieux que les fievres quartaines<note n="314" place="bottom"><hi rend="i">Fievres quartaines</hi> : « on dit proverbialement, vos fievres quartaines, quand on veut faire une imprecation contre quelqu’un, laquelle est particulière aux François, parce qu’étant naturellement prompts et impatients, ils croyent souhaitter plus de mal à leur ennemi en leur souhaittant une maladie de longue durée, telle qu’est la fievre quartaine, que s’ils leur souhaittoient une maladie plus courte et plus dangereuse » (Furetière).</note></l>
             <l n="1356" xml:id="l1356">Les prissent au collet, &amp; les vinssent serrer</l>
             <l n="1357" xml:id="l1357">Que de les escouter se plaindre &amp; souspirer.</l>
@@ -4306,7 +4304,7 @@
             <l n="1371" xml:id="l1371">Que j’aye dementy l’honneur de mon lignage,</l>
             <l n="1372" xml:id="l1372">Et que je ne sois plus un garçon vergogneux<note n="317" place="bottom"><hi rend="i">Vergogne</hi> : « vieux mot… qui ne s’emploie plus que dans le burlesque » (Furetière). Cet emploi burlesque se remarque d’autant plus que la pudeur n’est pas le caractère principal des valets de comédie.</note> ;</l>
             <l n="1373" xml:id="l1373">Je sçay ce qu’on disoit de Pierrot le honteux</l>
-            <l n="1374" xml:id="l1374">Quand il s’amouracha de sa jeune <ref target="#commere">commere*</ref>.</l>
+            <l n="1374" xml:id="l1374">Quand il s’amouracha de sa jeune <ref target="#commere">commere</ref>.</l>
           </sp>
           <sp xml:id="IV05-47" who="pancrace">
             <speaker>PANCRACE
@@ -4338,7 +4336,7 @@
             <speaker>JODELET</speaker>
             <l n="1383" xml:id="l1383">Elle dit que tousjours tu luy parles de flame ;</l>
             <l n="1384" xml:id="l1384">Que pour elle tes feux sont des plus élegans,</l>
-            <l n="1385" xml:id="l1385">Et que tous tes discours sont bien <ref target="#extravagant">extravagans*</ref> ?    </l>
+            <l n="1385" xml:id="l1385">Et que tous tes discours sont bien <ref target="#extravagant">extravagans</ref> ?    </l>
           </sp>
           <sp xml:id="IV05-53" who="pancrace">
             <speaker>PANCRACE</speaker>
@@ -4408,17 +4406,15 @@
             <l n="1403" xml:id="l1403">Allons donc advertir mon maistre qu’il descende.</l>
           </sp>
           <sp xml:id="IV06-3" who="ariste">
-            <speaker>ARISTE <hi rend="i">à ses Violons, sans faire semblant de sçavoir</hi>
-              <hi rend="i">que Climante est caché.</hi></speaker><pb n="108"/>
+            <speaker>ARISTE </speaker><stage>que Climante est caché.</stage><stage>à ses Violons, sans faire semblant de sçavoir</stage><pb n="108"/>
             <l n="1404" xml:id="l1404" part="I">Voicy le bel endroit, allons donnez !</l>
           </sp>
           <sp xml:id="IV06-4" who="climante">
-            <speaker>CLIMANTE  <hi rend="i">à ses Violons.</hi></speaker>
+            <speaker>CLIMANTE  </speaker><stage>à ses Violons.</stage>
             <l part="F">Donnez.</l>
           </sp>
           <sp xml:id="IV06-5" who="violon1">
-            <speaker>1.VIOLON <hi rend="i">à son camarade, ne voyant pas les violons de Climante qui avoient sonné</hi>
-              <note n="322" place="bottom"><hi rend="i">Sonner</hi> : jouer d’un instrument de musique.</note>.</speaker>
+            <speaker>1.VIOLON <note n="322" place="bottom"><hi rend="i">Sonner</hi> : jouer d’un instrument de musique.</note>.</speaker><stage>à son camarade, ne voyant pas les violons de Climante qui avoient sonné</stage>
             <l n="1405" xml:id="l1405">Je ne puis m’accorder tandis que vous sonnez,</l>
             <l n="1406" xml:id="l1406">Un peu de patience… en fin c’est assez dire,</l>
             <l n="1407" xml:id="l1407">Messieurs, escoutons nous, il n’est pas tant de rire.</l>
@@ -4445,19 +4441,19 @@
             <l n="1411" xml:id="l1411" part="I">Allons, c’est à ce coup.</l>
           </sp>
           <sp xml:id="IV06-11" who="violon2">
-            <speaker>2.VIOLON <hi rend="i">l’arestant.</hi></speaker>
+            <speaker>2.VIOLON </speaker><stage>l’arestant.</stage>
             <l part="F">Un peu de patience,</l>
             <l n="1412" xml:id="l1412">Ma quarte se relasche au moins d’un demy ton,<pb n="109"/></l>
             <l n="1413" xml:id="l1413" part="I">Je suis bien.</l>
           </sp>
           <sp xml:id="IV06-12" who="violon1">
             <speaker>1.VIOLON</speaker>
-            <l part="F">L’<ref target="#alemande">Alemande*</ref>, allons, c’est tout de bon.</l>
+            <l part="F">L’<ref target="#alemande">Alemande</ref>, allons, c’est tout de bon.</l>
           </sp>
           <sp xml:id="IV06-13" who="ariste">
             <speaker>ARISTE</speaker>
             <l n="1414" xml:id="l1414">Messieurs, ce n’est pas là ce que je vous demande,</l>
-            <l n="1415" xml:id="l1415">Vous joüez la <ref target="#bourree">bourrée*</ref> au lieu d’une <ref target="#alemande">Alemande*</ref></l>
+            <l n="1415" xml:id="l1415">Vous joüez la <ref target="#bourree">bourrée</ref> au lieu d’une <ref target="#alemande">Alemande</ref></l>
           </sp>
           <sp xml:id="IV06-14" who="violon2">
             <speaker>2.VIOLON</speaker>
@@ -4468,7 +4464,7 @@
             <l n="1417" xml:id="l1417" part="I">Le Flambeau…</l>
           </sp>
           <sp xml:id="IV06-16" who="jodelet">
-            <speaker>JODELET <hi rend="i">apportant un flambeau.</hi></speaker>
+            <speaker>JODELET </speaker><stage>apportant un flambeau.</stage>
             <l part="F">Sus, Messieurs, monstrez-nous les talons<note n="324" place="bottom"><hi rend="i">Montrer les talons</hi> : « proverbialement, on dit à ceux qu’on veut chasser, Allez, monstrez moy les talons » (Furetière).</note>.</l>
           </sp>
           <sp xml:id="IV06-17" who="ariste">
@@ -4481,7 +4477,7 @@
             <l n="1419" xml:id="l1419">Ou je te casseray la teste avec ta basse.</l>
           </sp>
           <sp xml:id="IV06-19" who="climante">
-            <speaker>CLIMANTE <hi rend="i">deguisé.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>deguisé.</stage>
             <l n="1420" xml:id="l1420">Toy ! si tu l’avois fait avecque ce flambeau,</l>
             <l n="1421" xml:id="l1421">Je te ferois griller comme on fait un pourceau.</l>
             <l n="1422" xml:id="l1422" part="I">Veux-tu voir ?</l>
@@ -4494,12 +4490,12 @@
           </sp>
           <sp xml:id="IV06-21" who="ariste">
             <speaker>ARISTE</speaker>
-            <l n="1425" xml:id="l1425">Monsieur, ne songez pas à ce que dis ce <ref target="#fat">fat*</ref></l>
-            <l n="1426" xml:id="l1426" part="I">Et <ref target="#souffrir">souffrez*</ref>…</l>
+            <l n="1425" xml:id="l1425">Monsieur, ne songez pas à ce que dis ce <ref target="#fat">fat</ref></l>
+            <l n="1426" xml:id="l1426" part="I">Et <ref target="#souffrir">souffrez</ref>…</l>
           </sp>
           <sp xml:id="IV06-22" who="climante">
             <speaker>CLIMANTE</speaker>
-            <l part="F">Quoy <ref target="#souffrir">souffrir*</ref> ? la plaisante boutade !</l>
+            <l part="F">Quoy <ref target="#souffrir">souffrir</ref> ? la plaisante boutade !</l>
             <l n="1427" xml:id="l1427">Et quel droict avez vous de donner serenade ?</l>
           </sp>
           <sp xml:id="IV06-23" who="ariste">
@@ -4537,11 +4533,11 @@
           </sp>
           <sp xml:id="IV06-31" who="ariste">
             <speaker>ARISTE</speaker>
-            <l n="1434" xml:id="l1434">J’ay <ref target="#souffrir">souffert*</ref> des rigueurs sans espoir de salaire.</l>
+            <l n="1434" xml:id="l1434">J’ay <ref target="#souffrir">souffert</ref> des rigueurs sans espoir de salaire.</l>
           </sp>
           <sp xml:id="IV06-32" who="climante">
             <speaker>CLIMANTE</speaker>
-            <l n="1435" xml:id="l1435">J’ay <ref target="#souffrir">souffert*</ref> des mespris sans me mettre en colere.</l>
+            <l n="1435" xml:id="l1435">J’ay <ref target="#souffrir">souffert</ref> des mespris sans me mettre en colere.</l>
           </sp>
           <sp xml:id="IV06-33" who="ariste">
             <speaker>ARISTE</speaker>
@@ -4549,7 +4545,7 @@
           </sp>
           <sp xml:id="IV06-34" who="climante">
             <speaker>CLIMANTE</speaker>
-            <l n="1437" xml:id="l1437">J’ay treuvé tout fort bon de l’<ref target="#objet">objet*</ref> adoré.</l>
+            <l n="1437" xml:id="l1437">J’ay treuvé tout fort bon de l’<ref target="#objet">objet</ref> adoré.</l>
           </sp>
           <sp xml:id="IV06-35" who="ariste">
             <speaker>ARISTE</speaker>
@@ -4581,7 +4577,7 @@
           </sp>
           <sp xml:id="IV06-42" who="climante">
             <speaker>CLIMANTE</speaker>
-            <l part="F">J’ay donné des <ref target="#cadeau">cadeaux*</ref>.</l>
+            <l part="F">J’ay donné des <ref target="#cadeau">cadeaux</ref>.</l>
           </sp>
           <sp xml:id="IV06-43" who="ariste">
             <speaker>ARISTE</speaker>
@@ -4601,7 +4597,7 @@
           </sp>
           <sp xml:id="IV06-47" who="ariste">
             <speaker>ARISTE</speaker>
-            <l n="1444" xml:id="l1444">J’ay donné mille escus pour porter un <ref target="#poulet">poulet*</ref>.</l>
+            <l n="1444" xml:id="l1444">J’ay donné mille escus pour porter un <ref target="#poulet">poulet</ref>.</l>
           </sp>
           <sp xml:id="IV06-48" who="climante">
             <speaker>CLIMANTE</speaker><pb n="P ; 115"/>
@@ -4633,7 +4629,7 @@
           </sp>
           <sp xml:id="IV06-55" who="ariste">
             <speaker>ARISTE</speaker>
-            <l n="1452" xml:id="l1452" part="I">J’ay donné des <ref target="#galans">galans*</ref>.</l>
+            <l n="1452" xml:id="l1452" part="I">J’ay donné des <ref target="#galans">galans</ref>.</l>
           </sp>
           <sp xml:id="IV06-56" who="climante">
             <speaker>CLIMANTE</speaker>
@@ -4713,7 +4709,7 @@
           <sp xml:id="IV06-73" who="ariste">
             <speaker>ARISTE</speaker>
             <l part="F">J’y viens pour affaire pareille.</l>
-            <l n="1472" xml:id="l1472">Oronthe appaisera cette <ref target="#noise">noise*</ref> entre nous</l>
+            <l n="1472" xml:id="l1472">Oronthe appaisera cette <ref target="#noise">noise</ref> entre nous</l>
             <l n="1473" xml:id="l1473" part="I">Cet homme est fort commode.</l>
           </sp>
           <sp xml:id="IV06-74" who="climante">
@@ -4748,14 +4744,14 @@
           <sp xml:id="IV06-81" who="pancrace">
             <speaker>PANCRACE</speaker>
             <l n="1478" xml:id="l1478">Exibez vous, Monsieur, &amp; par quelques adages</l>
-            <l n="1479" xml:id="l1479">De ces periclitans, dissipez les <ref target="#ambages">ambages*</ref>.</l>
+            <l n="1479" xml:id="l1479">De ces periclitans, dissipez les <ref target="#ambages">ambages</ref>.</l>
           </sp>
         </div>
         <div type="scene" xml:id="IV07">
           <head>SCENE VII</head><pb n="119"/>
           <stage>ARISTE, CLIMANTE, ORONTHE, PANCRACE, JODELET<note n="331" place="bottom"> Le valet est présent à cette scène mais son rôle est muet.</note>, Les deux troupes de Violons.</stage>
           <sp xml:id="IV07-1" who="ariste">
-            <speaker>ARISTE <hi rend="i">appellant Oronthe.</hi></speaker>
+            <speaker>ARISTE </speaker><stage>appellant Oronthe.</stage>
             <l n="1480" xml:id="l1480" part="I">Amy ?</l>
           </sp>
           <sp xml:id="IV07-2" who="oronthe">
@@ -4847,7 +4843,7 @@
             <l n="1499" xml:id="l1499">Attendez pour finir cet aymable divorce ;</l>
             <l n="1500" xml:id="l1500">Il faut avoir recours à de bonnes raisons,</l>
             <l n="1501" xml:id="l1501">Veniez vous divertir quelqu’un dans ces maisons ?</l>
-            <l n="1502" xml:id="l1502">J’entens un bel <ref target="#objet">objet*</ref> qui vous chatouille l’ame.</l>
+            <l n="1502" xml:id="l1502">J’entens un bel <ref target="#objet">objet</ref> qui vous chatouille l’ame.</l>
           </sp>
           <sp xml:id="IV07-22" who="climante">
             <speaker>CLIMANTE</speaker>
@@ -4886,12 +4882,12 @@
             <l n="1507" xml:id="l1507" part="I">Il n’en est point icy ?</l>
           </sp>
           <sp xml:id="IV07-31" who="ariste">
-            <speaker>ARISTE <hi rend="i">bas à ORONTHE.</hi></speaker>
+            <speaker>ARISTE </speaker><stage>bas à ORONTHE.</stage>
             <l part="F">Plustot que je le nomme,</l>
             <l n="1508" xml:id="l1508">Jugez en ma faveur, ce Gentil homme est vous ;</l>
             <l n="1509" xml:id="l1509">Et luy qui ne sçait pas comme on vit entre nous,</l>
             <l n="1510" xml:id="l1510">Penseroit que d’amour je serois bien malade ;</l>
-            <l n="1511" xml:id="l1511">Olimpe estant l’<ref target="#objet">objet*</ref> de cette serenade ;</l>
+            <l n="1511" xml:id="l1511">Olimpe estant l’<ref target="#objet">objet</ref> de cette serenade ;</l>
             <l n="1512" xml:id="l1512">Je le dis en amy, cela vous feroit tort.<pb n="Q ; 123"/></l>
           </sp>
           <sp xml:id="IV07-32" who="climante">
@@ -4912,7 +4908,7 @@
             <l n="1516" xml:id="l1516">Et songeant à ma femme &amp; la nuit &amp; le jour…</l>
           </sp>
           <sp xml:id="IV07-36" who="ariste">
-            <speaker>ARISTE <hi rend="i">voulant le faire taire.</hi></speaker>
+            <speaker>ARISTE </speaker><stage>voulant le faire taire.</stage>
             <l n="1517" xml:id="l1517" part="I">Oronthe…</l>
           </sp>
           <sp xml:id="IV07-37" who="oronthe">
@@ -4939,18 +4935,18 @@
           </sp>
           <sp xml:id="IV07-42" who="climante">
             <speaker>CLIMANTE</speaker>
-            <l part="M">Le <ref target="#fat">fat*</ref>.</l>
+            <l part="M">Le <ref target="#fat">fat</ref>.</l>
           </sp>
           <sp xml:id="IV07-43" who="oronthe">
             <speaker>ORONTHE</speaker>
             <l part="F">Qui peut le croire ?</l>
           </sp>
           <sp xml:id="IV07-44" who="ariste">
-            <speaker>ARISTE <hi rend="i">à Climante qui s’en va.</hi></speaker>
+            <speaker>ARISTE </speaker><stage>à Climante qui s’en va.</stage>
             <l n="1523" xml:id="l1523">Vous voyez de quel air j’emporte la victoire.</l>
           </sp>
           <sp xml:id="IV07-45" who="climante">
-            <speaker>CLIMANTE <hi rend="i">revient.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>revient.</stage>
             <l n="1524" xml:id="l1524">N’en ayez point d’orgueil, vous ne luy devez rien,</l>
             <l n="1525" xml:id="l1525">Et ne présumez pas qu’il vous fasse du bien ;</l>
             <l n="1526" xml:id="l1526">Puisque ce demeslé n’estant fait que pour rire</l>
@@ -5003,7 +4999,7 @@
             <speaker>ARISTE</speaker>
             <l n="1540" xml:id="l1540">Je te rens grace Amour, je les tiens au filet,</l>
             <l n="1541" xml:id="l1541">Les fourbes sont duppez, fais joüer Jodelet.</l>
-            <p rend="center">Fin  du quatriesme Acte.</p>
+            <trailer rend="center">Fin du quatriesme Acte.</trailer>
           </sp>
         </div>
       </div>
@@ -5048,7 +5044,7 @@
             <l n="1552" xml:id="l1552">Madame, je voudrois que vous peussiez comprendre</l>
             <l n="1553" xml:id="l1553">Quels seroient les devoirs que je voudrois vous rendre,</l>
             <l n="1554" xml:id="l1554">Et qu’en fin vostre esprit en peut estre informé,</l>
-            <l n="1555" xml:id="l1555">Au moment que<note n="333" place="bottom"> Cf. note v. 410.</note> mon cœur se sent tout <ref target="#consommer">consommé*</ref>,</l>
+            <l n="1555" xml:id="l1555">Au moment que<note n="333" place="bottom"> Cf. note v. 410.</note> mon cœur se sent tout <ref target="#consommer">consommé</ref>,</l>
             <l n="1556" xml:id="l1556">Mais c’est vouloir tenter une chose impossible,</l>
             <l n="1557" xml:id="l1557">Que de rendre d’amour le bel excez visible,</l>
             <l n="1558" xml:id="l1558">Puisque celuy qui sçait parfaictement aimer,</l>
@@ -5059,8 +5055,8 @@
             <l n="1563" xml:id="l1563">Est le seul truchement de nostre passion,</l>
             <l n="1564" xml:id="l1564">Ainsi je ne sçaurois que par un long silence</l>
             <l n="1565" xml:id="l1565">Exprimer de mes feux la forte violence,</l>
-            <l n="1566" xml:id="l1566">Et mes <ref target="#triste1">tristes*</ref> regards à travers de mes fers</l>
-            <l n="1567" xml:id="l1567">Ont droict seuls de parler des maux que j’ay <ref target="#souffrir">soufferts*</ref>.</l>
+            <l n="1566" xml:id="l1566">Et mes <ref target="#triste1">tristes</ref> regards à travers de mes fers</l>
+            <l n="1567" xml:id="l1567">Ont droict seuls de parler des maux que j’ay <ref target="#souffrir">soufferts</ref>.</l>
           </sp>
           <sp xml:id="V01-8" who="olimpe">
             <speaker>OLIMPE</speaker><pb n="128"/>
@@ -5068,8 +5064,8 @@
           </sp>
           <sp xml:id="V01-9" who="ariste">
             <speaker>ARISTE</speaker>
-            <l n="1569" xml:id="l1569">On n’en peut trop avoir pour un <ref target="#objet">objet*</ref>
-              <ref target="#aimable">aimable*</ref> :</l>
+            <l n="1569" xml:id="l1569">On n’en peut trop avoir pour un <ref target="#objet">objet</ref>
+              <ref target="#aimable">aimable</ref> :</l>
             <l n="1570" xml:id="l1570">Et de quelques ardeurs que nous soyons pressez</l>
             <l n="1571" xml:id="l1571">Quand on peut dire j’ayme, on dit toûjours assez.</l>
           </sp>
@@ -5099,7 +5095,7 @@
           </sp>
           <sp xml:id="V01-15" who="ariste">
             <speaker>ARISTE</speaker>
-            <l n="1581" xml:id="l1581">Qu’il est aisé d’aymer ce que l’on treuve <ref target="#aimable">aimable*</ref> !</l>
+            <l n="1581" xml:id="l1581">Qu’il est aisé d’aymer ce que l’on treuve <ref target="#aimable">aimable</ref> !</l>
           </sp>
           <sp xml:id="V01-16" who="olimpe">
             <speaker>OLIMPE</speaker>
@@ -5118,7 +5114,7 @@
             <l n="1584" xml:id="l1584">Que Climante m’oblige alors qu’il vous envoye !</l>
           </sp>
           <sp xml:id="V02-2" who="climante">
-            <speaker>CLIMANTE <hi rend="i">caché bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>caché bas.</stage>
             <l n="1585" xml:id="l1585">Elle parle de moy, je vay mourir de joye.</l>
           </sp>
           <sp xml:id="V02-3" who="ariste">
@@ -5127,7 +5123,7 @@
             <l n="1587" xml:id="l1587">Il m’oblige en un poinct qu’on ne peut concevoir.</l>
           </sp>
           <sp xml:id="V02-4" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="1588" xml:id="l1588">Tu ne sçais pas le nœud de nostre stratageme.</l>
           </sp>
           <sp xml:id="V02-5" who="olimpe">
@@ -5135,7 +5131,7 @@
             <l n="1589" xml:id="l1589">Dites-luy que cent fois j’ay dit que je vous ayme !</l>
           </sp>
           <sp xml:id="V02-6" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker><pb n="130"/>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage><pb n="130"/>
             <l n="1590" xml:id="l1590" part="I">Je te rends grace, amour !</l>
           </sp>
           <sp xml:id="V02-7" who="ariste">
@@ -5143,7 +5139,7 @@
             <l part="F">Que je suis satisfait !</l>
           </sp>
           <sp xml:id="V02-8" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="1591" xml:id="l1591">Il se croit obligé du bien qu’elle me fait.</l>
           </sp>
           <sp xml:id="V02-9" who="olimpe">
@@ -5152,7 +5148,7 @@
             <l n="1593" xml:id="l1593" part="I">Quand je ne vous voy pas.</l>
           </sp>
           <sp xml:id="V02-10" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l part="F">O bien-heureux Climante !</l>
           </sp>
           <sp xml:id="V02-11" who="olimpe">
@@ -5161,7 +5157,7 @@
             <l n="1595" xml:id="l1595">De me faire souvent avoir vostre entretien.</l>
           </sp>
           <sp xml:id="V02-12" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="1596" xml:id="l1596">Plus elle le verra, plus son adresse extreme,</l>
             <l n="1597" xml:id="l1597">M’apprendra par Ariste à quel poinct elle m’aime.</l>
           </sp>
@@ -5171,7 +5167,7 @@
             <l n="1599" xml:id="l1599">Pour ne le prier pas de m’envoyer tousjours.</l>
           </sp>
           <sp xml:id="V02-14" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker><pb n="R ; 131"/>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage><pb n="R ; 131"/>
             <l n="1600" xml:id="l1600">Et j’ay trop de plaisir d’un si plaisant message</l>
             <l n="1601" xml:id="l1601">Pour ne te faire pas joüer ce personnage.</l>
           </sp>
@@ -5180,15 +5176,15 @@
             <l n="1602" xml:id="l1602">Que je sens de plaisirs alors que je vous voy !</l>
           </sp>
           <sp xml:id="V02-16" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
-            <l n="1603" xml:id="l1603">Le <ref target="#fat">fat*</ref> ne connoist pas qu’il fait l’amour pour moy.</l>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
+            <l n="1603" xml:id="l1603">Le <ref target="#fat">fat</ref> ne connoist pas qu’il fait l’amour pour moy.</l>
           </sp>
           <sp xml:id="V02-17" who="olimpe">
             <speaker>OLIMPE</speaker>
             <l n="1604" xml:id="l1604">En luy parlant, sur tout gardez de vous confondre.</l>
           </sp>
           <sp xml:id="V02-18" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="1605" xml:id="l1605">La raillerie est fine, il n’y pourra respondre.</l>
           </sp>
           <sp xml:id="V02-19" who="olimpe">
@@ -5196,7 +5192,7 @@
             <l n="1606" xml:id="l1606">Et ne hazardez pas sa perte &amp; mon appuy.</l>
           </sp>
           <sp xml:id="V02-20" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="1607" xml:id="l1607">Comment ne voit-il pas qu’elle se rit de luy ?</l>
           </sp>
           <sp xml:id="V02-21" who="ariste">
@@ -5204,19 +5200,19 @@
             <l n="1608" xml:id="l1608">Je sçauray mesnager cet amant miserable.</l>
           </sp>
           <sp xml:id="V02-22" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="1609" xml:id="l1609">Ce nom d’amant me choque, &amp; n’est point agreable.</l>
           </sp>
           <sp xml:id="V02-23" who="olimpe">
             <speaker>OLIMPE</speaker><pb n="132"/>
-            <l n="1610" xml:id="l1610">Vous n’avez plus long-temps à <ref target="#souffrir">souffrir*</ref> ce rival.</l>
+            <l n="1610" xml:id="l1610">Vous n’avez plus long-temps à <ref target="#souffrir">souffrir</ref> ce rival.</l>
           </sp>
           <sp xml:id="V02-24" who="ariste">
             <speaker>ARISTE</speaker>
             <l n="1611" xml:id="l1611">Peut-estre avant demain je perdray ce brutal.</l>
           </sp>
           <sp xml:id="V02-25" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="1612" xml:id="l1612">Tout cecy me déplaist, &amp; j’ay peur de sa suite.</l>
           </sp>
           <sp xml:id="V02-26" who="olimpe">
@@ -5228,7 +5224,7 @@
             <l n="1614" xml:id="l1614">Au moins tant qu’il ira de prendre loy<note n="334" place="bottom"><hi rend="i">Prendre loy de quelqu’un</hi> : obéir à.</note> de vous.</l>
           </sp>
           <sp xml:id="V02-28" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="1615" xml:id="l1615">Quelque important mistere est caché là dessous.</l>
             <l n="1616" xml:id="l1616">Il parle avec chaleur, elle respond de mesme,</l>
             <l n="1617" xml:id="l1617" part="I">L’aimeroit-elle ?</l>
@@ -5239,7 +5235,7 @@
             <l n="1618" xml:id="l1618">Dessus ces belles mains je puis vous le jurer ;</l>
           </sp>
           <sp xml:id="V02-30" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="1619" xml:id="l1619">Helas ! ce seul baiser me doit desesperer !</l>
           </sp>
           <sp xml:id="V02-31" who="ariste">
@@ -5255,7 +5251,7 @@
             <l part="M">Le fourbe.</l>
           </sp>
           <sp xml:id="V02-34" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l part="F">L’infidelle</l>
             <l n="1621" xml:id="l1621">Il n’en faut plus douter, il est adoré d’elle.</l>
             <l n="1622" xml:id="l1622">Ah Dieux ! en quel mal-heur je suis embarassé ?</l>
@@ -5269,13 +5265,13 @@
             <l n="1624" xml:id="l1624">Ne vous exposez point quoy que le traistre face !</l>
           </sp>
           <sp xml:id="V02-37" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
-            <l n="1625" xml:id="l1625">Je ne puis plus <ref target="#souffrir">souffrir*</ref> l’excez de leur audace,</l>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
+            <l n="1625" xml:id="l1625">Je ne puis plus <ref target="#souffrir">souffrir</ref> l’excez de leur audace,</l>
             <l n="1626" xml:id="l1626">Sortons vistes d’icy de peur d’estre surpris,</l>
             <l n="1627" xml:id="l1627">Et sans leur tesmoigner que j’aye rien appris</l>
           </sp>
           <sp xml:id="V02-38" who="olimpe">
-            <speaker>OLIMPE  <hi rend="i">voyant Climante.</hi></speaker>
+            <speaker>OLIMPE  </speaker><stage>voyant Climante.</stage>
             <l n="1628" xml:id="l1628" part="I">Escoutoit-il ?</l>
           </sp>
           <sp xml:id="V02-39" who="climante">
@@ -5285,7 +5281,7 @@
             <l n="1630" xml:id="l1630" part="I">Mais j’apperçois Oronthe.</l>
           </sp>
           <sp xml:id="V02-40" who="jodelet">
-            <speaker>JODELET <hi rend="i">tout essouflé</hi><note n="335" place="bottom"> La présence de Jodelet à cette scène n’est pas mentionnée dans la distribution. C’est probablement l’arrivée fugace et en fin d’acte du personnage qui explique que l’auteur n’ait pas créé une nouvelle scène pour annoncer cette intervention.</note>.</speaker>
+            <speaker>JODELET <note n="335" place="bottom"> La présence de Jodelet à cette scène n’est pas mentionnée dans la distribution. C’est probablement l’arrivée fugace et en fin d’acte du personnage qui explique que l’auteur n’ait pas créé une nouvelle scène pour annoncer cette intervention.</note>.</speaker><stage>tout essouflé</stage>
             <l part="M">Ah !</l>
           </sp>
           <sp xml:id="V02-41" who="ariste">
@@ -5307,7 +5303,7 @@
           <head>SCENE III</head>
           <stage>ORONTHE, CLIMANTE.</stage>
           <sp xml:id="V03-1" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">bas.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>bas.</stage>
             <l part="F">Feignons avec adresse.</l>
             <l n="1633" xml:id="l1633" part="I">Hé bien !</l>
           </sp>
@@ -5320,7 +5316,7 @@
             <l part="F">Joüons leur quelque piece.</l>
           </sp>
           <sp xml:id="V03-4" who="climante">
-            <speaker>CLIMANTE <hi rend="i">froidement.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>froidement.</stage>
             <l n="1634" xml:id="l1634">Mais quelle ? je me treuve au bout de mes leçons !</l>
           </sp>
           <sp xml:id="V03-5" who="oronthe">
@@ -5345,18 +5341,18 @@
           <sp xml:id="V03-9" who="oronthe">
             <speaker>ORONTHE</speaker>
             <l part="F">Cela produiroit trois effects agreables,</l>
-            <l n="1641" xml:id="l1641">L’un de le voir penser qu’il est des plus <ref target="#aimable">aimables*</ref>,</l>
+            <l n="1641" xml:id="l1641">L’un de le voir penser qu’il est des plus <ref target="#aimable">aimables</ref>,</l>
             <l n="1642" xml:id="l1642">Et qu’Olimpe pour luy souspire tous les jours,</l>
-            <l n="1643" xml:id="l1643">L’autre de me croire homme à <ref target="#souffrir">souffrir*</ref> ces amours,</l>
+            <l n="1643" xml:id="l1643">L’autre de me croire homme à <ref target="#souffrir">souffrir</ref> ces amours,</l>
             <l n="1644" xml:id="l1644">Et le troisiesme en fin de penser que vostre ame</l>
             <l n="1645" xml:id="l1645">Brûle indiscrettement d’une pareille flâme.</l>
           </sp>
           <sp xml:id="V03-10" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l n="1646" xml:id="l1646">Ainsi je puis tout haut me vanger d’un rival.</l>
           </sp>
           <sp xml:id="V03-11" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">bas.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>bas.</stage>
             <l n="1647" xml:id="l1647">Si prest de mon depart je ne l’entens pas mal.</l>
             <l n="1648" xml:id="l1648" part="I">La piece est assez bonne.</l>
           </sp>
@@ -5376,7 +5372,7 @@
             <l part="F">Du ton de voix &amp; de l’air du visage</l>
             <l n="1653" xml:id="l1653">Vous me verrez si bien joüer mon personnage,</l>
             <l n="1654" xml:id="l1654">Qu’en fin vous advoûrez que le plus delicat</l>
-            <l n="1655" xml:id="l1655">S’y pourroit laisser prendre aussi bien que ce <ref target="#fat">fat*</ref>.</l>
+            <l n="1655" xml:id="l1655">S’y pourroit laisser prendre aussi bien que ce <ref target="#fat">fat</ref>.</l>
             <l n="1656" xml:id="l1656">Mais il faudroit qu’Olimpe en peust estre advertie.</l>
           </sp>
           <sp xml:id="V03-15" who="oronthe">
@@ -5404,7 +5400,7 @@
           </sp>
           <sp xml:id="V04-2" who="oronthe">
             <speaker>ORONTHE</speaker>
-            <l n="1664" xml:id="l1664">Aussi je ne veux plus <ref target="#souffrir">souffrir*</ref> tout ce mistere.</l>
+            <l n="1664" xml:id="l1664">Aussi je ne veux plus <ref target="#souffrir">souffrir</ref> tout ce mistere.</l>
           </sp>
           <sp xml:id="V04-3" who="climante">
             <speaker>CLIMANTE</speaker>
@@ -5413,11 +5409,11 @@
             <l n="1667" xml:id="l1667">Vous mal-traittez Oronthe, &amp; me faictes rougir.</l>
           </sp>
           <sp xml:id="V04-4" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">à ORONTHE</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>à ORONTHE</stage>
             <l n="1668" xml:id="l1668">De quoy l’accusez-vous ? d’où vient vostre colere ?</l>
           </sp>
           <sp xml:id="V04-5" who="ariste">
-            <speaker>ARISTE <hi rend="i">à ORONTHE</hi></speaker>
+            <speaker>ARISTE </speaker><stage>à ORONTHE</stage>
             <l n="1669" xml:id="l1669">En quoy sans y penser ay-je pû vous desplaire ?</l>
             <l n="1670" xml:id="l1670">Sans doute que tantost il m’avoit escouté<note n="339" place="bottom"> Ce vers est prononcé en aparté.</note>.</l>
           </sp>
@@ -5427,7 +5423,7 @@
             <l n="1672" xml:id="l1672">Que vous voulez contraindre à trop de violence.</l>
           </sp>
           <sp xml:id="V04-7" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">à CLIMANTE</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>à CLIMANTE</stage>
             <l n="1673" xml:id="l1673">Vous en faictes bien plus en rompant le silence,</l>
             <l n="1674" xml:id="l1674">Mais sans vous informer s’il m’importe ou non,</l>
             <l n="1675" xml:id="l1675">Apprenez seulement que je le treuve bon ;</l>
@@ -5447,14 +5443,14 @@
             <l n="1683" xml:id="l1683">Me contraindre à changer, l’aimant comme je fais.</l>
           </sp>
           <sp xml:id="V04-10" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">bas.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>bas.</stage>
             <l n="1684" xml:id="l1684" part="I">Il croit ce qu’elle dit.</l>
           </sp>
           <sp xml:id="V04-11" who="climante">
-            <speaker>CLIMANTE <hi rend="i">bas.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>bas.</stage>
             <l part="F">Elle entend mal la feinte,</l>
             <l n="1685" xml:id="l1685">Et dévroit tesmoigner davantage de crainte,</l>
-            <l n="1686" xml:id="l1686">Il seroit <ref target="#deferer">deferé*</ref> si chacun le quittoit.</l>
+            <l n="1686" xml:id="l1686">Il seroit <ref target="#deferer">deferé</ref> si chacun le quittoit.</l>
           </sp>
           <sp xml:id="V04-12" who="oronthe">
             <speaker>ORONTHE<note n="341" place="bottom"> Comme dans l’échange précédent, il convient de supposer que cette réplique est adressée à Climante en aparté et « <hi rend="i">bas</hi> ».</note>
@@ -5473,7 +5469,7 @@
             <l n="1692" xml:id="l1692">Et croit le bien joüer par cette complaisance<note n="342" place="bottom"> Même jeu de scène d’Oronthe qui commente la réplique d’Olimpe à Climante en aparté.</note>.</l>
           </sp>
           <sp xml:id="V04-15" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">à ARISTE</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>à ARISTE</stage>
             <l n="1693" xml:id="l1693">Des souspçons qu’il avoit il veut prendre vengeance,</l>
             <l n="1694" xml:id="l1694">Et sous ces mots couverts il veut m’embarasser,</l>
             <l n="1695" xml:id="l1695">Mais en termes adroits il faut les repousser.</l>
@@ -5507,7 +5503,7 @@
             <l n="1710" xml:id="l1710">Tout au moins il agist plus franchement que vous !</l>
           </sp>
           <sp xml:id="V04-20" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">en monstrant Climante.</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>en monstrant Climante.</stage>
             <l n="1711" xml:id="l1711">Oronthe, il parle ainsi par ce qu’il est jaloux,</l>
             <l n="1712" xml:id="l1712">En se servant de vous dedans ce stratageme,</l>
             <l n="1713" xml:id="l1713" part="I">Il croit m’espouventer.</l>
@@ -5524,7 +5520,7 @@
           <sp xml:id="V04-23" who="climante">
             <speaker>CLIMANTE</speaker>
             <l n="1715" xml:id="l1715">J’aurois juste sujet de ne vous aymer pas.</l>
-            <l n="1716" xml:id="l1716">Et vous devez rougir du feu qui vous <ref target="#consommer">consomme*</ref>,<pb n="141"/></l>
+            <l n="1716" xml:id="l1716">Et vous devez rougir du feu qui vous <ref target="#consommer">consomme</ref>,<pb n="141"/></l>
             <l n="1717" xml:id="l1717">Et d’escouter en fin les souspirs d’un jeune homme</l>
             <l n="1718" xml:id="l1718">Dont l’indiscretion me fait son confident ;</l>
             <l n="1719" xml:id="l1719">Ayant rendu par tout son amour évident :</l>
@@ -5532,7 +5528,7 @@
             <l n="1721" xml:id="l1721">Combat ma passion d’un traittement si rude,</l>
             <l n="1722" xml:id="l1722">Que vous me reduisez en l’estat où je suis</l>
             <l n="1723" xml:id="l1723">De recourir en fin à tout ce que je puis,</l>
-            <l n="1724" xml:id="l1724">D’esventer les secrets qu’une <ref target="#aimable">aimable*</ref> contrainte</l>
+            <l n="1724" xml:id="l1724">D’esventer les secrets qu’une <ref target="#aimable">aimable</ref> contrainte</l>
             <l n="1725" xml:id="l1725">Retenoit dans mon cœur en sa plus vive atteinte</l>
             <l n="1726" xml:id="l1726">Et qu’un profond respect m’eust forcé de celer</l>
             <l n="1727" xml:id="l1727">Si vous ne m’eussiez pas obligé d’en parler.</l>
@@ -5549,25 +5545,25 @@
             <l n="1731" xml:id="l1731">Pour laisser faire un mal que je puis empescher.</l>
           </sp>
           <sp xml:id="V04-26" who="ariste">
-            <speaker>ARISTE <hi rend="i">bas.</hi></speaker>
+            <speaker>ARISTE </speaker><stage>bas.</stage>
             <l n="1732" xml:id="l1732" part="I">Le lasche.</l>
           </sp>
           <sp xml:id="V04-27" who="oronthe">
-            <speaker>ORONTHE  <hi rend="i">bas à CLIMANTE</hi></speaker>
+            <speaker>ORONTHE  </speaker><stage>bas à CLIMANTE</stage>
             <l part="F">Vous joüez trop bien ce personnage,</l>
             <l n="1733" xml:id="l1733" part="I">Gardez de la fascher.</l>
           </sp>
           <sp xml:id="V04-28" who="climante">
-            <speaker>CLIMANTE <hi rend="i">tout haut.</hi></speaker><pb n="142"/>
+            <speaker>CLIMANTE </speaker><stage>tout haut.</stage><pb n="142"/>
             <l part="F">Ce n’est qu’une volage.</l>
           </sp>
           <sp xml:id="V04-29" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">bas.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>bas.</stage>
             <l n="1734" xml:id="l1734">Elle ne comprend pas quel est notre dessein.</l>
             <l n="1735" xml:id="l1735" part="I">Espargnez-les.</l>
           </sp>
           <sp xml:id="V04-30" who="climante">
-            <speaker>CLIMANTE <hi rend="i">tout haut.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>tout haut.</stage>
             <l part="F">Il est trop avant dans son sein.</l>
           </sp>
           <sp xml:id="V04-31" who="olimpe">
@@ -5585,7 +5581,7 @@
             <l n="1740" xml:id="l1740" part="I">Je vous suis obligé, mais demeurez.</l>
           </sp>
           <sp xml:id="V04-34" who="climante">
-            <speaker>CLIMANTE <hi rend="i">haut.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>haut.</stage>
             <l part="F">L’ingrate !</l>
           </sp>
           <sp xml:id="V04-35" who="oronthe">
@@ -5593,7 +5589,7 @@
             <l n="1741" xml:id="l1741" part="I">C’en est assez.</l>
           </sp>
           <sp xml:id="V04-36" who="climante">
-            <speaker>CLIMANTE <hi rend="i">haut.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>haut.</stage>
             <l part="F">Il faut que ma colere esclatte.</l>
           </sp>
           <sp xml:id="V04-37" who="ariste">
@@ -5602,7 +5598,7 @@
             <l n="1743" xml:id="l1743">Mais nostre tour viendra pour nous mettre en courroux.</l>
           </sp>
           <sp xml:id="V04-38" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">en le voulant retenir un peu loin d’eux.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>en le voulant retenir un peu loin d’eux.</stage>
             <l n="1744" xml:id="l1744">Je ne puis l’arrester, il est trop en colere.</l>
           </sp>
           <sp xml:id="V04-39" who="olimpe">
@@ -5610,8 +5606,8 @@
             <l n="1745" xml:id="l1745">Laissez le<note n="343" place="bottom"> A l’époque classique, le <hi rend="i">e</hi> du pronom s’élide devant voyelle.</note> aller chercher les moyens de me plaire !</l>
             <l n="1746" xml:id="l1746">Il sçait que son absence en est le seul moyen,</l>
             <l n="1747" xml:id="l1747">Et qu’autant qu’un jaloux je hay son entretien ;</l>
-            <l n="1748" xml:id="l1748">Quoy ! Climante est <ref target="#bouru">bouru*</ref> quand je cheris Ariste ?</l>
-            <l n="1749" xml:id="l1749">Le reste de ses jours il peut donc estre <ref target="#triste1">triste*</ref>,</l>
+            <l n="1748" xml:id="l1748">Quoy ! Climante est <ref target="#bouru">bouru</ref> quand je cheris Ariste ?</l>
+            <l n="1749" xml:id="l1749">Le reste de ses jours il peut donc estre <ref target="#triste1">triste</ref>,</l>
             <l n="1750" xml:id="l1750">Et pendant que<note n="344" place="bottom"> <hi rend="i">Pendant que</hi> suivi du subjonctif équivaut à « jusqu’à ce que ». Il s’agit d’un latinisme.</note> je veuille en dire les raisons</l>
             <l n="1751" xml:id="l1751">S’asseurer d’une place aux petites maisons<note n="345" place="bottom"><hi rend="i">Petites maisons</hi> : « On dit […] qu’il faut mettre un homme aux <hi rend="i">petites maisons</hi>, quand il est fou, ou quand il fait une extravagance signalée ; à cause qu’il y a à Paris un Hospital de ce nom où on enferme ces foux » (Furetière). </note>.</l>
             <l n="1752" xml:id="l1752">Allez beau bilieux, amant trop colerique</l>
@@ -5620,7 +5616,7 @@
             <l n="1755" xml:id="l1755">Dormez, riez, chantez, &amp; sur tout n’aimez point :</l>
             <l n="1756" xml:id="l1756">L’amour eschauffe trop nostre sang dans les veines,</l>
             <l n="1757" xml:id="l1757">Et puis à dire vray vous y perdrez vos peines,</l>
-            <l n="1758" xml:id="l1758">Vous avez des deffauts, Ariste a des <ref target="#appas">appas*</ref>,</l>
+            <l n="1758" xml:id="l1758">Vous avez des deffauts, Ariste a des <ref target="#appas">appas</ref>,</l>
             <l n="1759" xml:id="l1759">Je ne vous aime point, &amp; je ne le hay pas :</l>
             <l n="1760" xml:id="l1760">Du feu que j’ay pour luy loing de rougir de honte,</l>
             <l n="1761" xml:id="l1761">Si je fais bien ou mal laissez agir Oronthe.</l>
@@ -5634,7 +5630,7 @@
             <l part="F">Je luy veux monstrer ce que je puis.</l>
           </sp>
           <sp xml:id="V04-42" who="ariste">
-            <speaker>ARISTE <hi rend="i">bas.</hi></speaker>
+            <speaker>ARISTE </speaker><stage>bas.</stage>
             <l n="1763" xml:id="l1763">Dans deux heures d’icy tu sçauras qui je suis.</l>
             <l n="1764" xml:id="l1764" part="I">Adieu.</l>
           </sp>
@@ -5647,7 +5643,7 @@
             <l n="1765" xml:id="l1765">Je feray vostre paix, ce n’estoit que pour rire.</l>
           </sp>
           <sp xml:id="V04-45" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">en riant.</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>en riant.</stage>
             <l n="1766" xml:id="l1766">Ce jeu quoy qu’il ait dit ne m’estoit point caché.</l>
           </sp>
           <sp xml:id="V04-46" who="oronthe">
@@ -5655,7 +5651,7 @@
             <l n="1767" xml:id="l1767">N’a t il pas tout de bon fort bien fait le fâché ?</l>
           </sp>
           <sp xml:id="V04-47" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">en riant.</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>en riant.</stage>
             <l n="1768" xml:id="l1768">Fort bien, &amp; vous voyez qu’Ariste en réve encore.</l>
           </sp>
           <sp xml:id="V04-48" who="oronthe">
@@ -5673,7 +5669,7 @@
           <sp xml:id="V04-51" who="ariste">
             <speaker>ARISTE</speaker><pb n="145"/>
             <l part="F">A sortir promptement de ces lieux</l>
-            <l n="1771" xml:id="l1771">N’y pouvant plus <ref target="#souffrir">souffrir*</ref> d’y voir des envieux.</l>
+            <l n="1771" xml:id="l1771">N’y pouvant plus <ref target="#souffrir">souffrir</ref> d’y voir des envieux.</l>
           </sp>
           <sp xml:id="V04-52" who="oronthe">
             <speaker>ORONTHE</speaker>
@@ -5763,7 +5759,7 @@
             <l n="1802" xml:id="l1802" part="I">Feignez bien !</l>
           </sp>
           <sp xml:id="V06-3" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">en riant.</hi></speaker><pb n="148"/>
+            <speaker>OLIMPE </speaker><stage>en riant.</stage><pb n="148"/>
             <l part="F">Qu’avez-vous ? vous semblez esperdu !</l>
           </sp>
           <sp xml:id="V06-4" who="oronthe">
@@ -5777,7 +5773,7 @@
           </sp>
           <sp xml:id="V06-6" who="oronthe">
             <speaker>ORONTHE</speaker>
-            <l n="1806" xml:id="l1806">Si vous vous offencez de l’excez de ma <ref target="#foy">foy*</ref>,</l>
+            <l n="1806" xml:id="l1806">Si vous vous offencez de l’excez de ma <ref target="#foy">foy</ref>,</l>
             <l n="1807" xml:id="l1807">Vous n’aurez pas long-temps à vous plaindre de moy.</l>
           </sp>
           <sp xml:id="V06-7" who="olimpe">
@@ -5787,7 +5783,7 @@
           </sp>
           <sp xml:id="V06-8" who="oronthe">
             <speaker>ORONTHE</speaker>
-            <l n="1810" xml:id="l1810">Pour un fâcheux <ref target="#objet">objet*</ref> qu’il faut abandonner</l>
+            <l n="1810" xml:id="l1810">Pour un fâcheux <ref target="#objet">objet</ref> qu’il faut abandonner</l>
             <l n="1811" xml:id="l1811">La grace qui l’éloigne est facile à donner.</l>
           </sp>
           <sp xml:id="V06-9" who="olimpe">
@@ -5809,7 +5805,7 @@
           </sp>
           <sp xml:id="V06-13" who="olimpe">
             <speaker>OLIMPE</speaker>
-            <l n="1816" xml:id="l1816">Si c’est le seul subjet de l’<ref target="#ennui2">ennuy*</ref> qui vous touche,</l>
+            <l n="1816" xml:id="l1816">Si c’est le seul subjet de l’<ref target="#ennui2">ennuy</ref> qui vous touche,</l>
             <l n="1817" xml:id="l1817">Vous pourrez bien mourir le reproche à la bouche.</l>
           </sp>
           <sp xml:id="V06-14" who="oronthe">
@@ -5822,7 +5818,7 @@
             <l n="1820" xml:id="l1820">J’en auray tousjours trop pourveu qu’Ariste m’aime.</l>
           </sp>
           <sp xml:id="V06-16" who="ariste">
-            <speaker>ARISTE <hi rend="i">bas.</hi></speaker>
+            <speaker>ARISTE </speaker><stage>bas.</stage>
             <l n="1821" xml:id="l1821" part="I">Feignez jusqu’à la fin.</l>
           </sp>
           <sp xml:id="V06-17" who="olimpe">
@@ -5863,7 +5859,7 @@
             <l n="1829" xml:id="l1829">Vous me voulez joüer, mais je vous en deffie.</l>
           </sp>
           <sp xml:id="V06-26" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">bas.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>bas.</stage>
             <l n="1830" xml:id="l1830">Croit-elle que je fais semblant d’estre en courroux ?</l>
             <l n="1831" xml:id="l1831">Et que pour l’attrapper je feins d’estre jaloux.</l>
             <l n="1832" xml:id="l1832" part="I">Mais…</l>
@@ -5882,7 +5878,7 @@
             <l n="1835" xml:id="l1835">Ne vous contraignez plus vous ne m’y prendrez point.</l>
           </sp>
           <sp xml:id="V06-30" who="ariste">
-            <speaker>ARISTE <hi rend="i">voyant Oronthe le dos tourné.</hi></speaker>
+            <speaker>ARISTE </speaker><stage>voyant Oronthe le dos tourné.</stage>
             <l n="1836" xml:id="l1836" part="I">Bon…</l>
           </sp>
           <sp xml:id="V06-31" who="oronthe">
@@ -5922,7 +5918,7 @@
             <l n="1845" xml:id="l1845">Vous me bernez pourtant avec assez de grace.</l>
           </sp>
           <sp xml:id="V06-39" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">bas.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>bas.</stage>
             <l n="1846" xml:id="l1846">Sur de pareils discours Climante asseurément</l>
             <l n="1847" xml:id="l1847">A pû prendre d’Olimpe un mauvais sentiment.</l>
             <l n="1848" xml:id="l1848">Cet esprit trop leger se duppe par l’oreille<note n="352" place="bottom"><hi rend="i">Par l’oreille</hi> : « en tenant compte de tout ce qu’on lui dit » (P. Lerat).</note>.</l>
@@ -5935,7 +5931,7 @@
             <l n="1852" xml:id="l1852">Et que vostre courroux n’ait beaucoup de finesse.</l>
           </sp>
           <sp xml:id="V06-41" who="oronthe">
-            <speaker>ORONTHE  <hi rend="i">bas.</hi></speaker>
+            <speaker>ORONTHE  </speaker><stage>bas.</stage>
             <l n="1853" xml:id="l1853">Climante n’a pas veu que c’est un tour d’adresse,</l>
             <l n="1854" xml:id="l1854">Et croyant me venger en troublant mon repos,</l>
             <l n="1855" xml:id="l1855">Il s’est joüé luy-mesme assez mal à propos.</l>
@@ -5945,7 +5941,7 @@
             <l n="1856" xml:id="l1856">Confessez moy la debte, &amp; m’aimez davantage !</l>
           </sp>
           <sp xml:id="V06-43" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">bas.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>bas.</stage>
             <l n="1857" xml:id="l1857">Il faudroit estre fol pour la croire volage !</l>
           </sp>
           <sp xml:id="V06-44" who="olimpe">
@@ -5953,7 +5949,7 @@
             <l n="1858" xml:id="l1858" part="I">Vous faschez vous encor ?</l>
           </sp>
           <sp xml:id="V06-45" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">bas.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>bas.</stage>
             <l part="F">Climante n’est qu’un sot.</l>
           </sp>
           <sp xml:id="V06-46" who="olimpe">
@@ -5961,7 +5957,7 @@
             <l n="1859" xml:id="l1859" part="I">Jaloux ?</l>
           </sp>
           <sp xml:id="V06-47" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">bas.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>bas.</stage>
             <l part="F">Il eust mieux fait de ne m’en dire mot.</l>
           </sp>
           <sp xml:id="V06-48" who="olimpe">
@@ -5969,7 +5965,7 @@
             <l n="1860" xml:id="l1860">Estre cruel alors que l’on vous prie.</l>
           </sp>
           <sp xml:id="V06-49" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">bas.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>bas.</stage>
             <l n="1861" xml:id="l1861">Certes il entend mal la belle raillerie.</l>
             <l n="1862" xml:id="l1862">Vous avés veu Climante, &amp; l’avés bien joüé.</l>
           </sp>
@@ -5979,7 +5975,7 @@
           </sp>
           <sp xml:id="V06-51" who="oronthe">
             <speaker>ORONTHE</speaker>
-            <l n="1864" xml:id="l1864">Il m’est venu treuver tout réveur &amp; tout <ref target="#triste2">triste*</ref>,</l>
+            <l n="1864" xml:id="l1864">Il m’est venu treuver tout réveur &amp; tout <ref target="#triste2">triste</ref>,</l>
             <l n="1865" xml:id="l1865">Pour me donner advis que vous aimiés Ariste,</l>
             <l n="1866" xml:id="l1866">Et qu’en le caressant il vous avoit surpris.</l>
           </sp>
@@ -5989,7 +5985,7 @@
           </sp>
           <sp xml:id="V06-53" who="oronthe">
             <speaker>ORONTHE</speaker>
-            <l n="1868" xml:id="l1868">Si je le voy tanstot, je luy <ref target="#donner-bonne">donneray bonne*</ref>.</l>
+            <l n="1868" xml:id="l1868">Si je le voy tanstot, je luy <ref target="#donner-bonne">donneray bonne</ref>.</l>
           </sp>
           <sp xml:id="V06-54" who="olimpe">
             <speaker>OLIMPE</speaker>
@@ -6004,11 +6000,11 @@
             <l n="1870" xml:id="l1870" part="I">Voicy quelque nouvelle !</l>
           </sp>
           <sp xml:id="V07-2" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">arrive en desordre.</hi></speaker>
+            <speaker>PANCRACE </speaker><stage>arrive en desordre.</stage>
             <l part="F">Ha Monsieur, escoutés !    </l>
           </sp>
           <sp xml:id="V07-3" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">à ARISTE bas.</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>à ARISTE bas.</stage>
             <l n="1871" xml:id="l1871" part="I">Il s’espouvente !</l>
           </sp>
           <sp xml:id="V07-4" who="oronthe">
@@ -6016,15 +6012,15 @@
             <l part="F">Ah ! Dieux mes chevaux arrestez.</l>
           </sp>
           <sp xml:id="V07-5" who="ariste">
-            <speaker>ARISTE <hi rend="i">à OLIMPE bas.</hi></speaker>
+            <speaker>ARISTE </speaker><stage>à OLIMPE bas.</stage>
             <l n="1872" xml:id="l1872" part="I">Le temps vient.</l>
           </sp>
           <sp xml:id="V07-6" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">à ORONTHE</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>à ORONTHE</stage>
             <l part="M">Qu’avez vous ?</l>
           </sp>
           <sp xml:id="V07-7" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">sans l’escouter.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>sans l’escouter.</stage>
             <l part="F">Mes pistolets, quel trouble !</l>
           </sp>
           <sp xml:id="V07-8" who="lisette">
@@ -6041,7 +6037,7 @@
             <l n="1875" xml:id="l1875">Allez je vous responds qu’elle n’en mourra pas.</l>
           </sp>
           <sp xml:id="V07-11" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">suivant son maistre.</hi></speaker>
+            <speaker>PANCRACE </speaker><stage>suivant son maistre.</stage>
             <l n="1876" xml:id="l1876">Dans ces anxietez il faut que la prudence…</l>
           </sp>
           <sp xml:id="V07-12" who="oronthe">
@@ -6053,7 +6049,7 @@
           <head>SCENE VIII</head>
           <stage>OLIMPE, ARISTE, ORONTHE, CLIMANTE, un Exempt, PANCRACE, JODELET, LISETTE, Troupe d’Archers.</stage>
           <sp xml:id="V08-1" who="l-exempt">
-            <speaker>L’Exempt, <hi rend="i">ayant l’espée de Climante qui s’estoit voulu mettre en deffence en l’endroit où il estoit caché par où l’Exempt vient la porte estant ouverte.</hi></speaker>
+            <speaker>L’Exempt, </speaker><stage>ayant l’espée de Climante qui s’estoit voulu mettre en deffence en l’endroit où il estoit caché par où l’Exempt vient la porte estant ouverte.</stage>
             <l part="F">Faire le brave &amp; se mettre en defence.</l>
             <l n="1878" xml:id="l1878">Obeit-on ainsi dans les ordres du Roy ?<pb n="156"/></l>
             <l n="1879" xml:id="l1879" part="I">Je vous fais prisonnier.</l>
@@ -6075,9 +6071,9 @@
             <l n="1880" xml:id="l1880" part="I">Ouy, rendez vostre espée.</l>
           </sp>
           <sp xml:id="V08-6" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">voulant tirer l’espée.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>voulant tirer l’espée.</stage>
             <l part="F">Ah ! je la veux defendre.</l>
-            <l n="1881" xml:id="l1881">Ariste sans <ref target="#bransler">bransler*</ref> me la laissez vous prendre ?</l>
+            <l n="1881" xml:id="l1881">Ariste sans <ref target="#bransler">bransler</ref> me la laissez vous prendre ?</l>
           </sp>
           <sp xml:id="V08-7" who="ariste">
             <speaker>ARISTE</speaker>
@@ -6109,8 +6105,8 @@
           </sp>
           <sp xml:id="V08-12" who="ariste">
             <speaker>ARISTE</speaker>
-            <l n="1894" xml:id="l1894">Pour la tirer des bras qui luy faisoient <ref target="#horreur">horreur*</ref>,</l>
-            <l n="1895" xml:id="l1895">Et la mettre en estat de braver ta <ref target="#fureur">fureur*</ref>.</l>
+            <l n="1894" xml:id="l1894">Pour la tirer des bras qui luy faisoient <ref target="#horreur">horreur</ref>,</l>
+            <l n="1895" xml:id="l1895">Et la mettre en estat de braver ta <ref target="#fureur">fureur</ref>.</l>
           </sp>
           <sp xml:id="V08-13" who="oronthe">
             <speaker>ORONTHE</speaker>
@@ -6122,7 +6118,7 @@
             <l n="1897" xml:id="l1897" part="I">Que ferois-tu ?</l>
           </sp>
           <sp xml:id="V08-15" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">en regardant Climante.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>en regardant Climante.</stage>
             <l part="M">Climante…</l>
           </sp>
           <sp xml:id="V08-16" who="ariste">
@@ -6143,7 +6139,7 @@
             <l n="1904" xml:id="l1904">Si j’ay voulu manquer d’esprit &amp; de courage,</l>
             <l n="1905" xml:id="l1905">J’en vay faire paroistre à ton des-avantage ;</l>
             <l n="1906" xml:id="l1906">Va dedans les prisons querir ton chastiment,</l>
-            <l n="1907" xml:id="l1907">Toy va chercher du <ref target="#coeur">cœur*</ref> dans ton ressentiment</l>
+            <l n="1907" xml:id="l1907">Toy va chercher du <ref target="#coeur">cœur</ref> dans ton ressentiment</l>
             <l n="1908" xml:id="l1908">Pour soustraire à mes veux cette rare merveille,</l>
             <l n="1909" xml:id="l1909" part="I">Ne [le] retenez point.</l>
           </sp>
@@ -6152,15 +6148,15 @@
             <l part="F">Ah ! douleur sans pareille.</l>
           </sp>
           <sp xml:id="V08-20" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">à  JODELET</hi></speaker>
+            <speaker>PANCRACE </speaker><stage>à  JODELET</stage>
             <l n="1910" xml:id="l1910" part="I">Quelle vicissitude !</l>
           </sp>
           <sp xml:id="V08-21" who="olimpe">
-            <speaker>OLIMPE <hi rend="i">à Oronthe &amp; Climante du ton <ref target="#colere">colere*</ref>.</hi></speaker>
+            <speaker>OLIMPE </speaker><stage>à Oronthe &amp; Climante du ton </stage>
             <l part="F">A ne vous rien celer.</l>
           </sp>
           <sp xml:id="V08-22" who="ariste">
-            <speaker>ARISTE <hi rend="i">en interrompant.</hi></speaker>
+            <speaker>ARISTE </speaker><stage>en interrompant.</stage>
             <l n="1911" xml:id="l1911">Ah ! ne leur faictes point l’honneur de leur parler.</l>
           </sp>
           <sp xml:id="V08-23" who="climante">
@@ -6179,11 +6175,11 @@
           <sp xml:id="V08-26" who="ariste">
             <speaker>ARISTE</speaker>
             <l n="1916" xml:id="l1916">Jusqu’à demain matin par un respect extreme,</l>
-            <l n="1917" xml:id="l1917">Je ne la verray point <ref target="#encore-que">encore*</ref> que je l’ayme ;</l>
+            <l n="1917" xml:id="l1917">Je ne la verray point <ref target="#encore-que">encore</ref> que je l’ayme ;</l>
             <l n="1918" xml:id="l1918" part="I">C’est devant ses parens que j’attens…</l>
           </sp>
           <sp xml:id="V08-27" who="jodelet">
-            <speaker>JODELET <hi rend="i">à PANCRACE</hi></speaker>
+            <speaker>JODELET </speaker><stage>à PANCRACE</stage>
             <l part="F">Qu’en dis-tu ?</l>
           </sp>
           <sp xml:id="V08-28" who="ariste">
@@ -6192,16 +6188,16 @@
             <l n="1920" xml:id="l1920" part="I">Non à vous.</l>
           </sp>
           <sp xml:id="V08-29" who="pancrace">
-            <speaker>PANCRACE <hi rend="i">à JODELET</hi></speaker>
+            <speaker>PANCRACE </speaker><stage>à JODELET</stage>
             <l part="F">Il touchoit son an climaterique<note n="355" place="bottom"><hi rend="i">An climaterique</hi> : « année funeste aux critiques (tout age qui est un multiple de 7), année dangereuse à passer et où on est en danger de mort aux dires des Astrologues » (Furetière).</note>.</l>
           </sp>
           <sp xml:id="V08-30" who="oronthe">
-            <speaker>ORONTHE <hi rend="i">en s’en allant.</hi></speaker>
+            <speaker>ORONTHE </speaker><stage>en s’en allant.</stage>
             <l n="1921" xml:id="l1921" part="I">Ah ! trop cruelle Olimpe.</l>
           </sp>
           <sp xml:id="V08-31" who="pancrace">
             <speaker>PANCRACE</speaker>
-            <l part="F">Ah ! destin <ref target="#tyrannie">Tyrannique*</ref>.</l>
+            <l part="F">Ah ! destin <ref target="#tyrannie">Tyrannique</ref>.</l>
           </sp>
           <sp xml:id="V08-32" who="olimpe">
             <speaker>OLIMPE</speaker>
@@ -6216,7 +6212,7 @@
             <l part="F">Je vous le promets.</l>
           </sp>
           <sp xml:id="V08-35" who="climante">
-            <speaker>CLIMANTE <hi rend="i">en sortant avec menace.</hi></speaker>
+            <speaker>CLIMANTE </speaker><stage>en sortant avec menace.</stage>
             <l n="1923" xml:id="l1923" part="I">Dieux !</l>
           </sp>
           <sp xml:id="V08-36" who="oronthe">
@@ -6225,11 +6221,11 @@
           </sp>
           <sp xml:id="V08-37" who="pancrace">
             <speaker>PANCRACE</speaker>
-            <l n="1924" xml:id="l1924">Adieu, suivons mon maistre, &amp; dans son sort <ref target="#funeste">funeste*</ref></l>
+            <l n="1924" xml:id="l1924">Adieu, suivons mon maistre, &amp; dans son sort <ref target="#funeste">funeste</ref></l>
             <l n="1925" xml:id="l1925">Imitons le destin de <ref target="#pilade">Pilade°</ref> &amp; d’<ref target="#oreste">Oreste°</ref>.</l>
           </sp>
           <sp xml:id="V08-38" who="ariste">
-            <speaker>ARISTE <hi rend="i">à OLIMPE</hi></speaker>
+            <speaker>ARISTE </speaker><stage>à OLIMPE</stage>
             <l n="1926" xml:id="l1926" part="I">A la fin nos mal-heurs…</l>
           </sp>
           <sp xml:id="V08-39" who="jodelet">
@@ -6243,7 +6239,7 @@
             <l part="M">Je t’entens.</l>
           </sp>
           <sp xml:id="V08-41" who="lisette">
-            <speaker>LISETTE <hi rend="i">en pleurant.</hi></speaker>
+            <speaker>LISETTE </speaker><stage>en pleurant.</stage>
             <l part="M">Ah ! Monsieur.</l>
           </sp>
           <sp xml:id="V08-42" who="olimpe">
@@ -6251,7 +6247,7 @@
             <l part="F">Pauvre Amante !</l>
           </sp>
           <sp xml:id="V08-43" who="ariste">
-            <speaker>ARISTE <hi rend="i">en monstrant Jodelet.</hi></speaker><pb n="161"/>
+            <speaker>ARISTE </speaker><stage>en monstrant Jodelet.</stage><pb n="161"/>
             <l n="1929" xml:id="l1929">Va nous te le donnons &amp; cent escus de rente.</l>
           </sp>
           <sp xml:id="V08-44" who="jodelet">
@@ -6264,10 +6260,10 @@
           </sp>
           <sp xml:id="V08-46" who="jodelet">
             <speaker>JODELET</speaker>
-            <l part="F">Ce mot n’est pas <ref target="#fat">fat*</ref>.</l>
+            <l part="F">Ce mot n’est pas <ref target="#fat">fat</ref>.</l>
           </sp>
           <sp xml:id="V08-47" who="ariste">
-            <speaker>ARISTE à tous deux.</speaker>
+            <speaker>ARISTE</speaker> <stage>à tous deux.</stage>
             <l n="1931" xml:id="l1931" part="I">En estes vous d’accord ?</l>
           </sp>
           <sp xml:id="V08-48" who="lisette">
@@ -6277,7 +6273,7 @@
           <sp xml:id="V08-49" who="jodelet">
             <speaker>JODELET</speaker>
             <l part="F">Vivat.</l>
-            <p rend="center">FIN.</p>
+            <trailer rend="center">FIN.</trailer>
           </sp>
         </div>
       </div>

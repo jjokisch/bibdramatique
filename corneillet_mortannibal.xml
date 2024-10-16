@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -26,11 +26,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/corneille-thomas_mort-annibal/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/corneille-thomas_mort-annibal.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/corneille-thomas_mort-annibal.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/corneille-thomas_mort-annibal.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/corneille-thomas_mort-annibal.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/corneille-thomas_mort-annibal/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/corneille-thomas_mort-annibal.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/corneille-thomas_mort-annibal.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/corneille-thomas_mort-annibal.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/corneille-thomas_mort-annibal.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Thomas Corneille</author>. <title>La Mort d'Annibal. Tragédie.</title>. A Rouen, Et se vend  A PARIS,  Chez GUILLAUME DE LUYNES, Libraire  Iuré, au Palais, en la Gallerie des  Merciers, à la Justice.  M. DC. LXX.  AVEC PRIVILEGE DU ROY.</bibl>
@@ -508,13 +508,13 @@
           <stage>PRUSIAS, ATTALE, ARAXE.</stage>
           <sp xml:id="I01-1" who="attale">
             <speaker>ATTALE</speaker>
-            <l n="1" xml:id="l1">Seigneur, ne croyez pas qu’un Trône<note resp="editor">Attale a été capturé par Hannibal, qui l’a remis aux mains de Prusias. Son frère aîné, Eumène II, roi de Pergame, passe pour mort après la bataille de Marmara : Attale devient donc l’héritier légitime du trône de Pergame. C’est pourquoi, au début de la pièce, Prusias le lui rend, pour pouvoir conclure le traité de paix voulu par les Romains.</note> m’<ref target="#eblouir1">éblouisse*</ref><note resp="editor">Phénomène de diérèse. Voir la liste des diérèses en introduction.</note></l>
+            <l n="1" xml:id="l1">Seigneur, ne croyez pas qu’un Trône<note resp="editor">Attale a été capturé par Hannibal, qui l’a remis aux mains de Prusias. Son frère aîné, Eumène II, roi de Pergame, passe pour mort après la bataille de Marmara : Attale devient donc l’héritier légitime du trône de Pergame. C’est pourquoi, au début de la pièce, Prusias le lui rend, pour pouvoir conclure le traité de paix voulu par les Romains.</note> m’<ref target="#eblouir1">éblouisse</ref><note resp="editor">Phénomène de diérèse. Voir la liste des diérèses en introduction.</note></l>
             <l n="2" xml:id="l2">Jusqu’à rendre<note resp="editor"><hi rend="i">Jusqu’à rendre</hi> : au point de rendre.</note> mon cœur capable d’injustice,</l>
             <l n="3" xml:id="l3">Et me faire oublier quel excez de bonté</l>
             <l n="4" xml:id="l4">Vous fit prendre interest à ma captivité.</l>
             <l n="5" xml:id="l5">Prisonnier d’Annibal qui triomphoit d’Eumene</l>
             <l n="6" xml:id="l6">Je vous vis adoucir et mes fers et ma peine,</l>
-            <l n="7" xml:id="l7">Et vouloir que chez vous on <ref target="#respect2">respectast*</ref> en moy<pb n="2"/></l>
+            <l n="7" xml:id="l7">Et vouloir que chez vous on <ref target="#respect2">respectast</ref> en moy<pb n="2"/></l>
             <l n="8" xml:id="l8">Le sang infortuné de ce malheureux Roy.</l>
             <l n="9" xml:id="l9">Aujourd’huy que sa mort m’asseure sa Couronne,</l>
             <l n="10" xml:id="l10">Je croirois faire outrage au Ciel qui me la donne<note resp="editor"><hi rend="i">Var. 1692</hi> : donne,</note></l>
@@ -541,13 +541,13 @@
             <l n="27" xml:id="l27">Et c’est là qu’avec joye on m’a veu vous ceder</l>
             <l n="28" xml:id="l28">Ce que Flaminius n’eust osé demander<note resp="editor"><hi rend="i">Ce que Flaminius n’eust osé demander</hi> : ce que Flaminius n’eût osé espérer. <hi rend="i">Demander</hi> : signifie aussi souhaiter (Furetière).</note>.</l>
             <l n="29" xml:id="l29">Quoy que m’ait pû sur vous acquerir la victoire</l>
-            <l n="30" xml:id="l30">Je ne m’en suis voulu <ref target="#reserver1">reserver*</ref> que la gloire,</l>
+            <l n="30" xml:id="l30">Je ne m’en suis voulu <ref target="#reserver1">reserver</ref> que la gloire,</l>
             <l n="31" xml:id="l31">Pergame est tout à vous, et je vous ay rendu</l>
             <l n="32" xml:id="l32">Ce qu’à<note resp="editor"><hi rend="i">Ce qu’à</hi> : l’usage du « que » adverbe était très répandu en lieu et place d’un pronom relatif précédé d’une préposition (voir HAASE, A., <hi rend="i">op. cit</hi>., § 36, p. 71). Ici, en langue actuelle, on emploierait « dont » et non « que » : « ce dont on sçait ».</note> droit de conqueste on sçait qui m’estoit dû.</l>
           </sp>
           <sp xml:id="I01-3" who="attale">
             <speaker>ATTALE</speaker>
-            <l n="33" xml:id="l33">Ce rare et grand effort<note resp="editor"> Au XVII<hi rend="sup">e</hi> siècle, l’adjectif précède souvent le nom (voir HAASE, A., <hi rend="i">op. cit</hi>., § 155, B, p. 421-422).</note> d’une <ref target="#vertu">vertu*</ref> sublime</l>
+            <l n="33" xml:id="l33">Ce rare et grand effort<note resp="editor"> Au XVII<hi rend="sup">e</hi> siècle, l’adjectif précède souvent le nom (voir HAASE, A., <hi rend="i">op. cit</hi>., § 155, B, p. 421-422).</note> d’une <ref target="#vertu">vertu</ref> sublime</l>
             <l n="34" xml:id="l34">De l’Univers entier vous asseure l’estime ;</l>
             <l n="35" xml:id="l35">Mais, Seigneur, tant de biens sont pour moy superflus</l>
             <l n="36" xml:id="l36">Si vous devant beaucoup<note resp="editor"><hi rend="i">Vous devant beaucoup</hi> : alors que je vous dois beaucoup. Le participe a ici une valeur circonstancielle.</note> je n’obtiens encor plus.</l>
@@ -555,7 +555,7 @@
             <l n="38" xml:id="l38">Vous brisastes mes fers dans votre Bithynie,</l>
             <l n="39" xml:id="l39">Déja depuis long temps charmé dans cette Cour</l>
             <l n="40" xml:id="l40">J’estois moins Prisonnier de guerre que d’Amour.</l>
-            <l n="41" xml:id="l41">Deux beaux yeux en secret captivoient ma <ref target="#franchise">franchise*</ref><note resp="editor"><hi rend="i">Captivoient ma franchise</hi> : me tenaient captif.</note>.</l>
+            <l n="41" xml:id="l41">Deux beaux yeux en secret captivoient ma <ref target="#franchise">franchise</ref><note resp="editor"><hi rend="i">Captivoient ma franchise</hi> : me tenaient captif.</note>.</l>
             <l n="42" xml:id="l42">J’avois, j’avois trop veu l’incomparable Elise.</l>
           </sp>
           <sp xml:id="I01-4" who="prusias">
@@ -570,14 +570,14 @@
             <l n="46" xml:id="l46">Je puis me tenir seur du succez de ma flame.</l>
             <l n="47" xml:id="l47">Le fameux Annibal receu dans vos Estats</l>
             <l n="48" xml:id="l48">Si vous estes pour moy ne vous dédira pas<note resp="editor"><hi rend="i">Ne vous dédira pas</hi> : ne vous opposera pas de refus. <hi rend="i">Dédire</hi> : Désavoüer quelqu’un de ce qu’il s’est avancé de dire (Furetière).</note>.</l>
-            <l n="49" xml:id="l49">Contre ses Ennemis vous luy prestez <ref target="#retraite2">retraite*</ref>,</l>
-            <l n="50" xml:id="l50">Et dans l’<ref target="#incertain1">incertitude*</ref> où ce besoin le jette,</l>
+            <l n="49" xml:id="l49">Contre ses Ennemis vous luy prestez <ref target="#retraite2">retraite</ref>,</l>
+            <l n="50" xml:id="l50">Et dans l’<ref target="#incertain1">incertitude</ref> où ce besoin le jette,</l>
             <l n="51" xml:id="l51">Deux Rois pourront tenir son Destin affermy</l>
             <l n="52" xml:id="l52">S’il en a l’un pour Gendre, et l’autre pour amy<note resp="editor"><hi rend="i">S’il en a l’un pour Gendre, et l’autre pour amy</hi> : s’il a l’un des deux pour gendre, et l’un des deux pour allié. Le remplacement du partitif « de » uni au pronom de troisième personne par le pronom « en » est exceptionnel au XVII<hi rend="sup">e</hi> siècle (voir HAASE, A., <hi rend="i">op. cit</hi>., 1965, § 9, II, E, p. 22-23). Ici, le pronom « en » renvoie aux « deux Rois » du vers précédent. </note>.</l>
           </sp>
           <sp xml:id="I01-6" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l n="53" xml:id="l53">La <ref target="#vertu">vertu*</ref> d’Annibal paroist si peu commune</l>
+            <l n="53" xml:id="l53">La <ref target="#vertu">vertu</ref> d’Annibal paroist si peu commune</l>
             <l n="54" xml:id="l54">Que sans doute il est beau d’embrasser sa fortune<note resp="editor"><hi rend="i">Embrasser sa fortune</hi> : joindre son sort à celui d’Hannibal.</note>,</l>
             <l n="55" xml:id="l55">Et vous ne sçauriez mieux vous en faire l’appuy</l>
             <l n="56" xml:id="l56">Qu’en cherchant par l’hymen à vous unir à luy.</l>
@@ -590,9 +590,9 @@
             <l n="63" xml:id="l63">Et que ce grand hymen que j’oserois presser</l>
             <l n="64" xml:id="l64">Ne seroit qu’un pretexte afin de le chasser ?</l>
             <l n="65" xml:id="l65">Malgré ses Envieux<note resp="editor"><hi rend="i">Envieux</hi> : signifie aussi Rival, concurrent (Furetière). Le mot vient en outre du latin <hi rend="i">invidia</hi>, qui signifie « malveillance, antipathie, hostilité, haine » : le terme est donc bien plus expressif qu’il ne le semble au premier abord.</note> et la hayne de Rome</l>
-            <l n="66" xml:id="l66">J’ay promis, j’ay donné <ref target="#retraite2">retraite*</ref> à ce grand homme,</l>
+            <l n="66" xml:id="l66">J’ay promis, j’ay donné <ref target="#retraite2">retraite</ref> à ce grand homme,</l>
             <l n="67" xml:id="l67">Et dois trop aux serments qu’il a receus de moy<pb n="4"/></l>
-            <l n="68" xml:id="l68">Pour rien faire jamais<note resp="editor"><hi rend="i">Pour rien faire jamais</hi> : l’adverbe « rien » est si négatif qu’il n’est pas obligatoirement accompagné d’une négation au XVII<hi rend="sup">e</hi> siècle (voir HAASE, A., <hi rend="i">op. cit</hi>., § 51, B, p. 108-110).</note> qui démente ma <ref target="#foi">foy*</ref>.</l>
+            <l n="68" xml:id="l68">Pour rien faire jamais<note resp="editor"><hi rend="i">Pour rien faire jamais</hi> : l’adverbe « rien » est si négatif qu’il n’est pas obligatoirement accompagné d’une négation au XVII<hi rend="sup">e</hi> siècle (voir HAASE, A., <hi rend="i">op. cit</hi>., § 51, B, p. 108-110).</note> qui démente ma <ref target="#foi">foy</ref>.</l>
           </sp>
           <sp xml:id="I01-7" who="attale">
             <speaker>ATTALE</speaker>
@@ -620,9 +620,9 @@
             <speaker>PRUSIAS</speaker>
             <l part="F">Non, il n’y pense pas,</l>
             <l n="81" xml:id="l81">Mais il faut éviter, en cherchant mon suffrage</l>
-            <l n="82" xml:id="l82">Ce qui pourroit vous nuire, ou donner de l’<ref target="#ombrage">ombrage*</ref>.</l>
+            <l n="82" xml:id="l82">Ce qui pourroit vous nuire, ou donner de l’<ref target="#ombrage">ombrage</ref>.</l>
             <l n="83" xml:id="l83">Mes souhaits sont pour vous, n’attendez rien de plus,</l>
-            <l n="84" xml:id="l84">Vos <ref target="#voeux">vœux*</ref> sans mon appuy peuvent estre receus,</l>
+            <l n="84" xml:id="l84">Vos <ref target="#voeux">vœux</ref> sans mon appuy peuvent estre receus,</l>
             <l n="85" xml:id="l85">Contre vous pour un Fils bien loin que je m’employe,</l>
             <l n="86" xml:id="l86">Faites-les agréer, j’en auray de la joye.<note resp="editor"><hi rend="i">Var. 1692</hi> : joye,</note></l>
             <l n="87" xml:id="l87">Mais laissez-moy me taire où vos feux parleront.</l>
@@ -645,7 +645,7 @@
           </sp>
           <sp xml:id="I02-2" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l n="93" xml:id="l93">J’ignore les motifs du dessein qu’il m’<ref target="#expliquer">explique*</ref>,</l>
+            <l n="93" xml:id="l93">J’ignore les motifs du dessein qu’il m’<ref target="#expliquer">explique</ref>,</l>
             <l n="94" xml:id="l94">Mais enfin soit amour, Araxe, ou Politique<note resp="editor"><hi rend="i">Soit amour, Araxe, ou Politique</hi> : l’emploi de la construction « soit… ou… » n’est pas inhabituelle en langue classique (voir HAASE, A., <hi rend="i">op. cit</hi>., § 143, Remarque, p. 390-391).</note>,</l>
             <l n="95" xml:id="l95" part="I">Cet hymen… Dieux !</l>
           </sp>
@@ -668,7 +668,7 @@
           <sp xml:id="I02-7" who="araxe">
             <speaker>ARAXE</speaker>
             <l n="97" xml:id="l97">Pouvez-vous regreter qu’il chasse ailleurs un homme</l>
-            <l n="98" xml:id="l98">Dont la <ref target="#retraite1">retraite*</ref> icy vous rend suspect à Rome ?</l>
+            <l n="98" xml:id="l98">Dont la <ref target="#retraite1">retraite</ref> icy vous rend suspect à Rome ?</l>
           </sp>
           <sp xml:id="I02-8" who="prusias">
             <speaker>PRUSIAS</speaker>
@@ -702,9 +702,9 @@
             <l n="103" xml:id="l103">Et par mille combats rendus jusqu’à ce jour</l>
             <l n="104" xml:id="l104">J’ay tâché vainement d’étouffer cet amour.</l>
             <l n="105" xml:id="l105">Les interests d’un Fils joints à ceux de mon âge</l>
-            <l n="106" xml:id="l106">Ont beau sur son ardeur refroidir mon <ref target="#courage4">courage*</ref>,<note resp="editor">Comprendre que l’âge et que les intérêts de son fils tempèrent le cœur de Prusias, quand il considère l’amour que Nicomède porte à Elise.</note></l>
-            <l n="107" xml:id="l107">Elise a tous mes <ref target="#voeux">vœux*</ref>, Elise a tout mon cœur,</l>
-            <l n="108" xml:id="l108">Et pour moy sans Elise il n’est point de <ref target="#bonheur1">bonheur*</ref>.</l>
+            <l n="106" xml:id="l106">Ont beau sur son ardeur refroidir mon <ref target="#courage4">courage</ref>,<note resp="editor">Comprendre que l’âge et que les intérêts de son fils tempèrent le cœur de Prusias, quand il considère l’amour que Nicomède porte à Elise.</note></l>
+            <l n="107" xml:id="l107">Elise a tous mes <ref target="#voeux">vœux</ref>, Elise a tout mon cœur,</l>
+            <l n="108" xml:id="l108">Et pour moy sans Elise il n’est point de <ref target="#bonheur1">bonheur</ref>.</l>
           </sp>
           <sp xml:id="I02-15" who="araxe">
             <speaker>ARAXE</speaker>
@@ -714,7 +714,7 @@
           <sp xml:id="I02-16" who="prusias">
             <speaker>PRUSIAS</speaker>
             <l part="F">Non, je sçay ce qu’il faut que j’en croye.</l>
-            <l n="111" xml:id="l111">Mon hymen d’Annibal rempliroit tous les <ref target="#voeux">vœux*</ref>,</l>
+            <l n="111" xml:id="l111">Mon hymen d’Annibal rempliroit tous les <ref target="#voeux">vœux</ref>,</l>
             <l n="112" xml:id="l112">Je n’ay qu’à dire un mot, et je me rends heureux.</l>
             <l n="113" xml:id="l113">Mais puis-je consentir à ce que veut ma flame</l>
             <l n="114" xml:id="l114">Sans que Rome aussi-tost s’en indigne et m’en blâme ?</l>
@@ -731,22 +731,22 @@
             <l n="125" xml:id="l125">Tu vois que dans la paix jurée avec Attale</l>
             <l n="126" xml:id="l126">Déja son amitié m’a presque esté fatale.</l>
             <l n="127" xml:id="l127">Rome à ce grand accord témoignant s’attacher<note resp="editor">Comprendre que, pour contrarier les desseins de Rome, qui tenait à ce que la Bithynie et le royaume de Pergame s’entendent, Hannibal a cherché à empêcher la conclusion du traité de paix. </note>,</l>
-            <l n="128" xml:id="l128">Exprés pour <ref target="#choquer">choquer*</ref> Rome il vouloit l’empescher.</l>
-            <l n="129" xml:id="l129">D’ailleurs Flaminius ouvertement s’<ref target="#expliquer">explique*</ref>,</l>
+            <l n="128" xml:id="l128">Exprés pour <ref target="#choquer">choquer</ref> Rome il vouloit l’empescher.</l>
+            <l n="129" xml:id="l129">D’ailleurs Flaminius ouvertement s’<ref target="#expliquer">explique</ref>,</l>
             <l n="130" xml:id="l130">Qui protege Annibal blesse la Republique<note resp="editor"><hi rend="i">Qui protege Annibal blesse la Republique</hi> : l’emploi intégratif du pronom « qui » est usuel (voir FOURNIER Nathalie, <hi rend="i">Grammaire du français classique</hi>, § 300, p. 208).</note>,</l>
             <l n="131" xml:id="l131">Et son éloignement qu’il presse chaque jour<note resp="editor"><hi rend="i">Et son éloignement qu’il presse chaque jour</hi> : Flaminius fait pression pour que Prusias chasse Hannibal de sa Cour.</note></l>
             <l n="132" xml:id="l132">Suspend mon esperance, et confond mon amour.</l>
             <l n="133" xml:id="l133">J’oppose pour refus ma parole donnée<note resp="editor">La parole donnée qu’évoque Prusias relève du devoir sacré de l’hospitalité, fondamental dans l’Antiquité : qui recevait quelqu’un chez lui devait le prendre sous sa protection. Quiconque, roi ou particulier, manquait à ce devoir encourait le courroux divin et le mépris général.</note>,</l>
-            <l n="134" xml:id="l134">Et pour <ref target="#eblouir2">éblouir*</ref> Rome à le perdre obstinée,</l>
+            <l n="134" xml:id="l134">Et pour <ref target="#eblouir2">éblouir</ref> Rome à le perdre obstinée,</l>
             <l n="135" xml:id="l135">J’affecte des froideurs dont le déguisement</l>
             <l n="136" xml:id="l136">Cache à Flaminius l’interest d’un Amant<note resp="editor">L’ironie tragique de cette déclaration prendra toute son ampleur lorsque Flaminius affirmera connaître depuis longtemps l’amour de Prusias (« J’ay les yeux bien ouverts, et sans vous en rien dire / Je voy depuis long temps à quoy vostre asme aspire », III, 6, v. 1185-1186), même si l’on peut bien évidemment douter de la bonne foi d’un machiavélien comme lui. </note>.</l>
-            <l n="137" xml:id="l137"><ref target="#cependant1">Cependant*</ref> Annibal que surprent ma conduite</l>
+            <l n="137" xml:id="l137"><ref target="#cependant1">Cependant</ref> Annibal que surprent ma conduite</l>
             <l n="138" xml:id="l138">De mes longues froideurs peut redouter la suite,</l>
-            <l n="139" xml:id="l139">Et cedant aux soupçons dont je le voy <ref target="#gene">gesné*</ref></l>
+            <l n="139" xml:id="l139">Et cedant aux soupçons dont je le voy <ref target="#gene">gesné</ref></l>
             <l n="140" xml:id="l140">Accepter dans Attale un gendre couronné<note resp="editor"> On peut se demander pourquoi, dans ces conditions, Prusias ne s’abstient tout simplement pas de rendre le trône de Pergame à Attale, pour qu’Hannibal ne le considère pas comme un gendre éligible. Mais il ne faut pas oublier que l’ombre du Sénat plane sur Prusias : Rome voulait que la paix  soit conclue, d’autant qu’en tant qu’alliée du royaume de Pergame pendant le conflit, elle a pris Attale sous sa protection. Or, Prusias veut conserver à tout prix les bonnes grâces du Sénat : il n’avait dès lors pas d’autre choix.</note>.</l>
-            <l n="141" xml:id="l141">Je croy voir à ses feux déja que tout <ref target="#succeder">succede*</ref><note resp="editor"><hi rend="i">Je croy voir à ses feux déja que tout succede</hi> : il me semble déjà que tout s’accorde à récompenser l’amour d’Attale.</note></l>
+            <l n="141" xml:id="l141">Je croy voir à ses feux déja que tout <ref target="#succeder">succede</ref><note resp="editor"><hi rend="i">Je croy voir à ses feux déja que tout succede</hi> : il me semble déjà que tout s’accorde à récompenser l’amour d’Attale.</note></l>
             <l n="142" xml:id="l142">A moins que de ce mal mon Fils soit le remede.</l>
-            <l n="143" xml:id="l143">Confident d’Annibal, s’il<note resp="editor">Hannibal.</note> craint tout de ma <ref target="#foi">foy*</ref>,</l>
+            <l n="143" xml:id="l143">Confident d’Annibal, s’il<note resp="editor">Hannibal.</note> craint tout de ma <ref target="#foi">foy</ref>,</l>
             <l n="144" xml:id="l144">Par de nouveaux serments il<note resp="editor">Nicomède.</note> peut… mais je le voy.</l>
           </sp>
         </div>
@@ -761,7 +761,7 @@
             <l n="148" xml:id="l148">Un calme qui pour vous doit estre sans appas.</l>
             <l n="149" xml:id="l149">Ses leçons vous charmoient, et sous un si grand Maistre<pb n="8"/></l>
             <l n="150" xml:id="l150">Vostre jeune valeur se plaisoit à paroistre.<note resp="editor"><hi rend="i">Var. 1692</hi> : paroistre, </note></l>
-            <l n="151" xml:id="l151">Rome en a pris <ref target="#ombrage">ombrage*</ref>, et l’Accord <ref target="#arreter2">arresté*</ref></l>
+            <l n="151" xml:id="l151">Rome en a pris <ref target="#ombrage">ombrage</ref>, et l’Accord <ref target="#arreter2">arresté</ref></l>
             <l n="152" xml:id="l152">Est devenu pour nous une necessité.</l>
             <l n="153" xml:id="l153">A n’y déferer pas<note resp="editor"><hi rend="i">A n’y déferer pas je rompois avec elle</hi> : « à » a des valeurs multiples (voir FOURNIER, N., <hi rend="i">op. cit.</hi>, § 415, p. 284). Ici, la nuance est conditionnelle : si je n’obéissais pas, je rompais avec Rome. </note> je rompois avec elle,</l>
             <l n="154" xml:id="l154">Je luy faisois d’Attale embrasser la querelle<note resp="editor"><hi rend="i">Je lui faisois d’Attale embrasser la querelle</hi> : si je n’obéissais pas, je montais Rome contre moi, et lui faisais prendre le parti d’Attale.</note>,</l>
@@ -783,11 +783,11 @@
             <speaker>PRUSIAS</speaker>
             <l part="F">C’est surquoy<note resp="editor"><hi rend="i">Surquoy</hi> : les graphies contractées « surquoy » et « dequoy » sont communes au XVII<hi rend="sup">e</hi> siècle. </note> je voulais vous parler.</l>
             <l n="165" xml:id="l165">Depuis que dans ces lieux Flaminius m’observe,</l>
-            <l n="166" xml:id="l166">J’ay dû pour Annibal montrer quelque <ref target="#reserve">reserve*</ref>,</l>
-            <l n="167" xml:id="l167">Et tâcher de guerir par cet <ref target="#amuser1">amusement*</ref></l>
+            <l n="166" xml:id="l166">J’ay dû pour Annibal montrer quelque <ref target="#reserve">reserve</ref>,</l>
+            <l n="167" xml:id="l167">Et tâcher de guerir par cet <ref target="#amuser1">amusement</ref></l>
             <l n="168" xml:id="l168">Les soupçons qu’on a pris de mon attachement.</l>
             <l n="169" xml:id="l169">Mais comme les froideurs qu’il est bon que j’affecte</l>
-            <l n="170" xml:id="l170">Pourroient avec le temps rendre ma <ref target="#foi">foy*</ref> suspecte,</l>
+            <l n="170" xml:id="l170">Pourroient avec le temps rendre ma <ref target="#foi">foy</ref> suspecte,</l>
             <l n="171" xml:id="l171">Prevenez Annibal, et luy jurez pour moy</l>
             <l n="172" xml:id="l172">Tout ce qu’a de sacré la parole d’un Roy ;</l>
             <l n="173" xml:id="l173">Que le Romain<note resp="editor">Il s’agit de Flaminius.</note> party, je dois trop à ma gloire</l>
@@ -802,11 +802,11 @@
             <speaker>PRUSIAS</speaker>
             <pb n="9"/>
             <l part="F">Quel que soit ce moyen,</l>
-            <l n="176" xml:id="l176">Offrez, promettez tout, je ne <ref target="#reserver1">reserve*</ref> rien.</l>
+            <l n="176" xml:id="l176">Offrez, promettez tout, je ne <ref target="#reserver1">reserve</ref> rien.</l>
           </sp>
           <sp xml:id="I03-6" who="nicomede">
             <speaker>NICOMEDE</speaker>
-            <l n="177" xml:id="l177">Aprés ce doux <ref target="#aveu1">aveu*</ref>, Seigneur, j’ose vous dire</l>
+            <l n="177" xml:id="l177">Aprés ce doux <ref target="#aveu1">aveu</ref>, Seigneur, j’ose vous dire</l>
             <l n="178" xml:id="l178">Que mon cœur en secret depuis long-temps soûpire,</l>
             <l n="179" xml:id="l179">Et que par un pouvoir à mon repos fatal,</l>
             <l n="180" xml:id="l180" part="I">Elise…</l>
@@ -819,7 +819,7 @@
             <speaker>NICOMEDE</speaker>
             <l n="181" xml:id="l181">Oüy, Seigneur, je l’adore, et ne puis plus vous taire</l>
             <l n="182" xml:id="l182">Que la Fille sur moy peut autant que le Pere,</l>
-            <l n="183" xml:id="l183">Si la <ref target="#vertu">vertu*</ref> de l’un tient tout mon cœur charmé,</l>
+            <l n="183" xml:id="l183">Si la <ref target="#vertu">vertu</ref> de l’un tient tout mon cœur charmé,</l>
             <l n="184" xml:id="l184">Pour la beauté de l’autre il est tout enflamé,</l>
             <l n="185" xml:id="l185">Et dans la passion où ce cœur s’abandonne…</l>
           </sp>
@@ -842,7 +842,7 @@
           </sp>
           <sp xml:id="I03-13" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l n="190" xml:id="l190">Je pardonne à vostre âge un <ref target="#aveu1">aveu*</ref> temeraire,</l>
+            <l n="190" xml:id="l190">Je pardonne à vostre âge un <ref target="#aveu1">aveu</ref> temeraire,</l>
             <l n="191" xml:id="l191">Prince, vous estes jeune, et vostre aveuglement</l>
             <l n="192" xml:id="l192">Presse plus ma pitié que mon ressentiment<note resp="editor"><hi rend="i">Presse plus ma pitié que mon ressentiment</hi> : cela suscite en moi plus de pitié que de ressentiment.</note>.</l>
             <l n="193" xml:id="l193">Ouvrez, ouvrez les yeux, et pour un fol caprice</l>
@@ -858,7 +858,7 @@
             <l n="203" xml:id="l203">Et dans ce qu’à mon sceptre il faut chercher d’appuy,</l>
             <l n="204" xml:id="l204">L’amitié des Romains peut pour nous plus que luy,</l>
             <l n="205" xml:id="l205">C’est elle qui soustient les Trosnes qui chancellent,</l>
-            <l n="206" xml:id="l206">Et sans cette amitié que mes <ref target="#soin1">soins*</ref> renouvellent,</l>
+            <l n="206" xml:id="l206">Et sans cette amitié que mes <ref target="#soin1">soins</ref> renouvellent,</l>
             <l n="207" xml:id="l207">Nous nous verrions reduits à courber sous le poids</l>
             <l n="208" xml:id="l208">Sous qui déja par tout gemissent tant de Rois,</l>
             <l n="209" xml:id="l209">Profitons de l’exemple, et craignons leur disgrace.</l>
@@ -870,15 +870,15 @@
             <l n="212" xml:id="l212">Où tout autre apres luy craindra peu de tomber<note resp="editor"> Nicomède a ici une attitude similaire à celle de Rodrigue lorsqu’il déclare : « J’attaque en téméraire un bras toujours vainqueur / Mais j’aurai trop de force,  ayant assez de cœur / A qui venge son père il n’est rien impossible / Ton bras est invaincu, mais non pas invincible » (CORNEILLE P., <hi rend="i">Le Cid</hi>, II, 2, v. 417-420, in Corneille, <hi rend="i">Œuvres Complètes</hi>, t. 1, éd. G. Couton, Paris, Gallimard (Bibl. de la Pléiade), 1980, p. 726). C’est à travers de telles répliques que l’on entrevoit le héros qui se profile dans le personnage, c’est-à-dire le Nicomède de Pierre Corneille.</note>,</l>
             <l n="213" xml:id="l213">Non que par cét hymen qui semble vous déplaire</l>
             <l n="214" xml:id="l214">Je cherche à vous oster une amitié si chere ;</l>
-            <l n="215" xml:id="l215">Bien loin qu’il ait dequoy faire <ref target="#ombrage">ombrage*</ref> aux Romains</l>
+            <l n="215" xml:id="l215">Bien loin qu’il ait dequoy faire <ref target="#ombrage">ombrage</ref> aux Romains</l>
             <l n="216" xml:id="l216">Pourroient-ils mettre Elise en de plus seures mains ?</l>
-            <l n="217" xml:id="l217">Il n’est rien que pour eux vostre <ref target="#foi">foy*</ref> ne <ref target="#prevenir">previenne*</ref>,</l>
+            <l n="217" xml:id="l217">Il n’est rien que pour eux vostre <ref target="#foi">foy</ref> ne <ref target="#prevenir">previenne</ref>,</l>
             <l n="218" xml:id="l218">Ils trouveront en elle un garand de la mienne,</l>
-            <l n="219" xml:id="l219">Et dans le Fils d’un Roy qui les veut <ref target="#respect2">respecter*</ref><note resp="editor"><hi rend="i">Qui les veut respecter</hi> : la construction sujet-pronom-verbe conjugué-infinitif est parfaitement régulière au XVII<hi rend="sup">e</hi> siècle (voir HAASE, A., <hi rend="i">op. cit.</hi>, § 154, C, p. 417-420) avec des verbes comme « entendre », « envoyer », « faire », « laisser », « sentir », « vouloir ».</note>,</l>
+            <l n="219" xml:id="l219">Et dans le Fils d’un Roy qui les veut <ref target="#respect2">respecter</ref><note resp="editor"><hi rend="i">Qui les veut respecter</hi> : la construction sujet-pronom-verbe conjugué-infinitif est parfaitement régulière au XVII<hi rend="sup">e</hi> siècle (voir HAASE, A., <hi rend="i">op. cit.</hi>, § 154, C, p. 417-420) avec des verbes comme « entendre », « envoyer », « faire », « laisser », « sentir », « vouloir ».</note>,</l>
             <l n="220" xml:id="l220">Le Gendre d’Annibal n’est point à redouter.</l>
             <l n="221" xml:id="l221">Que si<note resp="editor"><hi rend="i">Que si</hi> : et si. La construction est tirée du latin « quod si », et n’indique qu’une simple coordination en début de phrase.</note> de ce projet Rome se rend l’arbitre,</l>
             <l n="222" xml:id="l222">Seigneur, vous estes Roy, soustenez ce grand titre,</l>
-            <l n="223" xml:id="l223">Et sans vous <ref target="#eblouir2">ebloüir*</ref> de devoirs apparents,</l>
+            <l n="223" xml:id="l223">Et sans vous <ref target="#eblouir2">ebloüir</ref> de devoirs apparents,</l>
             <l n="224" xml:id="l224">Negligez des amis qui se font vos Tyrans.</l>
             <l n="225" xml:id="l225">Rejettez une indigne et basse dépendance,</l>
             <l n="226" xml:id="l226">Cent Princes opprimez prendront votre défence,</l>
@@ -896,7 +896,7 @@
             <l n="234" xml:id="l234">Jusqu’où n’ira-t-il point avec le nom de Femme ?</l>
             <l n="235" xml:id="l235">Pour plaire à ces beaux yeux dont vous estes épris</l>
             <l n="236" xml:id="l236">Rome vous paroistra digne de vos mépris,</l>
-            <l n="237" xml:id="l237">Vous <ref target="#armer2">armerez*</ref> contre elle, et jusqu’en Italie</l>
+            <l n="237" xml:id="l237">Vous <ref target="#armer2">armerez</ref> contre elle, et jusqu’en Italie</l>
             <l n="238" xml:id="l238">Vous irez de vos feux étaler la folie.</l>
             <l n="239" xml:id="l239">J’y consens, perdez-vous, et sans plus m’écouter</l>
             <l n="240" xml:id="l240">Courez prendre les fers que vous voulez porter,</l>
@@ -908,8 +908,8 @@
           <sp xml:id="I03-16" who="nicomede">
             <speaker>NICOMEDE</speaker>
             <l n="245" xml:id="l245">Du moins, Seigneur, du moins j’auray cét avantage</l>
-            <l n="246" xml:id="l246">Qu’ils<note resp="editor">La construction « ce… que » est tirée du latin « is…qui », et n’a pas de valeur d’insistance particulière.</note> ne pourront jamais sousmettre mon <ref target="#courage1">courage*</ref>,</l>
-            <l n="247" xml:id="l247">Et si l’indignité de quelque dur <ref target="#revers">revers*</ref></l>
+            <l n="246" xml:id="l246">Qu’ils<note resp="editor">La construction « ce… que » est tirée du latin « is…qui », et n’a pas de valeur d’insistance particulière.</note> ne pourront jamais sousmettre mon <ref target="#courage1">courage</ref>,</l>
+            <l n="247" xml:id="l247">Et si l’indignité de quelque dur <ref target="#revers">revers</ref></l>
             <l n="248" xml:id="l248">Me reduit quelque jour à la honte des fers,</l>
             <l n="249" xml:id="l249">Je n’imiteray point l’abaissement extréme</l>
             <l n="250" xml:id="l250">Qui va les mandier jusques dans Rome mesme.</l>
@@ -917,12 +917,12 @@
           <sp xml:id="I03-17" who="prusias">
             <speaker>PRUSIAS</speaker>
             <l n="251" xml:id="l251">Et moy, je sçauray bien, si vous vous emportez,</l>
-            <l n="252" xml:id="l252"><ref target="#arreter1">Arrester*</ref> la fureur de vos temeritez<note resp="editor">Cette menace n’est pas une simple formule : elle préfigure et rend vraisemblable la réaction finale de Prusias qui, poussé à bout, ira lui-même prendre les armes contre son fils (V, 5). Thomas Corneille prépare donc son dénouement dès le premier acte.</note> ;</l>
+            <l n="252" xml:id="l252"><ref target="#arreter1">Arrester</ref> la fureur de vos temeritez<note resp="editor">Cette menace n’est pas une simple formule : elle préfigure et rend vraisemblable la réaction finale de Prusias qui, poussé à bout, ira lui-même prendre les armes contre son fils (V, 5). Thomas Corneille prépare donc son dénouement dès le premier acte.</note> ;</l>
             <l n="253" xml:id="l253">Non que dans un discours dont la fierté m’outrage</l>
             <l n="254" xml:id="l254">Je n’excuse et l’amour et la chaleur de l’aage,</l>
             <l n="255" xml:id="l255">Le temps éteindra l’une, et sçaura moderer</l>
             <l n="256" xml:id="l256">L’orgueil d’un mouvement trop boüillant pour durer,<note resp="editor"><hi rend="i">Var. 1692</hi> : durer.</note></l>
-            <l n="257" xml:id="l257">Mais si dans vostre cœur vos <ref target="#soin1">soins*</ref> n’étoufent l’autre,</l>
+            <l n="257" xml:id="l257">Mais si dans vostre cœur vos <ref target="#soin1">soins</ref> n’étoufent l’autre,</l>
             <l n="258" xml:id="l258">Je suis Pere du Peuple avant qu’estre le vostre<note resp="editor"> Reprise hypocrite des propos que tient le Nicomède de Pierre Corneille à la troisième scène de l’acte IV. « Prusias - Être père, et mari dans cette conjoncture… / Nicomède - Seigneur, voulez-vous bien vous en fier à moi ? / Ne soyez l’un, ni l’autre / Prusias - Et que dois-je être ? / Nicomède – Roi » (CORNEILLE P., <hi rend="i">Nicomède</hi>, IV, 3, v. 1316-1318, in éd. cit., t. 2, p. 691).</note>,</l>
             <l n="259" xml:id="l259">Et les nœuds les plus doux n’ont rien qu’avec éclat<pb n="12"/></l>
             <l n="260" xml:id="l260">Ma justice n’immole au repos de l’Estat.    </l>
@@ -944,9 +944,9 @@
             <l n="265" xml:id="l265">Qui jamais en aimant plus que moy fut à plaindre ?</l>
             <l n="266" xml:id="l266">Un Rival m’alarmoit, j’en trouve deux à craindre,</l>
             <l n="267" xml:id="l267">Et d’un fatal hymen les nœuds mal assortis</l>
-            <l n="268" xml:id="l268">N’ont rien dont le peril puisse <ref target="#etonner">estonner*</ref> mon fils.</l>
+            <l n="268" xml:id="l268">N’ont rien dont le peril puisse <ref target="#etonner">estonner</ref> mon fils.</l>
             <l n="269" xml:id="l269">Les maux que je luy peins s’il obtient ce qu’il aime,<note resp="editor"><hi rend="i">Var. 1692</hi> : aime</note></l>
-            <l n="270" xml:id="l270">Ne sont point… mais helas ! m’<ref target="#etonner">estonnent-ils*</ref> moi-mesme ?<note resp="editor"><hi rend="i">Var. 1692</hi> : moy mesme !</note></l>
+            <l n="270" xml:id="l270">Ne sont point… mais helas ! m’<ref target="#etonner">estonnent-ils</ref> moi-mesme ?<note resp="editor"><hi rend="i">Var. 1692</hi> : moy mesme !</note></l>
             <l n="271" xml:id="l271">J’ay beau jetter les yeux sur ce que j’en prévoy,</l>
             <l n="272" xml:id="l272">En les ouvrant pour luy je les ferme pour moy,</l>
             <l n="273" xml:id="l273">Et voulant l’arracher de l’abysme qu’il s’ouvre</l>
@@ -962,8 +962,8 @@
           </sp>
           <sp xml:id="I04-3" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l n="280" xml:id="l280">Quoy, je pourrois <ref target="#souffrir2">souffrir*</ref> qu’Attale fust heureux ?</l>
-            <l n="281" xml:id="l281">Je sçay que quelques <ref target="#soin3">soins*</ref> que l’amour me suggere,</l>
+            <l n="280" xml:id="l280">Quoy, je pourrois <ref target="#souffrir2">souffrir</ref> qu’Attale fust heureux ?</l>
+            <l n="281" xml:id="l281">Je sçay que quelques <ref target="#soin3">soins</ref> que l’amour me suggere,</l>
             <l n="282" xml:id="l282">Mon fils ainsi qu’Attale aura plus dequoy plaire,<note resp="editor"><p><hi rend="i">Var. 1692</hi> : plaire.</p><p><hi rend="i">Je sçay que quelques soins que l’amour me suggere / Mon Fils ainsi qu’Attale aura plus dequoy plaire</hi> : malgré toutes les attentions que l’amour me suggèrera de porter à Elise, celle-ci me préfèrera un de mes rivaux.</p></note></l>
             <l n="283" xml:id="l283">Tous deux jeunes, tous deux bouillants dans leurs desseins,</l>
             <l n="284" xml:id="l284">Et tous deux, s’il le faut, ennemis des Romains,</l>
@@ -982,16 +982,16 @@
           <stage>PRUSIAS, ELISE, ARAXE, ALCINE.</stage>
           <sp xml:id="I05-1" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l n="289" xml:id="l289">Quoy, Madame, toûjours cet air <ref target="#melancolie">melancolique*</ref> <note resp="editor"> Echo aux propos de l’Attale de Pierre Corneille: « Quoi, Madame, toujours un front inexorable ? » (CORNEILLE P., <hi rend="i">Nicomède</hi>, I, 2, v. 119, in éd. cit., p. 649). Thomas Corneille réutilise ici un motif caractéristique de l’amant éconduit, qui se plaint de l’intransigeance de la femme qu’il aime.</note> ?</l>
+            <l n="289" xml:id="l289">Quoy, Madame, toûjours cet air <ref target="#melancolie">melancolique</ref> <note resp="editor"> Echo aux propos de l’Attale de Pierre Corneille: « Quoi, Madame, toujours un front inexorable ? » (CORNEILLE P., <hi rend="i">Nicomède</hi>, I, 2, v. 119, in éd. cit., p. 649). Thomas Corneille réutilise ici un motif caractéristique de l’amant éconduit, qui se plaint de l’intransigeance de la femme qu’il aime.</note> ?</l>
           </sp>
           <sp xml:id="I05-2" who="elise">
             <speaker>ELISE</speaker>
-            <l n="290" xml:id="l290">Quelle joye en mes yeux voulez-vous qui s’<ref target="#expliquer">explique*</ref>,</l>
+            <l n="290" xml:id="l290">Quelle joye en mes yeux voulez-vous qui s’<ref target="#expliquer">explique</ref>,</l>
             <l n="291" xml:id="l291">Seigneur, lors que par tout les Destins conjurez</l>
             <l n="292" xml:id="l292">A nous persecuter se montrent preparez ?</l>
             <l n="293" xml:id="l293">Si nous trouvons chez vous, par un doux avantage</l>
             <l n="294" xml:id="l294">Dequoy nous consoler de l’exil de Cartage,</l>
-            <l n="295" xml:id="l295">Les Romains aussi-tost de ce <ref target="#bonheur1">bonheur*</ref> jaloux</l>
+            <l n="295" xml:id="l295">Les Romains aussi-tost de ce <ref target="#bonheur1">bonheur</ref> jaloux</l>
             <l n="296" xml:id="l296">S’opposent aux bontez que vous avez pour nous.</l>
             <l n="297" xml:id="l297">Avecque sa fortune errante et vagabonde<note resp="editor"><hi rend="i">Fortune errante et vagabonde</hi> : Fortune capricieuse, pleine de vicissitudes.</note></l>
             <l n="298" xml:id="l298">Un seul homme fait peur à ces Maistres du monde.</l>
@@ -1002,8 +1002,8 @@
             <pb n="14"/>
             <l n="300" xml:id="l300">Madame, je ne sçay ce qu’en juge Annibal,</l>
             <l n="301" xml:id="l301">Mais si j’ay le malheur qu’aprés mille asseurances</l>
-            <l n="302" xml:id="l302">Rome le fasse entrer en quelques <ref target="#defiance">défiances*</ref>,</l>
-            <l n="303" xml:id="l303">Du moins est-il le seul qui soupçonnant ma <ref target="#foi">foy*</ref></l>
+            <l n="302" xml:id="l302">Rome le fasse entrer en quelques <ref target="#defiance">défiances</ref>,</l>
+            <l n="303" xml:id="l303">Du moins est-il le seul qui soupçonnant ma <ref target="#foi">foy</ref></l>
             <l n="304" xml:id="l304">N’ait pas les sentiments qu’il doit avoir de moy,</l>
             <l n="305" xml:id="l305">Sur le tiltre<note resp="editor"> La graphie « tiltre » est courante au XVII<hi rend="sup">e</hi> siècle.</note> d’Amy chacun me rend justice,</l>
             <l n="306" xml:id="l306">Et mesme on craint si peu que rien nous desunisse,</l>
@@ -1016,7 +1016,7 @@
             <l n="310" xml:id="l310">Qu’en l’état où je suis on pust me croire aimable,</l>
             <l n="311" xml:id="l311">Et sur mon triste sort fermer assez les yeux</l>
             <l n="312" xml:id="l312">Pour s’unir au rebut des hommes et des Dieux ?</l>
-            <l n="313" xml:id="l313">Non, non, il faut me fuir ; il n’est <ref target="#revers">revers*</ref> ny peine</l>
+            <l n="313" xml:id="l313">Non, non, il faut me fuir ; il n’est <ref target="#revers">revers</ref> ny peine</l>
             <l n="314" xml:id="l314">Qu’en tous lieux avec moy ma disgrace ne traîne,</l>
             <l n="315" xml:id="l315">Et me vouloir aimer, seroit sans aucun fruit</l>
             <l n="316" xml:id="l316">Livrer sa destinée au malheur qui me suit.</l>
@@ -1030,7 +1030,7 @@
             <l n="321" xml:id="l321">Et ce sont ces malheurs qui vous rendent à craindre.<note resp="editor"><hi rend="i">Var. 1692</hi> : craindre</note></l>
             <l n="322" xml:id="l322">Pour estre tout à vous il ne faut que vous plaindre,</l>
             <l n="323" xml:id="l323">Et voir dans vos beaux yeux cette douce langueur</l>
-            <l n="324" xml:id="l324">Qui surprend, <ref target="#emouvoir">émeut*</ref>, touche, et penetre le cœur.</l>
+            <l n="324" xml:id="l324">Qui surprend, <ref target="#emouvoir">émeut</ref>, touche, et penetre le cœur.</l>
             <l n="325" xml:id="l325">Attale qui se plaist à vous rendre les armes</l>
             <l n="326" xml:id="l326">De ces beaux yeux peut-estre auroit bravé les charmes,</l>
             <l n="327" xml:id="l327">Si pour ce grand triomphe en secret emporté</l>
@@ -1056,15 +1056,15 @@
             <l n="339" xml:id="l339">Ah, que cette fierté paroist digne de vous !</l>
             <l n="340" xml:id="l340">J’en conçois pour mon Fils un augure bien doux,</l>
             <l n="341" xml:id="l341">Pour vos charmants appas vous sçavez qu’il soûpire,</l>
-            <l n="342" xml:id="l342">Ses <ref target="#respect2">respects*</ref> ont cent fois pris soin de vous le dire,</l>
+            <l n="342" xml:id="l342">Ses <ref target="#respect2">respects</ref> ont cent fois pris soin de vous le dire,</l>
             <l n="343" xml:id="l343">Il n’aime qu’à vous plaire ; à des feux si soumis,</l>
-            <l n="344" xml:id="l344">Madame, <ref target="#expliquer">expliquez*</ref>-vous, quel espoir est permis ?</l>
+            <l n="344" xml:id="l344">Madame, <ref target="#expliquer">expliquez</ref>-vous, quel espoir est permis ?</l>
           </sp>
           <sp xml:id="I05-8" who="elise">
             <speaker>ELISE</speaker>
             <l n="345" xml:id="l345">Quoy, vous croyez qu’Elise ait l’ame assez ingrate</l>
             <l n="346" xml:id="l346">Pour pouvoir consentir<note resp="editor"><hi rend="i">Consentir</hi> : Aquiescer à quelque chose (Académie). Ici, le terme signifie reconnaître, admettre.</note> que cet amour la flate,</l>
-            <l n="347" xml:id="l347">Et que pour prix des <ref target="#soin1">soins*</ref> qu’en eut vostre pitié<note resp="editor"><hi rend="i">Et que pour prix des soins qu’en eut vostre pitié</hi> : alors que votre compassion vous a poussé à des sollicitudes à mon égard.</note></l>
+            <l n="347" xml:id="l347">Et que pour prix des <ref target="#soin1">soins</ref> qu’en eut vostre pitié<note resp="editor"><hi rend="i">Et que pour prix des soins qu’en eut vostre pitié</hi> : alors que votre compassion vous a poussé à des sollicitudes à mon égard.</note></l>
             <l n="348" xml:id="l348">Son hymen des Romains vous couste l’amitié ?</l>
             <l n="349" xml:id="l349">Si déja sur l’appuy que trouve icy mon Pere</l>
             <l n="350" xml:id="l350">Nous voyons dans leur plainte éclater leur colere<note resp="editor">Comprendre que Rome s’indigne de voir que Prusias protège Hannibal.</note>,</l>
@@ -1078,16 +1078,16 @@
           <sp xml:id="I05-9" who="prusias">
             <speaker>PRUSIAS</speaker>
             <l n="357" xml:id="l357">De ma fidelité Rome a trop d’asseurance</l>
-            <l n="358" xml:id="l358">Pour me laisser long temps craindre sa <ref target="#defiance">défiance*</ref>,</l>
+            <l n="358" xml:id="l358">Pour me laisser long temps craindre sa <ref target="#defiance">défiance</ref>,</l>
             <l n="359" xml:id="l359">Et sur cette union<note resp="editor"><hi rend="i">Sur</hi> : au sujet de. </note>, quel qu’en soit le danger<note resp="editor"><hi rend="i">Var. 1692</hi> : danger,</note><pb n="16"/></l>
-            <l n="360" xml:id="l360">S’il nous faut son <ref target="#aveu2">aveu*</ref>, je puis le ménager.</l>
+            <l n="360" xml:id="l360">S’il nous faut son <ref target="#aveu2">aveu</ref>, je puis le ménager.</l>
             <l n="361" xml:id="l361">Pourveu que de mon Fils vous approuviez la flame,</l>
-            <l n="362" xml:id="l362" part="I">Que ses <ref target="#voeux">vœux*</ref>…</l>
+            <l n="362" xml:id="l362" part="I">Que ses <ref target="#voeux">vœux</ref>…</l>
           </sp>
           <sp xml:id="I05-10" who="elise">
             <speaker>ELISE</speaker>
             <l part="F">Connoissez, Seigneur, toute mon ame,</l>
-            <l n="363" xml:id="l363">Le Prince a des <ref target="#vertu">vertus*</ref> qu’on ne peut égaler,</l>
+            <l n="363" xml:id="l363">Le Prince a des <ref target="#vertu">vertus</ref> qu’on ne peut égaler,</l>
             <l n="364" xml:id="l364">Mais quelque feu pour luy dont je pusse brûler,</l>
             <l n="365" xml:id="l365">Je le dédaignerois si d’une ardeur ouverte</l>
             <l n="366" xml:id="l366">Des Romains que j’abhorre il ne juroit la perte,</l>
@@ -1110,8 +1110,8 @@
             <l n="375" xml:id="l375">La haine que pour Rome ils montrent tour à tour</l>
             <l n="376" xml:id="l376">Fait voir dans ce rapport celuy de leur amour,</l>
             <l n="377" xml:id="l377">Ce n’est point un soupçon, j’en voy la certitude,</l>
-            <l n="378" xml:id="l378">Affranchissons mon cœur de cette <ref target="#inquietude">inquietude*</ref>,</l>
-            <l n="379" xml:id="l379">Et puisque cet obstacle à mes <ref target="#voeux">vœux*</ref> est fatal</l>
+            <l n="378" xml:id="l378">Affranchissons mon cœur de cette <ref target="#inquietude">inquietude</ref>,</l>
+            <l n="379" xml:id="l379">Et puisque cet obstacle à mes <ref target="#voeux">vœux</ref> est fatal</l>
             <l n="380" xml:id="l380">Pour n’avoir rien à craindre éloignons ce Rival.</l>
             <l n="381" xml:id="l381">L’Ambassadeur de Rome icy me favorise<note resp="editor"><hi rend="i">L’Ambassadeur de Rome icy me favorise</hi> : le fait que l’ambassadeur soit présent favorise mes projets.</note>,<pb n="17"/></l>
             <l n="382" xml:id="l382">Il faut luy découvrir que mon Fils aime Elise,</l>
@@ -1126,10 +1126,10 @@
           </sp>
           <sp xml:id="I06-3" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l n="388" xml:id="l388">Mon zele aura paru, c’est dequoy l’<ref target="#eblouir2">ébloüir*</ref>.</l>
-            <l n="389" xml:id="l389">Peut-estre qu’elle mesme, <ref target="#obliger1">obligée*</ref> à se rendre</l>
+            <l n="388" xml:id="l388">Mon zele aura paru, c’est dequoy l’<ref target="#eblouir2">ébloüir</ref>.</l>
+            <l n="389" xml:id="l389">Peut-estre qu’elle mesme, <ref target="#obliger1">obligée</ref> à se rendre</l>
             <l n="390" xml:id="l390">Redoutant Annibal me voudra voir son Gendre,    </l>
-            <l n="391" xml:id="l391">Et s’asseurer par moy de l’<ref target="#inquietude">inquiete*</ref> ardeur,</l>
+            <l n="391" xml:id="l391">Et s’asseurer par moy de l’<ref target="#inquietude">inquiete</ref> ardeur,</l>
             <l n="392" xml:id="l392">Qui l’a toûjours rendu jaloux de sa grandeur<note resp="editor"><hi rend="i">S’asseurer par moy de l’inquiete ardeur, / Qui l’a toûjours rendu jaloux de sa grandeur</hi> : Rome, à travers Prusias, veut réduire la haine glorieuse d’Hannibal à l’impuissance. </note>.</l>
           </sp>
           <sp xml:id="I06-4" who="araxe">
@@ -1140,10 +1140,10 @@
           </sp>
           <sp xml:id="I06-5" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l part="F">Lors qu’il s’agit de voir nos <ref target="#voeux">vœux*</ref> contents,</l>
+            <l part="F">Lors qu’il s’agit de voir nos <ref target="#voeux">vœux</ref> contents,</l>
             <l n="396" xml:id="l396">Promettons tout, Araxe, et laissons faire au temps.</l>
           </sp>
-          <label>Fin du premier Acte.</label>
+          <trailer>Fin du premier Acte.</trailer>
         </div>
       </div>
       <div xml:id="II" type="act">
@@ -1162,7 +1162,7 @@
             <l n="399" xml:id="l399">Mais dans toute la Cour, Madame, il fait éclat<note resp="editor"><hi rend="i">Faire éclat</hi> : faire grand bruit.</note>.</l>
             <l n="400" xml:id="l400">Prusias sur la paix le députe au Senat<note resp="editor"><hi rend="i">Prusias sur la paix le députe au Senat</hi> : Prusias envoie Nicomède à Rome pour qu’il rende compte devant le Sénat de la paix conclue avec Attale.</note>,</l>
             <l n="401" xml:id="l401">Et luy rend cet honneur de vouloir par sa bouche</l>
-            <l n="402" xml:id="l402"><ref target="#expliquer">Expliquer*</ref> à quel point ce grand Accord le touche,</l>
+            <l n="402" xml:id="l402"><ref target="#expliquer">Expliquer</ref> à quel point ce grand Accord le touche,</l>
             <l n="403" xml:id="l403">Flaminius l’emmene, ils partent dés demain.</l>
           </sp>
           <sp xml:id="II01-3" who="elise">
@@ -1208,7 +1208,7 @@
           </sp>
           <sp xml:id="II01-12" who="alcine">
             <speaker>ALCINE</speaker>
-            <l part="F">Sa <ref target="#vertu">vertu*</ref> vous doit estre assez chere.</l>
+            <l part="F">Sa <ref target="#vertu">vertu</ref> vous doit estre assez chere.</l>
           </sp>
           <sp xml:id="II01-13" who="elise">
             <speaker>ELISE</speaker>
@@ -1217,7 +1217,7 @@
             <l n="417" xml:id="l417">Jamais plus de merite avec tant d’avantage</l>
             <l n="418" xml:id="l418">Ne sçeut de tous les cœurs s’acquerir le suffrage<note resp="editor"><hi rend="i">S’acquerir le suffrage</hi> : se dit d’une approbation générale donnée à une personne. Se dit quand on parle d’un Prince estimé (Furetière).</note>,</l>
             <l n="419" xml:id="l419">Moy-mesme je me sents forcée à l’estimer<note resp="editor">Sur les rapports de l’amour et de l’estime, voir le chapitre « La politique souveraine » dans l’introduction (V, 1).</note>,</l>
-            <l n="420" xml:id="l420">J’admire sa <ref target="#vertu">vertu*</ref>, mais ce n’est pas l’aimer.</l>
+            <l n="420" xml:id="l420">J’admire sa <ref target="#vertu">vertu</ref>, mais ce n’est pas l’aimer.</l>
           </sp>
           <sp xml:id="II01-14" who="alcine">
             <speaker>ALCINE</speaker>
@@ -1235,13 +1235,13 @@
           <sp xml:id="II01-17" who="elise">
             <speaker>ELISE</speaker>
             <l n="425" xml:id="l425">Je veux bien t’advouër que son depart m’afflige,</l>
-            <l n="426" xml:id="l426">Que l’ordre qu’on luy donne à soûpirer m’<ref target="#obliger1">oblige*</ref>,</l>
+            <l n="426" xml:id="l426">Que l’ordre qu’on luy donne à soûpirer m’<ref target="#obliger1">oblige</ref>,</l>
             <l n="427" xml:id="l427">Mais sans doute mon cœur dans cét éloignement<pb n="20"/></l>
             <l n="428" xml:id="l428">Soûpire pour un pere, et non pour un Amant.</l>
             <l n="429" xml:id="l429">Le Prince hors d’icy, Prusias n’est point homme</l>
             <l n="430" xml:id="l430">A resister long-temps aux poursuites de Rome,</l>
             <l n="431" xml:id="l431">Elle hait Annibal, et je crains que le Roy</l>
-            <l n="432" xml:id="l432">N’ait pas la fermeté de nous garder sa <ref target="#foi">foy*</ref>.</l>
+            <l n="432" xml:id="l432">N’ait pas la fermeté de nous garder sa <ref target="#foi">foy</ref>.</l>
             <l n="433" xml:id="l433">Son fils estoit pour nous un appuy necessaire.</l>
           </sp>
           <sp xml:id="II01-18" who="alcine">
@@ -1264,7 +1264,7 @@
           </sp>
           <sp xml:id="II01-21" who="elise">
             <speaker>ELISE</speaker>
-            <l n="442" xml:id="l442">Je sents que tout à coup mon ame s’est <ref target="#emouvoir">émeuë*</ref>,</l>
+            <l n="442" xml:id="l442">Je sents que tout à coup mon ame s’est <ref target="#emouvoir">émeuë</ref>,</l>
             <l n="443" xml:id="l443">Mais ce trouble, inconnu pour moy jusqu’à ce jour,</l>
             <l n="444" xml:id="l444">Se donne à sa disgrace, et non pas à l’amour<note resp="editor"><hi rend="i">Se donne à sa disgrace, et non pas à l’amour</hi> : Élise attribue son trouble à la pitié qu’elle éprouve pour Nicomède, et non au fait qu’elle l’aime.</note>.</l>
           </sp>
@@ -1293,7 +1293,7 @@
           </sp>
           <sp xml:id="II02-4" who="nicomede">
             <speaker>NICOMEDE</speaker>
-            <l n="454" xml:id="l454">Madame, attendez tout de mon <ref target="#impatience">impatience*</ref>,</l>
+            <l n="454" xml:id="l454">Madame, attendez tout de mon <ref target="#impatience">impatience</ref>,</l>
             <l n="455" xml:id="l455">Par un retour si prompt<note resp="editor">Le « si » a ici valeur d’intensif, et signifie « très ».</note>, s’il vous faut mon secours…</l>
           </sp>
           <sp xml:id="II02-5" who="elise">
@@ -1353,7 +1353,7 @@
           </sp>
           <sp xml:id="II02-14" who="nicomede">
             <speaker>NICOMEDE</speaker>
-            <l part="F"><ref target="#expliquer">Expliquez*</ref> vous de grace.</l>
+            <l part="F"><ref target="#expliquer">Expliquez</ref> vous de grace.</l>
           </sp>
           <sp xml:id="II02-15" who="elise">
             <speaker>ELISE</speaker>
@@ -1363,7 +1363,7 @@
           </sp>
           <sp xml:id="II02-16" who="nicomede">
             <speaker>NICOMEDE</speaker>
-            <l n="481" xml:id="l481">O trop<note resp="editor"> Trop s’emploie souvent au sens de « très » dans la langue classique » (voir HAASE, A. <hi rend="i">op.cit.</hi>, § 98, p. 245).</note> charmant <ref target="#aveu1">aveu*</ref> de la plus belle flame</l>
+            <l n="481" xml:id="l481">O trop<note resp="editor"> Trop s’emploie souvent au sens de « très » dans la langue classique » (voir HAASE, A. <hi rend="i">op.cit.</hi>, § 98, p. 245).</note> charmant <ref target="#aveu1">aveu</ref> de la plus belle flame</l>
             <l n="482" xml:id="l482">Dont ait pû jusqu’icy brûler une grande ame !</l>
             <l n="483" xml:id="l483">Que le Ciel m’abandonne à son plus vif couroux,</l>
             <l n="484" xml:id="l484">J’en craindray peu les traits estant aimé de vous.</l>
@@ -1404,12 +1404,12 @@
           </sp>
           <sp xml:id="II02-21" who="elise">
             <speaker>ELISE</speaker>
-            <l n="506" xml:id="l506" part="I">Que faire <ref target="#cependant1">cependant*</ref> ?</l>
+            <l n="506" xml:id="l506" part="I">Que faire <ref target="#cependant1">cependant</ref> ?</l>
           </sp>
           <sp xml:id="II02-22" who="nicomede">
             <speaker>NICOMEDE</speaker>
             <l part="F">Songer que je vous aime,</l>
-            <l n="507" xml:id="l507">Et si le Roy vous presse, accepter de sa <ref target="#foi">foy*</ref></l>
+            <l n="507" xml:id="l507">Et si le Roy vous presse, accepter de sa <ref target="#foi">foy</ref></l>
             <l n="508" xml:id="l508">Ce que je ne veux pas que vous perdiez pour moy<note resp="editor">Ici Nicomède enjoint à Elise d’accepter la couronne que lui offre Prusias pour être à l’abri des coups perfides de Flaminius.</note>.</l>
           </sp>
           <sp xml:id="II02-23" who="elise">
@@ -1428,7 +1428,7 @@
             <pb n="24"/>
             <l n="517" xml:id="l517">Et quel repos pour moy pretendre en Bithynie</l>
             <l n="518" xml:id="l518">Si faute d’en partir je vous en vois bannie,</l>
-            <l n="519" xml:id="l519">Et de nouveau reduite au funeste <ref target="#revers">revers*</ref></l>
+            <l n="519" xml:id="l519">Et de nouveau reduite au funeste <ref target="#revers">revers</ref></l>
             <l n="520" xml:id="l520">D’aller de Cour en Cour, et de passer les mers ?</l>
             <l n="521" xml:id="l521">En soufriray-je moins quand la main qui m’opprime</l>
             <l n="522" xml:id="l522">De l’orgueil des Romains vous fera la victime,</l>
@@ -1483,12 +1483,12 @@
             <speaker>NICOMEDE</speaker>
             <l n="541" xml:id="l541">Seigneur, n’enviez point à ma reconnoissance<note resp="editor"><hi rend="i">N’enviez point à ma reconnoissance</hi> : ne m’ôtez pas l’occasion que j’ai de montrer ma gratitude envers vous en partant à Rome.</note></l>
             <l n="542" xml:id="l542">La gloire d’un depart qui fait vostre asseurance,</l>
-            <l n="543" xml:id="l543">Et <ref target="#souffrir1">souffrez*</ref> qu’en aveugle obeïssant au Roy</l>
+            <l n="543" xml:id="l543">Et <ref target="#souffrir1">souffrez</ref> qu’en aveugle obeïssant au Roy</l>
             <l n="544" xml:id="l544">Je cherche à m’acquiter de ce que je vous doy.</l>
             <l n="545" xml:id="l545">A moins oser pour vous, je ferois mal connoistre</l>
             <l n="546" xml:id="l546">L’heureux fruit des leçons de mon illustre Maistre,</l>
             <l n="547" xml:id="l547">Et que c’est sous luy seul que l’on peut à son choix</l>
-            <l n="548" xml:id="l548">Apprendre les <ref target="#vertu">vertus*</ref> les plus dignes des Rois.</l>
+            <l n="548" xml:id="l548">Apprendre les <ref target="#vertu">vertus</ref> les plus dignes des Rois.</l>
           </sp>
           <sp xml:id="II04-2" who="annibal">
             <speaker>ANNIBAL</speaker>
@@ -1524,17 +1524,17 @@
             <l n="563" xml:id="l563">Et qu’il n’est point d’efforts qu’il ne se soit permis</l>
             <l n="564" xml:id="l564">A luy pouvoir par tout faire des Ennemis.</l>
             <l n="565" xml:id="l565">Je n’ay pas cherché loin ; leurs dures violences</l>
-            <l n="566" xml:id="l566">Se plaisant à <ref target="#choquer">choquer*</ref> les plus vastes Puissances,</l>
+            <l n="566" xml:id="l566">Se plaisant à <ref target="#choquer">choquer</ref> les plus vastes Puissances,</l>
             <l n="567" xml:id="l567">Assez de Potentats ont voulu rejetter</l>
             <l n="568" xml:id="l568">L’odieux joug des fers qu’on les force à porter.</l>
-            <l n="569" xml:id="l569">Mais quoy que de ce joug l’indignité les <ref target="#gene">gesne*</ref>,</l>
-            <l n="570" xml:id="l570">Leur <ref target="#courage1">courage*</ref> trop mol secondant<note resp="editor"><hi rend="i">Secondant</hi> : servir de second et aider à celuy qui fait quelque action (Furetière).</note> mal leur haine,</l>
+            <l n="569" xml:id="l569">Mais quoy que de ce joug l’indignité les <ref target="#gene">gesne</ref>,</l>
+            <l n="570" xml:id="l570">Leur <ref target="#courage1">courage</ref> trop mol secondant<note resp="editor"><hi rend="i">Secondant</hi> : servir de second et aider à celuy qui fait quelque action (Furetière).</note> mal leur haine,</l>
             <l n="571" xml:id="l571">J’ay veu ces fiers Tyrans impuissamment haïs<note resp="editor"><hi rend="i">Impuissamment haïs</hi> : comprendre que la haine dont Rome fait l’objet n’est suivie d’aucun effet.</note></l>
             <l n="572" xml:id="l572">Triompher jusqu’icy de mes desseins trahis.</l>
-            <l n="573" xml:id="l573">Par une <ref target="#defiance">défiance*</ref> et basse et trop <ref target="#couvert1">couverte*</ref></l>
+            <l n="573" xml:id="l573">Par une <ref target="#defiance">défiance</ref> et basse et trop <ref target="#couvert1">couverte</ref></l>
             <l n="574" xml:id="l574">Antiochus luy-mesme ayant causé sa perte,</l>
             <l n="575" xml:id="l575">J’ay choisi cette Cour, et je m’estois flaté</l>
-            <l n="576" xml:id="l576">D’y trouver moins d’<ref target="#ombrage">ombrage*</ref>, et plus de fermeté.</l>
+            <l n="576" xml:id="l576">D’y trouver moins d’<ref target="#ombrage">ombrage</ref>, et plus de fermeté.</l>
             <l n="577" xml:id="l577">L’accueil de Prusias, ses offres, mes services,</l>
             <l n="578" xml:id="l578">D’un fort attachement m’estoient de seurs indices,</l>
             <l n="579" xml:id="l579">Les plus hardis projets m’enfloient déja le cœur,</l>
@@ -1546,7 +1546,7 @@
             <l n="585" xml:id="l585">Prince, j’apprens par là ce qu’il faut que je fasse,</l>
             <l n="586" xml:id="l586">Je trouve une autre main quand la sienne se lasse,</l>
             <l n="587" xml:id="l587">Attale me reçoit ; prest à s’unir à moy</l>
-            <l n="588" xml:id="l588">Sans craindre mes Tyrans il me donne sa <ref target="#foi">foy*</ref>,</l>
+            <l n="588" xml:id="l588">Sans craindre mes Tyrans il me donne sa <ref target="#foi">foy</ref>,</l>
             <l n="589" xml:id="l589">Il épouse ma Fille, et c’en est là le gage<note resp="editor"><hi rend="i">C’en est là le gage</hi> : le fait qu’Attale épouse Elise est le gage de sa loyauté envers Hannibal.</note>.</l>
             <l n="590" xml:id="l590">Ainsi vous n’aurez plus à leur servir d’ostage,</l>
             <l n="591" xml:id="l591">Et mon depart rompant un ordre rigoureux</l>
@@ -1558,9 +1558,9 @@
             <l n="594" xml:id="l594">Mais sçavez-vous, Seigneur, ce que vous allez faire ?</l>
             <l n="595" xml:id="l595">Je meurs par cet hymen s’il se doit achever,</l>
             <l n="596" xml:id="l596">Et vous m’assassinez en me voulant sauver,</l>
-            <l n="597" xml:id="l597">Ah, pourquoy si long-temps ma trop <ref target="#timide">timide*</ref> flame</l>
-            <l n="598" xml:id="l598">S’est-elle par <ref target="#respect1">respect*</ref> renfermée en mon ame ?</l>
-            <l n="599" xml:id="l599">Mais quoy, mille devoirs, mille <ref target="#soin3">soins*</ref> empressez,</l>
+            <l n="597" xml:id="l597">Ah, pourquoy si long-temps ma trop <ref target="#timide">timide</ref> flame</l>
+            <l n="598" xml:id="l598">S’est-elle par <ref target="#respect1">respect</ref> renfermée en mon ame ?</l>
+            <l n="599" xml:id="l599">Mais quoy, mille devoirs, mille <ref target="#soin3">soins</ref> empressez,</l>
             <l n="600" xml:id="l600">Mes soûpirs, mes langueurs, vous en ont dit assez,</l>
             <l n="601" xml:id="l601">Combien m’avez-vous veu pour la charmante Elise…</l>
           </sp>
@@ -1595,14 +1595,14 @@
             <l n="622" xml:id="l622">Je ne vois que vous seul qui meritiez de l’estre,</l>
             <l n="623" xml:id="l623">Mais pour moy ce merite est un bien imparfait,</l>
             <l n="624" xml:id="l624">C’est peu qu’en estre digne, il faut l’estre en effet<note resp="editor"><hi rend="i">Il faut l’estre en effet</hi> : il faut être roi dans les faits.</note> ;</l>
-            <l n="625" xml:id="l625">Vous dépendez d’un Pere <ref target="#ombrage">ombrageux*</ref>, Politique,</l>
+            <l n="625" xml:id="l625">Vous dépendez d’un Pere <ref target="#ombrage">ombrageux</ref>, Politique,</l>
             <l n="626" xml:id="l626">Jeune<note resp="editor"> Hannibal, au moment de la pièce, a soixante-quatre ans, d’après le dictionnaire de Moreri (MORERI L., <hi rend="i">Le Grand dictionnaire historique</hi>, ou <hi rend="i">Le Mélange curieux de l’Histoire sacrée et profane qui contient en abrégé l’Histoire fabuleuse des dieux et des héros de l’Antiquité païenne</hi>, Paris, Les Libraires Associés, 1759, p. 122-123) : c’est donc un militaire et un politicien chevronné. Prusias, dont on peut estimer l’âge à une quarantaine d’années, est bien plus jeune que lui. </note> encor, défiant, qui craint la Republique.</l>
             <l n="627" xml:id="l627">Vous avez le cœur grand, ferme, resolu, chaud<note resp="editor"><hi rend="i">Chaud</hi> : prompt à s’enflammer.</note>,</l>
-            <l n="628" xml:id="l628">Prompt, hardy ; <ref target="#cependant2">cependant*</ref> c’est un Roy qu’il me faut,</l>
+            <l n="628" xml:id="l628">Prompt, hardy ; <ref target="#cependant2">cependant</ref> c’est un Roy qu’il me faut,</l>
             <l n="629" xml:id="l629">Un puissant Allié qui brûlant de me suivre</l>
             <l n="630" xml:id="l630">Se serve des moments qui me restent à vivre,</l>
             <l n="631" xml:id="l631">Je n’en ay point à perdre, et dans l’âge où je suis</l>
-            <l n="632" xml:id="l632">C’est à moy de presser la fin de mes <ref target="#ennui">ennuis*</ref>.</l>
+            <l n="632" xml:id="l632">C’est à moy de presser la fin de mes <ref target="#ennui">ennuis</ref>.</l>
             <l n="633" xml:id="l633">Perdre un jour, sans chercher à remplir ma vangeance,</l>
             <l n="634" xml:id="l634">Ce seroit avec Rome estre d’intelligence,</l>
             <l n="635" xml:id="l635">Je dois à sa ruine un eternel effort,</l>
@@ -1619,7 +1619,7 @@
             <l n="646" xml:id="l646">Mais je hay les Romains mesme avant que de naistre.</l>
             <l n="647" xml:id="l647">A peine au jour encor j’avois ouvert les yeux</l>
             <l n="648" xml:id="l648">Que j’en juray la perte en presence des Dieux<note resp="editor"> Allusion au serment d’Hannibal, rapporté par Cornelius Nepos (Cornelius Nepos, <hi rend="i">op. cit</hi>., Annibal, II, p. 65-66). En effet, lors de son séjour chez le roi Antiochus III, ce dernier vient à le soupçonner d’intelligence avec l’ennemi : pour le convaincre de sa bonne foi, Hannibal lui raconte comment, à neuf ans, il a prêté devant son père le serment d’une haine éternelle envers Rome.</note>.</l>
-            <l n="649" xml:id="l649">A ces nobles serments j’ay sans <ref target="#reserve">reserve*</ref> aucune</l>
+            <l n="649" xml:id="l649">A ces nobles serments j’ay sans <ref target="#reserve">reserve</ref> aucune</l>
             <l n="650" xml:id="l650">Immolé biens, honneurs, repos, gloire, fortune,</l>
             <l n="651" xml:id="l651">J’ay veu, sans démentir, ce que j’avois promis,</l>
             <l n="652" xml:id="l652">Et ma Patrie ingrate<note resp="editor">L’exil en question commence en 195 av. J.-C., lorsque Rome envoie une ambassade à Carthage pour mettre Hannibal en accusation devant le Conseil des Anciens. Les ennemis que ce dernier s’était faits à Carthage font courir le bruit qu’il n’est pas l’objet de l’ambassade. Cependant, méfiant, Hannibal s’enfuit le soir même, après s’être montré toute la journée dans la ville, sans prévenir ceux qui l’accompagnaient de son départ. Il rejoint le port de Cercina pour gagner Tyr dans la nuit, et se réfugie par la suite chez Antiochus III. </note>, et les Dieux Ennemis.</l>
@@ -1639,13 +1639,13 @@
             <l n="663" xml:id="l663">Et que les tendres feux qu’il renferme au dedans,</l>
             <l n="664" xml:id="l664">Pour estre un peu plus doux, n’en sont pas moins ardents.</l>
             <l n="665" xml:id="l665">Vous verriez que ce cœur ne vit que pour Elise,</l>
-            <l n="666" xml:id="l666">Qu’il immole à ses pieds repos, gloire, <ref target="#franchise">franchise*</ref>,</l>
+            <l n="666" xml:id="l666">Qu’il immole à ses pieds repos, gloire, <ref target="#franchise">franchise</ref>,</l>
             <l n="667" xml:id="l667">Et… pardonnez, Seigneur, à ce transport jaloux,</l>
             <l n="668" xml:id="l668">J’ay pensé dire encore, tout ce qu’il sent pour vous.</l>
             <l n="669" xml:id="l669">Non, non, quelques rigueurs dont vous payiez mon zele,</l>
             <l n="670" xml:id="l670">Ne craignez rien de moy, je vous seray fidelle,</l>
             <l n="671" xml:id="l671">Et periray plûtost que de rendre suspect</l>
-            <l n="672" xml:id="l672">Ce qu’au grand Annibal j’ay juré de <ref target="#respect1">respect*</ref>.</l>
+            <l n="672" xml:id="l672">Ce qu’au grand Annibal j’ay juré de <ref target="#respect1">respect</ref>.</l>
             <l n="673" xml:id="l673">Trop heureux, si mourant pour ne luy pas déplaire,</l>
             <l n="674" xml:id="l674">J’apprens qu’il daigne plaindre un feu qu’il desespere,</l>
             <l n="675" xml:id="l675">Et voir dans ce moment d’un regard de pitié<pb n="30"/></l>
@@ -1672,8 +1672,8 @@
             <speaker>ANNIBAL</speaker>
             <l n="688" xml:id="l688">Et c’est dans ce dessein qu’il vous livre au Senat ?</l>
             <l n="689" xml:id="l689">Je veux bien luy parler, et d’un honteux voyage</l>
-            <l n="690" xml:id="l690">Par mes <ref target="#soin1">soins*</ref>, s’il se peut, vous épargner l’outrage,</l>
-            <l n="691" xml:id="l691">Je puis remettre Attale<note resp="editor"><hi rend="i">Je puis remettre Attale</hi> : je peux différer l’engagement d’Elise à Attale.</note>, et n’engager ma <ref target="#foi">foy*</ref></l>
+            <l n="690" xml:id="l690">Par mes <ref target="#soin1">soins</ref>, s’il se peut, vous épargner l’outrage,</l>
+            <l n="691" xml:id="l691">Je puis remettre Attale<note resp="editor"><hi rend="i">Je puis remettre Attale</hi> : je peux différer l’engagement d’Elise à Attale.</note>, et n’engager ma <ref target="#foi">foy</ref></l>
             <l n="692" xml:id="l692">Qu’aprés que Prusias… laissez-nous, je le voy.</l>
           </sp>
         </div>
@@ -1697,14 +1697,14 @@
             <l n="701" xml:id="l701">Resister un moment à cette souveraine</l>
             <l n="702" xml:id="l702">C’est se mettre au hazard de meriter sa haine,</l>
             <l n="703" xml:id="l703">Et l’horreur du peril où vous courez pour moy</l>
-            <l n="704" xml:id="l704">Avoit dequoy sans doute ébranler vostre <ref target="#foi">foy*</ref><note resp="editor">Il faut imaginer le ton plein d’ironie cinglante d’Hannibal, qui n’est pas dupe un seul instant des propos de Prusias. Le changement de ton doit être patent au vers suivant.</note>.</l>
+            <l n="704" xml:id="l704">Avoit dequoy sans doute ébranler vostre <ref target="#foi">foy</ref><note resp="editor">Il faut imaginer le ton plein d’ironie cinglante d’Hannibal, qui n’est pas dupe un seul instant des propos de Prusias. Le changement de ton doit être patent au vers suivant.</note>.</l>
             <l n="705" xml:id="l705">Mais quand pour Annibal vous monstrez tant de zele,</l>
             <l n="706" xml:id="l706">Faisant beaucoup pour luy, faites vous moins pour elle ?</l>
             <l n="707" xml:id="l707">Vainqueur de toutes parts, il ne faut qu’un Romain</l>
             <l n="708" xml:id="l708">Pour vous faire tomber les armes de la main.</l>
             <l n="709" xml:id="l709">Un seul mot plus puissant que foudres ny tempestes</l>
             <l n="710" xml:id="l710">Vous arrache aussi tost le fruit de vos conquestes,</l>
-            <l n="711" xml:id="l711">Dans vos plus seurs progrez vous <ref target="#arreter1">arreste*</ref> le bras,</l>
+            <l n="711" xml:id="l711">Dans vos plus seurs progrez vous <ref target="#arreter1">arreste</ref> le bras,</l>
             <l n="712" xml:id="l712">Aggrandit vos voisins, resserre vos Estats,</l>
             <l n="713" xml:id="l713">Et vous fait renoncer au gré de ses caprices</l>
             <l n="714" xml:id="l714">A tout ce que pour vous avoient pû mes services,</l>
@@ -1712,7 +1712,7 @@
             <l n="716" xml:id="l716">En dépit des Romains vous gardez Annibal,</l>
             <l n="717" xml:id="l717">Et par une foiblesse indigne d’un grand homme</l>
             <l n="718" xml:id="l718">En dépit d’Annibal vous cedez tout à Rome.</l>
-            <l n="719" xml:id="l719">Fixez, fixez, Seigneur, cette <ref target="#douteux">douteuse*</ref> <ref target="#foi">foy*</ref><note resp="editor"><hi rend="i">Fixez cette douteuse foy</hi> : cessez de balancer et prenez un parti.</note>,</l>
+            <l n="719" xml:id="l719">Fixez, fixez, Seigneur, cette <ref target="#douteux">douteuse</ref> <ref target="#foi">foy</ref><note resp="editor"><hi rend="i">Fixez cette douteuse foy</hi> : cessez de balancer et prenez un parti.</note>,</l>
             <l n="720" xml:id="l720">Declarez vous entier ou pour elle, ou pour moy.</l>
             <l n="721" xml:id="l721">Accorder Annibal avec la Republique</l>
             <l n="722" xml:id="l722">Passe tous les ressorts de vostre Politique,</l>
@@ -1725,7 +1725,7 @@
             <l n="729" xml:id="l729">Est-ce afin de regner avec indépendance</l>
             <l n="730" xml:id="l730">Que vous mettez demain le Prince en leur puissance,</l>
             <l n="731" xml:id="l731">Ou par quelque dessein dont nous verrons l’éclat,</l>
-            <l n="732" xml:id="l732">Va-t’il comme Espion <ref target="#amuser1">amuser*</ref> le Senat ?</l>
+            <l n="732" xml:id="l732">Va-t’il comme Espion <ref target="#amuser1">amuser</ref> le Senat ?</l>
           </sp>
           <sp xml:id="II05-3" who="prusias">
             <speaker>PRUSIAS</speaker>
@@ -1738,9 +1738,9 @@
             <speaker>ANNIBAL</speaker>
             <l n="737" xml:id="l737">Et pourquoy vous sousmettre à l’affront volontaire</l>
             <l n="738" xml:id="l738">De recevoir la loy quand vous la pouviez faire ?</l>
-            <l n="739" xml:id="l739">Toute l’Asie <ref target="#emouvoir">émeuë*</ref>, et presque sous vos loix</l>
+            <l n="739" xml:id="l739">Toute l’Asie <ref target="#emouvoir">émeuë</ref>, et presque sous vos loix</l>
             <l n="740" xml:id="l740">Craignoit en vous déja le plus grand de ses Rois.</l>
-            <l n="741" xml:id="l741">Apres Eumene mort, et son <ref target="#debris2">débris*</ref> funeste</l>
+            <l n="741" xml:id="l741">Apres Eumene mort, et son <ref target="#debris2">débris</ref> funeste</l>
             <l n="742" xml:id="l742">Cent mille bras armez vous promettoient le reste,</l>
             <l n="743" xml:id="l743">Et ce qui flateroit un cœur entreprenant,</l>
             <l n="744" xml:id="l744">Vous aviez Annibal pour vostre Lieutenant.</l>
@@ -1771,8 +1771,8 @@
             <l n="766" xml:id="l766">Par une fausse paix j’écarte la tempeste ;</l>
             <l n="767" xml:id="l767">Pour trouver les Romains à vaincre plus aisez</l>
             <l n="768" xml:id="l768">J’attens par quelque guerre à les voir divisez,</l>
-            <l n="769" xml:id="l769"><ref target="#cependant1">Cependant*</ref> du Sénat dont je crains la puissance</l>
-            <l n="770" xml:id="l770">Luy <ref target="#commission2">commettant*</ref> mon Fils, j’acquiers la confiance,</l>
+            <l n="769" xml:id="l769"><ref target="#cependant1">Cependant</ref> du Sénat dont je crains la puissance</l>
+            <l n="770" xml:id="l770">Luy <ref target="#commission2">commettant</ref> mon Fils, j’acquiers la confiance,</l>
             <l n="771" xml:id="l771">Pour voir Attale à moy je le rends mon égal,</l>
             <l n="772" xml:id="l772">Fais des Amis par tout, et retiens Annibal.</l>
           </sp>
@@ -1795,19 +1795,19 @@
             <l n="787" xml:id="l787">Et je consentirois à rester à ce prix ?<pb n="34"/></l>
             <l n="788" xml:id="l788">Non, non, je vous dois trop pour perdre vostre Fils,</l>
             <l n="789" xml:id="l789">Mais aussi trop d’ardeur à ma vangeance est deuë</l>
-            <l n="790" xml:id="l790">Pour <ref target="#souffrir2">souffrir*</ref> qu’aucun temps en borne l’etenduë.</l>
+            <l n="790" xml:id="l790">Pour <ref target="#souffrir2">souffrir</ref> qu’aucun temps en borne l’etenduë.</l>
             <l n="791" xml:id="l791">Je satisfais à tout en m’éloignant d’icy,</l>
             <l n="792" xml:id="l792">C’est par là que je puis vous tirer de soucy.</l>
             <l n="793" xml:id="l793">Mon depart laissera le Prince en asseurance,</l>
-            <l n="794" xml:id="l794">Ma haine en liberté, Rome sans <ref target="#defiance">défiance*</ref>.</l>
-            <l n="795" xml:id="l795" part="I">Ainsi <ref target="#souffrir1">souffrez*</ref>, Seigneur…</l>
+            <l n="794" xml:id="l794">Ma haine en liberté, Rome sans <ref target="#defiance">défiance</ref>.</l>
+            <l n="795" xml:id="l795" part="I">Ainsi <ref target="#souffrir1">souffrez</ref>, Seigneur…</l>
           </sp>
           <sp xml:id="II05-7" who="prusias">
             <speaker>PRUSIAS</speaker>
             <l part="F">Vouloir quitter un Roy</l>
-            <l n="796" xml:id="l796">Qui ne <ref target="#reserver1">reserve*</ref> rien pour vous prouver sa <ref target="#foi">foy*</ref>,</l>
+            <l n="796" xml:id="l796">Qui ne <ref target="#reserver1">reserve</ref> rien pour vous prouver sa <ref target="#foi">foy</ref>,</l>
             <l n="797" xml:id="l797">Qui vous fait partager la puissance suprême,</l>
-            <l n="798" xml:id="l798"><ref target="#respect2">Respecter*</ref> dans sa Cour à l’égal de luy-mesme,</l>
+            <l n="798" xml:id="l798"><ref target="#respect2">Respecter</ref> dans sa Cour à l’égal de luy-mesme,</l>
             <l n="799" xml:id="l799" part="I">Et pour vostre repos…</l>
           </sp>
           <sp xml:id="II05-8" who="annibal">
@@ -1823,7 +1823,7 @@
             <l n="807" xml:id="l807">Et jouy des honneurs dont le traité de paix</l>
             <l n="808" xml:id="l808">Laissoit parmy les miens le choix à mes souhaits<note resp="editor">Ces propos rendent évident le parallèle entre les personnages d’Hannibal et de Prusias : Hannibal, en effet, rejette ici catégoriquement tout ce que représente le roi de Bithynie. Car ce qui touche ce dernier, en fin de compte, est bel et bien « l’ardeur du repos » : il ne veut que vivre heureux au sein de sa patrie, sans s’opposer à Rome. L’évocation du traité de paix conclu entre Rome et Carthage, d’ailleurs, n’est pas sans rappeler celui que vient de conclure Prusias avec Attale. L’identité des situations rend donc l’opposition des deux personnages encore plus patente. Le parallèle qu’esquisse ici Thomas Corneille se retrouvera à la fin de la pièce, lorsque, tous deux confrontés à la mort, l’un mourra glorieusement, et l’autre de façon infamante. </note> ;</l>
             <l n="809" xml:id="l809">Mais Rome, pour avoir triomphé de Cartage,</l>
-            <l n="810" xml:id="l810">N’avoit pas d’Annibal surmonté<note resp="editor"><hi rend="i">Surmonter</hi> : triompher.</note> le <ref target="#courage1">courage*</ref>,</l>
+            <l n="810" xml:id="l810">N’avoit pas d’Annibal surmonté<note resp="editor"><hi rend="i">Surmonter</hi> : triompher.</note> le <ref target="#courage1">courage</ref>,</l>
             <l n="811" xml:id="l811">L’Afrique n’osant plus lui faire d’Ennemis,</l>
             <l n="812" xml:id="l812">Pour l’attaquer d’ailleurs il se croit tout permis,</l>
             <l n="813" xml:id="l813">Et son Païs n’a point de douceur qui l’entraîne<note resp="editor"><hi rend="i">Et son Païs n’a point de douceur qui l’entraîne</hi> : Carthage n’a rien qui séduise Hannibal si elle ne défie plus  Rome.</note></l>
@@ -1840,7 +1840,7 @@
           <stage>PRUSIAS, ARAXE.</stage>
           <sp xml:id="II06-1" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l n="820" xml:id="l820">A quoy le Ciel encor me veut-il <ref target="#reserver2">reserver*</ref> ?</l>
+            <l n="820" xml:id="l820">A quoy le Ciel encor me veut-il <ref target="#reserver2">reserver</ref> ?</l>
             <l n="821" xml:id="l821">Pour garder Annibal en faveur de ma flame,</l>
             <l n="822" xml:id="l822">J’ose exiler mon Fils, j’en accepte le blâme,</l>
             <l n="823" xml:id="l823">Et contre mon attente, un interest fatal,</l>
@@ -1850,7 +1850,7 @@
             <l n="827" xml:id="l827">Et ménageons si bien l’éclat de son couroux,</l>
             <l n="828" xml:id="l828">Qu’Annibal soit reduit à n’esperer qu’en nous.</l>
           </sp>
-          <label rend="i">Fin du second Acte.</label>
+          <trailer rend="i">Fin du second Acte.</trailer>
         </div>
       </div>
       <div xml:id="III" type="act">
@@ -1861,12 +1861,12 @@
           <stage>ATTALE, ELISE, ALCINE.</stage>
           <sp xml:id="III01-1" who="attale">
             <speaker>ATTALE</speaker>
-            <l n="829" xml:id="l829">Qu’obtiendra mon <ref target="#respect2">respect*</ref> ? vous le voyez, Madame,</l>
+            <l n="829" xml:id="l829">Qu’obtiendra mon <ref target="#respect2">respect</ref> ? vous le voyez, Madame,</l>
             <l n="830" xml:id="l830">Je viens mettre à vos pieds mon espoir et ma flame,<note resp="editor"><hi rend="i">Var. 1692</hi> : flame.</note></l>
             <l n="831" xml:id="l831">Si l’une a sceu borner mon espoir le plus doux</l>
             <l n="832" xml:id="l832">Je ne puis consentir à l’autre malgré vous,</l>
             <l n="833" xml:id="l833">Et du plus heureux sort je fuirois l’asseurance</l>
-            <l n="834" xml:id="l834">S’il coustoit à vos <ref target="#voeux">vœux*</ref> la moindre violence,</l>
+            <l n="834" xml:id="l834">S’il coustoit à vos <ref target="#voeux">vœux</ref> la moindre violence,</l>
             <l n="835" xml:id="l835">Ainsi quoi qu’Annibal m’ait permis d’esperer…</l>
           </sp>
           <sp xml:id="III01-2" who="elise">
@@ -1888,7 +1888,7 @@
             <l n="850" xml:id="l850">De haïr un Epoux s’il enduroit un Maistre<note resp="editor"> Laodice déclarera, dans la même veine : « Je ne veux point de rois qui sachent obéir » (CORNEILLE P., <hi rend="i">Nicomède</hi>, III, 2, v. 898, in éd. cit., t. 2, p. 676).</note>.</l>
             <l n="851" xml:id="l851">Ne vous exposez point à l’affront de me voir</l>
             <l n="852" xml:id="l852">Maintenir malgré vous le suprême pouvoir,</l>
-            <l n="853" xml:id="l853">Et si vous vous sentez et l’ame et le <ref target="#courage2">courage*</ref></l>
+            <l n="853" xml:id="l853">Et si vous vous sentez et l’ame et le <ref target="#courage2">courage</ref></l>
             <l n="854" xml:id="l854">Par de basses frayeurs tournez à l’esclavage<note resp="editor"><hi rend="i">Et si vous vous sentez et l’ame et le courage / Par de basses frayeurs tournez à l’esclavage</hi> : ici, le terme « tournez » est un participe passé au pluriel, et non un impératif de deuxième personne du pluriel. Ce sont donc « l’âme et le courage » d’Attale qui sont censés être « tournés vers l’esclavage ». Le véritable impératif de la phrase est le verbe « renoncez », au vers suivant.</note>,</l>
             <l n="855" xml:id="l855">Renoncez à des nœuds qui pourroient vous trahir</l>
             <l n="856" xml:id="l856">Jusqu’à vous dérober la honte d’obeïr.</l>
@@ -1898,11 +1898,11 @@
             <l n="857" xml:id="l857">Que Rome à sa fierté jamais m’assujetisse !</l>
             <l n="858" xml:id="l858">Que mon cœur se ravale à s’en faire complice,</l>
             <l n="859" xml:id="l859">Et qu’assis sur ce Trône où j’aspire à vous voir</l>
-            <l n="860" xml:id="l860">Je m’y laisse <ref target="#eblouir2">ébloüir*</ref> d’un tiltre sans pouvoir !</l>
+            <l n="860" xml:id="l860">Je m’y laisse <ref target="#eblouir2">ébloüir</ref> d’un tiltre sans pouvoir !</l>
             <l n="861" xml:id="l861">Madame, jugez mieux de l’ardeur qui m’enflame,</l>
             <l n="862" xml:id="l862">L’orgueil d’un si beau feu répond d’une belle ame,</l>
             <l n="863" xml:id="l863">Et l’honneur de prétendre à vos divins appas</l>
-            <l n="864" xml:id="l864">Dans qui vous ose aimer ne <ref target="#souffrir3">souffre*</ref> rien de bas.<note resp="editor"><hi rend="i">Var. 1692</hi> : bas,</note></l>
+            <l n="864" xml:id="l864">Dans qui vous ose aimer ne <ref target="#souffrir3">souffre</ref> rien de bas.<note resp="editor"><hi rend="i">Var. 1692</hi> : bas,</note></l>
             <l n="865" xml:id="l865">Ainsi ne craignez point qu’aucune dépendance</l>
             <l n="866" xml:id="l866">Me fasse démentir les droits de ma naissance.</l>
             <l n="867" xml:id="l867">De l’éclat de mon rang ce cœur vrayment jaloux,</l>
@@ -1932,7 +1932,7 @@
             <l n="887" xml:id="l887">Ce cœur fera soudain vanité d’obeïr,</l>
             <l n="888" xml:id="l888">Mais bien moins pour aimer qu’afin de mieux haïr,</l>
             <l n="889" xml:id="l889">C’est le seul interest où ma gloire m’engage,</l>
-            <l n="890" xml:id="l890">Voir un Roy craindre Rome irrite mon <ref target="#courage1">courage*</ref><note resp="editor"> On retrouve la même indignation devant l’abaissement des rois chez le Nicomède de Pierre Corneille, lorsqu’il déclare : « Je ne puis voir sous eux les rois humiliés » (CORNEILLE P., <hi rend="i">Nicomède</hi>, II, 3, v. 565, in éd. cit., t. 2, p. 665). </note>,</l>
+            <l n="890" xml:id="l890">Voir un Roy craindre Rome irrite mon <ref target="#courage1">courage</ref><note resp="editor"> On retrouve la même indignation devant l’abaissement des rois chez le Nicomède de Pierre Corneille, lorsqu’il déclare : « Je ne puis voir sous eux les rois humiliés » (CORNEILLE P., <hi rend="i">Nicomède</hi>, II, 3, v. 565, in éd. cit., t. 2, p. 665). </note>,</l>
             <l n="891" xml:id="l891">Et l’Espoux me plaira<note resp="editor"><hi rend="i">Et l’Espoux me plaira, dont l’intrepidité / M’offrira les moyens d’en braver la fierté</hi> : il me plaira de prendre pour époux celui qui me donnera les moyens de braver Rome.</note>, dont l’intrepidité</l>
             <l n="892" xml:id="l892">M’offrira les moyens d’en braver la fierté.</l>
           </sp>
@@ -1965,9 +1965,9 @@
             <l n="903" xml:id="l903">Le zele qui paroist souvent le plus parfait</l>
             <l n="904" xml:id="l904">Lors que Rome a parlé demeure sans effet,</l>
             <l n="905" xml:id="l905">Et si j’avois promis, je verrois avec peine</l>
-            <l n="906" xml:id="l906">Qu’à me tenir parole on sentist quelque <ref target="#gene">gesne*</ref>.</l>
+            <l n="906" xml:id="l906">Qu’à me tenir parole on sentist quelque <ref target="#gene">gesne</ref>.</l>
             <l n="907" xml:id="l907">Voyez Flaminius ; sur ce qu’il vous dira</l>
-            <l n="908" xml:id="l908">Peut-estre en vostre cœur l’amour <ref target="#allentir">s’allentira*</ref>.</l>
+            <l n="908" xml:id="l908">Peut-estre en vostre cœur l’amour <ref target="#allentir">s’allentira</ref>.</l>
             <l n="909" xml:id="l909">Le grand nom d’Allié que le Senat vous donne…</l>
           </sp>
           <sp xml:id="III02-3" who="attale">
@@ -1977,15 +1977,15 @@
           </sp>
           <sp xml:id="III02-4" who="annibal">
             <speaker>ANNIBAL</speaker>
-            <l n="912" xml:id="l912">Vous vous <ref target="#expliquer">expliquerez*</ref>, voicy Flaminius.</l>
+            <l n="912" xml:id="l912">Vous vous <ref target="#expliquer">expliquerez</ref>, voicy Flaminius.</l>
           </sp>
         </div>
         <div type="scene" xml:id="III03">
           <head>SCENE III.</head>
           <stage>FLAMINIUS, ANNIBAL, ATTALE.</stage>
           <sp xml:id="III03-1" who="flaminius">
-            <speaker>FLAMINIUS, <hi rend="i">à Attale</hi></speaker>
-            <l n="913" xml:id="l913">Seigneur, par le pouvoir qu’on m’a daigné <ref target="#commission1">commettre*</ref></l>
+            <speaker>FLAMINIUS, </speaker><stage>à Attale</stage>
+            <l n="913" xml:id="l913">Seigneur, par le pouvoir qu’on m’a daigné <ref target="#commission1">commettre</ref></l>
             <l n="914" xml:id="l914">Jusques dans vos Estats j’aurois dû vous remettre,</l>
             <l n="915" xml:id="l915">Mais je vous voy partir trop bien accompagné</l>
             <l n="916" xml:id="l916">Pour ne m’en croire pas le voyage épargné<note resp="editor">Comprendre : vous partez si bien accompagné qu’il n’est pas la peine que je vous escorte à Pergame.</note>,</l>
@@ -1998,7 +1998,7 @@
             <pb n="40"/>
             <l n="920" xml:id="l920">Je ne sçay pas, Seigneur, ce que l’on vous a dit,</l>
             <l n="921" xml:id="l921">Mais ce que je vous dois m’asseure trop de gloire</l>
-            <l n="922" xml:id="l922">Pour <ref target="#souffrir2">souffrir*</ref> que jamais j’en perde la memoire,</l>
+            <l n="922" xml:id="l922">Pour <ref target="#souffrir2">souffrir</ref> que jamais j’en perde la memoire,</l>
             <l n="923" xml:id="l923">Vous trouverez en moy toûjours un zele égal,</l>
             <l n="924" xml:id="l924">Et si dans mes Estats je reçois Annibal,</l>
             <l n="925" xml:id="l925">Comme j’agis par tout d’un cœur franc et sincere</l>
@@ -2009,7 +2009,7 @@
             <l n="927" xml:id="l927">Dans le sein de la guerre ayant toûjours vescu</l>
             <l n="928" xml:id="l928">Il vous apprendra l’art de n’estre plus vaincu,</l>
             <l n="929" xml:id="l929">Et quelques Ennemis qui pensent vous abatre</l>
-            <l n="930" xml:id="l930">Pour triompher <ref target="#abord1">d’abord*</ref> vous n’aurez qu’à combatre.</l>
+            <l n="930" xml:id="l930">Pour triompher <ref target="#abord1">d’abord</ref> vous n’aurez qu’à combatre.</l>
           </sp>
           <sp xml:id="III03-4" who="annibal">
             <speaker>ANNIBAL</speaker>
@@ -2030,42 +2030,42 @@
             <l n="939" xml:id="l939">Pour peu qu’en mes leçons il se fust affermy</l>
             <l n="940" xml:id="l940">Il vous eust mis en teste<note resp="editor"><hi rend="i">Mis en teste</hi> : On dit mettre un homme en tête à quelqu’un pour dire : lui opposer quelqu’un qui puisse lui résister (Académie). </note> un facheux Ennemy,</l>
             <l n="941" xml:id="l941">Mais son insuffisance à les mettre en usage</l>
-            <l n="942" xml:id="l942">Vous a vendu sa gloire, et livré son <ref target="#courage1">courage*</ref>.</l>
+            <l n="942" xml:id="l942">Vous a vendu sa gloire, et livré son <ref target="#courage1">courage</ref>.</l>
           </sp>
           <sp xml:id="III03-7" who="flaminius">
             <speaker>FLAMINIUS</speaker>
             <l n="943" xml:id="l943">Leur pratique est en vous ce qu’il faut admirer,</l>
             <l n="944" xml:id="l944">De Royaume en Royaume elle vous fait errer,</l>
             <l n="945" xml:id="l945">Et chercher dans l’exil tout ce que l’on peut croire</l>
-            <l n="946" xml:id="l946">Que doive un grand <ref target="#courage1">courage*</ref> au soucy de sa gloire<note resp="editor"><hi rend="i">Et chercher dans l’exil tout ce que l’on peut croire / Que doive un grand courage au soucy de sa gloire</hi> : vous cherchez dans l’exil ce qu’un cœur valeureux, dit-on, doit à sa gloire. </note>.</l>
+            <l n="946" xml:id="l946">Que doive un grand <ref target="#courage1">courage</ref> au soucy de sa gloire<note resp="editor"><hi rend="i">Et chercher dans l’exil tout ce que l’on peut croire / Que doive un grand courage au soucy de sa gloire</hi> : vous cherchez dans l’exil ce qu’un cœur valeureux, dit-on, doit à sa gloire. </note>.</l>
           </sp>
           <sp xml:id="III03-8" who="annibal">
             <speaker>ANNIBAL</speaker>
             <pb n="41"/>
             <l n="947" xml:id="l947">Cet exil qui déja m’a fait voir tant d’Estats</l>
-            <l n="948" xml:id="l948">Vous couste quelques <ref target="#soin2">soins*</ref> que vous ne dites pas,</l>
+            <l n="948" xml:id="l948">Vous couste quelques <ref target="#soin2">soins</ref> que vous ne dites pas,</l>
             <l n="949" xml:id="l949">Et pour tenir vostre ame en tous lieux alarmée,</l>
             <l n="950" xml:id="l950">C’est beaucoup d’Annibal, et mesme sans armée.</l>
           </sp>
           <sp xml:id="III03-9" who="flaminius">
             <speaker>FLAMINIUS</speaker>
-            <l n="951" xml:id="l951">On doit craindre en effet le <ref target="#bonheur3">bonheur*</ref> qui le suit<note resp="editor"><hi rend="i">Suit</hi> : la graphie ancienne du « s » en début ou milieu de mot étant presque semblable au « f », deux interprétations sont possibles. Nous avons employé ici la graphie « s », qui apparaît dans l’édition d’origine : Flaminius, en ce cas, ironise avec beaucoup de subtilité, et fait mine de s’accorder avec Hannibal pour dire qu’il faut craindre les prétendus succès qu’il remporte, ce qui correspond plus au ton de la scène. Si l’on adopte l’autre graphie, que l’on trouve dans certaines éditions ultérieures, l’ironie est moins fine, mais plus cinglante : on comprend que Rome n’a tout simplement pas à craindre Hannibal, puisque le succès le fuit. </note>,</l>
+            <l n="951" xml:id="l951">On doit craindre en effet le <ref target="#bonheur3">bonheur</ref> qui le suit<note resp="editor"><hi rend="i">Suit</hi> : la graphie ancienne du « s » en début ou milieu de mot étant presque semblable au « f », deux interprétations sont possibles. Nous avons employé ici la graphie « s », qui apparaît dans l’édition d’origine : Flaminius, en ce cas, ironise avec beaucoup de subtilité, et fait mine de s’accorder avec Hannibal pour dire qu’il faut craindre les prétendus succès qu’il remporte, ce qui correspond plus au ton de la scène. Si l’on adopte l’autre graphie, que l’on trouve dans certaines éditions ultérieures, l’ironie est moins fine, mais plus cinglante : on comprend que Rome n’a tout simplement pas à craindre Hannibal, puisque le succès le fuit. </note>,</l>
             <stage>A Attale.</stage>
             <l n="952" xml:id="l952">Mais faites-moy raison, Seigneur, d’un autre bruit,</l>
             <l n="953" xml:id="l953">On dit que vous songez à faire Elise Reyne.</l>
           </sp>
           <sp xml:id="III03-10" who="annibal">
-            <speaker>ANNIBAL, <hi rend="i">à Attale.</hi></speaker>
-            <l n="954" xml:id="l954">Que ma presence n’ait, Seigneur, rien qui vous <ref target="#gene">gesne*</ref>,</l>
+            <speaker>ANNIBAL, </speaker><stage>à Attale.</stage>
+            <l n="954" xml:id="l954">Que ma presence n’ait, Seigneur, rien qui vous <ref target="#gene">gesne</ref>,</l>
             <l n="955" xml:id="l955" part="I">Vous sçavez que…</l>
           </sp>
           <sp xml:id="III03-11" who="attale">
-            <speaker>ATTALE, <hi rend="i">à Annibal.</hi></speaker>
-            <l part="F">Seigneur, donnez-moy vostre <ref target="#aveu2">aveu*</ref>,</l>
+            <speaker>ATTALE, </speaker><stage>à Annibal.</stage>
+            <l part="F">Seigneur, donnez-moy vostre <ref target="#aveu2">aveu</ref>,</l>
             <l n="956" xml:id="l956">Et l’hymen dés demain couronnera mon feu.</l>
           </sp>
           <sp xml:id="III03-12" who="annibal">
-            <speaker>ANNIBAL, <hi rend="i">à Flaminius.</hi></speaker>
+            <speaker>ANNIBAL, </speaker><stage>à Flaminius.</stage>
             <l n="957" xml:id="l957">Vous voyez que malgré les malheurs qu’on m’oppose</l>
             <l n="958" xml:id="l958">L’honneur d’estre mon Gendre est encor quelque chose.</l>
           </sp>
@@ -2083,7 +2083,7 @@
           <sp xml:id="III03-14" who="annibal">
             <speaker>ANNIBAL</speaker>
             <l n="966" xml:id="l966">Pour moy, j’ignore l’art de contraindre personne,</l>
-            <l n="967" xml:id="l967">Et sans m’<ref target="#inquietude">inquieter*</ref> de ce qu’il resoudra</l>
+            <l n="967" xml:id="l967">Et sans m’<ref target="#inquietude">inquieter</ref> de ce qu’il resoudra</l>
             <l n="968" xml:id="l968">Je luy laisse à son choix tout le temps qu’il voudra.</l>
             <l n="969" xml:id="l969">Au moins suis-je asseuré que par mon alliance<pb n="42"/></l>
             <l n="970" xml:id="l970">Il craindra peu l’affront de trahir sa naissance,</l>
@@ -2107,10 +2107,10 @@
           <head>SCENE IV.</head>
           <stage>ANNIBAL, PRUSIAS, FLAMINIUS, ATTALE, ARAXE.</stage>
           <sp xml:id="III04-1" who="annibal">
-            <speaker>ANNIBAL, <hi rend="i">à Prusias.</hi></speaker>
+            <speaker>ANNIBAL, </speaker><stage>à Prusias.</stage>
             <l n="979" xml:id="l979">Parlez, Seigneur, enfin qu’avez-vous resolu ?</l>
             <l n="980" xml:id="l980">Vostre Rome aura-t’elle un pouvoir absolu ?</l>
-            <l n="981" xml:id="l981"><ref target="#obliger1">Obligez</ref>-vous* le Prince à faire le voyage ?</l>
+            <l n="981" xml:id="l981"><ref target="#obliger1">Obligez</ref>-vous le Prince à faire le voyage ?</l>
           </sp>
           <sp xml:id="III04-2" who="prusias">
             <speaker>PRUSIAS</speaker>
@@ -2139,12 +2139,12 @@
             <l n="988" xml:id="l988">Un reproche si dur à ma fidelité.</l>
             <l n="989" xml:id="l989">L’ardeur qui la soûtient le rend peu legitime,</l>
             <l n="990" xml:id="l990">Je reçois Annibal, mais ce n’est pas un crime,</l>
-            <l n="991" xml:id="l991">Ou vers Rome par là si je noircis ma <ref target="#foi">foy*</ref><note resp="editor"><hi rend="i">Si je noircis ma foy</hi> : si je trahis Rome.</note>,</l>
+            <l n="991" xml:id="l991">Ou vers Rome par là si je noircis ma <ref target="#foi">foy</ref><note resp="editor"><hi rend="i">Si je noircis ma foy</hi> : si je trahis Rome.</note>,</l>
             <l n="992" xml:id="l992">Croirez-vous Prusias moins coupable que moy ?</l>
             <l n="993" xml:id="l993">D’Antiochus à peine il apprit la défaite</l>
-            <l n="994" xml:id="l994">Qu’à ce mesme Annibal il accorda <ref target="#retraite2">retraite*</ref>,</l>
-            <l n="995" xml:id="l995">Le receut tout fumant de ce fameux <ref target="#debris1">débris*</ref><note resp="editor">Attale fait allusion à la défaite d’Hannibal face aux Rhodiens au large des côtes de Pamphylie, en 190 av. J.-C.</note>.</l>
-            <l n="996" xml:id="l996"><ref target="#cependant2">Cependant*</ref> ce qu’il fit blessa-t’il les esprits ?</l>
+            <l n="994" xml:id="l994">Qu’à ce mesme Annibal il accorda <ref target="#retraite2">retraite</ref>,</l>
+            <l n="995" xml:id="l995">Le receut tout fumant de ce fameux <ref target="#debris1">débris</ref><note resp="editor">Attale fait allusion à la défaite d’Hannibal face aux Rhodiens au large des côtes de Pamphylie, en 190 av. J.-C.</note>.</l>
+            <l n="996" xml:id="l996"><ref target="#cependant2">Cependant</ref> ce qu’il fit blessa-t’il les esprits ?</l>
             <l n="997" xml:id="l997">Vous parut-il suspect de pratiques secretes ?</l>
           </sp>
           <sp xml:id="III05-3" who="prusias">
@@ -2156,7 +2156,7 @@
             <l n="1002" xml:id="l1002">Trouver quelque autre Roy qui s’en laissast seduire,</l>
             <l n="1003" xml:id="l1003">J’estois maistre en ma Cour de son ressentiment,</l>
             <l n="1004" xml:id="l1004">Ainsi je le receus, mais sans attachement,</l>
-            <l n="1005" xml:id="l1005">Et l’on me voit pour Rome une <ref target="#foi">foy*</ref> trop sincere    </l>
+            <l n="1005" xml:id="l1005">Et l’on me voit pour Rome une <ref target="#foi">foy</ref> trop sincere    </l>
             <l n="1006" xml:id="l1006">Pour douter des motifs de ce que j’osay faire.</l>
           </sp>
           <sp xml:id="III05-4" who="attale">
@@ -2165,7 +2165,7 @@
             <l n="1007" xml:id="l1007">Ce zele si vanté dont vous estes jaloux</l>
             <l n="1008" xml:id="l1008">N’est pas moins fort en moy qu’il pourroit l’estre en vous.</l>
             <l n="1009" xml:id="l1009">Et quand vers Annibal ma parole m’engage</l>
-            <l n="1010" xml:id="l1010">Rome n’a pas plus lieu d’en prendre de l’<ref target="#ombrage">ombrage*</ref>.</l>
+            <l n="1010" xml:id="l1010">Rome n’a pas plus lieu d’en prendre de l’<ref target="#ombrage">ombrage</ref>.</l>
           </sp>
           <sp xml:id="III05-5" who="prusias">
             <speaker>PRUSIAS</speaker>
@@ -2174,7 +2174,7 @@
           <sp xml:id="III05-6" who="attale">
             <speaker>ATTALE</speaker>
             <l n="1012" xml:id="l1012">Vous voyez toutefois qu’il y veut renoncer,</l>
-            <l n="1013" xml:id="l1013">Et que dans vostre <ref target="#foi">foy*</ref> le vif éclat qui brille</l>
+            <l n="1013" xml:id="l1013">Et que dans vostre <ref target="#foi">foy</ref> le vif éclat qui brille</l>
             <l n="1014" xml:id="l1014" part="I">Ne sçauroit…</l>
           </sp>
           <sp xml:id="III05-7" who="prusias">
@@ -2214,7 +2214,7 @@
             <l n="1034" xml:id="l1034">Trancher du Souverain<note resp="editor"><hi rend="i">Trancher du Souverain</hi> : décider en souverain. L’expression peut revêtir un sens ironique : « Trencher se dit encore ironiquement des fanfarons, de ceux qui affectent de paroistre un peu plus qu’ils ne sont » (Furetière).</note>, ordonner de vous-mesme<note resp="editor"> Écho au propos du Prusias de Pierre Corneille : « Qui tranche trop du roi ne règne pas longtemps » (CORNEILLE P., <hi rend="i">Nicomède</hi>, III, 1, v. 749, in éd. cit., t. 2, p. 671).</note>,</l>
             <l n="1035" xml:id="l1035">Et sans songer par qui Pergame est sous vos loix</l>
             <l n="1036" xml:id="l1036">Vostre amour pretend faire une Reine à son choix ?</l>
-            <l n="1037" xml:id="l1037">C’est donc là le <ref target="#respect1">respect*</ref> que vous portez à Rome ?</l>
+            <l n="1037" xml:id="l1037">C’est donc là le <ref target="#respect1">respect</ref> que vous portez à Rome ?</l>
             <l n="1038" xml:id="l1038">Ignorez-vous qu’un Roy chez elle n’est qu’un homme,</l>
             <l n="1039" xml:id="l1039">Et que pour renverser les plus grands Potentats,</l>
             <l n="1040" xml:id="l1040">Elle n’a tout à coup qu’à retirer le bras ?    </l>
@@ -2226,7 +2226,7 @@
             <l n="1046" xml:id="l1046">Ne vaut pas se priver d’un objet qu’on adore,</l>
             <l n="1047" xml:id="l1047">Et cet honneur n’a rien que ne laisse terny</l>
             <l n="1048" xml:id="l1048">Le nom rare et pompeux de Gendre d’un Banny ?</l>
-            <l n="1049" xml:id="l1049">N’en croyez que l’amour, et sans <ref target="#inquietude">inquietude*</ref></l>
+            <l n="1049" xml:id="l1049">N’en croyez que l’amour, et sans <ref target="#inquietude">inquietude</ref></l>
             <l n="1050" xml:id="l1050">Accordez tout contre elle<note resp="editor"><hi rend="i">Elle</hi> : il s’agit de Rome. Il faut donc comprendre : cédez à votre amour, aux dépens de Rome.</note> à vostre ingratitude,</l>
             <l n="1051" xml:id="l1051">Le temps vous apprendra s’il vous estoit permis</l>
             <l n="1052" xml:id="l1052">De vous unir contre elle avec ses ennemis.</l>
@@ -2242,7 +2242,7 @@
             <l n="1059" xml:id="l1059">Il sçaura contre vous soustenir mieux que moy</l>
             <l n="1060" xml:id="l1060">Et la splendeur du Trône, et le tiltre de Roy.</l>
             <l n="1061" xml:id="l1061">Au regard d’Annibal, et de l’Hymen d’Elise,</l>
-            <l n="1062" xml:id="l1062">Advoüant mon amour j’ay montré ma <ref target="#franchise">franchise*</ref><note resp="editor"><hi rend="i">Advoüant mon amour, j’ay montré ma franchise</hi> : en déclarant mon amour pour Élise, j’ai montré que j’étais libre de prendre mes décisions moi-même, sans me soumettre à l’arbitrage de Rome.</note>,</l>
+            <l n="1062" xml:id="l1062">Advoüant mon amour j’ay montré ma <ref target="#franchise">franchise</ref><note resp="editor"><hi rend="i">Advoüant mon amour, j’ay montré ma franchise</hi> : en déclarant mon amour pour Élise, j’ai montré que j’étais libre de prendre mes décisions moi-même, sans me soumettre à l’arbitrage de Rome.</note>,</l>
             <l n="1063" xml:id="l1063">Et s’il doit m’attirer les foudres du Senat<pb n="46"/></l>
             <l n="1064" xml:id="l1064">Vous m’en donnez l’avis, j’en attendray l’éclat,</l>
             <l n="1065" xml:id="l1065">Voyez bien seulement si j’en paroistray digne<note resp="editor"><hi rend="i">Voyez bien seulement si j’en paroistray digne</hi> : examinez bien si je mérite réellement d’être puni.</note>.</l>
@@ -2258,7 +2258,7 @@
             <l n="1068" xml:id="l1068">De ma fidelité me peut ravir le fruit,</l>
             <l n="1069" xml:id="l1069">Vous troubler<note resp="editor"><hi rend="i">Vous troubler</hi> : être une source de difficultés pour Rome.</note> chez Attale ; et de cette entreprise</l>
             <l n="1070" xml:id="l1070">J’empescherois le coup en retenant Elise,</l>
-            <l n="1071" xml:id="l1071">Parlez, et dans ma Cour je la fais <ref target="#arreter3">arrester*</ref>.</l>
+            <l n="1071" xml:id="l1071">Parlez, et dans ma Cour je la fais <ref target="#arreter3">arrester</ref>.</l>
           </sp>
           <sp xml:id="III06-2" who="flaminius">
             <speaker>FLAMINIUS</speaker>
@@ -2267,7 +2267,7 @@
             <l n="1074" xml:id="l1074">Du procédé d’Attale, et de vostre conduite.</l>
             <l n="1075" xml:id="l1075">Mais vous défendrez-vous d’admirer avec moy</l>
             <l n="1076" xml:id="l1076">Jusqu’où l’orgueil du Trône enfle ce jeune Roy ?</l>
-            <l n="1077" xml:id="l1077">Pour l’empescher d’aimer il n’est rien qui l’<ref target="#etonner">étonne*</ref>.</l>
+            <l n="1077" xml:id="l1077">Pour l’empescher d’aimer il n’est rien qui l’<ref target="#etonner">étonne</ref>.</l>
           </sp>
           <sp xml:id="III06-3" who="prusias">
             <speaker>PRUSIAS</speaker>
@@ -2275,7 +2275,7 @@
             <l n="1079" xml:id="l1079">Il est jeune, et l’amour qu’anime la fierté</l>
             <l n="1080" xml:id="l1080">Va plus loin quelquefois que l’on n’a projetté.</l>
             <l n="1081" xml:id="l1081">Ainsi voyez, Seigneur, ce que Rome hazarde</l>
-            <l n="1082" xml:id="l1082" part="I">A <ref target="#souffrir2">souffrir*</ref> qu’Annibal…</l>
+            <l n="1082" xml:id="l1082" part="I">A <ref target="#souffrir2">souffrir</ref> qu’Annibal…</l>
           </sp>
           <sp xml:id="III06-4" who="flaminius">
             <speaker>FLAMINIUS</speaker>
@@ -2293,7 +2293,7 @@
             <l n="1093" xml:id="l1093">Son amour satisfait, sans doute il aura peine</l>
             <l n="1094" xml:id="l1094">A vouloir faire teste à la grandeur Romaine,</l>
             <l n="1095" xml:id="l1095">Et sur cet hymenée où je le voy porté</l>
-            <l n="1096" xml:id="l1096">Sa <ref target="#foi">foy*</ref> nous répondra de sa sincerité.</l>
+            <l n="1096" xml:id="l1096">Sa <ref target="#foi">foy</ref> nous répondra de sa sincerité.</l>
           </sp>
           <sp xml:id="III06-5" who="prusias">
             <speaker>PRUSIAS</speaker>
@@ -2343,7 +2343,7 @@
           </sp>
           <sp xml:id="III06-13" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l n="1117" xml:id="l1117">Le mien ne promet rien que ma <ref target="#foi">foy*</ref> n’accomplisse.</l>
+            <l n="1117" xml:id="l1117">Le mien ne promet rien que ma <ref target="#foi">foy</ref> n’accomplisse.</l>
           </sp>
           <sp xml:id="III06-14" who="flaminius">
             <speaker>FLAMINIUS</speaker>
@@ -2362,7 +2362,7 @@
           <sp xml:id="III06-17" who="prusias">
             <speaker>PRUSIAS</speaker>
             <l n="1122" xml:id="l1122">Et bien, j’aime, Seigneur, puisqu’il faut vous le dire,</l>
-            <l n="1123" xml:id="l1123">Joüissez d’un <ref target="#aveu1">aveu*</ref> qu’il vous plaist d’arracher.</l>
+            <l n="1123" xml:id="l1123">Joüissez d’un <ref target="#aveu1">aveu</ref> qu’il vous plaist d’arracher.</l>
           </sp>
           <sp xml:id="III06-18" who="flaminius">
             <speaker>FLAMINIUS</speaker>
@@ -2379,9 +2379,9 @@
             <l n="1131" xml:id="l1131">Mais enfin aujourd’huy que vous me faites voir</l>
             <l n="1132" xml:id="l1132">Que cet amour n’a rien qui blesse mon devoir,</l>
             <l n="1133" xml:id="l1133">Et que par un motif que Rome favorise<note resp="editor"><hi rend="i">Et que par un motif que Rome favorise</hi> : et que, poussé par un motif approuvé par Rome…</note><pb n="E 49"/></l>
-            <l n="1134" xml:id="l1134">Je puis vous <ref target="#obliger2">obliger*</ref> en épousant Elise,</l>
+            <l n="1134" xml:id="l1134">Je puis vous <ref target="#obliger2">obliger</ref> en épousant Elise,</l>
             <l n="1135" xml:id="l1135">Je rappelle des feux dont les charmes trop doux</l>
-            <l n="1136" xml:id="l1136">N’avoient esté bannis que par <ref target="#respect1">respect*</ref> pour vous,</l>
+            <l n="1136" xml:id="l1136">N’avoient esté bannis que par <ref target="#respect1">respect</ref> pour vous,</l>
             <l n="1137" xml:id="l1137">Vostre interest<note resp="editor"><hi rend="i">Vostre interest</hi> : l’intérêt que je vous porte.</note> soustient l’ardeur qui me consume,</l>
             <l n="1138" xml:id="l1138">Luy seul l’avoit éteinte, et luy seul la rallume.</l>
             <l n="1139" xml:id="l1139">Accordez donc, Seigneur, à mes brulants souhaits</l>
@@ -2393,7 +2393,7 @@
           </sp>
           <sp xml:id="III06-20" who="flaminius">
             <speaker>FLAMINIUS</speaker>
-            <l n="1145" xml:id="l1145">Apres tant de <ref target="#vertu">vertu*</ref> Rome seroit ingrate</l>
+            <l n="1145" xml:id="l1145">Apres tant de <ref target="#vertu">vertu</ref> Rome seroit ingrate</l>
             <l n="1146" xml:id="l1146">Si vos feux n’obtenoient l’heureux prix qui les flatte.</l>
             <l n="1147" xml:id="l1147">Elle vous l’abandonne<note resp="editor">Il ne faut pas oublier que Flaminius n’a, de fait, aucun droit sur Élise, et qu’il le sait parfaitement : il ne prétend donc la donner à Prusias que pour mieux manipuler ce dernier. </note>, et quand sans balancer</l>
             <l n="1148" xml:id="l1148">Elle fait plus pour vous que vous n’osiez penser,</l>
@@ -2414,9 +2414,9 @@
             <speaker>PRUSIAS</speaker>
             <l n="1155" xml:id="l1155">Vous livrer Annibal ! Ah, Seigneur, voulez-vous</l>
             <l n="1156" xml:id="l1156">Me mettre en bute aux Dieux<note resp="editor"><hi rend="i">Me mettre en bute aux Dieux</hi> : m’exposer à la colère divine.</note>, m’attirer leur courroux ?</l>
-            <l n="1157" xml:id="l1157">Cent serments d’une <ref target="#foi">foy*</ref> sacrée, inviolable,</l>
+            <l n="1157" xml:id="l1157">Cent serments d’une <ref target="#foi">foy</ref> sacrée, inviolable,</l>
             <l n="1158" xml:id="l1158">De tant de trahison me laissent-ils capable ?</l>
-            <l n="1159" xml:id="l1159"><ref target="#souffrir2">Souffre-t’il*</ref><note resp="editor"><hi rend="i">Souffre-t-il</hi> : ici, l’on s’attendrait plutôt à rencontrer la troisième personne du pluriel, qui renverrait aux serments évoqués par Prusias au vers précédent. Cependant, on ne trouve cette orthographe que dans des éditions pirates non supervisées par l’auteur. Il semblerait donc que le sujet de ce verbe soit Hannibal, bien que cela ne soit pas évident au premier abord.</note> que mon cœur <ref target="#eblouir3">ébloüy*</ref> de ses feux<pb n="50"/></l>
+            <l n="1159" xml:id="l1159"><ref target="#souffrir2">Souffre-t’il</ref><note resp="editor"><hi rend="i">Souffre-t-il</hi> : ici, l’on s’attendrait plutôt à rencontrer la troisième personne du pluriel, qui renverrait aux serments évoqués par Prusias au vers précédent. Cependant, on ne trouve cette orthographe que dans des éditions pirates non supervisées par l’auteur. Il semblerait donc que le sujet de ce verbe soit Hannibal, bien que cela ne soit pas évident au premier abord.</note> que mon cœur <ref target="#eblouir3">ébloüy</ref> de ses feux<pb n="50"/></l>
             <l n="1160" xml:id="l1160" part="I">Ose…</l>
           </sp>
           <sp xml:id="III06-24" who="flaminius">
@@ -2425,22 +2425,22 @@
             <l n="1161" xml:id="l1161">Apprenez, apprenez pour solides maximes,</l>
             <l n="1162" xml:id="l1162">Que qui sert le Senat ne peut faire de crimes,</l>
             <l n="1163" xml:id="l1163">Et que de mille horreurs un forfait revestu</l>
-            <l n="1164" xml:id="l1164">Quand il est fait pour luy doit passer pour <ref target="#vertu">vertu*</ref><note resp="editor">Véritable profession de foi machiavélienne de Flaminius.</note> ;</l>
+            <l n="1164" xml:id="l1164">Quand il est fait pour luy doit passer pour <ref target="#vertu">vertu</ref><note resp="editor">Véritable profession de foi machiavélienne de Flaminius.</note> ;</l>
             <l n="1165" xml:id="l1165">Que par tout cette gloire est la seule qu’on prise.</l>
           </sp>
           <sp xml:id="III06-25" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l n="1166" xml:id="l1166">Et par où <ref target="#cependant2">cependant*</ref> gagner le cœur d’Elise ?</l>
+            <l n="1166" xml:id="l1166">Et par où <ref target="#cependant2">cependant</ref> gagner le cœur d’Elise ?</l>
             <l n="1167" xml:id="l1167">Mettre en vostre pouvoir ce qu’elle a de plus cher,</l>
             <l n="1168" xml:id="l1168">Sera-ce le moyen, Seigneur, de la toucher ?</l>
-            <l n="1169" xml:id="l1169">Obtiendray-je par là que son amour s’<ref target="#expliquer">explique*</ref> ?</l>
+            <l n="1169" xml:id="l1169">Obtiendray-je par là que son amour s’<ref target="#expliquer">explique</ref> ?</l>
           </sp>
           <sp xml:id="III06-26" who="flaminius">
             <speaker>FLAMINIUS</speaker>
             <l n="1170" xml:id="l1170">C’est ne voir guere loin pour un grand Politique.</l>
             <l n="1171" xml:id="l1171">Sans livrer Annibal laissez-nous l’enlever,</l>
             <l n="1172" xml:id="l1172">Envoyez apres nous<note resp="editor"><hi rend="i">Envoyez apres nous</hi> : le complément d’objet n’est pas obligatoire avec le verbe « envoyer ». Ici, Flaminius suggère à Prusias de faire semblant d’envoyer ses soldats à sa suite, une fois Hannibal capturé. </note> comme pour le sauver,</l>
-            <l n="1173" xml:id="l1173">Flattez Elise ensuite, <ref target="#armer2">armez*</ref> pour son offence<note resp="editor"><hi rend="i">Armez pour son offence</hi> : faites prendre les armes à vos soldats pour venger l’offense faite à Élise.</note>,</l>
+            <l n="1173" xml:id="l1173">Flattez Elise ensuite, <ref target="#armer2">armez</ref> pour son offence<note resp="editor"><hi rend="i">Armez pour son offence</hi> : faites prendre les armes à vos soldats pour venger l’offense faite à Élise.</note>,</l>
             <l n="1174" xml:id="l1174">Et recevez sa main pour prix de sa vangeance.</l>
           </sp>
           <sp xml:id="III06-27" who="prusias">
@@ -2455,7 +2455,7 @@
           </sp>
           <sp xml:id="III06-29" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l n="1179" xml:id="l1179">Si cet hymen vous porte à soupçonner ma <ref target="#foi">foy*</ref>,</l>
+            <l n="1179" xml:id="l1179">Si cet hymen vous porte à soupçonner ma <ref target="#foi">foy</ref>,</l>
             <l n="1180" xml:id="l1180">N’aurez-vous pas mon Fils qui répondra de moy ?</l>
             <l n="1181" xml:id="l1181">Vous en puis-je donner un gage plus sincere ?</l>
           </sp>
@@ -2478,7 +2478,7 @@
             <speaker>FLAMINIUS</speaker>
             <l n="1191" xml:id="l1191">Ces scrupules sont beaux, mais craignez que pour nous</l>
             <l n="1192" xml:id="l1192">Attale plus zelé n’en ait pas tant que vous,</l>
-            <l n="1193" xml:id="l1193">Il aime, et vos refus <ref target="#obliger2">obligeront*</ref> sa flame.</l>
+            <l n="1193" xml:id="l1193">Il aime, et vos refus <ref target="#obliger2">obligeront</ref> sa flame.</l>
           </sp>
           <sp xml:id="III06-33" who="prusias">
             <speaker>PRUSIAS</speaker>
@@ -2497,7 +2497,7 @@
           <sp xml:id="III06-35" who="prusias">
             <speaker>PRUSIAS</speaker>
             <l n="1202" xml:id="l1202">Adieu, Seigneur, je voy Procule qui s’avance,</l>
-            <l n="1203" xml:id="l1203">Consultez avec luy si mon zele et ma <ref target="#foi">foy*</ref></l>
+            <l n="1203" xml:id="l1203">Consultez avec luy si mon zele et ma <ref target="#foi">foy</ref></l>
             <l n="1204" xml:id="l1204">Ne peuvent meriter que l’on me traite en Roy.</l>
           </sp>
         </div>
@@ -2516,7 +2516,7 @@
             <speaker>FLAMINIUS</speaker>
             <l part="F">Allons, il le faut écouter.</l>
           </sp>
-          <label rend="i">Fin du troisiéme Acte.</label>
+          <trailer rend="i">Fin du troisiéme Acte.</trailer>
         </div>
       </div>
       <div xml:id="IV" type="act">
@@ -2537,7 +2537,7 @@
             <l n="1213" xml:id="l1213">Deux Rois épris d’amour me paroissoient à craindre,</l>
             <l n="1214" xml:id="l1214">Envain j’en murmurois, envain j’osois me plaindre,<note resp="editor"><hi rend="i">Var. 1692</hi> : plaindre</note></l>
             <l n="1215" xml:id="l1215">Sur l’un d’eux par Elise Annibal pouvant tout</l>
-            <l n="1216" xml:id="l1216">De sa <ref target="#foi">foy*</ref> contre nous eust pû venir à bout.</l>
+            <l n="1216" xml:id="l1216">De sa <ref target="#foi">foy</ref> contre nous eust pû venir à bout.</l>
             <l n="1217" xml:id="l1217">Une heureuse nouvelle a fait cesser ma peine,</l>
             <l n="1218" xml:id="l1218">J’ay sçeu du Phrygien la fausse mort d’Eumene.</l>
           </sp>
@@ -2557,7 +2557,7 @@
             <l n="1226" xml:id="l1226">Qu’un sort inesperé leur rend leur premier Maistre,</l>
             <l n="1227" xml:id="l1227">Quoy que puisse ordonner ce jeune et nouveau Roy</l>
             <l n="1228" xml:id="l1228">M’ont promis en secret de n’obeïr qu’à moy.</l>
-            <l n="1229" xml:id="l1229">Ainsi tous ses projets n’ont plus rien qui me <ref target="#gene">gesne*</ref>.</l>
+            <l n="1229" xml:id="l1229">Ainsi tous ses projets n’ont plus rien qui me <ref target="#gene">gesne</ref>.</l>
           </sp>
           <sp xml:id="IV01-5" who="procule">
             <speaker>PROCULE</speaker>
@@ -2571,9 +2571,9 @@
             <l n="1234" xml:id="l1234">Son sang trouvant par tout de larges ouvertures,</l>
             <l n="1235" xml:id="l1235">Il tomba de foiblesse, et dans chaque Party</l>
             <l n="1236" xml:id="l1236">Par les flots en tombant on le crut englouty.</l>
-            <l n="1237" xml:id="l1237"><ref target="#cependant2">Cependant*</ref> un Vaisseau qu’écarta la tempeste</l>
+            <l n="1237" xml:id="l1237"><ref target="#cependant2">Cependant</ref> un Vaisseau qu’écarta la tempeste</l>
             <l n="1238" xml:id="l1238">Ravit aux Rhodiens cette illustre conqueste,</l>
-            <l n="1239" xml:id="l1239">Et son <ref target="#bonheur2">bon-heur*</ref> fut tel que par un prompt secours</l>
+            <l n="1239" xml:id="l1239">Et son <ref target="#bonheur2">bon-heur</ref> fut tel que par un prompt secours</l>
             <l n="1240" xml:id="l1240">Sans le faire connoistre on prit soin de ses jours.</l>
           </sp>
           <sp xml:id="IV01-7" who="procule">
@@ -2590,8 +2590,8 @@
             <l n="1246" xml:id="l1246">Ne pourra soustenir qu’une impuissante haine,</l>
             <l n="1247" xml:id="l1247">Annibal en nos mains seroit à preferer.</l>
             <l n="1248" xml:id="l1248">Mais envain jusqu’icy j’ay voulu l’esperer.</l>
-            <l n="1249" xml:id="l1249">Prusias est trop mol<note resp="editor"><hi rend="i">Mol</hi> : se dit figurément en choses morales, de ce qui est flasque et sans vigueur, tant à l’égard du corps que de l’esprit (Furetière).</note>, et son inquietude*<pb n="55"/></l>
-            <l n="1250" xml:id="l1250">Pour oser rien de ferme a trop d’<ref target="#incertain2">incertitude*</ref>.</l>
+            <l n="1249" xml:id="l1249">Prusias est trop mol<note resp="editor"><hi rend="i">Mol</hi> : se dit figurément en choses morales, de ce qui est flasque et sans vigueur, tant à l’égard du corps que de l’esprit (Furetière).</note>, et son inquietude<pb n="55"/></l>
+            <l n="1250" xml:id="l1250">Pour oser rien de ferme a trop d’<ref target="#incertain2">incertitude</ref>.</l>
             <l n="1251" xml:id="l1251">Attale à ce défaut d’Elise estant l’Epoux</l>
             <l n="1252" xml:id="l1252" part="I">Nous ostera…</l>
           </sp>
@@ -2634,7 +2634,7 @@
             <speaker>ATTALE</speaker>
             <l n="1269" xml:id="l1269">Cet heureux changement a dequoy me surprendre.</l>
             <l n="1270" xml:id="l1270">Seigneur, à mon amour vous daignez donc vous rendre,</l>
-            <l n="1271" xml:id="l1271">Confier Annibal et sa haine à ma <ref target="#foi">foy*</ref> ?</l>
+            <l n="1271" xml:id="l1271">Confier Annibal et sa haine à ma <ref target="#foi">foy</ref> ?</l>
           </sp>
           <sp xml:id="IV02-5" who="flaminius">
             <speaker>FLAMINIUS</speaker>
@@ -2654,10 +2654,10 @@
             <l n="1279" xml:id="l1279">Dans le rang que je tiens c’est peu d’y consentir.</l>
             <l n="1280" xml:id="l1280">J’en veux estre témoin avant que de partir.</l>
             <l n="1281" xml:id="l1281">Rome qui laissoit vivre Annibal à Cartage</l>
-            <l n="1282" xml:id="l1282">Luy peut <ref target="#souffrir2">souffrir*</ref> chez vous ce paisible avantage.</l>
+            <l n="1282" xml:id="l1282">Luy peut <ref target="#souffrir2">souffrir</ref> chez vous ce paisible avantage.</l>
             <l n="1283" xml:id="l1283">Ayez soin pour demain d’en preparer l’éclat ;</l>
             <l n="1284" xml:id="l1284">Et pour vous, et pour moy j’en dois compte au Senat,</l>
-            <l n="1285" xml:id="l1285"><ref target="#cependant1">Cependant*</ref> Prusias vous montre assez de zele</l>
+            <l n="1285" xml:id="l1285"><ref target="#cependant1">Cependant</ref> Prusias vous montre assez de zele</l>
             <l n="1286" xml:id="l1286">Pour meriter par vous d’en sçavoir la nouvelle,</l>
             <l n="1287" xml:id="l1287">Vous pourrez avec luy, Seigneur, vous declarer.</l>
           </sp>
@@ -2678,8 +2678,8 @@
           </sp>
           <sp xml:id="IV03-3" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l n="1292" xml:id="l1292">Je n’ay point de secret qui m’<ref target="#obliger1">oblige*</ref> à le voir,</l>
-            <l n="1293" xml:id="l1293">Mais si vous me <ref target="#souffrir2">souffrez*</ref> un peu de confidence,</l>
+            <l n="1292" xml:id="l1292">Je n’ay point de secret qui m’<ref target="#obliger1">oblige</ref> à le voir,</l>
+            <l n="1293" xml:id="l1293">Mais si vous me <ref target="#souffrir2">souffrez</ref> un peu de confidence,</l>
             <l n="1294" xml:id="l1294">Quel estoit le sujet de vostre conference ?</l>
           </sp>
           <sp xml:id="IV03-4" who="attale">
@@ -2696,7 +2696,7 @@
             <speaker>ATTALE</speaker>
             <l n="1299" xml:id="l1299">Il est vray qu’aimant Rome au point que vous l’aimez</l>
             <l n="1300" xml:id="l1300">Vous prendrez part à l’heur qui tient mes sens charmez,</l>
-            <l n="1301" xml:id="l1301">Flaminius <ref target="#abord2">d’abord*</ref> m’a traité de rebelle,</l>
+            <l n="1301" xml:id="l1301">Flaminius <ref target="#abord2">d’abord</ref> m’a traité de rebelle,</l>
             <l n="1302" xml:id="l1302">Mais enfin le voulant convaincre de mon zele,</l>
             <l n="1303" xml:id="l1303">J’ay sceu si bien entrer dans tous ses interests</l>
             <l n="1304" xml:id="l1304">Que par l’hymen d’Elise il comble mes souhaits.</l>
@@ -2737,7 +2737,7 @@
           </sp>
           <sp xml:id="IV03-13" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l n="1317" xml:id="l1317">C’est à fuir ce qui plaist qu’on montre son <ref target="#courage1">courage*</ref>.</l>
+            <l n="1317" xml:id="l1317">C’est à fuir ce qui plaist qu’on montre son <ref target="#courage1">courage</ref>.</l>
           </sp>
           <sp xml:id="IV03-14" who="attale">
             <speaker>ATTALE</speaker>
@@ -2753,12 +2753,12 @@
             <speaker>ATTALE</speaker>
             <l n="1322" xml:id="l1322">Vous estes hors d’estat de me le faire croire,</l>
             <l n="1323" xml:id="l1323">Mais puis-je de la mienne asseurer mieux l’éclat</l>
-            <l n="1324" xml:id="l1324">Qu’à ne pretendre rien sans l’<ref target="#aveu2">adveu*</ref> du Senat ?</l>
+            <l n="1324" xml:id="l1324">Qu’à ne pretendre rien sans l’<ref target="#aveu2">adveu</ref> du Senat ?</l>
           </sp>
           <sp xml:id="IV03-17" who="prusias">
             <speaker>PRUSIAS</speaker>
             <pb n="59"/>
-            <l n="1325" xml:id="l1325">C’est dont pourtant <ref target="#abord2">d’abord*</ref> vous faisiez peu de compte<note resp="editor"><hi rend="i">C’est dont pourtant d’abord vous faisiez peu de compte</hi> : il est courant de trouver un « dont » suivant directement un « c’est », sans pronom démonstratif de rappel entre les deux (voir HAASE, A., <hi rend="i">op. cit.</hi>, § 37, D, p. 75-76).</note>.</l>
+            <l n="1325" xml:id="l1325">C’est dont pourtant <ref target="#abord2">d’abord</ref> vous faisiez peu de compte<note resp="editor"><hi rend="i">C’est dont pourtant d’abord vous faisiez peu de compte</hi> : il est courant de trouver un « dont » suivant directement un « c’est », sans pronom démonstratif de rappel entre les deux (voir HAASE, A., <hi rend="i">op. cit.</hi>, § 37, D, p. 75-76).</note>.</l>
           </sp>
           <sp xml:id="IV03-18" who="attale">
             <speaker>ATTALE</speaker>
@@ -2862,7 +2862,7 @@
             <l n="1377" xml:id="l1377">Tu dis vray, je me rends, ma passion l’ordonne.</l>
             <l n="1378" xml:id="l1378">A ces brûlants transports tout mon cœur s’abandonne ;</l>
             <l n="1379" xml:id="l1379">Dust ce que j’entreprens me devenir fatal,</l>
-            <l n="1380" xml:id="l1380">Je ne puis endurer le <ref target="#bonheur1">bon-heur*</ref> d’un Rival.</l>
+            <l n="1380" xml:id="l1380">Je ne puis endurer le <ref target="#bonheur1">bon-heur</ref> d’un Rival.</l>
             <l n="1381" xml:id="l1381">C’en est fait, perdons tout dans ce besoin extréme,</l>
             <l n="1382" xml:id="l1382">Attale par mon Fils, Annibal par moy mesme,</l>
             <l n="1383" xml:id="l1383">Et comme à triompher voicy nostre grand jour,</l>
@@ -2891,7 +2891,7 @@
             <speaker>PRUSIAS</speaker>
             <l n="1393" xml:id="l1393">A sauver Annibal l’honneur, tout nous convie,</l>
             <l n="1394" xml:id="l1394">Adieu, je vay luy faire un rempart de ma vie.</l>
-            <l n="1395" xml:id="l1395"><ref target="#cependant1">Cependant*</ref> cherche Attale, ose, il est important,</l>
+            <l n="1395" xml:id="l1395"><ref target="#cependant1">Cependant</ref> cherche Attale, ose, il est important,</l>
             <l n="1396" xml:id="l1396">Et si tu sçais aimer, voy le prix qui t’attend.</l>
           </sp>
         </div>
@@ -2906,14 +2906,14 @@
             <speaker>NICOMEDE</speaker>
             <l n="1398" xml:id="l1398">Dans mon cœur à vous voir je le sents qui redouble,</l>
             <l n="1399" xml:id="l1399">Mais, Madame, jugez s’il doit estre pressant,</l>
-            <l n="1400" xml:id="l1400">Aux <ref target="#voeux">vœux*</ref> de mon Rival Flaminius consent,<note resp="editor"><hi rend="i">Var. 1692</hi> : consent.</note></l>
+            <l n="1400" xml:id="l1400">Aux <ref target="#voeux">vœux</ref> de mon Rival Flaminius consent,<note resp="editor"><hi rend="i">Var. 1692</hi> : consent.</note></l>
             <l n="1401" xml:id="l1401" part="I">Attale vous obtient.</l>
           </sp>
           <sp xml:id="IV06-3" who="elise">
             <speaker>ELISE</speaker>
-            <l part="F">C’est ce qui vous <ref target="#etonner">estonne*</ref> ?</l>
-            <l n="1402" xml:id="l1402">Pour tirer mon <ref target="#aveu2">adveu*</ref> la voye est assez bonne,</l>
-            <l n="1403" xml:id="l1403">Et Rome à qui je porte un <ref target="#courage3">courage*</ref> soûmis</l>
+            <l part="F">C’est ce qui vous <ref target="#etonner">estonne</ref> ?</l>
+            <l n="1402" xml:id="l1402">Pour tirer mon <ref target="#aveu2">adveu</ref> la voye est assez bonne,</l>
+            <l n="1403" xml:id="l1403">Et Rome à qui je porte un <ref target="#courage3">courage</ref> soûmis</l>
             <l n="1404" xml:id="l1404">Peut répondre de moy quand elle aura promis.</l>
           </sp>
           <sp xml:id="IV06-4" who="nicomede">
@@ -2927,14 +2927,14 @@
           </sp>
           <sp xml:id="IV06-6" who="nicomede">
             <speaker>NICOMEDE</speaker>
-            <l part="F">Il est le prix de l’<ref target="#aveu2">adveu*</ref> qu’on arrache ;</l>
+            <l part="F">Il est le prix de l’<ref target="#aveu2">adveu</ref> qu’on arrache ;</l>
             <l n="1407" xml:id="l1407">Ne craignez rien pourtant de cette trahison,</l>
             <l n="1408" xml:id="l1408">Je vay trouver Attale, il m’en fera raison,</l>
             <l n="1409" xml:id="l1409" part="I">Et s’il ose…</l>
           </sp>
           <sp xml:id="IV06-7" who="elise">
             <speaker>ELISE</speaker>
-            <l part="F"><ref target="#arreter4">Arrestez*</ref>, que pretendez-vous faire ?</l>
+            <l part="F"><ref target="#arreter4">Arrestez</ref>, que pretendez-vous faire ?</l>
             <l n="1410" xml:id="l1410">Cet advis m’est suspect, il part de vostre Pere,</l>
             <l n="1411" xml:id="l1411">Qui craignant deux Rivaux, pour en venir à bout,</l>
             <l n="1412" xml:id="l1412">Veut perdre l’un par l’autre, et desaduoüer tout<note resp="editor">Le spectateur, qui dispose de tous les éléments, et pour qui tout est parfaitement clair, en vient à oublier à quel point la situation, entre vérité et mensonge, est complexe. Si Élise entrevoit la vérité, c’est-à-dire l’innocence d’Attale, c’est pour de mauvaises raisons : convaincue de la perfidie de Prusias, elle pense qu’il ment, alors qu’il a dénoncé ce dernier en toute bonne foi. Thomas Corneille présente donc ici une situation tout à fait inintelligible pour ses personnages, bien que parfaitement claire pour le spectateur.</note>.</l>
@@ -2943,14 +2943,14 @@
             <speaker>NICOMEDE</speaker>
             <l n="1413" xml:id="l1413">Ainsi donc il vous plaist que sans rien entreprendre</l>
             <l n="1414" xml:id="l1414">Je laisse à mon Rival le temps de vous surprendre,</l>
-            <l n="1415" xml:id="l1415">Ou si l’advis est faux, vous voulez que ma <ref target="#foi">foy*</ref></l>
-            <l n="1416" xml:id="l1416">Cede à ses <ref target="#voeux">vœux*</ref> un cœur qui sembloit estre à moy ?</l>
+            <l n="1415" xml:id="l1415">Ou si l’advis est faux, vous voulez que ma <ref target="#foi">foy</ref></l>
+            <l n="1416" xml:id="l1416">Cede à ses <ref target="#voeux">vœux</ref> un cœur qui sembloit estre à moy ?</l>
           </sp>
           <sp xml:id="IV06-9" who="elise">
             <speaker>ELISE</speaker>
             <l n="1417" xml:id="l1417">Si l’advis n’est pas vray, je veux que vostre flame</l>
             <l n="1418" xml:id="l1418">Prenne pour seul objet la fierté de mon ame,</l>
-            <l n="1419" xml:id="l1419">Je vous aime, et l’<ref target="#aveu1">adveu*</ref> peut-estre m’en sied mal,</l>
+            <l n="1419" xml:id="l1419">Je vous aime, et l’<ref target="#aveu1">adveu</ref> peut-estre m’en sied mal,</l>
             <l n="1420" xml:id="l1420">Mais enfin je vous aime en Fille d’Annibal,</l>
             <l n="1421" xml:id="l1421">Sans ce foible honteux qui quand on l’ose croire</l>
             <l n="1422" xml:id="l1422">Couronne la tendresse aux dépens de la gloire.</l>
@@ -2986,7 +2986,7 @@
           <sp xml:id="IV06-13" who="elise">
             <speaker>ELISE</speaker>
             <l n="1442" xml:id="l1442">Ayez soin seulement de voir ce qui se passe,</l>
-            <l n="1443" xml:id="l1443">Et croyez que l’effort où s’appreste ma <ref target="#foi">foy*</ref>,</l>
+            <l n="1443" xml:id="l1443">Et croyez que l’effort où s’appreste ma <ref target="#foi">foy</ref>,</l>
             <l n="1444" xml:id="l1444">Quoy qu’il ait de fâcheux, sera digne de moy.</l>
           </sp>
           <sp xml:id="IV06-14" who="nicomede">
@@ -3016,7 +3016,7 @@
             <speaker>ANNIBAL</speaker>
             <l n="1457" xml:id="l1457">C’est trop voir le Destin confondre mon attente<note resp="editor"><hi rend="i">Confondre mon attente</hi> : décevoir mon attente.</note>,</l>
             <l n="1458" xml:id="l1458">Il est temps de fixer vostre fortune errante,</l>
-            <l n="1459" xml:id="l1459">Ma Fille, et qu’un Epoux par le don de sa <ref target="#foi">foy*</ref></l>
+            <l n="1459" xml:id="l1459">Ma Fille, et qu’un Epoux par le don de sa <ref target="#foi">foy</ref></l>
             <l n="1460" xml:id="l1460">Vous dérobe aux malheurs que je traisne avec moy.</l>
             <l n="1461" xml:id="l1461">Il vous faut du repos, Attale vous l’asseure,</l>
             <l n="1462" xml:id="l1462">Du sort qui me poursuit j’en craindray moins l’injure,</l>
@@ -3028,12 +3028,12 @@
             <l n="1465" xml:id="l1465">Qu’ils n’aillent jusqu’à moy ! s’il faut mourir ou vivre,</l>
             <l n="1466" xml:id="l1466">C’est vostre exemple seul, Seigneur, que je veux suivre.</l>
             <l n="1467" xml:id="l1467">Jusqu’icy vostre sort a reglé mon destin,</l>
-            <l n="1468" xml:id="l1468"><ref target="#souffrir1">Souffrez*</ref> que sans partage il en regle la fin.</l>
+            <l n="1468" xml:id="l1468"><ref target="#souffrir1">Souffrez</ref> que sans partage il en regle la fin.</l>
             <l n="1469" xml:id="l1469">L’alliance des Rois où chacun porte envie</l>
             <l n="1470" xml:id="l1470">Ne peut rien adjouster à l’éclat de ma vie,</l>
             <l n="1471" xml:id="l1471">Et Fille d’Annibal, je ne vois point de rang</l>
             <l n="1472" xml:id="l1472">Qui puisse m’élever au dessus de mon sang.</l>
-            <l n="1473" xml:id="l1473">Non qu’où j’entens vostre ordre il soit rien qui m’<ref target="#arreter1">arreste*</ref>,</l>
+            <l n="1473" xml:id="l1473">Non qu’où j’entens vostre ordre il soit rien qui m’<ref target="#arreter1">arreste</ref>,</l>
             <l n="1474" xml:id="l1474">Si vous voulez ma main, Seigneur, la voila preste,</l>
             <l n="1475" xml:id="l1475">Mais quand je la sousmets à ce qu’elle vous doit,</l>
             <l n="1476" xml:id="l1476">Sçavez-vous à quel prix Attale la reçoit ?</l>
@@ -3046,7 +3046,7 @@
             <l n="1478" xml:id="l1478" part="I">Qu’on me fera…</l>
           </sp>
           <sp xml:id="IV07-4" who="elise">
-            <speaker>ELISE, <hi rend="i">à Attale.</hi></speaker>
+            <speaker>ELISE, </speaker><stage>à Attale.</stage>
             <l part="F">Seigneur, ce peut estre imposture,</l>
             <l n="1479" xml:id="l1479">Mais quand on vous accuse, à vous parler sans fard,</l>
             <l n="1480" xml:id="l1480">L’apparence au soupçon vous donne grande part<note resp="editor"><hi rend="i">L’apparence au soupçon vous donne grande part</hi> : les apparences sont contre vous.</note>.</l>
@@ -3068,20 +3068,20 @@
           </sp>
           <sp xml:id="IV07-7" who="attale">
             <speaker>ATTALE</speaker>
-            <l n="1489" xml:id="l1489">Saisi d’<ref target="#etonner">étonnement*</ref>, je n’ay que le silence</l>
+            <l n="1489" xml:id="l1489">Saisi d’<ref target="#etonner">étonnement</ref>, je n’ay que le silence</l>
             <l n="1490" xml:id="l1490">Qui puisse contre vous prouver mon innocence,</l>
             <l n="1491" xml:id="l1491">Il en devroit bien estre un témoin asseuré,</l>
             <l n="1492" xml:id="l1492">Si j’estois criminel je viendrois preparé.</l>
             <l n="1493" xml:id="l1493">Flaminius changé m’accorde ce que j’aime,</l>
-            <l n="1494" xml:id="l1494">Son <ref target="#aveu2">adveu*</ref> vous surprend, il me surprend moy-mesme,</l>
-            <l n="1495" xml:id="l1495">Et je penetre mal par quels <ref target="#soin2">soins*</ref> dés demain</l>
+            <l n="1494" xml:id="l1494">Son <ref target="#aveu2">adveu</ref> vous surprend, il me surprend moy-mesme,</l>
+            <l n="1495" xml:id="l1495">Et je penetre mal par quels <ref target="#soin2">soins</ref> dés demain</l>
             <l n="1496" xml:id="l1496">Il me presse à ses yeux de vous donner la main ;</l>
             <l n="1497" xml:id="l1497">Mais ces fausses couleurs qui me peignent coupable</l>
             <l n="1498" xml:id="l1498">Sont de quelque Ennemy le trait inévitable,</l>
-            <l n="1499" xml:id="l1499">Et pour me donner lieu de soupçonner sa <ref target="#foi">foy*</ref></l>
+            <l n="1499" xml:id="l1499">Et pour me donner lieu de soupçonner sa <ref target="#foi">foy</ref></l>
             <l n="1500" xml:id="l1500">Prusias s’est assez declaré contre moy.</l>
             <stage>A Annibal.</stage>
-            <l n="1501" xml:id="l1501">Il ne sçauroit <ref target="#souffrir2">souffrir*</ref> que mon amour obtienne</l>
+            <l n="1501" xml:id="l1501">Il ne sçauroit <ref target="#souffrir2">souffrir</ref> que mon amour obtienne</l>
             <l n="1502" xml:id="l1502">Que vous quittiez sa Cour pour venir dans la mienne</l>
             <l n="1503" xml:id="l1503">Seigneur, et je crains bien que son chagrin jaloux<pb n="67"/></l>
             <l n="1504" xml:id="l1504">Feignant tout contre moy, n’ose tout contre vous.</l>
@@ -3103,10 +3103,10 @@
             <l n="1517" xml:id="l1517">Mesme de Prusias je crains peu la surprise,</l>
             <l n="1518" xml:id="l1518">Il peut vouloir me perdre, en former l’entreprise,</l>
             <l n="1519" xml:id="l1519">Dans ce lâche projet se montrer affermy,</l>
-            <l n="1520" xml:id="l1520">Mais le Ciel me <ref target="#reserver2">reserve*</ref> un plus noble Ennemy.</l>
+            <l n="1520" xml:id="l1520">Mais le Ciel me <ref target="#reserver2">reserve</ref> un plus noble Ennemy.</l>
             <l n="1521" xml:id="l1521">Il ne m’a pas sauvé des Tyrans que je brave</l>
             <l n="1522" xml:id="l1522">Pour me laisser perir aux mains de leur Esclave,</l>
-            <l n="1523" xml:id="l1523">Et <ref target="#souffrir2">souffrir*</ref> qu’un Parjure au mépris de sa <ref target="#foi">foy*</ref></l>
+            <l n="1523" xml:id="l1523">Et <ref target="#souffrir2">souffrir</ref> qu’un Parjure au mépris de sa <ref target="#foi">foy</ref></l>
             <l n="1524" xml:id="l1524">M’ose faire un destin si peu digne de moy.</l>
             <l n="1525" xml:id="l1525">Il sçait ce qu’il me doit, et s’il avoit pû croire</l>
             <l n="1526" xml:id="l1526">Que Rome eust merité l’éclat de tant de gloire,</l>
@@ -3120,7 +3120,7 @@
             <l n="1531" xml:id="l1531">Ah, Seigneur, qui pourroit avoir le cœur si bas…</l>
           </sp>
           <sp xml:id="IV07-10" who="elise">
-            <speaker>ELISE, <hi rend="i">à Attale.</hi></speaker>
+            <speaker>ELISE, </speaker><stage>à Attale.</stage>
             <l n="1532" xml:id="l1532">Je veux bien n’accuser ny vous ny Prusias,</l>
             <l n="1533" xml:id="l1533">Mais dans ce qu’on publie, il est de la prudence<note resp="editor"><hi rend="i">Il est de la prudence</hi> : l’emploi partitif de « de » avant un déterminatif est courant à l’époque classique (voir HAASE, A., <hi rend="i">op. cit.</hi>, § 118, p. 306-309).</note><pb n="68"/></l>
             <l n="1534" xml:id="l1534">De ne pas s’exposer à trop de confiance.</l>
@@ -3145,7 +3145,7 @@
             <l n="1547" xml:id="l1547">Là vous voyant contre elle un ennemy certain,</l>
             <l n="1548" xml:id="l1548">Avec pompe à ses yeux je vous donne la main<note resp="editor"><hi rend="i">Je vous donne la main</hi> : je vous accorde ma main. </note>,</l>
             <l n="1549" xml:id="l1549">Et pour vous et pour moy par une gloire égale,</l>
-            <l n="1550" xml:id="l1550">Son sang sera le sceau de la <ref target="#foi">foy*</ref> conjugale ;</l>
+            <l n="1550" xml:id="l1550">Son sang sera le sceau de la <ref target="#foi">foy</ref> conjugale ;</l>
             <l n="1551" xml:id="l1551">Mais que Flaminius, si j’accepte un Epoux,</l>
             <l n="1552" xml:id="l1552">Se mesle insolemment de me donner à vous !</l>
           </sp>
@@ -3172,7 +3172,7 @@
           <sp xml:id="IV08-4" who="elise">
             <speaker>ELISE</speaker>
             <l part="F">Et pour ce coup fatal,</l>
-            <l n="1560" xml:id="l1560">Tandis qu’on s’y prepare, on <ref target="#amuser2">amuse*</ref> Annibal.</l>
+            <l n="1560" xml:id="l1560">Tandis qu’on s’y prepare, on <ref target="#amuser2">amuse</ref> Annibal.</l>
           </sp>
           <sp xml:id="IV08-5" who="attale">
             <speaker>ATTALE</speaker>
@@ -3194,8 +3194,8 @@
             <l n="1570" xml:id="l1570">Le temps nous est trop cher pour le perdre en paroles<note resp="editor"> Racine se souviendra de ce vers dans <hi rend="i">Bajazet</hi> en faisant dire à Roxane : « Je ne vous ferai point des reproches frivoles. Les moments sont trop chers pour les perdre en paroles » (RACINE J., <hi rend="i">Bajazet</hi>, V, 4, v. 1473-1474, in Racine, <hi rend="i">Œuvres Complètes</hi>, éd. G. Forestier, t. 1, Gallimard (coll. Pléiade), 1999, p. 611).</note>,    </l>
             <l n="1571" xml:id="l1571">Sans trop chercher l’Autheur de cette trahison,</l>
             <l n="1572" xml:id="l1572">Il faut malgré le Sort, nous en faire raison.</l>
-            <l n="1573" xml:id="l1573">Par une belle audace, <ref target="#etonner">estonnons*</ref> des Perfides,</l>
-            <l n="1574" xml:id="l1574">Allons au devant d’eux, les Traistres sont <ref target="#timide">timides*</ref>.</l>
+            <l n="1573" xml:id="l1573">Par une belle audace, <ref target="#etonner">estonnons</ref> des Perfides,</l>
+            <l n="1574" xml:id="l1574">Allons au devant d’eux, les Traistres sont <ref target="#timide">timides</ref>.</l>
             <l n="1575" xml:id="l1575">Et pour épouvanter leur lâche General</l>
             <l n="1576" xml:id="l1576">Peut-estre il ne faudra que montrer Annibal.</l>
             <l n="1577" xml:id="l1577">Au moins s’il faut perir, en leur vendant ma vie,</l>
@@ -3210,7 +3210,7 @@
             <l n="1583" xml:id="l1583">Pour vous quitter, Seigneur, je sçay trop mon devoir.</l>
             <l n="1584" xml:id="l1584">L’exemple sera grand, je vay le recevoir.</l>
           </sp>
-          <label rend="i">Fin du quatriéme Acte.</label>
+          <trailer rend="i">Fin du quatriéme Acte.</trailer>
         </div>
       </div>
       <div xml:id="V" type="act">
@@ -3223,12 +3223,12 @@
             <speaker>ELISE</speaker>
             <l n="1585" xml:id="l1585">Quoy, je vous voy, Seigneur, et bien que l’insolence</l>
             <l n="1586" xml:id="l1586">Dont on use envers nous vous demande vangeance,</l>
-            <l n="1587" xml:id="l1587">Vostre honneur, vostre <ref target="#foi">foy*</ref> sont des Fantômes vains</l>
+            <l n="1587" xml:id="l1587">Vostre honneur, vostre <ref target="#foi">foy</ref> sont des Fantômes vains</l>
             <l n="1588" xml:id="l1588">Lors qu’il faut s’opposer au crime des Romains ?</l>
           </sp>
           <sp xml:id="V01-2" who="prusias">
             <speaker>PRUSIAS</speaker>
-            <l n="1589" xml:id="l1589">Pour détruire un projet à nos <ref target="#voeux">vœux*</ref> si contraire</l>
+            <l n="1589" xml:id="l1589">Pour détruire un projet à nos <ref target="#voeux">vœux</ref> si contraire</l>
             <l n="1590" xml:id="l1590">Je n’ay rien oublié de ce que j’ay pû faire.</l>
             <l n="1591" xml:id="l1591">A peine l’ay-je appris que ce rapport fatal</l>
             <l n="1592" xml:id="l1592">M’a fait tout indigné courir vers Annibal ;</l>
@@ -3236,7 +3236,7 @@
             <l n="1594" xml:id="l1594">M’a pour le seconder paru le plus fidelle,</l>
             <l n="1595" xml:id="l1595">Mais voyant les Romains, malgré tous nos efforts</l>
             <l n="1596" xml:id="l1596">Contre luy, contre moy se rendre les plus forts,</l>
-            <l n="1597" xml:id="l1597">J’ay crû que pour répondre à la <ref target="#foi">foy*</ref> qui m’engage</l>
+            <l n="1597" xml:id="l1597">J’ay crû que pour répondre à la <ref target="#foi">foy</ref> qui m’engage</l>
             <l n="1598" xml:id="l1598">Il falloit empescher qu’on ne vous fist outrage,</l>
             <l n="1599" xml:id="l1599">Voila ce qui m’amene, et je viens vous offrir</l>
             <l n="1600" xml:id="l1600">Tout ce que peut un Roy qui veut vous secourir.</l>
@@ -3244,7 +3244,7 @@
           <sp xml:id="V01-3" who="elise">
             <speaker>ELISE</speaker>
             <pb n="72"/>
-            <l n="1601" xml:id="l1601">Ce zele est <ref target="#obliger2">obligeant*</ref><note resp="editor">La réplique est ironique.</note>, genereux, magnanime.</l>
+            <l n="1601" xml:id="l1601">Ce zele est <ref target="#obliger2">obligeant</ref><note resp="editor">La réplique est ironique.</note>, genereux, magnanime.</l>
           </sp>
           <sp xml:id="V01-4" who="prusias">
             <speaker>PRUSIAS</speaker>
@@ -3262,7 +3262,7 @@
             <l n="1609" xml:id="l1609">Mais envain je déploye, et promesse et priere,</l>
             <l n="1610" xml:id="l1610">Dans cet appartement on me tient prisonniere,</l>
             <l n="1611" xml:id="l1611">Mes efforts pour sortir ont esté superflus,</l>
-            <l n="1612" xml:id="l1612">On m’<ref target="#arreter3">arreste*</ref>, et peut-estre Annibal ne vit plus.</l>
+            <l n="1612" xml:id="l1612">On m’<ref target="#arreter3">arreste</ref>, et peut-estre Annibal ne vit plus.</l>
           </sp>
           <sp xml:id="V01-6" who="prusias">
             <speaker>PRUSIAS</speaker>
@@ -3284,7 +3284,7 @@
             <l n="1625" xml:id="l1625">Ah, c’est m’en dire trop ; vous l’avez livré, traistre,</l>
             <l n="1626" xml:id="l1626">Ce nom de Reyne offert me le fait trop connoistre.<note resp="editor">Prusias, en offrant sa main à Élise sans en avoir référé à Hannibal, montre qu’il n’est plus besoin de consulter ce dernier sur ce point : Élise peut donc en déduire qu’il a été mis hors d’état d’intervenir, donc livré à Flaminius. </note></l>
             <l n="1627" xml:id="l1627">Ah, si le Prince au moins… mais dequoy me flater,<pb n="G 73"/></l>
-            <l n="1628" xml:id="l1628">Vos lâches Partisans l’auront fait <ref target="#arreter3">arrester*</ref>,</l>
+            <l n="1628" xml:id="l1628">Vos lâches Partisans l’auront fait <ref target="#arreter3">arrester</ref>,</l>
             <l n="1629" xml:id="l1629">Il ne peut rien pour nous, et tout nous abandonne.</l>
           </sp>
           <sp xml:id="V01-8" who="prusias">
@@ -3301,7 +3301,7 @@
             <l n="1635" xml:id="l1635">Se donne pour exemple, et les enhardissant…</l>
           </sp>
           <sp xml:id="V01-10" who="prusias">
-            <speaker>PRUSIAS, <hi rend="i">montrant Attale.</hi></speaker>
+            <speaker>PRUSIAS, </speaker><stage>montrant Attale.</stage>
             <l n="1636" xml:id="l1636">Voyez si c’est pour eux un exemple pressant.</l>
           </sp>
         </div>
@@ -3313,7 +3313,7 @@
             <l n="1637" xml:id="l1637">Madame, craignons tout, c’est peu qu’on vous trahisse,</l>
             <l n="1638" xml:id="l1638">De ses pieges sur moy Rome étend l’artifice,</l>
             <l n="1639" xml:id="l1639">Et ma Garde seduite<note resp="editor"><hi rend="i">Garde séduite</hi> : garde corrompue.</note>, au lieu de m’écouter,</l>
-            <l n="1640" xml:id="l1640">Me fermant le passage, a voulu m’<ref target="#arreter3">arrester*</ref>,</l>
+            <l n="1640" xml:id="l1640">Me fermant le passage, a voulu m’<ref target="#arreter3">arrester</ref>,</l>
             <l n="1641" xml:id="l1641">Je me le suis ouvert malgré sa resistance,</l>
             <l n="1642" xml:id="l1642">J’ay rejoint Annibal, embrassé sa défence,</l>
             <l n="1643" xml:id="l1643">Mais j’ay bientost connu que contre les Romains,</l>
@@ -3321,7 +3321,7 @@
             <l n="1645" xml:id="l1645">Ceux qui l’environnoient, quoy qu’il en dust attendre,</l>
             <l n="1646" xml:id="l1646">Le livroient bien plûtost qu’ils ne l’osoient défendre,</l>
             <l n="1647" xml:id="l1647">Ils m’ont mis hors d’estat de le plus seconder,<pb n="74"/></l>
-            <l n="1648" xml:id="l1648">Et le voyant au nombre <ref target="#obliger1">obligé*</ref> de ceder,</l>
+            <l n="1648" xml:id="l1648">Et le voyant au nombre <ref target="#obliger1">obligé</ref> de ceder,</l>
             <l n="1649" xml:id="l1649">Contre les noirs complots d’une jalouse envie</l>
             <l n="1650" xml:id="l1650">Je suis icy venu vous apporter ma vie ;</l>
             <l n="1651" xml:id="l1651">Disposez-en, Madame, et pour vous secourir</l>
@@ -3333,7 +3333,7 @@
             <l n="1654" xml:id="l1654">L’asseurance est pour moy d’une douceur extrême.</l>
             <l n="1655" xml:id="l1655">Venez, venez tous deux, nobles Heros d’Amour,</l>
             <l n="1656" xml:id="l1656">Qui tandis qu’on se bat me faites vostre cour.</l>
-            <l n="1657" xml:id="l1657">A <ref target="#couvert2">couvert*</ref> du peril où le <ref target="#soin3">soin*</ref> de me plaire</l>
+            <l n="1657" xml:id="l1657">A <ref target="#couvert2">couvert</ref> du peril où le <ref target="#soin3">soin</ref> de me plaire</l>
             <l n="1658" xml:id="l1658">Vous a fait sans scrupule abandonner mon Pere,</l>
             <l n="1659" xml:id="l1659">Satisfaites l’ardeur de vos tendres desirs,</l>
             <l n="1660" xml:id="l1660">Epargnez vostre sang, et poussez des soûpirs.</l>
@@ -3344,13 +3344,13 @@
           </sp>
           <sp xml:id="V02-3" who="attale">
             <speaker>ATTALE</speaker>
-            <l n="1665" xml:id="l1665">D’un reproche si dur l’injustice m’<ref target="#etonner">étonne*</ref>.</l>
+            <l n="1665" xml:id="l1665">D’un reproche si dur l’injustice m’<ref target="#etonner">étonne</ref>.</l>
             <l n="1666" xml:id="l1666">J’abandonne, il est vray, mais quand on m’abandonne,</l>
             <l n="1667" xml:id="l1667">Et je rendray bientost vostre esprit éclaircy,</l>
             <l n="1668" xml:id="l1668">Si c’est pour m’épargner que je parois icy<note resp="editor"><hi rend="i">Et je rendray bientost vostre esprit éclaircy / Si c’est pour m’épargner que je parois icy</hi> : et vous saurez bientôt si j’ai agi pour m’épargner ou pour vous sauver.</note>.</l>
           </sp>
           <sp xml:id="V02-4" who="prusias">
-            <speaker>PRUSIAS, <hi rend="i">à Attale.</hi></speaker>
+            <speaker>PRUSIAS, </speaker><stage>à Attale.</stage>
             <l n="1669" xml:id="l1669">Par les commencements on peut prévoir la suite,</l>
             <l n="1670" xml:id="l1670">Vous trouvez, distes-vous, vostre Garde seduite,</l>
             <l n="1671" xml:id="l1671">Et le mesme interest qui retient vos Soldats</l>
@@ -3386,20 +3386,20 @@
             <l n="1688" xml:id="l1688">Tous deux signé l’arrest qu’un Parjure a donné,</l>
             <l n="1689" xml:id="l1689">Et l’ardeur qu’à l’envy vous me faites paroistre</l>
             <l n="1690" xml:id="l1690">Ne m’offre un Défenseur qu’en me cachant un Traistre.</l>
-            <l n="1691" xml:id="l1691">Mais je veux en tous deux croire une égale <ref target="#foi">foy*</ref> ;</l>
+            <l n="1691" xml:id="l1691">Mais je veux en tous deux croire une égale <ref target="#foi">foy</ref> ;</l>
             <l n="1692" xml:id="l1692">N’ayant pû rien pour luy, que pourrez-vous pour moy ?</l>
             <l n="1693" xml:id="l1693">L’exemple d’Annibal contre un si rude orage</l>
-            <l n="1694" xml:id="l1694">N’a pû vous inspirer ny <ref target="#vertu">vertu*</ref> ny <ref target="#courage1">courage*</ref>,</l>
-            <l n="1695" xml:id="l1695">Et dans cette honteuse et <ref target="#timide">timide*</ref> langueur</l>
+            <l n="1694" xml:id="l1694">N’a pû vous inspirer ny <ref target="#vertu">vertu</ref> ny <ref target="#courage1">courage</ref>,</l>
+            <l n="1695" xml:id="l1695">Et dans cette honteuse et <ref target="#timide">timide</ref> langueur</l>
             <l n="1696" xml:id="l1696">Une Fille en parlant vous donnera du cœur ?</l>
             <l n="1697" xml:id="l1697">Ah, je voy ce que c’est, bien d’autres le connoissent,</l>
             <l n="1698" xml:id="l1698">Les Rois ne sont plus Rois où les Romains paroissent.</l>
             <l n="1699" xml:id="l1699">Tremblez, Princes, tremblez ; l’honneur du sang Royal</l>
             <l n="1700" xml:id="l1700">Se maintenoit encore à l’ombre d’Annibal.</l>
             <l n="1701" xml:id="l1701">Depoüillé qu’il estoit il vous rendoit terribles,</l>
-            <l n="1702" xml:id="l1702"><ref target="#armer1">Armez*</ref> de son seul nom vous estiez invincibles,</l>
+            <l n="1702" xml:id="l1702"><ref target="#armer1">Armez</ref> de son seul nom vous estiez invincibles,</l>
             <l n="1703" xml:id="l1703">Et sa vie employée à vostre seureté</l>
-            <l n="1704" xml:id="l1704">Vous mettoit à <ref target="#couvert2">couvert*</ref> de la captivité.</l>
+            <l n="1704" xml:id="l1704">Vous mettoit à <ref target="#couvert2">couvert</ref> de la captivité.</l>
             <l n="1705" xml:id="l1705">Le Destin des Romains n’attendoit que sa perte<pb n="76"/></l>
             <l n="1706" xml:id="l1706">Pour voir la terre entiere à l’esclavage offerte.</l>
             <l n="1707" xml:id="l1707">De vostre liberté luy seul estoit l’appuy,</l>
@@ -3429,7 +3429,7 @@
             <l n="1721" xml:id="l1721">De sa haine outrageante il luy doit quelque compte.</l>
             <l n="1722" xml:id="l1722">Dans la paix de Cartage il trouva de la honte,</l>
             <l n="1723" xml:id="l1723">S’en bannit pour nous nuire, et sur ce faux abus<note resp="editor"><hi rend="i">Sur ce faux abus</hi> : en raison de ce qu’il considérait être un abus de la part de Rome.</note></l>
-            <l n="1724" xml:id="l1724">Vint enfin contre nous <ref target="#armer2">armer*</ref> Antiochus,</l>
+            <l n="1724" xml:id="l1724">Vint enfin contre nous <ref target="#armer2">armer</ref> Antiochus,</l>
             <l n="1725" xml:id="l1725">Il s’en justifiera ; pour vous<note resp="editor"><hi rend="i">Pour vous</hi> : en ce qui vous concerne.</note>, dont le seul crime</l>
             <l n="1726" xml:id="l1726">Est de croire un peu trop le sang qui vous anime,</l>
             <l n="1727" xml:id="l1727">Vous n’avez point de Rome à craindre le couroux,</l>
@@ -3442,7 +3442,7 @@
           <sp xml:id="V03-3" who="elise">
             <speaker>ELISE</speaker>
             <l n="1733" xml:id="l1733">Et bien, mes Défenseurs, me voicy donc Esclave,</l>
-            <l n="1734" xml:id="l1734">Sans rien faire pour moy vous <ref target="#souffrir2">souffrez*</ref> qu’on me brave,</l>
+            <l n="1734" xml:id="l1734">Sans rien faire pour moy vous <ref target="#souffrir2">souffrez</ref> qu’on me brave,</l>
             <l n="1735" xml:id="l1735">Et malgré vos serments de ne me point trahir</l>
             <l n="1736" xml:id="l1736">Vostre Maistre a parlé, c’est à vous d’obeïr ?</l>
             <l n="1737" xml:id="l1737">Où sont-ils ces serments d’oser tout pour me plaire,</l>
@@ -3452,9 +3452,9 @@
           </sp>
           <sp xml:id="V03-4" who="attale">
             <speaker>ATTALE</speaker>
-            <l n="1741" xml:id="l1741">C’est trop, c’est trop <ref target="#souffrir2">souffrir*</ref> qu’un Perfide se cache.</l>
+            <l n="1741" xml:id="l1741">C’est trop, c’est trop <ref target="#souffrir2">souffrir</ref> qu’un Perfide se cache.</l>
             <l n="1742" xml:id="l1742">Vous l’allez voir ce cœur qui vous a paru lâche,</l>
-            <l n="1743" xml:id="l1743">Et juger qui de nous par son manque de <ref target="#foi">foy*</ref></l>
+            <l n="1743" xml:id="l1743">Et juger qui de nous par son manque de <ref target="#foi">foy</ref></l>
             <l n="1744" xml:id="l1744">Meritoit les soupçons qui sont tombez sur moy.</l>
             <stage>A Flaminius.</stage>
             <l n="1745" xml:id="l1745">A quel titre, à quel droit<note resp="editor"><hi rend="i">A quel droit</hi> : de quel droit. La préposition « à » s’emploie fréquemment dans un sens causal (voir HAASE, A., <hi rend="i">op. cit.</hi>, § 123, p. 324-327).</note> vos jalouses envies</l>
@@ -3463,7 +3463,7 @@
             <l n="1748" xml:id="l1748">Disposer de nos jours quand et comme il vous plaist ?</l>
             <l n="1749" xml:id="l1749">Est-ce par l’amitié que le Senat me garde</l>
             <l n="1750" xml:id="l1750">Que vous avez pris soin de corrompre ma Garde,</l>
-            <l n="1751" xml:id="l1751">Et les plus noirs forfaits, à vous seuls <ref target="#reserver1">reservez*</ref>,</l>
+            <l n="1751" xml:id="l1751">Et les plus noirs forfaits, à vous seuls <ref target="#reserver1">reservez</ref>,</l>
             <l n="1752" xml:id="l1752">Deviennent-ils permis quand vous les approuvez ?</l>
             <l n="1753" xml:id="l1753">Quels droits sur ce beau sang que l’on vient de vous vendre,</l>
             <l n="1754" xml:id="l1754">Celuy qui vous le vend avoit-il à pretendre ?</l>
@@ -3500,7 +3500,7 @@
             <l part="F">Ouy, c’est par luy que le Ciel y rappelle<note resp="editor"> « Y » se rapporte  à « Pergame », au vers précédent. Il faut donc comprendre ici que le Ciel a rappelé Eumène du royaume des morts pour qu’il retourne à Pergame.</note></l>
             <l n="1770" xml:id="l1770">Que vous avez trouvé vostre Garde infidelle,</l>
             <l n="1771" xml:id="l1771">Quand nous le croyions mort, la mer nous l’a rendu,</l>
-            <l n="1772" xml:id="l1772">Et vous sçaurez de luy le <ref target="#respect1">respect*</ref> qui m’est dû.</l>
+            <l n="1772" xml:id="l1772">Et vous sçaurez de luy le <ref target="#respect1">respect</ref> qui m’est dû.</l>
           </sp>
           <sp xml:id="V03-10" who="attale">
             <speaker>ATTALE</speaker>
@@ -3513,8 +3513,8 @@
           </sp>
           <sp xml:id="V03-11" who="flaminius">
             <speaker>FLAMINIUS</speaker>
-            <l n="1779" xml:id="l1779">Qu’on l’observe, et <ref target="#abord1">d’abord*</ref>, s’il ose rien tenter<note resp="editor"><hi rend="i">S’il ose rien tenter</hi> : s’il ose tenter quoi que ce soit.</note>,</l>
-            <l n="1780" xml:id="l1780">Donnez ordre, Procule, à le faire <ref target="#arreter3">arrester*</ref>.</l>
+            <l n="1779" xml:id="l1779">Qu’on l’observe, et <ref target="#abord1">d’abord</ref>, s’il ose rien tenter<note resp="editor"><hi rend="i">S’il ose rien tenter</hi> : s’il ose tenter quoi que ce soit.</note>,</l>
+            <l n="1780" xml:id="l1780">Donnez ordre, Procule, à le faire <ref target="#arreter3">arrester</ref>.</l>
           </sp>
         </div>
         <div type="scene" xml:id="V04">
@@ -3522,7 +3522,7 @@
           <pb n="79"/>
           <stage>ELISE, PRUSIAS, FLAMINIUS, ARAXE.</stage>
           <sp xml:id="V04-1" who="elise">
-            <speaker>ELISE, <hi rend="i">à Prusias.</hi></speaker>
+            <speaker>ELISE, </speaker><stage>à Prusias.</stage>
             <l n="1781" xml:id="l1781">Seigneur, c’est donc à vous que de ce grand ouvrage</l>
             <l n="1782" xml:id="l1782">Doit enfin enfin sans debat demeurer l’avantage,</l>
             <l n="1783" xml:id="l1783">Et grace à vos bontez, tout l’honneur vous est dû</l>
@@ -3545,7 +3545,7 @@
             <speaker>FLAMINIUS</speaker>
             <l part="F">Ouy, Madame, et si vous balancez</l>
             <l n="1792" xml:id="l1792">J’oseray contre vous plus que vous ne pensez,</l>
-            <l n="1793" xml:id="l1793">J’<ref target="#arreter1">arresteray*</ref> le cours de cette humeur altiere.</l>
+            <l n="1793" xml:id="l1793">J’<ref target="#arreter1">arresteray</ref> le cours de cette humeur altiere.</l>
           </sp>
           <sp xml:id="V04-5" who="elise">
             <speaker>ELISE</speaker>
@@ -3562,13 +3562,13 @@
             <l n="1798" xml:id="l1798">Il sera beau pour toy d’avoir séduit un Traistre<note resp="editor"><hi rend="i">Il sera beau pour toy d’avoir séduit un Traistre</hi> : tu tireras de la gloire d’avoir corrompu un traître. Le propos est bien entendu ironique.</note>,<pb n="80"/></l>
             <l n="1799" xml:id="l1799">Et tes fourbes, dont l’art nous a mis sous tes loix,</l>
             <l n="1800" xml:id="l1800">Pour annoblir ton nom sont de fameux exploits,</l>
-            <l n="1801" xml:id="l1801">Tu crois donc que par là mon <ref target="#courage1">courage*</ref> se rende ?</l>
+            <l n="1801" xml:id="l1801">Tu crois donc que par là mon <ref target="#courage1">courage</ref> se rende ?</l>
             <l n="1802" xml:id="l1802">Le triomphe est honteux, l’infamie en est grande,</l>
             <l n="1803" xml:id="l1803">Mais au moins, si le Ciel en ose estre d’accord,</l>
             <l n="1804" xml:id="l1804">Nous n’aurons à rougir que d’un crime du Sort,</l>
             <l n="1805" xml:id="l1805">L’affront d’y succomber me fera moins d’injure</l>
             <l n="1806" xml:id="l1806">Que si je partageois le Trône d’un Parjure.</l>
-            <l n="1807" xml:id="l1807">De son manque de <ref target="#foi">foy*</ref> quoy qu’il se soit promis…</l>
+            <l n="1807" xml:id="l1807">De son manque de <ref target="#foi">foy</ref> quoy qu’il se soit promis…</l>
           </sp>
         </div>
         <div type="scene" xml:id="V05">
@@ -3601,8 +3601,8 @@
             <speaker>FLAMINIUS</speaker>
             <l part="F">Eclatez, Prusias,</l>
             <l n="1816" xml:id="l1816">L’entreprise est manquée, et je n’en doute pas.</l>
-            <l n="1817" xml:id="l1817">Vous voyant l’ame foible, et jamais <ref target="#arreter5">arrestée*</ref>,</l>
-            <l n="1818" xml:id="l1818">Ma <ref target="#defiance">défiance*</ref> exprés l’avoit precipitée,</l>
+            <l n="1817" xml:id="l1817">Vous voyant l’ame foible, et jamais <ref target="#arreter5">arrestée</ref>,</l>
+            <l n="1818" xml:id="l1818">Ma <ref target="#defiance">défiance</ref> exprés l’avoit precipitée,</l>
             <l n="1819" xml:id="l1819">Et je ne voulois pas à vostre esprit leger</l>
             <l n="1820" xml:id="l1820">Laisser l’occasion ny le temps de changer.</l>
             <l n="1821" xml:id="l1821">Le Prince agit par vous, son audace est la vostre.<note resp="editor"><hi rend="i">Var. 1692</hi> : vostre, Flaminius connaît trop bien Prusias pour croire cela sérieusement. On peut donc considérer deux possibilités : soit qu’il se laisse submerger par le dépit un court instant – et en oublie son machiavélisme, surpris par le cours des événements –, soit qu’il pousse Prusias à bout en le menaçant du courroux du Sénat, pour lui faire éliminer les fauteurs de trouble – poussant, au contraire, le machiavélisme à un degré extrême.</note></l>
@@ -3625,7 +3625,7 @@
           <sp xml:id="V06-1" who="elise">
             <speaker>ELISE</speaker>
             <l n="1829" xml:id="l1829">Poursuy, Flaminius, et pour te satisfaire</l>
-            <l n="1830" xml:id="l1830">Contre le sang du Fils <ref target="#armer1">arme*</ref> le bras du Pere.</l>
+            <l n="1830" xml:id="l1830">Contre le sang du Fils <ref target="#armer1">arme</ref> le bras du Pere.</l>
             <l n="1831" xml:id="l1831">Tu vois par Annibal échapé de tes mains</l>
             <l n="1832" xml:id="l1832">Comme le Ciel par tout seconde tes desseins.</l>
           </sp>
@@ -3671,7 +3671,7 @@
           <pb n="83"/>
           <stage>ANNIBAL, ELISE, NICOMEDE, ALCINE.</stage>
           <sp xml:id="V08-1" who="elise">
-            <speaker>ELISE, <hi rend="i">à Annibal.</hi></speaker>
+            <speaker>ELISE, </speaker><stage>à Annibal.</stage>
             <l n="1849" xml:id="l1849" part="I">Ah, Seigneur, c’est donc vous ?</l>
           </sp>
           <sp xml:id="V08-2" who="annibal">
@@ -3713,7 +3713,7 @@
             <l n="1864" xml:id="l1864">D’un poison préparé fut par elle adverty<note resp="editor"> Ce passage nous montre à quel point Thomas Corneille a utilisé Tite-Live et Plutarque, auxquels il a ici recours sur deux points. En effet, il fait d’abord allusion à une anecdote rapportée dans les <hi rend="i">Vies Parallèles</hi> : le médecin de Pyrrhus, pour mettre fin à la guerre que le roi livre à Rome, propose à l’ambassadeur romain Fabricius de l’empoisonner. Fabricius, indigné, envoie un messager à Pyrrhus pour le prévenir de la perfidie de son médecin (Plutarque, <hi rend="i">Les Vies des hommes illustres</hi>, t. 1, trad. Amyot, éd. G. Walter, Paris, Gallimard (coll. Pléiade), 1951, Vie de Pyrrhus, § XLIV, p. 893-894). En outre, il reprend en partie les dernières paroles que Tite-Live et Plutarque attribuent à Hannibal (voir annexes).</note>.</l>
             <l n="1865" xml:id="l1865">Quelque animosité qu’elle se crust permise</l>
             <l n="1866" xml:id="l1866">Elle n’en voulut point triompher par surprise,</l>
-            <l n="1867" xml:id="l1867"><ref target="#cependant2">Cependant*</ref> aujourd’huy le crime est de ses droits,</l>
+            <l n="1867" xml:id="l1867"><ref target="#cependant2">Cependant</ref> aujourd’huy le crime est de ses droits,</l>
             <l n="1868" xml:id="l1868">Et pour perdre Annibal, elle corrompt les Rois.</l>
           </sp>
         </div>
@@ -3721,7 +3721,7 @@
           <head>SCENE IX.</head>
           <stage>ANNIBAL, NICOMEDE, ELISE, ARAXE, ALCINE.</stage>
           <sp xml:id="V09-1" who="araxe">
-            <speaker>ARAXE, <hi rend="i">à Nicomède.</hi></speaker>
+            <speaker>ARAXE, </speaker><stage>à Nicomède.</stage>
             <l n="1869" xml:id="l1869">Seigneur, de Prusias plaignez la destinée.</l>
           </sp>
           <sp xml:id="V09-2" who="nicomede">
@@ -3751,22 +3751,22 @@
             <l n="1880" xml:id="l1880">Au milieu des Romains il s’est precipité.</l>
             <l n="1881" xml:id="l1881">C’est là que Prusias armé pour leur défence<pb n="H 85"/></l>
             <l n="1882" xml:id="l1882">A voulu s’opposer à cette violence,</l>
-            <l n="1883" xml:id="l1883">Il les a secondez contre Attale, et <ref target="#abord1">d’abord*</ref></l>
+            <l n="1883" xml:id="l1883">Il les a secondez contre Attale, et <ref target="#abord1">d’abord</ref></l>
             <l n="1884" xml:id="l1884">Sans sçavoir par quel bras on l’a veu tomber mort.</l>
             <l n="1885" xml:id="l1885">Pour vanger cette perte aux Romains si fatale</l>
             <l n="1886" xml:id="l1886">Ils s’animent l’un l’autre, envelopent Attale,</l>
-            <l n="1887" xml:id="l1887">L’<ref target="#arreter3">arrestent*</ref>, et craignant quelques malheurs nouveaux,</l>
+            <l n="1887" xml:id="l1887">L’<ref target="#arreter3">arrestent</ref>, et craignant quelques malheurs nouveaux,</l>
             <l n="1888" xml:id="l1888">Flaminius, dit-on, regagne ses vaisseaux.</l>
           </sp>
           <sp xml:id="V09-6" who="nicomede">
             <speaker>NICOMEDE</speaker>
             <l n="1889" xml:id="l1889">O succez déplorable ! ô perte trop amere !</l>
-            <l n="1890" xml:id="l1890">Romains, qui me coustez la <ref target="#vertu">vertu*</ref> de mon Pere,</l>
+            <l n="1890" xml:id="l1890">Romains, qui me coustez la <ref target="#vertu">vertu</ref> de mon Pere,</l>
             <l n="1891" xml:id="l1891">Vous m’en ferez raison ; pour ce noble soucy,</l>
             <l n="1892" xml:id="l1892">Donnez l’ordre, Seigneur, vous estes maistre icy.</l>
           </sp>
           <sp xml:id="V09-7" who="annibal">
-            <speaker>ANNIBAL, <hi rend="i">à Elise.</hi></speaker>
+            <speaker>ANNIBAL, </speaker><stage>à Elise.</stage>
             <l n="1893" xml:id="l1893">C’est trop, il ne faut plus que vostre amour se cache,</l>
             <l n="1894" xml:id="l1894">Le Prince vous merite, il est enfin sans tache<note resp="editor">Hannibal reprochait à Nicomède, à la scène 4 de l’acte II, de ne pas être roi (« Et quand je vous compare avec nos plus grands Rois, / Dans le foible honteux qu’ils laissent tous paroistre, / Je ne vois que vous seul qui meritiez de l’estre, / Mais pour moy ce merite est un bien imparfait, / C’est peu qu’en estre digne, il faut l’estre en effet », v. 620-624), et c’est pourquoi il refusait de lui donner la main de sa fille. Mais maintenant que Prusias est mort, Nicomède accède au trône de Bithynie, et dispose d’une armée pour combattre Rome : Hannibal peut donc lui accorder Élise. </note>,</l>
             <l n="1895" xml:id="l1895">Prenez-le pour Epoux, et dans tous vos desseins</l>
@@ -3814,11 +3814,11 @@
           <sp xml:id="V09-13" who="nicomede">
             <speaker>NICOMEDE</speaker>
             <l part="F">Ah, Madame !</l>
-            <l n="1918" xml:id="l1918">Que d’<ref target="#ennui">ennuis*</ref> à la fois s’emparent de mon ame !</l>
+            <l n="1918" xml:id="l1918">Que d’<ref target="#ennui">ennuis</ref> à la fois s’emparent de mon ame !</l>
             <l n="1919" xml:id="l1919">Allons en Bithynie, et pour nous soulager</l>
             <l n="1920" xml:id="l1920">Faisons-y tout servir au soin de nous vanger<note resp="editor"> Cette réplique trouvera son écho avec celle de Xipharès dans <hi rend="i">Mithridate</hi> : « Ah, Madame ! Unissons nos douleurs, / Et par tout l’Univers cherchons-lui des Vengeurs » (RACINE J., <hi rend="i">Mithridate</hi>, V, 5, v. 1709-1710 (première numérotation), in éd. cit., p. 686).</note>.</l>
           </sp>
-          <label rend="i">FIN.</label>
+          <trailer rend="i">FIN.</trailer>
         </div>
       </div>
       <div xml:id="privilege" type="appendix" n="1">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -25,11 +25,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/boyer_comte-essex/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/boyer_comte-essex.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/boyer_comte-essex.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/boyer_comte-essex.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/boyer_comte-essex.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/boyer_comte-essex/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/boyer_comte-essex.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/boyer_comte-essex.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/boyer_comte-essex.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/boyer_comte-essex.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>BOYER, Claude</author>. <title>Le Comte d'Essex. Tragédie</title>. A PARIS,  Chez CHARLES OSMONT, dans la grande Salle du Palais, du costé de la Cour des Aydes, à l’Ecu de France.  M. DC. LXXVIII.  Avec Privilege du Roy.</bibl>
@@ -527,7 +527,7 @@
             <item>nous avons amendé quelques leçons manifestement incorrectes (corrections signalées dans les notes en bas de page).</item>
           </list>
           <p>En revanche, nous avons respecté la ponctuation primitive, sauf lorsque, dans de très rares cas, elle paraissait fautive (corrections signalées dans les notes) : la ponctuation consistait alors en une ponctuation orale.</p>
-          <p>Un astérisque* à la fin d’un mot renvoie le lecteur au glossaire, pour une définition de ce mot en usage au XVII<hi rend="sup">e</hi> siècle et éventuellement un commentaire des occurrences.</p>
+          <p>Un astérisque à la fin d’un mot renvoie le lecteur au glossaire, pour une définition de ce mot en usage au XVII<hi rend="sup">e</hi> siècle et éventuellement un commentaire des occurrences.</p>
         </div>
       </div>
     </front>
@@ -592,7 +592,7 @@
           <stage>COBAN, RALEG.</stage>
           <sp xml:id="I01-1" who="coban">
             <speaker>COBAN.</speaker>
-            <l n="1" xml:id="l1">Ah cher amy, tout <ref target="#flatter">flatte<hi rend="sup">*</hi></ref> et soûtient nos desseins.</l>
+            <l n="1" xml:id="l1">Ah cher amy, tout <ref target="#flatter">flatte<hi rend="sup"/></ref> et soûtient nos desseins.</l>
             <l n="2" xml:id="l2">Le fier Comte d’Essex va tomber dans nos mains :</l>
             <l n="3" xml:id="l3">Le voila de retour ; sa prompte obeïssance</l>
             <l n="4" xml:id="l4">Expose sa personne et trompe sa prudence<note n="68" place="bottom"> Ces vers évoquent une situation qui n’est pas sans rappeler <hi rend="i">Nicomède</hi> de Corneille. En effet, Nicomède, fils de Prusias, roi de Bithynie, reparaît à la cour sans en avoir reçu l’ordre, abandonnant l’armée aux soins d’un lieutenant. Sa bien-aimée, Laodice, lui fait remarquer son imprudence en ces termes : « Seigneur, votre retour, loin de rompre ses coups, / Vous expose vous-même, et m’expose après vous » (v. 77-78). Cet argument est le fondement même du stratagème utilisé par Arsinoé pour abattre Nicomède : « Tu l’entends mal, Attale, il la [l’entreprise] met dans ma main. »</note>.</l>
@@ -605,7 +605,7 @@
             <l n="11" xml:id="l11">Quel triomphe de voir par un coup de tempeste</l>
             <l n="12" xml:id="l12">Tomber d’un si haut lieu cette superbe teste<note n="70" place="bottom">Ce vers joue sur le double sens – propre et figuré – du verbe « tomber » et du substantif « teste » qui peuvent désigner d’une part, la disgrâce du comte d’Essex mais aussi au sens propre, la mort prochaine du favori, introduisant ainsi l’image de l’échafaud. Cette ironie est propre au personnage du perfide courtisan qu’incarne Coban. </note> !</l>
             <l n="13" xml:id="l13">Je le dis entre nous, ce qu’on admire en luy</l>
-            <l n="14" xml:id="l14">Est un sujet pour moy de fureur et d’<ref target="#ennuy">ennuy<hi rend="sup">*</hi></ref> ;</l>
+            <l n="14" xml:id="l14">Est un sujet pour moy de fureur et d’<ref target="#ennuy">ennuy<hi rend="sup"/></ref> ;</l>
             <l n="15" xml:id="l15">Sa trop vaste grandeur est un poids qui m’accable :</l>
             <l n="16" xml:id="l16">Son merite toûjours me fût insupportable,</l>
             <l n="17" xml:id="l17">Et je sens de l’horreur pour luy quand je le voy</l>
@@ -614,9 +614,9 @@
           <sp xml:id="I01-2" who="raleg">
             <speaker>RALEG.</speaker>
             <l n="19" xml:id="l19">Ne perdons point de temps : tout conspire à sa perte,</l>
-            <l n="20" xml:id="l20">Les soubçons apparens d’une ligue <ref target="#couvert">couverte*</ref>,</l>
+            <l n="20" xml:id="l20">Les soubçons apparens d’une ligue <ref target="#couvert">couverte</ref>,</l>
             <l n="21" xml:id="l21">Ce qu’on doit presumer d’un cœur ambitieux</l>
-            <l n="22" xml:id="l22">Que <ref target="#flatter">flattent<hi rend="sup">*</hi></ref> des succez si grands, si glorieux ;</l>
+            <l n="22" xml:id="l22">Que <ref target="#flatter">flattent<hi rend="sup"/></ref> des succez si grands, si glorieux ;</l>
             <l n="23" xml:id="l23">D’un credit trop puissant les murmures, les plaintes,</l>
             <l n="24" xml:id="l24">Les ombrages secrets et les jalouses craintes.</l>
             <l n="25" xml:id="l25">La Reine écoute tout et de la trahison</l>
@@ -640,7 +640,7 @@
             <l part="F">Elle peut faire un Roy :<note n="73" place="bottom">Malgré les nombreux prétendants qui se pressèrent autour d’Elisabeth, celle-ci écarta les plus beaux partis et refusa obstinément de contracter aucune alliance, ce qui lui valut le surnom de « Reine vierge ». Le problème de sa succession se posa donc de manière récurrente.</note></l>
             <l n="34" xml:id="l34">C’est par là que la Reine a des charmes pour moy.<pb n=" Aij"/></l>
             <l n="35" xml:id="l35">Le Comte n’estant plus, s’il faut qu’elle choisisse,</l>
-            <l n="36" xml:id="l36">Je puis <ref target="#briguer">briguer<hi rend="sup">*</hi></ref> son choix avec quelque justice.</l>
+            <l n="36" xml:id="l36">Je puis <ref target="#briguer">briguer<hi rend="sup"/></ref> son choix avec quelque justice.</l>
             <l n="37" xml:id="l37">Par des soins empressez j’y travaille en secret</l>
             <l n="38" xml:id="l38">Sans laisser échapper un amour indiscret.</l>
             <l n="39" xml:id="l39">Mais Clarence ayant vû cette ardeur pour la Reine,</l>
@@ -686,7 +686,7 @@
             <l n="63" xml:id="l63">Infidelle à l’Etat et perfide à sa Reine,</l>
             <l n="64" xml:id="l64">L’objet de vostre amour ainsi que de ma haine,</l>
             <l n="65" xml:id="l65">Etaler à nos yeux un de ces grands revers</l>
-            <l n="66" xml:id="l66">Dont le Ciel équitable <ref target="#etonner">étonne*</ref> l’Univers.</l>
+            <l n="66" xml:id="l66">Dont le Ciel équitable <ref target="#etonner">étonne</ref> l’Univers.</l>
           </sp>
           <sp xml:id="I02-3" who="clarence">
             <speaker>CLARENCE.</speaker>
@@ -730,7 +730,7 @@
             <l n="89" xml:id="l89">Qui d’un peuple mutin se veut faire un appuy.<note n="80" place="bottom">Essex chercha, en effet, l’appui du peuple londonien, croyant qu’il lui vouait un réel attachement. En rentrant dans la ville, ses amis et lui voulurent ameuter ses habitants en criant qu’on voulait assassiner Essex, ce qui laissa indifférents les badauds qu’ils rencontrèrent.</note></l>
             <l n="90" xml:id="l90">Qui se fait un azile, une autre Cour chez luy ?<note n="81" place="bottom">Essex recevait chez lui de nombreux artistes, philosophes et lettrés comme Francis Bacon ou Lord Rutland, protecteur de William Shakespeare.</note></l>
             <l n="91" xml:id="l91">Luy de qui la puissance et si vaste et si pleine</l>
-            <l n="92" xml:id="l92"><ref target="#balancer">Balance<hi rend="sup">*</hi></ref> les destins du Thrône et de la Reine ?</l>
+            <l n="92" xml:id="l92"><ref target="#balancer">Balance<hi rend="sup"/></ref> les destins du Thrône et de la Reine ?</l>
           </sp>
           <sp xml:id="I02-9" who="clarence">
             <speaker>CLARENCE.</speaker>
@@ -792,15 +792,15 @@
           <head>SCENE III.</head>
           <stage>LA REINE, CLARENCE, COBAN, VALDEN, LEONOR.</stage>
           <sp xml:id="I03-1" who="coban">
-            <speaker>COBAN, <hi rend="i">bas</hi>.</speaker>
+            <speaker>COBAN, </speaker><stage>bas</stage>
             <l n="124" xml:id="l124">Quelle affreuse pâleur sur son front répanduë.<note n="87" place="bottom">Les personnages parviennent à lire les sentiments de chacun sur leur front. Tandis que sur celui de Coban, Clarence devine une « maligne joye » (v. 56) , Coban découvre sur celui de la reine une « affreuse paleur » témoin de son désespoir. Au vers 252, la reine se persuadera de la culpabilité d’Essex de la même façon.</note></l>
           </sp>
           <sp xml:id="I03-2" who="clarence">
-            <speaker>CLARENCE, <hi rend="i">bas.</hi><note n="88" place="bottom"><hi rend="sc">clarence</hi><hi rend="i">bas.</hi> Nous corrigeons.</note></speaker>
+            <speaker>CLARENCE, <note n="88" place="bottom"><hi rend="sc">clarence</hi><hi rend="i">bas.</hi> Nous corrigeons.</note></speaker><stage>bas.</stage>
             <l n="125" xml:id="l125">Iray-je en cét état combattre sa douleur ?</l>
           </sp>
           <sp xml:id="I03-3" who="coban">
-            <speaker>COBAN, <hi rend="i">bas.</hi><note n="89" place="bottom"><hi rend="sc">coban</hi><hi rend="i">bas.</hi> Nous corrigeons.</note></speaker>
+            <speaker>COBAN, <note n="89" place="bottom"><hi rend="sc">coban</hi><hi rend="i">bas.</hi> Nous corrigeons.</note></speaker><stage>bas.</stage>
             <l n="126" xml:id="l126">Iray-je en cét état irriter sa fureur ?</l>
           </sp>
           <sp xml:id="I03-4" who="leonor">
@@ -911,7 +911,7 @@
             <l n="166" xml:id="l166">On dit que vous voulez vous assurer de moy,</l>
             <l n="167" xml:id="l167">Madame, et que Coban craignoit ma resistance :</l>
             <l n="168" xml:id="l168">Qu’il ne craigne plus rien, me voicy sans deffence,</l>
-            <l n="169" xml:id="l169" part="I">J’ay <ref target="#prevenir">prevenu<hi rend="sup">*</hi></ref> vostre ordre.</l>
+            <l n="169" xml:id="l169" part="I">J’ay <ref target="#prevenir">prevenu<hi rend="sup"/></ref> vostre ordre.</l>
           </sp>
           <sp xml:id="I06-2" who="elizabet">
             <speaker>LA REINE.</speaker>
@@ -929,7 +929,7 @@
             <l n="176" xml:id="l176">Vous me devez justice, et je vous la demande.</l>
           </sp>
           <sp xml:id="I06-4" who="elizabet">
-            <speaker>LA REINE <hi rend="i">à sa suite.</hi></speaker>
+            <speaker>LA REINE </speaker><stage>à sa suite.</stage>
             <l n="177" xml:id="l177" part="I">Oüy, je vous la rendray. Sortez.</l>
           </sp>
         </div>
@@ -937,7 +937,7 @@
           <head>SCENE VII.</head>
           <stage>LA REINE, LE C. D’ESSEX.</stage>
           <sp xml:id="I07-1" who="elizabet">
-            <speaker>LA REINE <hi rend="i">continuë.</hi></speaker>
+            <speaker>LA REINE </speaker><stage>continuë.</stage>
             <l part="F">Leve les yeux :</l>
             <l n="178" xml:id="l178">Regarde enfin ta<note n="97" place="bottom"> Durant tout le face à face que constitue cette scène entre la reine et le comte d’Essex, nous remarquerons l’alternance des deuxièmes personnes du singulier et du pluriel. Cette alternance souligne deux niveaux d’énonciation. C’est avant tout un tête à tête entre Elisabeth, la femme amoureuse et son favori, Essex : dès le début, elle le tutoie jusqu’au vers 252. Cependant lorsque le comte a l’audace de déchirer la lettre, Elisabeth redevient reine d’Angleterre et s’exclame « Ce billet déchiré redouble <hi rend="u">vostre</hi> crime. » (Nous soulignons.) Elle continue en reprenant ce ton familier du début dès le vers suivant pour l’abandonner définitivement au vers 279, face à l’obstination d’un sujet si fier. La distance qu’impose leur statut – une reine face à son sujet – marque la fin d’un entretien qui ne peut plus décemment se prolonger sans témoin.</note> Reine et ces augustes lieux</l>
             <l n="179" xml:id="l179">Où les profusions de ma main liberale,<note n="98" place="bottom">La faveur royale fit sa fortune. En 1588, il reçut l’ordre de la Jarretière, puis fut fait maître de la cour, dispensateur des faveurs royales ce qui faisait de lui le second personnage de l’État. En 1597, il devint maréchal d’Angleterre.</note></l>
@@ -947,7 +947,7 @@
             <l n="183" xml:id="l183">Aprés t’avoir fait part de la toute-puissance,</l>
             <l n="184" xml:id="l184">Aprés avoir si haut relevé ta naissance,<note n="100" place="bottom">ta naissance. Nous corrigeons.</note></l>
             <l n="185" xml:id="l185">Aprés t’avoir comblé de tresors et d’honneurs,</l>
-            <l n="186" xml:id="l186">Je n’ay pû te <ref target="#souler">soûler*</ref> de gloire et de grandeurs.<note n="101" place="bottom">Elisabeth s’exclame dans la pièce de La Calprenède : « Ne l’ai-je relevé par-dessus sa naissance, /N’ai-je soûlé son cœur de gloire et de grandeurs » (v. 6-7).</note></l>
+            <l n="186" xml:id="l186">Je n’ay pû te <ref target="#souler">soûler</ref> de gloire et de grandeurs.<note n="101" place="bottom">Elisabeth s’exclame dans la pièce de La Calprenède : « Ne l’ai-je relevé par-dessus sa naissance, /N’ai-je soûlé son cœur de gloire et de grandeurs » (v. 6-7).</note></l>
             <l n="187" xml:id="l187">Il falloit de ma teste arracher la Couronne.</l>
             <l n="188" xml:id="l188">Respectant peu les loix que nostre sexe<note n="102" place="bottom"> Le « beau sexe » ou simplement « sexe » désignent les femmes au XVII<hi rend="sup">e</hi> siècle.</note> donne,</l>
             <l n="189" xml:id="l189">Tu me croyois peut-estre indigne de regner.</l>
@@ -1078,7 +1078,7 @@
         <div type="scene" xml:id="I08">
           <head>SCENE VIII.</head>
           <sp xml:id="I08-1" who="elizabet">
-            <speaker>LA REINE <hi rend="i">seule.</hi></speaker>
+            <speaker>LA REINE </speaker><stage>seule.</stage>
             <l n="286" xml:id="l286">Mais qu’est-ce que je sens ? quel lâche mouvement,</l>
             <l n="287" xml:id="l287">Quelle indigne pitié s’eleve dans mon ame ?</l>
           </sp>
@@ -1132,7 +1132,7 @@
             <l n="313" xml:id="l313">Elle à qui nous voyons tous les jours tant de Rois</l>
             <l n="314" xml:id="l314">Demander à l’envy la gloire de son choix,</l>
             <l n="315" xml:id="l315">Elle qui de son nom remplit toute la terre,</l>
-            <l n="316" xml:id="l316">Sur un foible sujet <ref target="#balancer">balance*</ref> son tonnerre,</l>
+            <l n="316" xml:id="l316">Sur un foible sujet <ref target="#balancer">balance</ref> son tonnerre,</l>
             <l n="317" xml:id="l317">N’ose lancer la foudre et ménage ses jours.</l>
           </sp>
           <sp xml:id="I09-7" who="elizabet">
@@ -1150,10 +1150,10 @@
             <l n="321" xml:id="l321">Ou qu’il parle, ou qu’il meure, allez, obeïssez.</l>
           </sp>
           <sp xml:id="I09-10" who="coban">
-            <speaker>COBAN <hi rend="i">en s’en allant.</hi></speaker>
+            <speaker>COBAN </speaker><stage>en s’en allant.</stage>
             <l n="322" xml:id="l322">Qu’il parle ou non, le Comte est perdu, c’est<note n="131" place="bottom">cest. Nous corrigeons.</note> assez.</l>
           </sp>
-          <label>Fin du premier Acte.</label>
+          <trailer>Fin du premier Acte.</trailer>
         </div>
       </div>
       <div xml:id="II" type="act">
@@ -1238,7 +1238,7 @@
             <l n="375" xml:id="l375">Ah, que de ce transport j’aime la violence !</l>
             <l n="376" xml:id="l376">Un si beau mouvement prouve vostre innocence.<note n="137" place="bottom">Tandis que les arguments et la fougue d’Essex convainquent son ami, ils n’agissent pas de la même manière sur l’opinion de la reine (cf. v. 239-240, 1348).</note></l>
             <l n="377" xml:id="l377">Je rougis, je me hais d’avoir pû seulement</l>
-            <l n="378" xml:id="l378">A vous croire innocent <ref target="#balancer">balancer*</ref> un moment.</l>
+            <l n="378" xml:id="l378">A vous croire innocent <ref target="#balancer">balancer</ref> un moment.</l>
             <l n="379" xml:id="l379">Je n’offenseray plus une gloire si pure.</l>
             <l n="380" xml:id="l380">Vous, dementez toûjours, confondez l’imposture,</l>
             <l n="381" xml:id="l381">Et loin qu’un lâche aveu vous doive secourir,</l>
@@ -1254,7 +1254,7 @@
           </sp>
           <sp xml:id="II01-9" who="salisbery">
             <speaker>LE C. DE SALISBERY.</speaker>
-            <l n="388" xml:id="l388">Je sçay vos feux secrets pour l’<ref target="#aimable">aimable*</ref> Clarence.</l>
+            <l n="388" xml:id="l388">Je sçay vos feux secrets pour l’<ref target="#aimable">aimable</ref> Clarence.</l>
           </sp>
           <sp xml:id="II01-10" who="comte-essex">
             <speaker>LE C. D’ESSEX.</speaker>
@@ -1287,7 +1287,7 @@
           <head>SCENE II.</head>
           <stage>LE C. D’ESSEX, COBAN.</stage>
           <sp xml:id="II02-1" who="comte-essex">
-            <speaker>LE C. D’ESSEX <hi rend="i">continuë.</hi></speaker>
+            <speaker>LE C. D’ESSEX </speaker><stage>continuë.</stage>
             <l part="F">Est-ce vous que je voy ?</l>
             <l n="406" xml:id="l406" part="I">D’où me vient cét honneur ?</l>
           </sp>
@@ -1297,7 +1297,7 @@
           </sp>
           <sp xml:id="II02-3" who="comte-essex">
             <speaker>LE C. D’ESSEX.</speaker>
-            <l n="407" xml:id="l407">Vous venez <ref target="#insulter">insulter*</ref> au malheur qui m’accable.</l>
+            <l n="407" xml:id="l407">Vous venez <ref target="#insulter">insulter</ref> au malheur qui m’accable.</l>
             <l n="408" xml:id="l408">C’est sans doute à vos yeux un sujet agreable.</l>
             <l n="409" xml:id="l409">Pour le cœur de Coban ce triomphe est bien doux.</l>
           </sp>
@@ -1306,7 +1306,7 @@
             <l n="410" xml:id="l410">Si vous expliquiez mieux<note n="140" place="bottom">C’est-à-dire si vous donniez un autre sens à mes actes.</note> ce que je fais pour vous</l>
             <l n="411" xml:id="l411">Vous pourriez imputer ma visite à mon zele.<pb n="p. 21"/></l>
             <l n="412" xml:id="l412">Mais la haine est injuste et sa voix infidelle</l>
-            <l n="413" xml:id="l413"><ref target="#prevenir">Prevenant*</ref> vôtre Esprit vous fera soubçonner</l>
+            <l n="413" xml:id="l413"><ref target="#prevenir">Prevenant</ref> vôtre Esprit vous fera soubçonner</l>
             <l n="414" xml:id="l414">Le sincere conseil que je viens vous donner.</l>
             <l n="415" xml:id="l415">Je sçay que sur un crime ou faux ou veritable</l>
             <l n="416" xml:id="l416">Il est toûjours honteux de s’avoüer coupable :</l>
@@ -1326,7 +1326,7 @@
           </sp>
           <sp xml:id="II02-6" who="coban">
             <speaker>COBAN.</speaker>
-            <l n="427" xml:id="l427">D’un injuste soubçon vôtre ame <ref target="#prevenir">prévenüe*</ref></l>
+            <l n="427" xml:id="l427">D’un injuste soubçon vôtre ame <ref target="#prevenir">prévenüe</ref></l>
             <l n="428" xml:id="l428">Répand toûjours sur moy le venin qui la tüe.</l>
             <l n="429" xml:id="l429">Mais dans l’affreux peril, Seigneur, où je vous voy</l>
             <l n="430" xml:id="l430">Je vous donne un conseil que je prendrois pour moy.</l>
@@ -1372,7 +1372,7 @@
             <l n="448" xml:id="l448">Vous méme vous pourriez en porter témoignage,</l>
             <l n="449" xml:id="l449">Vous m’avez vû combattre et grace au Ciel mon bras</l>
             <l n="450" xml:id="l450">Pour perdre un ennemy<note n="145" place="bottom"> Forme fautive « ennemis » corrigée dans l’errata.</note> ne se cacheroit pas.</l>
-            <l n="451" xml:id="l451">Mais quittons l’un et l’autre un discours qui nous <ref target="#gesne">gesne*</ref>.</l>
+            <l n="451" xml:id="l451">Mais quittons l’un et l’autre un discours qui nous <ref target="#gesne">gesne</ref>.</l>
             <l n="452" xml:id="l452">Que dois-je cependant raporter à la Reine ?</l>
             <l n="453" xml:id="l453">Vous sçavez son dessein, n’avourez-vous jamais...</l>
           </sp>
@@ -1409,7 +1409,7 @@
             <l part="F">Non, Coban, arrestez.</l>
             <l n="470" xml:id="l470">Allez luy dire encor toutes vos lâchetez.</l>
             <l n="471" xml:id="l471">J’ay part à vos forfaits et ce fût là mon crime</l>
-            <l n="472" xml:id="l472">D’avoir voulu pour vous <ref target="#surprendre">surprendre*</ref> son estime,</l>
+            <l n="472" xml:id="l472">D’avoir voulu pour vous <ref target="#surprendre">surprendre</ref> son estime,</l>
             <l n="473" xml:id="l473">De vous avoir souffert ainsi que vos pareils</l>
             <l n="474" xml:id="l474">Infecter<note n="149" place="bottom">La phrase est construite sur le schéma suivant : succession de cinq compléments attributs du sujet « crime ». Ils sont tous introduits par la préposition « de » suivie d’un verbe à l’infinitif passé (« avoir voulu, avoir souffert, avoir donné... » ). Le vers 474 fait exception. Il y a ellipse de la préposition et le verbe est à l’infinitif présent, soulignant ainsi la durée de l’action dans le présent contrairement aux autres actions révolues.</note> son esprit par vos lâches conseils,</l>
             <l n="475" xml:id="l475">D’avoir à vos amis par trop de complaisance</l>
@@ -1525,7 +1525,7 @@
             <speaker>LE C. D’ESSEX.</speaker>
             <l n="550" xml:id="l550">J’iray donc m’accuser des plus noirs attentats,</l>
             <l n="551" xml:id="l551">Et me deshonorer pour racheter ma vie.</l>
-            <l n="552" xml:id="l552">M’aimerez-vous <ref target="#couvert">couvert*</ref> de honte et d’infamie ?</l>
+            <l n="552" xml:id="l552">M’aimerez-vous <ref target="#couvert">couvert</ref> de honte et d’infamie ?</l>
           </sp>
           <sp xml:id="II03-10" who="clarence">
             <speaker>CLARENCE.</speaker>
@@ -1558,7 +1558,7 @@
             <l n="562" xml:id="l562">Salisbery, Coban, n’ont peu rien obtenir.</l>
           </sp>
           <sp xml:id="II04-2" who="clarence">
-            <speaker>CLARENCE <hi rend="i">à part.</hi></speaker>
+            <speaker>CLARENCE </speaker><stage>à part.</stage>
             <l n="563" xml:id="l563">Que luy diray-je ? ô ! Dieu que je crains sa colere !</l>
           </sp>
           <sp xml:id="II04-3" who="elizabet">
@@ -1632,7 +1632,7 @@
             <l n="604" xml:id="l604">Ce zele, ces respects, ces douleurs et ces larmes.</l>
             <l n="605" xml:id="l605">Quel orgueil indomptable ! il aime mieux mourir....</l>
             <l n="606" xml:id="l606">Il mourra, vous voulez en vain le secourir.</l>
-            <l n="607" xml:id="l607">Vostre cœur et le sien sont trop d’<ref target="#intelligence">intelligence*</ref>.            [p. 29] [Ciij]</l>
+            <l n="607" xml:id="l607">Vostre cœur et le sien sont trop d’<ref target="#intelligence">intelligence</ref>.            [p. 29] [Ciij]</l>
             <l n="608" xml:id="l608">Il n’a pour moy qu’orgueil, faux respect, deffiance,</l>
             <l n="609" xml:id="l609">Il brave mon amour, ma faveur, mes bienfaits.</l>
           </sp>
@@ -1652,7 +1652,7 @@
         <div type="scene" xml:id="II05">
           <head>SCENE V.</head>
           <sp xml:id="II05-1" who="clarence">
-            <speaker>CLARENCE <hi rend="i">seule.</hi></speaker>
+            <speaker>CLARENCE </speaker><stage>seule.</stage>
             <l n="615" xml:id="l615">Ciel, qui vois<note n="170" place="bottom"> La forme grammaticale « vois » , 2<hi rend="sup">e</hi> personne du singulier, est justifiée ici du fait que c’est une apostrophe élidée du type : Ciel, [toi] qui vois... Idem au vers 618.</note> les transports d’une Reine charmée,</l>
             <l n="616" xml:id="l616">Mon<note n="171" place="bottom">Mont. Nous corrigeons.</note> Amant en peril, ma tendresse allarmée,</l>
             <l n="617" xml:id="l617">Ciel qui dans cette Reine as mis<note n="172" place="bottom"> a mis. Nous corrigeons : voir la note du vers 615 (Ciel, [toi] qui as mis...).</note> tant de vertus,</l>
@@ -1666,7 +1666,7 @@
             <l n="625" xml:id="l625">Qu’il vive, c’est assez, c’est mon unique bien,</l>
             <l n="626" xml:id="l626">J’abandonne le reste et ne demande rien.<note n="174" place="bottom"> Comme Atalide dans <hi rend="i">Bajazet</hi>, Clarence préfère céder son amant c’est-à-dire ici sa gloire plutôt que de le perdre tandis que Roxane précise : « Qu’il l’épouse en un mot plutôt que de périr. » (v. 400).</note></l>
           </sp>
-          <label>Fin du second Acte.</label>
+          <trailer>Fin du second Acte.</trailer>
         </div>
       </div>
       <div xml:id="III" type="act">
@@ -1699,7 +1699,7 @@
             <l n="642" xml:id="l642">Que devroient occuper d’autres soins pour ma gloire</l>
             <l n="643" xml:id="l643">A mon ame indignée ose representer</l>
             <l n="644" xml:id="l644">Les crimes odieux que l’on m’ose imputer.</l>
-            <l n="645" xml:id="l645">Je suis donc accusé de quelque <ref target="#intelligence">intelligence*</ref></l>
+            <l n="645" xml:id="l645">Je suis donc accusé de quelque <ref target="#intelligence">intelligence</ref></l>
             <l n="646" xml:id="l646">Avec une ennemie et jalouse Puissance :</l>
             <l n="647" xml:id="l647">Les Irlandois, dit-on, ces fameux revoltez</l>
             <l n="648" xml:id="l648">Ont receu de ma part des lettres, des traitez,<note n="180" place="bottom">À la tête de 20 000 hommes, Essex fut envoyé en 1599, en Ulster pour réprimer une révolte fomentée par le comte de Tyrone. Cependant, désobéissant aux ordres de la reine, il se rendit en Ossalie (région proche de Dublin) pour combattre les O-Conores et les O-Mores. Si bien qu’on ne comptait plus que 1300 hommes quand il arriva enfin en Ulster où il signa une trêve de six semaines renouvelable, contre l’avis de la reine – elle avait eu vent du projet grâce aux espions qu’elle avait placés au sein de l’armée – ce qui provoqua sa colère. Un premier procès en 1600 le démit de ses fonctions de membre du conseil privé, de maréchal d’Angleterre et de grand maître de l’artillerie et l’assigna à résidence.</note></l>
@@ -1720,7 +1720,7 @@
             <l n="663" xml:id="l663">Ce sont là mes forfaits<note n="186" place="bottom">Le comte joue sur le paradoxe qui consiste à dire que ces bons et loyaux services sont justement ce qu’on lui reproche (v. 667 « Voilà mes attentats. » ).</note> ; combattre heureusement,</l>
             <l n="664" xml:id="l664">M’immoler pour l’Etat, obeïr promptement,</l>
             <l n="665" xml:id="l665">A tous mes ennemis me livrer sans deffence,</l>
-            <l n="666" xml:id="l666">M’<ref target="#assurer">assurer*</ref> sur ma Reine et sur mon innocence :</l>
+            <l n="666" xml:id="l666">M’<ref target="#assurer">assurer</ref> sur ma Reine et sur mon innocence :</l>
             <l n="667" xml:id="l667">Voila mes attentats.<note n="187" place="bottom">Essex ne change pas le système de défense qu’il a élaboré depuis le début, c’est-à-dire la revendication de ses exploits comme l’assurance de son innocence. Cependant le procédé n’a fonctionné ni face à Coban (II, 2 : cf. note v. 464) , ni face à la reine (I, 7, v. 259-261).</note> Mais quelle lâcheté</l>
             <l n="668" xml:id="l668">Semble icy me soumettre à votre authorité ?</l>
             <l n="669" xml:id="l669">Faudra-t’il devant vous que je me justifie ?<note n="188" place="bottom">justifie. Nous corrigeons.</note></l>
@@ -1765,10 +1765,10 @@
           <sp xml:id="III01-5" who="comte-essex">
             <speaker>LE C. D’ESSEX.</speaker>
             <l n="701" xml:id="l701">Luy qui s’aime luy seul, qui seul se considere,</l>
-            <l n="702" xml:id="l702">Coban <ref target="#trancher">tranche*</ref> du Juge équitable et sincere.<note n="194" place="bottom">La Calprenède : « Donc, Barons souverains, donc Juges équitables » (v. 685).</note></l>
+            <l n="702" xml:id="l702">Coban <ref target="#trancher">tranche</ref> du Juge équitable et sincere.<note n="194" place="bottom">La Calprenède : « Donc, Barons souverains, donc Juges équitables » (v. 685).</note></l>
           </sp>
           <sp xml:id="III01-6" who="raleg">
-            <speaker>RALEG <hi rend="i">à Coban.</hi></speaker>
+            <speaker>RALEG </speaker><stage>à Coban.</stage>
             <pb n="p. 33"/>
             <l n="703" xml:id="l703">Le Comte en offensant ses Juges souverains</l>
             <l n="704" xml:id="l704">Rend icy ses forfaits plus grands et plus certains.</l>
@@ -1888,7 +1888,7 @@
             <l n="753" xml:id="l753">Des lâches trahisons avoüer la plus noire ?</l>
             <l n="754" xml:id="l754">La vie est-elle un bien s’il m’en coûte ma gloire ?</l>
             <l n="755" xml:id="l755">Un cœur comme le mien qui brave le trépas,</l>
-            <l n="756" xml:id="l756">Ne trouve rien d’<ref target="#aimable">aimable*</ref> où la gloire n’est pas.<note n="208" place="bottom">Ce vers résume le motif conducteur du comte qui consiste à ne pas vouloir sacrifier sa gloire c’est-à-dire son honneur au profit de sa vie ; leitmotiv qui agit comme un ressort tragique puisque c’est le dilemme, le choix impossible face auquel se heurtent le comte et même Clarence.</note></l>
+            <l n="756" xml:id="l756">Ne trouve rien d’<ref target="#aimable">aimable</ref> où la gloire n’est pas.<note n="208" place="bottom">Ce vers résume le motif conducteur du comte qui consiste à ne pas vouloir sacrifier sa gloire c’est-à-dire son honneur au profit de sa vie ; leitmotiv qui agit comme un ressort tragique puisque c’est le dilemme, le choix impossible face auquel se heurtent le comte et même Clarence.</note></l>
           </sp>
           <sp xml:id="III05-3" who="elizabet">
             <speaker>LA REINE.</speaker>
@@ -1904,7 +1904,7 @@
           <sp xml:id="III05-4" who="comte-essex">
             <speaker>LE C. D’ESSEX.</speaker>
             <l n="765" xml:id="l765">Supposez un forfait encor plus honorable,</l>
-            <l n="766" xml:id="l766">L’innocence, Madame, est toûjours plus <ref target="#aimable">aimable*</ref>.</l>
+            <l n="766" xml:id="l766">L’innocence, Madame, est toûjours plus <ref target="#aimable">aimable</ref>.</l>
             <l n="767" xml:id="l767">Qu’est-ce qui m’a rendu digne de ces emploits,<note n="212" place="bottom">ces emploits. Nous corrigeons.</note></l>
             <l n="768" xml:id="l768">De ce sublime rang qui m’aprochoit des Roys ?<note n="213" place="bottom">C’est toute l’ambiguïté dont est victime Essex. Sa gloire fait de l’ombre à la reine et la rend soupçonneuse tandis que cette même puissance anime la jalousie des autres courtisans et donc leur complot.</note></l>
             <l n="769" xml:id="l769">N’est-ce pas ma vertu ? si vous m’aimiez, Madame,</l>
@@ -1930,7 +1930,7 @@
             <l n="786" xml:id="l786">De ces grands sentimens à l’amour le plus tendre,</l>
             <l n="787" xml:id="l787">Que souvent sur un crime illustre et glorieux,</l>
             <l n="788" xml:id="l788">Quand il est avoüé, l’amour ferme les yeux,</l>
-            <l n="789" xml:id="l789">Et que par cette <ref target="#aimable">aimable*</ref> et promte déference,</l>
+            <l n="789" xml:id="l789">Et que par cette <ref target="#aimable">aimable</ref> et promte déference,</l>
             <l n="790" xml:id="l790">Des crimes avoüez valent bien l’innocence.</l>
             <l n="791" xml:id="l791">Vous ne vous rendez point, cruel je le voy bien,</l>
             <l n="792" xml:id="l792">A toutes mes bontez, Comte, n’accordez rien.</l>
@@ -1971,11 +1971,11 @@
           <head>SCENE VI.[p. 39] [Dij]</head>
           <stage>LA REINE, LE C. D’ESSEX, COBAN.</stage>
           <sp xml:id="III06-1" who="coban">
-            <speaker>COBAN, <hi rend="i">bas.</hi></speaker>
+            <speaker>COBAN, </speaker><stage>bas.</stage>
             <l part="F">Quel transport agite ainsi la Reine.</l>
           </sp>
           <sp xml:id="III06-2" who="elizabet">
-            <speaker>LA REINE <hi rend="i">aux Gardes.</hi><note n="222" place="bottom">Elisabeth s’adresse d’abord à Coban puis aux gardes ; seul le second hémistiche est à leur attention.</note></speaker>
+            <speaker>LA REINE <note n="222" place="bottom">Elisabeth s’adresse d’abord à Coban puis aux gardes ; seul le second hémistiche est à leur attention.</note></speaker><stage>aux Gardes.</stage>
             <l n="818" xml:id="l818">Coban qu’on se rassemble. Et vous qu’on le remene.<note n="223" place="bottom">Il faut distinguer les verbes ramener et remener dont le sens diffère au XVIIe siècle. Remener signifie reconduire, tandis que ramener recouvre la notion plus large de ramener vers soi.</note></l>
           </sp>
         </div>
@@ -2088,7 +2088,7 @@
             <l n="877" xml:id="l877">Et jetter sur Coban et la peine et le crime.</l>
             <l n="878" xml:id="l878">Ah, que j’aurois de joye à changer de victime !</l>
           </sp>
-          <label>Fin du troisiéme Acte.</label>
+          <trailer>Fin du troisiéme Acte.</trailer>
         </div>
       </div>
       <div xml:id="IV" type="act">
@@ -2102,7 +2102,7 @@
             <l n="879" xml:id="l879">Vous estant recusé par pure politique</l>
             <l n="880" xml:id="l880">Vous vous sauvez ainsi de la haine publique.</l>
             <l n="881" xml:id="l881">Le Comte est condamné par la rigueur des loix.<note n="229" place="bottom">Raleg apprend au spectateur que pendant le temps de l’entracte, d’une part, Coban s’est retiré du jury présidé par Popham et, d’autre part, le comte a été condamné.</note></l>
-            <l n="882" xml:id="l882">Nostre <ref target="#briguer">brigue*</ref> a plus fait que n’eût fait vostre voix :</l>
+            <l n="882" xml:id="l882">Nostre <ref target="#briguer">brigue</ref> a plus fait que n’eût fait vostre voix :</l>
             <l n="883" xml:id="l883">En apprenant l’Arrest<note n="230" place="bottom">Le comte fut condamné à être attaché et traîné sur une claie jusqu’au lieu d’exécution où il serait pendu ce après quoi encore vivant ses entrailles seraient arrachées et dispersées comme son corps mis en morceau. Sa peine fut commuée à être décapité dans la cour de la tour de Londres.</note> la Reine s’est émeuë</l>
             <l n="884" xml:id="l884">Et n’a pû dérober son desordre à ma veuë.</l>
           </sp>
@@ -2226,7 +2226,7 @@
             <l n="939" xml:id="l939">D’en faire un sans sortir des lieux de<note n="239" place="bottom">da. Nous corrigeons.</note> ma naissance :</l>
             <l n="940" xml:id="l940">Vous,<note n="240" place="bottom">Virgule rajoutée dans l’errata.</note> meritez mon choix par vostre obeissance.<note n="241" place="bottom">Elisabeth poursuit sa ruse en lui faisant entendre qu’elle l’a choisi comme époux.</note></l>
             <l n="941" xml:id="l941">Vous vous tairez toûjours en courtisan discret,</l>
-            <l n="942" xml:id="l942">Je sçay qu’on ne sçauroit vous <ref target="#surprendre">surprendre*</ref> un secret,</l>
+            <l n="942" xml:id="l942">Je sçay qu’on ne sçauroit vous <ref target="#surprendre">surprendre</ref> un secret,</l>
             <l n="943" xml:id="l943">Moins encor l’arracher d’un cœur comme le vostre.</l>
             <l n="944" xml:id="l944">Je ne vous presse plus ; mais dittes m’en un autre.</l>
             <l n="945" xml:id="l945">Le Comte est condamné, rien ne le peut sauver,</l>
@@ -2289,7 +2289,7 @@
           <sp xml:id="IV02-20" who="coban">
             <speaker>COBAN.</speaker>
             <l part="F">Vous m’ordonnez de parler, c’est assez.<note n="246" place="bottom">Coban, affectant l’attitude d’un sujet obéissant, accède à la demande de la reine avec plus de zèle encore puisqu’il glisse adroitement dans son aveu une nouvelle accusation contre le comte et Clarence (riposte attendue après la dénonciation faite par celle-ci). Dès lors, dans cette bataille orale, Coban prend définitivement le dessus, ayant su faire parler, se taire jusqu’au moment propice où avouer devient accuser. Sa victoire est immédiatement sensible par le balbutiement et les interrogations d’une reine désorientée, en proie au doute. Coban s’empare de la parole pour accuser (v. 991-992) , témoigner (v. 994) , flatter (v. 997-998) jusqu’à ce que son interlocutrice, excédée, le renvoie.</note></l>
-            <l n="983" xml:id="l983">J’avoüray que <ref target="#flatter">flatté*</ref> d’un espoir favorable,</l>
+            <l n="983" xml:id="l983">J’avoüray que <ref target="#flatter">flatté</ref> d’un espoir favorable,</l>
             <l n="984" xml:id="l984">En voyant dans le Comte un rebelle, un coupable,</l>
             <l n="985" xml:id="l985">J’ay jusques sur son rang osé porter les yeux.</l>
             <l n="986" xml:id="l986">S’il faut justifier des voeux ambitieux,</l>
@@ -2305,7 +2305,7 @@
           </sp>
           <sp xml:id="IV02-22" who="coban">
             <speaker>COBAN.</speaker>
-            <l part="F">Tous deux d’<ref target="#intelligence">intelligence*</ref><note n="248" place="bottom">Forme fautive « intellegence » corrigée dans l’errata.</note>*</l>
+            <l part="F">Tous deux d’<ref target="#intelligence">intelligence</ref><note n="248" place="bottom">Forme fautive « intellegence » corrigée dans l’errata.</note></l>
             <l n="992" xml:id="l992">Veulent vous enlever la supréme puissance.</l>
           </sp>
           <sp xml:id="IV02-23" who="elizabet">
@@ -2337,7 +2337,7 @@
         <div type="scene" xml:id="IV03">
           <head>SCENE III.</head>
           <sp xml:id="IV03-1" who="elizabet">
-            <speaker>LA REINE <hi rend="i">seule.</hi></speaker>
+            <speaker>LA REINE </speaker><stage>seule.</stage>
             <l n="1002" xml:id="l1002">Ah ! je ne voy que trop ces perfides Amans.</l>
             <l n="1003" xml:id="l1003">Malgré leur artifice une ardeur empressée,</l>
             <l n="1004" xml:id="l1004">Mille soins naturels s’offrent à ma pensée.</l>
@@ -2449,17 +2449,17 @@
             <l n="1087" xml:id="l1087">L’attacha prés de moy sous le masque infidelle.</l>
             <l n="1088" xml:id="l1088">Sous le brillant dehors d’un veritable zele.</l>
             <l n="1089" xml:id="l1089">Vous vous aimez tous deux, il ne m’aima jamais.</l>
-            <l n="1090" xml:id="l1090">Il vouloit seulement <ref target="#surprendre">surprendre*</ref> mes biens faits,</l>
+            <l n="1090" xml:id="l1090">Il vouloit seulement <ref target="#surprendre">surprendre</ref> mes biens faits,</l>
             <l n="1091" xml:id="l1091">Me voler lâchement toute ma confiance,</l>
             <l n="1092" xml:id="l1092">S’armer de mes faveurs, usurper ma puissance,</l>
             <l n="1093" xml:id="l1093">Et sur tout, quel malheur est comparable au mien !</l>
-            <l n="1094" xml:id="l1094"><ref target="#surprendre">Surprendre*</ref> mon amour quand un autre<note n="267" place="bottom"> « un autre » doit être entendu au sens de « une autre ». Les dramaturges du XVII<hi rend="sup">e</hi> siècle – Racine lui-même – emploient fréquement ce terme à valeur d’ordre général.</note> a le sien.</l>
+            <l n="1094" xml:id="l1094"><ref target="#surprendre">Surprendre</ref> mon amour quand un autre<note n="267" place="bottom"> « un autre » doit être entendu au sens de « une autre ». Les dramaturges du XVII<hi rend="sup">e</hi> siècle – Racine lui-même – emploient fréquement ce terme à valeur d’ordre général.</note> a le sien.</l>
             <l n="1095" xml:id="l1095">C’est une trahison et si noire et si pleine....</l>
             <l n="1096" xml:id="l1096">Jamais traistre ne fut digne de tant de haîne.</l>
             <l n="1097" xml:id="l1097">Aussi jamais courroux ne fut si bien servy.</l>
             <l n="1098" xml:id="l1098">Je le verray bien-tost pleinement assouvy.<pb n="p. 52"/></l>
             <l n="1099" xml:id="l1099">Je vous verray gemir et trembler l’un pour l’autre ;</l>
-            <l n="1100" xml:id="l1100">Je <ref target="#souler">soûleray*</ref> mes yeux de son sang et du vostre,</l>
+            <l n="1100" xml:id="l1100">Je <ref target="#souler">soûleray</ref> mes yeux de son sang et du vostre,</l>
             <l n="1101" xml:id="l1101">De vostre Amant, l’Etat me va faire raison,</l>
             <l n="1102" xml:id="l1102">Et je me la feray de vostre trahison.<note n="268" place="bottom">Suite à leur mariage secret en 1590, les amants durent s’exiler en Ecosse le temps que la crise de folie furieuse d’Elisabeth se calme. En effet, jusqu’à sa mort, à 70 ans, Elisabeth vécut entourée d’hommes dont elle exigea une adoration sans partage. D’ailleurs, les historiens rapportent que le jour où une demoiselle de la cour – rang de Clarence – se déclara enceinte de Raleigh, l’un de ses soupirants, elle punit cette trahison en envoyant son ancien favori à la tour de Londres.</note></l>
           </sp>
@@ -2519,7 +2519,7 @@
             <l n="1138" xml:id="l1138">Ne me demande grace et pour vous et pour luy.</l>
           </sp>
           <sp xml:id="IV04-13" who="clarence">
-            <speaker>CLARENCE. <hi rend="i">seule</hi></speaker>
+            <speaker>CLARENCE. </speaker><stage>seule</stage>
             <l n="1139" xml:id="l1139">Faut-il pour augmenter ta disgrace cruelle,</l>
             <l n="1140" xml:id="l1140">Cher Amant, t’accabler d’une douleur nouvelle ?</l>
           </sp>
@@ -2675,14 +2675,14 @@
             <l n="1233" xml:id="l1233">Par l’ordre de la Reine il faut vous separer.<note n="288" place="bottom">Cette intervention de Valden a l’effet d’une seconde arrestation, juste avant la fin de l’acte, provoquant un effet de suspens.</note></l>
           </sp>
           <sp xml:id="IV07-2" who="comte-essex">
-            <speaker>LE C. D’ESSEX <hi rend="i">à Clarence.</hi></speaker>
+            <speaker>LE C. D’ESSEX </speaker><stage>à Clarence.</stage>
             <l n="1234" xml:id="l1234">Vous voyez son courroux, allez sans differer</l>
             <l n="1235" xml:id="l1235">Faire rendre à la Reine entiere obeissance.</l>
             <l n="1236" xml:id="l1236">Dittes à ces mutins que leur secours m’offence,</l>
             <l n="1237" xml:id="l1237">Et si mon bras avoit la liberté d’agir,</l>
             <l n="1238" xml:id="l1238">J’irois venger la Reine et la faire obeir.</l>
           </sp>
-          <label>Fin du quatriéme acte.</label>
+          <trailer>Fin du quatriéme acte.</trailer>
         </div>
       </div>
       <div xml:id="V" type="act">
@@ -2691,7 +2691,7 @@
         <div type="scene" xml:id="V01">
           <head>SCENE PREMIERE.</head>
           <sp xml:id="V01-1" who="coban">
-            <speaker>COBAN, <hi rend="i">seul.</hi></speaker>
+            <speaker>COBAN, </speaker><stage>seul.</stage>
             <l n="1239" xml:id="l1239">Enfin je voy le Comte au bord du precipice ;</l>
             <l n="1240" xml:id="l1240">Le Peuple en le servant va presser son suplice.<note n="289" place="bottom">Le temps passé entre les deux actes a été bref.</note></l>
             <l n="1241" xml:id="l1241">Fortune, c’est icy que j’ay besoin de toy.</l>
@@ -2795,7 +2795,7 @@
             <speaker>LA REINE.</speaker>
             <pb n="p. 61"/>
             <l n="1299" xml:id="l1299">Ah Coban ! c’en est trop, un si cruel outrage,</l>
-            <l n="1300" xml:id="l1300">Ce dernier déplaisir<note n="297" place="bottom">Cf. note du v. 137.</note> accable mon <ref target="#courage">courage*</ref>.</l>
+            <l n="1300" xml:id="l1300">Ce dernier déplaisir<note n="297" place="bottom">Cf. note du v. 137.</note> accable mon <ref target="#courage">courage</ref>.</l>
             <l n="1301" xml:id="l1301">Oüy, le traistre, à Clarence ayant donné sa foy,</l>
             <l n="1302" xml:id="l1302">Aimeroit mieux mourir que régner avec moy.</l>
             <l n="1303" xml:id="l1303">Aprés un tel affront, aprés cette injustice,</l>
@@ -2815,8 +2815,8 @@
             <l n="1311" xml:id="l1311">Je veux avant sa mort me faire mieux connoistre,</l>
             <l n="1312" xml:id="l1312">Confondre son orgueil et luy donner un Maistre :</l>
             <l n="1313" xml:id="l1313">Je veux le voir, je veux d’un objet odieux</l>
-            <l n="1314" xml:id="l1314"><ref target="#souler">Soûler*</ref> avant sa perte et ma haine et mes yeux.<note n="300" place="bottom">La Calprenède : « Si de mes ennemis le plus malicieux / Ne soûle de mon sang et sa haine et ses yeux » (v. 1331-1332).</note></l>
-            <l n="1315" xml:id="l1315">Qu’on me l’amene. Vous,<note n="301" place="bottom">Vous Nous corrigeons au même titre que l’avait fait l’auteur dans l’errata pour le vers 940. En effet, « prevenez » comme « voyez » est un impératif. Elisabeth interpelle Coban ce que nous traduisons par l’ajout d’une virgule pour détacher le pronom.</note> <ref target="#prevenir">prevenez*</ref> nos alarmes,</l>
+            <l n="1314" xml:id="l1314"><ref target="#souler">Soûler</ref> avant sa perte et ma haine et mes yeux.<note n="300" place="bottom">La Calprenède : « Si de mes ennemis le plus malicieux / Ne soûle de mon sang et sa haine et ses yeux » (v. 1331-1332).</note></l>
+            <l n="1315" xml:id="l1315">Qu’on me l’amene. Vous,<note n="301" place="bottom">Vous Nous corrigeons au même titre que l’avait fait l’auteur dans l’errata pour le vers 940. En effet, « prevenez » comme « voyez » est un impératif. Elisabeth interpelle Coban ce que nous traduisons par l’ajout d’une virgule pour détacher le pronom.</note> <ref target="#prevenir">prevenez</ref> nos alarmes,</l>
             <l n="1316" xml:id="l1316">Et voyez si le Peuple est toûjours sous les armes.</l>
           </sp>
         </div>
@@ -2978,7 +2978,7 @@
             <l n="1428" xml:id="l1428">Je ne vous diray point quelle est son innocence,</l>
             <l n="1429" xml:id="l1429">Avec quelle tendresse elle a parlé pour vous ;<note n="322" place="bottom">Bajazet demande la grâce d’Atalide en ces termes : « De mes emportements elle n’est point complice, / Ni de mon amour même, et de mon injustice. /Loin de me retenir par des conseils jaloux, / Si mon cœur l’avais cru il ne serait qu’à vous. » (v. 1557-1560).</note></l>
             <l n="1430" xml:id="l1430">Je ne vous diray point quel genereux courroux,</l>
-            <l n="1431" xml:id="l1431">Quelle ardeur, quels efforts, son <ref target="#courage">courage*</ref> fidelle,</l>
+            <l n="1431" xml:id="l1431">Quelle ardeur, quels efforts, son <ref target="#courage">courage</ref> fidelle,</l>
             <l n="1432" xml:id="l1432">Employe en ce moment contre un frere rebelle,</l>
             <l n="1433" xml:id="l1433">Et mesme avec quels soins pour vous faire obeir,</l>
             <l n="1434" xml:id="l1434">On la voit travailler peut-estre à se trahir.                [p. 66]</l>
@@ -3003,7 +3003,7 @@
             <l n="1450" xml:id="l1450">N’ayent voulu par ma mort couronner ses appas.</l>
             <l n="1451" xml:id="l1451">Ma couronne, ma teste, et tout ce qu’on revere,</l>
             <l n="1452" xml:id="l1452">Rien n’est inviolable à l’ardeur de luy plaire.</l>
-            <l n="1453" xml:id="l1453">Je sçauray <ref target="#prevenir">prévenir*</ref> cét amour furieux.</l>
+            <l n="1453" xml:id="l1453">Je sçauray <ref target="#prevenir">prévenir</ref> cét amour furieux.</l>
           </sp>
           <sp xml:id="V04-10" who="comte-essex">
             <speaker>LE C. D’ESSEX.</speaker>
@@ -3031,7 +3031,7 @@
         <div type="scene" xml:id="V05">
           <head>SCENE V.</head>
           <sp xml:id="V05-1" who="elizabet">
-            <speaker>LA REINE <hi rend="i">seule.</hi></speaker>
+            <speaker>LA REINE </speaker><stage>seule.</stage>
             <l n="1465" xml:id="l1465">Ma haine enfin triomphe et finit mes malheurs ;</l>
             <l n="1466" xml:id="l1466">C’en est fait. Mais que fais-je ? il m’échape des pleurs.</l>
             <l n="1467" xml:id="l1467">Le perfide en mourant laisse-t’il dans mon ame</l>
@@ -3058,7 +3058,7 @@
           <sp xml:id="V06-3" who="clarence">
             <speaker>CLARENCE.</speaker>
             <l part="F">Sur moy contentez vostre envie.</l>
-            <l n="1477" xml:id="l1477">Le Comte est à <ref target="#couvert">couvert*</ref>, il en a vostre foy.</l>
+            <l n="1477" xml:id="l1477">Le Comte est à <ref target="#couvert">couvert</ref>, il en a vostre foy.</l>
             <l n="1478" xml:id="l1478" part="I">Ce don de vostre main...</l>
           </sp>
           <sp xml:id="V06-4" who="elizabet">
@@ -3098,11 +3098,11 @@
             <l part="F">Quel est ce changement ?</l>
           </sp>
           <sp xml:id="V07-4" who="elizabet">
-            <speaker>LA REINE <hi rend="i">à Leonor.</hi></speaker>
+            <speaker>LA REINE </speaker><stage>à Leonor.</stage>
             <l n="1490" xml:id="l1490">Vous, portez luy sa grace, et sans perdre un moment.</l>
           </sp>
           <sp xml:id="V07-5" who="coban">
-            <speaker>COBAN <hi rend="i">en s’en allant.</hi></speaker>
+            <speaker>COBAN </speaker><stage>en s’en allant.</stage>
             <l n="1491" xml:id="l1491" part="I">O Ciel !</l>
           </sp>
         </div>
@@ -3127,7 +3127,7 @@
             <speaker>CLARENCE.</speaker>
             <l n="1501" xml:id="l1501">Avant que vous donner ce gage pretieux,</l>
             <l n="1502" xml:id="l1502">J’ay crû devoir calmer un peuple furieux.</l>
-            <l n="1503" xml:id="l1503">Que j’ay souffert d’<ref target="#ennuy">ennuy*</ref> par cette courte absence !</l>
+            <l n="1503" xml:id="l1503">Que j’ay souffert d’<ref target="#ennuy">ennuy</ref> par cette courte absence !</l>
             <l n="1504" xml:id="l1504">Madame, permettez à mon impatience,</l>
             <l n="1505" xml:id="l1505" part="I">Que j’aille...</l>
           </sp>
@@ -3161,10 +3161,10 @@
           </sp>
           <sp xml:id="V09-5" who="valden">
             <speaker>LE C. DES GARDES.</speaker>
-            <l n="1510" xml:id="l1510">Coban pour <ref target="#prevenir">prévenir*</ref> celle qui l’a porté,</l>
+            <l n="1510" xml:id="l1510">Coban pour <ref target="#prevenir">prévenir</ref> celle qui l’a porté,</l>
             <l n="1511" xml:id="l1511">A donné, d’un Balcon, un ordre tout contraire.</l>
             <l n="1512" xml:id="l1512">Leonor cependant d’une course legere,</l>
-            <l n="1513" xml:id="l1513">Porte la grace au Comte et calme nostre <ref target="#ennuy">ennuy*</ref>,</l>
+            <l n="1513" xml:id="l1513">Porte la grace au Comte et calme nostre <ref target="#ennuy">ennuy</ref>,</l>
             <l n="1514" xml:id="l1514">Au moment que le coup alloit tomber sur luy.</l>
             <l n="1515" xml:id="l1515">En vain pour le sauver chacun s’écrie, arreste :</l>
             <l n="1516" xml:id="l1516">Le coup prévient nos cris et fait voler la teste.</l>
@@ -3227,7 +3227,7 @@
             <l n="1544" xml:id="l1544">Cherche à se derober par une fuite prompte.</l>
             <l n="1545" xml:id="l1545">Surpris de tous costez, une épée à la main,</l>
             <l n="1546" xml:id="l1546">Il se fait un passage et se le fait en vain ;</l>
-            <l n="1547" xml:id="l1547">Je m’oppose à sa fuitte, il s’<ref target="#etonner">étonne*</ref> à ma veuë,</l>
+            <l n="1547" xml:id="l1547">Je m’oppose à sa fuitte, il s’<ref target="#etonner">étonne</ref> à ma veuë,</l>
             <l n="1548" xml:id="l1548">Il se livre à nos coups, je deffends qu’on le tuë,</l>
             <l n="1549" xml:id="l1549">Je suis mal obey, je voy percer son flanc :</l>
             <l n="1550" xml:id="l1550">Il s’écrie, il chancelle et tombe dans son sang.</l>
@@ -3267,7 +3267,7 @@
             <l n="1581" xml:id="l1581">A tout ce que j’aimois j’ay fait perdre le jour,</l>
             <l n="1582" xml:id="l1582">Ce que j’aimois n’est plus et j’ay tout mon amour.</l>
           </sp>
-          <label rend="center">FIN.</label>
+          <trailer rend="center">FIN.</trailer>
         </div>
       </div>
       <div xml:id="privilege" type="appendix">
@@ -3399,7 +3399,7 @@
       <div>
         <head>Tableaux</head>
         <p>Répartition des vers :</p>
-        <p>* présence muette du personnage.</p>
+        <p> présence muette du personnage.</p>
         <p>** présence muette du personnage et non signalée.</p>
         <div>
           <head>Présence dans l’acte I</head>
@@ -3448,9 +3448,9 @@
               <cell/>
               <cell>43</cell>
               <cell>1.5</cell>
-              <cell>*</cell>
+              <cell/>
               <cell>1</cell>
-              <cell>*</cell>
+              <cell/>
               <cell/>
               <cell/>
               <cell>6</cell>
@@ -3606,7 +3606,7 @@
               <cell/>
               <cell>34.5</cell>
               <cell/>
-              <cell>*</cell>
+              <cell/>
               <cell/>
               <cell>34.5</cell>
             </row>
@@ -3624,7 +3624,7 @@
               <cell>38</cell>
               <cell/>
               <cell/>
-              <cell>*</cell>
+              <cell/>
               <cell/>
               <cell>38</cell>
             </row>
@@ -3693,10 +3693,10 @@
               <cell>C. D’ESSEX</cell>
               <cell>47</cell>
               <cell>3.5</cell>
-              <cell>*</cell>
-              <cell>*</cell>
+              <cell/>
+              <cell/>
               <cell>44</cell>
-              <cell>*</cell>
+              <cell/>
               <cell/>
               <cell>95.5</cell>
             </row>
@@ -3725,9 +3725,9 @@
             <row>
               <cell>COBAN</cell>
               <cell>12</cell>
-              <cell>*</cell>
-              <cell>*</cell>
-              <cell>*</cell>
+              <cell/>
+              <cell/>
+              <cell/>
               <cell/>
               <cell>0.5</cell>
               <cell/>
@@ -3736,9 +3736,9 @@
             <row>
               <cell>RALEG</cell>
               <cell>2</cell>
-              <cell>*</cell>
-              <cell>*</cell>
-              <cell>*</cell>
+              <cell/>
+              <cell/>
+              <cell/>
               <cell/>
               <cell/>
               <cell/>
@@ -3749,7 +3749,7 @@
               <cell>14</cell>
               <cell/>
               <cell>2</cell>
-              <cell>*</cell>
+              <cell/>
               <cell/>
               <cell/>
               <cell/>
@@ -3760,7 +3760,7 @@
               <cell>25</cell>
               <cell>8.5</cell>
               <cell>0.5</cell>
-              <cell>*</cell>
+              <cell/>
               <cell/>
               <cell/>
               <cell/>
@@ -3790,10 +3790,10 @@
             </row>
             <row>
               <cell>VALDEN</cell>
-              <cell>*</cell>
-              <cell>*</cell>
-              <cell>*</cell>
-              <cell>*</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell/>
               <cell/>
               <cell>**</cell>
               <cell/>
@@ -3856,7 +3856,7 @@
               <cell>64.5</cell>
               <cell>26.5</cell>
               <cell>0.5</cell>
-              <cell>*</cell>
+              <cell/>
               <cell>91.5</cell>
             </row>
             <row>
@@ -4005,7 +4005,7 @@
               <cell/>
               <cell/>
               <cell>8</cell>
-              <cell>*</cell>
+              <cell/>
               <cell>4.5</cell>
               <cell>9</cell>
               <cell/>
@@ -4030,7 +4030,7 @@
             <row>
               <cell>RALEG</cell>
               <cell/>
-              <cell>*</cell>
+              <cell/>
               <cell/>
               <cell/>
               <cell/>
@@ -4083,7 +4083,7 @@
               <cell>**</cell>
               <cell/>
               <cell>**</cell>
-              <cell>*</cell>
+              <cell/>
               <cell>**</cell>
               <cell>3.5</cell>
             </row>

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,11 +25,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/somaize_precieuses-ridicules.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/somaize_precieuses-ridicules/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/somaize_precieuses-ridicules.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/somaize_precieuses-ridicules.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/somaize_precieuses-ridicules.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/somaize_precieuses-ridicules.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Antoine Baudeau de Somaize</author>. <title>Les Prétieuses Ridicules. Comédie représentée au Petit Bourbon, nouvellement mise en vers.</title>. A PARIS, Chez <hi rend="sc">Jean Ribou</hi>, sur le Quay des Augustins à l’image S. Louis. M. DC. LX. <hi rend="i">AVEC PRIVILEGE DU ROY.</hi></bibl>
@@ -1258,7 +1257,7 @@
         <pb n="III"/>
         <head>[EPÎTRE] A MADEMOISELLE <lb/>MADEMOISELLE <hi rend="b">MARIE</hi> DE <hi rend="b">MANCINY</hi><note n="1" place="bottom"> Marie Mancini (1639-1715), nièce du cardinal Jules Mazarin, lequel a fait venir sa famille à la Cour depuis l’Italie. Réputée pour avoir été le premier amour de Louis XIV (la reine mère et le cardinal feront tout pour endiguer cette passion affichée et empêcher un mariage inégal), devenue ensuite l’épouse du connétable Colonna, femme d’esprit et de lettres et protectrice de Somaize, si l’on en croit ce dernier, qui prétend avoir été son secrétaire. Régulièrement qualifiée, au même titre que ses sœurs, de « précieuse », au sens propre du terme, l’épithète lui valut certainement la réputation d’appartenir aux prétendus cercles précieux. Dans le <hi rend="i">Grand Dictionnaire des Précieuses</hi> (1661), Somaize lui attribue le pseudonyme de Maximiliane. Nous reproduisons ici l’article qu’il y lui consacre : « <hi rend="sc">Maximiliane</hi> [Mlle de Mancini, à présent Mme la connétable Colonna]. Si toute l’Europe ne connaissait pas les belles qualités qui rendent Maximiliane une des plus admirables personnes de son sexe, j’aurais de la peine à me résoudre à la mettre dans ce Dictionnaire, n’ignorant pas que l’on n’aurait pas manqué de publier que j’étais obligé de dire du bien de celle de qui j’en ai tant reçu ; mais, puisque la connaissance que chacun a de son mérite a levé cet obstacle, je puis dire, sans être soupçonné de flatterie, que c’est la personne du monde la plus spirituelle, qu’elle n’ignore rien , qu’elle a lu tous les bons livres, qu’elle écrit avec une facilité qui ne se peut imaginer, et qu’encore qu’elle ne soit pas de Grèce, elle en sait si bien la langue que les plus spirituels d’Athènes, et ceux même qui sont de l’assemblée des quarante barons [l’Académie française], confessent qu’elle en connaît tout à fait bien la délicatesse ; de quoi Madate [La Ménardière], qui avait l’honneur de la voir souvent, peut rendre témoignage. J’oserai ajouter à ceci que le ciel ne lui a pas seulement donné un esprit propre aux lettres, mais encore capable de régner sur les cœurs des plus puissants princes de l’Europe. Ce que je veux dire est assez connu sans qu’il soit besoin de m’expliquer davantage. »</note>.</head>
         <p><hi rend="i">MADEMOISELLE</hi>,</p>
-        <p><hi rend="i">Encore que je sçache avec toute la France, [</hi><pb n="IV"/>] <hi rend="i">que vous n’estes nèe que pour les grandes choses, et qu’il n’appartient qu’à ceux du Sang dont vous sortez de mettre la derniere main à tout ce qui paroist impossible ; Et qu’ainsi, soit pour vous divertir, soit pour vous loüer, on est toû-/[</hi><pb n="V"/>]<hi rend="i">/-jours temeraire quoy qu’on ose entreprandre. Je ne laisse pas <hi rend="sc">Mademoiselle</hi>, de vous faire un present <ref target="#vulgaire1">vulgaire*</ref> en vous offrant cette Comedie, qui quelque reputation qu’elle ait euë en prose, m’a semblé n’avoir pas tous les [</hi><pb n="VI"/>] <hi rend="i">agremens qu’on luy pouvoit donner, &amp; c’est ce qui m’a fait resoudre à la tourner en vers pour la mettre en estat de meriter avec un peu plus de justice les aplaudissemens qu’elle a receuës de tout le monde, plûtôt par <ref target="#bonheur">bon-heur*</ref> que par me-/[</hi><pb n="VII"/>]<hi rend="i">/-rite. Je sçay bien qu’il doit sembler <ref target="#estrange1">estrange*</ref> de me voir abaisser une chose que j’ose vous offrir ; mais je ne pretens pas qu’elle me doive ny sa gloire, ny son abaissement, &amp; je ne regleray l’estime que j’en dois faire qu’au jugement que vous en [</hi><pb n="VIII"/>] <hi rend="i">ferez : que si je luy laisse maintenant quelques avantages des acclamations publiques qu’elle a receuës, &amp; en Italien &amp; en François</hi><note n="2" place="bottom"> Comme il l’explique dans sa Préface, Somaize prétend que Molière a emprunté le sujet de sa pièce à une farce des Italiens.</note>, <hi rend="i">ce n’est que parce qu’ils me fournissent l’occasion de vous donner une preuve de mon respect en met-/[</hi><pb n="IX"/>]<hi rend="i">/-tant cette version que j’en ay faite sous vostre protection. Je ne suis pas assez vain pour m’imaginer que ce foible homage m’aquite de ce que je vous dois, ou qu’il ait rien de proportionnè à ce merite qui vous mét autant au dessus du [</hi><pb n="X"/>] <hi rend="i">commun par son esclat que vous l’étes déja par celuy du rang que vous donne vostre naissance. Je sçais trop bien comme vous sçavez juger de tout ce que peuvent produire les plus beaux genies, pour vous offrir comme un ouvrage considerable une Sa-/[</hi><pb n="XI"/>]<hi rend="i">/-tire qui doit sa plus grande reusite à ce certain courant des choses qui les fait recevoir de quelque nature qu’elles soient &amp; que nous appellons la mode ; &amp; lors que je vous l’offre, je ne fais qu’imiter les Romains, qui presentoient autre-/[</hi><pb n="XII"/>]<hi rend="i">/-fois des lauriers aux vainqueurs, non pas pour payer leurs victoires ; mais seulement pour tesmoigner qu’ils connoissoient ce qui leur estoit deu &amp; pour servir comme de preludes à la pompe des Triomphes qui leur estoient destinez. [</hi><pb n="XIII"/>] <hi rend="i">Je ne me permets <hi rend="sc">mademoiselle</hi>, que ce que ces Maistres du monde accordoient à leurs moindres Citoyens, &amp; je vous presente une bagatelle comme le dernier Romain avoit la liberté d’offrir des branches de Laurier : Je laisse [</hi><pb n="XIV"/>] <hi rend="i">dis-je à des plumes plus sçavantes &amp; plus hardies à disposer des ornemens dont on peut composer vostre Panegerique, de mesme que le peuple laissoit au Senat le pouvoir &amp; le soin de decerner des triomphes à ceux dont les grandes actions en</hi><pb n="XV"/><hi rend="i">meritoient. Je ne me sens pas assez fort pour une si haute entreprise, &amp; je borne mes plus vastes projets à celuy d’obtenir de vous la permission de me dire</hi>,</p>
+        <p><hi rend="i">Encore que je sçache avec toute la France, [</hi><pb n="IV"/>] <hi rend="i">que vous n’estes nèe que pour les grandes choses, et qu’il n’appartient qu’à ceux du Sang dont vous sortez de mettre la derniere main à tout ce qui paroist impossible ; Et qu’ainsi, soit pour vous divertir, soit pour vous loüer, on est toû-/[</hi><pb n="V"/>]<hi rend="i">/-jours temeraire quoy qu’on ose entreprandre. Je ne laisse pas <hi rend="sc">Mademoiselle</hi>, de vous faire un present <ref target="#vulgaire1">vulgaire</ref> en vous offrant cette Comedie, qui quelque reputation qu’elle ait euë en prose, m’a semblé n’avoir pas tous les [</hi><pb n="VI"/>] <hi rend="i">agremens qu’on luy pouvoit donner, &amp; c’est ce qui m’a fait resoudre à la tourner en vers pour la mettre en estat de meriter avec un peu plus de justice les aplaudissemens qu’elle a receuës de tout le monde, plûtôt par <ref target="#bonheur">bon-heur</ref> que par me-/[</hi><pb n="VII"/>]<hi rend="i">/-rite. Je sçay bien qu’il doit sembler <ref target="#estrange1">estrange</ref> de me voir abaisser une chose que j’ose vous offrir ; mais je ne pretens pas qu’elle me doive ny sa gloire, ny son abaissement, &amp; je ne regleray l’estime que j’en dois faire qu’au jugement que vous en [</hi><pb n="VIII"/>] <hi rend="i">ferez : que si je luy laisse maintenant quelques avantages des acclamations publiques qu’elle a receuës, &amp; en Italien &amp; en François</hi><note n="2" place="bottom"> Comme il l’explique dans sa Préface, Somaize prétend que Molière a emprunté le sujet de sa pièce à une farce des Italiens.</note>, <hi rend="i">ce n’est que parce qu’ils me fournissent l’occasion de vous donner une preuve de mon respect en met-/[</hi><pb n="IX"/>]<hi rend="i">/-tant cette version que j’en ay faite sous vostre protection. Je ne suis pas assez vain pour m’imaginer que ce foible homage m’aquite de ce que je vous dois, ou qu’il ait rien de proportionnè à ce merite qui vous mét autant au dessus du [</hi><pb n="X"/>] <hi rend="i">commun par son esclat que vous l’étes déja par celuy du rang que vous donne vostre naissance. Je sçais trop bien comme vous sçavez juger de tout ce que peuvent produire les plus beaux genies, pour vous offrir comme un ouvrage considerable une Sa-/[</hi><pb n="XI"/>]<hi rend="i">/-tire qui doit sa plus grande reusite à ce certain courant des choses qui les fait recevoir de quelque nature qu’elles soient &amp; que nous appellons la mode ; &amp; lors que je vous l’offre, je ne fais qu’imiter les Romains, qui presentoient autre-/[</hi><pb n="XII"/>]<hi rend="i">/-fois des lauriers aux vainqueurs, non pas pour payer leurs victoires ; mais seulement pour tesmoigner qu’ils connoissoient ce qui leur estoit deu &amp; pour servir comme de preludes à la pompe des Triomphes qui leur estoient destinez. [</hi><pb n="XIII"/>] <hi rend="i">Je ne me permets <hi rend="sc">mademoiselle</hi>, que ce que ces Maistres du monde accordoient à leurs moindres Citoyens, &amp; je vous presente une bagatelle comme le dernier Romain avoit la liberté d’offrir des branches de Laurier : Je laisse [</hi><pb n="XIV"/>] <hi rend="i">dis-je à des plumes plus sçavantes &amp; plus hardies à disposer des ornemens dont on peut composer vostre Panegerique, de mesme que le peuple laissoit au Senat le pouvoir &amp; le soin de decerner des triomphes à ceux dont les grandes actions en</hi><pb n="XV"/><hi rend="i">meritoient. Je ne me sens pas assez fort pour une si haute entreprise, &amp; je borne mes plus vastes projets à celuy d’obtenir de vous la permission de me dire</hi>,</p>
         <p>MADEMOISELLE,</p>
         <p>Vostre tres-humble &amp; tres-obeïssant serviteur.</p>
         <p><hi rend="sc">somaize</hi>.<pb n="XVI"/></p>
@@ -1266,9 +1265,9 @@
       <div xml:id="preface" type="preface">
         <head>PREFACE.</head>
         <p>L'Usage des Prefaces m’a semblé si utile à ceux qui mettent quelque chose en public, qu’encore que je sçache qu’il n’est pas generalement aprouvé, je n’ay pourtant pû m’empescher de le suivre, resolu quoy qu’il arrive de prendre pour garand de ce que je fais la coûtume qui les a jusques icy authorisées.</p>
-        <p>Ce n’est pas que je veuille suivre celle de ces Autheurs avides de loüanges qui craignant<pb n="XVII"/> qu’on ne leur rende pas tout l’honneur qu’ils croyent meriter, y inserrent eux-mesmes leurs Panegeriques, &amp; font souvent leurs Apologies avant qu’on les accuse. Mon bût est de divertir le Lecteur, &amp; de me divertir moy mesme : Toutefois<note n="3" place="bottom"> Les deux points et le point-virgule sont considérés par l’imprimeur comme des ponctuations semi-fortes, ce qui justifie généralement l’emploi d’une majuscule au début de la proposition suivante. </note> comme il s’en peut trouver d’assez scrupuleux pour croire que c’est trop <ref target="#hazarder">hazarder*</ref> d’exposer aux yeux de tout le monde un ouvrage aussi remply de defauts que celuy-cy, sans leur donner du moins quelques apparentes excuses ; Je veux bien à cet endroit dire quelque chose pour le contenter.</p>
-        <p><pb n="XVIII"/> Je diray d’abord qu’il semblera extraordinaire qu’apres avoir loüé Mascarille<note n="4" place="bottom"> Molière. La phrase est évidemment ironique. </note>, comme j’ay fait dans les Veritables Pretieuses, je me sois donné la peine de mettre en Vers un ouvrage dont il se dit Autheur &amp; qui sans doute luy doit quelque chose, si ce n’est parce qu’il y a adjouté de son estoc au vol qu’il en a fait aux Italiens, à qui Monsieur l’Abbé de Pure les avoit donnez ; au moins pour y avoir adjouté beaucoup par son jeu, qui plût à assez de gens pour luy donner la vanité d’estre le premier Farceur de France. C'est<pb n="XIX"/> toûjours quelque chose d’éxceller en quelque mestier que ce soit, &amp; pour parler selon le vulgaire, il vaut mieux estre le premier d’un village, que le dernier d’une ville, bon Farceur, que <ref target="#meschant">meschant*</ref> Comedien ; mais quittons la parentese &amp; retournons aux Pretieuses. Elles ont esté trop generalement receuës &amp; approuvées pour ne pas avoüer que j’y ay pris plaisir, &amp; qu’elles n’ont rien perdu en François de ce qui les fist suivre en Itallien ; &amp; ce seroit faire le modeste à contre-temps, de ne pas dire que je crois ne leur avoir rien des-/<pb n="XX"/>/-robé de leurs agremens en les mestant en Vers : mesme si j’en voulois croire ceux qui les ont veuës, je me vanterois d’y en avoir beaucoup adjouté ; mais quand je le dirois l’on ne seroit pas obligé de s’en raporter à moy, &amp; quand mon Lecteur me donneroit un démenty, il seroit de ceux qui se souffrent sans peine &amp; qui ne coutent jamais de sang. Aussi ne veus-je pas les loüer, &amp; bien loings de le faire, je dis ingenuëment que ce n’est en bien des endroits, que de la prose rimée, qu’on y trouvera plusieurs vers sans repos &amp; dont la cadance<pb n="XXI "/>est fort rude ; mais le Lecteur verra aisement que ce n’est qu’aux endroits où j’ay voulu conserver mot à mot le sens de la prose, &amp; lors que je les ay trouvez tous faits. L'on y verra encore des vers dont le sens est lié &amp; qui sont enchaisnez les uns avec les autres comme de pauvres forçats, &amp; d’autres enfin dont les rimes n’ont pas toute la richesse qu’on leur pourroit donner, je n’en donneray pourtant point d’excuse ; ne croyant pas estre obligé de suivre dans une Comedie comme celle-cy, une reigle que les meilleures plumes n’observent<pb n="XXII"/> pas dans leurs ouvrages les plus serieux : enfin je ne diray rien des Pretieuses en Vers qui puisse exiger de ceux qui les verront une bonté forcée ; je ne veux rien que le plaisir du Lecteur, &amp; serois bien faché d’oster le moyen de Critiquer à ceux qui se plaisent à le faire. Ainsi quoy qu’il me fust aisé de dire bien des choses pour justifier mes deffauts &amp; que je n’eusse qu’à m’estandre sur la dificulté qu’il y a de mettre en Vers mot à mot une prose aussi bizare que celle que j’ay euë à tourner; que je peusse facillement faire voir que tout le plaisant<pb n="XXIII"/> des Pretieuses consistoit presque, en des mots aussi contraires à la douceur des Vers que necessaires aux agremens de cette Comedie : je laisse pourtant toutes ces choses pour laisser le Lecteur en liberté, &amp; je proteste icy que la Critique ne m’espouvante point &amp; que je serois fort mary de dire le moindre mot pour l’éviter, &amp; non seulement je la souffre pour cette vertion, mais je consens que l’on s’en serve encore à l’esgard du Procez des Pretieuses<note n="5" place="bottom"><hi rend="i">Le Procès des Précieuses</hi> parut avec un privilège datant du 3 mars 1660 et un achevé d’imprimer du 12 juillet 1660.</note> qui est de mon invention pure, &amp; qui si tout le monde est de mon sentiment divertira<pb n="XXIV"/> fort, au moins ne l’ay je fait que dans cette pensée.</p>
-        <p>Cette Preface auroit à peu pres la longueur qu’elle devroit avoir, &amp; je la finirois volontiers en cet endroit s’il ne me restoit encore un peu de papier qu’il faut remplir de quoy que ce puisse estre quand ce ne seroit que pour grossir le Livre ; Toutefois pour ne me pas esloigner de mon sujet ; je diray quoy que sans dessein de me deffendre ; que j’aurois eu bien plus de facilité de traduire une piece de tout autre langue en vers François, que d’y mettre une prose faite en ma propre<pb n="XXV"/> langue ; dans toute autre j’aurois assez fait de rendre les pensées de mon Autheur. Les termes auroient esté à ma <ref target="#discretion">discretion*</ref> &amp; tout auroit presque despendu de mon choix ; mais icy pour rendre la chose fidellement, je n’ay pas seulement esté contraint de mettre les pensées, il m’a falu mettre aussi les mesmes termes ; que si j’ay adjouté ou diminué selon que les rimes m’y ont obligé, je n’ay rien à respondre à cela, sinon que pour les rendre comme elles estoient, il falloit les laisser en prose ; peut estre qu’au sentiment de plusieurs j’aurois<pb n="XXVI"/> mieux fait que de les mettre en rimes, peut-estre aussi qu’au jugement de ceux qui ayment les vers j’auray fort bien reussi. Tout cela est <ref target="#douteux">douteux*</ref> ; mais il est certain que ce n’est pas là mon plus grand chagrin, &amp; que si ceux pour qui je les ay faites les trouvent à leur gré, il m’est bien indifferend que les autres les condamnent ou les approuvent, en tout cas que ceux qui ne s’y divertiront pas ayent recours au Dictionnaire des Prétieuses ou à la Satyre. Comme tout despend du caprice, peut-estre qu’ils y trouverront mieux leur compte &amp; pour moy je seray content, pourveu qu’ils se divertissent de quelque maniere que ce soit.<pb n="XXVII"/></p>
+        <p>Ce n’est pas que je veuille suivre celle de ces Autheurs avides de loüanges qui craignant<pb n="XVII"/> qu’on ne leur rende pas tout l’honneur qu’ils croyent meriter, y inserrent eux-mesmes leurs Panegeriques, &amp; font souvent leurs Apologies avant qu’on les accuse. Mon bût est de divertir le Lecteur, &amp; de me divertir moy mesme : Toutefois<note n="3" place="bottom"> Les deux points et le point-virgule sont considérés par l’imprimeur comme des ponctuations semi-fortes, ce qui justifie généralement l’emploi d’une majuscule au début de la proposition suivante. </note> comme il s’en peut trouver d’assez scrupuleux pour croire que c’est trop <ref target="#hazarder">hazarder</ref> d’exposer aux yeux de tout le monde un ouvrage aussi remply de defauts que celuy-cy, sans leur donner du moins quelques apparentes excuses ; Je veux bien à cet endroit dire quelque chose pour le contenter.</p>
+        <p><pb n="XVIII"/> Je diray d’abord qu’il semblera extraordinaire qu’apres avoir loüé Mascarille<note n="4" place="bottom"> Molière. La phrase est évidemment ironique. </note>, comme j’ay fait dans les Veritables Pretieuses, je me sois donné la peine de mettre en Vers un ouvrage dont il se dit Autheur &amp; qui sans doute luy doit quelque chose, si ce n’est parce qu’il y a adjouté de son estoc au vol qu’il en a fait aux Italiens, à qui Monsieur l’Abbé de Pure les avoit donnez ; au moins pour y avoir adjouté beaucoup par son jeu, qui plût à assez de gens pour luy donner la vanité d’estre le premier Farceur de France. C'est<pb n="XIX"/> toûjours quelque chose d’éxceller en quelque mestier que ce soit, &amp; pour parler selon le vulgaire, il vaut mieux estre le premier d’un village, que le dernier d’une ville, bon Farceur, que <ref target="#meschant">meschant</ref> Comedien ; mais quittons la parentese &amp; retournons aux Pretieuses. Elles ont esté trop generalement receuës &amp; approuvées pour ne pas avoüer que j’y ay pris plaisir, &amp; qu’elles n’ont rien perdu en François de ce qui les fist suivre en Itallien ; &amp; ce seroit faire le modeste à contre-temps, de ne pas dire que je crois ne leur avoir rien des-/<pb n="XX"/>/-robé de leurs agremens en les mestant en Vers : mesme si j’en voulois croire ceux qui les ont veuës, je me vanterois d’y en avoir beaucoup adjouté ; mais quand je le dirois l’on ne seroit pas obligé de s’en raporter à moy, &amp; quand mon Lecteur me donneroit un démenty, il seroit de ceux qui se souffrent sans peine &amp; qui ne coutent jamais de sang. Aussi ne veus-je pas les loüer, &amp; bien loings de le faire, je dis ingenuëment que ce n’est en bien des endroits, que de la prose rimée, qu’on y trouvera plusieurs vers sans repos &amp; dont la cadance<pb n="XXI "/>est fort rude ; mais le Lecteur verra aisement que ce n’est qu’aux endroits où j’ay voulu conserver mot à mot le sens de la prose, &amp; lors que je les ay trouvez tous faits. L'on y verra encore des vers dont le sens est lié &amp; qui sont enchaisnez les uns avec les autres comme de pauvres forçats, &amp; d’autres enfin dont les rimes n’ont pas toute la richesse qu’on leur pourroit donner, je n’en donneray pourtant point d’excuse ; ne croyant pas estre obligé de suivre dans une Comedie comme celle-cy, une reigle que les meilleures plumes n’observent<pb n="XXII"/> pas dans leurs ouvrages les plus serieux : enfin je ne diray rien des Pretieuses en Vers qui puisse exiger de ceux qui les verront une bonté forcée ; je ne veux rien que le plaisir du Lecteur, &amp; serois bien faché d’oster le moyen de Critiquer à ceux qui se plaisent à le faire. Ainsi quoy qu’il me fust aisé de dire bien des choses pour justifier mes deffauts &amp; que je n’eusse qu’à m’estandre sur la dificulté qu’il y a de mettre en Vers mot à mot une prose aussi bizare que celle que j’ay euë à tourner; que je peusse facillement faire voir que tout le plaisant<pb n="XXIII"/> des Pretieuses consistoit presque, en des mots aussi contraires à la douceur des Vers que necessaires aux agremens de cette Comedie : je laisse pourtant toutes ces choses pour laisser le Lecteur en liberté, &amp; je proteste icy que la Critique ne m’espouvante point &amp; que je serois fort mary de dire le moindre mot pour l’éviter, &amp; non seulement je la souffre pour cette vertion, mais je consens que l’on s’en serve encore à l’esgard du Procez des Pretieuses<note n="5" place="bottom"><hi rend="i">Le Procès des Précieuses</hi> parut avec un privilège datant du 3 mars 1660 et un achevé d’imprimer du 12 juillet 1660.</note> qui est de mon invention pure, &amp; qui si tout le monde est de mon sentiment divertira<pb n="XXIV"/> fort, au moins ne l’ay je fait que dans cette pensée.</p>
+        <p>Cette Preface auroit à peu pres la longueur qu’elle devroit avoir, &amp; je la finirois volontiers en cet endroit s’il ne me restoit encore un peu de papier qu’il faut remplir de quoy que ce puisse estre quand ce ne seroit que pour grossir le Livre ; Toutefois pour ne me pas esloigner de mon sujet ; je diray quoy que sans dessein de me deffendre ; que j’aurois eu bien plus de facilité de traduire une piece de tout autre langue en vers François, que d’y mettre une prose faite en ma propre<pb n="XXV"/> langue ; dans toute autre j’aurois assez fait de rendre les pensées de mon Autheur. Les termes auroient esté à ma <ref target="#discretion">discretion</ref> &amp; tout auroit presque despendu de mon choix ; mais icy pour rendre la chose fidellement, je n’ay pas seulement esté contraint de mettre les pensées, il m’a falu mettre aussi les mesmes termes ; que si j’ay adjouté ou diminué selon que les rimes m’y ont obligé, je n’ay rien à respondre à cela, sinon que pour les rendre comme elles estoient, il falloit les laisser en prose ; peut estre qu’au sentiment de plusieurs j’aurois<pb n="XXVI"/> mieux fait que de les mettre en rimes, peut-estre aussi qu’au jugement de ceux qui ayment les vers j’auray fort bien reussi. Tout cela est <ref target="#douteux">douteux</ref> ; mais il est certain que ce n’est pas là mon plus grand chagrin, &amp; que si ceux pour qui je les ay faites les trouvent à leur gré, il m’est bien indifferend que les autres les condamnent ou les approuvent, en tout cas que ceux qui ne s’y divertiront pas ayent recours au Dictionnaire des Prétieuses ou à la Satyre. Comme tout despend du caprice, peut-estre qu’ils y trouverront mieux leur compte &amp; pour moy je seray content, pourveu qu’ils se divertissent de quelque maniere que ce soit.<pb n="XXVII"/></p>
       </div>
       <div xml:id="elegie" type="dedication">
         <head>A MADEMOISELLE <lb/>MADEMOISELLE <hi rend="b">MARIE</hi> DE <hi rend="b">MANCINY</hi><lb/>ELEGIE.</head>
@@ -1277,12 +1276,12 @@
           <l n="2">Dont une ame jamais puisse estre possedée</l>
           <l n="3">Je me laisse emporter à ces nobles ardeurs</l>
           <l n="4">Qui destruisent la crainte, &amp; r'assurent les cœurs.</l>
-          <l n="5">Je conçois un dessein qui m’<ref target="#estonner1">estonne*</ref> moy-mesme,[<pb n="XXVIII"/>]</l>
+          <l n="5">Je conçois un dessein qui m’<ref target="#estonner1">estonne</ref> moy-mesme,[<pb n="XXVIII"/>]</l>
           <l n="6">Mais comme le danger la gloire en est extreme,</l>
           <l n="7">Quand j’y succomberois je serois glorieux,</l>
           <l n="8">C'est perir noblement que perir à vos yeux ;</l>
           <l n="9">On ne se repent point d’une belle entreprise</l>
-          <l n="10">Et de quelque terreur qu’une ame soit <ref target="#surprise">surprise*</ref></l>
+          <l n="10">Et de quelque terreur qu’une ame soit <ref target="#surprise">surprise</ref></l>
           <l n="11">Pour en venir à bout on la voit tout oser</l>
           <l n="12">Aux plus facheux revers on la voit s’exposer,</l>
           <l n="13">Pour moy dans le projet que je viens de me faire</l>
@@ -1327,11 +1326,11 @@
           <l n="50">Si l’on en sent le poids l’on en cherit les peines</l>
           <l n="51">Et vostre Empire est tel dessus les libertez</l>
           <l n="52">Que mesme vous forcez jusques aux volontez :</l>
-          <l n="53">Ouy tel est de vos yeux, la douceur &amp; l’<ref target="#empire">Empire*</ref></l>
+          <l n="53">Ouy tel est de vos yeux, la douceur &amp; l’<ref target="#empire">Empire</ref></l>
           <l n="54">Qu'ils peuvent beaucoup plus que je ne sçaurois dire ;</l>
-          <l n="55"><hi rend="i">Mais si voyant vos yeux j’y trouve tant d’<ref target="#appas1">appas*</ref>[</hi><pb n="XXXII"/>]</l>
+          <l n="55"><hi rend="i">Mais si voyant vos yeux j’y trouve tant d’<ref target="#appas1">appas</ref>[</hi><pb n="XXXII"/>]</l>
           <l n="56">Consultant vostre Esprit que ne verrai-je pas ?</l>
-          <l n="57">Et si poussant plus loïng, ce dessein qui m’<ref target="#estonner1">estonne*</ref></l>
+          <l n="57">Et si poussant plus loïng, ce dessein qui m’<ref target="#estonner1">estonne</ref></l>
           <l n="58">Je voulois regarder toute vostre personne</l>
           <l n="59">En voir separement les aymables tresors</l>
           <l n="60">De vostre ame à loisir consulter les accords</l>
@@ -1360,7 +1359,7 @@
           <l n="81"><hi rend="i">Alors par ce penser ma veine r'animée                        [</hi><pb n="XXXIV"/>]</l>
           <l n="82">Traçeroit ces vertus dont mon ame est charmée</l>
           <l n="83">Et suivant de vos yeux l’éclat &amp; les rayons</l>
-          <l n="84">J’en ferois à plaisir les illustres <ref target="#crayon">crayons*</ref> ;</l>
+          <l n="84">J’en ferois à plaisir les illustres <ref target="#crayon">crayons</ref> ;</l>
         </lg>
         <lg rend="i">
           <l n="85">Dans ce vaste tableau chacune auroit sa place                85</l>
@@ -1385,7 +1384,7 @@
           <l n="104">Tiendroit à grand bonheur de recevoir vos loix.    </l>
         </lg>
         <lg rend="i">
-          <l n="105">Mais attandant l’<ref target="#aveu">aveu*</ref> d’une telle entreprise</l>
+          <l n="105">Mais attandant l’<ref target="#aveu">aveu</ref> d’une telle entreprise</l>
           <l n="106">De grace laissez moy jouïr de ma surprise</l>
           <l n="107">Par mon estonnement montrer vostre pouvoir</l>
           <l n="108">Il en marquera plus que je n’en ay fait voir.</l>
@@ -1417,7 +1416,7 @@
           </castItem>
           <castItem>
             <role rend="male junior" xml:id="du-croisy">DU CROISY<note n="7" place="bottom"> La Grange et Du Croisy (de leurs vrais noms Charles Varlet et Philibert Gassot) étaient deux acteurs de la troupe de Molière -on voyait alors couramment les acteurs donner leur nom de famille ou de scène à un caractère récurent-, spécialisés dans les rôles de jeunes premiers. Jodelet, quant à lui, est certainement l’illustration la plus célèbre de cet usage : de son vrai nom Julien Bedeau, l’acteur était spécialisé dans les rôles de valet burlesque, rustre et poltron, d’après le modèle espagnol du <hi rend="i">gracioso</hi>. Son personnage était devenu un type depuis ses apparitions dans les comédies de Corneille et de Scarron. Lorsque Molière écrit <hi rend="i">Les Précieuses ridicules</hi>, il a engagé depuis peu, en mars 1659, ces trois acteurs qui exerçaient auparavant dans la troupe du Marais. Jodelet meurt peu après, en mars 1660, alors que la pièce de Molière est toujours à l’affiche.</note>,</role>
-            <roleDesc><ref target="#amant1">Amans*</ref> rebutez.</roleDesc>
+            <roleDesc><ref target="#amant1">Amans</ref> rebutez.</roleDesc>
           </castItem>
           <castItem>
             <role rend="male" xml:id="gorgibus">GORGIBUS<note n="8" place="bottom"> C’est un patronyme attesté dans la société contemporaine : outre que les noms en –bus soient courants dans la tradition farcesque, il semble que le choix de ce nom vise à évoquer la bourgeoisie, Gorgibus se faisant l’incarnation du gros bon sens bourgeois. Molière le reprendra dans <hi rend="i">Le Cocu imaginaire</hi>.</note>,</role>
@@ -1483,7 +1482,7 @@
           </sp>
           <sp who="la-grange" xml:id="I01-4">
             <speaker>LA GRANGE.</speaker>
-            <l n="2" xml:id="l2">Parlez, je vous <ref target="#entendre2">entends*</ref>. Qu'avez-vous à me dire ?</l>
+            <l n="2" xml:id="l2">Parlez, je vous <ref target="#entendre2">entends</ref>. Qu'avez-vous à me dire ?</l>
             <l n="3" part="I" xml:id="l3">Quoy,</l>
           </sp>
           <sp who="du-croisy" xml:id="I01-5">
@@ -1500,8 +1499,8 @@
           </sp>
           <sp who="la-grange" xml:id="I01-8">
             <speaker>LA GRANGE.</speaker>
-            <l n="5" xml:id="l5">J'en suis scandalisé, pour moy je le <ref target="#confesser2">confesse*</ref></l>
-            <l n="6" xml:id="l6">Un <ref target="#procede">procedé*</ref> semblable, &amp; me choque &amp; me blesse,</l>
+            <l n="5" xml:id="l5">J'en suis scandalisé, pour moy je le <ref target="#confesser2">confesse</ref></l>
+            <l n="6" xml:id="l6">Un <ref target="#procede">procedé</ref> semblable, &amp; me choque &amp; me blesse,</l>
             <l n="7" xml:id="l7">Deux Pecques<note n="13" place="bottom"><hi rend="i">Pecque</hi> : « Mot burlesque et injurieux qui ne se dit que des femmes et des filles et qui veut dire misérable, mal-bâtie, sote » (Richelet). On peut supposer que le terme soit issu du latin <hi rend="i">pecus, pecoris</hi> (bétail), qui a également fourni au français le mot <hi rend="i">pécore.</hi> Ce substantif est souvent associé à la préciosité et apparaît souvent, comme « donzelle » (voir plus bas), dans la littérature burlesque des années 1650.</note> de Province, ont-elles dites moy ?</l>
             <l n="8" xml:id="l8">Jamais plus fierement, tenu leur quant à moy<note n="14" place="bottom"><hi rend="i">Tenir son quant-à-soi</hi> : Prendre un air réservé et fier, ne répondre qu’avec circonspection.</note><pb n="3"/></l>
             <l n="9" xml:id="l9">Et deux hommes jamais, en pareille occurrence</l>
@@ -1511,10 +1510,10 @@
             <l n="13" xml:id="l13">Je suis encor surpris, d’une chose pareille,</l>
             <l n="14" xml:id="l14">On n’a jamais tant veu, se parler à l’oreille,</l>
             <l n="15" xml:id="l15">Tant se frotter les yeux, tant bâiller, tant moucher,</l>
-            <l n="16" xml:id="l16">Tant s’enquerir de l’heure, &amp; si souvent <ref target="#cracher">cracher*</ref><note n="15" place="bottom"> Ces attitudes ostentatoires, qui vont à l’encontre de la galanterie, sont souvent dénoncées par les ennemis des précieuses.</note>.</l>
+            <l n="16" xml:id="l16">Tant s’enquerir de l’heure, &amp; si souvent <ref target="#cracher">cracher</ref><note n="15" place="bottom"> Ces attitudes ostentatoires, qui vont à l’encontre de la galanterie, sont souvent dénoncées par les ennemis des précieuses.</note>.</l>
             <l n="17" xml:id="l17">Nous ont-elles jamais dit, quatre mots de suitte,</l>
             <l n="18" xml:id="l18">Ouy, ou non, ont-ils pas payé nostre visitte<note n="16" place="bottom"> Le pronom <hi rend="i">ils</hi> anaphorise <hi rend="i">ouy et non</hi>, uniques réponses dont se sont vus ponctués les discours des deux gentilhommes.</note>,</l>
-            <l n="19" xml:id="l19">Et quand nous aurions mesme esté de vrais <ref target="#gredin">gredins*</ref></l>
+            <l n="19" xml:id="l19">Et quand nous aurions mesme esté de vrais <ref target="#gredin">gredins</ref></l>
             <l n="20" xml:id="l20">Nous auroient-elles pû monstrer plus de desdains.</l>
           </sp>
           <sp who="du-croisy" xml:id="I01-9">
@@ -1524,9 +1523,9 @@
           </sp>
           <sp who="la-grange" xml:id="I01-10">
             <speaker>LA GRANGE.</speaker>
-            <l n="23" xml:id="l23"><ref target="#doute">Sans doute*</ref> elle me touche, &amp; de telle façon</l>
+            <l n="23" xml:id="l23"><ref target="#doute">Sans doute</ref> elle me touche, &amp; de telle façon</l>
             <l n="24" xml:id="l24">Que devant qu’il soit peu<note n="18" place="bottom"><hi rend="i">Devant que</hi> : « Conjonctive qui n’est plus guere en usage. On se sert en sa place de la conjonction <hi rend="i">avant que</hi> » (Richelet). Comprendre : D’ici peu.</note>, j’en veux tirer raison<note n="19" place="bottom"><hi rend="i">Tirer raison</hi> : Obtenir la réparation d’une injure reçue, faire justice.</note> ;<pb n="4"/></l>
-            <l n="25" xml:id="l25">Je <ref target="#connoistre">connois*</ref> ce que c’est, l’air Pretieux<note n="20" place="bottom"><hi rend="i">Air</hi> : « manière d’agir, de parler, de vivre, soit en bonne ou mauvaise part » (Furetière). Les expressions construites sur ce modèle se rapportent donc à la conduite en société, classée parmi les bonnes ou les mauvaises selon l’adjectif qui lui est associé. Ici, les connotations liées à la campagne et la province nous indiquent la valeur négative que prend la préciosité dans l’esprit de La Grange. En outre, le sens premier du terme « air » est remotivé est donne lieu à une métaphore filée (« humé »).</note> sans doute<note n="21" place="bottom"> Prononcer « Pretieux » en trois syllabes, de même que « serieux » au v.502.</note></l>
+            <l n="25" xml:id="l25">Je <ref target="#connoistre">connois</ref> ce que c’est, l’air Pretieux<note n="20" place="bottom"><hi rend="i">Air</hi> : « manière d’agir, de parler, de vivre, soit en bonne ou mauvaise part » (Furetière). Les expressions construites sur ce modèle se rapportent donc à la conduite en société, classée parmi les bonnes ou les mauvaises selon l’adjectif qui lui est associé. Ici, les connotations liées à la campagne et la province nous indiquent la valeur négative que prend la préciosité dans l’esprit de La Grange. En outre, le sens premier du terme « air » est remotivé est donne lieu à une métaphore filée (« humé »).</note> sans doute<note n="21" place="bottom"> Prononcer « Pretieux » en trois syllabes, de même que « serieux » au v.502.</note></l>
             <l n="26" xml:id="l26">Dans la campagne aussi, vient de prendre sa route,</l>
             <l n="27" xml:id="l27">Et de Paris enfin courant, de part en part</l>
             <l n="28" xml:id="l28">Nos donzelles<note n="22" place="bottom"><hi rend="i">Donzelle</hi> : « Mot de mépris pour dire <hi rend="i">demoiselle.</hi> Le mot de donzelle est burlesque et ofensant » (Richelet).</note> en ont, humé leur bonne part ;</l>
@@ -1537,8 +1536,8 @@
             <l n="33" xml:id="l33">Pour en estre receu, je vois ce qu’il faut estre,</l>
             <l n="34" xml:id="l34">Je vois ce qu’à leurs yeux, il faut enfin paroistre,</l>
             <l n="35" xml:id="l35">Et si vous me croyez, nous leur devons joüer</l>
-            <l n="36" xml:id="l36">Un tour, pour leur apprendre à ne se plus <ref target="#louer">loüer*</ref>,</l>
-            <l n="37" xml:id="l37">La <ref target="#piece">piece*</ref> <note n="25" place="bottom"> Jeu de mot : « Joüer piece à quelqu’un, luy faire piece, pour dire, luy faire quelque supercherie, quelque affront, luy causer quelque dommage, ou raillerie » (Furetière).</note> assurement, paroistra sans seconde</l>
+            <l n="36" xml:id="l36">Un tour, pour leur apprendre à ne se plus <ref target="#louer">loüer</ref>,</l>
+            <l n="37" xml:id="l37">La <ref target="#piece">piece</ref> <note n="25" place="bottom"> Jeu de mot : « Joüer piece à quelqu’un, luy faire piece, pour dire, luy faire quelque supercherie, quelque affront, luy causer quelque dommage, ou raillerie » (Furetière).</note> assurement, paroistra sans seconde</l>
             <l n="38" xml:id="l38">Et leur montrera mieux, à connoistre leur monde<note n="26" place="bottom"> A tenir leur rang dans le monde.</note>.<pb n="5"/></l>
           </sp>
           <sp who="du-croisy" xml:id="I01-11">
@@ -1582,8 +1581,8 @@
           <sp who="la-grange" xml:id="I02-2">
             <speaker>LA GRANGE.</speaker>
             <l n="56" xml:id="l56">Vous le sçaurez Monsieur, mieux d’elles, que de nous,</l>
-            <l n="57" xml:id="l57">Tout ce que nous pouvons <ref target="#present">à present*</ref> vous apprendre</l>
-            <l n="58" xml:id="l58">C'est, que nous avons trop de <ref target="#grace">graces*</ref> à vous rendre,</l>
+            <l n="57" xml:id="l57">Tout ce que nous pouvons <ref target="#present">à present</ref> vous apprendre</l>
+            <l n="58" xml:id="l58">C'est, que nous avons trop de <ref target="#grace">graces</ref> à vous rendre,</l>
             <l n="59" xml:id="l59">De toutes vos bontez, de toutes vos faveurs<pb n="8"/></l>
             <l n="60" xml:id="l60">Et que nous demeurons vos humbles serviteurs,</l>
           </sp>
@@ -1635,7 +1634,7 @@
             <l n="70" xml:id="l70">Nous avons tous les jours une semblable aubade<note n="33" place="bottom"><hi rend="i">Aubade</hi> : « Concert qu’on donne dés le matin à la porte ou sous les fenestres de quelqu’un pour l’honorer, ou pour le rejouïr. Aubade signifie à contre-sens, quelque insulte, quelque affront qu’on fait à quelqu’un » (Furetière).</note>.</l>
             <l n="71" xml:id="l71">Tout cela me desplaist, &amp; c’est trop pommader<note n="34" place="bottom"><hi rend="i">Pommader</hi> : « Ce mot ne se trouve que dans les <hi rend="i">Précieuses</hi> de <hi rend="i">Moliere, scene 3.</hi> et il ne se peut dire qu’en riant. Il signifie <hi rend="i">s’amuser</hi> [perdre son temps] <hi rend="i">à faire de la pommade.</hi> [C'est trop pommadé, dites-leur qu’elles décendent.] » (Richelet). Somaize reprend ce néologisme à Molière. La comédie burlesque de l’époque aime particulièrement créer des verbes saugrenus sur le même modèle. </note></l>
             <l n="72" xml:id="l72">Qu'on les face descendre, allez &amp; sans tarder.</l>
-            <l n="73" xml:id="l73">Ces pendardes enfin, faut que je le <ref target="#confesser1">confesse*</ref>.</l>
+            <l n="73" xml:id="l73">Ces pendardes enfin, faut que je le <ref target="#confesser1">confesse</ref>.</l>
             <l n="74" xml:id="l74">Me veulent ruiner<note n="35" place="bottom"> Diérèse : prononcer « ruiner »  en trois syllabes.</note>en pommadant sans cesse.</l>
             <l n="75" xml:id="l75">Mais je me facheray si l’on me pousse à bout ;</l>
             <l n="76" xml:id="l76">Je ne vois que blancs-d’oeufs, laict virginal par tout,</l>
@@ -1664,8 +1663,8 @@
             <l n="89" xml:id="l89">Ah ! Que dites vous là, quelle estime, mon pere</l>
             <l n="90" xml:id="l90">Pourions nous toutes deux, &amp; devrions nous faire,</l>
             <l n="91" xml:id="l91">(Quand bien vous nous l’auriez vous mesme commandé)</l>
-            <l n="92" xml:id="l92">De ces sortes de gens de qui le <ref target="#procede">procedé*</ref></l>
-            <l n="93" part="I" xml:id="l93">Est <ref target="#irregulier">irregulier*</ref>.</l>
+            <l n="92" xml:id="l92">De ces sortes de gens de qui le <ref target="#procede">procedé</ref></l>
+            <l n="93" part="I" xml:id="l93">Est <ref target="#irregulier">irregulier</ref>.</l>
           </sp>
           <sp who="cathos" xml:id="I04-3">
             <speaker>CATHOS.</speaker>
@@ -1686,10 +1685,10 @@
             <speaker>GORGIBUS.</speaker>
             <l n="98" xml:id="l98">Devoient-ils debutter par le concubinage<note n="39" place="bottom"> « Terme du vocabulaire religieux […], relayé, plus bas, par l’insistancer de Gorgibus sur le "lien sacré" du mariage. Sa prononciation en scène fait résonner deux de ces "syllabes sales" ("con" et "cul") qu’un lieu commun présente comme la phobie des précieuses » (<hi rend="i">Molière. Œuvres complètes</hi>, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur <hi rend="i">Les Précieuses ridicules</hi>, n.1 p. 1217).</note> ?</l>
             <l n="99" xml:id="l99">Estoit-ce le moyen de gaigner vôtre cœur ?</l>
-            <l n="100" xml:id="l100">Ne devriez vous pas estimer leur <ref target="#ardeur3">ardeur*</ref>,</l>
+            <l n="100" xml:id="l100">Ne devriez vous pas estimer leur <ref target="#ardeur3">ardeur</ref>,</l>
             <l n="101" xml:id="l101">Quoy ? Pouvoient-ils tous deux, parler d’une maniere</l>
             <l n="102" xml:id="l102">Qui fust plus obligeante, &amp; deust plus satisfaire,</l>
-            <l n="103" xml:id="l103">Et ce lien sacré qu’ils <ref target="#pretendre">pretendent*</ref> tous deux</l>
+            <l n="103" xml:id="l103">Et ce lien sacré qu’ils <ref target="#pretendre">pretendent</ref> tous deux</l>
             <l n="104" xml:id="l104">Ne marque-t-il pas bien, la vertu de leurs vœux.</l>
           </sp>
           <sp who="magdelon" xml:id="I04-7">
@@ -1702,7 +1701,7 @@
             <l n="110" xml:id="l110">Lors que je vous entends faire un discours semblable.</l>
             <l n="111" xml:id="l111">J'en suis encore surprise &amp; confuse. Bon Dieu !<pb n="15"/></l>
             <l n="112" xml:id="l112">Pour vous desabrutir<note n="40" place="bottom"><hi rend="i">Desabrutir : « </hi> Sortir de l’abrutissement, d’une grossière stupidité ; rentrer dans une raison éclairée (<hi rend="i">Enrichissement de la langue française. Dictionnaire de mots nouveaux</hi>, J-B. de Radonvilliers, Paris, éd.Léautey, 1845). Le mot semble être un néologisme.</note>, il vous faudroit un peu</l>
-            <l n="113" xml:id="l113">Apprendre ce que c’est, que le bel <ref target="#air">air*</ref> des choses.</l>
+            <l n="113" xml:id="l113">Apprendre ce que c’est, que le bel <ref target="#air">air</ref> des choses.</l>
           </sp>
           <sp who="gorgibus" xml:id="I04-8">
             <speaker>GORGIBUS.</speaker>
@@ -1716,9 +1715,9 @@
           </sp>
           <sp who="magdelon" xml:id="I04-9">
             <speaker>MAGDELON.</speaker>
-            <l n="121" xml:id="l121">Dieux ! si chacun estoit de vostre <ref target="#humeur">humeur*</ref> mon pere,</l>
+            <l n="121" xml:id="l121">Dieux ! si chacun estoit de vostre <ref target="#humeur">humeur</ref> mon pere,</l>
             <l n="122" xml:id="l122">Que la fin d’un Roman, seroit facile à faire,</l>
-            <l n="123" xml:id="l123">Que cela seroit beau, si Cyrus <ref target="#dans-abord">dans l’abord*</ref><pb n="16"/></l>
+            <l n="123" xml:id="l123">Que cela seroit beau, si Cyrus <ref target="#dans-abord">dans l’abord</ref><pb n="16"/></l>
             <l n="124" xml:id="l124">Sans esprouver du tout, les caprices du sort</l>
             <l n="125" xml:id="l125">Avoit Mandane, &amp; si sans hazarder sa vie</l>
             <l n="126" xml:id="l126">Aronce, de plein pied<note n="43" place="bottom"> Sans obstacle.</note>, espousoit sa Clélie.<note n="44" place="bottom"> Ce sont les deux couples héros des romans de Madeleine et Georges de Scudéry, <hi rend="i">Le Grand Cyrus</hi> (1649-1653) et <hi rend="i">Clélie</hi> (1654-1660), romans en dix volumes chacun dont la parution avait constitué le principal évènement littéraire de la décennie précédente.</note></l>
@@ -1730,14 +1729,14 @@
           </sp>
           <sp who="magdelon" xml:id="I04-11">
             <speaker>MAGDELON.</speaker>
-            <l n="129" xml:id="l129">Si vous vouliez mon pere un moment nous <ref target="#entendre2">entendre*</ref> ?</l>
+            <l n="129" xml:id="l129">Si vous vouliez mon pere un moment nous <ref target="#entendre2">entendre</ref> ?</l>
             <l n="130" xml:id="l130">Et ma cousine &amp; moy, nous pourions vous apprendre.</l>
-            <l n="131" xml:id="l131">Que jamais un <ref target="#hymen">hymen*</ref> ne se doit accorder</l>
+            <l n="131" xml:id="l131">Que jamais un <ref target="#hymen">hymen</ref> ne se doit accorder</l>
             <l n="132" xml:id="l132">Qu'apres les accidens<note n="45" place="bottom"> Au sens d’<hi rend="i">aventures</hi> (c’est le mot choisi par Molière). – S’ensuit la description des étapes topiques qui constituent la trame du roman héroïco-galant des années 1650.</note> qui doivent preceder.</l>
             <l n="133" xml:id="l133">Il faut que dans l’abord, un amant veritable</l>
             <l n="134" xml:id="l134">Afin qu’à sa maistresse il se rende agreable,</l>
-            <l n="135" xml:id="l135">Exprime adroitement ses plus <ref target="#cruel">cruels*</ref> tourmens,<pb n="17"/></l>
-            <l n="136" xml:id="l136">Il sçache <ref target="#debiter">debiter*</ref> tous les beaux sentimens,</l>
+            <l n="135" xml:id="l135">Exprime adroitement ses plus <ref target="#cruel">cruels</ref> tourmens,<pb n="17"/></l>
+            <l n="136" xml:id="l136">Il sçache <ref target="#debiter">debiter</ref> tous les beaux sentimens,</l>
             <l n="137" xml:id="l137">Et que sans se lasser, pour pouvoir la surprendre,</l>
             <l n="138" xml:id="l138">Il sçache bien pousser, &amp; le doux &amp; le tendre,<note n="46" place="bottom"> « Pousser les beaux sentiments, dire de belles choses » (Furetière) : si l’expression est attestée, « debiter les beaux sentiments » et « pousser le doux et le tendre » semblent être des inventions de Molière dans ses <hi rend="i">Précieuses.</hi> On trouve plus tard, sous la plume du même auteur, dans l’<hi rend="i">École des Femmes</hi> : "Héroïnes du temps, mesdames les savantes, / Pousseuses de tendresse et de beaux sentimens".</note></l>
             <l n="139" xml:id="l139">Que pour monstrer combien son cœur est enchaisné</l>
@@ -1746,50 +1745,50 @@
             <l n="142" xml:id="l142">Que la procedure ait les formes ordinaires.</l>
             <l n="143" xml:id="l143">Il doit dedans le temple<note n="48" place="bottom"> L’Eglise (le caractère sacré du mot interdit son emploi dans une fiction profane).</note>, ou dedans d’autres lieux.</l>
             <l n="144" xml:id="l144">Voir l’aymable beauté, qui cause tous les vœux,</l>
-            <l n="145" xml:id="l145">Ou bien estre conduit, <ref target="#fatalement">fatallement*</ref> chez elle</l>
+            <l n="145" xml:id="l145">Ou bien estre conduit, <ref target="#fatalement">fatallement</ref> chez elle</l>
             <l n="146" xml:id="l146">Par un des bons amis, ou parent de la belle.</l>
             <l n="147" xml:id="l147">Il sort apres cela, tout chagrin tout resveur,</l>
-            <l n="148" xml:id="l148">A l’objet de ses vœux, cache un temps son <ref target="#ardeur1">ardeur*</ref>,</l>
+            <l n="148" xml:id="l148">A l’objet de ses vœux, cache un temps son <ref target="#ardeur1">ardeur</ref>,</l>
             <l n="149" xml:id="l149">Cependant il luy rend de frequentes visites<pb n="18"/></l>
             <l n="150" xml:id="l150">Et puis le plus souvent, apres bien des redites,</l>
             <l n="151" xml:id="l151">On voit sur le tapis, mettre une question<note n="49" place="bottom"> La « question d’amour » était une activité essentielle des salons, par laquelle on s’offrait à l’examination d’un problème de morale amoureuse. Ces « conversations morales » (Mlle de Scudéry publiera sous ce titre le florilège des questions extraites de ses romans) portaient sur des sujets bien plus vastes que l’amour et montrent comment la société mondaine discutait de ses valeurs et de ses pratiques, dimension largement ignorée par Magdelon. </note></l>
             <l n="152" xml:id="l152">Qui fait adroitement sçavoir sa passion,</l>
             <l n="153" xml:id="l153">Et qui quoy que la belle, en paroisse troublée</l>
             <l n="154" xml:id="l154">Exerce les esprits de toute l’assemblée.</l>
-            <l n="155" xml:id="l155">De declarer son <ref target="#feu">feu*</ref>, le jour arrive enfin,</l>
+            <l n="155" xml:id="l155">De declarer son <ref target="#feu">feu</ref>, le jour arrive enfin,</l>
             <l n="156" xml:id="l156">Ce qui se fait souvent dedans quelque jardin</l>
             <l n="157" xml:id="l157">Lors que par un bonheur, que le hazard ameine</l>
             <l n="158" xml:id="l158">La compagnie quitte, ou plus loing se promeine,</l>
             <l n="159" xml:id="l159">D'abord à cét adveu<note n="50" place="bottom"> Orthographe la plus courante d’<hi rend="i">aveu.</hi></note>, succede un prompt couroux</l>
             <l n="160" xml:id="l160">Qui banit quelque temps l’amant d’aupres de nous.<note n="51" place="bottom"> Réaction de rejet qui caractérise la précieuse telle qu’elle est alors représentée.</note></l>
             <l n="161" xml:id="l161">Il trouve apres moyen, de rassurer nostre ame</l>
-            <l n="162" xml:id="l162">De nous accoustumer, aux discours de sa <ref target="#flamme">flamme*</ref>,</l>
-            <l n="163" xml:id="l163">Et de tirer de nous, cet important <ref target="#aveu">aveu*</ref></l>
+            <l n="162" xml:id="l162">De nous accoustumer, aux discours de sa <ref target="#flamme">flamme</ref>,</l>
+            <l n="163" xml:id="l163">Et de tirer de nous, cet important <ref target="#aveu">aveu</ref></l>
             <l n="164" xml:id="l164">Qui nous fait tant de peine, &amp; luy couste si peu.</l>
             <l n="165" xml:id="l165">Viennent apres cela toutes les advantures<pb n="19"/></l>
             <l n="166" xml:id="l166">Les jaloux desespoirs, les craintes les murmures,</l>
             <l n="167" xml:id="l167">Les plaintes sans sujet, les cris &amp; les rivaux</l>
             <l n="168" xml:id="l168">Qui d’un parfait amour, sont les plus cruels maux</l>
             <l n="169" xml:id="l169">Quand par une soudaine, &amp; facheuse saillie</l>
-            <l n="170" xml:id="l170">Ils viennent traverser, une <ref target="#flamme">flame*</ref> establie.</l>
+            <l n="170" xml:id="l170">Ils viennent traverser, une <ref target="#flamme">flame</ref> establie.</l>
             <l n="171" xml:id="l171">On voit venir encor, les persecutions</l>
             <l n="172" xml:id="l172">D'un pere, qui combat de fortes passions,</l>
             <l n="173" xml:id="l173">Qui s’obstine à les vaincre. On voit la jalousie ;</l>
-            <l n="174" xml:id="l174">Qui sur de faux soubçons trouble la <ref target="#fantaisie">fantaisie*</ref>,</l>
+            <l n="174" xml:id="l174">Qui sur de faux soubçons trouble la <ref target="#fantaisie">fantaisie</ref>,</l>
             <l n="175" xml:id="l175">On voit enfin les pleurs &amp; les emportemens,</l>
             <l n="176" xml:id="l176">Les fureurs d’un Amant, &amp; les enlevemens,</l>
             <l n="177" xml:id="l177">Et tout ce qui s’ensuit. Dans les belles manieres,</l>
             <l n="178" xml:id="l178">C'est ainsi que chacun doit traitter ses affaires,</l>
-            <l n="179" xml:id="l179">Ce sont regles enfin, dont il faut <ref target="#confesser1">confesser*</ref></l>
+            <l n="179" xml:id="l179">Ce sont regles enfin, dont il faut <ref target="#confesser1">confesser</ref></l>
             <l n="180" xml:id="l180">Que quiconque est galand ne peut se dispenser ;</l>
             <l n="181" xml:id="l181">Mais peut-on jamais voir recherche plus brutalle,<pb n="20"/></l>
             <l n="182" xml:id="l182">Parler de but en blanc, d’union conjugalle,</l>
             <l n="183" xml:id="l183">Venir rendre visite, &amp; des le mesme jour</l>
             <l n="184" xml:id="l184">Vouloir passer contract, pour monstrer leur amour</l>
-            <l n="185" xml:id="l185">Et prendre <ref target="#justement1">justement*</ref> (sans voir ce qu’il faut faire)</l>
+            <l n="185" xml:id="l185">Et prendre <ref target="#justement1">justement</ref> (sans voir ce qu’il faut faire)</l>
             <l n="186" xml:id="l186">Le Roman par la queuë.<note n="52" place="bottom"> Commencer par la fin. Le plaisir que prennent les auteurs à confronter les précieuses au domaine de la sexualité incite à voir dans cette expression une grivoiserie. Somaize reprend l’expression telle quelle à Molière.</note> Encore un coup mon pere,</l>
             <l n="187" xml:id="l187">Vous pouriez bien-tost voir, si vous preniez conseil,</l>
-            <l n="188" xml:id="l188">Qu'il n’est rien plus marchand<note n="53" place="bottom"> Chez Molière, Magdelon concluait ainsi sa tirade : « Encore un coup mon père, il ne se peut rien de plus Marchand que ce procédé, et j’ai mal au cœur de la seule vision que cela me fait. » Renvoyant précisément à cette scène, Richelet fournit l’éclaircissement suivant : « Qui sent le bourgeois et la maniere d’agir de marchand ».</note> qu’un <ref target="#procede">procedé*</ref> pareil.</l>
+            <l n="188" xml:id="l188">Qu'il n’est rien plus marchand<note n="53" place="bottom"> Chez Molière, Magdelon concluait ainsi sa tirade : « Encore un coup mon père, il ne se peut rien de plus Marchand que ce procédé, et j’ai mal au cœur de la seule vision que cela me fait. » Renvoyant précisément à cette scène, Richelet fournit l’éclaircissement suivant : « Qui sent le bourgeois et la maniere d’agir de marchand ».</note> qu’un <ref target="#procede">procedé</ref> pareil.</l>
             <l n="189" xml:id="l189">Pour moy, j’ay mal au cœur, &amp; me sens inquiette</l>
             <l n="190" xml:id="l190">De la vision<note n="54" place="bottom"> Expression inusitée que l’on trouve dans le <hi rend="i">Dictionnaire des Précieuses</hi> de Somaise (« Les choses que vous me dites, me font une vison ridicule »), au sens d’<hi rend="i">idée.</hi></note> seule, où leur discours me jette.</l>
           </sp>
@@ -1804,17 +1803,17 @@
             <l n="194" xml:id="l194">Qu'elle vient de donner dans le vray de la chose ;</l>
             <l n="195" xml:id="l195">Et quel moyen aussi de recevoir des gens,<pb n="21"/></l>
             <l n="196" xml:id="l196">Qu'à faire leur devoir, on voit si negligens,</l>
-            <l n="197" xml:id="l197">Qui n’ont de dire un mot, pas mesme l’<ref target="#industrie">industrie*</ref>,</l>
+            <l n="197" xml:id="l197">Qui n’ont de dire un mot, pas mesme l’<ref target="#industrie">industrie</ref>,</l>
             <l n="198" xml:id="l198">Et qui sont incongrus dans la galanterie<note n="56" place="bottom"> On avait chez Molière « incongrus en galanterie » : l’adjectif est rare et normalement réservé à la grammaire. Il s’intègre dans une série de créations saugrenues (métaphores et périphrases complexes) qui, alliées à des mots à la mode, sont la base d’un jargon ridiculisé.</note>,</l>
             <l n="199" xml:id="l199">Pour moy sans croire icy, follement m’engager</l>
-            <l n="200" xml:id="l200">Contre qui le voudra, j’oseray bien <ref target="#gager">gager*</ref></l>
+            <l n="200" xml:id="l200">Contre qui le voudra, j’oseray bien <ref target="#gager">gager</ref></l>
             <l n="201" xml:id="l201">Que leur esprit jamais ne fut né pour apprendre</l>
             <l n="202" xml:id="l202">Ce que c’est que l’amour, &amp; la carte de tendre,</l>
             <l n="203" xml:id="l203">Qu'ils ont le jugement tout à fait de travers,</l>
             <l n="204" xml:id="l204">Et que billets galands, petits soins, jolis vers,</l>
             <l n="205" xml:id="l205">Billets doux, sont pour eux des terres inconnuës.<note n="57" place="bottom"><hi rend="i">Billets galands, petits soins, jolis vers et billets doux</hi> sont des villages inscrits sur la <hi rend="i">Carte du Tendre</hi>, publiée dans le premier volume de la <hi rend="i">Clélie</hi> de Mme de Scudéry, en 1654. Les « terres inconnues » y sont situées aux confins, au-delà de la « mer dangereuse », et y figurent la passion. Le succès de cette carte dans les salons suscita de nombreuses imitations et parodies. Elle représentait les étapes, réglées et codifiées, du cheminemet de l’homme en position de serviteur soumis vers la possession de la femme aimée. Molière opère cependant une distorsion, la carte illustrant initialement bien plus un idéal d’amitié tendre, le modèle exclusif et chaste de l’ « ami de cœur », que les prémices du mariage, contrairement à une opinion répandue ; mais l’amalgame que les deux jeunes provinciales opèrent entre préciosité, galanterie et tendresse est le support d’un programme trop comique pour que les contemporains s’en offusquent, cataloguant pour longtemps Mme de Scudéry comme Précieuse, alors même qu’elle ignorait selon toute vraisemblance l’existence d’un amour précieux et considérait la galanterie comme la pire des contrefaçons de l’amour tendre. </note></l>
             <l n="206" xml:id="l206">Je puis vous dire encor, sans en demeurer là,</l>
-            <l n="207" xml:id="l207">Que tout leur <ref target="#procede">procedé*</ref> marque assez bien cela,</l>
+            <l n="207" xml:id="l207">Que tout leur <ref target="#procede">procedé</ref> marque assez bien cela,</l>
             <l n="208" xml:id="l208">Et qu’on ne trouve point dans toute leur personne<pb n="22"/></l>
             <l n="209" xml:id="l209">Ce je ne sçay quel charme, &amp; qui des l’abord donne</l>
             <l n="210" xml:id="l210">Par un air attirant, &amp; de condition</l>
@@ -1822,13 +1821,13 @@
             <l n="212" xml:id="l212">Vit on jamais encor, chose plus merveilleuse</l>
             <l n="213" xml:id="l213">Oser venir tous deux en visite amoureuse</l>
             <l n="214" xml:id="l214">Avecque des chappeaux de plumes desarmez,</l>
-            <l n="215" xml:id="l215">Ne paroistre tous deux nullement <ref target="#enflamme">enflamez*</ref>,</l>
+            <l n="215" xml:id="l215">Ne paroistre tous deux nullement <ref target="#enflamme">enflamez</ref>,</l>
             <l n="216" xml:id="l216">Avoir avec cela, la jambe toute unie<note n="58" place="bottom"> Sans canons (<hi rend="i">voir plus bas, n.17 p. 45</hi>). On assiste ici à une description parodique en contrepoints de l’homme à la mode, à travers ses attributs vestimentaires.</note>,</l>
             <l n="217" xml:id="l217">La teste de cheveux, tout à fait dégarnie,</l>
-            <l n="218" xml:id="l218">Toute <ref target="#irregulier">irreguliere*</ref>, &amp; des habits enfin,</l>
-            <l n="219" xml:id="l219">Qui ressemblent à ceux de quelque vray <ref target="#gredin">gredin*</ref>,</l>
+            <l n="218" xml:id="l218">Toute <ref target="#irregulier">irreguliere</ref>, &amp; des habits enfin,</l>
+            <l n="219" xml:id="l219">Qui ressemblent à ceux de quelque vray <ref target="#gredin">gredin</ref>,</l>
             <l n="220" xml:id="l220">Et souffrent de rubans une extréme indigence.</l>
-            <l n="221" xml:id="l221">Ah ! mon Dieu, quels <ref target="#amant1">Amans*</ref>, j’en rougis quand j’y pense,</l>
+            <l n="221" xml:id="l221">Ah ! mon Dieu, quels <ref target="#amant1">Amans</ref>, j’en rougis quand j’y pense,</l>
             <l n="222" xml:id="l222">Quelle frugalité d’ajustement, bon Dieu</l>
             <l n="223" xml:id="l223">Est-ce ainsi que l’on doit venir offrir ses vœux,</l>
             <l n="224" xml:id="l224">Que d’indigence en tout, &amp; quelle secheresse<pb n="23"/></l>
@@ -1842,7 +1841,7 @@
           </sp>
           <sp who="gorgibus" xml:id="I04-14">
             <speaker>GORGIBUS.</speaker>
-            <l n="232" xml:id="l232">Voila de grands discours que je ne puis <ref target="#entendre1">entendre*</ref></l>
+            <l n="232" xml:id="l232">Voila de grands discours que je ne puis <ref target="#entendre1">entendre</ref></l>
             <l n="233" xml:id="l233">A tout ce baragouin<note n="60" place="bottom"> Jargon, « langage corrompu ou inconnu qu’on n’entend pas » (Furetière). Le mot figure chez Molière et est prisé des textes burlesques. Il peut tout aussi bien renvoyer à un langage de cabale, codé et destiné à l’entente d’un groupe ; mais étant donné la confusion avec laquelle Cathos et Magdelon tentent d’imiter le parler à la mode, on peut difficilement y voir l’élaboration d’un véritable langage précieux mais plutôt la corruption du langage galant. </note>, qui pourroit rien comprendre,</l>
             <l n="234" xml:id="l234">Elles sont folles. Vous Cathos &amp; Magdelon,</l>
             <l n="235" xml:id="l235">Apprenez aujourd’huy que je veux tout de bon,</l>
@@ -1851,25 +1850,25 @@
           <sp who="magdelon" xml:id="I04-15">
             <speaker>MAGDELON.</speaker>
             <l part="F">He ! de grace, mon pere,</l>
-            <l n="237" xml:id="l237">Des ces <ref target="#estrange1">estranges*</ref> noms, taschez de vous deffaire,</l>
+            <l n="237" xml:id="l237">Des ces <ref target="#estrange1">estranges</ref> noms, taschez de vous deffaire,</l>
             <l n="238" xml:id="l238">Et si vous le pouvez, nommez-nous autrement.</l>
           </sp>
           <sp who="gorgibus" xml:id="I04-16">
             <speaker>GORGIBUS.</speaker>
-            <l n="239" xml:id="l239">O Dieux ! qu’enten-je dire ? <ref target="#estrange1">estranges*</ref> noms, comment ?</l>
+            <l n="239" xml:id="l239">O Dieux ! qu’enten-je dire ? <ref target="#estrange1">estranges</ref> noms, comment ?</l>
             <l n="240" xml:id="l240">Et ne sont-ce pas là vos vrais noms de baptesme ?</l>
           </sp>
           <sp who="magdelon" xml:id="I04-17">
             <speaker>MAGDELON.</speaker>
-            <l n="241" xml:id="l241">Vostre <ref target="#stupidite">stupidité*</ref> va jusques à l’extresme</l>
-            <l n="242" xml:id="l242">Que vous estes <ref target="#vulgaire1">vulgaire*</ref>, avec ces sentiments,</l>
-            <l n="243" xml:id="l243">Ah ! pour moy, le plus grand de mes <ref target="#estonnement">estonnemens*</ref></l>
+            <l n="241" xml:id="l241">Vostre <ref target="#stupidite">stupidité</ref> va jusques à l’extresme</l>
+            <l n="242" xml:id="l242">Que vous estes <ref target="#vulgaire1">vulgaire</ref>, avec ces sentiments,</l>
+            <l n="243" xml:id="l243">Ah ! pour moy, le plus grand de mes <ref target="#estonnement">estonnemens</ref></l>
             <l n="244" xml:id="l244">Est que vous ayez fait une fille si sage</l>
             <l n="245" xml:id="l245">Et si pleine d’esprit. Dedans le beau langage,</l>
             <l n="246" xml:id="l246">Oüy-t’on jamais nommer, Magdelon &amp; Cathos ?</l>
             <l n="247" xml:id="l247">Et n’advoüerez-vous pas, qu’enfin de noms si sots<note n="61" place="bottom"> Rappelons que Cathos se prononce « Cathau », ce qui justifie la rime avec « sots ».</note></l>
-            <l n="248" xml:id="l248">Pourroient par leur <ref target="#rudesse">rudesse*</ref> affreuse &amp; sans seconde<pb n="C 25"/></l>
-            <l n="249" xml:id="l249"><ref target="#descrier">Descrier*</ref> le Roman, le plus charmant du monde.</l>
+            <l n="248" xml:id="l248">Pourroient par leur <ref target="#rudesse">rudesse</ref> affreuse &amp; sans seconde<pb n="C 25"/></l>
+            <l n="249" xml:id="l249"><ref target="#descrier">Descrier</ref> le Roman, le plus charmant du monde.</l>
           </sp>
           <sp who="cathos" xml:id="I04-18">
             <speaker>CATHOS.</speaker>
@@ -1881,7 +1880,7 @@
             <l n="255" xml:id="l255">Entendant prononcer ces mots là seulement.</l>
             <l n="256" xml:id="l256">D'Aminte le beau nom, celui de Polixene,<note n="63" place="bottom"> « Ce changement de nom pourrait bien être une allusion maligne à madame la marquise de Rambouillet, à qui les poëtes de sa cour avaient donné le nom d’Arthénice, anagramme de son nom de Catherine qui leur paraissoit trop vulgaire » (M.Auger, <hi rend="i">Œuvres de Molière, avec un commentaire, un discours préliminaire, et une vie de Molière</hi>, t.II, Paris, éd. Th. Desoer, 1819). Cathos et Magdelon reproduisent une habitude récemment répandue dans les sociétés féminines galantes, aussi bien qu’un travers de comportement du héros du <hi rend="i">Berger extravagant</hi> de Sorel. Le prénom d’Aminte est attesté dans plusieurs romans à la mode, dont <hi rend="i">L’Astrée</hi> de d’Urfé et le <hi rend="i">Polexandre</hi> de Gomberville. Quant à Polyxène, elle est l’un des personnages de <hi rend="i">La Pretieuse</hi> de l’abbé de Pure.</note></l>
             <l n="257" xml:id="l257">Que ma cousine &amp; moy nous avons pris sans peine,</l>
-            <l n="258" xml:id="l258">Ont des attraits en eux, dont vous devez <ref target="#abord">d’abord*</ref></l>
+            <l n="258" xml:id="l258">Ont des attraits en eux, dont vous devez <ref target="#abord">d’abord</ref></l>
             <l n="259" xml:id="l259">Sans aucun contredit estre avec moy d’accord.<pb n="26"/></l>
           </sp>
           <sp who="gorgibus" xml:id="I04-19">
@@ -1891,7 +1890,7 @@
             <l n="262" xml:id="l262">Et je ne pretens pas tomber jamais d’accord,</l>
             <l n="263" xml:id="l263">De ces noms<note n="65" place="bottom"> Le français classique utilise la préposition « de » après les locutions « être d’accord » ou « tomber d’accord » (« être d’accord d’une vérité »).</note>, que je vois qui vous plaisent si fort ;</l>
             <l n="264" xml:id="l264">Quittez les, car je veux que vous gardiez les vostres :</l>
-            <l n="265" xml:id="l265">Je ne sçaurois <ref target="#souffrir">souffrir*</ref>, que vous en ayez d’autres,</l>
+            <l n="265" xml:id="l265">Je ne sçaurois <ref target="#souffrir">souffrir</ref>, que vous en ayez d’autres,</l>
             <l n="266" xml:id="l266">Que ceux que vos parains vous ont jadis donnez.</l>
             <l n="267" xml:id="l267">Pour ces Messieurs aussi, lesquels vous desdaignez :</l>
             <l n="268" xml:id="l268">Je sçay quels sont leurs biens, je connois leurs familles,</l>
@@ -1904,7 +1903,7 @@
           <sp who="cathos" xml:id="I04-20">
             <speaker>CATHOS.</speaker>
             <l n="274" xml:id="l274">Ce que je vous puis dire icy, mon oncle helas !</l>
-            <l n="275" xml:id="l275">C'est que le mariage est pour moy sans <ref target="#appas1">appas*</ref>,</l>
+            <l n="275" xml:id="l275">C'est que le mariage est pour moy sans <ref target="#appas1">appas</ref>,</l>
             <l n="276" xml:id="l276">Que je trouve que c’est une chose choquante,</l>
             <l n="277" xml:id="l277">Et qu’enfin le penser<note n="67" place="bottom"> « Mot qui n’est usité qu’en vers, et qui veut dire <hi rend="i">pensée »</hi> (Richelet).</note>, seulement m’epouvante</l>
             <l n="278" xml:id="l278">D'estre couchée aupres d’un homme vrayement nû<note n="68" place="bottom"> Le rejet de l’amour charnel est une plaisanterie commune sur les précieuses : « Si vous voulez savoir, en quoi les précieuses font consister leur plus grand mérite, je vous dirai que c’est à aimer tendrement leurs amans sans jouissance et à jouir solidement de leurs maris avec aversion » (Saint-Evremond, « Le Cercle, A Monsieur de *** », <hi rend="i">Oeuvres de M. de Saint-Évremond, publiées sur les manuscrits de l’auteur. Nouvelle édition revue, corrigée et augmentée de la vie de l’auteur [par Des Maizeaux]</hi>, Londres, 1725, t.I, p. 109-110.).</note>.</l>
@@ -1939,26 +1938,26 @@
           <stage>CATHOS, MAGDELON,</stage>
           <sp who="cathos" xml:id="I05-1">
             <speaker>CATHOS.</speaker>
-            <l n="296" xml:id="l296">Quelle <ref target="#stupidite">stupidité*</ref>, que vois-je ah ! Dieu ma chere<note n="71" place="bottom"> « Ce nom de ma chère n’a rien d’extraordinaire aujourd’hui, [au XIXe] que beaucoup de femmes se le donnent mutuellement, pour peu qu’il existe de liaison entre elles; mais, à l’époque où la pièce fut jouée, c’était une qualification que les précieuses affectaient, et qui servait même à les désigner dans le monde : on disait, <hi rend="i">une chère</hi>, comme on disait, <hi rend="i">une précieuse</hi> » (Auger). La conclusion est certes fantasmée, mais l’apostrophe est bien perçue comme précieuse par les contemporains.</note> !</l>
+            <l n="296" xml:id="l296">Quelle <ref target="#stupidite">stupidité</ref>, que vois-je ah ! Dieu ma chere<note n="71" place="bottom"> « Ce nom de ma chère n’a rien d’extraordinaire aujourd’hui, [au XIXe] que beaucoup de femmes se le donnent mutuellement, pour peu qu’il existe de liaison entre elles; mais, à l’époque où la pièce fut jouée, c’était une qualification que les précieuses affectaient, et qui servait même à les désigner dans le monde : on disait, <hi rend="i">une chère</hi>, comme on disait, <hi rend="i">une précieuse</hi> » (Auger). La conclusion est certes fantasmée, mais l’apostrophe est bien perçue comme précieuse par les contemporains.</note> !</l>
             <l n="297" xml:id="l297">Que ton pere a la forme avant dans la matiere</l>
             <l n="298" xml:id="l298">Qu'il a l’intelligence espaisse, qu’il est dur,</l>
-            <l n="299" xml:id="l299">Et qu’il fait dans son ame, <ref target="#estrangement">estrangement*</ref> obscur<note n="72" place="bottom"> « Ces trois métaphores (non attestées) mettent en jeu les rapports du "spirituel" et du "sensible", selon une opposition radicale que les textes présentent comme constitutive de l’attitude des précieuses. On leur attribue, en matière de philosophie, une position de spiritualisme éthéré, négateur des réalités matérielles, qui se manifestera, dans la relation amoureuse, par un refus de la dimension charnelle (voir, à la scène IV, la réaction outrée de Cathos à l’idée de "coucher contre un homme vraiment nu"). La même attitude caractérisera les "femmes savantes" selon Molière » (<hi rend="i">Molière. Œuvres complètes</hi>, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur <hi rend="i">Les Précieuses ridicules</hi>, n.1 p. 1219).</note>.</l>
+            <l n="299" xml:id="l299">Et qu’il fait dans son ame, <ref target="#estrangement">estrangement</ref> obscur<note n="72" place="bottom"> « Ces trois métaphores (non attestées) mettent en jeu les rapports du "spirituel" et du "sensible", selon une opposition radicale que les textes présentent comme constitutive de l’attitude des précieuses. On leur attribue, en matière de philosophie, une position de spiritualisme éthéré, négateur des réalités matérielles, qui se manifestera, dans la relation amoureuse, par un refus de la dimension charnelle (voir, à la scène IV, la réaction outrée de Cathos à l’idée de "coucher contre un homme vraiment nu"). La même attitude caractérisera les "femmes savantes" selon Molière » (<hi rend="i">Molière. Œuvres complètes</hi>, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur <hi rend="i">Les Précieuses ridicules</hi>, n.1 p. 1219).</note>.</l>
           </sp>
           <sp who="magdelon" xml:id="I05-2">
             <speaker>MAGDELON.</speaker>
             <l n="300" xml:id="l300">Ma chere que veux-tu ? pour luy j’en suis confuse,</l>
-            <l n="301" xml:id="l301">Rien ne m’<ref target="#estonner2">estonne*</ref> tant, que de le voir si buse<note n="73" place="bottom"> « On dit proverbialement d’un sot, d’un stupide, que c’est une buse. On dit aussi, qu’on ne saurait faire d’une buse un épervier, pour dire, qu’il y a des gens incapables de sciences et de discipline » (Furetière).</note> ;</l>
+            <l n="301" xml:id="l301">Rien ne m’<ref target="#estonner2">estonne</ref> tant, que de le voir si buse<note n="73" place="bottom"> « On dit proverbialement d’un sot, d’un stupide, que c’est une buse. On dit aussi, qu’on ne saurait faire d’une buse un épervier, pour dire, qu’il y a des gens incapables de sciences et de discipline » (Furetière).</note> ;</l>
             <l n="302" xml:id="l302">Mais je me persuade, &amp; fort mal-aisément</l>
             <l n="303" xml:id="l303">Que je puisse estre aussi sa fille assurement,</l>
             <l n="304" xml:id="l304">Et je crois qu’il viendra quelque journée heureuse,<pb n="30"/></l>
             <l n="305" xml:id="l305">Qui par quelque adventure, &amp; nouvelle, &amp; fameuse</l>
-            <l n="306" xml:id="l306">Me <ref target="#developper">developpera*</ref>, <ref target="#doute">sans doute*</ref> avec raison</l>
+            <l n="306" xml:id="l306">Me <ref target="#developper">developpera</ref>, <ref target="#doute">sans doute</ref> avec raison</l>
             <l n="307" xml:id="l307">Un pere plus illustre, &amp; d’une autre maison<note n="74" place="bottom"> Les textes de l’époque (romans, comédies ou encore tragi-comédies), ont souvent recours au dénouement par agnition où le héros finit par être reconnu comme l’enfant d’un personnage de haut rang. Auger, dans son commentaire de la pièce, dénonçait ici les « pernicieux effets de tous ces romans à grandes aventures », qui « dégoûtent les jeunes personnes de leur condition naturelle, et leur inspirent des idées chimériques de grandeur et de félicité ».</note>.</l>
           </sp>
           <sp who="cathos" xml:id="I05-3">
             <speaker>CATHOS.</speaker>
             <l n="308" xml:id="l308">Je le croirois bien oüy ; car enfin sans médire</l>
-            <l n="309" xml:id="l309">J'y vois grande <ref target="#apparence">apparence*</ref>, &amp; je ne sçay qu’en dire</l>
+            <l n="309" xml:id="l309">J'y vois grande <ref target="#apparence">apparence</ref>, &amp; je ne sçay qu’en dire</l>
             <l n="310" part="I" xml:id="l310">Pour moy quand je me vois aussi....<pb n="31"/></l>
           </sp>
         </div>
@@ -1977,13 +1976,13 @@
           <sp who="marotte" xml:id="I06-3">
             <speaker>MAROTTE.</speaker>
             <l n="312" xml:id="l312">Un laquais, que voila, souhaitte qu’on luy dise</l>
-            <l n="313" xml:id="l313">Si vous estes <ref target="#ceans">ceans*</ref>, afin qu’il en instruise</l>
+            <l n="313" xml:id="l313">Si vous estes <ref target="#ceans">ceans</ref>, afin qu’il en instruise</l>
             <l n="314" xml:id="l314">Son maistre, qui l’envoye icy, pour le sçavoir,</l>
             <l n="315" xml:id="l315">Parce, dit-il, qu’il veut bien-tost vous venir voir.<pb n="32"/></l>
           </sp>
           <sp who="magdelon" xml:id="I06-4">
             <speaker>MAGDELON.</speaker>
-            <l n="316" xml:id="l316">Et vous apprenez sotte, à moins parler <ref target="#vulgaire2">vulgaire*</ref>,</l>
+            <l n="316" xml:id="l316">Et vous apprenez sotte, à moins parler <ref target="#vulgaire2">vulgaire</ref>,</l>
             <l n="317" xml:id="l317">Et dites pour vous mieux ennoncer d’ordinaire.</l>
             <l n="318" xml:id="l318">Un necessaire<note n="75" place="bottom"> Un laquais. Expression « précieuse », recensée par Furetière (« Les Precieuses ont aussi appellé un Lacquais un <hi rend="i">necessaire</hi>, parce qu’on en a toûjours besoin »). – Cet énoncé est repris à Molière, parmi ceux qui avaient le plus fortement marqué les contemporains. Avec « le conseiller des grâces » (plus bas), ces termes servent véritablement de fondations à la langue précieuse qu’élabore Somaize dans son <hi rend="i">Dictionnaire.</hi></note> est là, qui demande instamment</l>
             <l n="319" xml:id="l319">Si vous ne pouriez pas estre presentement</l>
@@ -2000,7 +1999,7 @@
             <speaker>MAGDELON.</speaker>
             <l part="F">A nous</l>
             <l n="324" xml:id="l324">Tenir de tels propos, voyez l’impertinente</l>
-            <l n="325" xml:id="l325">Le moyen de <ref target="#souffrir">souffrir*</ref>, toujours cette insolente ;</l>
+            <l n="325" xml:id="l325">Le moyen de <ref target="#souffrir">souffrir</ref>, toujours cette insolente ;</l>
             <l n="326" xml:id="l326">Mais encor quel est-il ? le Maistre à ce laquais.<pb n="33"/></l>
           </sp>
           <sp who="marotte" xml:id="I06-7">
@@ -2012,7 +2011,7 @@
             <speaker>MAGDELON.</speaker>
             <l part="F">Un Marquis, ah ! ma chere,</l>
             <l n="329" xml:id="l329">Oüy, retournez luy dire, &amp; ne demeurez guere</l>
-            <l n="330" xml:id="l330">Qu'on nous voit <ref target="#present">à present*</ref> ; c’est quelque bel esprit,</l>
+            <l n="330" xml:id="l330">Qu'on nous voit <ref target="#present">à present</ref> ; c’est quelque bel esprit,</l>
             <l n="331" xml:id="l331">Que nostre renommée a jusqu’icy conduit.</l>
           </sp>
           <sp who="cathos" xml:id="I06-9">
@@ -2059,7 +2058,7 @@
             <stage> (dans sa chaise faisant arrester ses Porteurs<note n="82" place="bottom"> La huitième des <hi rend="i">Lois de la galanterie</hi> préconise de se rendre chez les dames en carosse ou porté en chaise, « derniere et nouvelle commodité si utile », de façon à ne pas être crotté, ce qui trahirait une certaine indigence. Il va cependant de soi que le véhicule doit être laissé dans la cour intérieure, alors que Mascarille fait une entrée burlesque en arrivant sur scène dans sa chaise. </note>.)</stage>
             <l n="346" xml:id="l346">Là, là porteurs, hola, là, là, là, là, hola,</l>
             <l n="347" xml:id="l347">Je crois que ces marauts<note n="83" place="bottom"><hi rend="i">Maraut</hi> : « Terme injurieux qui se dit des gueux, des coquins qui n’ont ni bien ni honneur, qui sont capables de faire toutes sortes de laschetez » (Furetière).</note>, me veulent briser là</l>
-            <l n="348" xml:id="l348">A force de heurter, les pavez, la <ref target="#muraille">muraille*</ref>.</l>
+            <l n="348" xml:id="l348">A force de heurter, les pavez, la <ref target="#muraille">muraille</ref>.</l>
           </sp>
           <sp who="porteur1" xml:id="I07-2">
             <speaker>I. PORTEUR.</speaker>
@@ -2101,22 +2100,22 @@
             <l n="360" part="I" xml:id="l360">Nous donniez de l’argent.<pb n="D 37"/></l>
           </sp>
           <sp who="mascarille" xml:id="I07-9">
-            <speaker>MASCARILLE <hi rend="i">(luy donnant un soufflet.</hi>)<note n="88" place="bottom"> La scène introduit un comique de geste typiquement farcesque dans une pièce qui est cractérisée par une certaine absence d’action.</note></speaker>
+            <speaker>MASCARILLE <note n="88" place="bottom"> La scène introduit un comique de geste typiquement farcesque dans une pièce qui est cractérisée par une certaine absence d’action.</note></speaker><stage>(luy donnant un soufflet.</stage>
             <l part="F">Quelle insolence ?</l>
             <l n="361" xml:id="l361">Demander de l’argent, à ceux de ma naissance.</l>
           </sp>
           <sp who="porteur2" xml:id="I07-10">
             <speaker>2. PORTEURS.</speaker>
             <l n="362" xml:id="l362">N'avez-vous que cela, Monsieur, à nous donner ?</l>
-            <l n="363" xml:id="l363">Et vostre <ref target="#qualite">qualité*</ref>, nous fait elle <ref target="#disner">disner*</ref> ?</l>
+            <l n="363" xml:id="l363">Et vostre <ref target="#qualite">qualité</ref>, nous fait elle <ref target="#disner">disner</ref> ?</l>
           </sp>
           <sp who="mascarille" xml:id="I07-11">
             <speaker>MASCARILLE.</speaker>
-            <l n="364" xml:id="l364">Ah ! je vous apprendray coquins, à vous <ref target="#se-connoistre">connoistre*</ref>,</l>
+            <l n="364" xml:id="l364">Ah ! je vous apprendray coquins, à vous <ref target="#se-connoistre">connoistre</ref>,</l>
             <l n="365" xml:id="l365">Vous osez vous marauts ? joüer à vostre Maistre.</l>
           </sp>
           <sp who="porteur1" xml:id="I07-12">
-            <speaker>1. PORTEUR <hi rend="i">(prenant un des bastons de sa chaise.)</hi></speaker>
+            <speaker>1. PORTEUR </speaker><stage>(prenant un des bastons de sa chaise.)</stage>
             <l n="366" part="I" xml:id="l366">Ça viste, payez-nous ?<note n="89" place="bottom"> Le point d’interrogation a valeur exclamative : il indique davantage un changement d’intonation que la modalité de la phrase. Inversement, le point d’exclamation peut ponctuer une interrogation.</note></l>
           </sp>
           <sp who="mascarille" xml:id="I07-13">
@@ -2126,7 +2125,7 @@
           <sp who="porteur1" xml:id="I07-14">
             <speaker>1. PORTEUR.</speaker>
             <l part="F">Je dis que je veux</l>
-            <l n="367" part="I" xml:id="l367">De l’argent <ref target="#tout-heure">tout à l’heure*</ref>.<pb n="38"/></l>
+            <l n="367" part="I" xml:id="l367">De l’argent <ref target="#tout-heure">tout à l’heure</ref>.<pb n="38"/></l>
           </sp>
           <sp who="mascarille" xml:id="I07-15">
             <speaker>MASCARILLE.</speaker>
@@ -2145,7 +2144,7 @@
           </sp>
           <sp who="porteur1" xml:id="I07-18">
             <speaker>1.PORTEUR.</speaker>
-            <l part="F">Nany, j’ay du <ref target="#despit">despit*</ref></l>
+            <l part="F">Nany, j’ay du <ref target="#despit">despit</ref></l>
             <l n="372" xml:id="l372">Et ne sçaurois souffrir vostre rodemontade<note n="90" place="bottom"> Fanfaronnade, « vanterie, ou menace vaine et sans fondement. C'est le propre des Capitans de faire des <hi rend="i">rodomontades</hi>. Les poltrons qui font les braves font des <hi rend="i">rodomontades</hi>. Les gueux qui font les riches font des <hi rend="i">rodomontades</hi> » (Furetière).</note>,</l>
             <l n="373" xml:id="l373">Vous avez devant moy battu mon camarade,</l>
             <l n="374" part="I" xml:id="l374">Et si......</l>
@@ -2165,7 +2164,7 @@
           <stage>MAROTTE, MASCARILLE,</stage>
           <sp who="marotte" xml:id="I08-1">
             <speaker>MAROTTE.</speaker>
-            <l n="380" xml:id="l380">Mes maistresses Monsieur, vont venir <ref target="#tout-heure">tout à l’heure*</ref>.</l>
+            <l n="380" xml:id="l380">Mes maistresses Monsieur, vont venir <ref target="#tout-heure">tout à l’heure</ref>.</l>
           </sp>
           <sp who="mascarille" xml:id="I08-2">
             <speaker>MASCARILLE.</speaker>
@@ -2183,7 +2182,7 @@
           <stage>MAGDELON, CATHOS</stage>
           <stage>MASCARILLE, ALMANZOR.</stage>
           <sp who="mascarille" xml:id="I09-1">
-            <speaker>MASCARILLE, <hi rend="i">(apres avoir salué.</hi><note n="93" place="bottom"> Dans son <hi rend="i">Récit de la Farce des Précieuses</hi>, Mlle Desjardins suggère ici que Mascarille se livrait à l’origine à un jeu de scène appuyé : « sa perruque était si grande qu’elle balayait la place à chaque fois qu’il faisait la révérence, et son chapeau si petit qu’il était aisé de juger que le marquis le portait bien plus souvent dans la main que sur la tête » (Marie-Catherine Desjardins, <hi rend="i">Récit en prose et en vers de la farce des Précieuses</hi>, Paris, Barbin, 1660).</note>)</speaker>
+            <speaker>MASCARILLE, <note n="93" place="bottom"> Dans son <hi rend="i">Récit de la Farce des Précieuses</hi>, Mlle Desjardins suggère ici que Mascarille se livrait à l’origine à un jeu de scène appuyé : « sa perruque était si grande qu’elle balayait la place à chaque fois qu’il faisait la révérence, et son chapeau si petit qu’il était aisé de juger que le marquis le portait bien plus souvent dans la main que sur la tête » (Marie-Catherine Desjardins, <hi rend="i">Récit en prose et en vers de la farce des Précieuses</hi>, Paris, Barbin, 1660).</note>)</speaker><stage>(apres avoir salué.</stage>
             <l part="F">Mes Dames<note n="94" place="bottom"> « L’apostrophe est lancée à deux destinataires en même temps, en parfaite rupture des usages. "Madame" est en principe réservé aux femmes de la haute noblesse, d’où sa faveur dans les romans héroïques. » (<hi rend="i">Molière. Œuvres complètes</hi>, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur <hi rend="i">Les Précieuses ridicules</hi>, n.1 p. 1220). </note> mon audace</l>
             <l n="385" xml:id="l385">Poura vous estonner ; mais cette aymable grace</l>
             <l n="386" xml:id="l386">Que l’on admire en vous, vous cause ce malheur :</l>
@@ -2212,8 +2211,8 @@
           <sp who="magdelon" xml:id="I09-5">
             <speaker>MAGDELON.</speaker>
             <l n="398" xml:id="l398">Nous n’attendions pas moins, d’un homme tel que vous ;</l>
-            <l n="399" xml:id="l399">Mais vostre <ref target="#complaisance">complaisance*</ref> est trop grande envers nous.</l>
-            <l n="400" xml:id="l400">Et vous poussez si loing vostre <ref target="#injuste">injuste*</ref> loüange<pb n="43"/></l>
+            <l n="399" xml:id="l399">Mais vostre <ref target="#complaisance">complaisance</ref> est trop grande envers nous.</l>
+            <l n="400" xml:id="l400">Et vous poussez si loing vostre <ref target="#injuste">injuste</ref> loüange<pb n="43"/></l>
             <l n="401" xml:id="l401">Que ma cousine, &amp; moy, pour éviter le change,</l>
             <l n="402" xml:id="l402">Nous ne donnerons pas, de nostre serieux</l>
             <l n="403" xml:id="l403">Dedans un compliment, qu’on ne peut faire mieux ;</l>
@@ -2224,7 +2223,7 @@
             <l n="405" xml:id="l405">Mais ma chere, il faudroit faire apporter un siege<note n="98" place="bottom"> La réplique fait écho au mécontentement des deux prétendants éconduits à la scène I (v.12 : « A peine elles nous ont prié de nous assoir »).</note>.</l>
           </sp>
           <sp who="magdelon" xml:id="I09-7">
-            <speaker>MAGDELON. <hi rend="i">(à Almanzor.)</hi></speaker>
+            <speaker>MAGDELON. </speaker><stage>(à Almanzor.)</stage>
             <l n="406" xml:id="l406">Voiturez nous icy, viste, petit garçon,</l>
             <l n="407" xml:id="l407">Les commoditez de la conversation<note n="99" place="bottom"> Les périphrases sont de Molière : le « petit garçon » désigne le laquais et « les commodités de la conversation » les sièges (« Vite, voiturez-nous ici les commodités de la conversation », <hi rend="i">Les Précieuses ridicules</hi>, scène IX ; « Allons, petit garçon, faut-il toujours vous répéter les choses ? voyez-vous pas qu’il faut le surcroît d’un fauteuil ? », <hi rend="i">id.</hi>, scène XI). </note>.</l>
           </sp>
@@ -2234,19 +2233,19 @@
           </sp>
           <sp who="cathos" xml:id="I09-9">
             <speaker>CATHOS.</speaker>
-            <l n="409" xml:id="l409">Que craignez-vous de nous ? que rien ne vous <ref target="#estonner1">estonne*</ref>.<pb n="44"/></l>
+            <l n="409" xml:id="l409">Que craignez-vous de nous ? que rien ne vous <ref target="#estonner1">estonne</ref>.<pb n="44"/></l>
           </sp>
           <sp who="mascarille" xml:id="I09-10">
             <speaker>MASCARILLE.</speaker>
             <l n="410" xml:id="l410">J'ay tout à redouter, tout me doit faire peur ;</l>
             <l n="411" xml:id="l411">Je crains premierement, quelque vol de mon cœur,</l>
-            <l n="412" xml:id="l412">Ou quelque assassinat, de ma pauvre <ref target="#franchise">franchise*</ref></l>
+            <l n="412" xml:id="l412">Ou quelque assassinat, de ma pauvre <ref target="#franchise">franchise</ref></l>
             <l n="413" xml:id="l413">Je vois icy des yeux, dont mon ame est surprise</l>
             <l n="414" xml:id="l414">Ils ont mine sur tout, d’estre mauvais garçons</l>
             <l n="415" xml:id="l415">De faire insulte aux gens, &amp; les oster d’arçons<note n="101" place="bottom"><hi rend="i">Mine</hi> : « Physionomie, disposition de corps, et sur tout du visage, qui fait juger en quelque façon de l’Interieur par l’exterieur. Gestes, contenances, et marques exterieures qui font connoistre ce qui est caché ou secret » (Furetière). – <hi rend="i">Faire insulte</hi> : attaquer par surprise. – <hi rend="i">Oster d’arçons</hi> : désarçonner, littéralement faire tomber de cheval. </note>,</l>
             <l n="416" xml:id="l416">Ravir les libertez, faire qu’on les adore</l>
             <l n="417" xml:id="l417">Et mesme de traitter, un cœur de Turc à More<note n="102" place="bottom"> En ennemi déclaré.</note>.</l>
-            <l n="418" xml:id="l418">Comment diable ! <ref target="#abord-que">d’abord que*</ref> l’on s’approche d’eux</l>
+            <l n="418" xml:id="l418">Comment diable ! <ref target="#abord-que">d’abord que</ref> l’on s’approche d’eux</l>
             <l n="419" xml:id="l419">Ils se mettent en garde, ah ! qu’ils sont dangereux<note n="103" place="bottom"> « Parodie de la métaphore très répandue du cœur volé (ou donné) et des yeux assassins. Plaisanterie fréquente dans la comédie burlesque des années 1650 » (<hi rend="i">Molière. Œuvres complètes</hi>, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur <hi rend="i">Les Précieuses ridicules</hi>, n.4 p. 1220).</note> ;</l>
             <l n="420" xml:id="l420">Ma foy je m’en defie, &amp; vais prendre la fuitte</l>
             <l n="421" xml:id="l421">Ou je veux caution<note n="104" place="bottom"> Assurance, garantie. Terme de commerce, raillé dans les textes mondains.</note> de leur bonne conduitte.</l>
@@ -2262,9 +2261,9 @@
           <sp who="magdelon" xml:id="I09-13">
             <speaker>MAGDELON.</speaker>
             <l n="424" xml:id="l424">Ne craignez rien, nos yeux sont exempts de malice,</l>
-            <l n="425" xml:id="l425">Leurs desseins innocens, &amp; sans nul <ref target="#artifice">artifice*</ref> ;</l>
+            <l n="425" xml:id="l425">Leurs desseins innocens, &amp; sans nul <ref target="#artifice">artifice</ref> ;</l>
             <l n="426" xml:id="l426">Vostre cœur peut dormir en toute seureté<note n="108" place="bottom"> Le vers 508 donnait <hi rend="i">sureté</hi>. On trouve chez Richelet l’indication suivante : « prononcez <hi rend="i">sureté</hi> et même il n’y auroit pas grand mal quand on l’écriroit comme il se prononce ».</note></l>
-            <l n="427" xml:id="l427">Dessus leur <ref target="#prudhommie">prud’hommie*</ref>, &amp; dessus leur bonté.</l>
+            <l n="427" xml:id="l427">Dessus leur <ref target="#prudhommie">prud’hommie</ref>, &amp; dessus leur bonté.</l>
           </sp>
           <sp who="cathos" xml:id="I09-14">
             <speaker>CATHOS.</speaker>
@@ -2284,11 +2283,11 @@
           <sp who="magdelon" xml:id="I09-16">
             <speaker>MAGDELON.</speaker>
             <l part="F">Qu'en dirions nous helas</l>
-            <l n="436" xml:id="l436">Tout le monde est d’accord, qu’il est remply d’<ref target="#appas1">appas*</ref>,</l>
+            <l n="436" xml:id="l436">Tout le monde est d’accord, qu’il est remply d’<ref target="#appas1">appas</ref>,</l>
             <l n="437" xml:id="l437">Que c’est le grand Bureau<note n="112" place="bottom"> « Création saugrenue de Mascarille à partir de la notion de "bureau", qui évoque pour les contemporains un lieu d’échange et de distribution (équivalent de "plaque tournante" dans le langage moderne) » (<hi rend="i">Molière. Œuvres complètes</hi>, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur <hi rend="i">Les Précieuses ridicules</hi>, n.9 p. 1221). </note>, de toutes les merveilles,</l>
             <l n="438" xml:id="l438">Le centre du bon goust, le charme des oreilles,</l>
             <l n="439" xml:id="l439">Le plaisir des esprits, le lieu des agrements,</l>
-            <l n="440" xml:id="l440">Et le refuge enfin, des plus nobles <ref target="#amant2">amants*</ref>.</l>
+            <l n="440" xml:id="l440">Et le refuge enfin, des plus nobles <ref target="#amant2">amants</ref>.</l>
           </sp>
           <sp who="mascarille" xml:id="I09-17">
             <speaker>MASCARILLE.</speaker>
@@ -2297,7 +2296,7 @@
           </sp>
           <sp who="cathos" xml:id="I09-18">
             <speaker>CATHOS.</speaker>
-            <l n="443" xml:id="l443">On ne <ref target="#disputer">dispute*</ref> point de cette verité.</l>
+            <l n="443" xml:id="l443">On ne <ref target="#disputer">dispute</ref> point de cette verité.</l>
           </sp>
           <sp who="mascarille" xml:id="I09-19">
             <speaker>MASCARILLE.</speaker>
@@ -2315,14 +2314,14 @@
             <speaker>MASFCARILLE.</speaker>
             <l n="449" xml:id="l449">Vous recevez beaucoup, &amp; de belles visites ?</l>
             <l n="450" xml:id="l450">Car tous les beaux esprits, cherchent les grands merites ;</l>
-            <l n="451" xml:id="l451">Mais encor qui sont ceux qu’attirent vos <ref target="#appas2">appas*</ref>,</l>
+            <l n="451" xml:id="l451">Mais encor qui sont ceux qu’attirent vos <ref target="#appas2">appas</ref>,</l>
             <l n="452" part="I" xml:id="l452">Dites ?</l>
           </sp>
           <sp who="magdelon" xml:id="I09-22">
             <speaker>MAGDELON.</speaker>
             <l part="F">Helas ! Monsieur, l’on ne nous connoist pas ;</l>
             <l n="453" xml:id="l453">Mais peut-estre bien tost qu’on nous poura connoistre,</l>
-            <l n="454" xml:id="l454">Nous sommes en estat, de nous faire <ref target="#paroistre2">paroistre*</ref>,</l>
+            <l n="454" xml:id="l454">Nous sommes en estat, de nous faire <ref target="#paroistre2">paroistre</ref>,</l>
             <l n="455" xml:id="l455">Nous avons une amie, &amp; qui nous a promis<pb n="48"/></l>
             <l n="456" xml:id="l456">Qu'elle nous feroit voir, des gens de ses amis,</l>
             <l n="457" xml:id="l457">Qui sont dans les recueils des belles Poësies,</l>
@@ -2351,7 +2350,7 @@
             <l n="471" xml:id="l471">D'eux despend dans Paris, la reputation,</l>
             <l n="472" xml:id="l472">Ainsi l’on doit chercher leur frequentation ;</l>
             <l n="473" xml:id="l473">Une femme par là, peut devenir heureuse,</l>
-            <l n="474" xml:id="l474">Et mesme s’acquerir, le <ref target="#bruit">bruit*</ref> de connoisseuse :</l>
+            <l n="474" xml:id="l474">Et mesme s’acquerir, le <ref target="#bruit">bruit</ref> de connoisseuse :</l>
             <l n="475" xml:id="l475">Et j’en connois beaucoup, qui l’ont acquis par là,</l>
             <l n="476" xml:id="l476">Quoy que l’on n’y trouvât rien du tout que cela.</l>
             <l n="477" xml:id="l477">Et principalement, ce que je considere,</l>
@@ -2360,7 +2359,7 @@
             <l n="480" xml:id="l480">Qu’il faut qu’on sçache enfin pour estre bel esprit<note n="118" place="bottom"> Comprendre : que l’on s’instruit par ce moyen des choses à savoir pour être bel esprit.</note>.</l>
             <l n="481" xml:id="l481">Puis l’on sçait chaque jour, les petites nouvelles,<pb n="50"/></l>
             <l n="482" xml:id="l482">Tout ce que les galands, escrivent à leurs belles.</l>
-            <l n="483" xml:id="l483">Les <ref target="#commerce">commerces*</ref> de Prose, aussi bien que de Vers,</l>
+            <l n="483" xml:id="l483">Les <ref target="#commerce">commerces</ref> de Prose, aussi bien que de Vers,</l>
             <l n="484" xml:id="l484">Tout ce que l’on escrit, sur cent sujets divers.</l>
             <l n="485" xml:id="l485">On sçait à point nommé, tel a fait une piece</l>
             <l n="486" xml:id="l486">Jolie autant qu’on peut, unique en son espece,</l>
@@ -2432,7 +2431,7 @@
           </sp>
           <sp who="cathos" xml:id="I09-30">
             <speaker>CATHOS.</speaker>
-            <l n="536" xml:id="l536">Une Enigme a pour moy, terriblement d’<ref target="#appas1">appas*</ref>.</l>
+            <l n="536" xml:id="l536">Une Enigme a pour moy, terriblement d’<ref target="#appas1">appas</ref>.</l>
           </sp>
           <sp who="mascarille" xml:id="I09-31">
             <speaker>MASCARILLE.</speaker>
@@ -2472,7 +2471,7 @@
           </sp>
           <sp who="mascarille" xml:id="I09-37">
             <speaker>MASCARILLE.</speaker>
-            <l n="554" xml:id="l554"><ref target="#doute">Sans doute*</ref> il est bien doux, que nostre nom paroisse</l>
+            <l n="554" xml:id="l554"><ref target="#doute">Sans doute</ref> il est bien doux, que nostre nom paroisse</l>
             <l n="555" xml:id="l555">Et les noms imprimez, ont une autre vertu ;</l>
             <l n="556" xml:id="l556">Mais à propos, il faut vous dire un impromptu</l>
             <l n="557" xml:id="l557">Que je fis avant-hier, chez certaine Duchesse<pb n="56"/></l>
@@ -2482,7 +2481,7 @@
           </sp>
           <sp who="cathos" xml:id="I09-38">
             <speaker>CATHOS.</speaker>
-            <l n="561" xml:id="l561">L'impromptu <ref target="#justement2">justement*</ref>, est la pierre de touche</l>
+            <l n="561" xml:id="l561">L'impromptu <ref target="#justement2">justement</ref>, est la pierre de touche</l>
             <l n="562" xml:id="l562">De l’esprit, il nous plaist, il nous charme, il nous touche.</l>
           </sp>
           <sp who="mascarille" xml:id="I09-39">
@@ -2515,18 +2514,18 @@
           </sp>
           <sp who="mascarille" xml:id="I09-43">
             <speaker>MASCARILLE.</speaker>
-            <l n="575" xml:id="l575">Je ne fais rien du tout, qui n’ait l’air <ref target="#cavalier">cavalier*</ref><note n="136" place="bottom"> Comprendre : tout ce que je fais a l’air cavalier (au sens d’« aisé, libre, galant » (Richelet)).</note>.</l>
+            <l n="575" xml:id="l575">Je ne fais rien du tout, qui n’ait l’air <ref target="#cavalier">cavalier</ref><note n="136" place="bottom"> Comprendre : tout ce que je fais a l’air cavalier (au sens d’« aisé, libre, galant » (Richelet)).</note>.</l>
             <l n="576" xml:id="l576">Je n’ay rien de Pedant encor moins d’Escolier<note n="137" place="bottom"> La pédanterie est une « antivaleur mondaine ». « On disqualifie sous le terme de « pédant » tout ce qui privilégie le savoir érudit, universitaire, au détriment de l’entregent et de la sociabilité » (Pléiade, t. I, Notes sur <hi rend="i">Les Précieuses ridicules</hi>, n.22 p. 1222), d’où l’association avec la notion de scolaire. Les galants préfèrent à l’étude et au savoir écrit la spontanéité orale.</note>.</l>
           </sp>
           <sp who="cathos" xml:id="I09-44">
             <speaker>CATHOS.</speaker>
             <l n="577" xml:id="l577">Il en est esloigné, tout autant qu’on peut l’estre</l>
-            <l n="578" xml:id="l578">Et vous avez bien l’art, de vous faire <ref target="#paroistre1">paroistre*</ref>.<pb n="58"/></l>
+            <l n="578" xml:id="l578">Et vous avez bien l’art, de vous faire <ref target="#paroistre1">paroistre</ref>.<pb n="58"/></l>
           </sp>
           <sp who="mascarille" xml:id="I09-45">
             <speaker>MASCARILLE.</speaker>
             <l n="579" xml:id="l579">Avez vous remarqué ? dans ce commancement</l>
-            <l n="580" xml:id="l580"><hi rend="i">Oh, oh</hi>, ce n’est pas là parler <ref target="#vulgairement">vulgairement*</ref> ;</l>
+            <l n="580" xml:id="l580"><hi rend="i">Oh, oh</hi>, ce n’est pas là parler <ref target="#vulgairement">vulgairement</ref> ;</l>
             <l n="581" xml:id="l581"><hi rend="i">Oh, oh</hi>, en s’estonnant, un homme qui s’avise,</l>
             <l n="582" xml:id="l582">Tout d’un coup, <hi rend="i">oh, oh, oh</hi>, voyez vous la surprise ?</l>
             <l n="583" part="I" rend="i" xml:id="l583">Oh, oh ;</l>
@@ -2547,7 +2546,7 @@
           </sp>
           <sp who="magdelon" xml:id="I09-49">
             <speaker>MAGDELON.</speaker>
-            <l part="F"><ref target="#doute">Sans doute*</ref> elles sont telles</l>
+            <l part="F"><ref target="#doute">Sans doute</ref> elles sont telles</l>
             <l n="587" xml:id="l587">Et j’aymerois bien mieux, avoir fait ce <hi rend="i">oh, oh</hi>,<pb n="59"/></l>
             <l n="588" part="I" xml:id="l588">Que tout un Poëme Epique<note n="138" place="bottom"> Dans ce premier hémistiche, il faut effectuer la synérèse et prononcer ainsi « Poëme » en une seule syllabe. Une synérèse similaire est à effectuer au vers 822.</note>.</l>
           </sp>
@@ -2568,9 +2567,9 @@
             <l n="594" xml:id="l594">Elle est fort naturelle, &amp; de plus fort mignarde<note n="140" place="bottom"><hi rend="i">Mignard</hi> : « Ce mot signifie joli, mignon, délicat, agréable. Il est un peu vieux, et ne peut servir que dans le stile simple, ou la conversation » (Richelet).</note>,</l>
             <l n="595" xml:id="l595"><hi rend="i">Tandis que sans songer à mal</hi> qu’innocemment</l>
             <l n="596" xml:id="l596">Comme un pauvre mouton, tandis que bonnement</l>
-            <l n="597" xml:id="l597"><hi rend="i">Je vous regarde</hi>, moy c’est <ref target="#justement3">justement*</ref> à dire</l>
+            <l n="597" xml:id="l597"><hi rend="i">Je vous regarde</hi>, moy c’est <ref target="#justement3">justement</ref> à dire</l>
             <l n="598" xml:id="l598">Que je vous considere, &amp; que je vous admire</l>
-            <l n="599" xml:id="l599">Ou bien que je <ref target="#amuser">m’amuse*</ref>, à contempler vos yeux.<pb n="60"/></l>
+            <l n="599" xml:id="l599">Ou bien que je <ref target="#amuser">m’amuse</ref>, à contempler vos yeux.<pb n="60"/></l>
             <l n="600" xml:id="l600"><hi rend="i">Votre œil en tapinois</hi> ; peut-on s’esnoncer mieux</l>
             <l n="601" xml:id="l601"><hi rend="i">Tapinois</hi> ? de ce mot encor que vous en semble ?</l>
             <l n="602" part="I" xml:id="l602">N'est-il pas bien choisi ?</l>
@@ -2628,7 +2627,7 @@
           </sp>
           <sp who="mascarille" xml:id="I09-62">
             <speaker>MASCARILLE.</speaker>
-            <l n="622" xml:id="l622">Les gens de <ref target="#qualite">qualité*</ref>, n’ont rien qui soit <ref target="#vulgaire1">vulgaire*</ref>,</l>
+            <l n="622" xml:id="l622">Les gens de <ref target="#qualite">qualité</ref>, n’ont rien qui soit <ref target="#vulgaire1">vulgaire</ref>,</l>
             <l n="623" xml:id="l623">Sans avoir rien appris, ils sçavent tousjours tout.</l>
           </sp>
           <sp who="magdelon" xml:id="I09-63">
@@ -2643,7 +2642,7 @@
             <l n="627" xml:id="l627">Oüais, la brutalité, de la saison qu’il fait     </l>
             <l n="628" xml:id="l628">Est furieusement<note n="142" place="bottom"> Sur cet adverbe, se reporter à la note du vers 254.</note> contraire, à mon projet,</l>
             <l n="629" xml:id="l629">Elle a gasté ma voix ; mais certes il n’importe,</l>
-            <l n="630" part="I" xml:id="l630">C'est <ref target="#cavaliere">à la cavalliere*</ref>.<pb n="63"/></l>
+            <l n="630" part="I" xml:id="l630">C'est <ref target="#cavaliere">à la cavalliere</ref>.<pb n="63"/></l>
             <stage>(Il chante.)</stage>
             <l part="M">
               <hi rend="i">Oh, oh, je n’y prenois pas.....</hi>
@@ -2664,17 +2663,17 @@
           </sp>
           <sp who="cathos" xml:id="I09-67">
             <speaker>CATHOS.</speaker>
-            <l n="635" xml:id="l635">Cet air assurement est tout remply d’<ref target="#appas1">appas*</ref>.</l>
+            <l n="635" xml:id="l635">Cet air assurement est tout remply d’<ref target="#appas1">appas</ref>.</l>
           </sp>
           <sp who="mascarille" xml:id="I09-68">
             <speaker>MASCARILLE.</speaker>
             <l n="636" xml:id="l636">Dites-moy donc un peu si vous ne trouvez pas</l>
             <l n="637" xml:id="l637">La pensée assez bien dans le chant exprimée ?</l>
             <l n="638" xml:id="l638"><hi rend="i">Au voleur.</hi> Et comme une personne animée,</l>
-            <l n="639" xml:id="l639">Qui pleine de <ref target="#transport">transport*</ref>, se mettant en <ref target="#chaleur">chaleur*</ref><pb n="64"/></l>
+            <l n="639" xml:id="l639">Qui pleine de <ref target="#transport">transport</ref>, se mettant en <ref target="#chaleur">chaleur</ref><pb n="64"/></l>
             <l n="640" xml:id="l640">Bien fort crie, <hi rend="i">au, au, au, au, au, au, au voleur</hi>,</l>
             <l n="641" xml:id="l641">Et tout d’un coup apres tout comme une personne</l>
-            <l n="642" xml:id="l642">Essouflée, <hi rend="i">au voleur</hi>. Quoy cela vous <ref target="#estonner3">estonne*</ref> ?</l>
+            <l n="642" xml:id="l642">Essouflée, <hi rend="i">au voleur</hi>. Quoy cela vous <ref target="#estonner3">estonne</ref> ?</l>
           </sp>
           <sp who="magdelon" xml:id="I09-69">
             <speaker>MAGDELON.</speaker>
@@ -2699,7 +2698,7 @@
             <l n="651" xml:id="l651">Et nous persuader que la nature aussi</l>
             <l n="652" xml:id="l652">Vous a vrayement traitté, Monsieur, jusques icy,</l>
             <l n="653" xml:id="l653">Comme une vraye<note n="147" place="bottom"> Disyllabique : il faut prononcer « vraye » en deux syllabes (pirouette autorisée par la graphie du mot), en plus de la diérèse sur « passionnée », afin d’obtenir un alexandrin. Somaize étire ici son vers au maximum.</note> mere, un peu passionnée,</l>
-            <l n="654" xml:id="l654">Et ce <ref target="#genie">genie*</ref> ardent, dont je suis <ref target="#estonnee">estonnée*</ref>,</l>
+            <l n="654" xml:id="l654">Et ce <ref target="#genie">genie</ref> ardent, dont je suis <ref target="#estonnee">estonnée</ref>,</l>
             <l n="655" xml:id="l655">Vous fait bien remarquer, pour son enfant gasté.</l>
           </sp>
           <sp who="mascarille" xml:id="I09-73">
@@ -2739,7 +2738,7 @@
             <l n="668" xml:id="l668">Pour qu’on trouve tout beau, fasse tout son effort.</l>
             <l n="669" xml:id="l669">Je veux vous engager, comme on m’y sollicite,</l>
             <l n="670" xml:id="l670">De faire que la piece ait grande reüssite</l>
-            <l n="671" xml:id="l671">Car pour m’en <ref target="#conjurer">conjurer*</ref>, je vous jure ma foy,</l>
+            <l n="671" xml:id="l671">Car pour m’en <ref target="#conjurer">conjurer</ref>, je vous jure ma foy,</l>
             <l n="672" xml:id="l672">Que l’Autheur ce matin, m’est venu voir chez moy,</l>
             <l n="673" xml:id="l673">Qu'à toute heure, en tous lieux il m’en prie et m’en presse,<pb n="67"/></l>
             <l n="674" xml:id="l674">Et fait que mes amis me le disent sans cesse.</l>
@@ -2748,11 +2747,11 @@
             <l n="677" xml:id="l677">Implorer nos bontez, &amp; des pieces nouvelles</l>
             <l n="678" xml:id="l678">Faire lecture, afin que nous les trouvions belles,</l>
             <l n="679" xml:id="l679">Et qu’ils puissent aussi, par là nous engager</l>
-            <l n="680" xml:id="l680">A leur donner grand <ref target="#bruit">bruit*</ref>. Je vous laisse à juger</l>
+            <l n="680" xml:id="l680">A leur donner grand <ref target="#bruit">bruit</ref>. Je vous laisse à juger</l>
             <l n="681" xml:id="l681">Si d’une piece enfin, quoy que nous puissions dire,</l>
             <l n="682" xml:id="l682">Le parterre<note n="151" place="bottom"> Le parterre est l’endroit où le public se tenait debout et que fréquentaient les bourgeois les moins raffinés.</note> jamais, ose nous contredire.</l>
-            <l n="683" xml:id="l683">Pour moy j’y suis <ref target="#exact">exact*</ref>, &amp; des que quelque Autheur</l>
-            <l n="684" xml:id="l684">M'est venu <ref target="#conjurer">conjurer*</ref> d’estre son Protecteur,</l>
+            <l n="683" xml:id="l683">Pour moy j’y suis <ref target="#exact">exact</ref>, &amp; des que quelque Autheur</l>
+            <l n="684" xml:id="l684">M'est venu <ref target="#conjurer">conjurer</ref> d’estre son Protecteur,</l>
             <l n="685" xml:id="l685">Je crie avant qu’on ait allumé les chandelles,</l>
             <l n="686" xml:id="l686">Que ses vers sont pompeux<note n="152" place="bottom"> Des vers élevés, qui ont de la pompe et de la magnificence. L’adjectif n’est pas péjoratif.</note>, sa piece des plus belles.<pb n="68"/></l>
           </sp>
@@ -2802,14 +2801,14 @@
             <l n="708" xml:id="l708">Ah ! la belle demande, &amp; ma foy ce seront</l>
             <l n="709" xml:id="l709">Les grands Comediens<note n="157" place="bottom"> « La troupe de l’Hôtel de Bourgogne, la première et la plus prestigieuse du royaume. Ils représentent l’institution en place – ils portent le titre de Troupe Royale – et la norme esthétique : leur manière de pratiquer la déclamation passe pour le sommet de l’art du comédien. Les traits de satire lancés contre leur jeu théâtral trouveront un prolongement dans <hi rend="i">L’impromptu de Versailles</hi> (sc.I) » (<hi rend="i">Molière. Œuvres complètes</hi>, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur <hi rend="i">Les Précieuses ridicules</hi>, n.29 p. 1222). Leur déclamation emphatique diffère de celle, plus naturelle, des comédiens du Petit-Bourbon.  </note> ; ils en sont seuls capables,</l>
             <l n="710" xml:id="l710">Leur recit<note n="158" place="bottom"> Leur manière de réciter.</note> a tousjours, des graces admirables</l>
-            <l n="711" xml:id="l711">Dans leurs bouches les vers, sont beaucoup <ref target="#apparent">apparants*</ref> ;<pb n="70"/></l>
+            <l n="711" xml:id="l711">Dans leurs bouches les vers, sont beaucoup <ref target="#apparent">apparants</ref> ;<pb n="70"/></l>
             <l n="712" xml:id="l712">Pour les autres on sçait, qu’ils sont des ignorants ;</l>
-            <l n="713" xml:id="l713">Tous leurs gestes n’ont rien qui ne soit du <ref target="#vulgaire1">vulgaire*</ref>,</l>
+            <l n="713" xml:id="l713">Tous leurs gestes n’ont rien qui ne soit du <ref target="#vulgaire1">vulgaire</ref>,</l>
             <l n="714" xml:id="l714">Et comme on parle enfin, recitent d’ordinaire ;</l>
             <l n="715" xml:id="l715">Les vers ne ronflent point, qu’articule leur voix,</l>
             <l n="716" xml:id="l716">Ils ne s’arrestent point, du tout, aux beaux endroits,</l>
             <l n="717" xml:id="l717">Et quel moyen a t’on ? de les pouvoir connoistre,</l>
-            <l n="718" xml:id="l718">Si le Comedien, ne les fait pas <ref target="#paroistre1">paroistre*</ref></l>
+            <l n="718" xml:id="l718">Si le Comedien, ne les fait pas <ref target="#paroistre1">paroistre</ref></l>
             <l n="719" xml:id="l719">S'il n’y fait une pose, &amp; n’advertit par là</l>
             <l n="720" xml:id="l720">A quels endroits, il faut faire le brouhaha<note n="159" place="bottom"><hi rend="i">Brouhaha</hi> : « Terme de Comédien, pour dire le bruit qu’on fait à la Comédie lorsqu’on se récrie sur quelque endroit de la beauté de la piece » (Richelet).</note>.</l>
           </sp>
@@ -2821,7 +2820,7 @@
             <l n="724" xml:id="l724">S'ils ne sont dans leur jour, &amp; ne se disent bien.<pb n="71"/></l>
           </sp>
           <sp who="mascarille" xml:id="I09-87">
-            <speaker>MASCARILLE <hi rend="i">(monstrant le ruban de ses chausses.)</hi></speaker>
+            <speaker>MASCARILLE </speaker><stage>(monstrant le ruban de ses chausses.)</stage>
             <l n="725" xml:id="l725">Ma petite oye<note n="160" place="bottom"><hi rend="i">La petite</hi> oye, terme générique : « on entend par ces mots les rubans, la garniture et tout ce qui sert à l’embellissement de l’habit » (Richelet). L’expression vient, par analogie, d’un terme de rôtisseur par lequel on désigne les abattis de l’oie mise à la broche.</note> est elle à l’habit congruante<note n="161" place="bottom"> Qui s’ajuste bien. Le terme, usité en géométrie, est rarissime et inopportun. Il n’apparaît qu’en 1842 dans le Dictionnaire de l’Académie Française.</note> ?</l>
           </sp>
           <sp who="cathos" xml:id="I09-88">
@@ -2839,15 +2838,15 @@
             <l n="728" part="I" xml:id="l728">C'est Perdrijon<note n="162" place="bottom"> Perdrigeon était un mercier parisien en vogue dans ces années-là. M. Auger, dans son édition des Œuvres de Molière en 1819, rapproche ce vers d’un passage « d’une lettre de Scarron, de la même année que les <hi rend="i">Pretieuses</hi> » : "<hi rend="i">Ah ! ma chère, à quoi avez-vous passé le jour ? Ah ! ma chère</hi>, répond une autre, <hi rend="i">Bastonneau tout pur</hi>." La locution (qui veut dire « acheter des étoffes », selon les explications de Scarron) est présentée comme étant familière aux Précieuses.</note> tout pur.</l>
           </sp>
           <sp who="mascarille" xml:id="I09-91">
-            <speaker>MASCARILLE <hi rend="i">(estallant ses canons.)</hi></speaker>
+            <speaker>MASCARILLE </speaker><stage>(estallant ses canons.)</stage>
             <l part="F">Ne me direz vous rien</l>
-            <l n="729" xml:id="l729">Aussi de mes canons ? ont ils l’<ref target="#heur">heur*</ref> de vous plaire</l>
+            <l n="729" xml:id="l729">Aussi de mes canons ? ont ils l’<ref target="#heur">heur</ref> de vous plaire</l>
             <l n="730" part="I" xml:id="l730">Dites, que vous en semble ?</l>
           </sp>
           <sp who="magdelon" xml:id="I09-92">
             <speaker>MAGDELON.</speaker>
             <l part="F">Ah ! je ne m’en puis taire,</l>
-            <l n="731" xml:id="l731">Je <ref target="#confesser2">confesse*</ref> qu’ils ont un tout à fait bon air.<pb n="72"/></l>
+            <l n="731" xml:id="l731">Je <ref target="#confesser2">confesse</ref> qu’ils ont un tout à fait bon air.<pb n="72"/></l>
           </sp>
           <sp who="mascarille" xml:id="I09-93">
             <speaker>MASCARILLE.</speaker>
@@ -2865,14 +2864,14 @@
             <l n="740" part="I" xml:id="l740">A ce que vous avez.</l>
           </sp>
           <sp who="mascarille" xml:id="I09-95">
-            <speaker>MASCARILLE <hi rend="i">(luy donnant ses gands à sentir.)</hi></speaker>
+            <speaker>MASCARILLE </speaker><stage>(luy donnant ses gands à sentir.)</stage>
             <l part="F">Mais de vostre odorat</l>
             <l n="741" xml:id="l741">Que la reflexion dessus ces gands s’attache.<pb n="G 73"/></l>
           </sp>
           <sp who="magdelon" xml:id="I09-96">
             <speaker>MAGDELON.</speaker>
             <l n="742" xml:id="l742">Je n’eus jamais d’odeur plus douce que je sçache,</l>
-            <l n="743" xml:id="l743">Et je puis <ref target="#confesser1">confesser*</ref>, <ref target="#doute">sans doute*</ref> avec raison,</l>
+            <l n="743" xml:id="l743">Et je puis <ref target="#confesser1">confesser</ref>, <ref target="#doute">sans doute</ref> avec raison,</l>
             <l n="744" xml:id="l744">Qu'ils sentent en effet, &amp; terriblement bon.</l>
           </sp>
           <sp who="cathos" xml:id="I09-97">
@@ -2881,7 +2880,7 @@
             <l n="746" xml:id="l746">D'odeur, qui me parût mieux conditionnée<note n="165" place="bottom"> De meilleure qualité.</note>.</l>
           </sp>
           <sp who="mascarille" xml:id="I09-98">
-            <speaker>MASCARILLE <hi rend="i">(luy faisant sentir ses cheveux.)</hi></speaker>
+            <speaker>MASCARILLE </speaker><stage>(luy faisant sentir ses cheveux.)</stage>
             <l n="747" part="I" xml:id="l747">Et celle-là ?</l>
           </sp>
           <sp who="magdelon" xml:id="I09-99">
@@ -2893,7 +2892,7 @@
             <l n="751" xml:id="l751">En est certes, touché délicieusement.<pb n="74"/></l>
           </sp>
           <sp who="mascarille" xml:id="I09-100">
-            <speaker>MASCARILLE <hi rend="i">(monstrant ses plumes.)</hi></speaker>
+            <speaker>MASCARILLE </speaker><stage>(monstrant ses plumes.)</stage>
             <l n="752" xml:id="l752">Vous ne me dites rien de mes plumes<note n="166" place="bottom"> Les plumes qui ornent le chapeau.</note>, comment</l>
             <l n="753" part="I" xml:id="l753">Les trouvez-vous, enfin ?</l>
           </sp>
@@ -2921,10 +2920,10 @@
             <l n="766" xml:id="l766">Souffrir, s’ils ne sont faits, de la bonne ouvriere.</l>
           </sp>
           <sp who="mascarille" xml:id="I09-104">
-            <speaker>MASCARILLE <hi rend="i">(s’escriant brusquement.)</hi></speaker>
+            <speaker>MASCARILLE </speaker><stage>(s’escriant brusquement.)</stage>
             <l n="767" xml:id="l767">Mes Dames, ahy, ahy, ahy, de grace doucement,</l>
             <l n="768" xml:id="l768">Ce n’est pas Dieu me damne<note n="170" place="bottom"> Juron qui passe pour être « le serment ordinaire des Gascons » (Furetière).</note>, en user prudammant,</l>
-            <l n="769" xml:id="l769">De vostre <ref target="#procede">procedé*</ref>, j’aurois lieu de me plaindre,</l>
+            <l n="769" xml:id="l769">De vostre <ref target="#procede">procedé</ref>, j’aurois lieu de me plaindre,</l>
             <l n="770" xml:id="l770">Cela n’est pas honneste, &amp; vous me faites craindre......</l>
           </sp>
           <sp who="cathos" xml:id="I09-105">
@@ -2937,12 +2936,12 @@
             <l n="773" xml:id="l773">Me prendre à droit<note n="172" place="bottom"> La locution « à droite » n’apparaît qu’à la fin du siècle.</note>, à gauche, ah certes la partie,</l>
             <l n="774" xml:id="l774">N'est pas du tout esgale, &amp; je veux garantie,</l>
             <l n="775" xml:id="l775">Ou puis que vous allez, contre le droit des gens,</l>
-            <l n="776" xml:id="l776">Je vais crier au meurtre, &amp; sortir de <ref target="#ceans">ceans*</ref>.</l>
+            <l n="776" xml:id="l776">Je vais crier au meurtre, &amp; sortir de <ref target="#ceans">ceans</ref>.</l>
           </sp>
           <sp who="cathos" xml:id="I09-107">
             <speaker>CATHOS.</speaker>
             <l n="777" xml:id="l777">Il ne dit rien du tout qu’avec une maniere</l>
-            <l n="778" xml:id="l778">Tout à fait agreable, &amp; qui n’est point <ref target="#vulgaire1">vulgaire*</ref></l>
+            <l n="778" xml:id="l778">Tout à fait agreable, &amp; qui n’est point <ref target="#vulgaire1">vulgaire</ref></l>
           </sp>
           <sp who="magdelon" xml:id="I09-108">
             <speaker>MAGDELON.</speaker>
@@ -3003,7 +3002,7 @@
           </sp>
           <sp who="mascarille" xml:id="I10-10">
             <speaker>MASCARILLE.</speaker>
-            <l part="F">Certes cette <ref target="#adventure">adventure*</ref></l>
+            <l part="F">Certes cette <ref target="#adventure">adventure</ref></l>
             <l n="790" xml:id="l790">Me charme, &amp; me ravit ; car ma foy je vous jure</l>
             <l n="791" xml:id="l791">Que depuis fort long temps, nous ne nous sommes veüs.<pb n="80"/></l>
           </sp>
@@ -3016,7 +3015,7 @@
             <l n="792" part="I" xml:id="l792">Ah ! Vicomte,</l>
           </sp>
           <sp who="jodelet" xml:id="I11-2">
-            <speaker>JODELET <hi rend="i">(s’embrassant l’un l’autre.)</hi></speaker>
+            <speaker>JODELET </speaker><stage>(s’embrassant l’un l’autre.)</stage>
             <l part="M">Ah ! Marquis,</l>
           </sp>
           <sp who="mascarille" xml:id="I11-3">
@@ -3031,10 +3030,10 @@
           <sp who="mascarille" xml:id="I11-5">
             <speaker>MASCARILLE.</speaker>
             <l n="795" xml:id="l795">Baise moy donc encor, Vicomte, baise moy,</l>
-            <l n="796" part="I" xml:id="l796">Je t’en <ref target="#conjurer">conjure*</ref><note n="175" place="bottom"> Cette exubérance affective contrevient aux exigences de contenance et de retenue imposées par les lois de la civilité. </note>.</l>
+            <l n="796" part="I" xml:id="l796">Je t’en <ref target="#conjurer">conjure</ref><note n="175" place="bottom"> Cette exubérance affective contrevient aux exigences de contenance et de retenue imposées par les lois de la civilité. </note>.</l>
           </sp>
           <sp who="jodelet" xml:id="I11-6">
-            <speaker>JODELET <hi rend="i">(l’ayant baisé.)</hi></speaker>
+            <speaker>JODELET </speaker><stage>(l’ayant baisé.)</stage>
             <l part="F">Il t’en faut de plus doux ma foy.</l>
           </sp>
           <sp who="magdelon" xml:id="I11-7">
@@ -3071,14 +3070,14 @@
             <l n="811" part="I" xml:id="l811">Marquée dedans nostre almanach<note n="178" place="bottom"> Forme populaire à la mode dans les milieux mondians, où l’almanach est essentiellement parodié. On en trouve deux exemples dans le Recueil Sercy. – Nous avons corrigé <hi rend="i">dans</hi> en <hi rend="i">dedans</hi> pour rectifier le compte des syllabes de ce vers. </note>.</l>
           </sp>
           <sp who="magdelon" xml:id="I11-12">
-            <speaker>MAGDELON <hi rend="i">(à Almanzor.)</hi></speaker>
+            <speaker>MAGDELON </speaker><stage>(à Almanzor.)</stage>
             <l part="F">Petit garçon,</l>
             <l n="812" xml:id="l812">Quoy vous faut-il tousjours, faire vostre leçon,</l>
             <l n="813" xml:id="l813">Ne voyez-vous pas bien surcroist de compagnie,</l>
             <l n="814" part="I" xml:id="l814">Et qu’il faut un fauteuil ?</l>
           </sp>
           <sp who="jodelet" xml:id="I11-13">
-            <speaker>JODELET <hi rend="i">(s’assit.)</hi></speaker>
+            <speaker>JODELET </speaker><stage>(s’assit.)</stage>
             <l part="F">C'est sans ceremonie.<pb n="83"/></l>
           </sp>
           <sp who="mascarille" xml:id="I11-14">
@@ -3092,7 +3091,7 @@
             <speaker>JODELET.</speaker>
             <l part="F">Et c’est tout l’adventage,</l>
             <l n="819" xml:id="l819">Et les fruicts qu’on reçoit des veilles de la Cour,</l>
-            <l n="820" xml:id="l820">Des travaux de la guerre, &amp; des <ref target="#soins">soins*</ref> de l’amour<note n="179" place="bottom"> « Le personnage que jouait Jodelet avait une solide réputation de poltronnerie. Il jouait avec le visage enfariné, d’où la référence [à sa paleur] à la réplique précédente » (<hi rend="i">Molière. Œuvres complètes</hi>, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur <hi rend="i">Les Précieuses ridicules</hi>, n.3 p. 1224).</note>.</l>
+            <l n="820" xml:id="l820">Des travaux de la guerre, &amp; des <ref target="#soins">soins</ref> de l’amour<note n="179" place="bottom"> « Le personnage que jouait Jodelet avait une solide réputation de poltronnerie. Il jouait avec le visage enfariné, d’où la référence [à sa paleur] à la réplique précédente » (<hi rend="i">Molière. Œuvres complètes</hi>, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur <hi rend="i">Les Précieuses ridicules</hi>, n.3 p. 1224).</note>.</l>
           </sp>
           <sp who="mascarille" xml:id="I11-16">
             <speaker>MASCARILLE.</speaker>
@@ -3115,7 +3114,7 @@
           <sp who="jodelet" xml:id="I11-19">
             <speaker>JODELET.</speaker>
             <l part="F">Quelques fois trop avant</l>
-            <l n="829" xml:id="l829">Et mesme en des endroits, où l’on avoit <ref target="#doute">sans doute*</ref></l>
+            <l n="829" xml:id="l829">Et mesme en des endroits, où l’on avoit <ref target="#doute">sans doute</ref></l>
             <l n="830" part="I" xml:id="l830">Bien du chaud à souffrir.</l>
           </sp>
           <sp who="mascarille" xml:id="I11-20">
@@ -3127,7 +3126,7 @@
             <speaker>JODELET.</speaker>
             <l part="F">Nous avons</l>
             <l n="832" xml:id="l832">Fait nostre connoissance à l’armée, &amp; vivons</l>
-            <l n="833" xml:id="l833">Depuis en <ref target="#amitie">amitié*</ref>. Le jour que nous nous vismes</l>
+            <l n="833" xml:id="l833">Depuis en <ref target="#amitie">amitié</ref>. Le jour que nous nous vismes</l>
             <l n="834" xml:id="l834">Pour la premiere fois, ma foy tous deux nous fismes</l>
             <l n="835" xml:id="l835">Ce pacte d’estre amis. Il commandoit alors<pb n="H 85"/></l>
             <l n="836" xml:id="l836">Un fort beau regiment de cavaliers tres-fors,</l>
@@ -3190,7 +3189,7 @@
             <l n="862" xml:id="l862">Tastez vous sentirez le coup, voila la place.</l>
           </sp>
           <sp who="cathos" xml:id="I11-31">
-            <speaker>CATHOS. <hi rend="i">(ayant porté la main.)</hi></speaker>
+            <speaker>CATHOS. </speaker><stage>(ayant porté la main.)</stage>
             <l n="863" part="I" xml:id="l863">La cicatrice est grande.</l>
           </sp>
           <sp who="mascarille" xml:id="I11-32">
@@ -3211,7 +3210,7 @@
             <l n="868" part="I" xml:id="l868">Ma derniere campagne<note n="194" place="bottom"> Lors de ma dernière campagne. </note>.</l>
           </sp>
           <sp who="jodelet" xml:id="I11-35">
-            <speaker>JODELET <hi rend="i">(à Cathos.)</hi></speaker>
+            <speaker>JODELET </speaker><stage>(à Cathos.)</stage>
             <l part="F">Ah ! tatez donc voila</l>
             <l n="869" xml:id="l869">Encore un autre coup, je l’eus à Graveline</l>
             <l n="870" xml:id="l870">Et depuis j’ay souffert d’une fievre maligne</l>
@@ -3225,7 +3224,7 @@
           </sp>
           <sp who="magdelon" xml:id="I11-37">
             <speaker>MAGDELON.</speaker>
-            <l part="F">Ah ! c’est trop <ref target="#folastre">folastrer*</ref>,</l>
+            <l part="F">Ah ! c’est trop <ref target="#folastre">folastrer</ref>,</l>
             <l n="873" xml:id="l873">Sans y voir on vous croit, &amp; vos faits admirables.<pb n="89"/></l>
           </sp>
           <sp who="mascarille" xml:id="I11-38">
@@ -3297,7 +3296,7 @@
           <sp who="magdelon" xml:id="I11-50">
             <speaker>MAGDELON.</speaker>
             <l n="896" xml:id="l896">Allez viste, Almanzor, là bas dire aux laquais</l>
-            <l n="897" xml:id="l897">De Monsieur, qu’<ref target="#present">à present*</ref> icy l’on nous ameine</l>
+            <l n="897" xml:id="l897">De Monsieur, qu’<ref target="#present">à present</ref> icy l’on nous ameine</l>
             <l n="898" part="I" xml:id="l898">Des violons ;</l>
             <stage>(à Marotte)</stage>
             <l part="F">&amp; vous prenez aussi la peine </l>
@@ -3321,7 +3320,7 @@
             <l n="905" xml:id="l905">Qu'icy nos libertez, sont à demy sujettes,</l>
             <l n="906" xml:id="l906">Qu'à peine elles pouront sortir les brayes nettes<note n="199" place="bottom"> Sans dommage. « <hi rend="i">Braie</hi>, linge qui couvre les parties honteuses comme caleçons, bas de chemise » (Furetière). </note>,</l>
             <l n="907" xml:id="l907">Au moins<note n="200" place="bottom"> Le moins que je puisse dire.</note> pour moy, je sens qu’en mon cœur je reçois</l>
-            <l n="908" xml:id="l908">Une <ref target="#estrange2">estrange*</ref> secousse, &amp; mesme aussi je crois</l>
+            <l n="908" xml:id="l908">Une <ref target="#estrange2">estrange</ref> secousse, &amp; mesme aussi je crois</l>
             <l n="909" xml:id="l909">Qu'il n’est plus retenu, que par fort peu de chose ;</l>
             <l n="910" xml:id="l910">Mais quand je le perdrois j’en cherirois la cause.</l>
           </sp>
@@ -3340,11 +3339,11 @@
             <speaker>MASCARILLE.</speaker>
             <l n="916" xml:id="l916">Mesdames, toutefois pour vous mieux faire voir</l>
             <l n="917" xml:id="l917">Que je ne vous ments point, je pretends ou je meure</l>
-            <l n="918" xml:id="l918">Vous faire un impromptu, là dessus <ref target="#tout-heure">tout à l’heure*</ref>.</l>
+            <l n="918" xml:id="l918">Vous faire un impromptu, là dessus <ref target="#tout-heure">tout à l’heure</ref>.</l>
           </sp>
           <sp who="cathos" xml:id="I11-57">
             <speaker>CATHOS.</speaker>
-            <l n="919" xml:id="l919">Eh ! je vous en conjure, avec toute l’<ref target="#ardeur2">ardeur*</ref></l>
+            <l n="919" xml:id="l919">Eh ! je vous en conjure, avec toute l’<ref target="#ardeur2">ardeur</ref></l>
             <l n="920" xml:id="l920">Et la devotion, ensemble de mon cœur</l>
             <l n="921" xml:id="l921">Que nous ayons au moins quelque chose, qu’on sçache</l>
             <l n="922" part="I" xml:id="l922">Que l’on ait fait pour nous.</l>
@@ -3369,7 +3368,7 @@
             <l n="930" xml:id="l930">Fort bien le premier vers ; mais je suis à la gehenne<note n="202" place="bottom"> Gêne. « Les meschants Poëtes mettent leur esprit à la <hi rend="i">gesne</hi>, à la torture, pour trouver des anagrammes et des acrostiches. […] Quand on donne la <hi rend="i">gesne</hi> à son esprit pour trouver des pensées extraordinaires, on tombe dans l’extravagant ou le galimathias » (Furetière).</note></l>
             <l n="931" xml:id="l931">Pour poursuivre. Ma foy cecy presse trop fort :</l>
             <l n="932" xml:id="l932">A loisir, je feray pour vous sans nul effort</l>
-            <l n="933" xml:id="l933">En vers un impromptu, qui <ref target="#doute">sans doute*</ref> je gage</l>
+            <l n="933" xml:id="l933">En vers un impromptu, qui <ref target="#doute">sans doute</ref> je gage</l>
             <l n="934" part="I" xml:id="l934">Ne vous desplaira pas.</l>
           </sp>
           <sp who="jodelet" xml:id="I11-61">
@@ -3456,7 +3455,7 @@
             <l n="961" xml:id="l961">Sur ses pieds. Allons, mes cheres, prenez place.</l>
           </sp>
           <sp who="mascarille" xml:id="I12-6">
-            <speaker>MASCARILLE <hi rend="i">(dançant luy seul comme par prelude.)</hi></speaker>
+            <speaker>MASCARILLE </speaker><stage>(dançant luy seul comme par prelude.)</stage>
             <l n="962" part="I" xml:id="l962">La la la la la la.<pb n="99"/></l>
           </sp>
           <sp who="magdelon" xml:id="I12-7">
@@ -3470,19 +3469,19 @@
             <l n="964" part="I" xml:id="l964">De dancer proprement.</l>
           </sp>
           <sp who="mascarille" xml:id="I12-9">
-            <speaker>MASCARILLE <hi rend="i">(ayant pris Magdelon.)</hi></speaker>
-            <l part="F">Ma <ref target="#franchise">franchise*</ref> avec moy,</l>
+            <speaker>MASCARILLE </speaker><stage>(ayant pris Magdelon.)</stage>
+            <l part="F">Ma <ref target="#franchise">franchise</ref> avec moy,</l>
             <l n="965" xml:id="l965">Aussi bien que mes pieds va dancer la courante<note n="206" place="bottom"><hi rend="i">Courante</hi> : « pièce de Musique, d’une mesure triple ou mouvement ternaire. (…) C'est la plus commune de toutes les danses qu’on pratique en France, qui se fait d’un temps, d’un pas, d’un balancement, et d’un couppé » (Furetière).</note>.</l>
             <l n="966" xml:id="l966">Violons en cadence, ah ! cadence pesante.</l>
             <l n="967" xml:id="l967">O ! qu’ils sont ignorans ? ma foy l’on ne peut pas</l>
-            <l n="968" xml:id="l968">Bien dancer avec eux, quel <ref target="#estrange1">estrange*</ref> fracas,</l>
+            <l n="968" xml:id="l968">Bien dancer avec eux, quel <ref target="#estrange1">estrange</ref> fracas,</l>
             <l n="969" xml:id="l969">L'on ne sçait ce qu’on fait. Le Diable vous emporte,</l>
             <l n="970" xml:id="l970">Quoy donc, ne sçauriez vous jouër d’une autre sorte,</l>
             <l n="971" xml:id="l971">Et de mesure la, la la la la la la.</l>
             <l n="972" part="I" xml:id="l972">La ferme, ô violons de village.<pb n=" 100"/></l>
           </sp>
           <sp who="jodelet" xml:id="I12-10">
-            <speaker>JODELET <hi rend="i">(dançant en suite.)</hi></speaker>
+            <speaker>JODELET </speaker><stage>(dançant en suite.)</stage>
             <l part="F">Oh ! hola ?</l>
             <l n="973" xml:id="l973">Messieurs, ne pressez pas si fort vostre cadence ?</l>
             <l n="974" part="I" xml:id="l974">Je ne fais que sortir de maladie.</l>
@@ -3499,12 +3498,12 @@
           <stage>MASCARILLE.</stage>
           <sp who="la-grange" xml:id="I13-1">
             <speaker>LA GRANGE.</speaker>
-            <l part="F">Ah, ah ! coquins, que faites-vous <ref target="#ceans">ceans*</ref> ?</l>
+            <l part="F">Ah, ah ! coquins, que faites-vous <ref target="#ceans">ceans</ref> ?</l>
             <l n="976" xml:id="l976">Trois heures sont desja passées, faineans,</l>
             <l n="977" xml:id="l977">Depuis que nous cherchons de tous costez. Ah ! lasche ?</l>
           </sp>
           <sp who="mascarille" xml:id="I13-2">
-            <speaker>MASCARILLE <hi rend="i">(se sentant battre.)</hi></speaker>
+            <speaker>MASCARILLE </speaker><stage>(se sentant battre.)</stage>
             <l n="978" xml:id="l978">Ahy, ahy, ahy, je n’ay point ouy Monsieur, que je sçache</l>
             <l n="979" part="I" xml:id="l979">Que les coups en seroient.</l>
           </sp>
@@ -3520,8 +3519,8 @@
           </sp>
           <sp who="du-croisy" xml:id="I13-5">
             <speaker>DU CROISY.</speaker>
-            <l part="F">Ah ! Vous voulez <ref target="#paroistre2">paroistre*</ref>,</l>
-            <l n="982" xml:id="l982">Cela vous apprendra certes, à vous <ref target="#se-connoistre">connoistre*</ref>.</l>
+            <l part="F">Ah ! Vous voulez <ref target="#paroistre2">paroistre</ref>,</l>
+            <l n="982" xml:id="l982">Cela vous apprendra certes, à vous <ref target="#se-connoistre">connoistre</ref>.</l>
             <stage>(Ils sortent.)</stage>
             <pb n="103"/>
           </sp>
@@ -3536,7 +3535,7 @@
           </sp>
           <sp who="mascarille" xml:id="I14-2">
             <speaker>MASCARILLE.</speaker>
-            <l part="M">Une <ref target="#gageure">gageure*</ref>.</l>
+            <l part="M">Une <ref target="#gageure">gageure</ref>.</l>
           </sp>
           <sp who="magdelon" xml:id="I14-3">
             <speaker>MAGDELON.</speaker>
@@ -3588,7 +3587,7 @@
             <l n="1001" xml:id="l1001">Que par des laschetez que l’on peut dire extresmes,<pb n="106"/></l>
             <l n="1002" xml:id="l1002">Ils soient icy de vous, mieux receus que nous-mesmes,</l>
             <l n="1003" xml:id="l1003">Qu'à nos propres despens, par un trait sans esgal</l>
-            <l n="1004" xml:id="l1004">Ils vous monstrent leur <ref target="#flamme">flame*</ref> ; &amp; vous donnent le bal.</l>
+            <l n="1004" xml:id="l1004">Ils vous monstrent leur <ref target="#flamme">flame</ref> ; &amp; vous donnent le bal.</l>
           </sp>
           <sp who="magdelon" xml:id="I15-4">
             <speaker>MAGDELON.</speaker>
@@ -3606,7 +3605,7 @@
           <sp who="la-grange" xml:id="I15-7">
             <speaker>LA GRANGE.</speaker>
             <l part="F">Ils n’auront pas</l>
-            <l n="1008" xml:id="l1008">Le bien que nos habits leur donnent des <ref target="#appas1">appas*</ref> !</l>
+            <l n="1008" xml:id="l1008">Le bien que nos habits leur donnent des <ref target="#appas1">appas</ref> !</l>
             <l n="1009" xml:id="l1009">Pour vous pouvoir par eux donner dedans la veuë<note n="211" place="bottom"> Eblouir.</note>,</l>
             <l n="1010" xml:id="l1010">Si vous aimez leur peau, ce sera toute nuë,</l>
             <l n="1011" xml:id="l1011">Et quand vous les verrez sans vestemens, &amp; gueux,<pb n="107"/></l>
@@ -3653,10 +3652,10 @@
           </sp>
           <sp who="la-grange" xml:id="I15-15">
             <speaker>LA GRANGE.</speaker>
-            <l part="F">sans <ref target="#raisonnement">raisonnement*</ref>,</l>
+            <l part="F">sans <ref target="#raisonnement">raisonnement</ref>,</l>
             <l n="1028" xml:id="l1028">Que tous ces habits là, soient ostez promptement.</l>
             <l n="1029" xml:id="l1029">Dedans l’estat qu’ils sont, des à present, mes Dames,<pb n="K 109"/></l>
-            <l n="1030" xml:id="l1030">Vous pouvez avec eux continuer vos <ref target="#flamme">flames*</ref> :</l>
+            <l n="1030" xml:id="l1030">Vous pouvez avec eux continuer vos <ref target="#flamme">flames</ref> :</l>
             <l n="1031" xml:id="l1031">Icy nous vous laissons en pleine liberté,</l>
             <l n="1032" xml:id="l1032">Et nous vous protestons tous deux en vérité,</l>
             <l n="1033" xml:id="l1033">Que nous n’aurons jamais aucune jalousie.</l>
@@ -3670,18 +3669,18 @@
             <l part="F">J'en suis toute saisie !</l>
           </sp>
           <sp who="violons" xml:id="I15-18">
-            <speaker>LES VIOLONS <hi rend="i">(au Marquis.)</hi></speaker>
+            <speaker>LES VIOLONS </speaker><stage>(au Marquis.)</stage>
             <l n="1035" xml:id="l1035">Donnez nous de l’argent, je n’entends point ce-cy,</l>
             <l n="1036" xml:id="l1036">Lequel donc de vous deux nous doit payer icy ?</l>
           </sp>
           <sp who="mascarille" xml:id="I15-19">
-            <speaker>MASCARILLE <hi rend="i">(le premier vers à part)</hi></speaker>
+            <speaker>MASCARILLE </speaker><stage>(le premier vers à part)</stage>
             <l n="1037" xml:id="l1037">Quand je vois ce revers, pour moy, je meurs de honte,</l>
             <l n="1038" xml:id="l1038">Demandez si vous plaist à Monsieur le Vicomte.<pb n="110"/></l>
             <stage>LES VIOLONS (se tournent vers Jodelet).</stage>
           </sp>
           <sp who="jodelet" xml:id="I15-20">
-            <speaker>JODELET <hi rend="i">(le premier vers à part.)</hi></speaker>
+            <speaker>JODELET </speaker><stage>(le premier vers à part.)</stage>
             <l n="1039" xml:id="l1039">D'un semblable revers mes sens sont esbaïs.</l>
             <l n="1040" xml:id="l1040">Demandez si vous plaist à Monsieur le Marquis.<pb n="111"/></l>
           </sp>
@@ -3699,22 +3698,22 @@
           </sp>
           <sp who="magdelon" xml:id="I16-2">
             <speaker>MAGDELON.</speaker>
-            <l n="1045" xml:id="l1045">Mon pere on nous a fait cette <ref target="#sanglant">sanglante*</ref> <ref target="#piece">piece*</ref>.</l>
+            <l n="1045" xml:id="l1045">Mon pere on nous a fait cette <ref target="#sanglant">sanglante</ref> <ref target="#piece">piece</ref>.</l>
           </sp>
           <sp who="gorgibus" xml:id="I16-3">
             <speaker>GORGIBUS.</speaker>
-            <l n="1046" xml:id="l1046">Je sçais qu’elle est <ref target="#sanglant">sanglante*</ref> &amp; marque leur adresse ;</l>
+            <l n="1046" xml:id="l1046">Je sçais qu’elle est <ref target="#sanglant">sanglante</ref> &amp; marque leur adresse ;</l>
             <l n="1047" xml:id="l1047">Mais vostre impertinence en est le fondement,<pb n="112"/></l>
             <l n="1048" xml:id="l1048">Ils se sont ressentis<note n="215" place="bottom"> Ils ont gardé rancune.</note> du mauvais traittement</l>
             <l n="1049" xml:id="l1049">Que vous leur avez fait, infames, que vous estes,</l>
-            <l n="1050" xml:id="l1050">Et leurs <ref target="#flamme">flames*</ref> ont droit d’estre mal satisfaites :</l>
+            <l n="1050" xml:id="l1050">Et leurs <ref target="#flamme">flames</ref> ont droit d’estre mal satisfaites :</l>
             <l n="1051" xml:id="l1051">Il faut que cependant malheureux que je suis</l>
-            <l n="1052" xml:id="l1052">Je boive cet affront pour croistre mes <ref target="#ennui">ennuis*</ref>.</l>
+            <l n="1052" xml:id="l1052">Je boive cet affront pour croistre mes <ref target="#ennui">ennuis</ref>.</l>
           </sp>
           <sp who="magdelon" xml:id="I16-4">
             <speaker>MAGDELON.</speaker>
             <l n="1053" xml:id="l1053">Ne nous dites plus rien, je vous donne assurance</l>
-            <l n="1054" xml:id="l1054">Que de ce <ref target="#procede">procedé*</ref> nous tirerons vengence,</l>
+            <l n="1054" xml:id="l1054">Que de ce <ref target="#procede">procedé</ref> nous tirerons vengence,</l>
             <l n="1055" xml:id="l1055">Que contre nous aucun ne les peut secourir,</l>
             <l n="1056" xml:id="l1056">Ou qu’en la peine enfin, l’on nous verra perir.</l>
             <l n="1057" xml:id="l1057">Et vous marauts, encor vous avez l’assurance</l>
@@ -3748,24 +3747,24 @@
             <l n="1074" xml:id="l1074">Il faut payer celuy que nous venons de faire</l>
           </sp>
           <sp who="gorgibus" xml:id="I17-2">
-            <speaker>GORGIBUS <hi rend="i">(en les battant.)</hi></speaker>
+            <speaker>GORGIBUS </speaker><stage>(en les battant.)</stage>
             <l n="1075" xml:id="l1075">Je m’en vais maintenant tous deux vous contenter</l>
             <l n="1076" xml:id="l1076">Et c’est icy l’argent que je vous veux conter.</l>
             <l n="1077" xml:id="l1077">Et vous qui tous les jours faites tant d’incartades.</l>
             <l n="1078" xml:id="l1078">Qui consommez le temps à faire des pommades.</l>
             <l n="1079" xml:id="l1079">Je ne sçay qui m’empesche &amp; me retient icy<pb n="115"/></l>
-            <l n="1080" xml:id="l1080">Que dedans ma fureur je ne vous <ref target="#frotter">frotte*</ref> aussi :</l>
+            <l n="1080" xml:id="l1080">Que dedans ma fureur je ne vous <ref target="#frotter">frotte</ref> aussi :</l>
             <l n="1081" xml:id="l1081">Par tout nostre maison se verra mesprisée,</l>
             <l n="1082" xml:id="l1082">Nous servirons par tout de fable &amp; de risée,</l>
             <l n="1083" xml:id="l1083">Chacun dira son mot pour nous deshonorer,</l>
             <l n="1084" xml:id="l1084">Voila ce que sur nous vient enfin d’attirer</l>
             <l n="1085" xml:id="l1085">Et vostre impertinence, &amp; vos humeurs hautaines.</l>
             <l n="1086" xml:id="l1086">Allez donc vous cacher, allez grandes vilaines,</l>
-            <l n="1087" xml:id="l1087">Et vous des gens oisifs, lasches <ref target="#amusement">amusemens*</ref> <note n="217" place="bottom"> « La formule est de celle par lesquelles les milieux religieux rigoristes condamnent les plaisirs du monde. – Cette dernière réplique renoue en quelque sorte avec la tradition du <hi rend="i">plaudite, cives</hi> de la comédie latine, tradition qui, après avoir connu une certaine faveur dans le théâtre comique au XVI<hi rend="sup">e</hi> siècle, avait disparu de la scène française au XVII<hi rend="sup">e</hi> » (<hi rend="i">Molière. Œuvres complètes</hi>, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur <hi rend="i">Les Précieuses ridicules</hi>, n.1 p. 1225).</note>,</l>
+            <l n="1087" xml:id="l1087">Et vous des gens oisifs, lasches <ref target="#amusement">amusemens</ref> <note n="217" place="bottom"> « La formule est de celle par lesquelles les milieux religieux rigoristes condamnent les plaisirs du monde. – Cette dernière réplique renoue en quelque sorte avec la tradition du <hi rend="i">plaudite, cives</hi> de la comédie latine, tradition qui, après avoir connu une certaine faveur dans le théâtre comique au XVI<hi rend="sup">e</hi> siècle, avait disparu de la scène française au XVII<hi rend="sup">e</hi> » (<hi rend="i">Molière. Œuvres complètes</hi>, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur <hi rend="i">Les Précieuses ridicules</hi>, n.1 p. 1225).</note>,</l>
             <l n="1088" xml:id="l1088">Vers, Sonnets &amp; Chansons, Sonnetes<note n="218" place="bottom"><hi rend="i">Sonnets et Sonnetes</hi> : « Gorgibus, à qui ce quolibet échappe dans son humeur, ne se doute pas qu’il ne fait guère que répéter un mot de Malherbe. Ce grand poëte avait fait un sonnet où la règle qui fixe le mélange des rimes n’était point observée. <hi rend="i">Ce n’est pas là un sonnet</hi>, lui dit quelqu’un, <hi rend="i">on ne le recevra pas pour tel. Eh bien</hi> ! répondit-il, <hi rend="i">si ce n’est pas un sonnet , ce sera une sonnette</hi> » (Auger).</note> &amp; Romans,</l>
             <l n="1089" xml:id="l1089">Livres pernicieux, folles &amp; vaines fables</l>
             <l n="1090" xml:id="l1090">Puissiez vous pour jamais aller à tous les diables.</l>
-            <p rend="center">FIN.</p>
+            <trailer rend="center">FIN.</trailer>
           </sp>
         </div>
       </div>
@@ -3782,7 +3781,7 @@
       <div>
         <head>Lexique des Prétieuses ridicules mises en vers</head>
         <entryFree xml:id="abord">
-          <form>* Abord (d’)</form>
+          <form> Abord (d’)</form>
           <def>Aussitôt, tout de suite</def>
           <xr>V. <ref target="#l258">258</ref>.</xr>
         </entryFree>
@@ -3797,29 +3796,29 @@
           <xr>V. <ref target="#l123">123</ref>.</xr>
         </entryFree>
         <entryFree xml:id="air">
-          <form>* Air (l’)</form>
+          <form> Air (l’)</form>
           <def>Les manières, « manière d’agir, de parler, de vivre » (Furetière) </def>
           <xr>V. <ref target="#l113">113</ref>.</xr>
         </entryFree>
         <entryFree xml:id="adventure">
-          <form>* Adventure</form>
+          <form> Adventure</form>
           <def>Évènement</def>
           <xr>V. <ref target="#l789">789</ref>.</xr>
         </entryFree>
         <entryFree>
-          <form>* Aman(t) s</form>
+          <form> Aman(t) s</form>
           <def xml:id="amant1">Soupirants</def>
           <xr>Personnages ; v.<ref target="#l221">221</ref></xr>
           <def xml:id="amant2">Amoureux</def>
           <xr>V. <ref target="#l440">440</ref>.</xr>
         </entryFree>
         <entryFree xml:id="amitie">
-          <form>* Amitié</form>
+          <form> Amitié</form>
           <def>Profonde affection</def>
           <xr>V. <ref target="#l833">833</ref>.</xr>
         </entryFree>
         <entryFree xml:id="amuser">
-          <form>* Amuser (s’)</form>
+          <form> Amuser (s’)</form>
           <def>Prendre son temps</def>
           <xr>V. <ref target="#l599">599</ref></xr>
         </entryFree>
@@ -3829,7 +3828,7 @@
           <xr>V. <ref target="#l1087">1087</ref></xr>
         </entryFree>
         <entryFree xml:id="apparence">
-          <form>* Apparence</form>
+          <form> Apparence</form>
           <def>Vraisemblance</def>
           <xr>V. <ref target="#l309">309</ref></xr>
         </entryFree>
@@ -3839,14 +3838,14 @@
           <xr>V. <ref target="#l711">711</ref></xr>
         </entryFree>
         <entryFree>
-          <form>* Appas</form>
+          <form> Appas</form>
           <def xml:id="appas1">Charme, attrait</def>
           <xr><ref target="#elegie">Élégie</ref>, v.<ref target="#l275">275</ref> ; v.<ref target="#l436">436</ref> ; v. <ref target="#l536">536</ref> ; v.<ref target="#l635">635</ref> ; v.<ref target="#l1008">1008</ref></xr>
           <def xml:id="appas2">Plus précisément, « se dit figurément en choses morales de ce qui sert à attraper les hommes » (Furetière)</def>
           <xr>V. <ref target="#l451">451</ref>.</xr>
         </entryFree>
         <entryFree>
-          <form>* Ardeur</form>
+          <form> Ardeur</form>
           <def xml:id="ardeur1">Passion</def>
           <xr>V. <ref target="#l148">148</ref></xr>
           <def xml:id="ardeur2">Vivacité</def>
@@ -3855,27 +3854,27 @@
           <xr>V. <ref target="#l100">100</ref>.</xr>
         </entryFree>
         <entryFree xml:id="artifice">
-          <form>* Artifice</form>
+          <form> Artifice</form>
           <def>Ruse</def>
           <xr>V. <ref target="#l425">425</ref></xr>
         </entryFree>
         <entryFree xml:id="aveu">
-          <form>* Aveu</form>
+          <form> Aveu</form>
           <def>Approbation, « protection, ordre ou consentement donné » (Furetière)</def>
           <xr><ref target="#elegie">Élégie</ref> ; v.<ref target="#l163">163</ref>.</xr>
         </entryFree>
         <entryFree xml:id="bonheur">
-          <form>* Bonheur</form>
+          <form> Bonheur</form>
           <def>Hasard, rencontre heureuse</def>
           <xr><ref target="#epitre">Épître</ref>.</xr>
         </entryFree>
         <entryFree xml:id="bruit">
-          <form>* Bruit</form>
+          <form> Bruit</form>
           <def>Réputation, renommée</def>
           <xr>V. <ref target="#l474">474</ref> ; v.<ref target="#l680">680</ref>.</xr>
         </entryFree>
         <entryFree xml:id="cavalier">
-          <form>* Cavalier</form>
+          <form> Cavalier</form>
           <def>« Aisé, libre, galant, honnête, noble, qui n’est point assujetti aux règles » (Richelet)</def>
           <xr>V. <ref target="#l575">575</ref>.</xr>
         </entryFree>
@@ -3885,39 +3884,39 @@
           <xr>V. <ref target="#l630">630</ref>.</xr>
         </entryFree>
         <entryFree xml:id="ceans">
-          <form>* Ceans</form>
+          <form> Ceans</form>
           <def>Terme déictique qui désigne le lieu où l’on est</def>
           <xr>V. <ref target="#l313">313</ref> ; v. <ref target="#l776">776</ref> ; v.<ref target="#l975">975</ref>. </xr>
         </entryFree>
         <entryFree xml:id="chaleur">
-          <form>* Chaleur</form>
+          <form> Chaleur</form>
           <def>« Passions passagères qui viennent par un prompt mouvement, ou qui sont attribuées à l’âge, ou au tempérament » (Furetière)</def>
           <xr>V. <ref target="#l639">639</ref>.</xr>
         </entryFree>
         <entryFree xml:id="commerce">
-          <form>* Commerce</form>
+          <form> Commerce</form>
           <def>Échange</def>
           <xr>V. <ref target="#l483">483</ref>. </xr>
         </entryFree>
         <entryFree xml:id="complaisance">
-          <form>* Complaisance</form>
+          <form> Complaisance</form>
           <def>« Déférence aux sentiments et aux volontés d’autrui. La complaisance est d’ordinaire accompagnée de flatterie » (Furetière)</def>
           <xr>V. <ref target="#l399">399</ref>.</xr>
         </entryFree>
         <entryFree>
-          <form>* Confesser</form>
+          <form> Confesser</form>
           <def xml:id="confesser1">« Reconnaître une vérité particulière » (Furetière)</def>
           <xr>V. <ref target="#l73">73</ref> ; v.<ref target="#l179">179</ref> ; v.<ref target="#l743">743</ref></xr>
           <def xml:id="confesser2">Avouer</def>
           <xr>V. <ref target="#l5">5</ref> ; v.<ref target="#l731">731</ref>.</xr>
         </entryFree>
         <entryFree xml:id="conjurer">
-          <form>* Conjurer</form>
+          <form> Conjurer</form>
           <def>« Prier avec instance et fortement au nom de ce que l’on respecte le plus, de ce qu’on a de plus cher » (Furetière)</def>
           <xr>V. <ref target="#l671">671</ref> ; v.<ref target="#l684">684</ref> ; v.<ref target="#l796">796</ref>.</xr>
         </entryFree>
         <entryFree xml:id="connoistre">
-          <form>* Connoistre</form>
+          <form> Connoistre</form>
           <def>Savoir</def>
           <xr>V. <ref target="#l25">25</ref></xr>
         </entryFree>
@@ -3927,72 +3926,72 @@
           <xr>V. <ref target="#l364">364</ref> ; v.<ref target="#l982">982</ref>.</xr>
         </entryFree>
         <entryFree xml:id="cracher">
-          <form>* Cracher</form>
+          <form> Cracher</form>
           <def>« Se dit figurément des choses qui sortent de la bouche mal à propos, soit injures, reproches, soit mauvaises citations » (Furetière)</def>
           <xr>V. <ref target="#l16">16</ref>.</xr>
         </entryFree>
         <entryFree xml:id="crayon">
-          <form>* Crayon (ou craion)</form>
+          <form> Crayon (ou craion)</form>
           <def>« Portrait, tableau qu’on fait des belles qualitez d’une personne » (Richelet)</def>
           <xr><ref target="#elegie">Élégie</ref>.</xr>
         </entryFree>
         <entryFree xml:id="cruel">
-          <form>* Cruel</form>
+          <form> Cruel</form>
           <def>Douloureux</def>
           <xr>V. <ref target="#l135">135</ref>.</xr>
         </entryFree>
         <entryFree xml:id="debiter">
-          <form>* Debiter</form>
+          <form> Debiter</form>
           <def>« On dit figurément, qu’un homme débite bien, pour dire, qu’il dit bien ce qu’il dit, qu’il récite agréablement » (Furetière), sans nuance péjorative</def>
           <xr>V. <ref target="#l136">136</ref>.</xr>
         </entryFree>
         <entryFree xml:id="descrier">
-          <form>* Descrier</form>
+          <form> Descrier</form>
           <def>Dévaloriser</def>
           <xr>V. <ref target="#l249">249</ref>.</xr>
         </entryFree>
         <entryFree xml:id="despit">
-          <form>* Despit</form>
+          <form> Despit</form>
           <def>« Sorte de courte colère, fâcherie, déplaisir » (Richelet)</def>
           <xr>V. <ref target="#l371">371</ref>.</xr>
         </entryFree>
         <entryFree xml:id="developper">
-          <form>* Developper</form>
+          <form> Developper</form>
           <def>Révéler</def>
           <xr>V. <ref target="#l306">306</ref>.</xr>
         </entryFree>
         <entryFree xml:id="discretion">
-          <form>* Discretion</form>
+          <form> Discretion</form>
           <def>Jugement, discernement</def>
           <xr><ref target="#preface">Préface</ref>.</xr>
         </entryFree>
         <entryFree xml:id="disner">
-          <form>* Disner</form>
+          <form> Disner</form>
           <def>Déjeuner</def>
           <xr>V. <ref target="#l363">363</ref>.</xr>
         </entryFree>
         <entryFree xml:id="disputer">
-          <form>* Disputer</form>
+          <form> Disputer</form>
           <def>Débattre, contester en argumentant</def>
           <xr>V. <ref target="#l443">443</ref>.</xr>
         </entryFree>
         <entryFree xml:id="doute">
-          <form>* Doute (sans)</form>
+          <form> Doute (sans)</form>
           <def>Assurément</def>
           <xr>V. <ref target="#l23">23</ref> ; v.<ref target="#l306">306</ref> ; v.<ref target="#l554">554</ref> ; v.<ref target="#l586">586</ref> ; v.<ref target="#l743">743</ref> ; v.<ref target="#l829">829</ref> ; v.<ref target="#l933">933</ref>.</xr>
         </entryFree>
         <entryFree xml:id="douteux">
-          <form>* Douteux</form>
+          <form> Douteux</form>
           <def>« Problématique, incertain » (Furetière)</def>
           <xr><ref target="#preface">Préface</ref>.</xr>
         </entryFree>
         <entryFree xml:id="empire">
-          <form>* Empire</form>
+          <form> Empire</form>
           <def>Pouvoir</def>
           <xr><ref target="#elegie">Élégie</ref>.</xr>
         </entryFree>
         <entryFree xml:id="ennui">
-          <form>* Ennui</form>
+          <form> Ennui</form>
           <def>Fâcherie, chagrin violent, désespoir</def>
           <xr>V. <ref target="#l1052">1052</ref>.</xr>
         </entryFree>
@@ -4002,14 +4001,14 @@
           <xr>V. <ref target="#l215">215</ref>.</xr>
         </entryFree>
         <entryFree>
-          <form>* Entendre</form>
+          <form> Entendre</form>
           <def xml:id="entendre1">Comprendre</def>
           <xr>V. <ref target="#l232">232</ref></xr>
           <def xml:id="entendre2">Écouter</def>
           <xr>V. <ref target="#l2">2</ref> ; v.<ref target="#l129">129</ref></xr>
         </entryFree>
         <entryFree>
-          <form>* Estonner</form>
+          <form> Estonner</form>
           <def xml:id="estonner1">Effrayer</def>
           <xr><ref target="#elegie">Élégie</ref> ; V. <ref target="#l409">409</ref></xr>
           <def>S'émerveiller</def>
@@ -4029,7 +4028,7 @@
           <xr>V. <ref target="#l243">243</ref></xr>
         </entryFree>
         <entryFree>
-          <form>* Estrange</form>
+          <form> Estrange</form>
           <def xml:id="estrange1">Monstrueux</def>
           <xr><ref target="#epitre">Épître</ref>, v. <ref target="#l237">237</ref> ; v. <ref target="#l239">239</ref> ; v.<ref target="#l968">968</ref></xr>
           <def xml:id="estrange2">Extraordinaire</def>
@@ -4041,47 +4040,47 @@
           <xr>V. <ref target="#l299">299</ref></xr>
         </entryFree>
         <entryFree xml:id="exact">
-          <form>* Exact</form>
+          <form> Exact</form>
           <def>« Celui qui est ponctuel, qui observe toutes les précisions requises pour bien faire, pour examiner quelque chose. Il faut être exact à tenir ce qu’on a promis » (Furetière)</def>
           <xr>V. <ref target="#l683">683</ref>.</xr>
         </entryFree>
         <entryFree xml:id="fantaisie">
-          <form>* Fantaisie</form>
+          <form> Fantaisie</form>
           <def>Imagination</def>
           <xr>V. <ref target="#l174">174</ref>.</xr>
         </entryFree>
         <entryFree xml:id="fatalement">
-          <form>* Fatalement</form>
+          <form> Fatalement</form>
           <def>« Qui doit arriver nécessairement, arrêt de la destinée » (Furetière)</def>
           <xr>V. <ref target="#l145">145</ref></xr>
         </entryFree>
         <entryFree xml:id="feu">
-          <form>* Feu</form>
+          <form> Feu</form>
           <def>Amour</def>
           <xr>V. <ref target="#l155">155</ref>.</xr>
         </entryFree>
         <entryFree xml:id="flamme">
-          <form>* Flamme</form>
+          <form> Flamme</form>
           <def>Amour, passion</def>
           <xr>V. <ref target="#l162">162</ref> ; v.<ref target="#l170">170</ref> ; v.<ref target="#l1004">1004</ref> ; v.<ref target="#l1030">1030</ref> ; v.<ref target="#l1050">1050</ref>.</xr>
         </entryFree>
         <entryFree xml:id="folastre">
-          <form>* Folastre</form>
+          <form> Folastre</form>
           <def>« Faire des actions, ou avoir des entretiens folâtres, plaisants, agréables, peu sérieux » (Furetière)</def>
           <xr>V. <ref target="#l872">872</ref>.</xr>
         </entryFree>
         <entryFree xml:id="franchise">
-          <form>* Franchise</form>
+          <form> Franchise</form>
           <def>Liberté</def>
           <xr>V. <ref target="#l412">412</ref> ; v.<ref target="#l964">964</ref>.</xr>
         </entryFree>
         <entryFree xml:id="frotter">
-          <form>* Frotter</form>
+          <form> Frotter</form>
           <def>Battre</def>
           <xr>V. <ref target="#l1080">1080</ref>.</xr>
         </entryFree>
         <entryFree xml:id="gageure">
-          <form>* Gageure</form>
+          <form> Gageure</form>
           <def>Pari</def>
           <xr>V. <ref target="#l983">983</ref></xr>
         </entryFree>
@@ -4091,57 +4090,57 @@
           <xr>V. <ref target="#l200">200</ref>.</xr>
         </entryFree>
         <entryFree xml:id="genie">
-          <form>* Genie</form>
+          <form> Genie</form>
           <def>« Talent naturel, disposition qu’on a à une chose plutôt qu’à une autre » (Furetière)</def>
           <xr>V. <ref target="#l654">654</ref>.</xr>
         </entryFree>
         <entryFree xml:id="grace">
-          <form>* Grace</form>
+          <form> Grace</form>
           <def>« Toute sorte de don, de libéralité, de bon office ou plaisir » (Furetière)</def>
           <xr>V. <ref target="#l58">58</ref>.</xr>
         </entryFree>
         <entryFree xml:id="gredin">
-          <form>* Gredin</form>
+          <form> Gredin</form>
           <def>« Gueux, misérable qui est de la lie du peuple » (Furetière)</def>
           <xr>V. <ref target="#l19">19</ref> ; v.<ref target="#l219">219</ref>.</xr>
         </entryFree>
         <entryFree xml:id="hazarder">
-          <form>* Hazarder</form>
+          <form> Hazarder</form>
           <def>Risquer</def>
           <xr><ref target="#preface">Préface</ref>.</xr>
         </entryFree>
         <entryFree xml:id="heur">
-          <form>* Heur</form>
+          <form> Heur</form>
           <def>Bonheur</def>
           <xr>V. <ref target="#l729">729</ref>.</xr>
         </entryFree>
         <entryFree xml:id="humeur">
-          <form>* Humeur</form>
+          <form> Humeur</form>
           <def>« Résolution, disposition de l’esprit » (Furetière)</def>
           <xr>V. <ref target="#l121">121</ref>.</xr>
         </entryFree>
         <entryFree xml:id="hymen">
-          <form>* Hymen</form>
+          <form> Hymen</form>
           <def>Désigne poétiquement le mariage</def>
           <xr>V. <ref target="#l131">131</ref>.</xr>
         </entryFree>
         <entryFree xml:id="industrie">
-          <form>* Industrie</form>
+          <form> Industrie</form>
           <def>« Adresse de faire reüssir quelque chose, quelque dessein, quelque travail » (Furetière)</def>
           <xr>V. <ref target="#l197">197</ref>.</xr>
         </entryFree>
         <entryFree xml:id="injuste">
-          <form>* Injuste</form>
+          <form> Injuste</form>
           <def>Illégitime, infondée</def>
           <xr>V. <ref target="#l400">400</ref>.</xr>
         </entryFree>
         <entryFree xml:id="irregulier">
-          <form>* Irregulier</form>
+          <form> Irregulier</form>
           <def>Ce qui n’est pas dans les formes, qui est non conforme aux règles</def>
           <xr>V. <ref target="#l93">93</ref> ; v.<ref target="#l218">218</ref>.</xr>
         </entryFree>
         <entryFree>
-          <form>* Justement</form>
+          <form> Justement</form>
           <def xml:id="justement1">À proprement parler</def>
           <xr>V. <ref target="#l185">185</ref></xr>
           <def xml:id="justement2">À juste titre</def>
@@ -4150,106 +4149,106 @@
           <xr>V. <ref target="#l597">597</ref>.</xr>
         </entryFree>
         <entryFree xml:id="louer">
-          <form>* Loüer (se)</form>
+          <form> Loüer (se)</form>
           <def>Se vanter, se glorifier</def>
           <xr>V. <ref target="#l36">36</ref>.</xr>
         </entryFree>
         <entryFree xml:id="meschant">
-          <form>* Meschant (adj.)</form>
+          <form> Meschant (adj.)</form>
           <def>Mauvais</def>
           <xr><ref target="#preface">Préface</ref>.</xr>
         </entryFree>
         <entryFree xml:id="muraille">
-          <form>* Muraille</form>
+          <form> Muraille</form>
           <def>Mur</def>
           <xr>V. <ref target="#l348">348</ref>.</xr>
         </entryFree>
         <entryFree>
-          <form>* Paroistre</form>
+          <form> Paroistre</form>
           <def xml:id="paroistre1">« Se faire distinguer des autres, éclater davantage » (Furetière)</def>
           <xr>V. <ref target="#l578">578</ref> ; v.<ref target="#l718">718</ref></xr>
           <def xml:id="paroistre2">S’exposer en public, paraître dans le monde</def>
           <xr>V. <ref target="#l454">454</ref> ; v.<ref target="#l981">981</ref>.</xr>
         </entryFree>
         <entryFree xml:id="piece">
-          <form>* Piece</form>
+          <form> Piece</form>
           <def>Bon tour</def>
           <xr>V. <ref target="#l37">37</ref> ; v.<ref target="#l1045">1045</ref>.</xr>
         </entryFree>
         <entryFree xml:id="present">
-          <form>* Présent (à)</form>
+          <form> Présent (à)</form>
           <def>Maintenant</def>
           <xr>V. <ref target="#l330">330</ref> ; v. <ref target="#l897">897</ref></xr>
           <def>Pour l’instant</def>
           <xr>V. <ref target="#l57">57</ref>.</xr>
         </entryFree>
         <entryFree xml:id="pretendre">
-          <form>* Pretendre (tr.)</form>
+          <form> Pretendre (tr.)</form>
           <def>Aspirer à quelque chose</def>
           <xr>V. <ref target="#l103">103</ref>.</xr>
         </entryFree>
         <entryFree xml:id="procede">
-          <form>* Procedé</form>
+          <form> Procedé</form>
           <def>« Manière d’agir d’une personne envers une autre » (Furetière)</def>
           <xr>V. <ref target="#l6">6</ref> ; v.<ref target="#l92">92</ref> ; v.<ref target="#l188">188</ref> ; v.<ref target="#l207">207</ref> ; v.<ref target="#l769">769</ref> ; v.<ref target="#l1054">1054</ref>.</xr>
         </entryFree>
         <entryFree xml:id="prudhommie">
-          <form>* Prud’hommie</form>
+          <form> Prud’hommie</form>
           <def>Honnêteté</def>
           <xr>V. <ref target="#l427">427</ref>.</xr>
         </entryFree>
         <entryFree xml:id="qualite">
-          <form>* Qualité</form>
+          <form> Qualité</form>
           <def>Rang, haute condition sociale</def>
           <xr>V. <ref target="#l363">363</ref> ; v. <ref target="#l622">622</ref>.</xr>
         </entryFree>
         <entryFree xml:id="raisonnement">
-          <form>* Raisonnement</form>
+          <form> Raisonnement</form>
           <def>Discours, réflexion</def>
           <xr>V. <ref target="#l1027">1027</ref>.</xr>
         </entryFree>
         <entryFree xml:id="rudesse">
-          <form>* Rudesse</form>
+          <form> Rudesse</form>
           <def>Qualité de ce qui choque les sens </def>
           <xr>V. <ref target="#l248">248</ref>.</xr>
         </entryFree>
         <entryFree xml:id="sanglant">
-          <form>* Sanglant</form>
+          <form> Sanglant</form>
           <def>« Fâcheux, crüel, rude » (Richelet)</def>
           <xr>V. <ref target="#l1045">1045</ref> ; v.<ref target="#l1046">1046</ref>.</xr>
         </entryFree>
         <entryFree xml:id="soins">
-          <form>* Soins</form>
+          <form> Soins</form>
           <def>Soucis, inquiétudes</def>
           <xr>V. <ref target="#l820">820</ref>.</xr>
         </entryFree>
         <entryFree xml:id="souffrir">
-          <form>* Souffrir</form>
+          <form> Souffrir</form>
           <def>S’accommoder de, consentir</def>
           <xr>V. <ref target="#l325">325</ref> ; v.<ref target="#l265">265</ref>.</xr>
         </entryFree>
         <entryFree xml:id="stupidite">
-          <form>* Stupidité</form>
+          <form> Stupidité</form>
           <def>« Pesanteur d’esprit » (Ac, Fr., 1694), « bêtise, qualité de l’ame qui la rend insensible et incapable de raisonnement » (Furetière)</def>
           <xr>V. <ref target="#l241">241</ref> ; v.<ref target="#l296">296</ref>.</xr>
         </entryFree>
         <entryFree xml:id="surprise">
-          <form>* Surpris(e)</form>
+          <form> Surpris(e)</form>
           <def>Saisi(e)</def>
           <xr><ref target="#elegie">Élégie</ref>.</xr>
         </entryFree>
         <entryFree xml:id="tout-heure">
-          <form>* Tout à l’heure</form>
+          <form> Tout à l’heure</form>
           <def>Tout de suite</def>
           <xr>V. <ref target="#l367">367</ref> ; v. <ref target="#l380">380</ref> ; v. <ref target="#l918">918</ref>.</xr>
         </entryFree>
         <entryFree xml:id="transport">
-          <form>* Transport</form>
+          <form> Transport</form>
           <def>« Trouble ou agitation de l’âme par la violence des passions » (Furetière)</def>
           <xr>V. <ref target="#l639">639</ref>.</xr>
         </entryFree>
         <entryFree>
-          <form>* Vulgaire</form>
+          <form> Vulgaire</form>
           <def xml:id="vulgaire1">Ordinaire, commun</def>
           <xr><ref target="#epitre">Épître</ref> ; v. <ref target="#l242">242</ref> ; v. <ref target="#l622">622</ref> ; v.<ref target="#l713">713</ref> ; v.<ref target="#l778">778</ref></xr>
           <def xml:id="vulgaire2">De manière commune</def>
@@ -4358,7 +4357,7 @@
         <sp who="amalthee">
           <speaker>Amalthee.</speaker>
           <p>Allons ma toute bonne, je vous suis.</p>
-          <p rend="center">FIN.</p>
+          <trailer rend="center">FIN.</trailer>
         </sp>
       </div>
       <div>
@@ -4432,7 +4431,7 @@
               <item>- <hi rend="sc">Cesar</hi>, Calendrier Électronique des Spectacles sous l’Ancien Régime : <ref target="http://cesar.org.uk/">http://cesar.org.uk</ref></item>
               <item>- <hi rend="sc">Gallica</hi>, Bibliothèque numérique de la BNF : <ref target="http://www.gallica.bnf.fr/">www.gallica.bnf.fr</ref></item>
               <item>- <hi rend="sc">Google Books</hi> : <ref target="http://www.books.google.fr/">www.books.google.fr</ref></item>
-              <item>- <hi rend="sc">Moliere</hi> 21 : <ref target="http://www.moliere.paris-sorbonne.fr/">www.moliere.paris-sorbonne.fr</ref></item>
+              <item>- <hi rend="sc">Moliere</hi> 21 : <ref target="http://moliere.huma-num.fr/">moliere.huma-num.fr</ref></item>
               <item>- <hi rend="sc">Théâtreclassique</hi> : <ref target="http://www.theatre-classique.fr/">www.theatre-classique.fr</ref></item>
             </list>
           </div>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="bibdramatique.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -26,11 +26,11 @@
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
         </availability>
-        <idno>http://bibdramatique.paris-sorbonne.fr/corneille-thomas_antiochus/</idno>
-        <idno type="tei">http://bibdramatique.paris-sorbonne.fr/corneille-thomas_antiochus.xml</idno>
-        <idno type="html">http://bibdramatique.paris-sorbonne.fr/corneille-thomas_antiochus.html</idno>
-        <idno type="text">http://bibdramatique.paris-sorbonne.fr/corneille-thomas_antiochus.txt</idno>
-        <idno type="epub">http://bibdramatique.paris-sorbonne.fr/corneille-thomas_antiochus.epub</idno>
+        <idno>http://bibdramatique.huma-num.fr/corneille-thomas_antiochus/</idno>
+        <idno type="tei">http://bibdramatique.huma-num.fr/corneille-thomas_antiochus.xml</idno>
+        <idno type="html">http://bibdramatique.huma-num.fr/corneille-thomas_antiochus.html</idno>
+        <idno type="text">http://bibdramatique.huma-num.fr/corneille-thomas_antiochus.txt</idno>
+        <idno type="epub">http://bibdramatique.huma-num.fr/corneille-thomas_antiochus.epub</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Thomas Corneille</author>. <title>Antiochus. Tragi-comédie</title>. A Rouen, Et se vend  A PARIS,  Chez LOUIS  BILLAINE,  au Palais  au second Pilier de la grand’ Salle, à la  Palme, &amp; au grand Cesar  M. DC. LXVI.  AVEC PRIVILEGE DU ROI.</bibl>
@@ -43,13 +43,12 @@
       <langUsage>
         <language ident="fre"/>
       </langUsage>
-      <textClass>
+    </profileDesc>
+    <textClass>
       <keywords>
         <term subtype="tragedy" type="genre">Tragi-comédie</term>
       </keywords>
     </textClass>
-    </profileDesc>
-    
   </teiHeader>
   <text>
     <front>
@@ -514,9 +513,9 @@
           <stage>ANTIOCHUS, TIGRANE.</stage>
           <sp xml:id="I01-1" who="antiochus">
             <speaker>ANTIOCHUS</speaker>
-            <l n="1" xml:id="l1">En vain à cét <ref target="#appast">appas*</ref><note n="53" place="bottom"><hi rend="b"><hi rend="i">Appas</hi></hi> : « se dit figurement en choses morales de ce qui sert à attrapper les hommes. » (F.)</note> vous voulez que je cede,</l>
+            <l n="1" xml:id="l1">En vain à cét <ref target="#appast">appas</ref><note n="53" place="bottom"><hi rend="b"><hi rend="i">Appas</hi></hi> : « se dit figurement en choses morales de ce qui sert à attrapper les hommes. » (F.)</note> vous voulez que je cede,</l>
             <l n="2" xml:id="l2">C’est redoubler mon mal que m’offrir ce remede,</l>
-            <l n="3" xml:id="l3">Et le croire l’effet d’un <ref target="#chagrin">chagrin*</ref> bien leger,</l>
+            <l n="3" xml:id="l3">Et le croire l’effet d’un <ref target="#chagrin">chagrin</ref> bien leger,</l>
             <l n="4" xml:id="l4">Si par l’éclat d’un Trône on peut le soulager.</l>
             <l n="5" xml:id="l5">Quoy qu’aux plus vertueux la Couronne soit chere,</l>
             <l n="6" xml:id="l6">J’aime à la voir briller sur la teste d’un Pere,</l>
@@ -529,7 +528,7 @@
             <l n="13" xml:id="l13">Non, non, l’avidité de cette independance</l>
             <l n="14" xml:id="l14">Ne m’en a point encor laissé voir l’esperance,</l>
             <l n="15" xml:id="l15">Et quoy qu’elle fust  juste au rang où je suis né,</l>
-            <l n="16" xml:id="l16">Je puis vivre <ref target="#content">content*</ref> sans estre couronné.</l>
+            <l n="16" xml:id="l16">Je puis vivre <ref target="#content">content</ref> sans estre couronné.</l>
           </sp>
           <sp xml:id="I01-2" who="tigrane">
             <speaker>TIGRANE</speaker>
@@ -553,7 +552,7 @@
           <sp xml:id="I01-3" who="antiochus">
             <speaker>ANTIOCHUS</speaker>
             <l n="33" xml:id="l33">L’éclat qui le suivroit n’a rien qui m’ebloüisse,</l>
-            <l n="34" xml:id="l34">Je sçay que Seleucus <ref target="#adorer">adore*</ref> Stratonice,</l>
+            <l n="34" xml:id="l34">Je sçay que Seleucus <ref target="#adorer">adore</ref> Stratonice,</l>
             <l n="35" xml:id="l35">Qu’il ne vit que pour elle, et que jamais l’Amour</l>
             <l n="36" xml:id="l36">Ne prit tant d’interest aux pompes<note n="57" place="bottom"><hi rend="b"><hi rend="i">Pompes</hi></hi> : « Dépense magnifique qu’on fait pour rendre quelque action plus recommandable, plus solemnelle, et plus éclatante…la pompe la plus surprenante qu’on ait jamais vûë est celle d’Antiochus surnommé le Splendide, qui est décrite par Polybe, et par Athénée. (F.)</note> d’un grand jour ;</l>
             <l n="37" xml:id="l37">Mais lors qu’il luy consacre une ardeur toute pure,</l>
@@ -572,19 +571,19 @@
             <l n="47" xml:id="l47">Et croit que plus d’éclat suit le don de sa foy</l>
             <l n="48" xml:id="l48">S’il lui soûmet en vous les hommages d’un Roy ;</l>
             <l n="49" xml:id="l49">Mais si de ce refus vous vous trouvez capable,</l>
-            <l n="50" xml:id="l50">C’est l’effet du <ref target="#chagrin">chagrin*</ref> dont l’excez vous accable.</l>
-            <l n="51" xml:id="l51">Déjà depuis long-temps une morne langueur*</l>
-            <l n="52" xml:id="l52">Estale dans vos yeux l’<ref target="#ennui">ennuy*</ref> de vostre cœur ;</l>
+            <l n="50" xml:id="l50">C’est l’effet du <ref target="#chagrin">chagrin</ref> dont l’excez vous accable.</l>
+            <l n="51" xml:id="l51">Déjà depuis long-temps une morne langueur</l>
+            <l n="52" xml:id="l52">Estale dans vos yeux l’<ref target="#ennui">ennuy</ref> de vostre cœur ;</l>
             <l n="53" xml:id="l53">Rien n’en sçauroit forcer l’abatement funeste,</l>
             <l n="54" xml:id="l54">La seule solitude est le bien qui vous reste,</l>
             <l n="55" xml:id="l55">Et tout ce que jamais la Cour eut de plus doux</l>
-            <l n="56" xml:id="l56">Semble n’estre que <ref target="#gesne">gesne*</ref>, et supplice pour vous.</l>
+            <l n="56" xml:id="l56">Semble n’estre que <ref target="#gesne">gesne</ref>, et supplice pour vous.</l>
             <l n="57" xml:id="l57">Chacun surpris de voir ce changement extréme…</l>
           </sp>
           <sp xml:id="I01-5" who="antiochus">
             <speaker>ANTIOCHUS</speaker>
-            <l n="58" xml:id="l58">Helas ! Tigrane, helas ! j’en suis surpris* moy-mesme,</l>
-            <l n="59" xml:id="l59">Et de ce noir <ref target="#chagrin">chagrin*</ref> les accez languissants</l>
+            <l n="58" xml:id="l58">Helas ! Tigrane, helas ! j’en suis surpris moy-mesme,</l>
+            <l n="59" xml:id="l59">Et de ce noir <ref target="#chagrin">chagrin</ref> les accez languissants</l>
             <l n="60" xml:id="l60">Accablent ma raison, et confondent mes sens.</l>
             <l n="61" xml:id="l61">En vain tout mon courage à leur trouble s’oppose,</l>
             <l n="62" xml:id="l62">Plus j’en ressents l’effet, moins j’en trouve la cause,</l>
@@ -598,11 +597,11 @@
           <sp xml:id="I01-7" who="antiochus">
             <speaker>ANTIOCHUS</speaker>
             <l n="66" xml:id="l66">Ouy, Tigrane, aujourd’huy croyez-en mon silence.</l>
-            <l n="67" xml:id="l67">Si quelque <ref target="#ennui">ennuy*</ref> secret me faisoit soûpirer,</l>
+            <l n="67" xml:id="l67">Si quelque <ref target="#ennui">ennuy</ref> secret me faisoit soûpirer,</l>
             <l n="68" xml:id="l68">Pourrois-je si long-temps vous le voir ignorer,</l>
             <l n="69" xml:id="l69">A vous dont l’amitié me fut toûjours si chere,</l>
             <l n="70" xml:id="l70">Qu’il n’est rien que la mienne ait encor pû vous taire ;</l>
-            <l n="71" xml:id="l71">A vous à qui l’Estat par vos <ref target="#soins">soins*</ref> conservé<pb n="4"/></l>
+            <l n="71" xml:id="l71">A vous à qui l’Estat par vos <ref target="#soins">soins</ref> conservé<pb n="4"/></l>
             <l n="72" xml:id="l72">Doit avec moy le jour<note n="60" place="bottom"><hi rend="b"><hi rend="i">Jour</hi></hi> : « Se dit  figurément de la vie […] les  amans disent sans cesse, qu’ils vont perdre le <hi rend="i">jour</hi>, pour dire, qu’ils vont mourir. (Fur.) </note> que vous m’avez sauvé ?</l>
           </sp>
           <sp xml:id="I01-8" who="tigrane">
@@ -626,25 +625,25 @@
             <l n="89" xml:id="l89">Et la pompe qui manque à l’Hymen d’une Reine,</l>
             <l n="90" xml:id="l90">C’est d’un mal inconnu la guerison certaine.</l>
             <l n="91" xml:id="l91">Le Roy qu’alarme en vous un sort trop rigoureux,</l>
-            <l n="92" xml:id="l92">Si vous n’estes <ref target="#content">content*</ref>, refuse  d’estre heureux,</l>
+            <l n="92" xml:id="l92">Si vous n’estes <ref target="#content">content</ref>, refuse  d’estre heureux,</l>
             <l n="93" xml:id="l93">Et comme un mesme jour également propice</l>
             <l n="94" xml:id="l94">Doit m’approchant du Trône y placer Stratonice,</l>
             <l n="95" xml:id="l95">Mes vœux les plus pressants en vain l’osent haster</l>
-            <l n="96" xml:id="l96">Quand vostre <ref target="#inquietude">inquietude*</ref> y semble resister</l>
+            <l n="96" xml:id="l96">Quand vostre <ref target="#inquietude">inquietude</ref> y semble resister</l>
           </sp>
           <sp xml:id="I01-9" who="antiochus">
             <speaker>ANTIOCHUS</speaker>
             <l n="97" xml:id="l97">Et c’est aussi par là que mon ame abatuë</l>
-            <l n="98" xml:id="l98">Se livre toute entiere au <ref target="#chagrin">chagrin*</ref> qui me tuë,</l>
+            <l n="98" xml:id="l98">Se livre toute entiere au <ref target="#chagrin">chagrin</ref> qui me tuë,</l>
             <l n="99" xml:id="l99">J’en souffre d’autant plus que le bonheur du Roy</l>
             <l n="100" xml:id="l100">Dépend de l’Hymen seul qu’il differe pour moy.</l>
             <l n="101" xml:id="l101">Puisqu’enfin jusques là sa bonté l’inquiete,<pb n="5"/></l>
             <l n="102" xml:id="l102">Voyez le pour luy faire agréer ma retraite.</l>
             <l n="103" xml:id="l103">Peut-estre un mois ou deux dans un autre sejour</l>
             <l n="104" xml:id="l104">Me rendront le repos que je pers à la Cour,</l>
-            <l n="105" xml:id="l105">Sa pompe m’embarasse, et mon <ref target="#inquietude">inquietude*</ref></l>
-            <l n="106" xml:id="l106">Pour calmer ses <ref target="#transport">transports*</ref> veut de la solitude,</l>
-            <l n="107" xml:id="l107">C’est un bien que vos <ref target="#soins">soins*</ref> me<note n="61" place="bottom"><hi rend="b"><hi rend="i">Me</hi></hi> : « Lorsqu’un verbe à un mode personnel en précedait un autre à l’infinitif sans préposition, l’ancienne langue considérait les deux verbes comme une seule expression et plaçait le pronom devant le premier. » (Haase §154)  </note> peuvent obtenir.</l>
+            <l n="105" xml:id="l105">Sa pompe m’embarasse, et mon <ref target="#inquietude">inquietude</ref></l>
+            <l n="106" xml:id="l106">Pour calmer ses <ref target="#transport">transports</ref> veut de la solitude,</l>
+            <l n="107" xml:id="l107">C’est un bien que vos <ref target="#soins">soins</ref> me<note n="61" place="bottom"><hi rend="b"><hi rend="i">Me</hi></hi> : « Lorsqu’un verbe à un mode personnel en précedait un autre à l’infinitif sans préposition, l’ancienne langue considérait les deux verbes comme une seule expression et plaçait le pronom devant le premier. » (Haase §154)  </note> peuvent obtenir.</l>
           </sp>
           <sp xml:id="I01-10" who="tigrane">
             <speaker>TIGRANE</speaker>
@@ -652,10 +651,10 @@
           </sp>
           <sp xml:id="I01-11" who="antiochus">
             <speaker>ANTIOCHUS</speaker>
-            <l n="109" xml:id="l109">Ce volontaire exil que mon <ref target="#chagrin">chagrin*</ref> m’impose</l>
+            <l n="109" xml:id="l109">Ce volontaire exil que mon <ref target="#chagrin">chagrin</ref> m’impose</l>
             <l n="110" xml:id="l110">A droit seul de calmer la peine qu’il me cause,</l>
             <l n="111" xml:id="l111">Icy tout m’importune, et le trouble où je suis</l>
-            <l n="112" xml:id="l112">Dans le bonheur d’autruy trouve un surcroist d’<ref target="#ennui">ennuis*</ref>;</l>
+            <l n="112" xml:id="l112">Dans le bonheur d’autruy trouve un surcroist d’<ref target="#ennui">ennuis</ref>;</l>
             <l n="113" xml:id="l113">Je m’en hay, mais mon cœur, quelques soins que j’emploie,</l>
             <l n="114" xml:id="l114">Repousse malgré moy tous les sujets de joie,</l>
             <l n="115" xml:id="l115">Je languis, je soûpire, et je ne sçay pourquoy ;</l>
@@ -685,10 +684,10 @@
           <sp xml:id="I02-1" who="antiochus">
             <speaker>ANTIOCHUS.</speaker>
             <l n="125" xml:id="l125">Suy le juste projet où l’honneur te convie,<pb n="6"/></l>
-            <l n="126" xml:id="l126">Fuy<note n="63" place="bottom"><hi rend="b"><hi rend="i">Fui</hi></hi> : « sui » dans l’édition de 1709.</note> de ces tristes* lieux, ou plustost de la vie,</l>
+            <l n="126" xml:id="l126">Fuy<note n="63" place="bottom"><hi rend="b"><hi rend="i">Fui</hi></hi> : « sui » dans l’édition de 1709.</note> de ces tristes lieux, ou plustost de la vie,</l>
             <l n="127" xml:id="l127">Ingrat Antiochus, et du moins par ta mort</l>
             <l n="128" xml:id="l128">Tâche de rachepter la honte de ton sort.</l>
-            <l n="129" xml:id="l129">Aussi-bien cét exil, où ton <ref target="#chagrin">chagrin*</ref> aspire,</l>
+            <l n="129" xml:id="l129">Aussi-bien cét exil, où ton <ref target="#chagrin">chagrin</ref> aspire,</l>
             <l n="130" xml:id="l130">De tes sens revoltez te rendra- t’il l’empire ?</l>
             <l n="131" xml:id="l131">Y  crois-tu de ta flame écouter moins  l’ardeur,</l>
             <l n="132" xml:id="l132">Et pour changer de lieux, changeras-tu de cœur ?</l>
@@ -712,13 +711,13 @@
             <l n="150" xml:id="l150">Ces Dieux semblent t’offrir un secours favorable,</l>
             <l n="151" xml:id="l151">Il nourrissoit ta flame, il en flatoit l’ardeur,<pb n="7"/></l>
             <l n="152" xml:id="l152">Ce qui charmoit tes yeux se gravoit dans ton cœur,</l>
-            <l n="153" xml:id="l153">Et lors qu’à mille <ref target="#soins">soins*</ref><note n="64" place="bottom"><hi rend="b"><hi rend="i">Soins</hi></hi>: « se dit aussi des soucis, des inquietudes qui émeuvent, qui troublent l’ame. » (F.)</note> ce Portrait te convie,</l>
+            <l n="153" xml:id="l153">Et lors qu’à mille <ref target="#soins">soins</ref><note n="64" place="bottom"><hi rend="b"><hi rend="i">Soins</hi></hi>: « se dit aussi des soucis, des inquietudes qui émeuvent, qui troublent l’ame. » (F.)</note> ce Portrait te convie,</l>
             <l n="154" xml:id="l154">Tu pers en le perdant le seul bien de ta vie.</l>
             <l n="155" xml:id="l155">Mais las<note n="65" place="bottom"><hi rend="b"><hi rend="i">Las</hi></hi> : « helas » (F.)</note> ! en  d’autres mains que sert qu’il soit passé,</l>
             <l n="156" xml:id="l156">Si de ce triste cœur  il n’est pas effacé ?</l>
-            <l n="157" xml:id="l157">J’y vois, j’y vois toûjours une <ref target="#adorer">adorable*</ref> Reine</l>
+            <l n="157" xml:id="l157">J’y vois, j’y vois toûjours une <ref target="#adorer">adorable</ref> Reine</l>
             <l n="158" xml:id="l158">Augmenter mon amour, et redoubler ma peine,</l>
-            <l n="159" xml:id="l159">J’observe avec plaisir ces merveilleux*  accords</l>
+            <l n="159" xml:id="l159">J’observe avec plaisir ces merveilleux  accords</l>
             <l n="160" xml:id="l160">Des charmes de l’esprit, et des graces du corps ;</l>
             <l n="161" xml:id="l161">Et sans cesse y trouvant mille sujets d’estime,</l>
             <l n="162" xml:id="l162">Cette mesme raison qui m’en faisoit un crime,</l>
@@ -755,13 +754,13 @@
             <speaker>STRATONICE</speaker>
             <l n="181" xml:id="l181">Si vous trouver par tout est pour vous un supplice,</l>
             <l n="182" xml:id="l182">Prince, resolvez-vous à vous rendre justice ;</l>
-            <l n="183" xml:id="l183">Et quoy que pour vos sens le <ref target="#chagrin">chagrin*</ref> ait d’<ref target="#appast">appas*</ref>,</l>
+            <l n="183" xml:id="l183">Et quoy que pour vos sens le <ref target="#chagrin">chagrin</ref> ait d’<ref target="#appast">appas</ref>,</l>
             <l n="184" xml:id="l184">Vous vous  consolerez de ne vous  perdre pas<note n="67" place="bottom"><hi rend="b"><hi rend="i">De ne vous perdre pas</hi></hi> :  Au XVII<hi rend="sup">e</hi> siècle « lorsqu’un pronom personnel construit avec ne pas, pas est préposé à l’infinitif, on place les mots dans l’ordre suivant :1°ne, 2°le pronom, 3°l’infinitif, 4°pas. » (Haase §126)</note>.</l>
           </sp>
           <sp xml:id="I03-4" who="antiochus">
             <speaker>ANTIOCHUS</speaker>
             <l n="185" xml:id="l185">C’est par où ma raison redouble ses alarmes,</l>
-            <l n="186" xml:id="l186">L’habitude au <ref target="#chagrin">chagrin*</ref> y fait trouver des <ref target="#charmes">charmes*</ref>,</l>
+            <l n="186" xml:id="l186">L’habitude au <ref target="#chagrin">chagrin</ref> y fait trouver des <ref target="#charmes">charmes</ref>,</l>
             <l n="187" xml:id="l187">Et j’apprehende bien de ne guerir jamais</l>
             <l n="188" xml:id="l188">D’un mal où malgré moy je sens que je me plais.</l>
           </sp>
@@ -792,7 +791,7 @@
           </sp>
           <sp xml:id="I03-8" who="antiochus">
             <speaker>ANTIOCHUS</speaker>
-            <l n="205" xml:id="l205">Triste, * confus, <ref target="#resver">resveur*</ref>, si ce mal peut me plaire,</l>
+            <l n="205" xml:id="l205">Triste,  confus, <ref target="#resver">resveur</ref>, si ce mal peut me plaire,</l>
             <l n="206" xml:id="l206">C’est sans  sçavoir pourquoy  la peine m’en est chere,</l>
             <l n="207" xml:id="l207">Et quand un pareil trouble embarasse l’esprit,</l>
             <l n="208" xml:id="l208">Qui sçait mal ce qu’il sent  sçait bien peu ce qu’il dit.</l>
@@ -843,7 +842,7 @@
             <speaker>ANTIOCHUS</speaker>
             <l n="231" xml:id="l231">Pourquoy de ce reproche affecter la rigueur ?</l>
             <l n="232" xml:id="l232">Ma bouche ne dit rien sans l’adveu de mon cœur,</l>
-            <l n="233" xml:id="l233">Et ce brillant amas de vertus et de <ref target="#charmes">charmes*</ref>…</l>
+            <l n="233" xml:id="l233">Et ce brillant amas de vertus et de <ref target="#charmes">charmes</ref>…</l>
             <l n="234" xml:id="l234">Madame, et de mon mal le Roy prend  trop d’alarmes,</l>
             <l n="235" xml:id="l235">Proposez ma retraite, et de grace, obtenez…</l>
           </sp>
@@ -870,7 +869,7 @@
             <l n="244" xml:id="l244">S’il rencontroit vos yeux, erroient de toutes parts,</l>
             <l n="245" xml:id="l245">Languissant, interdit, plein d’un desordre extréme,</l>
             <l n="246" xml:id="l246">Si j’osois m’expliquer, je dirois qu’il vous aime,</l>
-            <l n="247" xml:id="l247">Et que par tant d’<ref target="#appast">appas*</ref> s’estant laissé charmer…</l>
+            <l n="247" xml:id="l247">Et que par tant d’<ref target="#appast">appas</ref> s’estant laissé charmer…</l>
           </sp>
           <sp xml:id="I04-2" who="stratonice">
             <speaker>STRATONICE</speaker>
@@ -892,7 +891,7 @@
           </sp>
           <sp xml:id="I04-6" who="stratonice">
             <speaker>STRATONICE</speaker>
-            <l n="253" xml:id="l253">Que te peut dire une ame <ref target="#etonner">estonnée*</ref>, abatuë,</l>
+            <l n="253" xml:id="l253">Que te peut dire une ame <ref target="#etonner">estonnée</ref>, abatuë,</l>
             <l n="254" xml:id="l254">Qui dans ce qu’elle doit voit tout ce qui la tuë,</l>
             <l n="255" xml:id="l255">Et qui de son devoir redoublant les efforts,</l>
             <l n="256" xml:id="l256">Plustost que le trahir, souffrira mille morts ?</l>
@@ -907,7 +906,7 @@
             <l n="265" xml:id="l265">Tandis que Seleucus de retour en Syrie</l>
             <l n="266" xml:id="l266">Songe aux apprets d’un sort qui va m’oster la vie,</l>
             <l n="267" xml:id="l267">Le Prince Antiochus chez mon Pere à son tour</l>
-            <l n="268" xml:id="l268">En superbe appareil<note n="72" place="bottom"><hi rend="b"><hi rend="i">Appareil</hi></hi> : « Ce qu’on prepare pour faire une chose plus ou moins solomnelle : l’entrée du Roi après son mariage s’est faite avec beaucoup d’appareil et de magnificence. » (F.)</note> vient <ref target="#charmes">charmer*</ref> nostre cour.</l>
+            <l n="268" xml:id="l268">En superbe appareil<note n="72" place="bottom"><hi rend="b"><hi rend="i">Appareil</hi></hi> : « Ce qu’on prepare pour faire une chose plus ou moins solomnelle : l’entrée du Roi après son mariage s’est faite avec beaucoup d’appareil et de magnificence. » (F.)</note> vient <ref target="#charmes">charmer</ref> nostre cour.</l>
             <l n="269" xml:id="l269">Attendant qu’en ces lieux il doive me conduire,</l>
             <l n="270" xml:id="l270">Mon repos à le voir commence à se destruire,</l>
             <l n="271" xml:id="l271">L’air galant<note n="73" place="bottom"><hi rend="b"><hi rend="i">Galant</hi></hi> : Adj. « homme honneste, civil, se dit aussi d’un homme qui a l’air de la Cour, les manières agréables, qui tâche à plaire particulièrement au beau sexe. » (F.)</note>, l’ame noble, un courage élevé,</l>
@@ -934,7 +933,7 @@
             <l n="286" xml:id="l286">Dans l’ame qu’il attaque il prend intelligence,</l>
             <l n="287" xml:id="l287">Et de son feu secret l’industrieux pouvoir</l>
             <l n="288" xml:id="l288">S’acquiert des partisans qui l’y font recevoir.</l>
-            <l n="289" xml:id="l289">D’un tendre et doux panchant l’<ref target="#appast">appas*</ref> imperceptible<pb n="13"/></l>
+            <l n="289" xml:id="l289">D’un tendre et doux panchant l’<ref target="#appast">appas</ref> imperceptible<pb n="13"/></l>
             <l n="290" xml:id="l290">La dispose d’abord à se rendre sensible ;</l>
             <l n="291" xml:id="l291">Un peu d’émotion qui marque ce qu’elle est</l>
             <l n="292" xml:id="l292">Luy rend en vain suspect un trouble qui lui plaist,</l>
@@ -942,11 +941,11 @@
             <l n="294" xml:id="l294">Luy peignent aussi-tost ces douceurs innocentes,</l>
             <l n="295" xml:id="l295">Et des sens ebloüis par ce charme trompeur</l>
             <l n="296" xml:id="l296">La vertu qu’elle admire authorise l’erreur,</l>
-            <l n="297" xml:id="l297">Le cœur qu’en ont seduit les flateuses <ref target="#amorce">amorces*</ref></l>
+            <l n="297" xml:id="l297">Le cœur qu’en ont seduit les flateuses <ref target="#amorce">amorces</ref></l>
             <l n="298" xml:id="l298">Pour se vaincre en tout temps se répond de ses forces ;</l>
             <l n="299" xml:id="l299">Sur l’offre du secours que luy fait la raison</l>
             <l n="300" xml:id="l300">Il laisse agir sans crainte un si subtil poison,</l>
-            <l n="301" xml:id="l301">Il en aime l’<ref target="#appast">appas*</ref>, il le gouste, il luy cede,</l>
+            <l n="301" xml:id="l301">Il en aime l’<ref target="#appast">appas</ref>, il le gouste, il luy cede,</l>
             <l n="302" xml:id="l302">C’est assez qu’au besoin il en sçait le remede ;</l>
             <l n="303" xml:id="l303">Et quand le mal accreu  presse d’y recourir,</l>
             <l n="304" xml:id="l304">L’habitude est formée, on n’en peut plus guerir.</l>
@@ -992,7 +991,7 @@
             <l n="331" xml:id="l331">N’attend plus que demain pour voir selon ses vœux,</l>
             <l n="332" xml:id="l332">Et Stratonice au Trône, et Seleucus heureux :</l>
             <l n="333" xml:id="l333">Un seul trouble s’oppose au comble de ma joye,</l>
-            <l n="334" xml:id="l334">Toûjours à ses <ref target="#chagrin">chagrins*</ref> je voy le Prince en proye,</l>
+            <l n="334" xml:id="l334">Toûjours à ses <ref target="#chagrin">chagrins</ref> je voy le Prince en proye,</l>
             <l n="335" xml:id="l335">Et ne pouvant les vaincre, il tasche<note n="78" place="bottom"><hi rend="b"><hi rend="i">Tasche à</hi></hi> : « Les verbes <hi rend="i">tâcher essayer s’efforçer</hi> se construisent aujourd’hui généralement avec <hi rend="i">de</hi> devant un infinitif, tandis qu’ils s’employaient très souvent avec <hi rend="i">à</hi> au 17<hi rend="sup">e</hi> siècle. Thomas Corneille préfère tâcher de. » (Haase §124) Dans ce texte, l’auteur utilise tantôt <hi rend="i">tacher à</hi> tantôt <hi rend="i">tacher de</hi>.</note> obstinement</l>
             <l n="336" xml:id="l336">A m’arracher l’adveu de son éloignement.</l>
             <l n="337" xml:id="l337">J’ay sans doute à rougir dans l’amour qui m’enflame,</l>
@@ -1009,15 +1008,15 @@
             <l n="345" xml:id="l345">Quel que soit vostre amour, il me feroit injure,<pb n="15"/></l>
             <l n="346" xml:id="l346">Seigneur, s’il estoufoit la voix de la Nature,</l>
             <l n="347" xml:id="l347">Et vous avoit seduit jusqu’à vous détacher</l>
-            <l n="348" xml:id="l348">Des <ref target="#soins">soins*</ref> où vous oblige un interest si  cher.</l>
+            <l n="348" xml:id="l348">Des <ref target="#soins">soins</ref> où vous oblige un interest si  cher.</l>
             <l n="349" xml:id="l349">Jamais dans un destin à nos voeux si contraire</l>
             <l n="350" xml:id="l350">Pour un Fils plus illustre on  n’a veu craindre un Pere ;</l>
             <l n="351" xml:id="l351">Mais en vain nos souhaits hastent la guerison</l>
-            <l n="352" xml:id="l352">Des inquiets <ref target="#transport">transports*</ref> qui troublent sa raison.</l>
+            <l n="352" xml:id="l352">Des inquiets <ref target="#transport">transports</ref> qui troublent sa raison.</l>
             <l n="353" xml:id="l353">Tandis qu’aupres de vous vous voulez qu’on l’arréte<note n="79" place="bottom">Dans l’édition de 1709, nous trouvons au vers 359 : « Pour vous cacher le trouble où son malheur le jette . » </note>,</l>
             <l n="354" xml:id="l354">Il m’employe à vous faire agréer sa retraite,</l>
             <l n="355" xml:id="l355">Et l’éclat des apprets qu’étale vostre Cour,</l>
-            <l n="356" xml:id="l356">Blesse autant son <ref target="#chagrin">chagrin*</ref> qu’il flate vostre amour.</l>
+            <l n="356" xml:id="l356">Blesse autant son <ref target="#chagrin">chagrin</ref> qu’il flate vostre amour.</l>
           </sp>
           <sp xml:id="I05-3" who="seleucus">
             <speaker>SELEUCUS</speaker>
@@ -1051,9 +1050,9 @@
             <l n="377" xml:id="l377">Vos soins y peuvent tout, employez-les, de grace,</l>
             <l n="378" xml:id="l378">A détourner un sort dont l’horreur nous menace,</l>
             <l n="379" xml:id="l379">Et pour lire en<note n="81" place="bottom"><hi rend="b"><hi rend="i">En</hi></hi> : « […] en peut s’employer aussi pour dans. » (Haase §126)</note> son cœur malgré son noir destin,</l>
-            <l n="380" xml:id="l380">Contraignez-vous encor à flater son <ref target="#chagrin">chagrin*</ref>.</l>
+            <l n="380" xml:id="l380">Contraignez-vous encor à flater son <ref target="#chagrin">chagrin</ref>.</l>
             <l n="381" xml:id="l381">Quand vous le presserez<note n="82" place="bottom"><hi rend="b"><hi rend="i">Presserez</hi></hi> : « poursuivre vivement en combattant, ou en disputant sur des choses d’esprit. (F.) </note>, peut-estre aura-t’il peine</l>
-            <l n="382" xml:id="l382">A ne pas expliquer le trouble* qui le <ref target="#gesne">gesne*</ref> ;</l>
+            <l n="382" xml:id="l382">A ne pas expliquer le trouble qui le <ref target="#gesne">gesne</ref> ;</l>
             <l n="383" xml:id="l383">Sur tout, arrachez-luy ce dessein de partir,</l>
             <l n="384" xml:id="l384">Madame, c’est à quoy je ne puis consentir.</l>
             <l n="385" xml:id="l385">Tandis que vos bontes en rompront l’injustice,</l>
@@ -1061,7 +1060,7 @@
             <l n="387" xml:id="l387">Et par des vœux soûmis desarmant son couroux,</l>
             <l n="388" xml:id="l388">Luy demander pour luy  ce que j’attens de vous.</l>
           </sp>
-          <label>FIN DU PREMIER ACTE</label>
+          <trailer>FIN DU PREMIER ACTE</trailer>
         </div>
       </div>
       <div xml:id="II" type="act">
@@ -1072,12 +1071,12 @@
           <sp xml:id="II01-1" who="barsine">
             <speaker>BARSINE</speaker>
             <l n="389" xml:id="l389">Quoy, lors que sa langueur va jusques à l’extréme,<pb n="17"/></l>
-            <l n="390" xml:id="l390">Le trouble* qui la suit fait connoistre qu’il aime ?</l>
+            <l n="390" xml:id="l390">Le trouble qui la suit fait connoistre qu’il aime ?</l>
           </sp>
           <sp xml:id="II01-2" who="arsinoe">
             <speaker>ARSINOE</speaker>
             <l n="391" xml:id="l391">Oüy, Barsine, et le Prince a beau se déguiser,</l>
-            <l n="392" xml:id="l392">L’amour seul à ce trouble* a droit de l’exposer,</l>
+            <l n="392" xml:id="l392">L’amour seul à ce trouble a droit de l’exposer,</l>
             <l n="393" xml:id="l393">Dans son cœur malgré luy mes soupçons me font lire.</l>
           </sp>
           <sp xml:id="II01-3" who="barsine">
@@ -1163,7 +1162,7 @@
           </sp>
           <sp xml:id="II01-13" who="barsine">
             <speaker>BARSINE</speaker>
-            <l n="443" xml:id="l443">S’ils ne vous trompent point, la disgrace est <ref target="#touchante">touchante*</ref><note n="89" place="bottom"><hi rend="b"><hi rend="i">Touchante</hi></hi> : « qui touche le cœur, qui émeut. » (Acad.)</note>,</l>
+            <l n="443" xml:id="l443">S’ils ne vous trompent point, la disgrace est <ref target="#touchante">touchante</ref><note n="89" place="bottom"><hi rend="b"><hi rend="i">Touchante</hi></hi> : « qui touche le cœur, qui émeut. » (Acad.)</note>,</l>
             <l n="444" xml:id="l444">Car c’en est une enfin sous qui  trembler d’effroy</l>
             <l n="445" xml:id="l445">D’estre Rival  ensemble, et d’un Pere, et d’un Roy,</l>
             <l n="446" xml:id="l446">Mais d’un Roy qui d’ailleurs<note n="90" place="bottom"><hi rend="b"><hi rend="i">D’ailleurs</hi></hi> : « on notera qu’XVIIè siècle, le sens qu’offre le plus souvent  <hi rend="i">d’ailleurs</hi> correspond à  ce que nous exprimons dans la locution par ailleurs, dont le sens est voisin mais n’a pas la valeur logique qu’a prise de nos jours l’expression <hi rend="i">d’ailleurs</hi>. »  </note> adore Stratonice.</l>
@@ -1215,13 +1214,13 @@
           <sp xml:id="II02-2" who="antiochus">
             <speaker>ANTIOCHUS</speaker>
             <l n="475" xml:id="l475">Sa bonté l’a surpris quand il m’en a crû digne,</l>
-            <l n="476" xml:id="l476">Mais mon zele à ses <ref target="#soins">soins*</ref> auroit mal répondu</l>
+            <l n="476" xml:id="l476">Mais mon zele à ses <ref target="#soins">soins</ref> auroit mal répondu</l>
             <l n="477" xml:id="l477">Si j’avois accepté ce qui ne m’est pas deu,</l>
             <l n="478" xml:id="l478">Je suis né son Sujet, et fais gloire de l’estre.</l>
           </sp>
           <sp xml:id="II02-3" who="arsinoe">
             <speaker>ARSINOE</speaker>
-            <l n="479" xml:id="l479">Dites que de vos sens le <ref target="#chagrin">chagrin*</ref> est le maistre,<pb n="21"/></l>
+            <l n="479" xml:id="l479">Dites que de vos sens le <ref target="#chagrin">chagrin</ref> est le maistre,<pb n="21"/></l>
             <l n="480" xml:id="l480">Et que tout vostre cœur s’en laissant accabler,</l>
             <l n="481" xml:id="l481">Ce qui doit l’adoucir sert à le redoubler.</l>
           </sp>
@@ -1280,7 +1279,7 @@
             <speaker>ANTIOCHUS</speaker>
             <l part="F">Ah, c’est me faire outrage,</l>
             <l n="508" xml:id="l508">En me le confiant ne craignez rien pour luy,</l>
-            <l n="509" xml:id="l509">Et souffrez que sa veuë amuse mon <ref target="#ennui">ennuy*</ref>,</l>
+            <l n="509" xml:id="l509">Et souffrez que sa veuë amuse mon <ref target="#ennui">ennuy</ref>,</l>
             <l n="510" xml:id="l510">La Peinture eut toûjours dequoy me satisfaire.</l>
           </sp>
           <sp xml:id="II02-13" who="arsinoe">
@@ -1291,9 +1290,9 @@
             <l n="514" xml:id="l514" part="I">Les traits en sont hardis, et la main…</l>
           </sp>
           <sp xml:id="II02-14" who="antiochus">
-            <speaker>ANTIOCHUS <hi rend="i">l’empeschant d’ouvrir la boëte.</hi></speaker>
+            <speaker>ANTIOCHUS </speaker><stage>l’empeschant d’ouvrir la boëte.</stage>
             <l part="F">Non, Madame,</l>
-            <l n="515" xml:id="l515">Déja la <ref target="#resver">resverie*</ref> occupe trop mon ame,</l>
+            <l n="515" xml:id="l515">Déja la <ref target="#resver">resverie</ref> occupe trop mon ame,</l>
             <l n="516" xml:id="l516">Et du moins devant vous c’est à moy d’éviter</l>
             <l n="517" xml:id="l517">Tout ce que je prévoy qui pourroit l’augmenter,</l>
             <l n="518" xml:id="l518">Du Peintre en ce Portrait examinant l’adresse</l>
@@ -1327,7 +1326,7 @@
           <sp xml:id="II03-3" who="antiochus">
             <speaker>ANTIOCHUS</speaker>
             <l n="531" xml:id="l531">Il faut donc qu’en mes maux  sans cesse je m’abysme</l>
-            <l n="532" xml:id="l532">Que sans cesse une triste* et mortelle langueur*…</l>
+            <l n="532" xml:id="l532">Que sans cesse une triste et mortelle langueur…</l>
           </sp>
           <sp xml:id="II03-4" who="stratonice">
             <speaker>STRATONICE</speaker>
@@ -1339,7 +1338,7 @@
           <sp xml:id="II03-5" who="antiochus">
             <speaker>ANTIOCHUS</speaker>
             <l n="537" xml:id="l537">Ah, ce n’est pas par là qu’il m’en faut éloigner.</l>
-            <l n="538" xml:id="l538">S’il est rien dont l’<ref target="#appast">appas*</ref> ou me flate, ou m’attire,</l>
+            <l n="538" xml:id="l538">S’il est rien dont l’<ref target="#appast">appas</ref> ou me flate, ou m’attire,</l>
             <l n="539" xml:id="l539">C’est-là que je le vois, c’est là que je l’admire,</l>
             <l n="540" xml:id="l540">Et l’Univers entier n’a rien d’un si haut prix</l>
             <l n="541" xml:id="l541">Qui vaille les douceurs dont je m’y sens surpris ;</l>
@@ -1350,13 +1349,13 @@
           </sp>
           <sp xml:id="II03-6" who="stratonice">
             <speaker>STRATONICE</speaker>
-            <l n="546" xml:id="l546">Quoy ? toûjours ce <ref target="#chagrin">chagrin*</ref> sans m’en dire la cause ?</l>
+            <l n="546" xml:id="l546">Quoy ? toûjours ce <ref target="#chagrin">chagrin</ref> sans m’en dire la cause ?</l>
             <l n="547" xml:id="l547">J’avois creu que sur vous je pouvois quelque chose,</l>
             <l n="548" xml:id="l548" part="I">Mais…</l>
           </sp>
           <sp xml:id="II03-7" who="antiochus">
             <speaker>ANTIOCHUS</speaker>
-            <l part="F">Si dans ce pouvoir vous trouvez quelque <ref target="#appast">appas*</ref>,</l>
+            <l part="F">Si dans ce pouvoir vous trouvez quelque <ref target="#appast">appas</ref>,</l>
             <l n="549" xml:id="l549">Il ne va que trop loin, ne vous en plaignez pas.</l>
           </sp>
           <sp xml:id="II03-8" who="stratonice">
@@ -1371,7 +1370,7 @@
           </sp>
           <sp xml:id="II03-10" who="stratonice">
             <speaker>STRATONICE</speaker>
-            <l n="554" xml:id="l554">Quoy que pour un grand cœur la raison ait d’<ref target="#amorce">amorces*</ref>,</l>
+            <l n="554" xml:id="l554">Quoy que pour un grand cœur la raison ait d’<ref target="#amorce">amorces</ref>,</l>
             <l n="555" xml:id="l555">Où la passion regne elle reste sans forces,</l>
             <l n="556" xml:id="l556">Et sur tout ses conseils font  peu  d’impression</l>
             <l n="557" xml:id="l557">Quand le mal naist d’amour, ou vient d’ambition.</l>
@@ -1420,7 +1419,7 @@
             <l n="576" xml:id="l576">Et  que ma passion puisse prendre la loy</l>
             <l n="577" xml:id="l577">Du pouvoir absolu que vous avez sur moy.</l>
             <l n="578" xml:id="l578">Avec toute l’ardeur dont un cœur soit capable</l>
-            <l n="579" xml:id="l579">J’aime ce que jamais on vit de plus <ref target="#aimable">aimable*</ref>,</l>
+            <l n="579" xml:id="l579">J’aime ce que jamais on vit de plus <ref target="#aimable">aimable</ref>,</l>
             <l n="580" xml:id="l580">Et trouveray toûjours un sort bien moins amer</l>
             <l n="581" xml:id="l581">A mourir en aimant, qu’à vivre sans aimer.</l>
           </sp>
@@ -1515,7 +1514,7 @@
             <l n="633" xml:id="l633">Ce seroit un secret entre mon cœur et moy.</l>
             <l n="634" xml:id="l634">Puisqu’il faut expliquer pour qui ce cœur soûpire ,</l>
             <l n="635" xml:id="l635">Vous  mesme dites-vous  ce que je ne puis dire,</l>
-            <l n="636" xml:id="l636">Ce Portrait trop <ref target="#aimable">aimable*</ref>, et trop propre à charmer</l>
+            <l n="636" xml:id="l636">Ce Portrait trop <ref target="#aimable">aimable</ref>, et trop propre à charmer</l>
             <l n="637" xml:id="l637">Vous montrera l’Objet que je n’ose nommer.</l>
             <stage>Il luy donne le Portrait qu’il a receu d’Arsinoé.</stage>
           </sp>
@@ -1602,11 +1601,11 @@
           <sp xml:id="II04-1" who="tigrane">
             <speaker>TIGRANE</speaker>
             <l n="679" xml:id="l679">Pour adoucir les maux dont vostre cœur soupire,</l>
-            <l n="680" xml:id="l680">Seigneur, se pourroit-il que mon zéle et mes <ref target="#soins">soins*</ref>…</l>
+            <l n="680" xml:id="l680">Seigneur, se pourroit-il que mon zéle et mes <ref target="#soins">soins</ref>…</l>
           </sp>
           <sp xml:id="II04-2" who="antiochus">
             <speaker>ANTIOCHUS</speaker>
-            <l n="681" xml:id="l681">Mon <ref target="#chagrin">chagrin*</ref> pour <ref target="#resver">resver*</ref> ne veut point de témoins.</l>
+            <l n="681" xml:id="l681">Mon <ref target="#chagrin">chagrin</ref> pour <ref target="#resver">resver</ref> ne veut point de témoins.</l>
             <l n="682" xml:id="l682">Accordez ce relasche à mon ame abatuë.</l>
           </sp>
           <sp xml:id="II04-3" who="tigrane">
@@ -1633,7 +1632,7 @@
             <speaker>ANTIOCHUS</speaker>
             <l n="693" xml:id="l693">Voyons le Roy, Tigrane, et laissons faire au Sort.</l>
           </sp>
-          <label>FIN DU SECOND ACTE</label>
+          <trailer>FIN DU SECOND ACTE</trailer>
         </div>
       </div>
       <div xml:id="III" type="act">
@@ -1658,7 +1657,7 @@
             <l n="703" xml:id="l703">A l’exil qui m’est dû c’est par là que j’aspire,</l>
             <l n="704" xml:id="l704">Je rougis de troubler par mon fatal chagrin</l>
             <l n="705" xml:id="l705">Le triomphe éclatant de vostre heureux destin,</l>
-            <l n="706" xml:id="l706">Et pour vous épargner la <ref target="#gesne">gesne*</ref> où vous expose…</l>
+            <l n="706" xml:id="l706">Et pour vous épargner la <ref target="#gesne">gesne</ref> où vous expose…</l>
           </sp>
           <sp xml:id="III01-3" who="seleucus">
             <speaker>SELEUCUS</speaker>
@@ -1671,7 +1670,7 @@
           <sp xml:id="III02-1" who="seleucus">
             <speaker>SELEUCUS.</speaker>
             <l n="708" xml:id="l708">Qu’avez-vous  fait pour moy ? Vous avez veu mon Fils,<pb n="32" xml:id="p32"/></l>
-            <l n="709" xml:id="l709">Madame, et de vos <ref target="#soins">soins*</ref> je me suis tout promis,</l>
+            <l n="709" xml:id="l709">Madame, et de vos <ref target="#soins">soins</ref> je me suis tout promis,</l>
             <l n="710" xml:id="l710">Dans le trouble où l’engage un destin trop contraire</l>
             <l n="711" xml:id="l711">A-t’il pû  vous cacher ce qu’il aime à nous taire ?</l>
           </sp>
@@ -1685,7 +1684,7 @@
           </sp>
           <sp xml:id="III02-3" who="stratonice">
             <speaker>STRATONICE.</speaker>
-            <l n="717" xml:id="l717">A d’éternels <ref target="#ennui">ennuis*</ref> il se croit destiné,</l>
+            <l n="717" xml:id="l717">A d’éternels <ref target="#ennui">ennuis</ref> il se croit destiné,</l>
             <l n="718" xml:id="l718">Mais quel que soit le mal à qui sa raison cede,</l>
             <l n="719" xml:id="l719">Peut-estre est-il aisé d’en trouver le remede,</l>
             <l n="720" xml:id="l720">Et l’on n’ignore pas où l’on doit recourir</l>
@@ -1714,7 +1713,7 @@
             <l n="727" xml:id="l727">Voi qu’il n’est point de cœur que l’Amour ne surmonte,</l>
             <l n="728" xml:id="l728">Et pour authoriser celuy qui t’a surpris,</l>
             <l n="729" xml:id="l729">Songe que ton Pere aime avec des cheveux gris.</l>
-            <l n="730" xml:id="l730">Quelques brulants <ref target="#transport">transports*</ref> où cette ardeur t’entraine,</l>
+            <l n="730" xml:id="l730">Quelques brulants <ref target="#transport">transports</ref> où cette ardeur t’entraine,</l>
             <l n="731" xml:id="l731">Puis-je les condamner quand  j’adore la Reyne,</l>
             <l n="732" xml:id="l732">Et prefere en l’aimant la gloire de ses fers</l>
             <l n="733" xml:id="l733">A celle de me voir Maistre de l’Univers ?</l>
@@ -1725,7 +1724,7 @@
           </sp>
           <sp xml:id="III02-9" who="antiochus">
             <speaker>ANTIOCHUS.</speaker>
-            <l n="738" xml:id="l738">Seigneur, trop de bonté pour moy vous <ref target="#interesser">interesse*</ref>,</l>
+            <l n="738" xml:id="l738">Seigneur, trop de bonté pour moy vous <ref target="#interesser">interesse</ref>,</l>
             <l n="739" xml:id="l739">J’aime, en vain je voudrois vous cacher ma foiblesse,</l>
             <l n="740" xml:id="l740">On vous en a trop dit, mais enfin c’est du temps</l>
             <l n="741" xml:id="l741">Que dépend dans mes maux le secours que j’attens,</l>
@@ -1769,7 +1768,7 @@
             <l n="760" xml:id="l760">Seigneur, voyez pour qui son cœur est prevenu.</l>
           </sp>
           <sp xml:id="III02-16" who="antiochus">
-            <speaker>ANTIOCHUS <hi rend="i">pendant que Seleucus regarde le Portrait.</hi></speaker>
+            <speaker>ANTIOCHUS </speaker><stage>pendant que Seleucus regarde le Portrait.</stage>
             <l n="761" xml:id="l761">Enfin, l’on sçait mon crime, et tout vous est connu,</l>
             <l n="762" xml:id="l762">L’Astre qui m’en a fait un destin necessaire</l>
             <l n="763" xml:id="l763">Dérobe à mon respect la gloire de me taire,</l>
@@ -1803,7 +1802,7 @@
             <speaker>SELEUCUS.</speaker>
             <l part="F">Je sçais à quoy ton grand cœur te convie,</l>
             <l n="783" xml:id="l783">Tu dois tout à Tigrane, il t’a sauvé la vie,</l>
-            <l n="784" xml:id="l784">Mais le trouble où t’abysme un long et dur <ref target="#ennui">ennuy*</ref>,</l>
+            <l n="784" xml:id="l784">Mais le trouble où t’abysme un long et dur <ref target="#ennui">ennuy</ref>,</l>
             <l n="785" xml:id="l785">Quoi qu’il ait fait pour toy, te rend quite vers luy,</l>
             <l n="786" xml:id="l786">Tu n’as que trop payé ce fidelle service.</l>
           </sp>
@@ -1822,7 +1821,7 @@
           <head>SCENE  III</head>
           <stage>SELEUCUS, ANTIOCHUS, STRATONICE, TIGRANE, PHENICE, Suite.</stage>
           <sp xml:id="III03-1" who="seleucus">
-            <speaker>SELEUCUS <hi rend="i">à Tigrane.</hi></speaker>
+            <speaker>SELEUCUS </speaker><stage>à Tigrane.</stage>
             <l n="790" xml:id="l790">Pour arracher ton Prince au tourment qui l’accable,</l>
             <l n="791" xml:id="l791">D’un grand et rare effort sens-tu ton cœur capable ?</l>
           </sp>
@@ -1833,7 +1832,7 @@
           </sp>
           <sp xml:id="III03-3" who="seleucus">
             <speaker>SELEUCUS.</speaker>
-            <l part="F">Dans ses <ref target="#ennui">ennuys*</ref> on vient de penetrer,</l>
+            <l part="F">Dans ses <ref target="#ennui">ennuys</ref> on vient de penetrer,</l>
             <l n="794" xml:id="l794">Il en cachoit la cause avec un soin extréme,</l>
             <l n="795" xml:id="l795">Mais tout est éclaircy, te le diray-je ? Il aime,</l>
             <l n="796" xml:id="l796">Et son feu qu’au silence il a toûjours contraint,</l>
@@ -1873,7 +1872,7 @@
             <l n="814" xml:id="l814">D’un gage si charmant la garde est toûjours chere.</l>
           </sp>
           <sp xml:id="III03-9" who="antiochus">
-            <speaker>ANTIOCHUS <hi rend="i">regardant le Portrait.</hi></speaker>
+            <speaker>ANTIOCHUS </speaker><stage>regardant le Portrait.</stage>
             <l n="815" xml:id="l815">Confus, hors de moi-mesme, et contraint de me taire…<pb n="37" xml:id="p37"/></l>
           </sp>
           <sp xml:id="III03-10" who="seleucus">
@@ -1927,7 +1926,7 @@
             <l n="841" xml:id="l841">Eust esté pour me vaincre une assez forte loy.</l>
             <l n="842" xml:id="l842">Dans ces commencemens, quelque ardeur qui nous presse,</l>
             <l n="843" xml:id="l843">Des sens encor soûmis la raison est maistresse,</l>
-            <l n="844" xml:id="l844">Et contraint en naissant d’en estouffer l’<ref target="#appast">appas*</ref>,</l>
+            <l n="844" xml:id="l844">Et contraint en naissant d’en estouffer l’<ref target="#appast">appas</ref>,</l>
             <l n="845" xml:id="l845">Si le cœur en soûpire, il soûpire tout bas ;</l>
             <l n="846" xml:id="l846">Mais avant qu’éclater vous m’avez laissé prendre</l>
             <l n="847" xml:id="l847">Tout l’espoir qu’un beau feu puisse jamais attendre,</l>
@@ -1970,7 +1969,7 @@
             <l n="878" xml:id="l878">Mais plus vous me cedez, moins ce bien me demeure,</l>
             <l n="879" xml:id="l879">Quand vous voulez mourir, l’honneur veut que je meure,</l>
             <l n="880" xml:id="l880">Et meure au desespoir d’estre encor vers le Roy</l>
-            <l n="881" xml:id="l881">Coupable des <ref target="#ennui">ennuys*</ref> que vous souffrez pour moy.</l>
+            <l n="881" xml:id="l881">Coupable des <ref target="#ennui">ennuys</ref> que vous souffrez pour moy.</l>
           </sp>
           <sp xml:id="III04-6" who="antiochus">
             <speaker>ANTIOCHUS.</speaker>
@@ -2017,7 +2016,7 @@
           </sp>
           <sp xml:id="III04-13" who="tigrane">
             <speaker>TIGRANE.</speaker>
-            <l n="902" xml:id="l902">Je le conçois, Seigneur, mon desespoir vous <ref target="#gesne">gesne*</ref>,</l>
+            <l n="902" xml:id="l902">Je le conçois, Seigneur, mon desespoir vous <ref target="#gesne">gesne</ref>,</l>
             <l n="903" xml:id="l903">Vous m’en montrez l’exemple, il faut ceder sans peine,</l>
             <l n="904" xml:id="l904">S’applaudir en donnant ce qu’on a de plus cher,</l>
             <l n="905" xml:id="l905">Et démentir l’amour qu’on ne peut s’arracher.</l>
@@ -2059,10 +2058,10 @@
             <l n="925" xml:id="l925">Est l’effet de l’estat où vous l’avez reduit.</l>
           </sp>
           <sp xml:id="III05-4" who="arsinoe">
-            <speaker>ARSINOE <hi rend="i">à Antiochus.</hi></speaker>
+            <speaker>ARSINOE </speaker><stage>à Antiochus.</stage>
             <l n="926" xml:id="l926">Sous quelque dur soupçon que Tigrane languisse,</l>
             <l n="927" xml:id="l927">Je me connoy, Seigneur, et je vous rends justice,</l>
-            <l n="928" xml:id="l928">Ce qui le fait trembler <ref target="#etonner">étonne*</ref> peu ma <ref target="#foy">foy*</ref> ;</l>
+            <l n="928" xml:id="l928">Ce qui le fait trembler <ref target="#etonner">étonne</ref> peu ma <ref target="#foy">foy</ref> ;</l>
             <l n="929" xml:id="l929">Mais encor une fois qu’avez-vous dit au Roy ?</l>
             <l n="930" xml:id="l930">Luy deviens-je suspecte, et m’avez-vous nommée ?</l>
           </sp>
@@ -2104,7 +2103,7 @@
           </sp>
           <sp xml:id="III05-11" who="antiochus">
             <speaker>ANTIOCHUS.</speaker>
-            <l n="946" xml:id="l946">Ses <ref target="#transport">transports*</ref> iront loin si vostre amour n’arreste<note n="104" place="bottom">« Ses transports iront loin si vous luy laissez suivre » dans l’édition de 1702.</note></l>
+            <l n="946" xml:id="l946">Ses <ref target="#transport">transports</ref> iront loin si vostre amour n’arreste<note n="104" place="bottom">« Ses transports iront loin si vous luy laissez suivre » dans l’édition de 1702.</note></l>
             <l n="947" xml:id="l947">L’injuste desespoir où ce Portrait le jette,<note n="105" place="bottom">« L’injuste desespoir où ce Portrait le livre » dans l’édition de 1702. </note></l>
             <l n="948" xml:id="l948">Il est vray qu’on l’a veu, mais sans trop s’alarmer,</l>
             <l n="949" xml:id="l949" part="I">Qu’il attende…</l>
@@ -2213,7 +2212,7 @@
             <l part="F">Adieu, gardez toûjours ma foy,</l>
             <l n="989" xml:id="l989">Je vous en diray plus quand j’auray veu le Roi .</l>
           </sp>
-          <label>Fin du troisiéme Acte.</label>
+          <trailer>Fin du troisiéme Acte.</trailer>
         </div>
       </div>
       <div xml:id="IV" type="act">
@@ -2238,10 +2237,10 @@
             <l n="1003" xml:id="l1003">Voy donc avec mépris tout ce qu’eut d’estimable</l>
             <l n="1004" xml:id="l1004">Ce prince qui sur toi prenoit trop de pouvoir ;</l>
             <l n="1005" xml:id="l1005">Mais d’un pareil effort est-on si-tost capable,</l>
-            <l n="1006" xml:id="l1006">Et pour cesser d’aimer ce que l’on trouve <ref target="#aimable">aimable*</ref>,</l>
+            <l n="1006" xml:id="l1006">Et pour cesser d’aimer ce que l’on trouve <ref target="#aimable">aimable</ref>,</l>
             <l n="1007" xml:id="l1007">Helas ! N’a-t’on qu’à le vouloir ?</l>
             <l n="1008" xml:id="l1008">Je sçay que le dépit qu’un autre Objet l’emporte<pb n="46" xml:id="p46"/></l>
-            <l n="1009" xml:id="l1009">Semble jusqu’à la hayne attirer tous nos <ref target="#soins">soins*</ref>,</l>
+            <l n="1009" xml:id="l1009">Semble jusqu’à la hayne attirer tous nos <ref target="#soins">soins</ref>,</l>
             <l n="1010" xml:id="l1010">Qu’à nos yeux la plus rude<note n="109" place="bottom"> il s’agit ici de la plus rude  « haine ». </note> à peine est assez forte ;</l>
             <l n="1011" xml:id="l1011">Mais pour vouloir haïr on n’en aime pas moins.</l>
             <l n="1012" xml:id="l1012">L’ardeur de se vanger par là de ce qu’on aime</l>
@@ -2255,10 +2254,10 @@
             <l n="1020" xml:id="l1020">Ne fait que l’assoupir pour mieux se rallumer .</l>
             <l n="1021" xml:id="l1021">La seule indifference est la marque certaine</l>
             <l n="1022" xml:id="l1022">D’un cœur que la raison ou soulage, ou guerit,</l>
-            <l n="1023" xml:id="l1023">Et loin que les <ref target="#transport">transports*</ref> de colere et de hayne</l>
+            <l n="1023" xml:id="l1023">Et loin que les <ref target="#transport">transports</ref> de colere et de hayne</l>
             <l n="1024" xml:id="l1024">De ce cœur indigné puissent calmer la peine,</l>
             <l n="1025" xml:id="l1025">C’est dequoy l’amour se nourrit.</l>
-            <l n="1026" xml:id="l1026">Cependant quand l’Hymen <ref target="#etonner">étonne*</ref> ta constance,</l>
+            <l n="1026" xml:id="l1026">Cependant quand l’Hymen <ref target="#etonner">étonne</ref> ta constance,</l>
             <l n="1027" xml:id="l1027">Que ta lâche vertu fremit de ton devoir,</l>
             <l n="1028" xml:id="l1028">T’oseras-tu vanter de cette indifference</l>
             <l n="1029" xml:id="l1029">Qui fait seule acquerir ce que tu crois vouloir ?</l>
@@ -2402,7 +2401,7 @@
             <speaker>TIGRANE.</speaker>
             <l n="1123" xml:id="l1123">Madame, le Destin m’est d’autant plus contraire</l>
             <l n="1124" xml:id="l1124">Qu’au moment qu’il m’accable il consent que j’espere,</l>
-            <l n="1125" xml:id="l1125">Et par de faux <ref target="#appast">appas*</ref> ébloüissant ma foy</l>
+            <l n="1125" xml:id="l1125">Et par de faux <ref target="#appast">appas</ref> ébloüissant ma foy</l>
             <l n="1126" xml:id="l1126">Me force d’appuyer ce qu’il fait contre moy.</l>
             <l n="1127" xml:id="l1127">Antiochus renonce à m’oster ce que j’aime,</l>
             <l n="1128" xml:id="l1128">D’Arsinoé pour moy la constance est extréme,</l>
@@ -2434,7 +2433,7 @@
           </sp>
           <sp xml:id="IV03-5" who="stratonice">
             <speaker>STRATONICE.</speaker>
-            <l n="1147" xml:id="l1147">Je voy ce qui vous <ref target="#gesne">gesne*</ref>, une amitié si pure</l>
+            <l n="1147" xml:id="l1147">Je voy ce qui vous <ref target="#gesne">gesne</ref>, une amitié si pure</l>
             <l n="1148" xml:id="l1148">Vous force à refuser ce qu’elle vous asseure ;</l>
             <l n="1149" xml:id="l1149">Mais au moins vostre amour dans ce revers  fatal</l>
             <l n="1150" xml:id="l1150">N’a point à redouter le bonheur d’un Rival,</l>
@@ -2662,7 +2661,7 @@
             <l n="1265" xml:id="l1265">Mais si le charme en plut à mes sens alarmez</l>
             <l n="1266" xml:id="l1266">Il se rend plus sensible à voir que vous m’aimez,</l>
             <l n="1267" xml:id="l1267">Malgré moy je succombe à ce qu’il a d’amorce,</l>
-            <l n="1268" xml:id="l1268">J’aime l’<ref target="#appast">appas*</ref> flateur dont le pouvoir m’y force,</l>
+            <l n="1268" xml:id="l1268">J’aime l’<ref target="#appast">appas</ref> flateur dont le pouvoir m’y force,</l>
             <l n="1269" xml:id="l1269">Et quand je vous estime, un sentiment confus</l>
             <l n="1270" xml:id="l1270">M’engage à soûpirer de n’oser rien de plus.</l>
             <l n="1271" xml:id="l1271">Allez, Prince, et daignez m’epargner une veuë</l>
@@ -2696,7 +2695,7 @@
           </sp>
           <sp xml:id="IV04-34" who="antiochus">
             <speaker>ANTIOCHUS.</speaker>
-            <l n="1287" xml:id="l1287">Ainsi, quelques <ref target="#ennui">ennuis*</ref> que j’aye encor à craindre,<pb n="57" xml:id="p57"/></l>
+            <l n="1287" xml:id="l1287">Ainsi, quelques <ref target="#ennui">ennuis</ref> que j’aye encor à craindre,<pb n="57" xml:id="p57"/></l>
             <l n="1288" xml:id="l1288">Vous n’aurez qu’à vouloir pour cesser de m’en plaindre ?</l>
             <l n="1289" xml:id="l1289">Vostre cœur aussi-tost se rendant tout à soy…</l>
           </sp>
@@ -2829,7 +2828,7 @@
             <l n="1357" xml:id="l1357">Voir à quoi l’on aspire, et sur l’ordre du Roy</l>
             <l n="1358" xml:id="l1358">Regler et ma réponse, et ce que je vous doy.</l>
           </sp>
-          <label>Fin du quatriéme acte.</label>
+          <trailer>Fin du quatriéme acte.</trailer>
         </div>
       </div>
       <div xml:id="V" type="act">
@@ -2888,7 +2887,7 @@
             <l n="1393" xml:id="l1393">Pour étouffer sa flame il n’est rien qu’il n’ait fait,</l>
             <l n="1394" xml:id="l1394">La langueur qui le tuë en est le triste effet.</l>
             <l n="1395" xml:id="l1395">Tout à l’heure en mes bras pasmé,<note n="123" place="bottom"><hi rend="i">Pasmé</hi> : « v. neutre qui se dit ordinairement avec le pronom personnel. Tomber en deffaillance, perdre l’usage des sens : ce qui arrive lorsque l’agitation ; et le mouvement des esprits est arrêté par quelque cause, ou passion violente et subite. » (F.)</note> plein de foiblesse,</l>
-            <l n="1396" xml:id="l1396">Chacun l’a veu ceder à l’<ref target="#ennui">ennuy*</ref> qui le presse,</l>
+            <l n="1396" xml:id="l1396">Chacun l’a veu ceder à l’<ref target="#ennui">ennuy</ref> qui le presse,</l>
             <l n="1397" xml:id="l1397">On craint tout pour sa vie, et contre vostre Roy…</l>
           </sp>
           <sp xml:id="V01-6" who="arsinoe">
@@ -2988,7 +2987,7 @@
           <sp xml:id="V01-18" who="arsinoe">
             <speaker>ARSINOE</speaker>
             <l part="F">Et quoy, Seigneur ? Vous promettez sans peine,</l>
-            <l n="1456" xml:id="l1456">Et quand il faut agir, l’engagement vous <ref target="#gesne">gesne*</ref>.<pb n="65" xml:id="p65"/></l>
+            <l n="1456" xml:id="l1456">Et quand il faut agir, l’engagement vous <ref target="#gesne">gesne</ref>.<pb n="65" xml:id="p65"/></l>
           </sp>
           <sp xml:id="V01-19" who="seleucus">
             <speaker>SELEUCUS.</speaker>
@@ -3017,7 +3016,7 @@
             <l n="1470" xml:id="l1470">Ce que de cét amour il vous plaist de sçavoir,</l>
             <l n="1471" xml:id="l1471">Je vous laisse en resoudre, et pour plus d’asseurance</l>
             <l n="1472" xml:id="l1472">Que le Prince pour moy n’a rien de ce qu’on pense,</l>
-            <l n="1473" xml:id="l1473">Quoy que sur ses <ref target="#ennui">ennuys*</ref> on vueille m’imputer,</l>
+            <l n="1473" xml:id="l1473">Quoy que sur ses <ref target="#ennui">ennuys</ref> on vueille m’imputer,</l>
             <l n="1474" xml:id="l1474">J’abandonne ma main s’il la veut accepter.</l>
             <l n="1475" xml:id="l1475">Promettez-la, Seigneur, c’est sans trahir Tigrane</l>
             <l n="1476" xml:id="l1476">Qu’à cét effort pour vous mon devoir me condamne ;</l>
@@ -3034,14 +3033,14 @@
             <l n="1481" xml:id="l1481">Et la tremblante horreur sous qui mon cœur gemit,</l>
             <l n="1482" xml:id="l1482">Sans qu’on m’explique rien, ne m’en a que trop dit.</l>
             <l n="1483" xml:id="l1483">Et bien, Roy malheureux, qu’un excez de tendresse</l>
-            <l n="1484" xml:id="l1484">Dans le sort de ton Fils en aveugle <ref target="#interesser">interesse*</ref>,<note n="129" place="bottom">Interesse : « Se dit aussi en Morale de l’émotion des passions. (Fur.)</note></l>
+            <l n="1484" xml:id="l1484">Dans le sort de ton Fils en aveugle <ref target="#interesser">interesse</ref>,<note n="129" place="bottom">Interesse : « Se dit aussi en Morale de l’émotion des passions. (Fur.)</note></l>
             <l n="1485" xml:id="l1485">La cause de ses maux te rendoit inquiet,</l>
             <l n="1486" xml:id="l1486">Tu la voulois sçavoir, te voyla satisfait.</l>
             <l n="1487" xml:id="l1487">Un feu pareil au tien l’attache à Stratonice,</l>
             <l n="1488" xml:id="l1488">Ton bonheur fait sa mort, le sien fait ton supplice,</l>
             <l n="1489" xml:id="l1489">Et quoy que sa vertu triomphe du desir,</l>
             <l n="1490" xml:id="l1490">Il meurt si tu ne meurs, c’est à toy de choisir.</l>
-            <l n="1491" xml:id="l1491">Quoy ? Le flateur <ref target="#appast">appas*</ref> de ce feu temeraire</l>
+            <l n="1491" xml:id="l1491">Quoy ? Le flateur <ref target="#appast">appas</ref> de ce feu temeraire</l>
             <l n="1492" xml:id="l1492">Luy peut-il donner droit d’estre Rival d’un Pere,</l>
             <l n="1493" xml:id="l1493">Et voyant à quel point on m’avoit sçeu charmer,</l>
             <l n="1494" xml:id="l1494">N’a-t’il pas dû, l’ingrat, se defendre d’aimer,</l>
@@ -3058,7 +3057,7 @@
             <l n="1505" xml:id="l1505">Ce fils pour adorer ce qui surprit ta foy</l>
             <l n="1506" xml:id="l1506">N’avoit-il pas un cœur et des yeux comme toy ?</l>
             <l n="1507" xml:id="l1507">Mais pourquoy rappeller dans mon ame insensée<pb n="67" xml:id="p67"/></l>
-            <l n="1508" xml:id="l1508">Le penetrant <ref target="#appast">appas*</ref> des traits qui l’ont blessée ?</l>
+            <l n="1508" xml:id="l1508">Le penetrant <ref target="#appast">appas</ref> des traits qui l’ont blessée ?</l>
             <l n="1509" xml:id="l1509">Pour soustenir tes vœux par les siens traversez</l>
             <l n="1510" xml:id="l1510">Crains-tu, lâche, crains-tu de n’aimer point assez ?</l>
             <l n="1511" xml:id="l1511">Songe, songe plustost que sous le poids de l’âge</l>
@@ -3145,7 +3144,7 @@
             <l n="1562" xml:id="l1562">Ce scrupule de gloire où je vous voy ceder,</l>
             <l n="1563" xml:id="l1563">C’est luy qu’il en faut croire, il connoit seul vostre ame,</l>
             <l n="1564" xml:id="l1564">Mais apres tout l’éclat qu’a cherché vostre flame,</l>
-            <l n="1565" xml:id="l1565">Croiray-je qu’à vos yeux la Reyne moins <ref target="#aimable">aimable*</ref> …</l>
+            <l n="1565" xml:id="l1565">Croiray-je qu’à vos yeux la Reyne moins <ref target="#aimable">aimable</ref> …</l>
           </sp>
           <sp xml:id="V03-9" who="seleucus">
             <speaker>SELEUCUS.</speaker>
@@ -3289,7 +3288,7 @@
             <speaker>STRATONICE.</speaker>
             <l n="1629" xml:id="l1629">Seigneur, Tigrane a crû devoir encor par moy</l>
             <l n="1630" xml:id="l1630">Vous donner aujourd’huy  des preuves de sa foy,</l>
-            <l n="1631" xml:id="l1631">Et malgré les <ref target="#ennui">ennuys*</ref> dont la rigueur le presse,</l>
+            <l n="1631" xml:id="l1631">Et malgré les <ref target="#ennui">ennuys</ref> dont la rigueur le presse,</l>
             <l n="1632" xml:id="l1632">Il vient vous asseurer que si de la Princesse</l>
             <l n="1633" xml:id="l1633">Vos souhaits dés l’abord ne peuvent obtenir…</l>
           </sp>
@@ -3337,7 +3336,7 @@
           <sp xml:id="V04-8" who="antiochus">
             <speaker>ANTIOCHUS.</speaker>
             <l n="1655" xml:id="l1655">A ce que veut le Roy gardez-vous de souscrire,</l>
-            <l n="1656" xml:id="l1656">Pour moy de sa tendresse il croit trop les <ref target="#appast">appas*</ref>,</l>
+            <l n="1656" xml:id="l1656">Pour moy de sa tendresse il croit trop les <ref target="#appast">appas</ref>,</l>
             <l n="1657" xml:id="l1657" part="I">Madame, il vous adore.</l>
           </sp>
           <sp xml:id="V04-9" who="seleucus">
@@ -3400,7 +3399,7 @@
             <l n="1678" xml:id="l1678">Des jours qu’il m’a sauvez est-la récompense ?</l>
           </sp>
           <sp xml:id="V05-5" who="arsinoe">
-            <speaker>ARSINOE <hi rend="i">donnant au Roy le Portrait de Stratonice.</hi></speaker>
+            <speaker>ARSINOE </speaker><stage>donnant au Roy le Portrait de Stratonice.</stage>
             <l n="1679" xml:id="l1679">Ce Portrait confondra son obstiné silence,</l>
             <l n="1680" xml:id="l1680">L’ayant trouvé, Seigneur, sans qu’il en ait sçeu rien.</l>
             <l n="1681" xml:id="l1681">Pour lire dans son cœur j’ay supposé<note n="133" place="bottom"><hi rend="i">Supposer</hi> : « Tenir une chose pour vraye, ou la feindre telle, pour en tirer des  conséquences. Signifie aussi, mettre une chose à la place d’une autre par fraude et tromperie. (Fur.) </note>  le mien,</l>
@@ -3468,7 +3467,7 @@
             <l n="1707" xml:id="l1707">Tigrane de l’espoir goustera mieux les charmes,</l>
             <l n="1708" xml:id="l1708">S’y rendra tout entier ; attendant l’heureux jour</l>
             <l n="1709" xml:id="l1709">Qui remplissant ses vœux, couronne vostre amour.</l>
-            <label>FIN.</label>
+            <trailer>FIN.</trailer>
           </sp>
         </div>
       </div>
