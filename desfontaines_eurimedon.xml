@@ -895,7 +895,7 @@
             <roleDesc>Page de Tygrane.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est en l’Isle de Lesbos.</stage>
+        <set>La Scene est en l’Isle de Lesbos.</set>
       </div>
       <div type="act" xml:id="I">
         <pb n="A ; 1"/>

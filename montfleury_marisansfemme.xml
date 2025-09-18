@@ -413,7 +413,7 @@
             <role xml:id="suite">SUITE de Turcs<note place="bottom">« Peuples de la Turquie [...]. <hi rend="sc">Turquie</hi>, ou empire du Turc, comprend plusieurs provinces dans l’Europe, dans l’Asie &amp; dans l’Afrique. Il est un des souverains qui possédent le plus de terre. On remarque que du levant au couchant, depuis Belis de la Gomere ou de l’extrémité occidentale du royaume d’Alger, qui lui est tributaire, jusqu’à Balsor, qui est au bout du golfe Persique, il regne sur un espace de huit cents lieues pour le moins. [...] Les états de Tunis, d’Alger &amp; de Tripoli sont sous sa protection. » <hi rend="sc">L. Moreri</hi>, <hi rend="i">Le grand dictionnaire historique ou Le mélange curieux de l’histoire sacrée et profane</hi>, Paris, Libraires Associés, 1759 (10 vol.).</note>.</role>
           </castItem>
         </castList>
-        <stage>La scène est dans Alger<note place="bottom">« Capitale du royaume de ce nom [...]. L’on compte environ cent milles habitans dans Alger, entre lesquels sont douze mille soldats Turcs, un grand nombre d’esclaves Maures ou chrétiens, &amp; plus de cinq mille familles Juives. » <hi rend="sc">L. Moreri</hi>, <hi rend="i">op. cit.</hi></note>.</stage><pb n="Mij"/>
+        <set>La scène est dans Alger<note place="bottom">« Capitale du royaume de ce nom [...]. L’on compte environ cent milles habitans dans Alger, entre lesquels sont douze mille soldats Turcs, un grand nombre d’esclaves Maures ou chrétiens, &amp; plus de cinq mille familles Juives. » <hi rend="sc">L. Moreri</hi>, <hi rend="i">op. cit.</hi></note>.</set><pb n="Mij"/>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE PREMIER.</head>

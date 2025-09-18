@@ -961,7 +961,7 @@
             <role xml:id="gentil-homme">GENTIL-HOMME de Chambre de Torrismon.</role>
           </castItem>
           </castList>
-          <stage>La Scene est en Arane ville principale des Goths.</stage>
+          <set>La Scene est en Arane ville principale des Goths.</set>
         </div>
         <div type="act">
           <pb n="A ; 1" xml:id="p1"/>
@@ -1568,8 +1568,7 @@
           <head>ACTE II.</head>
           <div type="scene">
             <head>SCENE I.</head>
-            <stage>GENTIL-HOMME de la part de Germon.</stage>
-            <stage>TORRISMON.</stage>
+            <stage>GENTIL-HOMME de la part de Germon. TORRISMON.</stage>
             <sp who="gentilhomme">
               <speaker>GENTILHOMME.</speaker>
               <l n="475" xml:id="l475">Grand Roy dont la valeur à nulle autre ne cede,</l>
@@ -3485,8 +3484,7 @@
           </div>
           <div type="scene">
             <head>SCENE  V.</head><pb n="O ; 105" xml:id="p105"/>
-            <stage>TORRISMON survenant.</stage>
-            <stage>ALVIDE. GENTIL-HOMME de chambre.</stage>
+            <stage>TORRISMON survenant. ALVIDE. GENTIL-HOMME de chambre.</stage>
             <sp who="torrismon">
               <speaker>TORRISMON.</speaker>
               <l n="1687" xml:id="l1687">ALVIDE qu’est-ce cy ? quel penser ? quelle rage</l>
@@ -3808,7 +3806,7 @@
               <l n="1874" xml:id="l1874">J’eusse innocente encor rencontré mon tombeau.</l>
             </sp>
             <sp who="rusille">
-              <speaker>RUSILLE </speaker><stage>revenant de </stage>
+              <speaker>RUSILLE </speaker><stage>revenant de <ref target="#pamoison">pasmoison</ref>.</stage>
               <l n="1875" xml:id="l1875">Qui me retient en vie ? ah vieillesse importune,</l>
               <l n="1876" xml:id="l1876">Dois-je encor respirer apres cette infortune ?</l>
               <l n="1877" xml:id="l1877">A quoy doresnavant me reserve le Sort</l>

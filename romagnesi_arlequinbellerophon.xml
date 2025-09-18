@@ -670,9 +670,7 @@
         </div>
         <div type="scene" xml:id="I11">
           <head>SCENE XI</head>
-          <stage>Le Théâtre représente le Temple d’Apollon</stage>
-          <stage>LE SACRIFICATEUR, LES MINISTRES dansans,</stage>
-          <stage>DEUX PRETRESSES, LE ROY, les susdits.</stage>
+          <stage>Le Théâtre représente le Temple d’Apollon LE SACRIFICATEUR, LES MINISTRES dansans, DEUX PRETRESSES, LE ROY, les susdits.</stage>
           <sp xml:id="I11-1" who="peuple">
             <speaker>Chœur de Peuple</speaker>
             <p>Air 97. <hi rend="i">Ah ! Madame Anroux.</hi></p>
@@ -999,7 +997,7 @@
         </div>
         <div type="scene" xml:id="I16">
           <head>SCENE XVI</head>
-          <stage>StENOBÉE, LES SUSDITS</stage>
+          <stage>STENOBÉE, LES SUSDITS</stage>
           <sp xml:id="I16-1" who="le-roi">
             <speaker>Le Roy</speaker>
             <p>Mais voici Stenobée : vous venez apparemment, Madame, partager la joie publique ; sçavez-vous bien que Bellerophon est fils de Neptune, &amp; qu’il a tué le Monstre ?</p>

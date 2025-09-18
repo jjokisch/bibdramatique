@@ -331,7 +331,7 @@
         <head>Extraict du Privilège du Roy.</head>
         <p>PAR grace &amp; Privilege du Roy, il est permis à AUGUSTIN COURBE’, Libraire, de faire imprimer un Livre intitulé, <hi rend="i">Bélisaire, Tragi-Comedie, Par le Sieur</hi> DES-FONTAINES. Et deffences sont faites à toutes personnes, de quelque qualité ou condition qu’elles soient, de l’imprimer, ou de le faire imprimer, vendre, ni distribuer, sans le consentement dudit COURBE’, &amp; ce durant le temps de sept ans, sur les peines portées par ledit Privilege. DONNE’ à Paris, le vingtiesme jour de Juin mil six cens quarante-un.</p>
         <p>Signé LEMOINE.</p>
-        <stage>Achevé d’imprimer pour la premiere fois, le 6 Juillet mil six cens quarant-un.</stage>
+        <p>Achevé d’imprimer pour la premiere fois, le 6 Juillet mil six cens quarant-un.</p>
       </div>
       <div type="set" xml:id="acteurs">
         <head>LES ACTEURS</head>
@@ -381,7 +381,7 @@
             <roleDesc>Princesse de Saxe.</roleDesc>
           </castItem>
         </castList>
-        <stage>La scene est à Constantinople.</stage>
+        <set>La scene est à Constantinople.</set>
       </div>
       <div type="act" xml:id="I">
         <pb n="1"/>
@@ -3233,8 +3233,7 @@
         </div>
         <div type="scene" xml:id="V13">
           <head>SCENE derniere</head>
-          <stage>JUSTINIAN, VITIGEZ, AMALAZONTHE, THEODORE, ISKIRION, SOPHIE, </stage>
-          <stage>BELISAIRE, PYRANDRE</stage>
+          <stage>JUSTINIAN, VITIGEZ, AMALAZONTHE, THEODORE, ISKIRION, SOPHIE, BELISAIRE, PYRANDRE</stage>
           <sp who="theodore" xml:id="V13-1">
             <speaker>THEODORE<note n="191" place="bottom">Note de Desfontaines : "vient justifier Belisaire, l’Empereur luy done Sophie. Compliment de son rival qui la luy cede."</note></speaker>
             <l n="1731" xml:id="l1731">Il est temps de quitter l’erreur qui vous abuse,</l>

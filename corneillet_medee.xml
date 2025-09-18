@@ -1429,8 +1429,7 @@
         <div type="scene" xml:id="II07">
           <head>Scene septième.</head>
           <pb n="34"/>
-          <stage>Un petit Argien representant l’Amour, paroist dans un char traisné par des captifs de differentes nations &amp; de tout sexe.</stage>
-          <stage>Créüse, Jason, Oronte, Cléone.</stage>
+          <stage>Un petit Argien representant l’Amour, paroist dans un char traisné par des captifs de differentes nations &amp; de tout sexe. Créüse, Jason, Oronte, Cléone.</stage>
           <sp who="captifs" xml:id="II07-1">
             <speaker>Chœur des Captifs d’Amour. </speaker>
             <l n="356" xml:id="l356">Qu’elle est charmante, qu’elle est belle !</l>
@@ -2288,8 +2287,7 @@
         </div>
         <div type="scene" xml:id="IV07">
           <head>Scène septième.</head>
-          <stage>Créon, Medée. </stage>
-          <stage>Phantômes &amp; Gardes du Roy. </stage>
+          <stage>Créon, Medée. Phantômes &amp; Gardes du Roy. </stage>
           <sp who="medee" xml:id="IV07-1">
             <speaker>Medée. </speaker>
             <l n="823" xml:id="l823">Objets agreables,</l>
@@ -2538,8 +2536,7 @@
         <div type="scene" xml:id="V03">
           <head>Scène troisième.</head>
           <pb n="72"/>
-          <stage>Créüse, Medée, Nerine, Cléone. </stage>
-          <stage>Chœur de Corinthiens. </stage>
+          <stage>Créüse, Medée, Nerine, Cléone. Chœur de Corinthiens. </stage>
           <sp who="creuse" xml:id="V03-1">
             <speaker>Créüse </speaker><stage>à Cléone.</stage>
             <l n="952" xml:id="l952">Venez, parlez ; qu’avez-vous à m’apprendre ?</l>

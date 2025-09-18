@@ -537,7 +537,7 @@
               <role xml:id="secondvalet"/>
             </castItem>
           </castList>
-          <stage>La Scene est à la Manche.</stage>
+          <set>La Scene est à la Manche.</set>
           </div>
                   
         <div type="act">
@@ -1365,8 +1365,7 @@
           <head>ACTE II.</head><pb n="29" xml:id="p29"/>
           <div type="scene">
             <head>SCENE PREMIERE.</head>
-            <stage>DOM LOPE, sous l’habit du Chevalier des Miroirs ;</stage>
-            <stage>LE BARBIER, son Escuyer.</stage>
+            <stage>DOM LOPE, sous l’habit du Chevalier des Miroirs ; LE BARBIER, son Escuyer.</stage>
             <sp who="domquichot">
               <speaker>D. LOPE.</speaker>
               <l n="393" xml:id="l393">Il faut l’attendre icy de crainte qu’il s’éloigne.</l>
@@ -2426,9 +2425,7 @@
               <speaker>LE DUC.</speaker>
               <l part="F">Tréve de compliment.</l>
               <l n="816" xml:id="l816">Nous voicy prés du lieu de vostre penitence.</l>
-              <stage>Ils arrivent au chasteau du Duc.</stage>
-              <stage>Des valets à une galerie sur la porte,</stage>
-              <stage>sonnent des trompettes, &amp; disent :</stage>
+              <stage>Ils arrivent au chasteau du Duc. Des valets à une galerie sur la porte, sonnent des trompettes, &amp; disent :</stage>
               <l n="817" xml:id="l817">Vive le grand Quichot, &amp; vive Sanche Pance,</l>
               <l n="818" xml:id="l818">L’un le plus genereux de tous les Chevaliers,</l>
               <l n="819" xml:id="l819">L’autre le plus vaillant de tous les Escuyers.</l>
@@ -3195,8 +3192,7 @@
           </div>
           <div type="scene">
             <head>SCENE V.</head><pb n="88" xml:id="p88"/>
-            <stage>DOM LOPE, ou le Chevalier des Miroirs, LE BARBIER,</stage>
-            <stage>D. QUICHOT, SANCHE, LE DUC, LA DUCHESSE.</stage>
+            <stage>DOM LOPE, ou le Chevalier des Miroirs, LE BARBIER, D. QUICHOT, SANCHE, LE DUC, LA DUCHESSE.</stage>
             <sp who="laduchesse">
               <speaker>LA DUCHESSE.</speaker>
               <l n="1152" xml:id="l1152" part="I">Sanche, où fuyez-vous donc ?</l>
@@ -3419,8 +3415,7 @@
               <l n="1222" xml:id="l1222">Et luy dit qu’il trouva l’object de son amour<pb n="95" xml:id="p95"/></l>
               <l n="1223" xml:id="l1223">Criblant un tas de pois dans une basse cour.</l>
               <l n="1224" xml:id="l1224">Voilà ce qui m’estonne, &amp; qui me met en doute.</l>
-              <stage>SANCHE, se leve, &amp; tenant le doigt dans la bouche,</stage>
-              <stage>regarde par tout ; apres, se remet dans sa chaire.</stage>
+              <stage>SANCHE, se leve, &amp; tenant le doigt dans la bouche, regarde par tout ; apres, se remet dans sa chaire.</stage>
               <l n="1225" xml:id="l1225">A present que j’ay veu que nul ne nous escoute,</l>
               <l n="1226" xml:id="l1226">Et que je puis parler avecques liberté,</l>
               <l n="1227" xml:id="l1227">Je vay faire cesser vostre difficulté.</l>
@@ -3600,8 +3595,7 @@
           </div>
           <div type="scene">
             <head>SCENE II.</head>
-            <stage>DOM LOPE, LE BARBIER, LE DUC, DOM QUICHOT,</stage>
-            <stage>SANCHE, LA DUCHESSE.</stage>
+            <stage>DOM LOPE, LE BARBIER, LE DUC, DOM QUICHOT, SANCHE, LA DUCHESSE.</stage>
             <sp who="lebarbier">
               <speaker>LE BARBIER.</speaker>
               <l n="1346" xml:id="l1346" part="I">Seigneur Sanche, arrestez.</l>
@@ -3692,8 +3686,7 @@
           </div>
           <div type="scene">
             <head>SCENE III.</head><pb n="104" xml:id="p104"/>
-            <stage>DEUX HERAUTS portans l’image du Soleil, LE DUC,</stage>
-            <stage>LA DUCHESSE, DOM QUICHOT, SANCHE. </stage>
+            <stage>DEUX HERAUTS portans l’image du Soleil, LE DUC, LA DUCHESSE, DOM QUICHOT, SANCHE. </stage>
             <sp who="premierheraut">
               <speaker>LE PREMIER HERAUT.</speaker>
               <l n="1372" xml:id="l1372">Les filles du Sophy<note place="bottom">Ancien nom du Schah de Perse.</note> que la Perse revere.</l>
@@ -3742,8 +3735,7 @@
           </div>
           <div type="scene">
             <head>SCENE IV.</head>
-            <stage>LES INFANTES DE PERSE avec leurs Herauts entrent :</stage>
-            <stage>LE DUC, LA DUCHESSE, DOM QUICHOT, SANCHE. </stage>
+            <stage>LES INFANTES DE PERSE avec leurs Herauts entrent : LE DUC, LA DUCHESSE, DOM QUICHOT, SANCHE. </stage>
             <sp who="leduc">
               <speaker>LE DUC.</speaker>
               <l n="1385" xml:id="l1385">Ah Dieu que de beauté, que de magnificence !</l>

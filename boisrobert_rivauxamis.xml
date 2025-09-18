@@ -633,7 +633,7 @@
             <roleDesc>Gentil-homme d’Iarbe.</roleDesc>
           </castItem>
           </castList>
-          <stage>La Scene est à Tarente.</stage>
+          <set>La Scene est à Tarente.</set>
         </div>
         <div type="act">
           <head>ACTE I</head>
@@ -1939,8 +1939,7 @@
           <div type="scene">
             <head>SCENE III</head>
             <sp who="iolante">
-              <speaker>IOLANTE, </speaker><stage>seulle.</stage>
-              <stage>(On tire le rideau devant la chambre.)</stage>
+              <speaker>IOLANTE, </speaker><stage>seulle. (On tire le rideau devant la chambre.)</stage>
               <l n="855" xml:id="l855">Quoy cét homme inconu, que j’abhorre sur tous</l>
               <l n="856" xml:id="l856">Sera maistre absolu de nos biens, &amp; de nous?</l>
               <l n="857" xml:id="l857">Tarante subira le joug de cét infame?</l>
@@ -2576,8 +2575,7 @@
           </div>
           <div type="scene">
             <head>SCENE V</head>
-            <stage>IOLAS, PHALANTE, LILIANE, CARINTE.</stage>
-            <stage>LE CAPITAINE DES GARDES.</stage>
+            <stage>IOLAS, PHALANTE, LILIANE, CARINTE. LE CAPITAINE DES GARDES.</stage>
             <sp who="iolas">
               <speaker>IOLAS</speaker>
               <l n="1242" xml:id="l1242">He bien, que dirais-tu des caprices du Sort?</l>
@@ -2772,8 +2770,7 @@
           <head>ACTE V</head>
           <div type="scene">
             <head>SCENE I</head>
-            <stage>IARBE, DUC DE CALABRE</stage>
-            <stage>IOLANTE, MENANDRE.</stage>
+            <stage>IARBE, DUC DE CALABRE IOLANTE, MENANDRE.</stage>
             <sp who="iarbe">
               <speaker>IARBE</speaker>
               <l n="1376" xml:id="l1376">Ouy, si je trouve icy toutes choses prosperes,</l>
@@ -3025,8 +3022,7 @@
               <speaker>PHALANTE</speaker>
               <l n="1528" xml:id="l1528">Tu cours à ta ruïne, insencé temeraire,</l>
               <l n="1529" xml:id="l1529">Qui ne peut resister à ma juste colere.</l>
-              <stage>(Icy le Casque tombe de la teste de Menandre,</stage>
-              <stage>qui est recogneu de Phalante pour son Pere putatif)<note place="bottom">« Ne se dit gueres qu’avec le mot pere. St Joseph estoit le pere putatif de Jesus Christ. »  (Furetière)</note></stage>
+              <stage>(Icy le Casque tombe de la teste de Menandre, qui est recogneu de Phalante pour son Pere putatif)<note place="bottom">« Ne se dit gueres qu’avec le mot pere. St Joseph estoit le pere putatif de Jesus Christ. »  (Furetière)</note></stage>
               <l n="1530" xml:id="l1530">O justes Dieux que voy-je; ah mon Pere est-ce vous,</l>
               <l n="1531" xml:id="l1531">Que la rigueur du sort fait perir sous mes cous?</l>
               <l n="1532" xml:id="l1532">Faut-il, pour obscurcir l’éclat de ma victoire,</l>
@@ -3408,8 +3404,7 @@
           </div>
           <div type="scene">
             <head>SCENE VII</head>
-            <stage>IOLAS, BERENICE, LILIANE,</stage>
-            <stage>CARINTE, IARBE, PHALANTE, &amp;c.</stage>
+            <stage>IOLAS, BERENICE, LILIANE, CARINTE, IARBE, PHALANTE, &amp;c.</stage>
             <sp who="iolas">
               <speaker>IOLAS </speaker>
               <l n="1740" xml:id="l1740">Quel miracle est-ce cy? quelle grande fortune</l>

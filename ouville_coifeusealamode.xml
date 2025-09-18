@@ -624,7 +624,7 @@
             <roleDesc>Serviteur d’Acaste, Amoureux de Pauline.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est à Paris.</stage>
+        <set>La Scene est à Paris.</set>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE I.</head>
@@ -840,8 +840,7 @@
         </div>
         <div type="scene" xml:id="I02">
           <head>Scène 2</head>
-          <stage>FLORE Superbement vestuë.</stage>
-          <stage>BEATRIX. ARIMANT.</stage>
+          <stage>FLORE Superbement vestuë. BEATRIX. ARIMANT.</stage>
           <sp xml:id="I02-1" who="beatrix">
             <speaker>BEATRIX.</speaker>
             <l n="145" xml:id="l145">Il faut peu de suject pour vous mettre en colere<note place="bottom">À partir de ce vers, D’Ouville suit de très près le texte espagnol, voir annexe, troisième tableau.</note>.<pb n="9" xml:id="p9"/></l>
@@ -898,7 +897,7 @@
             <l n="173" xml:id="l173">Ainsi que mon desgoust, ma rigueur est extresme.<pb n="11" xml:id="p11"/></l>
           </sp>
           <sp xml:id="I02-9" who="arimant">
-            <speaker>ARIMANT<note place="bottom">Cette indication ne concerne que le premier vers.</note></speaker><stage>. bas</stage>
+            <speaker>ARIMANT.</speaker><stage>bas<note place="bottom">Cette indication ne concerne que le premier vers.</note>.</stage>
             <l n="174" xml:id="l174">Et pour vous mon amour en tout temps est le mesme.</l>
             <l n="175" xml:id="l175" part="I">Encor pour quel sujet?</l>
           </sp>
@@ -931,7 +930,8 @@
             <l n="186" xml:id="l186" part="I">Les voila, lisez lez.</l>
           </sp>
           <sp xml:id="I02-15" who="arimant">
-            <speaker>ARIMANT <note place="bottom">« bas » se rapporte à la première phrase. « Il lit » est répété avant le vers 190, où il doit être pour le sens. </note>.</speaker><stage>bas. Il lit</stage>
+            <speaker>ARIMANT. </speaker>
+            <stage>bas. Il lit<note place="bottom">« bas » se rapporte à la première phrase. « Il lit » est répété avant le vers 190, où il doit être pour le sens.</note>.</stage>
             <l part="F">Je veux avoir la gloire</l>
             <l n="187" xml:id="l187">De la vaincre par là. Voyons quels sont icy</l>
             <l n="188" xml:id="l188">Ces mensonges si grands: le premier dit ainsi.</l>
@@ -960,7 +960,7 @@
             <l n="200" xml:id="l200">Il suffit, passez donc au second, Arimant.</l>
           </sp>
           <sp xml:id="I02-19" who="arimant">
-            <speaker>ARIMANT</speaker><stage>. Il lit.</stage>
+            <speaker>ARIMANT.</speaker><stage>Il lit.</stage>
             <l n="201" xml:id="l201">Je me senty brusler aussi-tost qu’à ma veuë</l>
             <l n="202" xml:id="l202">Vous parustes hier de tant d’attraits pourveuë.</l>
           </sp>
@@ -1041,7 +1041,7 @@
             <l n="242" xml:id="l242" part="I">Que je tiens pour mensonge?</l>
           </sp>
           <sp xml:id="I02-31" who="arimant">
-            <speaker>ARIMANT</speaker><stage>.  bas.</stage>
+            <speaker>ARIMANT.</speaker><stage>bas.</stage>
             <l part="F">Il faut que je suppose<note place="bottom">Que j’imagine, que j’invente.</note></l>
             <l n="243" xml:id="l243">Quelque lettre qui m’ayde et qui sans declarer</l>
             <l n="244" xml:id="l244">Luy puisse adroittement mon amour declarer<note place="bottom">Répétition à la rime du même verbe, on peut supposer « sans l’éclairer » pour le premier vers.</note>.<pb n="16" xml:id="p16"/></l>
@@ -1408,7 +1408,7 @@
             <l n="426" xml:id="l426">Je la voy de mes yeux, et j’ay <ref target="#peine">peine</ref> à la croire.</l>
           </sp>
           <sp xml:id="II02-2" who="dorotee">
-            <speaker>DOROTEE, </speaker><stage>vestuë en </stage>
+            <speaker>DOROTEE, </speaker><stage>vestuë en <ref target="#chaperon">chaperon</ref>.</stage>
             <l n="427" xml:id="l427">A quoy bon ce discours? mon amy que veux-tu?</l>
             <l n="428" xml:id="l428">Que cette action soit ou folie ou vertu,</l>
             <l n="429" xml:id="l429">Le sort en est jetté, je ne m’en puis desdire.</l>
@@ -2054,8 +2054,7 @@
         </div>
         <div type="scene" xml:id="III04">
           <head>Scène 4</head>
-          <stage>PHILIPPIN. ACASTE. FLORE.</stage>
-          <stage>ARIMANT. BEATRIX.</stage>
+          <stage>PHILIPPIN. ACASTE. FLORE. ARIMANT. BEATRIX.</stage>
           <sp xml:id="III04-1" who="philipin">
             <speaker>PHILIPPIN.</speaker>
             <l n="829" xml:id="l829">Que me donnerez-vous pour la bonne nouvelle?</l>
@@ -2152,8 +2151,7 @@
         </div>
         <div type="scene" xml:id="III05">
           <head>Scène 5</head>
-          <stage>BEATRIX, FLORE, DOROTEE, ACASTE, </stage>
-          <stage>ARIMANT, PHILIPPIN.</stage>
+          <stage>BEATRIX, FLORE, DOROTEE, ACASTE, ARIMANT, PHILIPPIN.</stage>
           <sp xml:id="III05-1" who="beatrix">
             <speaker>BEATRIX.</speaker>
             <l part="F">C’est cette Perruquiere</l>
@@ -2733,8 +2731,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <head>Scène 2</head>
-          <stage>DOROTEE en habit de Dame superbement parée. </stage>
-          <stage>ACASTE. PHILIPIN. PAMPHILE.</stage><pb n="73" xml:id="p73"/>
+          <stage>DOROTEE en habit de Dame superbement parée. ACASTE. PHILIPIN. PAMPHILE.</stage><pb n="73" xml:id="p73"/>
           <sp xml:id="IV02-1" who="dorotee">
             <speaker>DOROTEE.</speaker>
             <l n="1060" xml:id="l1060">Que voulez-vous, Monsieur ? que cherchez-vous <ref target="#ceans">ceans</ref> ?</l>
@@ -3271,8 +3268,7 @@
         </div>
         <div type="scene" xml:id="IV06">
           <head>Scène 6</head>
-          <stage>FLORE. BEATRIX. DOROTEE. </stage>
-          <stage>PAMPHILE. PAULINE.</stage>
+          <stage>FLORE. BEATRIX. DOROTEE. PAMPHILE. PAULINE.</stage>
           <sp xml:id="IV06-1" who="flore">
             <speaker>FLORE.</speaker>
             <l n="1373" xml:id="l1373">Je n’ay jamais ouy parler de cette femme.</l>
@@ -3805,8 +3801,7 @@
         </div>
         <div type="scene" xml:id="V05">
           <head>Scène 5</head>
-          <stage>ACASTE. PHILIPIN. ARIMANT.</stage>
-          <stage>DOROTEE. LEONOR.</stage><pb n="110" xml:id="p110"/>
+          <stage>ACASTE. PHILIPIN. ARIMANT. DOROTEE. LEONOR.</stage><pb n="110" xml:id="p110"/>
           <sp xml:id="V05-1" who="philipin">
             <speaker>PHILIPPIN.</speaker>
             <l part="F">Monsieur bonne nouvelle,</l>
@@ -3823,7 +3818,7 @@
             <l n="1654" xml:id="l1654" part="I">Tiens-je pas ma parole ?</l>
           </sp>
           <sp xml:id="V05-4" who="dorotee">
-            <speaker>DOROTEE </speaker><stage>en </stage>
+            <speaker>DOROTEE </speaker><stage>en <ref target="#chaperon">chaperon</ref>.</stage>
             <l part="F"><hi rend="i"/>Ouy, Monsieur, la voicy.</l>
           </sp>
           <sp xml:id="V05-5" who="acaste">
@@ -4013,8 +4008,7 @@
         </div>
         <div type="scene" xml:id="V08">
           <head>Scène 8</head>
-          <stage>PAMPHILE, DOROTEE, LEONOR, ACASTE,</stage>
-          <stage>PHILIPIN, ARIMANT.</stage>
+          <stage>PAMPHILE, DOROTEE, LEONOR, ACASTE, PHILIPIN, ARIMANT.</stage>
           <sp xml:id="V08-1" who="pamphile">
             <speaker>PAMPHILE.</speaker>
             <l n="1722" xml:id="l1722">Monsieur, je viens icy par le commandement</l>
@@ -4086,8 +4080,7 @@
         </div>
         <div type="scene" xml:id="V09">
           <head>Scène 9 et dernière</head>
-          <stage>FLORE. ARIMANT. BEATRIX. LEONOR.</stage>
-          <stage> ACASTE. PHILIPIN. PAMPHILE.<note place="bottom">Il manque dans cette liste le personnage de Dorotée, évidemment présente sur scène.</note></stage>
+          <stage>FLORE. ARIMANT. BEATRIX. LEONOR. ACASTE. PHILIPIN. PAMPHILE.<note place="bottom">Il manque dans cette liste le personnage de Dorotée, évidemment présente sur scène.</note></stage>
           <sp xml:id="V09-1" who="arimant">
             <speaker>ARIMANT.</speaker>
             <l n="1739" xml:id="l1739">Flore icy, justes Dieux! cela ne peut pas estre.</l>

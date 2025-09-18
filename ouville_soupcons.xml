@@ -839,7 +839,7 @@
             <role xml:id="violons">VIOLONS.</role>
           </castItem>
         </castList>
-        <stage>La Scene est à Paris.</stage>
+        <set>La Scene est à Paris.</set>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE  I.</head>
@@ -3334,8 +3334,7 @@
           <sp xml:id="IV11-5" who="filemon">
             <speaker>FILEMON.</speaker>
             <l part="F"><ref target="#tantost">Tantost</ref> vous le sçaurez.<pb n="104" xml:id="p104"/></l>
-            <stage>(Leandre ouvre.)</stage>
-            <stage>(Estant entré.)</stage>
+            <stage>(Leandre ouvre.) (Estant entré.)</stage>
             <l n="1181" xml:id="l1181">Quelle aveugle fureur, quelle soudaine rage</l>
             <l n="1182" xml:id="l1182">Vous conseille aujourd’huy ce criminel outrage ?</l>
             <l n="1183" xml:id="l1183">Par quelle aversion, par quelle inimitié</l>

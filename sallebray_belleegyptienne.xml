@@ -1207,7 +1207,7 @@
         <head>Extrait du Privilege du Roy.</head>
         <p>Par Grace et Privilege du Roy, donné à Paris le 8 jour d’Avril 1642. Signé par le Roy en son Conseil, le BRUN, il est permis à Augustin Courbé, Marchand Libraire à Paris, d’imprimer ou faire imprimer une piece de Theatre, intitulée <hi rend="i">la belle Egyptienne</hi>, durant cinq ans : Et deffences sont faites à tous autres d’en vendre d’autre impression que de celle qu’aura fait faire ledit Courbé, ou les ayans cause, à peine de trois mil liures d’amende, et de tous ses despens, dommages et interests, ainsi qu’il est plus au long porté par ledit Privilege.</p>
         <p>Et le dit Courbé a associé audit Priviliege Antoine de Sommaville, aussi Marchand Libraire à Paris, suivant l’accord fait entr'eux.</p>
-        <stage>Achevé d’imprimer le deuxiesme jour de May 1642.</stage>
+        <p>Achevé d’imprimer le deuxiesme jour de May 1642.</p>
       </div>
       <div xml:id="personnages" type="set">
         <head>LES PERSONNAGES.</head>
@@ -1258,7 +1258,7 @@
             <role xml:id="valet">UN VALET muet. </role>
           </castItem>
         </castList>
-        <stage>La Scene est à Tolede, ville d’Espagne.</stage>
+        <set>La Scene est à Tolede, ville d’Espagne.</set>
         <p>LA BELLE<pb n="A, 1"/><lb/>EGIPTIENNE, <lb/>TRAGI-COMEDIE</p>
       </div>
       <div xml:id="I" type="act">
@@ -2782,7 +2782,7 @@
           </sp>
           <sp xml:id="II03-36" who="precieuse">
             <speaker>PRECIEUSE, </speaker><stage>lit ce qui suit.</stage>
-            <stage>Recit de la belle Egiptienne. </stage>
+            <head>Recit de la belle Egiptienne. </head>
             <l n="781" xml:id="l781">Si je vous semble Egiptienne,</l>
             <l n="782" xml:id="l782">Je n’en ay que l’habit, l’adresse et les cheveux<note n="313" place="bottom"> Le récit a bien évidemment une valeur proleptique.</note>,</l>
             <l n="783" xml:id="l783">Et quoy que d’un Cesar leur Reine ait eu les vœux,</l>

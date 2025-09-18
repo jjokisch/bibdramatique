@@ -1319,7 +1319,7 @@
             <l n="73" part="I" xml:id="l73">Où le trouverez-vous ?</l>
           </sp>
           <sp who="atree">
-            <speaker>ATREE, </speaker><stage>il </stage>
+            <speaker>ATREE, </speaker><stage>il <ref>resve*</ref> quelque temps.</stage>
             <l part="F">Dans le mesme Thyeste.</l>
           </sp>
           <sp who="criton">
@@ -2187,9 +2187,7 @@
         </div>
         <div type="scene">
           <head>SCENE VII.</head>
-          <stage>ATREE, MEROPE, MELINTHE, CRITON,</stage>
-          <stage>THEANDRE, LYSIS, jeunes Princes, enfans de Thyeste &amp; de</stage>
-          <stage>Merope, THEOMBRE, conducteur des enfans, ORONTE.</stage>
+          <stage>ATREE, MEROPE, MELINTHE, CRITON, THEANDRE, LYSIS, jeunes Princes, enfans de Thyeste &amp; de Merope, THEOMBRE, conducteur des enfans, ORONTE.</stage>
           <sp who="merope">
             <speaker>MEROPE.</speaker>
             <l n="475" xml:id="l475">Ne les voyez-vous pas qui s’en viennent à vous ?</l>
@@ -2389,8 +2387,7 @@
           <sp who="merope">
             <speaker>MEROPE.</speaker>
             <l n="575" xml:id="l575">O trois &amp; quatre fois favorable retour !</l>
-            <stage>Theandre &amp; Lysis après avoir mangé des fruits se laissent </stage>
-            <stage>cheoir<note place="bottom"><p> Orthographe archaïque pour « choir », c’est à dire tomber.</p></note> entre les bras, l’un de Melinthe, l’autre de Theombre.</stage>
+            <stage>Theandre &amp; Lysis après avoir mangé des fruits se laissent cheoir<note place="bottom"><p> Orthographe archaïque pour « choir », c’est à dire tomber.</p></note> entre les bras, l’un de Melinthe, l’autre de Theombre.</stage>
           </sp>
           <sp who="melinthe">
             <speaker>MELINTHE.</speaker>
@@ -2437,8 +2434,7 @@
         </div>
         <div type="scene">
           <head>SCENE IX.</head>
-          <stage>MEROPE, MELINTHE, THEOMBRE, CRITON.</stage>
-          <stage>[THEANDRE ET LYSIS.]</stage>
+          <stage>MEROPE, MELINTHE, THEOMBRE, CRITON. [THEANDRE ET LYSIS.]</stage>
           <sp who="criton">
             <speaker>CRITON.</speaker>
             <l n="593" xml:id="l593">Quels <ref target="#facheux3">fascheux</ref> <ref target="#accident2">accidens</ref> troublent ainsi la Reyne ?</l>
@@ -3196,9 +3192,7 @@
         </div>
         <div type="scene">
           <head>SCENE VII.</head>
-          <stage>MEROPE, CRITON, ORONTE.</stage>
-          <stage>Oronte porte un plat bassin couvert.où il y a un poignard </stage>
-          <stage>&amp; du poison dans une coupe.</stage>
+          <stage>MEROPE, CRITON, ORONTE. Oronte porte un plat bassin couvert.où il y a un poignard &amp; du poison dans une coupe.</stage>
           <sp who="criton">
             <speaker>CRITON.</speaker>
             <l n="975" xml:id="l975">Madame, ce grand Roy que vous blasmez à tort,</l>
@@ -3241,8 +3235,7 @@
             <l n="994" xml:id="l994">Certes vous commencez d’estre moins inhumaine ;</l>
             <l n="995" xml:id="l995">Et pour exécuter un si noble désir,</l>
             <l n="996" xml:id="l996">Voicy dequoy Madame, &amp; vous pouvez chouesir.</l>
-            <stage>II met le plat bassin que portoit Oronte sur une table, </stage>
-            <stage>&amp; luy monstre le poignard &amp; le poison.</stage>
+            <stage>II met le plat bassin que portoit Oronte sur une table, &amp; luy monstre le poignard &amp; le poison.</stage>
           </sp>
           <sp who="merope">
             <speaker>MEROPE.</speaker>
@@ -3641,9 +3634,7 @@
             <l n="1193" xml:id="l1193">Les <ref target="#trait1">trais</ref> que je ressens d’une injuste langueur :</l>
             <l n="1194" xml:id="l1194">Asseuré je crains tout, &amp; mon ame agitée</l>
             <l n="1195" xml:id="l1195">Par de <ref target="#troubler">troubles</ref> secrets se voit espouvantee.</l>
-            <stage>Thyeste se promenant dans la salle, voit le tableau de deux princes </stage>
-            <stage>qui s’entresaluent, dont l’un donne un coup de poignard à l’autre </stage>
-            <stage>en l’<ref target="#embrasser1">embrassant</ref>.<note place="bottom"><p> Cf. Néron dans <hi rend="i">Britannicus</hi> (1669) de Racine : « J'embrasse mon rival, mais c’est pour l’étouffer », ce rival étant son demi-frère Britannicus (v. 1314).</p></note></stage>
+            <stage>Thyeste se promenant dans la salle, voit le tableau de deux princes qui s’entresaluent, dont l’un donne un coup de poignard à l’autre en l’<ref target="#embrasser1">embrassant</ref>.<note place="bottom"><p> Cf. Néron dans <hi rend="i">Britannicus</hi> (1669) de Racine : « J'embrasse mon rival, mais c’est pour l’étouffer », ce rival étant son demi-frère Britannicus (v. 1314).</p></note></stage>
           </sp>
           <sp who="atree">
             <speaker>ATREE, </speaker><stage>du sueil de la porte.</stage>
@@ -3949,7 +3940,7 @@
           <head>SCENE II. </head>
           <stage>ATREE, CRITON.</stage>
           <sp who="criton">
-            <speaker>CRITON, </speaker><stage>sans voir Atree, est </stage>
+            <speaker>CRITON, </speaker><stage>sans voir Atree, est <ref target="#etonner1">estonné*</ref> de voir une profonde nuict, <ref target="#lorsque">lors que*</ref> le Soleil devoit faire plus de jour.</stage>
             <l n="1356" xml:id="l1356">Quel nuage importun nous desrobe le jour,</l>
             <l n="1357" xml:id="l1357">Le Soleil se retire au milieu de son tour,</l>
             <l n="1358" xml:id="l1358">Une profonde nuict couvre toute la terre.</l>
@@ -4047,8 +4038,7 @@
             <l n="1406" xml:id="l1406">Car pour punir son crime, &amp; venger mon offence,</l>
             <l n="1407" xml:id="l1407">J'ay besoin de Thyeste &amp; de sa <ref target="#connaitre2">connaissance</ref>.</l>
             <l n="1408" xml:id="l1408">Amy, voicy dequoy nous rendre triomphans,</l>
-            <stage>Il luy monstre un vase que portoit un Page où estoit </stage>
-            <stage>le sang amassé de ces deux enfans </stage>
+            <stage>Il luy monstre un vase que portoit un Page où estoit le sang amassé de ces deux enfans </stage>
             <l n="1409" xml:id="l1409">Ce breuvage amassé du sang de deux enfans,</l>
             <l n="1410" xml:id="l1410">Pour me faire raison, dans ce cœur plein de rage,</l>
             <l n="1411" xml:id="l1411">Sous la couleur du vin <ref target="#trouver">treuvera</ref> son passage.</l>
@@ -4097,8 +4087,7 @@
             <l n="1427" xml:id="l1427">Il est <ref target="#dessus">dessus</ref> le lict le front couvert de rose.<note place="bottom"><p> Comprendre : il a le teint rouge. Même chose pour la didascalie qui suit, « rose » indiquant la couleur et non la fleur.</p></note></l>
             <l n="1428" xml:id="l1428">Dieux qu’il est bien changé de port &amp; d’ornement,</l>
             <l n="1429" xml:id="l1429">De celuy qu’il estoit dans son bannissement.</l>
-            <stage>Thyeste est <ref target="#dessus">dessus</ref> un lict de table le front couvert de rose, </stage>
-            <stage>comme s’il sortoit de table après trois ou quatre verres.</stage>
+            <stage>Thyeste est <ref target="#dessus">dessus</ref> un lict de table le front couvert de rose, comme s’il sortoit de table après trois ou quatre verres.</stage>
           </sp>
           <sp who="thyeste">
             <speaker>THYESTE, <note place="bottom"><p> Dans ce premier tiers du XVII<hi rend="sup">e</hi> siècle, les « stances » étaient des poèmes lyriques, musicaux, que le public appréciait et attendait. Les poétiques classiques les condamneront bientôt au nom de la vraisemblance, mais dans les années 1630, les auteurs n’auraient pu priver leur auditoire de ces morceaux de bravoure. En voici la définition précise : « Strophes se terminant par des pauses fortement marquées ainsi que par des recherches de style et constituant un monologue » (J. Scherer, <hi rend="i">op. cit.</hi>, p. 285). Les stances devaient se démarquer fortement du reste de la pièce. Ici, elles sont formées par trois strophes de 4 octosyllabes et 8 alexandrins chacune, en rimes alternées. Elles se concluent, conformément à la tradition, en une rupture distincte, ici, par un distique.</p></note></speaker><stage>Il se lesve.</stage>
@@ -4244,8 +4233,7 @@
             <l n="1508" xml:id="l1508">Ira leur tesmoigner quel est vostre dessain :</l>
             <l n="1509" xml:id="l1509">Noyons tous nos soucis, prenons la couppe en main,</l>
             <l n="1510" xml:id="l1510">Renouvelions l’amour que le Ciel renouvelle.</l>
-            <stage>Criton offre à Thyeste une couppe où il a versé ce<note place="bottom"><p> L'adjectif démonstratif « ce » peut avoir ici une valeur d’anaphorique dans la mesure où l’auteur rappelle au lecteur de quel sang il s’agit. Dans le doute, nous n’avons pas corrigé pour l’article défini « le ». Même remarque à propos du demonstratif-anaphorique dans « de ces enfans » de la didascalie qui suit le vers 1569.</p></note> sang </stage>
-            <stage>&amp; Oronte une à Atrée où il y a du vin.</stage>
+            <stage>Criton offre à Thyeste une couppe où il a versé ce<note place="bottom"><p> L'adjectif démonstratif « ce » peut avoir ici une valeur d’anaphorique dans la mesure où l’auteur rappelle au lecteur de quel sang il s’agit. Dans le doute, nous n’avons pas corrigé pour l’article défini « le ». Même remarque à propos du demonstratif-anaphorique dans « de ces enfans » de la didascalie qui suit le vers 1569.</p></note> sang &amp; Oronte une à Atrée où il y a du vin.</stage>
           </sp>
           <sp who="thyeste">
             <speaker>THYESTE.</speaker>
@@ -4306,8 +4294,7 @@
             <l n="1548" xml:id="l1548">Mon frère que ton cœur soit un peu plus remis ;</l>
             <l n="1549" xml:id="l1549">Tu veux tes chers enfans, je te les ay promis :</l>
             <l n="1550" xml:id="l1550">Reçoy sans différer l’<ref target="#effet2">effet</ref> de ma promesse.</l>
-            <stage>Il tire un rideau, &amp; Fait voir la teste, les bras &amp; les pieds </stage>
-            <stage>de ces enfans sur une table dans un plat bassin.</stage>
+            <stage>Il tire un rideau, &amp; Fait voir la teste, les bras &amp; les pieds de ces enfans sur une table dans un plat bassin.</stage>
           </sp>
           <sp who="thyeste">
             <speaker>THYESTE.</speaker>
@@ -6035,7 +6022,7 @@
 <lb/>Pour cet heureux retour rendre grâce aux Dieux.
 <lb/>Mais pour plus dignement célébrer cette feste,
 <lb/>Criton, soyez soigneux que le festin s’appreste. 
-<lb/><stage>ACTE V, scène 1.</stage>
+<lb/><label>ACTE V, scène 1.</label>
 <lb/>Atrée, scène 1.
 <lb/>QUEL bon-heur fut jamais à mon bon-heur pareil ?
 <lb/>Quel Monarque aujourd’huy regarde le Soleil
@@ -6091,7 +6078,7 @@
 <lb/>Ce ne m’est pas assez de le voir malheureux,
 <lb/>Mon despit est plus grand, &amp; plus grand mon ouvrage,
 <lb/>Je veux voir en naissant sa misère &amp; sa rage.
-<lb/><stage>Acte V, scène 4.</stage>
+<lb/><label>Acte V, scène 4.</label>
 <lb/>CRITON, v. 1445-1448.
 <lb/>Mais ce Prince repose,
 <lb/>Il est dessus le lict le front couvert de rose.
@@ -6103,7 +6090,7 @@
 <lb/>Un bourreau contre-elle s’enflame,
 <lb/>Et l’attaque secrettement. Elle se ressouvient de sa faute passée, Et tousjours mon exil revient en ma pensée, Mes yeux sans y songer laissent couler des pleurs ; Et lors que le plaisir attire ma parole, Un soupir sans dessein avec elle s’envolle, Et je croy qu’il m’annonce encores des malheurs.
 <lb/>Et bien, suivons ces loix qu’on ne sçauroit enfraindre, Tu t’avises trop tard, il n’est plus temps de craindre
-<lb/><stage>Acte V, scène 5.</stage>
+<lb/><label>Acte V, scène 5.</label>
 <lb/>Atrée, v. 1512-1516
 <lb/>Cher frère, par l’excez de nos contentemens, Et par les doux plaisirs où le sort nous appelle, Rendons de ce beau jour la mémoire éternelle ; Finissons nos malheurs, &amp; goustons désormais Les aymables douceurs d’une immortelle paix.
 <lb/>Thyeste, v. 1516-1520 :

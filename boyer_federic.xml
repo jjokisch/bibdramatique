@@ -1209,8 +1209,8 @@
             <role xml:id="suite" rend="inferior">SUITE.</role>
           </castItem>
         </castList>
-        <stage>La Scene est à Messine dans le Palais Royal<note n="76" place="bottom">Faux : le palais royal de Sicile se trouvait à Palerme. Boyer situe la pièce à Messine car ce port est à l’extrême nord-est de l’île pour rapprocher le lieu de l’action de Naples au large de laquelle se déroulera la bataille navale dont dépend l’intrigue, et ceci dans un souci de vraisemblance, Palerme étant beaucoup plus à l’ouest. </note>.
-          </stage>
+        <set>La Scene est à Messine dans le Palais Royal<note n="76" place="bottom">Faux : le palais royal de Sicile se trouvait à Palerme. Boyer situe la pièce à Messine car ce port est à l’extrême nord-est de l’île pour rapprocher le lieu de l’action de Naples au large de laquelle se déroulera la bataille navale dont dépend l’intrigue, et ceci dans un souci de vraisemblance, Palerme étant beaucoup plus à l’ouest. </note>.
+        </set>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE I</head>

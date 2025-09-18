@@ -1122,7 +1122,7 @@
             <roleDesc>Suivante.]</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est dans une des Salles de la maison de Vitelle.</stage>
+        <set>La Scene est dans une des Salles de la maison de Vitelle.</set>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE I</head>
@@ -2211,8 +2211,7 @@
         </div>
         <div type="scene" xml:id="III02">
           <head>SCENE II</head>
-          <stage>BRUTE, TITE, TIBERE.</stage>
-          <stage>Troupe de Gardes.</stage>
+          <stage>BRUTE, TITE, TIBERE. Troupe de Gardes.</stage>
           <sp xml:id="III02-1" who="brute">
             <speaker>BRUTE.</speaker>
             <l n="684" xml:id="l684">Qu’on saisisse Vitelle, et qu’on l’amene icy :<pb n="F, 41"/></l>
@@ -2283,8 +2282,7 @@
         </div>
         <div type="scene" xml:id="III03">
           <head>SCENE III</head>
-          <stage>VITELLE, BRUTE, TITE, TIBERE.</stage>
-          <stage>Troupe de Gardes<note n="351" place="bottom">La scène 3 de l’acte III constitue le coeur de la réflexion politique de la pièce sur le bien fondé du soulèvement contre le souverain pour instaurer une république. Une défense de l’ordre divin s’oppose à un éloge de la liberté.</note>.</stage>
+          <stage>VITELLE, BRUTE, TITE, TIBERE. Troupe de Gardes<note n="351" place="bottom">La scène 3 de l’acte III constitue le coeur de la réflexion politique de la pièce sur le bien fondé du soulèvement contre le souverain pour instaurer une république. Une défense de l’ordre divin s’oppose à un éloge de la liberté.</note>.</stage>
           <sp xml:id="III03-1" who="brute">
             <speaker>BRUTE.</speaker>
             <l n="741" xml:id="l741">Vitelle ? car enfin le <ref target="#soin1">soin</ref> de la vangeance<pb n=" 44"/></l>
@@ -2460,8 +2458,7 @@
         </div>
         <div type="scene" xml:id="III04">
           <head>SCENE IV</head>
-          <stage>BRUTE, VITELLE, TULLIE, TITE, </stage>
-          <stage>TIBERE, Troupe de Gardes.</stage>
+          <stage>BRUTE, VITELLE, TULLIE, TITE, TIBERE, Troupe de Gardes.</stage>
           <sp xml:id="III04-1" who="tullie">
             <speaker>TULLIE.</speaker>
             <l n="879" xml:id="l879">Epargne-toy ce crime, esprit <ref target="#denature">denaturé</ref>,<note n="362" place="bottom">L’adjectif employé par Tullie s’inscrit dans une continuité, elle file la métaphore de la « monstruosité », dans le sens de ce qui heurte les lois de la nature, contrevient à l’ordre naturel des choses. Ici le manquement de Brute concerne les présupposés des relations interpersonnelles et familiales ; la tendresse et l’indulgence attendues d’un père envers ses enfants font défaut à Brute.</note></l>

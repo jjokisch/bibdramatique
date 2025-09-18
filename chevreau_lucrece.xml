@@ -2058,9 +2058,7 @@
         <head>ACTE III.[37]</head>
         <div type="scene" xml:id="acte301">
           <head>SCENE PREMIERE.</head>
-          <stage>MAXIME. LUCRESSE. SEXTE. MELIXENE.</stage>
-          <stage>TARQUIN. COLATIN. BRUTE.</stage>
-          <stage>MAXIME ET LUCRESSE, dans une chambre.<note n="269" place="bottom"> La scène 4, Acte II se termine sur la didascalie suivante « <hi rend="i">Icy elle tombe en pamoison, et on la porte dans sa chambre. »</hi> Logiquement, à l’ouverture de la première scène de l’acte III, Lucresse et Maxime ne sont pas <hi rend="i">dans une chambre</hi> quelconque, mais bien dans celle de l’héroïne.</note></stage>
+          <stage>MAXIME. LUCRESSE. SEXTE. MELIXENE. TARQUIN. COLATIN. BRUTE. MAXIME ET LUCRESSE, dans une chambre.<note n="269" place="bottom"> La scène 4, Acte II se termine sur la didascalie suivante « <hi rend="i">Icy elle tombe en pamoison, et on la porte dans sa chambre. »</hi> Logiquement, à l’ouverture de la première scène de l’acte III, Lucresse et Maxime ne sont pas <hi rend="i">dans une chambre</hi> quelconque, mais bien dans celle de l’héroïne.</note></stage>
           <sp xml:id="acte301-1" who="maxime">
             <speaker>MAXIME.</speaker>
             <l n="619" xml:id="l619">Quand mesme Colatin reconnoitroit son crime,</l>
@@ -2574,9 +2572,7 @@
         <div type="scene" xml:id="acte401">
           <pb n="H, 57"/>
           <head>SCENE PREMIERE.</head>
-          <stage>LUCRESSE. CECILIE. MAXIME. SEXTE.</stage>
-          <stage>MISENE. COLATIN. LUCRETIE.</stage>
-          <stage>LUCRESSE. CECILIE.</stage>
+          <stage>LUCRESSE. CECILIE. MAXIME. SEXTE. MISENE. COLATIN. LUCRETIE. LUCRESSE. CECILIE.</stage>
           <sp xml:id="acte401-1" who="lucresse">
             <speaker>LUCRESSE.</speaker>
             <l n="951" xml:id="l951">Et tu veux que je vive apres sa perfidie<note n="310" place="bottom">Signifie : manque de foy, déloyauté, trahison. Même remarque au vers 1415.</note>,</l>
@@ -2855,7 +2851,7 @@
             <l n="1136" xml:id="l1136">Le papier <ref target="#souffrir3">souffre</ref> tout, mais il est de Lucresse.</l>
             <l n="1137" xml:id="l1137">Portes-y donc les yeux mal-heureux Colatin,</l>
             <l n="1138" xml:id="l1138">Pour y lire l’arrest de ton mauvais destin.</l>
-            <stage>LETTRE DE LUCRESSE.</stage>
+            <head>LETTRE DE LUCRESSE.</head>
             <l n="1139" xml:id="l1139"><hi rend="i">Vous cherchez le fer</hi><note n="326" place="bottom">Renvoie à l’épée.</note><hi rend="i">et la flame</hi><note n="327" place="bottom">Renvoie à la flamme de l’amour (F.90).</note>,</l>
             <l n="1140" xml:id="l1140" rend="i">Pour mourir dans un lict d’<ref target="#honneur3">honneur</ref>,</l>
             <l n="1141" xml:id="l1141" rend="i">Le vostre n’en a plus, et vostre pauvre fame </l>
@@ -3023,9 +3019,7 @@
         <head>ACTE V.</head>
         <div type="scene" xml:id="acte501">
           <head>SCENE PREMIERE.</head>
-          <stage>TARQUIN, BRUTE, MAXIME, SEXTE,</stage>
-          <stage>TULLIE, MELIXENE, COLATIN,</stage>
-          <stage>LUCRETIE, LUCRESSE.</stage>
+          <stage>TARQUIN, BRUTE, MAXIME, SEXTE, TULLIE, MELIXENE, COLATIN, LUCRETIE, LUCRESSE.</stage>
           <sp xml:id="acte501-1" who="tarquin">
             <speaker>TARQUIN</speaker>
             <stage>dans un char de Triomphe.</stage>

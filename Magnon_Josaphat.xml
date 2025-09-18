@@ -805,8 +805,7 @@
           </div>
           <div type="scene">
             <head>SCENE III. [B, 9]</head>
-            <stage>JOSAPHAT, AMALAZIE, ARACHE,</stage>
-            <stage>Troupe de courtisans.</stage>
+            <stage>JOSAPHAT, AMALAZIE, ARACHE, Troupe de courtisans.</stage>
             <sp who="arache">
               <speaker>ARACHE</speaker>
               <l n="125" xml:id="l125">He bien Seigneur le peuple a veu son jeune maistre</l>
@@ -1218,8 +1217,7 @@
           </div>
           <div type="scene">
             <head>SCENE III.</head>
-            <stage>JOSAPHAT, BARLAAM.</stage>
-            <stage>GARDES.</stage>
+            <stage>JOSAPHAT, BARLAAM. GARDES.</stage>
             <sp who="josaphat">
               <speaker>JOSAPHAT.</speaker>
               <l n="312" xml:id="l312" part="I">He bien, qu’as-tu de beau ?                         </l>
@@ -1870,8 +1868,7 @@
           </div>
           <div type="scene">
             <head>SCENE II.</head>
-            <stage>ABENNER, ARACHE, JOSAPHAT.</stage>
-            <stage>AMALAZIE, NARCOR, Courtisans.</stage>
+            <stage>ABENNER, ARACHE, JOSAPHAT. AMALAZIE, NARCOR, Courtisans.</stage>
             <sp who="arache">
               <speaker>ARACHE.</speaker>
               <l n="666" xml:id="l666">Seigneur, voicy le Prince et nous vous l’amenons.</l>
@@ -2217,8 +2214,7 @@
           </div>
           <div type="scene">
             <head>SCENE III.</head>
-            <stage>ABENNER, AMALAZIE.</stage>
-            <stage>ARACHE, JOSAPHAT.</stage>
+            <stage>ABENNER, AMALAZIE. ARACHE, JOSAPHAT.</stage>
             <sp who="josaphat">
               <speaker>JOSAPHAT.</speaker>
               <l n="840" xml:id="l840">Seigneur, je suis Chrestien, je me fais mon arrest,</l>
@@ -2997,8 +2993,7 @@
           </div>
           <div type="scene">
             <head>SCENE IV.</head>
-            <stage>AMALAZIE, ARACHE, JOSAPHAT.</stage>
-            <stage>ABENNER, BARLAAM.</stage>
+            <stage>AMALAZIE, ARACHE, JOSAPHAT. ABENNER, BARLAAM.</stage>
             <sp who="abenner">
               <speaker>ABENNER</speaker>
               <l n="1214" xml:id="l1214">C’est par là que tu peux arrester ma vengeance.</l>
@@ -3430,8 +3425,7 @@
           </div>
           <div type="scene">
             <head>SCENE IV.</head>
-            <stage>ABENNER, AMALAZIE, ARACHE,</stage>
-            <stage>JOSAPHAT.</stage>
+            <stage>ABENNER, AMALAZIE, ARACHE, JOSAPHAT.</stage>
             <sp who="josaphat">
               <speaker>JOSAPHAT.</speaker>
               <l n="1393" xml:id="l1393">Seigneur je viens chercher un juge <ref target="#inexorable">inexorable</ref>,</l>

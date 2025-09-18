@@ -1714,8 +1714,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <head>SCENE TROISIEME</head>
-          <stage>POLICANDRE. BIRENE. CELANIRE.</stage>
-          <stage>PLACIDE. </stage>
+          <stage>POLICANDRE. BIRENE. CELANIRE. PLACIDE. </stage>
           <sp xml:id="I03-1" who="policandre">
             <speaker>POLICANDRE.</speaker>
             <l part="F">Quelle <ref target="#triste">triste</ref> nouvelle<pb n="B i"/></l>
@@ -2343,8 +2342,7 @@
         </div>
         <div type="scene" xml:id="II04">
           <head>SCENE QUATRIEME</head>
-          <stage>POLICANDRE. CLEOMEDON. CELANIRE. </stage>
-          <stage>TIMANTE. CREON</stage>
+          <stage>POLICANDRE. CLEOMEDON. CELANIRE. TIMANTE. CREON</stage>
           <sp xml:id="II04-1" who="policandre">
             <speaker>POLICANDRE</speaker>
             <l n="740" xml:id="l740">Devant que<note n="190" place="bottom"> Comprendre <hi rend="i">Avant que</hi>. </note> ton <ref target="#courage">courage</ref> acheve une victoire,</l>
@@ -3678,7 +3676,7 @@
         <div type="scene" xml:id="IV03">
           <head>SCENE TROISIESME</head>
           <stage>BIRENE. CLEOMEDON.</stage>
-          <stage>Cleomedon doit se promener sur le theastre, comme un homme qui a perdu le sens, sans entendre ce que luy dit Birène.</stage>
+          <stage>Cleomedon doit se promener sur le theatre, comme un homme qui a perdu le sens, sans entendre ce que luy dit Birène.</stage>
           <sp xml:id="IV03-1" who="birene">
             <speaker>BIRENE</speaker>
             <l n="1552" xml:id="l1552">Tenez-vous au repos qui vous est necessaire,</l>
@@ -3955,8 +3953,7 @@
         </div>
         <div type="scene" xml:id="V03">
           <head>SCENE TROISIESME</head>
-          <stage>ORONTE. BIRENE. CLORIMANTE.</stage>
-          <stage>POLICANDRE</stage>
+          <stage>ORONTE. BIRENE. CLORIMANTE. POLICANDRE</stage>
           <sp xml:id="V03-1" who="oronte">
             <speaker>ORONTE</speaker>
             <l n="1716" xml:id="l1716" part="I">Mais desjà le Roy <ref target="#sort">sort</ref>.</l>
@@ -4268,8 +4265,7 @@
         </div>
         <div type="scene" xml:id="V06">
           <head>SCENE SIXIEME</head>
-          <stage>POLICANDRE.  ARGIRE.  CELIANTE.</stage>
-          <stage>CELANIRE.  BELISE. CLORIMANTE.</stage>
+          <stage>POLICANDRE.  ARGIRE.  CELIANTE. CELANIRE.  BELISE. CLORIMANTE.</stage>
           <sp xml:id="V06-1" who="policandre">
             <speaker>POLICANDRE</speaker>
             <l n="1872" xml:id="l1872">Celiante, mon fils ! ha, permettez, Madame,</l>
@@ -4477,9 +4473,7 @@
         </div>
         <div type="scene" xml:id="V07">
           <head>SCENE DERNIERE</head>
-          <stage>POLICANDRE.  CLEOMEDON</stage>
-          <stage>CLORIMANTE.  ARGIRE.  CELANIRE.</stage>
-          <stage>CELIANTE.  BELISE.</stage>
+          <stage>POLICANDRE.  CLEOMEDON CLORIMANTE.  ARGIRE.  CELANIRE. CELIANTE.  BELISE.</stage>
           <sp xml:id="V07-1" who="policandre">
             <speaker>POLICANDRE</speaker>
             <l n="1971" xml:id="l1971">Venez, Cleomedon, approchez-vous d’icy,</l>

@@ -2195,9 +2195,8 @@
         </div>
         <div type="scene" xml:id="III03">
           <head>SCENE III</head>
-          <stage>LAZARILLE, HENRIQUEZ endormis,</stage>
+          <stage>LAZARILLE, HENRIQUEZ endormis, GUSMAN faisant l’Esprit</stage>
           <sp xml:id="III03-1" who="gusman">
-            <speaker>GUSMAN </speaker><stage>faisant l’Esprit</stage>
             <l n="715" xml:id="l715-mov">Peste tout tourne, où suis-je ? Ô Cambrouse<note place="bottom">Mot d’argot pour désigner une campagne reculée.</note> endiablée !<pb n="39" xml:id="p39-mov"/></l>
             <l n="716" xml:id="l716-mov">Qui pour quatre Louys rend ma teste troublée,</l>
             <l n="717" xml:id="l717-mov">Que Lucifer t’emporte avec ton chien de trou,</l>

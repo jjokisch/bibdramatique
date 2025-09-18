@@ -685,7 +685,7 @@
             <roleDesc>Confidente d’Erigone.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scène est à Nauplie<note n="49" place="bottom">L’auteur choisit de placer la scène non pas à Argos comme on pourrait s’y attendre, mais à Nauplie, port peu éloigné d’Argos, qu’il destine à Hipermestre.</note> ville maritime du Peloponese dans une salle du Palais Royal. </stage>
+        <set>La Scène est à Nauplie<note n="49" place="bottom">L’auteur choisit de placer la scène non pas à Argos comme on pourrait s’y attendre, mais à Nauplie, port peu éloigné d’Argos, qu’il destine à Hipermestre.</note> ville maritime du Peloponese dans une salle du Palais Royal. </set>
       </div>
       <div type="act" xml:id="I">
         <pb n="A3"/>

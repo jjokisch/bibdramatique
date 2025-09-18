@@ -856,7 +856,7 @@
             <role xml:id="douzieme-bulletin"/>
           </castItem>
         </castList>
-        <stage>La Scène se passe chez Ninon, au Marais.</stage>
+        <set>La Scène se passe chez Ninon, au Marais.</set>
       </div>
       <div type="act" xml:id="I">
         <pb n="A, 3" xml:id="pb3"/>
@@ -879,7 +879,7 @@
             <p><hi rend="b">C</hi><hi rend="sc">omment</hi> c’est vous, Mademoiselle le Roi ? Eh ! qui peut vous avoir éveillée si matin ?</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I02-2">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Mais vous, Monsieur Francisque, vous l’êtes bien.</p>
           </sp>
           <sp who="francisque" xml:id="I02-3">
@@ -887,7 +887,7 @@
             <p>Que voulez-vous que je vous dise, Mademoiselle ? Je n’ai pas la force de me coucher quand les autres se lèvent.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I02-4">
-            <speaker>M</speaker><stage>elle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Mademoiselle de l’Enclos ne prétend pas que ses gens veillent aussi tard qu’elle ; nous avons ordre de nous coucher à minuit, pourquoi ne vous y conformez-vous pas ?</p>
           </sp>
           <pb n="5" xml:id="pb5"/>
@@ -896,7 +896,7 @@
             <p>Est-il possible qu’un brave serviteur abuse des bontés de la Maîtresse ! Je vous avoue, Mademoiselle, que c’est par zèle que je lui désobéis.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I02-6">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>A la bonne heure<note n="135" place="bottom"> « A la bonne heure » signifie ici « Eh bien soit » (<hi rend="i">Dictionnaire de L’Académie française</hi>, 1762).</note>, si cela vous plaît ; je ferois de même que vous, si Mademoiselle Ninon n’exigeoit pas que je me retirasse dans ma chambre après le souper.</p>
           </sp>
           <sp who="francisque" xml:id="I02-7">
@@ -904,7 +904,7 @@
             <p>Est-ce par méfiance, qu’elle prend ses précautions ? Cependant nous n’ignorons de rien.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I02-8">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Elle n’est, ni assez <ref target="#dissimuler">dissimulée</ref>, ni assez hypocrite, pour nous cacher sa conduite. Sans nous faire ses confidens, elle ne s’inquiète pas de ce que nous pouvons appercevoir.</p>
           </sp>
           <sp who="francisque" xml:id="I02-9">
@@ -912,7 +912,7 @@
             <p>Oh ! c’est une femme qui ne ressemble pas aux autres !</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I02-10">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Oh ! je vous en réponds<note n="136" place="bottom"> « On dit dans la conversation, <hi rend="i">Je vous en réponds</hi>, pour dire, Je vous en assure. » (<hi rend="i">Dictionnaire de L’Académie Française</hi>, 1762).</note> !</p>
           </sp>
           <sp who="francisque" xml:id="I02-11">
@@ -921,7 +921,7 @@
           </sp>
           <pb n="6" xml:id="pb6"/>
           <sp who="mlle-le-roi" xml:id="I02-12">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Oh ! Je suis bien sûre qu’il ne manquera pas de venir voir Mademoiselle ; ce n’est pas ce qui m’inquiète. Mais ce qui m’allarme pour elle, c’est ce Monsieur Desyvetaux, qui ne reparoît plus depuis six mois. Elle a mis je ne sais combien de gens en campagne pour le découvrir sans en avoir encore aucune nouvelle… A propos, Mademoiselle m’a fort recommandé de vous donner ce matin cette lettre pour la porter à Monsieur de Gourville.</p>
             <p/>
           </sp>
@@ -930,7 +930,7 @@
             <p>Celle-ci aura le même sort que toutes les autres. Il ne veut, ni répondre, ni revoir Ninon.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I02-14">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Monsieur de Gourville est un sot personnage, et ce n’est pas savoir vivre : il refuse de voir Ninon quand les plus grands du Royaume n’aspirent qu’à lui faire leur cour.</p>
           </sp>
           <sp who="francisque" xml:id="I02-15">
@@ -938,7 +938,7 @@
             <p>Et voilà précisément ce qui le <ref target="#facher">fâche</ref>. Je crois avoir entrevu qu’il en est encore amoureux, et qu’il craint que la passion ne se rallume en la revoyant. D’ailleurs, il n’ignore pas que Monsieur de Villarceaux l’a remplacé ; mais il n’est pas instruit, à ce qu’il paroît, que Monsieur de la Châtre a succédé à celui-là.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I02-16">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Son règne ne sera pas long, puisqu’il part ce matin pour l’armée.</p>
           </sp>
           <pb n="7" xml:id="pb7"/>
@@ -947,7 +947,7 @@
             <p>Que me dites-vous là ? Et de quand cette nouvelle ?</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I02-18">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>D’hier au soir. L’état de Monsieur de la Châtre est inexprimable. Mademoiselle est désolée. Et toutes les attentions de Madame Scaron, qui ne l’a point quittée, n’ont pu la consoler, ni la calmer un seul moment.</p>
           </sp>
           <sp who="francisque" xml:id="I02-19">
@@ -955,7 +955,7 @@
             <p>Je m’en vais bien vîte porter cette lettre, car un Amant qui arrive, a plus beau jeu qu’un Amant qui part. Mais, qui nous vient si matin ?</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I02-20">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>C’est Monsieur le Grand-Prieur ! que nous veut ce triste personnage ? il va trouver Mademoiselle dans une disposition propre à le congédier. Car elle ne possède pas la <ref target="#vertu1">vertu</ref> de s’ennuyer patiemment.</p>
           </sp>
           <sp who="francisque" xml:id="I02-21">
@@ -992,7 +992,7 @@
             <p><hi rend="b">C</hi><hi rend="sc">e</hi> drôle joue le <ref target="#sentiment1">sentiment</ref> ! voyons si je réussirai mieux auprès de la suivante.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I04-2">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>C’est à mon tour maintenant ; mais vous allez voir si je suis plus traitable que mon camarade.</p>
           </sp>
           <pb n="9" xml:id="pb9"/>
@@ -1001,7 +1001,7 @@
             <p>Bon jour, Mademoiselle le Roi, comment se porte l’incomparable Ninon ?</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I04-4">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Vous lui faites beaucoup d’honneur, à merveille Monsieur : si ce n’est une peine réelle qui la trouble en ce moment.</p>
           </sp>
           <sp who="grand-prieur" xml:id="I04-5">
@@ -1009,7 +1009,7 @@
             <p>Ne puis-je savoir le sujet de son affliction ?</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I04-6">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>C’est la perte d’un ami qui l’afflige extrêmement.</p>
           </sp>
           <sp who="grand-prieur" xml:id="I04-7">
@@ -1017,7 +1017,7 @@
             <p>Quel est l’<ref target="#heureux1">heureux</ref> actuellement ?</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I04-8">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Moi, Monsieur ! je l’ignore ; j’ignore même si ma maîtresse dans ses amours fait des <ref target="#heureux1">heureux</ref>.</p>
           </sp>
           <sp who="grand-prieur" xml:id="I04-9">
@@ -1025,7 +1025,7 @@
             <p>La pauvre innocente ! elle ne sait rien.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I04-10">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Je ne suis pas, Monsieur, plus innocente qu’une autre. Mademoiselle Ninon de l’Enclos sait non seulement se faire respecter de tous ceux qui la connoissent, mais encore de ses gens, art très difficile à saisir, mais plus encore à exercer.</p>
           </sp>
           <sp who="grand-prieur" xml:id="I04-11">
@@ -1033,14 +1033,14 @@
             <p>Il faut rendre justice à la confidente de Ninon et convenir que personne n’est plus digne qu’elle<pb n="10" xml:id="pb10"/> d’apprécier le mérite rare de sa maitresse ; mais Mademoiselle, vous pouvez, sans comprometre votre délicatesse, vous intéresser un peu pour moi, voilà un diamant de deux mille écus, acceptez-le, servez-moi, je vous prie, et soyez persuadée que jamais Ninon n’en sera instruite.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I04-12">
-            <speaker>M</speaker><stage>le saluant jusqu’à terre</stage><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker><stage>le saluant jusqu’à terre.</stage>
             <p>Tout ce que je puis faire, Monsieur, pour votre générosité et votre discrétion, c’est de vous annoncer à ma maitresse et j’y cours.</p>
           </sp>
         </div>
         <div type="scene" xml:id="I05">
           <head>SCENE V</head>
           <sp who="grand-prieur" xml:id="I05-1">
-            <speaker>M. LE GRAND-PRIEUR, </speaker><stage>regardant M</stage>
+            <speaker>M. LE GRAND-PRIEUR, </speaker><stage>regardant M<hi rend="sup">lle</hi> le Roi s’en aller</stage>
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> commence à m’appercevoir que le mépris que ces gens-là font de mes dons est plutôt l’effet du dédain que leur maitresse a pour mes sentimens, que celui de leur désintéressement. C’est ce dont je viens me convaincre pour la dernière fois. Ah ! cruelle Ninon, favorable à tant de personnages qui ne me valent pas, s’il faut que j’échoue auprès de toi, une bonne épigramme<note n="137" place="bottom"> Une épigramme est un court poème satirique en vers, qui se termine souvent par une pointe.</note> me vengera de tes rigueurs<note n="138" place="bottom"> Comprendre : « me vengera de ton indifférence ». « Rigueurs » désigne ici la froideur, l’insensibilité d’une maîtresse envers son amant (« sa sévérité, sa vertu ; le refus qu’elle fait de son cœur, de ses faveurs » <hi rend="i">Dictionnaire universel</hi> de Furetière, 1727).</note>. Tenons-la toute prête : voilà justement tout ce qu’il faut pour écrire…</p>
             <stage>(Il s’approche de la table et s’assied, puis réfléchissant.)</stage>
             <p>J’y suis : elle est sanglante…</p>
@@ -1424,7 +1424,7 @@
             <p><hi rend="b">Q</hi><hi rend="sc">u’est-ce</hi> ?</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="I09-2">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>C’est une jeune Demoiselle qui est là-bas dans une voiture, et qui demande à parler à Monsieur Molière : elle a, dit-elle, des choses de la dernière conséquence<note n="154" place="bottom"> Comprendre : « De la plus grande importance ».</note> à lui communiquer, dont elle lui a déjà fait part dans une lettre.</p>
           </sp>
           <sp who="moliere" xml:id="I09-3">
@@ -1432,7 +1432,7 @@
             <p>Ah ! je l’avais oublié ; c’est ma jeune fille de qualité<note n="155" place="bottom"> Une jeune fille de qualité est une jeune fille noble.</note>. Je m’applaudis qu’elle soit venue me trouver ici ; vous m’aiderez, Ninon, à calmer cette tête exaltée et à la faire rentrer dans son devoir. Vous voulez bien me permettre de vous la présenter.</p>
           </sp>
           <sp who="ninon" xml:id="I09-4">
-            <speaker>NINON, </speaker><stage>à M</stage>
+            <speaker>NINON, </speaker><stage>M<hi rend="sup">lle</hi> le Roi.</stage>
             <p>Mademoiselle, allez la chercher et la conduisez<note n="156" place="bottom"> Au XVII<hi rend="sup">e</hi> siècle et encore au XVIII<hi rend="sup">e</hi>, lorsque deux impératifs étaient coordonnés, le pronom clitique complément du second impératif se plaçait souvent après la conjonction, en antéposition au verbe.</note> ici.</p>
           </sp>
         </div>
@@ -1465,7 +1465,7 @@
           <head>SCENE XI.</head>
           <stage>LES MÊMES, OLIMPE, M<hi rend="sup">lle</hi> LE ROI.</stage>
           <sp who="mlle-le-roi" xml:id="I11-1">
-            <speaker>M</speaker><stage>à Olimpe</stage><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker><stage>à Olimpe</stage>
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi>, voilà Monsieur Molière.</p>
             <stage>(Elle sort.)</stage>
           </sp>
@@ -1574,7 +1574,7 @@
             <p>Et Mademoiselle ne prend le parti violent de la Comédie, qu’après avoir consulté son cœur.</p>
           </sp>
           <sp who="olympe" xml:id="I12-24">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> OLIMPE.</speaker>
             <p>Il est vrai, Mademoiselle, et je suis d’autant plus affligée, que mon Amant est sans parents, et n’a d’autre protecteur, d’autre appui que mon père ; il a tout perdu, en perdant son amitié ; et il ne lui reste d’autre ressource que la Comédie. Ressource, qui doit nous unir un jour l’un à l’autre ; et résolus de prendre ce parti, nous nous sommes jurés une foi éternelle.</p>
           </sp>
           <pb n="29" xml:id="pb29"/>
@@ -2367,11 +2367,9 @@
         </div>
         <div type="scene" xml:id="II03">
           <head>SCENE III.</head>
-          <stage>LES MÊMES, DESYVETEAUX, LA DUPUIS.</stage>
-          <stage>Desyveteaux habillé en Berger, la houlette à la main, la pannetière au côté, et le chapeau garni de rubans, parmi lesquels on distingue une fontange jaune, que lui avoit donnée Ninon. La Dupuis habillée en Bergère élégante, et tenant une guitarre. Desyveteaux conduit un agneau, et regarde son troupeau qui traverse le fond du Théâtre.</stage>
+          <stage>LES MÊMES, DESYVETEAUX, LA DUPUIS. Desyveteaux habillé en Berger, la houlette à la main, la pannetière au côté, et le chapeau garni de rubans, parmi lesquels on distingue une fontange jaune, que lui avoit donnée Ninon. La Dupuis habillée en Bergère élégante, et tenant une guitarre. Desyveteaux conduit un agneau, et regarde son troupeau qui traverse le fond du Théâtre.</stage>
           <sp who="desyveteaux" xml:id="II03-1">
-            <speaker>DESYVETEAUX, </speaker><stage>dans le fond du Théâtre</stage>
-            <stage>Il chante la Romance connue.</stage>
+            <speaker>DESYVETEAUX, </speaker><stage>dans le fond du Théâtre. Il chante la Romance connue.</stage>
             <l n="11" xml:id="l11">« <hi rend="b">D</hi><hi rend="sc">e</hi> mes Moutons le nombre augmente,</l>
             <l n="12" xml:id="l12">L’Agneau suit la brebis bélante ;</l>
             <l n="13" xml:id="l13">Autour des fleurs de ce séjour,</l>
@@ -2430,7 +2428,8 @@
           </sp>
           <pb n="60" xml:id="pb60"/>
           <sp who="la-dupuis" xml:id="II03-13">
-            <speaker>LA DUPUIS <note n="181" place="bottom"> L’air « On compterait les Diamants » vient d’une chanson populaire du même nom, écrite en 1782, d’un auteur anonyme, en octosyllabe et en rimes croisées.</note>.</speaker><stage>l’Air : On compteroit tous les Diamans</stage><stage>accordant sa guitare, chante sur</stage>
+            <speaker>LA DUPUIS</speaker>
+            <stage><hi rend="i">accordant sa guitare, chante sur</hi> <hi rend="i">l’Air : On compteroit tous les Diamans</hi><note n="181" place="bottom"> L’air « On compterait les Diamants » vient d’une chanson populaire du même nom, écrite en 1782, d’un auteur anonyme, en octosyllabe et en rimes croisées.</note>.</stage>
             <lg>
               <l n="19" xml:id="l19"><hi rend="b">L</hi><hi rend="sc">ise</hi>, l’autre jour, naviguoit</l>
               <l n="20" xml:id="l20">Avec Colin sur la rivière ;</l>
@@ -2506,7 +2505,7 @@
           <head>SCENE IV.</head>
           <stage>DESYVETEAUX, MATHURIN.</stage>
           <sp who="desyveteaux" xml:id="II04-1">
-            <speaker>DESYVETEAUX, </speaker><stage>regardant s’en aller sa Bergère, et </stage>
+            <speaker>DESYVETEAUX, </speaker><stage>regardant s’en aller sa Bergère, et <lb />tirant un mouchoir de sa poche.</stage>
             <p><hi rend="b">E</hi><hi rend="sc">lle</hi> s’éloigne de moi, un cruel devoir me prive de sa présence.</p>
             <stage>(Tombant aux genoux de Mathurin.)</stage>
             <p>O mon père !</p>
@@ -2552,7 +2551,7 @@
             <p>Venez, berger ; venez vous rafraîchir à cette onde pure, symbole de notre amour.</p>
           </sp>
           <sp who="desyveteaux" xml:id="II06-4">
-            <speaker>DESYVETEAUX, </speaker><stage>prenant la main de la Dupuis, </stage>
+            <speaker>DESYVETEAUX, </speaker><stage>prenant la main de la Dupuis, et sortant de sa poche une tasse de berger.</stage>
             <p>Nous allons boire ensemble, dans la même tasse, de cette eau argentine, plus agréable aux bergers que le nectar des Dieux<note n="184" place="bottom"> Dans la mythologie gréco-romaine, les Dieux se nourrissent de nectar et d’ambroisie.</note>.</p>
             <stage>(Il va pour se baisser, et tombe dans la fontaine).</stage>
           </sp>
@@ -2655,8 +2654,7 @@
         </div>
         <div type="scene" xml:id="II08">
           <head>SCENE VIII.</head>
-          <stage>NINON, Madame SCARON, MOLIERE, GOURVILLE, et plusieurs autres, </stage>
-          <stage>LES PRECEDENS </stage>
+          <stage>NINON, Madame SCARON, MOLIERE, GOURVILLE, et plusieurs autres, LES PRECEDENS </stage>
           <sp who="ninon" xml:id="II08-1">
             <speaker>NINON, </speaker><stage>surprenant Desyveteaux aux pieds de la Dupuis</stage>
             <p><hi rend="b">M</hi><hi rend="sc">es</hi> amis, est-ce bien lui ? Mais oui : je ne me trompe pas : c’est lui-même. Quelle métamorphose !</p>
@@ -2894,10 +2892,7 @@
         <div type="scene" xml:id="II11">
           <pb n="75" xml:id="pb75"/>
           <head>SCENE XI.</head>
-          <stage>LES PRECEDENS, LE PRINCE DE CONDE, </stage>
-          <stage>LE COMTE DE FIESQUE, autres Seigneurs, </stage>
-          <stage>UN HEIDUQUE, plusieurs VALETS de </stage>
-          <stage>MATHURIN, LUCAS, BLAISE.</stage>
+          <stage>LES PRECEDENS, LE PRINCE DE CONDE, LE COMTE DE FIESQUE, autres Seigneurs, UN HEIDUQUE, plusieurs VALETS de MATHURIN, LUCAS, BLAISE.</stage>
           <sp who="mathurin" xml:id="II11-1">
             <speaker>MATHURIN.</speaker>
             <p><hi rend="b">G</hi><hi rend="sc">are</hi> ! gare ! Voici, ma foi, du biau monde… Ah ! les biaux habits.</p>
@@ -3018,8 +3013,7 @@
           <sp who="moliere" xml:id="II12-6">
             <speaker>MOLIERE, </speaker><stage>regardant les Danseurs qui se préparent</stage>
             <p>Comment diable ! du caractère dans la danse !</p>
-            <stage>Six Danseurs et six Danseuses forment un Ballet Pastoral dans le genre agréable. Le premier Danseur et la première Danseuse portent une couronne de laurier<note n="190" place="bottom"> Le laurier est le symbole de la victoire et était un des attributs de la Victoire, déesse allégorique gréco-romaine. La couronne de laurier symbolise ici les victoires du Grand-Condé.</note>, qu’ils vont présenter au Grand-Condé. Une Bergère chante un couplet sur la vie champêtre. Un second Berger chante un couplet en l’honneur du Prince. Une autre Bergère chante un couplet à la louange de Ninon. Desyveteaux chante un couplet à la gloire du Prince. La Bergère Colinette en chante un autre au même sujet ; et tous les Bergers et Bergères répètent en chœur la fin du couplet. Le Ballet se retire, et il ne reste plus que les Acteurs précédens.</stage>
-            <stage>(On peut se dispenser de ce premier Ballet, si l’Acte est trop long.)</stage>
+            <stage>Six Danseurs et six Danseuses forment un Ballet Pastoral dans le genre agréable. Le premier Danseur et la première Danseuse portent une couronne de laurier<note n="190" place="bottom"> Le laurier est le symbole de la victoire et était un des attributs de la Victoire, déesse allégorique gréco-romaine. La couronne de laurier symbolise ici les victoires du Grand-Condé.</note>, qu’ils vont présenter au Grand-Condé. Une Bergère chante un couplet sur la vie champêtre. Un second Berger chante un couplet en l’honneur du Prince. Une autre Bergère chante un couplet à la louange de Ninon. Desyveteaux chante un couplet à la gloire du Prince. La Bergère Colinette en chante un autre au même sujet ; et tous les Bergers et Bergères répètent en chœur la fin du couplet. Le Ballet se retire, et il ne reste plus que les Acteurs précédens. (On peut se dispenser de ce premier Ballet, si l’Acte est trop long.)</stage>
           </sp>
         </div>
         <div type="scene" xml:id="II13">
@@ -3104,7 +3098,7 @@
         <div type="scene" xml:id="III01">
           <head>SCENE PREMIERE.</head>
           <sp who="mlle-le-roi" xml:id="III01-1">
-            <speaker>M</speaker><stage>seule</stage><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker><stage>seule</stage>
             <p><hi rend="b">C</hi><hi rend="sc">omme</hi> la maison est déserte quand M<hi rend="sup">lle</hi> n’y est pas ! Le Grand Condé a été la rejoindre chez Monsieur Desyveteaux : peut-être reviendront-ils ensemble… Mais cette jeune personne, qui est enfermée avec sa bonne dans le Sallon d’été, qu’a-t-elle de commun avec Ninon ? C’est là leur secret, et je n’ai rien à y voir. On arrive… C’est le cher Monsieur Scaron. Arrangeons vîte sa place.</p>
             <stage>(Elle va vers le canapé, et arrange tous les oreillers. Elle débarrasse aussi les fauteuils).</stage>
             <p>Comme il souffre, le cher homme, et comme il est gai. Il va me dire, suivant sa coutume, quelque chose de drôle.</p>
@@ -3122,7 +3116,7 @@
             <stage>(Les porteurs se retirent).</stage>
           </sp>
           <sp who="porteur1" xml:id="III02-2">
-            <speaker>LE I</speaker><stage>en s’en allant</stage><stage>er</stage>
+            <speaker>LE Ier</speaker><stage>en s’en allant</stage>
             <p><ref target="#jarnigoi">Jarnigoi</ref> ! Monsieur Scaron, si vous donniez quelques sous, j’irions boire à votre santé.</p>
           </sp>
           <sp who="scaron" xml:id="III02-3">
@@ -3130,11 +3124,11 @@
             <p>Coquins ! j’ai beau vous donner pour boire, je ne m’en porte pas mieux, et je ne veux pas m’exposer à me faire casser le col. C’est bien assez que j’aye le corps brisé. Je veux conserver ma tête pour mes amis.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="III02-4">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>C’est bien fait, Monsieur Scaron ; car hier ces marauts étoient sous comme des grives.</p>
           </sp>
           <sp who="porteur2" xml:id="III02-5">
-            <speaker>2</speaker><stage>e</stage>
+            <speaker>2e</speaker>
             <p>Tiens, prenons notre parti, il n’y a rien à faire pour aujourd’hui.</p>
             <stage>(Ils sortent).</stage>
           </sp>
@@ -3148,7 +3142,7 @@
             <p><hi rend="b">C</hi><hi rend="sc">omment</hi> te portes-tu, ma poule ? et mon ange Ninon, la colombe est déjà dénichée, et les oiseaux des tournelles<note n="192" place="bottom"> « Oiseaux des Tournelles » était le nom donné aux amis de Ninon de L’Enclos qui fréquentaient sa société, parce qu’elle habitait rue des tournelles. Olympe de Gouges fait jouer le personnage de Scarron sur la métaphore filée des oiseaux. Il oppose la poule, qui reste au sol et qui est associée à ce qui est bas, mais qui constitue ici un terme affectif, à la colombe, qui vole et qui est considérée comme un oiseau noble, associé à l’amour et à la paix.</note> sont aux champs.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="III03-2">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Ah ! Monsieur Scaron, vous ne savez pas une grande nouvelle ? Monsieur Desyveteaux est retrouvé.</p>
           </sp>
           <sp who="scaron" xml:id="III03-3">
@@ -3156,7 +3150,7 @@
             <p>Ah ! que tu me fais plaisir ! Sans doute, Ninon en est instruite.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="III03-4">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Oui, puisqu’elle a volé chez lui sur le champ.</p>
           </sp>
           <sp who="scaron" xml:id="III03-5">
@@ -3164,7 +3158,7 @@
             <p>Et sait-on où le bonhomme s’étoit caché pendant six mois ?</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="III03-6">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Dans sa maison du fauxbourg Saint-Marceau<note n="193" place="bottom"> Au premier acte, Francisque avait annoncé à Ninon que Desyveteaux s’était retiré « dans sa maison de campagne du Faubourg Saint Germain » (I, 16 p. [42]). Il semble y avoir une incohérence dans cette scène car Mademoiselle le Roi parle du « faubourg Saint-Marceau ». Selon <hi rend="i">Le Grand Dictionnaire historique</hi> de Moreri, la maison de Nicolas Vauquelin, seigneur des Yveteaux était bien au faubourg Saint-Germain.</note>.</p>
           </sp>
           <sp who="scaron" xml:id="III03-7">
@@ -3172,7 +3166,7 @@
             <p>Mais il en étoit dégoûté.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="III03-8">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>On n’en a pas appris davantage à Mademoiselle<pb n="86" xml:id="pb86"/> de l’Enclos, sinon que ses Valets sont tous habillés en paysans.</p>
           </sp>
           <sp who="scaron" xml:id="III03-9">
@@ -3180,7 +3174,7 @@
             <p>Il eut toujours du goût pour la vie champêtre ; aussi a-t-il fait des pastorales<note n="194" place="bottom"> Des Yveteaux aimait la musique et les pastorales selon Prosper Blanchemain dans son édition des <hi rend="i">Œuvres poétiques de Nicolas Vauquelin Des-Yveteaux réunies pour la première fois</hi>, publiée en 1854. Il a écrit de nombreux poèmes pastoraux.</note>.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="III03-10">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Nous apprendrons tout au retour de ma Maîtresse.</p>
           </sp>
           <sp who="scaron" xml:id="III03-11">
@@ -3188,7 +3182,7 @@
             <p>Cette nouvelle redouble mon impatience de voir mon adorable Ninon. Mais écoute, ma poule ; profitons du tems, donne-moi du papier et une écritoire, que je fasse mes adieux à ce charmant Marais, à la Reine des cœurs, à qui jamais aucun ne sera rebelle.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="III03-12">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Tenez, faites agir votre esprit et votre ame pour ma Maîtresse ; mais pourquoi nous quitter ?</p>
           </sp>
           <sp who="scaron" xml:id="III03-13">
@@ -3196,7 +3190,7 @@
             <p>Ce n’est pas moi qui vous quitte : ce sont mes infirmités qui m’y forcent, et cette vilaine camarde qui me mitonne depuis long-tems, et qui bientôt, avec sa faulx, me donnera dans la visière ; mais comme je ne suis pas sa dupe, je veux profiter du tems qu’il me reste.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="III03-14">
-            <speaker>M</speaker><stage>à part</stage><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker><stage>à part</stage>
             <p>Quelle <ref target="#heureux3">heureuse</ref> philosophie ! C'est, en vérité, grand dommage, quand des hommes de cet esprit et de cette gaité sont exposés aux souffrances et<pb n="87" xml:id="pb87"/>à perdre la vie. Voici, fort à propos, Monsieur le Maréchal d’Estrées, avec le Président Deffiat, pour lui tenir compagnie.</p>
             <stage>(Scaron continue d’écrire.)</stage>
             <stage>(Elle sort.)</stage>
@@ -3304,7 +3298,7 @@
             <p>Ninon n’en sera pas <ref target="#facher">fâchée</ref>. Monsieur le Président, son amitié me<note n="200" place="bottom"> Dans cette réplique, le « me » semble être une incohérence. En effet, c’est le président qui a perdu aux dés, ce serait donc lui qui devrait être « dédommagé ».</note> dédommagera de cette perte.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="III04-23">
-            <speaker>M</speaker><stage>entrant</stage><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker><stage>entrant</stage>
             <p>Messieurs, j’entends des voitures, je crois que voilà Mademoiselle.</p>
           </sp>
           <sp who="scaron" xml:id="III04-24">
@@ -3347,9 +3341,7 @@
         </div>
         <div type="scene" xml:id="III06">
           <head>SCENE VI.</head>
-          <stage>LES MÊMES, NINON, LE GRAND-CONDE, </stage>
-          <stage>GOURVILLE, MOLIERE, LE COMTE </stage>
-          <stage>DE FIESQUE, Madame SCARON.</stage>
+          <stage>LES MÊMES, NINON, LE GRAND-CONDE, GOURVILLE, MOLIERE, LE COMTE DE FIESQUE, Madame SCARON.</stage>
           <sp who="ninon" xml:id="III06-1">
             <speaker>NINON, </speaker><stage>courant à Scaron</stage>
             <p><hi rend="b">O</hi><hi rend="sc">h</hi> ! mon cher ami, vous étiez chez moi, et j’étois absente. Ne vous êtes-vous pas ennuyé, mon ami ?</p>
@@ -3360,8 +3352,7 @@
             <p>Ce mal me gagne dès que je ne vous vois pas, et c’est le plus insupportable de mes maux ; mais n’êtes-vous pas toujours présente à mon imagination.</p>
           </sp>
           <sp who="moliere" xml:id="III06-3">
-            <speaker>MOLIERE, </speaker><stage>se mettant auprès de Scaron, et regardant les Vers qu’il a faits pour Ninon</stage>
-            <stage>(A Ninon).</stage>
+            <speaker>MOLIERE, </speaker><stage>se mettant auprès de Scaron, et regardant les Vers qu’il a faits pour Ninon (A Ninon).</stage>
             <p>Et elle a travaillé en vous attendant.</p>
           </sp>
           <sp who="le-grand-conde" xml:id="III06-4">
@@ -3964,8 +3955,7 @@
         </div>
         <div type="scene" xml:id="III11">
           <head>SCENE XI.</head>
-          <stage>LE GRAND-CONDE, LE MARECHAL </stage>
-          <stage>D’ESTREES, NINON.</stage>
+          <stage>LE GRAND-CONDE, LE MARECHAL D’ESTREES, NINON.</stage>
           <sp who="le-grand-conde" xml:id="III11-1">
             <speaker>LE GRAND-CONDE, </speaker><stage>avec empressement</stage>
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> viens, Mademoiselle de l’Enclos, m’acquitter des ordres de la Reine, et vous assurer de sa part qu’elle est <ref target="#facher">fâchée</ref> qu’on lui ait fait de faux rapports sur votre compte ; qu’elle en punira les délateurs, et que sa faveur ne s’étendra jamais sur les femmes perfides qui ont ôsé vous calomnier auprès d’Elle.</p>
@@ -4011,8 +4001,7 @@
         <div type="scene" xml:id="III12">
           <pb n="115" xml:id="pb115"/>
           <head>SCENE XII.</head>
-          <stage>LES MÊMES, MOLIERE, CHAPELLE,</stage>
-          <stage> SAINT-EVREMONT.</stage>
+          <stage>LES MÊMES, MOLIERE, CHAPELLE,  SAINT-EVREMONT.</stage>
           <sp who="le-grand-conde" xml:id="III12-1">
             <speaker>LE GRAND-CONDE.</speaker>
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> vous salue, Messieurs ; (<hi rend="i">à Molière</hi>.) arrivez donc, Monsieur Molière : nous vous attendons, mon ami, avec la dernière impatience<note n="213" place="bottom"> Comprendre : « La plus grande impatience ».</note>.</p>
@@ -4187,7 +4176,7 @@
             <p>Non, Mademoiselle ; malgré l’embarras où la visite de la Reine de Suède me jette, j’ai le plus grand plaisir de jouir de votre aimable présence. Je ne puis vous offrir de vous trouver à cette fête, ce seroit compromettre vos intérêts, qui me sont plus chers que les miens.</p>
           </sp>
           <sp who="olympe" xml:id="IV01-4">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> OLIMPE.</speaker>
             <p>Que j’en suis <ref target="#penetree">pénétrée</ref> : si la plus sincère amitié peut m’acquitter un jour, combien je vous prou/<pb n="122" xml:id="pb122"/>/verai ma reconnoissance ! Mais souffrez que je n’abuse pas plus long-temps de votre complaisance. Je vais me retirer.</p>
           </sp>
           <sp who="ninon" xml:id="IV01-5">
@@ -4351,8 +4340,7 @@
         </div>
         <div type="scene" xml:id="IV06">
           <head>SCENE VI.</head>
-          <stage>MOLIERE, NINON, Madame DE LA </stage>
-          <stage>SABLIERE, M. MIGNARD.</stage>
+          <stage>MOLIERE, NINON, Madame DE LA SABLIERE, M. MIGNARD.</stage>
           <sp who="ninon" xml:id="IV06-1">
             <speaker>NINON, </speaker><stage>allant à Madame de la Sablière</stage>
             <p><hi rend="b">E</hi><hi rend="sc">nfin</hi>, je vous suis redevable, Madame la Marquise, d’avoir retrouvé ce pauvre Desyveteaux.</p>
@@ -4499,8 +4487,7 @@
         </div>
         <div type="scene" xml:id="IV10">
           <head>SCENE X.</head>
-          <stage>NINON, LE COMTE DE FIESQUE, </stage>
-          <stage>MOLIERE.</stage>
+          <stage>NINON, LE COMTE DE FIESQUE, MOLIERE.</stage>
           <sp who="ninon" xml:id="IV10-1">
             <speaker>NINON, </speaker><stage>à Molière</stage>
             <p><hi rend="b">M</hi><hi rend="sc">oliere</hi>, on vous attend…</p>
@@ -4551,7 +4538,7 @@
           <head>SCENE XI.</head>
           <stage>LES MÊMES, M<hi rend="sup">lle</hi> LE ROI.</stage>
           <sp who="mlle-le-roi" xml:id="IV11-1">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p><hi rend="b">M</hi><hi rend="sc">onsieur</hi> et Madame Scaron viennent d’arriver, et je viens d’entendre plusieurs voitures entrer dans la cour.</p>
           </sp>
         </div>
@@ -4580,8 +4567,7 @@
         </div>
         <div type="scene" xml:id="IV13">
           <head>SCENE XIII.</head>
-          <stage>NINON, LE COMTE DE FIESQUE.</stage>
-          <stage>(Ils restent tous deux un instant dans le silence.)</stage>
+          <stage>NINON, LE COMTE DE FIESQUE. (Ils restent tous deux un instant dans le silence.)</stage>
           <sp who="ninon" xml:id="IV13-1">
             <speaker>NINON, </speaker><stage>à part regardant le Comte</stage>
             <p><hi rend="b">Q</hi><hi rend="sc">u’on</hi> est bête quand on est amoureux. Je voudrais lui parler et je ne sais par où commencer.</p>
@@ -4625,9 +4611,7 @@
         </div>
         <div type="scene" xml:id="IV14">
           <head>SCENE XIV.</head>
-          <stage>LES MÊMES, CHRISTINE, LE PRINCE </stage>
-          <stage>DE CONDE, LE MARECHAL </stage>
-          <stage>D’ESTREES, FRANCISQUE.</stage>
+          <stage>LES MÊMES, CHRISTINE, LE PRINCE DE CONDE, LE MARECHAL D’ESTREES, FRANCISQUE.</stage>
           <sp who="francisque" xml:id="IV14-1">
             <speaker>FRANCISQUE, </speaker><stage>accourant</stage>
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi>, j’ai été surpris ; je n’ai point entendu de voiture.</p>
@@ -4796,8 +4780,7 @@
         <div type="scene" xml:id="IV16">
           <pb n="146" xml:id="pb146"/>
           <head>SCENE XVI.</head>
-          <stage>LES MÊMES, LE PRINCE DE CONDE,</stage>
-          <stage> LE MARECHAL D’ESTREES.</stage>
+          <stage>LES MÊMES, LE PRINCE DE CONDE,  LE MARECHAL D’ESTREES.</stage>
           <sp who="le-grand-conde" xml:id="IV16-1">
             <speaker>LE GRAND CONDE.</speaker>
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> suis peut-être arrivé trop tôt, Madame, et je crains d’avoir commis une indiscrétion.</p>
@@ -4814,8 +4797,7 @@
         <div type="scene" xml:id="IV17">
           <pb n="147" xml:id="pb147"/>
           <head>SCENE XVII.</head>
-          <stage>LES MÊMES, MOLIERE.</stage>
-          <stage>MOLIERE salue respectueusement la Reine.</stage>
+          <stage>LES MÊMES, MOLIERE. MOLIERE salue respectueusement la Reine.</stage>
           <sp who="reine-christine" xml:id="IV17-1">
             <speaker>CHRISTINE.</speaker>
             <p><hi rend="b">A</hi><hi rend="sc">pprochez</hi>, homme célèbre, je suis enchantée de voir l’ami de Mademoiselle de l’Enclos. Ce titre fait bien votre éloge.</p>
@@ -4901,11 +4883,9 @@
           <sp who="mad-scaron" xml:id="IV17-20">
             <speaker>Mad. SCARON ; </speaker><stage>s’avançant sur le Théâtre</stage>
             <p>Grande Reine, acceptez cette couronne d’olivier<note n="239" place="bottom"> L’olivier est l’arbre associé à Athéna, ou Minerve chez les Grecs, déesse de la sagesse, de la guerre, des sciences et des arts. Une dispute l’opposa à Neptune pour savoir lequel donnerait son nom à la ville d’Athènes. Les autres Dieux décidèrent que celui qui offrirait la chose la plus utile à la ville lui donnerait son nom. Neptune offrit un cheval, Minerve un olivier, ce qui lui permit de remporter la victoire. Dans la Bible une colombe apporte à Noé une branche d’olivier pour annoncer la fin du déluge. L’olivier est ainsi symbole de paix mais aussi de victoire puisqu’aux jeux olympiques les vainqueurs recevaient une couronne d’olivier.</note> que le respect et l’amitié vous offrent.</p>
-            <stage>(Elle lui met la couronne sur la tête.)</stage>
-            <stage>CHŒURS sur l’amitié qui restent à faire, et dont je ne doute pas qu’en faveur du sujet, un de nos bons Poëtes se charge.</stage>
-            <stage rend="center">BALLETS.</stage>
-            <stage>Le Grand-Condé, à la tête de l’armée ennemie ; un Général François se présente à lui, accompagné des débris de son armée qui consiste en une vingtaine de Soldats, lui expose les dangers de la France ; le Prince ne peut tenir à cet aspect, il arrache l’écharpe du Parti ennemi, il vole pour se mettre à la tête de ses compatriotes. Voilà, à-peu-près, l’action du Ballet.</stage>
-            <stage>Chaconne<note n="240" place="bottom"> La chaconne est une danse lente à trois temps à la mode, aux XVII<hi rend="sup">e</hi> et XVIII<hi rend="sup">e</hi> siècles, et l’air sur lequel elle était dansée. C’était à l’origine une danse populaire hispanique, accompagnée de castagnettes. En Europe, la chaconne est devenue une danse noble ou une « pièce vocale ou instrumentale inspirée de cette danse, consistant en variations sur un thème de quatre mesures répété à la basse » (<hi rend="i">Trésor de la Langue française</hi>).</note> dans le grand genre, une troupe de Bohémiens. Le petit homme noir<note n="241" place="bottom"> Selon Christine Mongenot, comme ce petit homme noir est un « faiseur de prédiction », il pourrait s’agir du personnage de Barbé dans le <hi rend="i">Segraisiana ou mélange d’histoire et de littérature</hi> de Segrais. En effet l’auteur écrit : « Barbé était un Masson qui allait souvent chez Scarron et comme il se mêlait d’Astrologie il regardait toujours Madame Scarron avec admiration en disant qu’elle était née pour être Reine et qu’elle serait un jour dans un haut degré d’élévation. S’il s’est trompé, c’est qu’il ajoutait que cette élévation aurait sa fin peu de temps après qu’il serait mort. Madame de Maintenon fut un peu allarmée quand elle apprit qu’il était mort mais un nombre d’années s’est déjà écoulé depuis qu’il n’est plus et Madame de Maintenon se porte bien dans l’état de splendeur où elle est. » (Segrais, <hi rend="i">Segraisiana ou mélange d’histoire et de littérature</hi>, 1721, éd. 1722, p. 12). Dans les <hi rend="i">Mémoires sur la vie de Mademoiselle de Lenclos</hi>, Bret fait quant à lui référence à un « petit homme noir » également « faiseur de prédiction », mais qui se serait adressé à Ninon de l’Enclos et non à Madame Scarron. Bret écrit : « L’aventure du Noctambule, ou du petit homme noir qui était venu trouver Mademoiselle de l’Enclos à vingt ans pour lui assurer une beauté éternelle, et la conquête de tous les cœurs, avait plus de vraisemblance qu’il n’en fallait pour être crue par tous les amis du merveilleux » (Bret, <hi rend="i">Mémoires sur la vie de Mademoiselle de Lenclos</hi>, 1751, éd. 1763, p.95). Olympe de Gouges s’inspire peut-être de ces deux histoires en faisant référence au « petit homme noir, connu dans l’Histoire de Madame Scarron ».</note>, connu dans l’Histoire de Madame Scaron, dira à chacun sa bonne aventure, par des couplets analogues à leur caractère. Ballet de Bohémiens, troupe de Soldats, qui peindra l’Histoire du Grand-Condé, quand il reprit les armes pour la France ; combats, victoire qu’il remporte sur l’ennemi. Tous se mettent à genoux devant le Trône. Les Soldats renversent leurs armes devant le Grand Condé, et lui présentent le Pavillon de l’armée ennemie ; pendant ce tems, le canon, les timbales, les trompettes, doivent former une musique martiale. Elle finit, piano, piano, au point qu’on doit entendre de loin un chalumeau, qui doit faire contraste avec cette grande Musique.</stage>
+            <stage>(Elle lui met la couronne sur la tête.) CHŒURS sur l’amitié qui restent à faire, et dont je ne doute pas qu’en faveur du sujet, un de nos bons Poëtes se charge.</stage>
+            <head rend="center">BALLETS.</head>
+            <stage>Le Grand-Condé, à la tête de l’armée ennemie ; un Général François se présente à lui, accompagné des débris de son armée qui consiste en une vingtaine de Soldats, lui expose les dangers de la France ; le Prince ne peut tenir à cet aspect, il arrache l’écharpe du Parti ennemi, il vole pour se mettre à la tête de ses compatriotes. Voilà, à-peu-près, l’action du Ballet. Chaconne<note n="240" place="bottom"> La chaconne est une danse lente à trois temps à la mode, aux XVII<hi rend="sup">e</hi> et XVIII<hi rend="sup">e</hi> siècles, et l’air sur lequel elle était dansée. C’était à l’origine une danse populaire hispanique, accompagnée de castagnettes. En Europe, la chaconne est devenue une danse noble ou une « pièce vocale ou instrumentale inspirée de cette danse, consistant en variations sur un thème de quatre mesures répété à la basse » (<hi rend="i">Trésor de la Langue française</hi>).</note> dans le grand genre, une troupe de Bohémiens. Le petit homme noir<note n="241" place="bottom"> Selon Christine Mongenot, comme ce petit homme noir est un « faiseur de prédiction », il pourrait s’agir du personnage de Barbé dans le <hi rend="i">Segraisiana ou mélange d’histoire et de littérature</hi> de Segrais. En effet l’auteur écrit : « Barbé était un Masson qui allait souvent chez Scarron et comme il se mêlait d’Astrologie il regardait toujours Madame Scarron avec admiration en disant qu’elle était née pour être Reine et qu’elle serait un jour dans un haut degré d’élévation. S’il s’est trompé, c’est qu’il ajoutait que cette élévation aurait sa fin peu de temps après qu’il serait mort. Madame de Maintenon fut un peu allarmée quand elle apprit qu’il était mort mais un nombre d’années s’est déjà écoulé depuis qu’il n’est plus et Madame de Maintenon se porte bien dans l’état de splendeur où elle est. » (Segrais, <hi rend="i">Segraisiana ou mélange d’histoire et de littérature</hi>, 1721, éd. 1722, p. 12). Dans les <hi rend="i">Mémoires sur la vie de Mademoiselle de Lenclos</hi>, Bret fait quant à lui référence à un « petit homme noir » également « faiseur de prédiction », mais qui se serait adressé à Ninon de l’Enclos et non à Madame Scarron. Bret écrit : « L’aventure du Noctambule, ou du petit homme noir qui était venu trouver Mademoiselle de l’Enclos à vingt ans pour lui assurer une beauté éternelle, et la conquête de tous les cœurs, avait plus de vraisemblance qu’il n’en fallait pour être crue par tous les amis du merveilleux » (Bret, <hi rend="i">Mémoires sur la vie de Mademoiselle de Lenclos</hi>, 1751, éd. 1763, p.95). Olympe de Gouges s’inspire peut-être de ces deux histoires en faisant référence au « petit homme noir, connu dans l’Histoire de Madame Scarron ».</note>, connu dans l’Histoire de Madame Scaron, dira à chacun sa bonne aventure, par des couplets analogues à leur caractère. Ballet de Bohémiens, troupe de Soldats, qui peindra l’Histoire du Grand-Condé, quand il reprit les armes pour la France ; combats, victoire qu’il remporte sur l’ennemi. Tous se mettent à genoux devant le Trône. Les Soldats renversent leurs armes devant le Grand Condé, et lui présentent le Pavillon de l’armée ennemie ; pendant ce tems, le canon, les timbales, les trompettes, doivent former une musique martiale. Elle finit, piano, piano, au point qu’on doit entendre de loin un chalumeau, qui doit faire contraste avec cette grande Musique.</stage>
           </sp>
           <pb n="151" xml:id="pb151"/>
           <sp who="moliere" xml:id="IV17-21">
@@ -4942,8 +4922,7 @@
           </sp>
           <pb n="152" xml:id="pb152"/>
           <sp who="desyveteaux" xml:id="IV18-6">
-            <speaker>DESYVETEAUX, </speaker><stage>pieds du Trône avec sa Bergère</stage><stage>se mettant à genoux aux</stage>
-            <stage>(A la Reine.)</stage>
+            <speaker>DESYVETEAUX, </speaker><stage>se mettant à genoux aux pieds du Trône avec sa Bergère (A la Reine.)</stage>
             <p>Déesse, que je ne connois point, et qui me paroissez étrangère en cette Cour, sans doute, vous êtes Bellone<note n="242" place="bottom"> Bellone, dans la mythologie gréco-romaine, est, selon les versions, la femme, la nourrice, ou la sœur de Mars, le Dieu de la guerre. Elle accompagne Mars et conduit son char sur le champ de bataille, précédée de la Terreur (Deimos) et de la Crainte (Phobos), les deux filles de Vénus et de Mars. Les poètes la décrivent les cheveux épars, le feu dans les yeux, courant de tous côtés avec un fouet ensanglanté.</note>, à côté du Dieu Mars. Souffrez que le Berger Coridon avec sa Bergère vous offre son hommage.</p>
           </sp>
           <sp who="reine-christine" xml:id="IV18-7">
@@ -5101,7 +5080,7 @@
             <p><hi rend="b">Q</hi><hi rend="sc">uel</hi> évènement subit !</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="V01-2">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Mais qui auroit pu s’attendre à un changement si prompt, après tant d’honneurs, de fêtes et de plaisirs ?... Je ne reconnois plus Mademoiselle de l’Enclos. Elle est inquiète, rêveuse, seroit-ce le départ de Monsieur de la Châtre qui la met au désespoir, et qui lui inspire le parti de la retraite ?</p>
           </sp>
           <sp who="francisque" xml:id="V01-3">
@@ -5109,7 +5088,7 @@
             <p>C'est ce Monsieur le Comte de Fiesque qui bien au contraire est en cause.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="V01-4">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Seroit-il possible ? Jamais je ne l’ai vue aussi triste. Mon enfant, m’a-t-elle dit, à peine étoit-il six heures, ce matin, je vais vous affliger. Plusieurs considérations me déterminent à quitter le monde et ma société, qui est ce que je regrette le plus. Elle a versé quelques pleurs en se représentant le chagrin qu’elle alloit causer à ses amis, mais bientôt son courage a repris le dessus, et<pb n="158" xml:id="pb158"/> aussi-tôt elle a appellé sa vieille Gouvernante : c’est toi, ma Bonne lui a-t-elle dit, qui me suivras.</p>
             <stage>(Mademoiselle le Roi en pleurant.)</stage>
             <p>Pour vous, Mademoiselle, a-t-elle ajouté, je vous paye un an de gages, ainsi qu’à Francisque, et je me retire dès aujourd’hui au Couvent des Capucines.</p>
@@ -5119,7 +5098,7 @@
             <p>Est-il possible ? Quoi, Mademoiselle de l’Enclos, fille d’esprit, feroit une semblable folie ? Elle n’en est pas capable, et vous vous trompez, Mademoiselle le Roi.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="V01-6">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Les personnes d’esprit, Monsieur Francisque, font souvent de grandes sottises, et les réparent quelquefois trop tard, car je connois l’esprit et le cœur de Mademoiselle Ninon. La solitude n’est pas son élément, la vie du Couvent est si ennuyeuse ! Elle n’y sera pas quatre jours qu’elle y périra d’ennui ; et le caractère des Béguines<note n="248" place="bottom"><hi rend="i">Béguines</hi> : Ce terme désigne les moniales de Flandre : « ce sont des Sociétés de filles dévotes établies en plusieurs lieux de la Flandre. […] Elles vivent du travail de leurs mains, et ont un genre de vie qui tient le milieu entre le laïque, et le religieux, et ne font point de vœux » (<hi rend="i">Dictionnaire universel</hi> de Furetière, 1727). Ce terme s’emploie aussi par mépris à propos d’une dévote superstitieuse.</note> est-il fait pour s’accorder avec le sien ? Acariâtres, minutieuses, médisantes et fausses comme des femmes qui sont privées de la société des hommes, et qui détestent celles qui ont vécu dans le grand monde.</p>
           </sp>
         </div>
@@ -5145,7 +5124,7 @@
           <head>SCENE III.</head>
           <stage>NINON, M<hi rend="sup">lle</hi> LE ROI.</stage>
           <sp who="mlle-le-roi" xml:id="V03-1">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p><hi rend="b">A</hi><hi rend="sc">llez-vous</hi>, Mademoiselle, vous mettre à votre toilette ?</p>
           </sp>
           <sp who="ninon" xml:id="V03-2">
@@ -5153,7 +5132,7 @@
             <p>Ma toilette, Mademoiselle, sera bientôt faite… Un grand bonnêt.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="V03-3">
-            <speaker>M</speaker><stage>en s’en allant</stage><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker><stage>en s’en allant</stage>
             <p>Haye ! haye ! haye ! ceci sent bien le Couvent.</p>
           </sp>
         </div>
@@ -5170,7 +5149,7 @@
           <head>SCENE V.</head>
           <stage>NINON, M<hi rend="sup">lle</hi> LE ROI.</stage>
           <sp who="mlle-le-roi" xml:id="V05-1">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi> ne se fait donc pas coëffer aujourd’hui ?</p>
           </sp>
           <sp who="ninon" xml:id="V05-2">
@@ -5178,7 +5157,7 @@
             <p>Non, Mademoiselle. Je vous ai dit que je mettrois un grand bonnêt. L’avez-vous apporté ?</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="V05-3">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>En voilà plusieurs, vous choisirez celui que vous voudrez.</p>
           </sp>
         </div>
@@ -5186,7 +5165,7 @@
           <head>SCENE VI.</head>
           <stage>LES MÊMES, un VALET- de- Chambre du COMTE DE FIESQUE.</stage>
           <sp who="mlle-le-roi" xml:id="V06-1">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p><hi rend="b">V</hi><hi rend="sc">oici</hi> quelqu’un.</p>
           </sp>
           <sp who="ninon" xml:id="V06-2">
@@ -5215,7 +5194,7 @@
           </sp>
           <pb n="163" xml:id="pb163"/>
           <sp who="mlle-le-roi" xml:id="V06-5">
-            <speaker>M</speaker><stage>au fond du Théâtre</stage><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker><stage>au fond du Théâtre</stage>
             <p>Ciel ! quelle <ref target="#fureur3">fureur</ref> ! quel désespoir !</p>
           </sp>
           <sp who="ninon" xml:id="V06-6">
@@ -5228,7 +5207,7 @@
           <head>SCENE VII.</head>
           <stage>NINON, M<hi rend="sup">lle</hi> LE ROI.</stage>
           <sp who="mlle-le-roi" xml:id="V07-1">
-            <speaker>M</speaker><stage>avec affliction</stage><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker><stage>avec affliction</stage>
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi>, permettez-moi de vous <ref target="#representer">représenter</ref>…</p>
           </sp>
           <sp who="ninon" xml:id="V07-2">
@@ -5236,7 +5215,7 @@
             <p>Vos <ref target="#representation">représentations</ref> sont inutiles.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="V07-3">
-            <speaker>M</speaker><stage>à part</stage><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker><stage>à part</stage>
             <p>Elle a raison. Quelle femme forte ! Je ne sais que lui répondre. Je ferai mieux de me taire.</p>
           </sp>
           <sp who="ninon" xml:id="V07-4">
@@ -5244,7 +5223,7 @@
             <p>Ce grand bonnet m’ira mieux actuellement.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="V07-5">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Peu de femmes auroient fait un pareil sacrifice,<pb n="164" xml:id="pb164"/> c’est un ornement qui ajoute tant de charmes à la beauté.</p>
           </sp>
           <sp who="ninon" xml:id="V07-6">
@@ -5252,7 +5231,7 @@
             <p>Eh bien ! que voulez-vous que j’y fasse ? Il faut prendre son parti.</p>
           </sp>
           <sp who="mlle-le-roi" xml:id="V07-7">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p>Ma foi, Mademoiselle, j’en suis plus affligée que vous.</p>
           </sp>
           <sp who="ninon" xml:id="V07-8">
@@ -5276,7 +5255,7 @@
           <head>SCENE IX.</head>
           <stage>NINON, M<hi rend="sup">lle</hi> LE ROI.</stage>
           <sp who="mlle-le-roi" xml:id="V09-1">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker>
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi>, c’est un jeune homme fort bien mis, et d’une figure charmante, qui me<pb n="165" xml:id="pb165"/> paroît Etranger, et qui dit n’être pas connu de vous, mais qui vient vous parler de Monsieur Molière.</p>
           </sp>
           <sp who="ninon" xml:id="V09-2">
@@ -5294,10 +5273,9 @@
         </div>
         <div type="scene" xml:id="V11">
           <head>SCENE XI.</head>
-          <stage>NINON, LE CHEVALIER DE BELFORT,</stage>
-          <stage> M<hi rend="sup">lle</hi> LE ROI.</stage>
+          <stage>NINON, LE CHEVALIER DE BELFORT, M<hi rend="sup">lle</hi> LE ROI.</stage>
           <sp who="mlle-le-roi" xml:id="V11-1">
-            <speaker>M</speaker><stage>dans le fond du Théâtre, montrant Ninon au Chevalier</stage><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> LE ROI.</speaker><stage>dans le fond du Théâtre, montrant Ninon au Chevalier</stage>
             <p><hi rend="b">M</hi><hi rend="sc">onsieur</hi>, voilà Mademoiselle.</p>
             <stage>(Elle sort.)</stage>
           </sp>
@@ -5305,8 +5283,7 @@
         <div type="scene" xml:id="V12">
           <pb n="166" xml:id="pb166"/>
           <head>SCENE XII.</head>
-          <stage>NINON, LE CHEVALIER DE BELFORT.</stage>
-          <stage>(Le Chevalier la salue profondément.)</stage>
+          <stage>NINON, LE CHEVALIER DE BELFORT. (Le Chevalier la salue profondément.)</stage>
           <sp who="ninon" xml:id="V12-1">
             <speaker>NINON, </speaker><stage>à part</stage>
             <p><hi rend="b">A</hi><hi rend="sc">h</hi> ! la jolie tournure ; que sa figure est intéressante !</p>
@@ -5478,8 +5455,7 @@
         <div type="scene" xml:id="V14">
           <pb n="172" xml:id="pb172"/>
           <head>SCENE XIV.</head>
-          <stage>NINON, MOLIERE, LE CHEVALIER, </stage>
-          <stage>M<hi rend="sup">lle</hi> DE CHATEAUROUX, FRANCISQUE.</stage>
+          <stage>NINON, MOLIERE, LE CHEVALIER, M<hi rend="sup">lle</hi> DE CHATEAUROUX, FRANCISQUE.</stage>
           <sp who="francisque" xml:id="V14-1">
             <speaker>FRANCISQUE </speaker><stage>annonçant</stage>
             <p><hi rend="b">M</hi><hi rend="sc">ademoiselle</hi> de Châteauroux.</p>
@@ -5492,7 +5468,7 @@
             <p>Approchez, Mademoiselle, vous trouvez réunis vos plus grands amis.</p>
           </sp>
           <sp who="olympe" xml:id="V14-3">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> DE CHATEAUROUX.</speaker>
             <p>Ah ! j’en suis bien persuadée, Mademoiselle.</p>
           </sp>
           <sp who="ninon" xml:id="V14-4">
@@ -5500,7 +5476,7 @@
             <p>Qu’il est dommage, Mademoiselle, que Monsieur votre père ne pense pas comme vous ! Il craint de donner sa fille à un jeune homme dont la naissance est obscure, et vous n’avez pas craint de vous y attacher.</p>
           </sp>
           <sp who="olympe" xml:id="V14-5">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> DE CHATEAUROUX.</speaker>
             <p>Que sont la naissance et les titres à l’homme qui n’en soutient pas l’honneur ? Le premier homme dans la société est l’homme estimable qui n’a d’autres principes que ceux des ames bien nées, et<pb n="173" xml:id="pb173"/> que le <ref target="#sentiment4">sentiment</ref> et l’éducation ont élevé au-dessus du vulgaire<note n="252" place="bottom"> Mademoiselle de Châteauroux décrit ici l’honnête homme tel qu’il était perçu au XVIII<hi rend="sup">e</hi> siècle, c’est-à-dire comme celui qui a perfectionné par l’éducation les qualités galantes qu’il possède naturellement. Cette description de l’honnête homme était ainsi un leitmotiv du XVIII<hi rend="sup">e</hi> siècle qui s’inscrivait dans le cadre de la galanterie (cf Introduction).</note>.</p>
           </sp>
           <sp who="de-belfort" xml:id="V14-6">
@@ -5541,7 +5517,7 @@
             <p>Non, Monsieur, s’il vous plaît ; ayez la complaisance d’attendre que je vous aye annoncé.</p>
           </sp>
           <sp who="le-comte-de-fiesque" xml:id="V16-3">
-            <speaker>LE COMTE DE FIESQUE, </speaker><stage>avec </stage>
+            <speaker>LE COMTE DE FIESQUE, </speaker><stage>avec pétulence.</stage>
             <p>Eh bien, allez-donc vîte : vous me regardez-là comme si vous ne m’aviez jamais vu.</p>
           </sp>
           <sp who="francisque" xml:id="V16-4">
@@ -5594,14 +5570,13 @@
             <p>Mais moi, je ne me vois pas avec vos yeux, et je me vois aujourd’hui bien différente de ce que j’étais hier, sur-tout à votre égard. Mais devenez mon ami, vous ne perdrez rien au change ; même dans la retraite où je me propose de me retirer, je n’entends pas perdre la douceur de voir mes amis quelquefois ; mais de puissantes raisons, que je ne puis vous revèler, me forcent à prendre ce parti. Ne soupçonnez pas qu’il entre dans ma conduite ni dépit ni remords ; je vous l’ai déja dit, Monsieur le Comte, la bonne Philosophie existe à se mortifier quelquefois avec plaisir. Dans la première jeunesse, le feu des passions fait taire cette Philosophie. Dans un âge plus avancé, elle prend le dessus, avouez que vous même, sans une foiblesse de ma part, dans un moment où j’avais le cœur disposé à recevoir toutes les empreintes du sentiment, vous ne seriez revenu sur mon compte. Je ne puis revenir sur le vôtre, j’ai pris mon parti, et ce parti est inébranlable. Vous me connoissez, Monsieur le Comte, soyez mon ami, et ne parlons plus d’amour.</p>
           </sp>
           <sp who="le-comte-de-fiesque" xml:id="V18-7">
-            <speaker>LE COMTE DE FIESQUE, </speaker><stage/>
+            <speaker>LE COMTE DE FIESQUE, </speaker><stage>étonné.</stage>
             <p>Oui, je vous connais, mon sort est résolu, femme inconcevable, et que cependant j’admire.<pb n="178" xml:id="pb178"/> Eh bien, j’accepte l’offre que vous me faites, mais apprenez qu’en l’acceptant, il m’en coûte le repos de mon cœur pour la mériter. Si pour renoncer au droit que vous avez de plaire, et de faire le bonheur d’un Amant, vous allez incessamment vivre dans la solitude, moi, je quitte dès aujourd’hui Paris, et je n’y reviendrai que quand j’apprendrai que Mademoiselle de l’Enclos en fait les délices.</p>
           </sp>
         </div>
         <div type="scene" xml:id="V19">
           <head>SCENE XIX.</head>
-          <stage>M. DE SAINT-EVREMONT, M. DE </stage>
-          <stage>CHATEAUROUX, FRANCISQUE, LES MÊMES.</stage>
+          <stage>M. DE SAINT-EVREMONT, M. DE CHATEAUROUX, FRANCISQUE, LES MÊMES.</stage>
           <sp who="francisque" xml:id="V19-1">
             <speaker>FRANCISQUE, </speaker><stage>annonçant</stage>
             <p><hi rend="b">M</hi><hi rend="sc">onsieur</hi> de Saint-Evremont, Monsieur de Chateauroux.</p>
@@ -5623,8 +5598,7 @@
         <div type="scene" xml:id="V20">
           <pb n="179" xml:id="pb179"/>
           <head>SCENE XX.</head>
-          <stage>NINON, M. DE CHATEAUROUX, </stage>
-          <stage>M. DE SAINT-EVREMONT.</stage>
+          <stage>NINON, M. DE CHATEAUROUX, M. DE SAINT-EVREMONT.</stage>
           <sp who="saint-evremont" xml:id="V20-1">
             <speaker>M. DE SAINT-EVREMONT.</speaker>
             <p><hi rend="b">J</hi><hi rend="sc">’ai</hi> l’honneur de vous présenter, Mademoiselle, un brave Officier, un bon ami du Comte de Coligny et qui a été témoin de sa cruelle fin.</p>
@@ -5825,9 +5799,7 @@
         <div type="scene" xml:id="V24">
           <pb n="188" xml:id="pb188"/>
           <head>SCENE XXIV.</head>
-          <stage>LES MÊMES, NINON, M<hi rend="sup">lle</hi> OLIMPE, </stage>
-          <stage>LE CHEVALIER DE BELFORT.</stage>
-          <stage>au fond du Théâtre.</stage>
+          <stage>LES MÊMES, NINON, M<hi rend="sup">lle</hi> OLIMPE, LE CHEVALIER DE BELFORT. au fond du Théâtre.</stage>
           <sp who="ninon" xml:id="V24-1">
             <speaker>NINON, </speaker><stage>à part</stage>
             <p><hi rend="b">J</hi><hi rend="sc">e</hi> frémis…</p>
@@ -5842,7 +5814,7 @@
             <stage>(Ils tombent aux genoux de Monsieur de Châteauroux.)</stage>
           </sp>
           <sp who="olympe" xml:id="V24-4">
-            <speaker>M</speaker><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> DE CHATEAUROUX.</speaker>
             <p>Mon pere, pardonnez à votre fille.</p>
           </sp>
           <sp who="chateauroux" xml:id="V24-5">
@@ -5879,7 +5851,7 @@
             <p>Quel spectacle ! Il semble qu’il soit fait pour moi, pour ma sensibilité. Je jouis donc dans ce moment pour moi seul, et c’est une récompense de mes veilles et de mes soins.</p>
           </sp>
           <sp who="olympe" xml:id="V24-13">
-            <speaker>M</speaker><stage>à Molière</stage><stage>lle</stage>
+            <speaker>M<hi rend="sup">lle</hi> DE CHATEAUROUX.</speaker><stage>à Molière</stage>
             <p>O mon bienfaiteur ! mon cher Monsieur Molière, si ma reconnoissance pouvoit vivre aussi long-tems que votre mémoire, je desirerois qu’elle apprit aux siècles à venir tout ce que je vous dois.</p>
           </sp>
           <sp who="moliere" xml:id="V24-14">
@@ -5977,41 +5949,41 @@
         <p>Me voici aux Bulletins. Des Bulletins de la Comédie Françoise ! cher Public, vous ignorez ce que c’est ; vous n’en avez jamais lu ; on n’en a<pb n="195" xml:id="pb195"/> jamais fait imprimer : mais ceci mérite plus que l’impression ; je prétends les faire graver en bas et au tour de mon portrait, pour prouver que, si la destinée a voulu que je fusse ignorante, elle voulut aussi me montrer qu’il y avoit une espèce d’êtres ignorants qui ne possédoient pas le sens-commun. Que mon Lecteur fasse attention que l’on écrit les Bulletins, et que j’aie le tems de réfléchir avec lui.</p>
         <p>Cette conversation me paroîtra bien plus aimable, que les jolies choses que les Comédiens purent me dire pour m’induire en erreur un instant, afin de jouir de ma surprise et de ma confusion. Je fus plus <ref target="#heureux1">heureuse</ref> que je ne devois l’attendre. Je n’éprouvai ni l’un ni l’autre, et je sortis de cette caverne aussi grande qu’ils étoient petits. Il faut que le Public sache encore que, lorsque les Comédiens reçoivent une Pièce définitivement, ou à correction, ils entourent l’Auteur, et ne lui disent que des choses agréables sur son Ouvrage. Les Bulletins faits, tous les Comédiens s’empressèrent de faire l’éloge de ma Pièce, sauf quelques corrections, et se distribuoient déja les rôles. Ils paroissoient agir avec tant de franchise, que je faillis être dupe un moment de leur fausseté, sur-tout quand l’intègre M. des Essarts me demanda si c’étoit à lui que je désignois le rôle de Dégypto. J’eus la simplicité de lui répondre que, puisqu’il me le demandoit, je ne voyois personne plus propre que lui à posséder la caricature qui convenoit au Berger Coridon. On rit beaucoup, et je ne pus m’empêcher de rire aussi de bonne-foi. Tous sembloient n’aspirer qu’au moment de le voir dans le costume de Berger ; et je gagerois, si les Comédiens<pb n="196" xml:id="pb196"/> étoient capables de convenir une fois de la vérité, que ce n’est pas sans regret qu’ils ont sacrifié leur opinion contre cette Pièce, en faveur du comique qu’au moins ils ont saisi ; mais sans doute M. des Essarts<note n="258" place="bottom"> Des Essarts était un comédien entré à la Comédie-Française en 1772. Il y est resté jusqu’à sa mort en 1793. Il était de forte corpulence comme le précise Fleury dans ses <hi rend="i">Mémoires</hi>, où il raconte la confrontation entre l’acteur et Olympe de Gouges après la lecture de <hi rend="i">Molière chez Ninon</hi> (cf Introduction).</note> n’a pas porté son talent jusqu’à supporter le caractère d’un homme trop vieux et devenu d’une folie à faire courir tout Paris, et à le faire rire toujours de nouveau. Fatigué de voir qu’on s’amusoit à ses dépends, et impatient de m’en faire essuyer les rigueurs, il cria au Souffleur, avec sa voix monstrueuse : Allons, Monsieur, lisez les Bulletins.</p>
         <p>Et vous, Postulans en Littérature, tant en femme qu’en homme, apprenez à connoître les Comédiens François, avant de leur confier les fruits de vos plus chères occupations.</p>
-        <stage>PREMIER BULLETIN.</stage>
+        <head>PREMIER BULLETIN.</head>
         <p>Cet Ouvrage est charmant ; il fait honneur au cœur, à l’ame et à l’esprit de l’Auteur. Je le reçois.</p>
         <p><ref target="#heureux4">Heureux</ref> début.</p>
-        <stage>SECOND BULLETIN.</stage>
+        <head>SECOND BULLETIN.</head>
         <p>Cet Ouvrage est rempli de mérite ; mais il y a des longueurs à retrancher. Je reçois à correction.</p>
         <p>Il n’y a pas encore à se désespérer.</p>
         <pb n="197" xml:id="pb197"/>
-        <stage>TROISIEME BULLETIN.</stage>
+        <head>TROISIEME BULLETIN.</head>
         <p>Il y a infiniment de talent dans cet Ouvrage. Je reçois à correction.</p>
         <p>J’espère encore.</p>
-        <stage>QUATRIEME BULLETIN.</stage>
+        <head>QUATRIEME BULLETIN.</head>
         <p>J’aime les jolies femmes ; je les aime encore plus quand elles sont <ref target="#galant2">galantes</ref> ; mais je n’aime à les voir que chez elles, et non pas sur le Théâtre. Je refuse cette Pièce.</p>
         <p>Haie !... haie !... Ceci sent bien le Dugason<note n="259" place="bottom"> Dugazon était un acteur de la Comédie-Française de 1767 à 1788.</note>. Mais tout doux, mon très-aimable ; apprenez à connoître le but du Théâtre. Les Courtisannes, la Coquette corrigée<note n="260" place="bottom"><hi rend="i">Les Courtisannes</hi> ou <hi rend="i">L’Ecole des mœurs</hi> est une comédie de Charles Palissot de Montenoy, publiée en 1775. <hi rend="i">La Coquette corrigée</hi> est une comédie de Jean Sauvé de La Noue publiée en 1778, représentée pour la première fois à la Comédie-Française le 5 août 1756 et reprise le 25 novembre 1756.</note> ne portent-elles pas à un but moral ? Et ma Ninon n’est-elle pas aussi décente que cette dernière ? Elle ne fait pas au moins des aveux de la première, et ses foiblesses sont éloignées de la Scène ; je l’ai prise dans une bonne circonstance pour le Théâtre. Tant pis pour votre discernement, si vous ne savez point l’apprécier.</p>
-        <stage>CINQUIEME BULLETIN.</stage>
+        <head>CINQUIEME BULLETIN.</head>
         <p>Cette Pièce n’est remplie que d’Episodes<note n="261" place="bottom"> Le nom « épisode » était masculin ou féminin au XVIIème siècle.</note> mal faites ; il n’y a pas un seul caractère dans cet Ouvrage. Le second Acte est entièrement du mauvais goût, et la folie de Dégypto n’est pas supportable.<pb n="198" xml:id="pb198"/> Elle n’est ni dans les règles théâtrales, ni dans la décence. Pour le bien de l’Auteur, je refuse cet Ouvrage.</p>
         <p>Ah ! Berger Coridon ! on vous reconnoît comme vous avez reconnu l’intention de l’Auteur, en accordant l’élégance de votre taille avec le plaisant de ce caractère. Vous avez eu raison de refuser. Vous auriez, en effet, été trop comique dans ce rôle ; j’avoue même que votre rotondité l’auroit trop chargé ; il n’auroit pas été possible d’y tenir. Qu’on se représente de vous voir habillé en Berger, le chapeau de paille sur l’oreille, attaché négligemment par-dessous le cou avec un ruban couleur de rose, et une houpe de toutes couleurs tombant de même sur vos larges épaules, la panetière au côté et la houlette à la main ! Qu’on me dise si l’on peut voir rien de plus comique sous ce costume ; et vous l’avez craint ! Cependant, il y a long-tems que le Public desire du vrai comique et du dramatique dans les Pièces de Théatre, et vous n’en voulez pas ! Tant pis pour vous.</p>
-        <stage>SIXIEME BULLETIN.</stage>
+        <head>SIXIEME BULLETIN.</head>
         <p>O Lecteur ! ô Lecteur ! je vous demande de la patience pour entendre ceci de sang-froid.</p>
         <p>Cette Pièce est sans goût, sans talent ; je suis indigné de voir que l’Auteur ait pu s’oublier jusqu’à faire du grand Molière le Confident des amours de Ninon ; et si j’ai quelque conseil à lui donner, c’est de renoncer à cette Pièce, et de ne la montrer à personne ; car je la refuse.<pb n="199" xml:id="pb199"/></p>
         <p>Pour celui-ci je ne pus pas connoître l’Auteur, à moins que tout le Comité ne l’ait fabriqué ensemble. Combien Molière se trouveroit choqué et humilié, s’il pouvoit revenir parmi nous, de voir à quel point on fait tort à son esprit et à sa mémoire ! lui qui fut le confident et l’ami de Ninon, ainsi que tous les grands-hommes du Royaume, sans excepter les femmes les plus <ref target="#vertueuse">vertueuses</ref>. Quelles sont les personnes qui n’ont pas cru se couvrir de gloire, quand elles avoient le bonheur d’être admises dans la société de Ninon de l’Enclos ? Mais les Comédiens ont craint de la voir parmi eux ………………………………………… ………………………………………………………………………………………… Elle auroit été déplacée. …………………………………………………………………… ……………………………………………………………………………. Mais le Public l’auroit accueillie comme elle le mérite, et cette femme, présentée dans son vrai caractère, n’auroit pu que rendre les femmes plus équitables, même à travers leurs foiblesses ; mais un beau caractère leur est étranger : je puis croire cependant que si Mademoiselle Contat s’étoit trouvée à cette lecture, son discernement auroit prévalu. J’avois bien M. Molé<note n="262" place="bottom"> Molé faisait partie des plus célèbres acteurs de la Comédie-Française au XVIII<hi rend="sup">e</hi> siècle. Il a notamment joué Britannicus dans la pièce de Racine, Auguste dans <hi rend="i">Cinna</hi> de Corneille, Almaviva dans <hi rend="i">Le Mariage de Figaro</hi> de Beaumarchais, ou Alceste dans <hi rend="i">Le Misanthrope</hi> de Molière.</note>, et je crois l’avoir reconnu dans le premier Bulletin : je distingue trois Comédiens honnêtes que je nommerai à la fin.</p>
-        <stage>SEPTIEME BULLETIN.</stage>
+        <head>SEPTIEME BULLETIN.</head>
         <p>J’ai de la peine à soutenir les réflexions que cette Pièce me fait faire. Je n’y trouve pas de fond, pas d’intrigue, tous les personnages parlent de même, et l’Auteur a mis vingt-neuf Acteurs,<pb n="200" xml:id="pb200"/> tandis qu’il n’y en a que vingt-trois à la Comédie ; ainsi, je ne puis recevoir cette Pièce.</p>
         <p>D’un coup de plume j’ai égorgé sept personnages ; en doublant certains rôles, on verra que l’on peut jouer cette Pièce avec quinze ou seize. Les habits de paysan, ou le changement de costume peut produire cette métamorphose. La Châtre peut jouer, par exemple, le Comte de Fiesque, en faveur de la ressemblance ; Blaise, le Maréchal d’Estrées ; Lucas, le Président de… Mathurin, M. Mignard ; et Scaron, Saint-Evremont ; Chapelle, l’Exempt ; M. de Gourville, le père de Mademoiselle de Châteauroux ; et jusqu’au fils de Ninon, on peut le travestir ; c’est ce qu’on fera sans doute dans les petites Troupes, et c’est pour elles que je l’indique.</p>
-        <stage>HUITIEME BULLETIN.</stage>
+        <head>HUITIEME BULLETIN.</head>
         <p>Je considère l’Auteur, et je l’aime trop pour l’exposer à une chûte, je refuse.</p>
         <p>Celui-là est joli, et ne peut m’indisposer.</p>
-        <stage>NEUVIEME BULLETIN.</stage>
+        <head>NEUVIEME BULLETIN.</head>
         <p>Rien ne m’intéresse dans cette Pièce que le cinquième Acte ; la reconnoissance de Ninon avec son fils est tout-à-fait touchante, et prête au but moral : la société de Ninon, et quelque faits, par-ci par-là, ne peuvent pas fournir une Comédie en cinq Actes ; si l’Auteur vouloit me<pb n="201" xml:id="pb201"/> croire, il la réduiroit en un, mais comme je prévois qu’il n’en voudra rien faire ; je la refuse.</p>
         <p>Bonnes conclusions.</p>
-        <stage>DIXIEME BULLETIN.</stage>
+        <head>DIXIEME BULLETIN.</head>
         <p>Les Valets de Ninon jouent la délicatesse et l’esprit, et sont insoutenables dans cette Pièce : je la refuse.</p>
-        <stage>ONZIEME BULLETIN.</stage>
+        <head>ONZIEME BULLETIN.</head>
         <p>C’est avec plaisir qu’on se rappelle le Règne de Louis XIV ; mais dans cette Pièce il est insoutenable : et je crois rendre service à l’Auteur en le refusant.</p>
         <p>Patience, Lecteur, ceci tire à sa fin.</p>
-        <stage>DOUZIEME BULLETIN.</stage>
+        <head>DOUZIEME BULLETIN.</head>
         <p>Il n’y a dans cette Pièce que des éloges à toutes les scènes, qui deviennent assommantes pour les Spectateurs ; il est impossible d’imaginer que l’Auteur ait eu l’intention de faire une Pièce de Théâtre, dans le sujet de Molière chez Ninon, et ce grand homme est déplacé à chaque instant ; je crois sincèrement obliger l’Auteur, en l’engageant de ne montrer jamais sa Pièce.</p>
         <p>C’est ici où je m’arrête.</p>
         <p>Je ne fus pas curieuse d’avoir le demi-quarteron<note n="263" place="bottom"> La moitié du quart.</note><pb n="202" xml:id="pb202"/> de voix, et je priai M. de la Porte<note n="264" place="bottom"> De la Porte était le secrétaire de la Comédie-Française.</note> de me dispenser de lire le treizième.</p>

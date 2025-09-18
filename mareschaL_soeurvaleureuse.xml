@@ -637,7 +637,7 @@
             <l n="36" xml:id="l36">L’<ref target="#objet2">object</ref> de ton amour &amp; de ta honte aussi,</l>
             <l n="37" xml:id="l37">Luy qui t’a fait quitter &amp; Parents &amp; la Perse ;</l>
             <l n="38" xml:id="l38">Songe au <ref target="#bien1">bien</ref> qu’il te garde après tant de <ref target="#traverse1">traverse</ref> :</l>
-            <stage rend="center">Oracle.</stage>
+            <head rend="center">Oracle.</head>
             <lg rend="i">
               <l n="39" xml:id="l39">Dans la forest d’Elvye<note place="bottom">Nom fictif.</note><hi rend="i">, après estre guery</hi> </l>
               <l n="40" xml:id="l40">Ton cœur <ref target="#obliger2">obligera</ref> Pere, Frere, &amp; Mary.<pb n="4" xml:id="p4"/> </l>
@@ -1266,7 +1266,7 @@
             <l n="490" xml:id="l490">Cavalier, qu’on luy rende ou la vie, ou l’hommage.</l>
           </sp>
           <sp who="dorame" xml:id="I07-2">
-            <speaker>Dorame</speaker><stage>. Se sentant presser par Oronte.</stage>
+            <speaker>Dorame.</speaker><stage>Se sentant presser par Oronte.</stage>
             <l n="491" xml:id="l491">Un tiers ? un Assassin ? ah ! quelle trahison !</l>
           </sp>
           <sp who="oronte" xml:id="I07-3">
@@ -1573,7 +1573,7 @@
             <l n="638" xml:id="l638">Vous accuse envers moy de trop de violence.</l>
           </sp>
           <sp who="melinde" xml:id="II03-2">
-            <speaker>Melinde</speaker><stage>. Parlant bas &amp; s’encourageant.</stage>
+            <speaker>Melinde.</speaker><stage>Parlant bas &amp; s’encourageant.</stage>
             <l n="639" xml:id="l639">Ah ! reviens lâche cœur, tu fuis quand tu le vois :</l>
             <l n="640" xml:id="l640">Tout me quitte ; je suis sans <ref target="#esprit1">esprit</ref> &amp; sans voix.</l>
           </sp>
@@ -1733,7 +1733,7 @@
             <l n="699" xml:id="l699">Mesme avant le combat vous donne la victoire.</l>
           </sp>
           <sp who="lucidor" xml:id="II03-29">
-            <speaker>Lucidor</speaker><stage>. Ayant leu ces deux papiers, &amp; les tenant chacun d’une main.</stage>
+            <speaker>Lucidor.</speaker><stage>Ayant leu ces deux papiers, &amp; les tenant chacun d’une main.</stage>
             <l n="700" xml:id="l700">Que ces billets divers m’attaquent à leur tour ?</l>
             <l n="701" xml:id="l701">Que l’un porte ma mort, &amp; l’autre son amour ?</l>
             <l n="702" xml:id="l702">Le miel &amp; le <ref target="#poison1">poison</ref> se joignent pour me nuire,</l>
@@ -1882,7 +1882,7 @@
             <l part="F">A l’amour, qui m’en fait la deffense.</l>
           </sp>
           <sp who="lucidor" xml:id="II03-51">
-            <speaker>Lucidor</speaker><stage>. Feignant de </stage>
+            <speaker>Lucidor.</speaker><stage>Feignant de <ref target="#tirer3">tirer</ref> son épée.</stage>
             <l n="776" xml:id="l776">Ah ! c’est trop m’arrester en discours superflus ;</l>
             <l n="777" xml:id="l777">Accorde moy ce <ref target="#point3">poinct</ref>, ou <ref target="#bien9">bien</ref> tu ne vis plus.</l>
           </sp>
@@ -2146,7 +2146,7 @@
             <l n="925" xml:id="l925">Tout autre <ref target="#coup1">coup</ref> luy semble aymable de sa main.</l>
           </sp>
           <sp who="olympe" xml:id="II06-4">
-            <speaker>Olympe</speaker><stage>. Croyant qu’Oronte ait parlé pour soy.</stage>
+            <speaker>Olympe.</speaker><stage>Croyant qu’Oronte ait parlé pour soy.</stage>
             <l n="926" xml:id="l926">Que je cause la mort d’un qui m’a fait revivre ?</l>
             <l n="927" xml:id="l927">Ou que je mette aux <ref target="#fer3">fers</ref> celuy qui m’en delivre ?</l>
             <l n="928" xml:id="l928">Non, je n’ay pas, Oronte, assez de cruauté,</l>
@@ -2611,8 +2611,7 @@
         <div type="scene" xml:id="II10">
           <pb n="88" xml:id="p88"/>
           <head>SCENE X.</head>
-          <stage>MELINDE, GELANDRE, LUCIDOR, </stage>
-          <stage>[ORONTE].</stage>
+          <stage>MELINDE, GELANDRE, LUCIDOR, [ORONTE].</stage>
           <sp who="melinde" xml:id="II10-1">
             <speaker>Melinde </speaker><stage>dessus les murailles avec Gelandre, tandis que Lucidor &amp; Oronte se battent.</stage>
             <l n="1126" part="I" xml:id="l1126">Par là vous comprenez…..</l>
@@ -2683,8 +2682,7 @@
           <pb n="91" xml:id="p91"/>
           <head>SCENE XI.</head>
           <stage>Tandis qu’ils se battent, &amp; que les trompettes sonnent, Gelandre &amp; Melinde d’un côté arrivent avec leurs troupes, &amp; Dorame d’un autre avec les siennes aussi.</stage>
-          <stage>MELINDE, GELANDRE, ORONTE, </stage>
-          <stage>DORAME, LUCIDOR.</stage>
+          <stage>MELINDE, GELANDRE, ORONTE, DORAME, LUCIDOR.</stage>
           <sp who="melinde" xml:id="II11-1">
             <speaker>Melinde.</speaker><stage>Parlant à Lucidor.</stage>
             <l n="1143" xml:id="l1143">Voicy d’autres lauriers, que ce jour vous prepare.</l>
@@ -4117,7 +4115,7 @@
             <l n="1877" xml:id="l1877">Tu vois l’épée à toy, mais non pas mon <ref target="#courage2">courage</ref>.</l>
           </sp>
           <sp who="oronte" xml:id="IV07-18">
-            <speaker>Oronte </speaker><stage>de dépit du </stage>
+            <speaker>Oronte </speaker><stage>de dépit du <ref target="#coup1">coup</ref> qu’elle a fait.</stage>
             <l n="1878" xml:id="l1878">Quoy ? serois-tu mon bras, aprés un tel outrage ?</l>
             <l n="1879" xml:id="l1879">Voyez mon cœur à vous, du mesme <ref target="#coup1">coup</ref> percé ;</l>
             <l n="1880" xml:id="l1880">Ah ! mon ame s’écoule en vostre sang versé.</l>
@@ -4763,7 +4761,7 @@
             <l part="M">O Dieux ! quel bruit ?</l>
           </sp>
           <sp who="gelandre" xml:id="V05-7">
-            <speaker>Gelandre. </speaker><stage>Parlant au </stage>
+            <speaker>Gelandre. </speaker><stage>Parlant au Page.</stage>
             <l part="M">Avance.</l>
             <stage>Puis parlant à Melinde.</stage>
             <l part="F">Vous tremblez.</l>
@@ -4792,7 +4790,7 @@
             <l n="2232" xml:id="l2232">Obeissez, Gelandre, asseuré de mes <ref target="#feu1">feux</ref>.</l>
           </sp>
           <sp who="gelandre" xml:id="V05-13">
-            <speaker>Gelandre</speaker><stage>. Parlant au </stage>
+            <speaker>Gelandre.</speaker><stage>Parlant au Page</stage>
             <l n="2233" xml:id="l2233">Retournez sur vos pas, nous vous suivons tous deux.</l>
             <stage>Comme le <ref target="#page-def">Page</ref> s’en est allé.</stage>
             <l n="2234" xml:id="l2234">Melinde, vous voyez où ma vie est reduite,</l>
@@ -4830,7 +4828,12 @@
           <head>SCENE VI.</head>
           <stage>LES ROYS DE PERSE, ET DE THRACE, OLYMPE, LUCIDOR.</stage>
           <sp who="roy-de-perse" xml:id="V06-1">
-            <speaker>Le Roy de Perse.<note place="bottom">La plus grande divinité de Perse Antique était « Ahura-Mazda », le dieu de la lumière, de la vérité et de la sagesse, le prophète Zoroastre abrégea son nom en « Ohrmazd ». Mais Mareschal évoque peut-être ici le dieu du feu Atar (fils d’Ohrmazd), ou le dieu Rapithwin qui fait renaître la chaleur du soleil à chaque printemps, dans la religion védique.</note></speaker><stage> dans le Temple.</stage><stage> Adorant le Soleil</stage>
+            <speaker>Le Roy de Perse.</speaker>
+            <stage>Adorant le Soleil<note place="bottom">La plus grande divinité de Perse Antique
+            était « Ahura-Mazda », le dieu de la lumière, de la vérité et de la sagesse, le prophète
+            Zoroastre abrégea son nom en « Ohrmazd ». Mais Mareschal évoque peut-être ici le dieu du
+            feu Atar (fils d’Ohrmazd), ou le dieu Rapithwin qui fait renaître la chaleur du soleil à
+            chaque printemps, dans la religion védique.</note> dans le Temple.</stage>
             <l n="2252" xml:id="l2252">Premier flambeau du Ciel, Ame de l’Univers,</l>
             <l n="2253" xml:id="l2253">Qui fait voir &amp; qui voit tant de Peuples divers,</l>
             <l n="2254" xml:id="l2254">Soleil, dont les rayons sont au reste du Monde</l>

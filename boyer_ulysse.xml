@@ -858,7 +858,7 @@
             <roleDesc>accompagné des Dieux.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est differente, selon les divers changemens des Machines.</stage>
+        <set>La Scene est differente, selon les divers changemens des Machines.</set>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE I.</head>
@@ -1150,9 +1150,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <head>SCENE V.</head>
-          <stage>CIRCÉ, ULISSE, EURIL[OCHE], ELPENOR,</stage>
-          <stage>PHAETUSE, LEUCOSIE, Suite de Circé,</stage>
-          <stage>Suite d’Ulisse.</stage>
+          <stage>CIRCÉ, ULISSE, EURIL[OCHE], ELPENOR, PHAETUSE, LEUCOSIE, Suite de Circé, Suite d’Ulisse.</stage>
           <sp xml:id="I05-1" who="circe">
             <speaker>CIRCÉ </speaker><stage>à Ulisse.</stage>
             <l n="189" xml:id="l189">Je l’advouë aujourd’huy, vous m’avez attenduë,</l>
@@ -1456,8 +1454,7 @@
         </div>
         <div type="scene" xml:id="I08">
           <head>SCENE VIII.</head>
-          <stage>ULISSE &amp; CIRCÉ dans un vaisseau avec toute</stage>
-          <stage>sa suite, écoutent le concert des Syrenes.</stage>
+          <stage>ULISSE &amp; CIRCÉ dans un vaisseau avec toute sa suite, écoutent le concert des Syrenes.</stage>
           <p rend="center">Chanson.</p>
           <l n="349" xml:id="l349">Amour qui ne te plais qu’à nous faire la guerre,</l>
           <l n="350" xml:id="l350">Qui puissant dans les eaux autant que sur la terre,</l>
@@ -2229,8 +2226,7 @@
         </div>
         <div type="scene" xml:id="II07">
           <head>SCENE VII.</head>
-          <stage>CIRCÉ. Le Dieu du sommeil.</stage>
-          <stage>On ouvre le fond de l’antre où paroist le sommeil.</stage>
+          <stage>CIRCÉ. Le Dieu du sommeil. On ouvre le fond de l’antre où paroist le sommeil.</stage>
           <sp xml:id="II07-1" who="circe">
             <speaker>CIRCÉ.</speaker>
             <l n="821" xml:id="l821">Arbitre du repos, Dieu maistre du silence,</l>
@@ -3293,8 +3289,7 @@
         </div>
         <div type="scene" xml:id="IV09">
           <head>SCENE IX.</head>
-          <stage>ELPENOR, EURILOCHE.</stage>
-          <stage>CIRCÉ, PHAETUSE.</stage>
+          <stage>ELPENOR, EURILOCHE. CIRCÉ, PHAETUSE.</stage>
           <sp xml:id="IV09-1" who="elpenor">
             <speaker>ELPENOR.</speaker>
             <l n="1505" xml:id="l1505">En vain sur mon <ref target="#rival">rival</ref> je cherche à me vanger</l>
@@ -4092,8 +4087,7 @@
         </div>
         <div type="scene" xml:id="V08">
           <head>SCENE VIII.</head>
-          <stage>JUPITER au milieu des Dieux descend du Ciel assis sur une grosse nuée.</stage>
-          <stage>LE SOLEIL à mesme temps paroist d’un costé du thea-tre dans une nuë.</stage>
+          <stage>JUPITER au milieu des Dieux descend du Ciel assis sur une grosse nuée. LE SOLEIL à mesme temps paroist d’un costé du thea-tre dans une nuë.</stage>
           <sp xml:id="V08-1" who="jupiter">
             <speaker>JUPITER.</speaker>
             <l n="1945" xml:id="l1945">Du trosne où je m’assois dans le plus haut des Cieux,</l>

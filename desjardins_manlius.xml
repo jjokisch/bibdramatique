@@ -597,7 +597,7 @@
             <roleDesc>Licteur<note place="bottom" type="editor">Officier qui marchait devant les principaux magistrats de Rome et qui portait une hache entourée d’un faisceau de verges, symbole du pouvoir.</note>.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est au Camp des Romains<note place="bottom" type="editor"> D’après Tite-Live, au livre VIII de ses <hi rend="i">Histoires</hi>, le camp des Romains fut établi devant Capoue, où les Latins et leurs alliés s’étaient réunis, en 340 avant J.-C.</note> devant les Tentes du Consul.</stage>
+        <set>La Scene est au Camp des Romains<note place="bottom" type="editor"> D’après Tite-Live, au livre VIII de ses <hi rend="i">Histoires</hi>, le camp des Romains fut établi devant Capoue, où les Latins et leurs alliés s’étaient réunis, en 340 avant J.-C.</note> devant les Tentes du Consul.</set>
       </div>
       <div type="act" xml:id="I">
         <pb n="A, 1" xml:id="p1"/>

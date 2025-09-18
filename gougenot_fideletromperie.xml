@@ -3606,8 +3606,7 @@
             <l n="1660" xml:id="l1660">Faites luy toucher mon tombeau.</l>
             <l n="1661" xml:id="l1661">Adieu Princesse glorieuse,</l>
             <l n="1662" xml:id="l1662">Adieu souveraines beautez.</l>
-            <stage>Il se veut tuer.</stage>
-            <stage>Florinde arrive.</stage>
+            <stage>Il se veut tuer. Florinde arrive.</stage>
           </sp>
           <sp xml:id="IV04-23" who="florinde">
             <speaker>Florinde<note n="343" place="bottom"> Le dialogue entre Lucide et Florinde prolonge le schéma strophique des stances précédentes.</note></speaker>
@@ -4449,8 +4448,14 @@
             <l n="2143" xml:id="l2143">Je m’en vay reposer attendant sa venuë.</l>
           </sp>
           <sp xml:id="V05-12" who="lucide">
-            <speaker>Lucide,<note n="401" place="bottom"> La succession d’actions qui commence ici et se prolonge jusqu’au v. 2212 s’inspire en grande partie de l’<hi rend="i">Amadis</hi> (éd. citée, Livre XII, chap. XLVII).</note>
-             <note n="402" place="bottom"> La lanterne sourde est une lanterne de fer blanc ou noirci, qui n’a qu’une ouverture, qu’on ferme lorsqu’on veut cacher la lumière, et qu’on présente au nez de ceux qu’on veut voir sans qu’ils puissent nous apercevoir (Furetière).</note>, </speaker><stage>et parle assez bas.</stage><stage>avec une lanterne sourde</stage><stage>sort doucement de la chambre de Filamire</stage>
+            <speaker>Lucide,</speaker>
+            <stage>sort doucement de la chambre de Filamire,<note n="401" place="bottom"> La
+            succession d’actions qui commence ici et se prolonge jusqu’au v. 2212 s’inspire en
+            grande partie de l’<hi rend="i">Amadis</hi> (éd. citée, Livre XII, chap. XLVII).</note>
+            avec une lanterne sourde<note n="402" place="bottom"> La lanterne
+            sourde est une lanterne de fer blanc ou noirci, qui n’a qu’une ouverture, qu’on ferme
+            lorsqu’on veut cacher la lumière, et qu’on présente au nez de ceux qu’on veut voir sans
+            qu’ils puissent nous apercevoir (Furetière).</note>, et parle assez bas.</stage>
             <l n="2144" xml:id="l2144">Ce Prince maintenant d’un fort sommeil surpris,</l>
             <l n="2145" xml:id="l2145">Il me faut achever mon dessein entrepris,<pb n="140"/></l>
             <l n="2146" xml:id="l2146">Le silence à mes vœux se montre favorable.</l>
@@ -4576,7 +4581,8 @@
             <l n="2199" xml:id="l2199" part="I">Pourquoy m’empesches-tu ?</l>
           </sp>
           <sp xml:id="V05-32" who="filamire">
-            <speaker>Filamire, <pb n="144"/></speaker><stage>bas du lict en chemise et prend son espée.</stage><stage>s’esveille en sursaut, et se jette à</stage>
+            <speaker>Filamire,</speaker>
+            <stage>s’esveille en sursaut, et se jette à<pb n="144" />bas du lict en chemise et prend son espée.</stage>
             <l part="F">Quelle voix importune</l>
             <l n="2200" xml:id="l2200">Vient rompre mon repos, et troubler ma raison ?</l>
             <l n="2201" xml:id="l2201">Lucide voudroit elle user de trahison ?</l>

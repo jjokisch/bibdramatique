@@ -613,7 +613,7 @@
             <role xml:id="voix-derriere-theatre"/>
           </castItem>
         </castList>
-        <stage>LA SCENE EST A PATARE<note n="100" place="bottom">Capitale du royaume de Lycie, qui fut également un des lieux du culte d’Apollon.</note> CAPTALE du Royaume de <ref target="#lycie">Lycie</ref>.</stage>
+        <set>LA SCENE EST A PATARE<note n="100" place="bottom">Capitale du royaume de Lycie, qui fut également un des lieux du culte d’Apollon.</note> CAPTALE du Royaume de <ref target="#lycie">Lycie</ref>.</set>
       </div>
       <div type="prologue" xml:id="A">
         <pb n="VII"/>
@@ -694,7 +694,7 @@
           <stage>Les Bergers &amp; les Bergeres commencent icy une <ref target="#entree">Entrée</ref>, apres laquelle un Berger chante les deux couplets suivants, qui sont entremeslez de Dances.</stage>
         </sp>
         <sp who="berger" xml:id="A-14">
-          <speaker/><stage>CHANSON du</stage>
+          <speaker><hi rend="i">CHANSON du</hi> Berger</speaker>
           <l n="33" xml:id="l33">Pourquoy n’avoir pas le cœur tendre ?</l>
           <l n="34" xml:id="l34">Rien n’est si doux que d’aimer.</l>
           <l n="35" xml:id="l35">Peut-on aisément s’en défendre ?</l>
@@ -749,8 +749,8 @@
           <l n="61" xml:id="l61">Preparons nos plus doux accords.</l>
           <trailer>FIN DU PROLOGUE<pb n="XII    1/A"/></trailer>
         </sp>
-        <stage>Bellérophon,</stage>
-        <stage>TRAGEDIE</stage>
+        <trailer>Bellérophon,</trailer>
+        <trailer>TRAGEDIE</trailer>
       </div>
       <div type="act" xml:id="acte1">
         <head>ACTE PREMIER</head>
@@ -1007,8 +1007,7 @@
         </div>
         <div type="scene" xml:id="acte105">
           <head>SCENE V</head>
-          <stage>LE ROY, BELLEROPHON, Troupe </stage>
-          <stage>d’Amazones et de Solymes</stage>
+          <stage>LE ROY, BELLEROPHON, Troupe d’Amazones et de Solymes</stage>
           <sp who="iobate" xml:id="acte105-1">
             <speaker>LE ROY</speaker>
             <l n="198" xml:id="l198">Venez, venez, goûter les doux fruits de la gloire,</l>
@@ -1575,8 +1574,7 @@
         </div>
         <div type="scene" xml:id="acte305">
           <head>SCENE V</head>
-          <stage>LE ROY, BELLEROPHON, PHILONOE, SACRIFICATEUR, </stage>
-          <stage>MINISTRES du Temple, CHŒUR de Peuple.</stage>
+          <stage>LE ROY, BELLEROPHON, PHILONOE, SACRIFICATEUR, MINISTRES du Temple, CHŒUR de Peuple.</stage>
           <sp who="choeur-peuple" xml:id="acte305-1">
             <speaker>CHŒUR de Peuple</speaker>
             <l n="493" xml:id="l493">Le mal-heur qui nous accable</l>
@@ -2147,8 +2145,7 @@
         </div>
         <div type="scene" xml:id="acte502">
           <head>SCENE II</head>
-          <stage>LE ROY, STENOBEE, PHILONOE, ARGIE,</stage>
-          <stage>CHŒUR de Peuple</stage>
+          <stage>LE ROY, STENOBEE, PHILONOE, ARGIE, CHŒUR de Peuple</stage>
           <sp who="iobate" xml:id="acte502-1">
             <speaker>LE ROY</speaker>
             <l n="762" xml:id="l762">Venez vous partager l’allegresse publique ?</l>
@@ -2224,8 +2221,7 @@
         </div>
         <div type="scene" xml:id="acte503">
           <head>SCENE III</head>
-          <stage>PALLAS, LE ROY, BELLEROPHON, PHILONOE, </stage>
-          <stage>CHŒUR de Peuple</stage>
+          <stage>PALLAS, LE ROY, BELLEROPHON, PHILONOE, CHŒUR de Peuple</stage>
           <sp who="pallas" xml:id="acte503-1">
             <speaker>PALLAS</speaker>
             <l n="801" xml:id="l801"><ref target="#connoistre">Connoissez</ref> le Fils de Neptune</l>

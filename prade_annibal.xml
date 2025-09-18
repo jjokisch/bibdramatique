@@ -941,16 +941,9 @@
             <roleDesc>chef.</roleDesc>
           </castItem>
           </castList>
-          <stage rend="right">
-            <hi rend="italic">
-              <emph>La Scene est à Salpe, jadis Salapie, ville de la</emph>
-            </hi>
-          </stage>
-          <stage rend="right">
-            <hi rend="italic">
-              <emph>Poüille, dans une sale du Palais d’Annibal.</emph>
-            </hi>
-          </stage>
+        <set>
+          La Scene est à Salpe, jadis Salapie, ville de la Poüille, dans une sale du Palais d’Annibal.
+        </set>
         </div>
        <div>
         <head>ANNIBAL.</head><pb n="A,1"/>
@@ -1866,7 +1859,7 @@
           <stage>ANNIBAL, CINIPE.</stage>
          <sp who="annibal">
           <speaker>ANNIBAL</speaker>
-          <stage>(<hi rend="italic"><emph>Stances.</emph></hi>)</stage>
+          <head>(<hi rend="italic"><emph>Stances.</emph></hi>)</head>
           <l n="589" xml:id="l589">La chose est resoluë, enfin je me soubmets,</l>
           <l rend="lmarg1" n="590" xml:id="l590">Superbes enfans de ma <ref target="#flame1">flame</ref> ;</l>
           <l n="591" xml:id="l591">Desirs impetueux qui partagez mon ame,</l>

@@ -1271,7 +1271,7 @@
             <roleDesc>valet de D. Fernand. </roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est à Madrid.</stage>
+        <set>La Scene est à Madrid.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="A, 1"/>
@@ -2918,7 +2918,7 @@
           <pb n="50"/>
           <stage>D. LOUYS, D. LOPE.</stage>
           <sp xml:id="II06-1" who="d.-louis">
-            <speaker>D. LOUYS </speaker><stage/>
+            <speaker>D. LOUYS </speaker>
             <l part="F">Qui l’auroit pû penser ?</l>
             <l n="671" xml:id="l671">O surprenant prodige ! incroyable merveille !</l>
             <l n="672" xml:id="l672">N’est-ce point quelque songe, est-il vray que je veille ?</l>
@@ -5466,7 +5466,8 @@
             <stage>(Il le fait monter sur une palissade du jardin, et le lie.)</stage>
           </sp>
           <sp xml:id="V07-22" who="mendoce">
-            <speaker>MENDOCE <note n="581" place="bottom">À partir de l’édition (a), le texte présente ici la variante suivante : « monté ».</note> </speaker><stage>pendant que Philipin le lie.</stage><stage>monte</stage>
+            <speaker>MENDOCE</speaker>
+            <stage>monte<note n="581" place="bottom">À partir de l’édition (a), le texte présente ici la variante suivante : « monté ».</note> pendant que Philipin le lie.</stage>
             <l part="F">Ah, Monsieur le <ref target="#lutin">Lutin</ref>,</l>
             <l n="1770" xml:id="l1770">Ne m’abandonne pas au milieu du chemin,</l>
             <l n="1771" xml:id="l1771">Tu me ferois donner bien-tost du nez en terre<note n="582" place="bottom">Donner du nez en terre : « « C’est tomber tout plat à terre sur le nez, sur le visage. » (R).</note>.</l>

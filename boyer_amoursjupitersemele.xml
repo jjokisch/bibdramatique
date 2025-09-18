@@ -3179,7 +3179,7 @@
           <head>SCENE I.</head>
           <stage>La scene est dans un jardin enchanté.</stage>
           <stage>JUPITER, SEMELE, MOMUS.</stage>
-          <stage>Jupiter &amp; Semelé descendent dans une nuë,</stage>
+          <stage>Jupiter &amp; Semelé descendent dans une nuë.</stage>
           <sp who="jupiter" xml:id="III01-1">
             <speaker>JUPITER.</speaker>
             <l n="1010" xml:id="l1010">Vous n’avez rien à craindre icy belle Princesse.</l>
@@ -3365,8 +3365,7 @@
         </div>
         <div type="scene" xml:id="III03">
           <head>SCENE III.</head>
-          <stage>VENUS remonte au Ciel tandis que la Jeunesse descend dans un char avec une Couronne de fleurs à la main.</stage>
-          <stage>LA JEUNESSE, SEMELE, deux amours.<note n="123" place="bottom"><hi rend="i">deux amours</hi> est écrit en minuscules car les personnages sont certainement considérés comme secondaires dans la mesure où ils accompagent Vénus. Voir aussi les didascalies aux pages 52 et 53.</note></stage>
+          <stage>VENUS remonte au Ciel tandis que la Jeunesse descend dans un char avec une Couronne de fleurs à la main. LA JEUNESSE, SEMELE, deux amours.<note n="123" place="bottom"><hi rend="i">deux amours</hi> est écrit en minuscules car les personnages sont certainement considérés comme secondaires dans la mesure où ils accompagent Vénus. Voir aussi les didascalies aux pages 52 et 53.</note></stage>
           <sp who="jeunesse" xml:id="III03-1">
             <speaker> [LA JEUNESSE.]</speaker>
             <l n="1142" xml:id="l1142">Par ce mesme pouvoir, que vient de faire naistre</l>
@@ -3673,7 +3672,7 @@
         <div type="scene" xml:id="IV01">
           <head>SCENE I.</head>
           <stage>La Decoration du Theatre est composée d’un Portique magnifique, &amp; du Temple d’Hymenée.</stage>
-          <stage>S T A N C E S.</stage>
+          <head>S T A N C E S.</head>
           <sp who="semele" xml:id="IV01-1">
             <speaker>SEMELE.</speaker>
             <l n="1326" xml:id="l1326">Cesse de m’<ref target="#abuser">abuser</ref> esperance orgueilleuse ;</l>
@@ -4352,18 +4351,16 @@
           <sp who="jupiter" xml:id="IV10-30">
             <speaker>JUPITER.</speaker>
             <l n="1697" xml:id="l1697">Vous le voulez, Princesse, il faut vous contenter.</l>
-            <stage>Jupiter s’envole dans le Ciel.</stage>
-            <stage>Quatre fantosmes paroissent dans le fonds de l’Antre de la Jalouzie, &amp; se presentent à Semelé.</stage>
+            <stage>Jupiter s’envole dans le Ciel. Quatre fantosmes paroissent dans le fonds de l’Antre de la Jalouzie, &amp; se presentent à Semelé.</stage>
             <pb n="77"/>
           </sp>
           <sp who="semele" xml:id="IV10-31">
             <speaker>SEMELE.</speaker>
             <l n="1698" xml:id="l1698">Que vois-je juste Ciel ! quel Dieu me les envoye,</l>
             <l n="1699" xml:id="l1699">Ces fantômes <ref target="#affreux">affreux</ref> au milieu de ma joye ?</l>
-            <stage>Les fantômes dansent, &amp; apres avoir dansé</stage>
+            <stage>Les fantômes dansent, &amp; apres avoir dansé SEMELE continuë</stage>
           </sp>
           <sp who="semele" xml:id="IV10-32">
-            <speaker>SEMELE </speaker><stage>continuë</stage>
             <l n="1700" xml:id="l1700">En vain par ces horreurs on veut m’épouventer,</l>
             <l n="1701" xml:id="l1701">Quel qu’en soit le succés, je veux voir Jupiter.</l>
           </sp>

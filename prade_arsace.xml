@@ -538,7 +538,7 @@
           <role xml:id="capitainedesgardes">Le Capitaine des Gardes.</role>
         </castItem>
         </castList>
-        <stage>La Scene est à Seleucie<note place="bottom">Il existe de nombreuses villes fondées par la dynastie des Séleucides répondant à ce nom, mais il pourrait s’agir de Séleucie du Tigre, ville marquée par l’empire des Arsacides et qui fut le lit de conflits entre les Parthes et les Romains. </note> dans le Palais d’Artaban.</stage>
+        <set>La Scene est à Seleucie<note place="bottom">Il existe de nombreuses villes fondées par la dynastie des Séleucides répondant à ce nom, mais il pourrait s’agir de Séleucie du Tigre, ville marquée par l’empire des Arsacides et qui fut le lit de conflits entre les Parthes et les Romains. </note> dans le Palais d’Artaban.</set>
         <div type="act"><pb n="A ; 1" xml:id="p1"/>
           <head>ACTE I.</head>
           <div type="scene">

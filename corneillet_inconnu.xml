@@ -1244,8 +1244,8 @@
         <head>Extrait du Privilege du Roy.</head>
         <p>Par Grace &amp; Privilege du Roy donné à Versailles le 14. Novembre 1675 ; Signé, Par le Roy en son Conseil, DESVIEUX : Il est permis au Sieur T. CORNEILLE, Ecuyer, Sieur de l’Isle, de faire imprimer, vendre &amp; debiter, par tel Imprimeur ou Libraire qu’il voudra choisir, une Piece de Théatre de sa composition, intitulée L’INCONNU, pendant le temps &amp; espace de huit années, à commencer du jour qu’elle sera achevée d’imprimer pour la première fois ; Avec defenses a toutes Personnes, de quelque qualité &amp; condition qu’elles soient, d’en imprimer ou faire imprimer, vendre &amp; distribuer, en tous les Lieux du Royaume &amp; Terres de l’obeissance, d’autre Edition que de celle du Sieur de Corneille, ou de ceux qui auront droit de luy, à peine de trois mille livres d’amende, payable sans déport par chacun des contrevenans, confiscation des Exemplaires contrefaits, &amp; autres peines plus au long contenuës dans lesdites Lettres.</p>
         <p>Registré sur le Livre de la Communauté des Imprimeurs &amp; Libraires, Signé THIERRY, Syndic.</p>
-        <stage>Achevé d’imprimer pour la premiere fois</stage>
-        <stage>Le 17. jour de Janvier 1676.</stage>
+        <p>Achevé d’imprimer pour la premiere fois</p>
+        <p>Le 17. jour de Janvier 1676.</p>
       </div>
       <div type="set" xml:id="acteurs-prologue" n="3">
         <head>ACTEURS DU PROLOGUE.</head>
@@ -1369,7 +1369,7 @@
             <role xml:id="l-amour">L’AMOUR.</role>
           </castItem>
         </castList>
-        <stage>La Scene est dans le Chasteau de la Comtesse.</stage>
+        <set>La Scene est dans le Chasteau de la Comtesse.</set>
       </div>
       <div type="set" xml:id="decoration-prologue" n="6">
         <head>DECORATION du Prologue.</head>
@@ -1486,7 +1486,7 @@
         </sp>
         <stage>En mesme temps on voit deux morceaux de Rocher se changer en une Nymphe &amp; un Berger ; ils s’avancent &amp; chantent les Paroles qui suivent.</stage>
         <sp xml:id="A-13" who="la-nymphe">
-          <speaker/><stage>CHANSON DE</stage>
+          <speaker/><head>CHANSON DE</head>
           <l n="69" xml:id="l69">Amans qui vous rebutez                </l>
           <l n="70" xml:id="l70" rend="i">De la <ref target="#fierte">fierté</ref> d’une Belle,</l>
           <l n="71" xml:id="l71">Aimez, soufrez, méritez,</l>
@@ -1499,7 +1499,7 @@
           <l n="78" xml:id="l78">Vous en aimerez la peine.</l>
         </sp>
         <sp xml:id="A-14" who="le-berger">
-          <speaker/><stage>CHANSON DU</stage>
+          <speaker/><head>CHANSON DU</head>
           <l n="79" xml:id="l79">Quand on differe à se rendre,                     </l>
           <l n="80" xml:id="l80" rend="i">Une Belle peut prendre </l>
           <l n="81" xml:id="l81">De la <ref target="#fierte"/>fierté ;</l>
@@ -2005,8 +2005,7 @@
         <div type="scene" xml:id="I05">
           <pb n="B, 17"/>
           <head>SCENE V.</head>
-          <stage>LA COMTESSE, OLIMPE,</stage>
-          <stage>VIRGINE, MELISSE.</stage>
+          <stage>LA COMTESSE, OLIMPE, VIRGINE, MELISSE.</stage>
           <sp xml:id="I05-1" who="la-comtesse">
             <speaker>LA COMTESSE.</speaker>
             <l n="296" xml:id="l296">Scavez-vous que Dorante arrive icy ce soir ?</l>
@@ -2204,10 +2203,7 @@
         </div>
         <div type="scene" xml:id="I06">
           <head>SCENE VI.                    </head>
-          <stage>LA COMTESSE, OLIMPE, Deux</stage>
-          <stage>Enfans representant L’AMOUR &amp; LA</stage>
-          <stage>JEUNESSE. VIRGINE, MELISSE, </stage>
-          <stage>VALET MORE<note n="82" place="bottom"><p>Ce personnage n’est pas présenté dans la liste des acteurs au début de la pièce. En effet, il n’est pas un comédien fixe mais simplement un chanteur extérieur à la troupe, ajouté pour l’intermède chanté. Pour plus de précision sur les règles imposées par le roi aux compagnies de théâtre, se référer à l’introduction.</p></note>.</stage>
+          <stage>LA COMTESSE, OLIMPE, Deux Enfans representant L’AMOUR &amp; LA JEUNESSE. VIRGINE, MELISSE, VALET MORE<note n="82" place="bottom"><p>Ce personnage n’est pas présenté dans la liste des acteurs au début de la pièce. En effet, il n’est pas un comédien fixe mais simplement un chanteur extérieur à la troupe, ajouté pour l’intermède chanté. Pour plus de précision sur les règles imposées par le roi aux compagnies de théâtre, se référer à l’introduction.</p></note>.</stage>
           <sp xml:id="I06-1" who="l-amour">
             <speaker> L’AMOUR.</speaker>
             <l part="F">Vous voyez l’Amour &amp; la Jeunesse,    </l>
@@ -2379,7 +2375,7 @@
             <l n="495" xml:id="l495">C’est à vous d’entrer sur la Scene.                    </l>
           </sp>
           <sp xml:id="I06-27" who="le-more">
-            <speaker/><stage>CHANSON ITALIENNE DU</stage>
+            <speaker/><head>CHANSON ITALIENNE DU</head>
             <pb n="26"/>
             <l n="496" xml:id="l496">Occhi neri, il cui splendore</l>
             <l n="497" xml:id="l497">Hora uccide, hora da vita,</l>
@@ -2603,8 +2599,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <head>SCENE II.</head>
-          <stage>LE CHEVALIER, OLIMPE,</stage>
-          <stage>MELISSE.</stage>
+          <stage>LE CHEVALIER, OLIMPE, MELISSE.</stage>
           <sp xml:id="II02-1" who="le-chevalier">
             <speaker>LE CHEVALIER.</speaker>
             <l n="615" xml:id="l615">Madame, apprenez-moy quel espoir m’est permis.            </l>
@@ -2891,8 +2886,7 @@
         </div>
         <div type="scene" xml:id="II05">
           <head>SCENE V.</head>
-          <stage>LA COMTESSE, LE MARQUIS, </stage>
-          <stage>VIRGINE.</stage>
+          <stage>LA COMTESSE, LE MARQUIS, VIRGINE.</stage>
           <sp xml:id="II05-1" who="le-marquis">
             <speaker>LE MARQUIS.</speaker>
             <l n="730" xml:id="l730">Madame, je vous trouve un air sombre, resveur,                </l>
@@ -3006,9 +3000,7 @@
         </div>
         <div type="scene" xml:id="II06">
           <head>SCENE VI.</head>
-          <stage>LA COMTESSE, OLIMPE,</stage>
-          <stage>LE CHEVALIER, LE MARQUIS, </stage>
-          <stage>VIRGINE, MELISSE.</stage>
+          <stage>LA COMTESSE, OLIMPE, LE CHEVALIER, LE MARQUIS, VIRGINE, MELISSE.</stage>
           <sp xml:id="II06-1" who="le-chevalier">
             <speaker>LE CHEVALIER.</speaker>
             <l n="787" xml:id="l787">Quoy que j’ignore encor quel spéctacle on appreste,</l>
@@ -3037,11 +3029,7 @@
         </div>
         <div type="scene" xml:id="II07">
           <head>SCENE VII.</head>
-          <stage>LA COMTESSE, LE MARQUIS, </stage>
-          <stage>LE CHEVALIER, OLIMPE, </stage>
-          <stage>LA MONTAGNE representant</stage>
-          <stage>Comus<note n="96" place="bottom"><p>« Comus est une divinité que les anciens faisaient présider aux festins et aux réjouissances nocturnes. Il était représenté sous la figure d’un jeune homme chargé d’embonpoint, couronné de roses ou de myrte, tenant un vase d’une main, et de l’autre un plat de fruits ou de viande. » [<hi rend="i">Grand Dictionnaire historique</hi> de Louis Moreri] .</p></note>, VIRGINE, MELISSE,</stage>
-          <stage>Suite de Comus.</stage>
+          <stage>LA COMTESSE, LE MARQUIS, LE CHEVALIER, OLIMPE, LA MONTAGNE representant Comus<note n="96" place="bottom"><p>« Comus est une divinité que les anciens faisaient présider aux festins et aux réjouissances nocturnes. Il était représenté sous la figure d’un jeune homme chargé d’embonpoint, couronné de roses ou de myrte, tenant un vase d’une main, et de l’autre un plat de fruits ou de viande. » [<hi rend="i">Grand Dictionnaire historique</hi> de Louis Moreri] .</p></note>, VIRGINE, MELISSE, Suite de Comus.</stage>
           <sp xml:id="II07-1" who="comus">
             <speaker>COMUS<note n="97" place="bottom"><p>2<hi rend="sup">ème</hi> divertissement offert à la Comtesse : cf. note p. 26.</p></note>.</speaker>
             <l n="797" xml:id="l797">Madame, par hazard, si Comus est un Dieu        </l>
@@ -3155,10 +3143,7 @@
         </div>
         <div type="scene" xml:id="II08">
           <head>SCENE VIII.</head>
-          <stage>LA COMTESSE, OLIMPE, </stage>
-          <stage>LE CHEVALIER, VIRGINE, </stage>
-          <stage>MELISSE, COMUS,</stage>
-          <stage>Suite de Comus.</stage>
+          <stage>LA COMTESSE, OLIMPE, LE CHEVALIER, VIRGINE, MELISSE, COMUS, Suite de Comus.</stage>
           <sp xml:id="II08-1" who="olimpe">
             <speaker>OLIMPE.</speaker>
             <l n="844" xml:id="l844">On diroit qu’il sort en <ref target="couroux">couroux</ref>.</l>
@@ -3195,9 +3180,8 @@
             <l n="861" xml:id="l861">Qu’ainsi que Pomone<note n="108" place="bottom"><p>« Pomone est la déesse des jardins et des fruits ». [<hi rend="i">Ibidem</hi>] .</p></note> il s’appreste</l>
             <l n="862" xml:id="l862">A raisonner sur son employ.</l>
           </sp>
-          <stage>Pomone &amp; Vertumne s’avancent, &amp; chantent</stage>
-          <stage>le Dialogue qui suit.</stage>
-          <stage>DIALOGUE DE VERTUMNE ET DE POMONE.</stage>
+          <stage>Pomone &amp; Vertumne s’avancent, &amp; chantent le Dialogue qui suit.</stage>
+          <head>DIALOGUE DE VERTUMNE ET DE POMONE.</head>
           <sp xml:id="II08-6" who="vertumne">
             <speaker>VERTUMNE.</speaker>
             <l n="863" xml:id="l863">De quel <ref target="#chagrin">chagrin</ref>, Pomone, as-tu l’ame saisie ?    </l>
@@ -3249,7 +3233,7 @@
             <l n="887" xml:id="l887">Pour meriter son choix, aura touché son  !</l>
           </sp>
           <sp xml:id="II08-14" who="pomone">
-            <speaker/><stage>CHANSON DE</stage>
+            <speaker/><head>CHANSON DE</head>
             <l n="888" xml:id="l888"><hi rend="i">Vous avez beau vous défendre</hi>,            </l>
             <l n="889" xml:id="l889">Vous aimerez quelque jour</l>
             <l n="890" xml:id="l890"><hi rend="i">A l’Amour</hi>,    </l>
@@ -3265,7 +3249,7 @@
             <l n="900" xml:id="l900" rend="i">Vous verrez qu’ils sont pleins de douceur. </l>
           </sp>
           <sp xml:id="II08-15" who="vertumne">
-            <speaker/><stage>CHANSON DE</stage>
+            <speaker/><head>CHANSON DE</head>
             <pb n="E, 49"/>
             <l n="901" xml:id="l901">L’Amour est à suivre,</l>
             <l n="902" xml:id="l902">Laissez-vous charmer ;</l>
@@ -3368,8 +3352,7 @@
         <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
           <head>SCENE PREMIERE.</head>
-          <stage>LA COMTESSE, OLIMPE,</stage>
-          <stage>VIRGINE.</stage>
+          <stage>LA COMTESSE, OLIMPE, VIRGINE.</stage>
           <sp xml:id="III01-1" who="la-comtesse">
             <speaker>LA COMTESSE.</speaker>
             <l n="949" xml:id="l949">Nommez ce sentiment <ref target="#fierte">fierté</ref>, <ref target="#chagrin">chagrin</ref>, <ref target="#caprice">caprice</ref>,    </l>
@@ -3705,8 +3688,7 @@
         </div>
         <div type="scene" xml:id="III04">
           <head>SCENE IV.</head>
-          <stage>LE MARQUIS, LA COMTESSE, </stage>
-          <stage>LE CHEVALIER.</stage>
+          <stage>LE MARQUIS, LA COMTESSE, LE CHEVALIER.</stage>
           <sp xml:id="III04-1" who="le-marquis">
             <speaker>LE MARQUIS.</speaker>
             <l part="F">Le <ref target="#transport">transport</ref> est doux.</l>
@@ -3832,8 +3814,7 @@
         </div>
         <div type="scene" xml:id="III05">
           <head>SCENE V.</head>
-          <stage>LA COMTESSE, OLIMPE,</stage>
-          <stage>LE MARQUIS, LE CHEVALIER.</stage>
+          <stage>LA COMTESSE, OLIMPE, LE MARQUIS, LE CHEVALIER.</stage>
           <sp xml:id="III05-1" who="olimpe">
             <speaker>OLIMPE.</speaker>
             <l n="1136" xml:id="l1136">Quoy donc, le Chevalier a de l’amour pour vous,        </l>
@@ -3902,13 +3883,7 @@
         </div>
         <div type="scene" xml:id="III06">
           <head>SCENE VI.</head>
-          <stage>LA COMTESSE, OLIMPE, </stage>
-          <stage>LE MARQUIS, LE CHEVALIER, </stage>
-          <stage>VIRGINE, LA MONTAGNE</stage>
-          <stage>representant une Bohémienne, TROUPE</stage>
-          <stage>DE BOHEMIENS.</stage>
-          <stage>Ils entrent tous au bruit des Castagnettes</stage>
-          <stage>&amp; des Tambours de Biscaye<note n="121" place="bottom"><p>La Biscaye est une province basque d’Espagne. « TAMBOUR DE BASQUE, est un petit <hi rend="i">tambour</hi> qui n’est enfoncé que par un bout en forme de sas ou de crible, et qui a des sonnettes ou petites plaques de cuivre enchassées dans des fentes faites dans son corps pour faire du bruit. Les Bohemiens s’en servent en dansant leurs sarabandes. » [Furetière, 1690]</p></note>.</stage>
+          <stage>LA COMTESSE, OLIMPE, LE MARQUIS, LE CHEVALIER, VIRGINE, LA MONTAGNE representant une Bohémienne, TROUPE DE BOHEMIENS. Ils entrent tous au bruit des Castagnettes &amp; des Tambours de Biscaye<note n="121" place="bottom"><p>La Biscaye est une province basque d’Espagne. « TAMBOUR DE BASQUE, est un petit <hi rend="i">tambour</hi> qui n’est enfoncé que par un bout en forme de sas ou de crible, et qui a des sonnettes ou petites plaques de cuivre enchassées dans des fentes faites dans son corps pour faire du bruit. Les Bohemiens s’en servent en dansant leurs sarabandes. » [Furetière, 1690]</p></note>.</stage>
           <sp xml:id="III06-1" who="la-comtesse">
             <speaker>LA COMTESSE.</speaker>
             <l n="1167" xml:id="l1167">Pour des Bohémiens, cet équipage est beau<note n="122" place="bottom"><p>Apparition du 3ème divertissement offert à la Comtesse par l’Inconnu : cf. note p. 26 et p. 30.</p></note>.</l>
@@ -3944,9 +3919,7 @@
             <l n="1177" xml:id="l1177">Comme de tous les cœurs leur éclat se rend maistre,<pb n="64"/></l>
             <l n="1178" xml:id="l1178"><ref target="#souffrir">Souffrez</ref> qu’en l’admirant nous vous fassions connoistre    </l>
             <l n="1179" xml:id="l1179">Combien nous en sommes touchez.</l>
-            <stage>Toute la Troupe de Bohémiens donne des marques</stage>
-            <stage>d’admiration par une figure qu’elle fait en </stage>
-            <stage>regardant la Comtesse.</stage>
+            <stage>Toute la Troupe de Bohémiens donne des marques d’admiration par une figure qu’elle fait en regardant la Comtesse.</stage>
           </sp>
           <sp xml:id="III06-8" who="la-comtesse">
             <speaker>LA COMTESSE.</speaker>
@@ -4085,10 +4058,9 @@
             <speaker>LA COMTESSE.</speaker>
             <l n="1256" xml:id="l1256">Voyons. Quel passe-temps plus doux pouroit s’ofrir ?</l>
           </sp>
-          <stage>La petite Bohemienne danse, &amp; apres qu’elle a dansé, une Bohemienne chante les deux</stage>
-          <stage>Couplets suivans sur l’Air de la Sarabande.</stage>
+          <stage>La petite Bohemienne danse, &amp; apres qu’elle a dansé, une Bohemienne chante les deux Couplets suivans sur l’Air de la Sarabande.</stage>
           <sp xml:id="III06-27" who="bohemienne">
-            <speaker/><stage>CHANSON DE</stage>
+            <speaker/><head>CHANSON DE</head>
             <l n="1257" xml:id="l1257">Il faut aimer, c’est un mal nécessaire</l>
             <l n="1258" xml:id="l1258">Quand le bel âge attire les Amours.    </l>
             <l n="1259" xml:id="l1259">Qui fait la <ref target="#fier">fiere</ref></l>
@@ -4211,8 +4183,7 @@
         </div>
         <div type="scene" xml:id="III08">
           <head>SCENE VIII.</head>
-          <stage>LA COMTESSE, OLIMPE, VIRGINE, </stage>
-          <stage>LE MARQUIS, LE CHEVALIER.</stage>
+          <stage>LA COMTESSE, OLIMPE, VIRGINE, LE MARQUIS, LE CHEVALIER.</stage>
           <sp xml:id="III08-1" who="virgine">
             <speaker>VIRGINE.</speaker>
             <l part="F">Madame, il n’est plus temps,    </l>
@@ -4265,8 +4236,7 @@
         <head>ACTE IV.</head>
         <div type="scene" xml:id="IV01">
           <head>SCENE PREMIERE.</head>
-          <stage>LA COMTESSE, LE MARQUIS, </stage>
-          <stage>VIRGINE.</stage>
+          <stage>LA COMTESSE, LE MARQUIS, VIRGINE.</stage>
           <sp xml:id="IV01-1" who="le-marquis">
             <speaker>LE MARQUIS.</speaker>
             <l n="1336" xml:id="l1336">Ne me le cachez point, vous voila resoluë,</l>
@@ -4363,8 +4333,7 @@
         </div>
         <div type="scene" xml:id="IV02">
           <head>SCENE II.</head>
-          <stage>LA COMTESSE, LE CHEVALIER, </stage>
-          <stage>LE MARQUIS, VIRGINE.</stage>
+          <stage>LA COMTESSE, LE CHEVALIER, LE MARQUIS, VIRGINE.</stage>
           <sp xml:id="IV02-1" who="la-comtesse">
             <speaker>LA COMTESSE.</speaker>
             <l n="1376" xml:id="l1376" part="I">Hé bien ? Olimpe ?</l>
@@ -4457,8 +4426,7 @@
         </div>
         <div type="scene" xml:id="IV03">
           <head>SCENE III.</head>
-          <stage>LA COMTESSE, LE MARQUIS, </stage>
-          <stage>VIRGINE.</stage>
+          <stage>LA COMTESSE, LE MARQUIS, VIRGINE.</stage>
           <sp xml:id="IV03-1" who="la-comtesse">
             <speaker>LA COMTESSE.</speaker>
             <l part="F">Allez, ne craignez rien,</l>
@@ -4504,8 +4472,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <head>SCENE IV.</head>
-          <stage>LA COMTESSE, LE VICOMTE, </stage>
-          <stage>LE MARQUIS, VIRGINE.</stage>
+          <stage>LA COMTESSE, LE VICOMTE, LE MARQUIS, VIRGINE.</stage>
           <sp xml:id="IV04-1" who="la-comtesse">
             <speaker>LA COMTESSE.</speaker>
             <l part="F">Hé’ bien, mon Raporteur<note n="133" place="bottom"><p>« Juge ou Conseiller qui est chargé du rapport d’un procés. » [Furetière 1690] . La Comtesse emploi ce terme de manière ironique car le Vicomte ne joue qu’un rôle d’intermédiaire entre le propriétaire du Château et la Comtesse.</p></note> ?</l>
@@ -4748,9 +4715,7 @@
         </div>
         <div type="scene" xml:id="IV05">
           <head>SCENE V.</head>
-          <stage>LA COMTESSE, OLIMPE, </stage>
-          <stage>LE MARQUIS, LE VICOMTE, </stage>
-          <stage>VIRGINE.</stage>
+          <stage>LA COMTESSE, OLIMPE, LE MARQUIS, LE VICOMTE, VIRGINE.</stage>
           <sp xml:id="IV05-1" who="olimpe">
             <speaker>OLIMPE.</speaker>
             <l part="F">Ah, Madame,</l>
@@ -4896,11 +4861,7 @@
         </div>
         <div type="scene" xml:id="IV06">
           <head>SCENE VI.</head>
-          <stage>LA COMTESSE, OLIMPE, </stage>
-          <stage>LE VICOMTE, LE MARQUIS, </stage>
-          <stage>LE CHEVALIER, LA MONTAGNE</stage>
-          <stage>representant un Comédien, VIRGINE,</stage>
-          <stage>CASCARET.</stage>
+          <stage>LA COMTESSE, OLIMPE, LE VICOMTE, LE MARQUIS, LE CHEVALIER, LA MONTAGNE representant un Comédien, VIRGINE, CASCARET.</stage>
           <sp xml:id="IV06-1" who="cascaret">
             <speaker>CASCARET.</speaker>
             <l n="1597" xml:id="l1597" part="I">Madame.</l>
@@ -5037,7 +4998,7 @@
             <speaker>LE COMEDIEN.</speaker>
             <l part="F">Il est fort estimé.</l>
           </sp>
-          <stage>DIALOGUE D’ALCIDON ET D’AMINTE.</stage>
+          <head>DIALOGUE D’ALCIDON ET D’AMINTE.</head>
           <sp xml:id="IV06-31" who="alcidon">
             <speaker>ALCIDON.</speaker>
             <l n="1628" xml:id="l1628">Quoy, vous aimez ailleurs ? vous pouvez me haïr ?        </l>
@@ -5403,9 +5364,7 @@
         </div>
         <div type="scene" xml:id="V03">
           <head>SCENE III.</head>
-          <stage>LA COMTESSE, LE VICOMTE, </stage>
-          <stage>LE CHEVALIER, OLIMPE,</stage>
-          <stage>LE MARQUIS, VIRGINE.</stage>
+          <stage>LA COMTESSE, LE VICOMTE, LE CHEVALIER, OLIMPE, LE MARQUIS, VIRGINE.</stage>
           <sp xml:id="V03-1" who="le-vicomte">
             <speaker>LE VICOMTE.</speaker>
             <l part="M">Si mon cœur…</l>
@@ -5446,9 +5405,7 @@
         </div>
         <div type="scene" xml:id="V04">
           <head>SCENE IV.</head>
-          <stage>LA COMTESSE, &amp;c.<note n="150" place="bottom"><p>Symbole signifiant « et compagnie », mis pour éviter la répétition des personnages déjà présent depuis la scène précédente ; c’est-à-dire, en plus de la Comtesse : le Vicomte, le Chevalier, le Marquis, Olimpe et Virgine.</p></note> LA MONTAGNE</stage>
-          <stage>représentant LE COMEDIEN,</stage>
-          <stage>&amp; vestu en Zéphire.</stage>
+          <stage>LA COMTESSE, &amp;c.<note n="150" place="bottom"><p>Symbole signifiant « et compagnie », mis pour éviter la répétition des personnages déjà présent depuis la scène précédente ; c’est-à-dire, en plus de la Comtesse : le Vicomte, le Chevalier, le Marquis, Olimpe et Virgine.</p></note> LA MONTAGNE représentant LE COMEDIEN, &amp; vestu en Zéphire.</stage>
           <sp xml:id="V04-1" who="la-comtesse">
             <speaker>LA COMTESSE. </speaker>
             <l part="F">He’ bien,            </l>
@@ -5653,8 +5610,7 @@
         </div>
         <div type="scene" xml:id="V05">
           <head>SCENE I<note n="165" place="bottom"><p>Débute ici la pièce insérée qu’évoque Thomas Corneille dans l’épître Au Lecteur.</p></note>.</head>
-          <stage>LA MONTAGNE représentant Zéphire<note n="166" place="bottom"><p>« Zéphire est un dieu, qui selon les poètes, favorisait la naissance des fleurs et des fruits de la terre, par un souffle doux qui ranimait la chaleur naturelle des plantes et donnait la vie à toutes choses. Zéphire est aujourd’hui le nom d’un vent ». [<hi rend="i">Grand Dictionnaire historique</hi> de Louis Moreri]</p></note>,</stage>
-          <stage>AGLAURE<note n="167" place="bottom"><p>Selon Louis Moreri dans son <hi rend="i">Grand Dictionnaire historique</hi>, Aglaure eut une fille également nommée Aglaure. Il s’agirait surement ici de la fille, victime d’un complot et de jalousie entre Mercure, Pallas et sa sœur Hersé.</p></note>.</stage>
+          <stage>LA MONTAGNE représentant Zéphire<note n="166" place="bottom"><p>« Zéphire est un dieu, qui selon les poètes, favorisait la naissance des fleurs et des fruits de la terre, par un souffle doux qui ranimait la chaleur naturelle des plantes et donnait la vie à toutes choses. Zéphire est aujourd’hui le nom d’un vent ». [<hi rend="i">Grand Dictionnaire historique</hi> de Louis Moreri]</p></note>, AGLAURE<note n="167" place="bottom"><p>Selon Louis Moreri dans son <hi rend="i">Grand Dictionnaire historique</hi>, Aglaure eut une fille également nommée Aglaure. Il s’agirait surement ici de la fille, victime d’un complot et de jalousie entre Mercure, Pallas et sa sœur Hersé.</p></note>.</stage>
           <sp xml:id="V05-1" who="zephire">
             <speaker>Zéphire.</speaker>
             <l n="1860" xml:id="l1860">Quoy, tout-de-bon, vous estes en colere</l>
@@ -5840,8 +5796,7 @@
         </div>
         <div type="scene" xml:id="V07">
           <head>SCENE III.</head>
-          <stage>ZEPHIRE, CEPHISE, Un Enfant</stage>
-          <stage>Représentant l’Amour.</stage>
+          <stage>ZEPHIRE, CEPHISE, Un Enfant Représentant l’Amour.</stage>
           <sp xml:id="V07-1" who="zephire">
             <speaker>ZEPHIRE.</speaker>
             <l n="1957" xml:id="l1957">A la fin, ta Compagne a quité la partie.            </l>
@@ -6160,7 +6115,7 @@
           <l n="2064" xml:id="l2064" rend="i">La Fleurette<note n="177" place="bottom"><p>« Cajoleries amoureuses. Galanteries qu’on dit à une Dame. » [Richelet, 1680]</p></note>,                        </l>
           <l n="2065" xml:id="l2065">Elle s’en trouvera bien.</l>
           <stage>Après cette chanson Colin prie la Comtesse de danser, &amp; est enfin reduit de danser luy seul. Le Païsan &amp; le Suisse yvre luy succedent ; &amp; ensuite le Vicomte dans son enjoüement ridicule <ref target="#badiner">badine</ref> avec une Paisanne <ref target="#bavolet">Bavolette</ref> qui le rebutte en chantant l’air suivant.</stage>
-          <stage>AIR DE LA PAYSANNE.</stage>
+          <head>AIR DE LA PAYSANNE.</head>
           <l n="2066" xml:id="l2066">Ne frippez paon mon <ref target="#bavolet">bavolet</ref>,</l>
           <l n="2067" xml:id="l2067">C’est aujourdy Dimanche. Bis.</l>
           <l n="2068" xml:id="l2068"><hi rend="i">Je vous le dis tout net</hi>,                            </l>

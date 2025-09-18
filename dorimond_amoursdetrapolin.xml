@@ -989,9 +989,9 @@
         <p rend="i">Et ledit Sieur Dorimond a cedé et transporté son privilege à Jean Ribou, et Gabriel Quinet, marchands libraires à Paris, pour en jouyr suivant l’accord fait entr’eux. </p>
         <p>Registré sur le Livre de la Communauté, suivant l’Arrest de la Cour.</p>
         <p rend="right">Signé JOSSE, Syndic.</p>
-        <stage>Les Exemplaires ont esté fournis.</stage>
+        <head>Les Exemplaires ont esté fournis.</head>
         <p>Achevé d’imprimer pour la première fois,</p>
-        <stage rend="center">le 22. Janvier 1662.</stage>
+        <head rend="center">le 22. Janvier 1662.</head>
       </div>
       <div type="set" xml:id="acteurs">
         <head>ACTEURS.</head>
@@ -1168,8 +1168,7 @@
         </div>
         <div type="scene" xml:id="I04">
           <head>SCENE IV.</head>
-          <stage>LA COMEDIENE, LE GALLAND<note n="68" place="bottom"> Cela peut désigner quelqu’un de distingué mais Dorimond pense surtout aux galants au sens de « ceux qui recherchent les aventures amoureuses ».</note>,</stage>
-          <stage>L’ESPINAY.</stage>
+          <stage>LA COMEDIENE, LE GALLAND<note n="68" place="bottom"> Cela peut désigner quelqu’un de distingué mais Dorimond pense surtout aux galants au sens de « ceux qui recherchent les aventures amoureuses ».</note>, L’ESPINAY.</stage>
           <sp xml:id="I04-1" who="comedienne">
             <speaker>LA COMEDIENE.</speaker>
             <l n="93" xml:id="l93">Al Dieu ! je voy passer un qui fait l’idolastre</l>
@@ -1967,8 +1966,7 @@
         </div>
         <div type="scene" xml:id="II06">
           <head>SCENE V.</head>
-          <stage>PHILOSOPHIE, POESIE,</stage>
-          <stage>TRAPOLIN, LE DOCTEUR.</stage>
+          <stage>PHILOSOPHIE, POESIE, TRAPOLIN, LE DOCTEUR.</stage>
           <sp xml:id="II06-1" who="poesie">
             <speaker>POESIE.</speaker>
             <l n="478" xml:id="l478">Qvid vis Papa ego sum paratissima.</l>
@@ -2312,8 +2310,7 @@
         </div>
         <div type="scene" xml:id="II08">
           <head>SCENE VII.</head>
-          <stage>IGNORANCE, TRAPOLIN, </stage>
-          <stage>PHILOSOPHIE, POESIE.</stage>
+          <stage>IGNORANCE, TRAPOLIN, PHILOSOPHIE, POESIE.</stage>
           <sp xml:id="II08-1" who="ignorance">
             <speaker>IGNORANCE.</speaker>
             <l n="689" xml:id="l689">Quoy ? traistre déloyal, perfide, ingrat, coupable,</l>
@@ -2348,9 +2345,7 @@
         </div>
         <div type="scene" xml:id="II09">
           <head>SCENE VIII.</head>
-          <stage>LE DOCTEUR, PHILOSOPHIE,</stage>
-          <stage>IGNORANCE, POESIE,</stage>
-          <stage>GALANTERIE, TRAPOLIN.</stage>
+          <stage>LE DOCTEUR, PHILOSOPHIE, IGNORANCE, POESIE, GALANTERIE, TRAPOLIN.</stage>
           <sp xml:id="II09-1" who="le-docteur">
             <speaker>LE DOCTEUR</speaker>
             <l n="707" xml:id="l707">ET bien captivez-vous ce Phoenix des amans ?</l>

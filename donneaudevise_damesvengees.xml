@@ -678,7 +678,7 @@
             <roleDesc>Banquier.</roleDesc>
           </castItem>
           </castList>
-          <stage>La Scène est à Paris, dans la maison de Silvanire.</stage>
+          <set>La Scène est à Paris, dans la maison de Silvanire.</set>
         </div>
         <div type="act">
           <pb n="A, p.1" xml:id="p1"/> 
@@ -1757,8 +1757,7 @@
           <div type="scene">
             <pb n="47" xml:id="p47"/> 
             <head>SCENE IV.</head>
-            <stage>ORASIE, SILVANIRE, HORTENSE, HENRIETTE,</stage>
-            <stage>ALCIPPE, LISANDRE, MARTON, LISETTE.</stage>
+            <stage>ORASIE, SILVANIRE, HORTENSE, HENRIETTE, ALCIPPE, LISANDRE, MARTON, LISETTE.</stage>
             <sp who="silvanire">
               <speaker>SILVANIRE.</speaker>
               <p>Si j’avois sçû vostre arrivée, Madame, nous aurions esté au devant de vous pour joüir quelques momens plutost du plaisir de vous voir.</p>

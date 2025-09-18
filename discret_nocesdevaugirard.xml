@@ -2283,7 +2283,7 @@
             <speaker>FLORIDON.</speaker>
             <l n="643" xml:id="l643">Est-ce faict ? est-ce faict ? ô la plaisante histoire,<pb n="47"/></l>
             <l n="644" xml:id="l644">Laissons pour mieux courir ma houlette d’yvoire.</l>
-            <stage>                    Echo</stage>
+            <stage>Echo</stage>
             <p>                    voire.</p>
             <l n="645" xml:id="l645">Assez proche de moy l’on c’est esvanouy</l>
             <l n="646" xml:id="l646">Je n’iray pas trop loin est-ce fait ditte ouy,</l>
@@ -3470,8 +3470,7 @@
         <div type="scene" xml:id="III06">
           <head>SCENE SIXIESME.</head>
           <sp who="pancrace" xml:id="III06-1">
-            <speaker>PANCRACE </speaker><stage>seul une halebarde à la main.</stage>
-            <stage>Il revient</stage>
+            <speaker>PANCRACE </speaker><stage>seul une halebarde à la main. Il revient</stage>
             <l n="1135" xml:id="l1135"><hi rend="b">Q</hi>Ue sont-ils devenus ? certes ils n’avoient garde,<pb n="84"/></l>
             <l n="1136" xml:id="l1136">De m’attendre au retour, j’eusse donné <ref target="#nazarde">nazarde</ref>,</l>
             <l n="1137" xml:id="l1137">A ce fol indiscret, qui presume estre tel</l>
@@ -4745,8 +4744,7 @@
             <l n="1890" xml:id="l1890">Je te donne du temps autant que tu voudras.</l>
           </sp>
           <sp who="lidiane" xml:id="V04-2">
-            <speaker>LIDIANE </speaker><stage>ayant leu le tombeau de Polydas.</stage>
-            <stage>Pendant que le juge parle, Lidiane lict les vers du tombeau de Polydas.</stage>
+            <speaker>LIDIANE </speaker><stage>ayant leu le tombeau de Polydas. Pendant que le juge parle, Lidiane lict les vers du tombeau de Polydas.</stage>
             <l n="1891" xml:id="l1891"><ref target="#las">Las</ref> comment voulez vous grand Juge venerable,</l>
             <l n="1892" xml:id="l1892">Que je mette en vos mains un pauvre miserable :<pb n="135"/></l>
             <l n="1893" xml:id="l1893">Qui comme vous voyez gravé sur ce perron.</l>
@@ -4867,7 +4865,7 @@
             <l n="1946" xml:id="l1946">Non, non, n’en parlez plus, berger depéche toy.</l>
           </sp>
           <sp who="l-ombre" xml:id="V04-23">
-            <speaker>L’ombre de Caftrape, </speaker><stage>sortant de la grotte, tenant Polydas d’une main, </stage>
+            <speaker>L’ombre de Caftrape, </speaker><stage>sortant de la grotte, tenant Polydas d’une main, &amp; Amarille de l’autre.</stage>
             <l n="1947" xml:id="l1947">Demeurez malheureux cessez vostre vengeance,<pb n="139 Sij"/></l>
             <l n="1948" xml:id="l1948">Aprochez ceste grotte &amp; me prestez silence :</l>
             <l n="1949" xml:id="l1949">Je sors des noirs <ref target="#palus">palus</ref> de l’abysme infernal,</l>

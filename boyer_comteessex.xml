@@ -580,7 +580,7 @@
             <role xml:id="suite" rend="inferior">SUITE.</role>
           </castItem>
         </castList>
-        <stage>La Scene est à Londres dans le Palais Royal.</stage>
+        <set>La Scene est à Londres dans le Palais Royal.</set>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE I.</head>

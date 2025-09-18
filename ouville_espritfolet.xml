@@ -387,7 +387,7 @@
             <roleDesc>Damoiselle Parisienne, cousine d’Angelique.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est à Paris. </stage>
+        <set>La Scene est à Paris. </set>
       </div>
       <div type="act" xml:id="I">
         <pb n="1"/>
@@ -1249,8 +1249,7 @@
         </div>
         <div type="scene" xml:id="II03">
           <head>Scene III</head>
-          <stage>Carrille, Licidas, Florestan,</stage>
-          <stage>Lizandre.</stage>
+          <stage>Carrille, Licidas, Florestan, Lizandre.</stage>
           <sp who="carrille" xml:id="II03-1">
             <speaker>Carrille </speaker><stage>(avec deux valises sur les espaules)</stage>
             <l n="448" xml:id="l448">Au diable mille fois je donne la maison,</l>
@@ -3040,8 +3039,7 @@
         <div type="scene" xml:id="IV03">
           <pb n="p. 90"/>
           <head>Scene III</head>
-          <stage>Angelique, Florestan, Carrille</stage>
-          <stage>(Angelique tire la chandelle de la lanterne, et la met dans un chandelier, qui sera sur la table, et prend une chaire à dos, et se sied les espaules tournées vers eux.)</stage>
+          <stage>Angelique, Florestan, Carrille (Angelique tire la chandelle de la lanterne, et la met dans un chandelier, qui sera sur la table, et prend une chaire à dos, et se sied les espaules tournées vers eux.)</stage>
           <sp who="angelique" xml:id="IV03-1">
             <speaker>[Angélique]</speaker>
             <l n="1195" xml:id="l1195">Mettons là la chandelle, et voyons ces escrits.</l>
@@ -3743,8 +3741,7 @@
           <sp who="angelique" xml:id="V02-8">
             <speaker>Angelique</speaker>
             <l n="1545" part="I" xml:id="l1545">Des sieges promptement.</l>
-            <stage>(Lucinde et Isabelle leur presentent chacun<note place="bottom">« A chacun ».</note> une chaire avec de profondes reverences.)</stage>
-            <stage>(Angelique et Florestan devisent bas.)</stage>
+            <stage>(Lucinde et Isabelle leur presentent chacun<note place="bottom">« A chacun ».</note> une chaire avec de profondes reverences.) (Angelique et Florestan devisent bas.)</stage>
           </sp>
           <sp who="carrille" xml:id="V02-9">
             <speaker>Carrille</speaker>
@@ -4434,8 +4431,7 @@
         </div>
         <div type="scene" xml:id="V07">
           <head>Scene VII et derniere</head>
-          <stage>Licidas, Lizandre, Angelique, Florestan, Isabelle,</stage>
-          <stage>Lucinde, Carrille.</stage>
+          <stage>Licidas, Lizandre, Angelique, Florestan, Isabelle, Lucinde, Carrille.</stage>
           <sp who="lizandre" xml:id="V07-1">
             <speaker>Lizandre</speaker>
             <l n="1825" xml:id="l1825">Où vas-tu mal-heureuse ? et vous Lucinde aussi</l>

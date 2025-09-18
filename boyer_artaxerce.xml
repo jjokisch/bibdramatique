@@ -841,7 +841,7 @@
               <role xml:id="suite" rend="inferior">SUITE.</role>
             </castItem>
           </castList>
-          <stage>La Scene est à Babilonne, dans le Palais d’Artaxerce.</stage>
+          <set>La Scene est à Babilonne, dans le Palais d’Artaxerce.</set>
         </div>
       </div>
       <div xml:id="acte1" type="act">
@@ -1478,8 +1478,7 @@
         </div>
         <div type="scene" xml:id="acte202">
           <head>SCENE II.</head>
-          <stage>ASPASIE, NITOCRIS, BARSINE,</stage>
-          <stage>CLEONNE.</stage>
+          <stage>ASPASIE, NITOCRIS, BARSINE, CLEONNE.</stage>
           <sp xml:id="acte202-1" who="nitocris">
             <speaker>NITOCRIS.</speaker>
             <l n="402" xml:id="l402">Vous me voyez, Madame, <ref target="#estonner">étonnée</ref> et<note n="306" place="bottom"> Le hiatus <hi rend="i">étonnée et</hi> est toléré au XVII<hi rend="sup">e</hi> car un e caduc suit la première voyelle. Toutefois, comme pour le <hi rend="i">h</hi> aspiré (cf. note vers 234), il ne s’agit que d’une fiction graphique car le hiatus demeure présent à l’oreille. Voir aussi les vers 613, 794, 906, 963, 966, 1007, 1025. On voit dans ces exemples que le prénom Aspasie, terminé par un <hi rend="i">e</hi> caduc, favorise ce genre de phénomène.</note>

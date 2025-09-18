@@ -1455,7 +1455,7 @@
             <role xml:id="archer2"/>
           </castItem>
           </castList>
-          <stage>La Scene est dans une Taverne prés de la Sierra Morena en Espagne.</stage>
+          <set>La Scene est dans une Taverne prés de la Sierra Morena en Espagne.</set>
         </div>
         <div type="act">
           <head>ACTE I.</head>

@@ -603,7 +603,7 @@
             <role xml:id="suite" rend="inferior">Suite de Theodoric</role>
           </castItem>
         </castList>
-        <stage>La Scene est dans Rome.</stage>
+        <set>La Scene est dans Rome.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="A,1" xml:id="p1"/>

@@ -843,7 +843,7 @@ Avec privilège du Roi</bibl>
           <castItem>
             <role xml:id="troisvoleurs">TROIS VOLEURS.</role>
           </castItem></castList> 
-             <stage>La Scene est dans un Chasteau prés de Ferare</stage>
+             <set>La Scene est dans un Chasteau prés de Ferare</set>
           <p>L’AMANTE<pb n="A,1"/></p>
           <p>ENNEMIE.</p>
           <p rend="i">TRAGI-COMÉDIE.</p>
@@ -999,7 +999,7 @@ Avec privilège du Roi</bibl>
               <l n="88" xml:id="l88">Plus agreablement que celles de la Mer.</l>
             </sp>
             <sp who="lucine">
-              <speaker>LUCINE</speaker><stage>, bas.</stage>
+              <speaker>LUCINE,</speaker><stage>bas.</stage>
               <l n="89" xml:id="l89">Dieux ! destournez de luy cette horrible tempeste.</l>
             </sp>
             <sp who="claironde">
@@ -1304,7 +1304,7 @@ Avec privilège du Roi</bibl>
               <l n="233" xml:id="l233" part="I">Je n’y songerois plus.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE</speaker><stage>, bas.</stage>
+              <speaker>CLAIRONDE,</speaker><stage>bas.</stage>
               <l part="F">En paix un homicide :</l>
               <l n="234" xml:id="l234" part="I">Justes Dieux.<note place="bottom">Dans l’exemplaire RRA 483 in-8 de la Bibliothèque interuniversitaire de la Sorbonne, un lecteur anonyme a écrit le commentaire suivant à propos de cette réplique de Claironde : « + <hi xml:lang="fr" rend="i">trait sublime dans une si mauvaise pièce. »</hi></note></l>
             </sp>
@@ -1374,7 +1374,7 @@ Avec privilège du Roi</bibl>
               <l n="253" xml:id="l253">Joint qu’à ce passe-temps la saison vous convie.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE</speaker><stage>, bas.</stage>
+              <speaker>CLAIRONDE,</speaker><stage>bas.</stage>
               <l n="254" xml:id="l254">Lucine, ce conseil seconde mon envie.</l>
             </sp>
             <sp who="tersandre">
@@ -1383,7 +1383,7 @@ Avec privilège du Roi</bibl>
               <l n="256" xml:id="l256">Et je hay mon <ref target="#humeur">humeur</ref> de ne l’y porter pas.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE</speaker><stage>, bas.</stage>
+              <speaker>CLAIRONDE,</speaker><stage>bas.</stage>
               <l n="257" xml:id="l257">Démon, qui que tu sois, qui viens de l’en distraire,</l>
               <l n="258" xml:id="l258">Faut-il qu’à mon dessein je t’épreuve contraire.</l>
             </sp>
@@ -1458,11 +1458,11 @@ Avec privilège du Roi</bibl>
               <l n="286" xml:id="l286">Il me semble desja que l’un d’eux se réveille.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE</speaker><stage>, poussant Lucine.</stage>
+              <speaker>CLAIRONDE,</speaker><stage>poussant Lucine.</stage>
               <l n="287" xml:id="l287">Allons, frere, il est temps de chercher le couvert.</l>
             </sp>
             <sp who="tersandre">
-              <speaker>TERSANDRE<pb n="21" xml:id="p21"/></speaker><stage>, bas, et à l’écart.</stage>
+              <speaker>TERSANDRE<pb n="21" xml:id="p21"/>,</speaker><stage>bas, et à l’écart.</stage>
               <l n="288" xml:id="l288" part="I">Acceptez…</l>
             </sp>
             <sp who="meliarque">
@@ -1472,7 +1472,7 @@ Avec privilège du Roi</bibl>
               <l n="290" xml:id="l290">Vous l’en divertirez par vostre impatience.</l>
             </sp>
             <sp who="lucine">
-              <speaker>LUCINE</speaker><stage>, feignant de se réveiller.</stage>
+              <speaker>LUCINE,</speaker><stage>feignant de se réveiller.</stage>
               <l n="291" xml:id="l291" part="I">Fait-il jour ?</l>
             </sp>
             <sp who="claironde">
@@ -1481,7 +1481,7 @@ Avec privilège du Roi</bibl>
               <l n="292" xml:id="l292">Vrayment, c’est trop dormy, nous coucherons dehors.</l>
             </sp>
             <sp who="lucine">
-              <speaker>LUCINE</speaker><stage>, feignant de se vouloir lever.</stage>
+              <speaker>LUCINE,</speaker><stage>feignant de se vouloir lever.</stage>
               <l n="293" xml:id="l293">Je songeois au matin, et croyois estre au gîte,</l>
               <l n="294" xml:id="l294" part="I">Mais…</l>
             </sp>
@@ -1492,15 +1492,14 @@ Avec privilège du Roi</bibl>
               <l n="296" xml:id="l296">Cet aimable instrument qui nous peut divertir,</l>
               <l n="297" xml:id="l297">Lors qu’il nous ennuira dans nostre hostellerie,</l>
               <l n="298" xml:id="l298">Ta mort sera le prix de ma galanterie<note place="bottom">Sens particulier ici : c’est un jeu galant dans lequel elle chante une chanson destinée à quelqu’un (tout en feignant de croire que son destinataire est absent).</note>.</l>
-              <stage>Elle dit ce dernier Vers bas.</stage>
-              <stage>Elle chante ce qui suit.<pb n="22" xml:id="p22"/></stage>
+              <stage>Elle dit ce dernier Vers bas. Elle chante ce qui suit.<pb n="22" xml:id="p22"/></stage>
               <l n="299" xml:id="l299">Prens congé de la vie,</l>
               <l n="300" xml:id="l300">Et ne te promets pas</l>
               <l n="301" xml:id="l301">D’éviter le trépas,</l>
               <l n="302" xml:id="l302">Puis qu’à ce juste coup la <ref target="#fureur">fureur</ref> me convie.</l>
             </sp>
             <sp who="tersandre">
-              <speaker>TERSANDRE</speaker><stage>, bas.</stage>
+              <speaker>TERSANDRE,</speaker><stage>bas.</stage>
               <l n="303" xml:id="l303">O Dieux ! je suis ravy de sa charmante voix.</l>
             </sp>
             <sp who="lucine">
@@ -1508,7 +1507,7 @@ Avec privilège du Roi</bibl>
               <l n="304" xml:id="l304">Hâtons nous, je vous prie, et passons par ce bois.</l>
             </sp>
             <sp who="claironde">
-              <speaker>CLAIRONDE</speaker><stage>, bas.</stage>
+              <speaker>CLAIRONDE,</speaker><stage>bas.</stage>
               <l n="305" xml:id="l305">Le voicy, faisons voir une mine hardie,</l>
               <l n="306" xml:id="l306">Qui ne tesmoigne rien de nostre perfidie.</l>
             </sp>
@@ -1880,7 +1879,7 @@ Avec privilège du Roi</bibl>
               <l n="505" xml:id="l505">D’où vient qu’à ce discours vous changez de couleur ?</l>
             </sp>
             <sp who="claironde">
-              <speaker>FLORIDAN</speaker><stage>, se retirant à l’écart.</stage>
+              <speaker>FLORIDAN,</speaker><stage>se retirant à l’écart.</stage>
               <l n="506" xml:id="l506">Ce n’est pas ce discours qui cause ma douleur.</l>
               <l n="507" xml:id="l507">(Bas.) Soustiens moy Dorimon. Il en veut à Tersandre.<pb n="36" xml:id="p36"/></l>
               <l n="508" xml:id="l508">Et ce cruel m’attaque en venant me deffendre.</l>
@@ -2207,7 +2206,7 @@ Avec privilège du Roi</bibl>
               <l n="659" xml:id="l659" part="I">C’est luy…</l>
             </sp>
             <sp who="flaviane">
-              <speaker>FLAVIANE</speaker><stage>, bas</stage>
+              <speaker>FLAVIANE,</speaker><stage>bas</stage>
               <l part="M">Ne craignons plus.</l>
             </sp>
             <sp who="clymene">
@@ -2250,7 +2249,7 @@ Avec privilège du Roi</bibl>
               <l n="672" xml:id="l672">J’eusse esté vous chercher au Ciel de vostre Mere.</l>
             </sp>
             <sp who="flaviane">
-              <speaker>FLAVIANE</speaker><stage>, les surprenant.</stage>
+              <speaker>FLAVIANE,</speaker><stage>les surprenant.</stage>
               <l n="673" xml:id="l673">Quoy que ce beau séjour soit assez éloigné,</l>
               <l n="674" xml:id="l674">Sa sœur pour ce sujet l’auroit accompagné.</l>
             </sp>
@@ -2327,7 +2326,7 @@ Avec privilège du Roi</bibl>
               <l n="700" xml:id="l700">Il sçait l’Art de ravir le cœur par les oreilles.</l>
             </sp>
             <sp who="flaviane">
-              <speaker>FLAVIANE</speaker><stage>, à part.</stage>
+              <speaker>FLAVIANE,</speaker><stage>à part.</stage>
               <l n="701" xml:id="l701">Ses yeux mieux que sa voix me l’ont desja ravy,</l>
               <l n="702" xml:id="l702">Et dessous leur pouvoir il se trouve asservy :</l>
               <stage>Elle voit Clymene qui rentre avec la guiterre.</stage>
@@ -2399,7 +2398,7 @@ Avec privilège du Roi</bibl>
           <div type="scene">
             <head>Scène première.</head>
             <sp who="claironde">
-              <speaker>FLORIDAN</speaker><stage>, seule dans une chambre, sortant de dessus un lit.</stage>
+              <speaker>FLORIDAN,</speaker><stage>seule dans une chambre, sortant de dessus un lit.</stage>
               <l n="727" xml:id="l727">Puissant Dieu du Sommeil, en vain tu veux m’abattre,</l>
               <l n="728" xml:id="l728">Je ne sçaurois dormir lors que je doy combattre ;</l>
               <l n="729" xml:id="l729">Mars me donne un employ meilleur que ton repos,</l>
@@ -2527,7 +2526,7 @@ Avec privilège du Roi</bibl>
               <l n="811" xml:id="l811" part="I">Mon brave.</l>
             </sp>
             <sp who="claironde">
-              <speaker>FLORIDAN</speaker><stage>, levant la visiere.</stage>
+              <speaker>FLORIDAN,</speaker><stage>levant la visiere.</stage>
               <l part="M">&gt;Que veux-tu ?</l>
             </sp>
             <sp who="lucine">
@@ -2637,14 +2636,14 @@ Avec privilège du Roi</bibl>
               <l n="849" xml:id="l849">Ou dites-moy qui c’est, ou je le vay treuver.</l>
             </sp>
             <sp who="lucine">
-              <speaker>DORIMON<pb n="63" xml:id="p63"/></speaker><stage>, l’arrestant.</stage>
+              <speaker>DORIMON<pb n="63" xml:id="p63"/>,</speaker><stage>l’arrestant.</stage>
               <l n="850" xml:id="l850">Vous jugez à peu prés ce qui doit arriver,850</l>
               <l n="851" xml:id="l851">Et puis qu’il faut icy vous declarer le reste ;</l>
               <l n="852" xml:id="l852">Vous le pourrez sçavoir de ce papier funeste,</l>
               <l n="853" xml:id="l853">Que je me suis chargé de vous faire tenir.</l>
             </sp>
             <sp who="tersandre">
-              <speaker>TERSANDRE</speaker><stage>, lit ce Cartel qui suit.</stage>
+              <speaker>TERSANDRE,</speaker><stage>lit ce Cartel qui suit.</stage>
               <l n="854" xml:id="l854">Apres avoir détruit une illustre famille,</l>
               <l n="855" xml:id="l855">Tu ne merites pas de respirer le jour ;855</l>
               <l n="856" xml:id="l856">Je viens te le ravir, pour vanger une Fille</l>
@@ -2701,7 +2700,7 @@ Avec privilège du Roi</bibl>
               <l n="886" xml:id="l886">Pour repousser l’effort de cét Hydre inhumain ?</l>
             </sp>
             <sp who="tersandre">
-              <speaker> TERSANDRE</speaker><stage>, croyant parler à Meliarque.</stage>
+              <speaker> TERSANDRE,</speaker><stage>croyant parler à Meliarque.</stage>
               <l n="887" xml:id="l887">Amy, c’est à ce coup qu’éclatera ma rage,</l>
               <l n="888" xml:id="l888">Et que ma cruauté passera mon courage,</l>
               <l n="889" xml:id="l889">Afin que desormais ces <ref target="#amant">Amans</ref> refroidis,</l>
@@ -2940,7 +2939,7 @@ Avec privilège du Roi</bibl>
               <l n="991" xml:id="l991">Ainsi leur bon accueil ne détruit pas ma crainte.</l>
             </sp>
             <sp who="lucine">
-              <speaker>DORIMON</speaker><stage>, bas.</stage>
+              <speaker>DORIMON,</speaker><stage>bas.</stage>
               <l n="992" xml:id="l992">Allez flatter le mal dont son ame est atteinte.</l>
             </sp>
             <sp who="claironde">
@@ -3964,7 +3963,7 @@ Avec privilège du Roi</bibl>
               <l n="1439" xml:id="l1439">Et j’espere qu’en fin vous romprez tout obstacle.</l>
             </sp>
             <sp who="lucine">
-              <speaker>DORIMON</speaker><stage>, bas.</stage>
+              <speaker>DORIMON,</speaker><stage>bas.</stage>
               <l n="1440" xml:id="l1440">Isis<note place="bottom">Dans l’Antiquité, Isis a souvent été associée à d’autres déesses. Dans le cas présent, Isis est la déesse de la fécondité et de l’amour.</note> encore un coup fera donc le miracle :</l>
               <l n="1441" xml:id="l1441">Mais voicy Floridan, dont le triste maintien</l>
               <l n="1442" xml:id="l1442">Semble me preparer un pareil entretien<note place="bottom">Voir note du v. 611.</note>.</l>
@@ -4299,7 +4298,7 @@ Avec privilège du Roi</bibl>
             <head>Scène X.</head>
             <stage>MELIARQUE, TERSANDRE, FLORIDAN, DORIMON, DIOMEDE.</stage>
             <sp who="meliarque">
-              <speaker>MELIARQUE</speaker><stage>, à part.</stage>
+              <speaker>MELIARQUE,</speaker><stage>à part.</stage>
               <l n="1601" xml:id="l1601">Apres beaucoup de pas, apres beaucoup de vœux,</l>
               <l n="1602" xml:id="l1602">A la fin j’apperçoy le sujet de mes feux,</l>
               <l n="1603" xml:id="l1603">Et ce rencontre heureux dont mon ame est ravie,</l>

@@ -504,7 +504,7 @@
             <role xml:id="suite" rend="inferior">Suite.</role>
           </castItem>
         </castList>
-        <stage>La Scéne est dans la Capitale de Syrie.</stage>
+        <set>La Scéne est dans la Capitale de Syrie.</set>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE I</head>

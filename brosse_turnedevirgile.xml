@@ -412,8 +412,8 @@
             <role xml:id="troyens" rend="male inferior">TROUPE des Troyens.</role>
           </castItem>
         </castList>
-        <stage>La Scene est à Lavinium, ville du Latium, contrée d’Italie, maintenant appellée le territoire de Rome, ou campagna di Roma.<note n="75" place="bottom">L’unité de lieu était encore relativement souple : c’est le cas ici, puisqu’on nous mentionne la ville de Lavinium, mais la pièce se déroule successivement dans le palais du Roi ou sur le champ de bataille. D’où l’utilisation de décors à compartiments.</note>
-          </stage>
+        <set>La Scene est à Lavinium, ville du Latium, contrée d’Italie, maintenant appellée le territoire de Rome, ou campagna di Roma.<note n="75" place="bottom">L’unité de lieu était encore relativement souple : c’est le cas ici, puisqu’on nous mentionne la ville de Lavinium, mais la pièce se déroule successivement dans le palais du Roi ou sur le champ de bataille. D’où l’utilisation de décors à compartiments.</note>
+        </set>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE I.</head>
@@ -836,8 +836,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <head>SCENE V</head>
-          <stage>LATINUS, TURNE, AMATA,</stage>
-          <stage>LAVINIE, JUTURNE.</stage>
+          <stage>LATINUS, TURNE, AMATA, LAVINIE, JUTURNE.</stage>
           <sp xml:id="I05-1" who="latinus">
             <speaker>LATINUS.</speaker>
             <l n="277" xml:id="l277">Turne que faites-vous ? quelle indigne foiblesse</l>
@@ -1421,8 +1420,7 @@
         </div>
         <div type="scene" xml:id="III03">
           <head>SCENE III</head>
-          <stage>ACATE, ÆNEE.</stage>
-          <stage>Troupe des Troyens.</stage>
+          <stage>ACATE, ÆNEE. Troupe des Troyens.</stage>
           <sp xml:id="III03-1" who="acate">
             <speaker>ACATE.</speaker>
             <l n="661" xml:id="l661">Seigneur, les assiegez sont sortis de la Ville,</l>
@@ -1530,8 +1528,7 @@
         </div>
         <div type="scene" xml:id="III04">
           <head>SCENE IV</head>
-          <stage>LATINUS, TURNE, ÆNEE, ACATE.</stage>
-          <stage>Troupe des Troyens. Troupe des Latins.</stage>
+          <stage>LATINUS, TURNE, ÆNEE, ACATE. Troupe des Troyens. Troupe des Latins.</stage>
           <sp xml:id="III04-1" who="latinus">
             <speaker>LATINUS.</speaker>
             <l n="741" xml:id="l741">Doncques voicy l’endroit, où le <ref target="#sort2">sort</ref> de deux hommes</l>
@@ -1651,9 +1648,7 @@
         </div>
         <div type="scene" xml:id="III05">
           <head>SCENE V</head>
-          <stage>JUTURNE, TURNE, ÆNEE.</stage>
-          <stage>LATINUS, ACATE.</stage>
-          <stage>Troupe des Troyens, Troupe des Latins.</stage>
+          <stage>JUTURNE, TURNE, ÆNEE. LATINUS, ACATE. Troupe des Troyens, Troupe des Latins.</stage>
           <sp xml:id="III05-1" who="juturne">
             <speaker>JUTURNE</speaker>
             <stage>En habit de Cavalier.</stage>
@@ -2093,8 +2088,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <head>SCENE IV</head>
-          <stage>LATINUS, SIDON, TURNE,</stage>
-          <stage>AMATA, LAVINIE, TYRENE.</stage>
+          <stage>LATINUS, SIDON, TURNE, AMATA, LAVINIE, TYRENE.</stage>
           <sp xml:id="IV04-1" who="latinus">
             <speaker>LATINUS.</speaker>
             <l n="1153" xml:id="l1153" part="I">Ænée est <ref target="#genereux1">genereux</ref>.</l>
@@ -2754,8 +2748,7 @@
         </div>
         <div type="scene" xml:id="V07">
           <head>SCENE DERNIERE</head>
-          <stage>TURNE, LATINUS, AMATA.</stage>
-          <stage>LAVINIE, ÆNEE, SIDON, TYRENE.</stage>
+          <stage>TURNE, LATINUS, AMATA. LAVINIE, ÆNEE, SIDON, TYRENE.</stage>
           <sp xml:id="V07-1" who="turne">
             <speaker>TURNE.</speaker>
             <l n="1535" xml:id="l1535">QUe la parque à son gré tranche ma <ref target="#destin3">destinée</ref>,</l>

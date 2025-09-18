@@ -724,7 +724,7 @@
             <roleDesc>Laquais de Damon.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est à Paris.</stage>
+        <set>La Scene est à Paris.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="A1"/>
@@ -3350,7 +3350,7 @@
             <l part="F">Chez vous, si vous voulez.</l>
           </sp>
           <sp xml:id="III06-22" who="monsieur-le-blanc">
-            <speaker/><stage>A part</stage>
+            <stage>A part</stage><speaker>MONSIEUR LE BLANC</speaker>
             <l n="999" xml:id="l999">Elle n’y viendroit pas. Non, non, chez la Coëffeuse</l>
             <l n="1000" xml:id="l1000">Je feray mieux l’<ref target="#aveu">aveu</ref> de ma flâme amoureuse.</l>
           </sp>
@@ -3473,7 +3473,7 @@
             <l n="1047" xml:id="l1047" part="I">Me laisser en <ref target="#repos">repos</ref> ?</l>
           </sp>
           <sp xml:id="IV02-13" who="angelique">
-            <speaker>ANGELIQUE </speaker><stage>de </stage>
+            <speaker>ANGELIQUE </speaker><stage>de <ref target="#dedans">dedans</ref> une entrée apelle.</stage>
             <l part="M">L’Esperance ?</l>
           </sp>
           <sp xml:id="IV02-14" who="l-esperance">
@@ -4549,8 +4549,7 @@
         </div>
         <div type="scene" xml:id="V05">
           <head>SCENE V</head>
-          <stage>MONSIEUR LE BLANC, CATO.</stage>
-          <stage>Et le reste dans l’Entrée.</stage>
+          <stage>MONSIEUR LE BLANC, CATO. Et le reste dans l’Entrée.</stage>
           <sp xml:id="V05-1" who="monsieur-le-blanc">
             <speaker>MONSIEUR LE BLANC</speaker>
             <l n="1429" xml:id="l1429">Elle pleure, je croy. Qu’as-tu, ma Chere? écoute;</l>

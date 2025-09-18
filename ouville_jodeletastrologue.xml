@@ -915,7 +915,7 @@
             <roleDesc>vieillard, Escuyer de Liliane.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est à Paris.</stage>
+        <set>La Scene est à Paris.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="1, A"/>

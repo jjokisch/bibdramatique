@@ -2821,7 +2821,7 @@
             <role xml:id="gardes" rend="male">GARDES.</role>
           </castItem>
         </castList>
-        <stage>La Scene est à Londres.</stage>
+        <set>La Scene est à Londres.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="A"/>

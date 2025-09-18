@@ -652,9 +652,9 @@
       <div xml:id="dedicace" type="dedication">
         <pb n="A ij"/>
         <head>A MONSEIGNEUR<lb/>COLBERT <lb/>CONSEILLER DU ROY <lb/>En tous ses Conseils, &amp; Intendant <lb/>De ses Finances.</head>
-        <stage rend="center">MONSEIGNEUR,</stage>
+        <ab rend="center">MONSEIGNEUR,</ab>
         <p>Il y a long-temps que j’aurois pris la liberté de vous dedier quelques-uns de mes ouvrages, sans les grandes affaires qui vous occupent continuellement ; cela me faisait apprehender de vous dérober quelques-uns de ces momens precieux que vous employez à executer les ordres du Roy. Mais comme feu S.E<note n="45" place="bottom"> S.E signifie « Son Eminence » ; il s’agit de Mazarin, qui a recommandé à sa mort, en 1661, son intendant Colbert au roi.</note> a bien voulu quelquefois se delasser l’esprit dans la lecture de mes écrits ; j’ai crû que vous n’auriez pas desagreable que j’eusse l’honneur de vous presenter celuy-cy, &amp; que j’entreprisse quelque jour de faire vostre Eloge. Vous ne pouviez jamais avoir une marque plus infaillible de vostre merite, que l’estime que ce grand Ministre a faite de vous, &amp; le choix que S.M <note n="46" place="bottom"> S.M signifie « Sa Majesté » et désigne Louis XIV.</note> en a fait en suite pour l’administration de ses finances, la chose la plus delicate &amp; la plus importante d’un Estat. Les Romains qui estoient de sages Politiques, éprouvoient par ces charges la fidelité &amp; la <ref target="#suffisance">suffisance</ref> de leurs Citoyens ; Il vous est fort glorieux, MONSEIGNEUR, que ce soit dans le temps que vous avez le maniement des finances que la France ait commencé à faire des largesses, &amp; que le Roy ait répandu ses libéralitez sur la fleur des gens de Lettres de ce Royaume, &amp; les actions <ref target="#illustre">illustres</ref> des plus grands Monarques ne suffisent pas pour les rendre immortels, si quelqu’un ne prend soin d’en conserver la memoire. Mais ces excellents Genies sur qui S.M a fait éclater ses bienfaits, n’en seront pas ingrats, &amp; feront retentir son Nom de siecle en siecle, &amp; d’un bout du monde jusques à l’autre. Le regne de Louys XIV se rendra plus fameux à la posterité que celuy du II. des Cesars<note n="47" place="bottom"> Il s’agit d’Auguste qui fut le second, après Caius Julius César, à se faire appeler « Caesar », cognomen des Empereurs institué par Auguste dans le cadre du principat. </note> : sous la domination d’un Prince plus parfait qu’Auguste, les Armes &amp; les Sciences fleuriront dans cét Empire avec plus d’éclat qu’elles n’ont fait autrefois dans Rome. Ovide, cét <ref target="#illustre">illustre</ref> malheureux, après en avoir esté injustement exilé, vient chercher un azile dans cette Cour ; il espere estre mieux receu en France que dans sa propre patrie &amp; se promet que vous aurez la bonté d’estre son Protecteur : son crime n’est que d’avoir esté trop <ref target="#galant1">galant</ref>, &amp; d’avoir enseigné un Art, sans qui la moitié du monde seroit ennemie de l’autre. Ce Chevalier Romain ayant faire <hi rend="i">l’Art de plaire</hi>, qui a esté admiré de toute la terre ; j’ai crû que je pourrois faire une Comedie de luy, qui ne déplairoit pas. Depuis plusieurs années j’ay mis en lumiere divers Escrits en vers &amp; en prose, sans en avoir tiré autre avantage que de les avoir presentez à ce que la France avoit de plus Auguste &amp; de plus Eminent. Bien que nous soyons dans un temps où les Muses sont mieux traitées par les Graces ; de quelques maniere que l’on considere mes ouvrages, je m’estimeray assez heureux, si vous ne me refusez pas l’honneur de vostre protection, &amp; si vous me permettez de prendre la qualité,</p>
-        <stage rend="center">MONSEIGNEUR,</stage>
+        <ab rend="center">MONSEIGNEUR,</ab>
         <p>De vostre tres-humble &amp; tres-obeïssant serviteur,</p>
         <p>GILBERT.</p>
       </div>
@@ -758,7 +758,7 @@
             <roleDesc>Finit la Piece.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est en l’Isle de Cypre, dans les Jardins d’Adonis.</stage>
+        <set>La Scene est en l’Isle de Cypre, dans les Jardins d’Adonis.</set>
       </div>
       <div type="prologue" xml:id="B">
         <head>RECIT.</head>
@@ -3686,7 +3686,6 @@
           <pb n="103"/>
           <head>SCENE IV.</head>
           <stage>DAPHNIS, HYACINTHE, CEPHISE, AMINTE.</stage>
-          <stage/>
           <sp xml:id="VII04-1" who="daphnis">
             <speaker>DAPHNIS.</speaker>
             <l n="1481" xml:id="l1481">Je viens vous annoncer un <ref target="#sensible1">sensible</ref> malheur,</l>

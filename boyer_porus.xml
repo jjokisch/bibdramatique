@@ -707,8 +707,8 @@
         <castItem>
           <role xml:id="troupedesgardes">TROUPE DES GARDES</role>
         </castItem></castList>
-        <stage rend="center">La Scene est dans le camp d’Alexandre sur les 
-<lb/>bords du fleuve Hydaspe<note place="bottom">Il s’agit du lieu de la bataille qui a opposé Porus à Alexandre le Grand vers 326 avant J.-C. L’Hydaspe est situé au nord de l’Inde actuelle, dans la province du Pendjab.</note>.</stage>
+        <set rend="center">La Scene est dans le camp d’Alexandre sur les 
+<lb/>bords du fleuve Hydaspe<note place="bottom">Il s’agit du lieu de la bataille qui a opposé Porus à Alexandre le Grand vers 326 avant J.-C. L’Hydaspe est situé au nord de l’Inde actuelle, dans la province du Pendjab.</note>.</set>
       </div>
         <div type="act"><head>ACTE I.</head>
         <div type="scene"><head>SCENE PREMIERE.</head>

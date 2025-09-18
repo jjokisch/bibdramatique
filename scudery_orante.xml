@@ -2493,8 +2493,7 @@
         </div>
         <div type="scene" xml:id="III07">
           <head>SCENE SEPTIESME.</head>
-          <stage>ORMIN, ISIMANDRE, ORANTE, NERINE, CLINDOR, </stage>
-          <stage>LINDOMAN.</stage>
+          <stage>ORMIN, ISIMANDRE, ORANTE, NERINE, CLINDOR, LINDOMAN.</stage>
           <sp xml:id="III07-1" who="ormin">
             <speaker>ORMIN.</speaker>
             <l n="820" xml:id="l820">Elles valent beaucoup, si vous les estimez. <pb n="64"/></l>

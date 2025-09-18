@@ -1150,7 +1150,7 @@
             <role xml:id="gardes" rend="male inferior">SUITE DE GARDES.</role>
           </castItem>
         </castList>
-        <stage>La Scene est dans le Camp de Tamerlan.</stage>
+        <set>La Scene est dans le Camp de Tamerlan.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="A, 1" xml:id="p1"/>

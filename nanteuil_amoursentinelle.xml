@@ -803,7 +803,7 @@
             <role xml:id="troupes">Troupes de <hi rend="sc"><ref target="#crocheteur">Crocheteurs</ref></hi>, d’<ref target="#harlequin">Harlequins</ref> et de Danseurs.</role>
           </castItem>
         </castList>
-        <stage>La Scene est à Paris</stage>
+        <set>La Scene est à Paris</set>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE I.</head>
@@ -2666,7 +2666,7 @@
           </sp>
           <sp xml:id="III11-3" who="florant">
             <speaker>Florant.</speaker>
-            <stage rend="center">LETTRE</stage>
+            <p rend="center">LETTRE</p>
             <p>MONSIEUR.</p>
             <p rend="i" xml:id="lettre">Vous devez estre sans doute surpris de la maniere que j’en agis avec vous, c’est moy qui ay gardé Isabelle chez vous avec Croctin mon valet, elle est entre mes mains, et si vous souhaitez nostre alliance, vous aurez la bonté de me le faire sçavoir par le porteur de ce <ref target="#billet">billet</ref>.</p>
             <p><space>                                                                  </space>Clidamant.</p>

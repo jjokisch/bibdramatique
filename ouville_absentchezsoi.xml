@@ -921,7 +921,7 @@
             <roleDesc>frere d’Elize, &amp; amoureux de Diane.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est à Paris.</stage>
+        <set>La Scene est à Paris.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="A1"/>
@@ -3816,8 +3816,7 @@
             <l n="1315" xml:id="l1315">Octave monte icy, Madame, avec Clitandre.</l>
           </sp>
           <sp xml:id="IV02-19" who="elize">
-            <speaker>ELIZE </speaker><stage>surprise</stage>
-            <stage>(Elle entre au mesme lieu où Clorimant &amp; Geraste sont cachez)</stage>
+            <speaker>ELIZE </speaker><stage>surprise (Elle entre au mesme lieu où Clorimant &amp; Geraste sont cachez)</stage>
             <l n="1316" xml:id="l1316">Dieux il me faut cacher je ne m’en puis deffendre.</l>
             <l n="1317" xml:id="l1317" part="I">Grands Dieux que faites vous ?</l>
           </sp>
@@ -5330,8 +5329,7 @@
             <l n="1943" xml:id="l1943">Laissons ces differents<note place="bottom">Voir la note du vers 1079.</note> &amp; terminons l’affaire.</l>
           </sp>
           <sp xml:id="V08-4" who="pauline">
-            <speaker>PAULINE </speaker><stage>bas à Geraste</stage>
-            <stage>(Geraste entre qui tire Pauline)</stage>
+            <speaker>PAULINE </speaker><stage>bas à Geraste (Geraste entre qui tire Pauline)</stage>
             <l n="1944" xml:id="l1944">Quoy Geraste à Paris, hé que pense tu<note place="bottom">Au XVII<hi rend="sup">e</hi> siècle, on trouve parfois la deuxième personne du présent de l’indicatif des verbes en <hi rend="i">–er</hi> sans <hi rend="i">–s</hi> final (Spillebout, p. 186).</note> faire,</l>
             <l n="1945" xml:id="l1945" part="I">Qui t’emmene<note place="bottom">Voir la note du vers 15.</note> en ces lieux ?<pb n="149" xml:id="p149"/></l>
           </sp>

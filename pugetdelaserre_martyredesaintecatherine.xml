@@ -580,7 +580,7 @@
 <lb/>LA CHANCELLIERE<note>Il s’agit de l’épouse du Chancelier Séguier qui fut le protecteur de La Serre après la mort du Cardinal de Richelieu.</note>,</head>
         <p>MADAME,</p>
         <p>Ce n’est point à vostre Grandeur à qui je dedie cét ouvrage, vostre merite me l’arrache des mains, mais si doucement que luy mesme me contraynt d’en aimer la violence. Il est vray, MADAME, que des le moment que j’eus la pensée de la faire, je me resolus à vous l’offrir, mais comme en ce dessein la force de vostre esprit &amp; la foiblesse du mien me rendoient esgalement respectueux &amp; timide, il falloit de necessité que vostre vertu qui en estoit l’objet me violentast en quelque sorte pour le mettre au jour que vous luy donnez. Sa pieté a tant de rapport à la vostre qu’on peut dire que de tous les divins exemples de perfection qu’il expose en public, vous nous en faictes voir aujoud’huy les plus belles pratiques. En effet, MADAME, on peut lire dans vos actions de mesme que dans ce livre tous les sages preceptes qu’il nous sçauroit enseigner, &amp; comme en cela vous joignez encore les effets aux paroles, on n’a qu’à vous suivre, &amp; à vous imiter pour se rendre accomply en toutes choses. Qui n’a pas ouy parler de ceste grande charité que vous professez en secret pour le public, quoyqu’elle ne cherche que l’ombre des prisons, comme si elle apprehendoit d’estre cognue. Qui peut douter de vostre bonté si elle s’interesse tousjours pour le soulagement des miserables, &amp; qui ne cognoit pas vostre sagesse dans l’heureux employ de vos occupations, n’ayant pour objet que la gloire de Dieu &amp; l’utilité du prochain. Et ce sont ces veritez, MADAME, qui m’ont servi de commandement absolu pour m’acquitter de ce que je vous devois avec tant de justice, &amp; pour faire cognoistre à toute la terre, qu’une vertu eminente comme la vostre sçait l’art de forcer les volontez quelques libres qu’elles soient, à luy rendre les honneurs, &amp; les respects qui luy appartiennent. Mais certes, MADAME, cest avantage me demeure dans la contrainte qu’elle exerce aujourd’huy sur moy de l’avoir prevenüe de mes souhaits, estant bien aise d’avoir rencontré l’occasion où je puisse vous tesmoigner publiquement comme je fais, que je suis sans interest, &amp; seray toute ma vie avec passion.</p>
-        <stage rend="center">MADAME,</stage>
+        <ab rend="center">MADAME,</ab>
         <p rend="right">Vostre tres-humble &amp; tres-
 <lb/>obeïssant serviteur.
 <lb/>PUGET DE LA SERRE.</p>
@@ -643,7 +643,7 @@
             <role xml:id="trasee" rend="male exterior">[TRASEE]</role>
           </castItem>
         </castList>
-        <stage>La Scene est dans le Palais de l’Empereur en Alexandrie.</stage>
+        <set>La Scene est dans le Palais de l’Empereur en Alexandrie.</set>
       </div>
       <div xml:id="I" type="act">
         <head>PREMIER ACTE<note>La pièce est tantôt intitulée le Martyre de sainte Catherine, tantôt sainte Catherine, comme dans le privilège du roi. C’est sous le premier titre qu’elle est le plus souvent désignée.</note></head>
@@ -1152,7 +1152,8 @@
           <pb n="43" xml:id="p43"/>
           <head>SCENE III</head>
           <sp xml:id="III03-1" who="ste-catherine">
-            <speaker>Ste CATHERINE, <note>La prison peut être une pièce ordianire du palais, comme dans Polyeucte ou le véritable saint Genest. Il n’y a pas nécessairement de rupture de l’unité de lieu.</note></speaker><stage>seule dans la chambre de sa prison</stage>
+            <speaker>Ste CATHERINE,</speaker>
+            <stage>seule dans la chambre de sa prison <note>La prison peut être une pièce ordianire du palais, comme dans Polyeucte ou le véritable saint Genest. Il n’y a pas nécessairement de rupture de l’unité de lieu.</note></stage>
             <p>"O Divin Redempteur de mon ame<note>Les guillemets qui marquaient traditionnellement les sentences, avaient disparu à cette époque. La Serre les utilise ici pour montrer que cette prière est une parole sacrée à considérer sur un autre plan que les autres qui sont profanes.</note>, puis que vostre bonté toujours "infinie guide aujourd’huy mes pas dans le mesme chemin que vous avez "tenu pour acquerir vostre propre gloire, éclairez mon esprit de la lumiere de "vos "graces: Echaufez ma volonté du feu de vostre amour, &amp; animez mon "courage de la force de vostre protection, afin que je connoisse la verité en "vous adorant, que je mesprise teutes choses en vous aymant, &amp; que je "triomphe de tous mes ennemis en leur faisant confesser &amp; vostre nom, &amp; "leur erreur par la voix d’une humble repentance. Adjoutez Seigneur, à "toutes ces graces, celle de pouvoir mourir pour vous, n’estant plus capable "de passion que pour en souhaiter la gloire. Mais d’un desir<note><hi rend="i">Désir</hi> est complément de <hi rend="i">capable.</hi></note> impatient, puis "qu’il me fait sans cesse soûpirer en cette attente. Voicy Porphire, que "desire t’il-de moi.</p>
           </sp>
         </div>

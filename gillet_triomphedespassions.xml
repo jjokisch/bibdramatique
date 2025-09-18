@@ -817,7 +817,7 @@
               <role rend="male" xml:id="le-page">Le Page.</role>
             </castItem>
           </castList>
-          <stage>La Scene est dans Athenes.</stage>
+          <set>La Scene est dans Athenes.</set>
         </div>
       </div>
       <div xml:id="argument-premier-acte">
@@ -923,8 +923,7 @@
         <div type="scene" xml:id="I02">
           <pb n="5" xml:id="p5"/>
           <head>SCENE II.</head>
-          <stage>On tire la toille et l’on voit un temple et ses personnages qui suivent.</stage>
-          <stage>MANLIE, ARPHACE, et leur suitte.</stage>
+          <stage>On tire la toille et l’on voit un temple et ses personnages qui suivent. MANLIE, ARPHACE, et leur suitte.</stage>
           <sp xml:id="I02-1" who="manlie">
             <speaker>MANLIE.</speaker>
             <l n="67" xml:id="l67">Quoy ? donc il est certain ; ah funeste nouvelle !</l>
@@ -1347,7 +1346,10 @@
             <l n="346" xml:id="l346">Le <ref target="#trepas">trespas</ref> d’un enfant si sage et si bien né,</l>
           </sp>
           <sp xml:id="I05-10" who="manlie">
-            <speaker>MANLIE, <note place="bottom">Comme le troisième vers de la réplique de Manlie est une adresse directe, ce ne sont que les deux premiers vers qui constituent un aparté.</note></speaker><stage> premiers vers bas.</stage><stage>disant les trois</stage>
+            <speaker>MANLIE,</speaker>
+            <stage>disant les trois<note place="bottom">Comme le troisième vers de la réplique de
+            Manlie est une adresse directe, ce ne sont que les deux premiers vers qui constituent un
+            aparté.</note> premiers vers bas.</stage>
             <l n="347" xml:id="l347">Elle pleure mon fils, et moy je le regrette,</l>
             <l n="348" xml:id="l348">Mais cachons par honneur la faute que j’ay faicte.</l>
             <l n="349" xml:id="l349">Oüy, Madame, il se peut, et vous le pouvez veoir,</l>

@@ -599,8 +599,10 @@
             <role xml:id="les-violons"/>
           </castItem>
         </castList>
-        <stage>La Scène est à Paris, dans la Maison de Phélonte, &amp; dans celle de Dorame.</stage>
-        <stage>Le Premier Acte se passe dans l’Antichambre de Phêlonte, où d’abord il doit y avoir un Clavessin sur le costê du devant du Theatre ; &amp; dans le fonds, des Sieges aux deux costez : Sur les uns il faut y voir un gros Manteau de campagne ; sur les autres un Chapeau sans plumes, les plumes sur un Siege pres celuy du Chapeau<note place="bottom">Description complétée par celle du <hi rend="i">Mémoire</hi> de Mahelot, p. 117 : « Theatre est deux chambre differante qui se change a tous les actes. Il faut un clavesin, une hallebarde, deux tabourest, 3 chaisse, un manteau, deux billets, 2 clef, 2 battes, une escritoire ». La hallebarde et les deux tabourets seront utilisés dans la « bataille » de Crispin, Dorame et le musicien à la fin du deuxième acte ; les deux billets sont ceux de Daphnis (I, 13 et III, 1) ; en revanche, on ne repère dans le texte que le recours à une « batte » (I, 10).</note>.</stage>
+        <set>
+        <p>La Scène est à Paris, dans la Maison de Phélonte, &amp; dans celle de Dorame.</p>
+        <p>Le Premier Acte se passe dans l’Antichambre de Phêlonte, où d’abord il doit y avoir un Clavessin sur le costê du devant du Theatre ; &amp; dans le fonds, des Sieges aux deux costez : Sur les uns il faut y voir un gros Manteau de campagne ; sur les autres un Chapeau sans plumes, les plumes sur un Siege pres celuy du Chapeau<note place="bottom">Description complétée par celle du <hi rend="i">Mémoire</hi> de Mahelot, p. 117 : « Theatre est deux chambre differante qui se change a tous les actes. Il faut un clavesin, une hallebarde, deux tabourest, 3 chaisse, un manteau, deux billets, 2 clef, 2 battes, une escritoire ». La hallebarde et les deux tabourets seront utilisés dans la « bataille » de Crispin, Dorame et le musicien à la fin du deuxième acte ; les deux billets sont ceux de Daphnis (I, 13 et III, 1) ; en revanche, on ne repère dans le texte que le recours à une « batte » (I, 10).</note>.</p>
+        </set>
       </div>
       <div type="act" xml:id="I">
         <pb n="1, A"/>
@@ -608,8 +610,7 @@
         <div type="scene" xml:id="I01">
           <head>SCENE PREMIERE.</head>
           <sp who="la-ronce" xml:id="I01-1">
-            <speaker>LA RONCE </speaker><stage>à ses Camarades.</stage>
-            <stage>Ses Camarades sont six Violons habillez en Laquais comme luy<note place="bottom">Ces laquais sont au XVII<hi rend="sup">e</hi> siècle des musiciens professionnels avant tout, et, secondairement, des domestiques : afin de rentabiliser leur présence, on leur confiait des tâches quotidiennes : « intégrés à la domesticité, ils portent la livrée des laquais et demeurent souvent astreints à d’autres tâches que celles de leur charge. Ainsi verra-t-on parfois, pour alléger le budget de la maison, des cochers-trompettistes ou des cuisiniers-violonistes » (M.-C. Beltrando-Patier, <hi rend="i">Histoire de la musique</hi>, Paris, Bordas, 1982 ; rééd. 1995, p. 309).</note>.</stage>
+            <speaker>LA RONCE </speaker><stage>à ses Camarades. Ses Camarades sont six Violons habillez en Laquais comme luy<note place="bottom">Ces laquais sont au XVII<hi rend="sup">e</hi> siècle des musiciens professionnels avant tout, et, secondairement, des domestiques : afin de rentabiliser leur présence, on leur confiait des tâches quotidiennes : « intégrés à la domesticité, ils portent la livrée des laquais et demeurent souvent astreints à d’autres tâches que celles de leur charge. Ainsi verra-t-on parfois, pour alléger le budget de la maison, des cochers-trompettistes ou des cuisiniers-violonistes » (M.-C. Beltrando-Patier, <hi rend="i">Histoire de la musique</hi>, Paris, Bordas, 1982 ; rééd. 1995, p. 309).</note>.</stage>
             <l n="1" xml:id="l1">Eh, Messieurs, un moment <ref target="#concerter">concertons</ref> entre nous ;</l>
             <l n="2" xml:id="l2">De nostre peu de soin, Monsieur est en courroux :</l>
             <l n="3" xml:id="l3">Nous avons, sans mentir, beaucoup de <ref target="#nonchalance">nonchalance</ref>.</l>
@@ -2643,8 +2644,7 @@
             <l part="F">Je n’en puis rien sçavoir.</l>
           </sp>
           <sp who="toinon" xml:id="II06-5">
-            <speaker>TOINON </speaker><stage>revenant à elle.</stage>
-            <stage>à part.</stage>
+            <speaker>TOINON </speaker><stage>revenant à elle. à part.</stage>
             <l n="562" part="I" xml:id="l562">Ah bon.</l>
             <stage>à Dor.</stage>
             <l part="F">Civilement il faut le recevoir.</l>
@@ -3150,11 +3150,12 @@
             <l part="F">Ce Fat se fait tenir à quatre<note place="bottom">Richelet : « C’est faire le furieux et le méchant et au fond ne l’être pas beaucoup. Témoigner en aparence qu’on veut se batre &amp; au fond n’en avoir pas grande envie. »</note>.</l>
           </sp>
           <sp who="le-musicien" xml:id="II08-48">
-            <speaker>LE MUSICIEN </speaker><stage>prenant un siege.</stage>
+            <speaker>LE MUSICIEN</speaker><stage>prenant un siege.</stage>
             <l n="705" part="I" xml:id="l705">Ah ç’en est trop souffrir.</l>
           </sp>
           <sp who="crispin" xml:id="II08-49">
-            <speaker>CRISPIN <note place="bottom">Au sens propre, compte tenu de la scène qui va suivre : se munissant d’un siège.</note>.</speaker><stage>prenant un autre siege</stage>
+            <speaker>CRISPIN</speaker>
+            <stage>prenant un autre siege<note place="bottom">Au sens propre, compte tenu de la scène qui va suivre : se munissant d’un siège.</note>.</stage>
             <l part="F">Le Drôle en veut par là.</l>
           </sp>
           <sp who="dorame" xml:id="II08-50">
@@ -3184,7 +3185,8 @@
             <l n="708" part="I" xml:id="l708">Sinon…</l>
           </sp>
           <sp who="le-musicien" xml:id="II08-56">
-            <speaker>LE MUSICIEN <note place="bottom">C’est-à-dire qu’il n’arrive pas à la sortir de son fourreau : le fait de montrer une épée nue en scène choque les bienséances dans la seconde moitié du siècle (voir J. Scherer, <hi rend="i">La Dramaturgie classique</hi>, Paris, Nizet, s.d., [1950] ; rééd. 2001, p. 414).</note>.</speaker><stage>s’embarasse de son Epêe</stage>
+            <speaker>LE MUSICIEN</speaker>
+            <stage>s’embarasse de son Epêe<note place="bottom">C’est-à-dire qu’il n’arrive pas à la sortir de son fourreau : le fait de montrer une épée nue en scène choque les bienséances dans la seconde moitié du siècle (voir J. Scherer, <hi rend="i">La Dramaturgie classique</hi>, Paris, Nizet, s.d., [1950] ; rééd. 2001, p. 414).</note>.</stage>
             <l part="M"><ref target="#fourbe">Fourbe</ref> !</l>
           </sp>
           <sp who="crispin" xml:id="II08-57">
@@ -4548,7 +4550,7 @@
             <l part="M">Non.</l>
           </sp>
           <sp who="melante" xml:id="III12-13">
-            <speaker>MELANTE </speaker><stage>se </stage>
+            <speaker>MELANTE </speaker><stage>se chagrinant.</stage>
             <l part="F">Le fâcheux moment !</l>
           </sp>
           <sp who="fanchon" xml:id="III12-14">
@@ -5621,8 +5623,7 @@
             <l n="1356" rend="i" xml:id="l1356">Je ne veux plus m’engager.</l>
           </sp>
           <sp who="crispin" xml:id="IV12-24">
-            <speaker>CRISPIN, </speaker><stage>apres que Phêlonte a chanté, se retourne</stage>
-            <stage>devers Dorame, battant la mesure.</stage>
+            <speaker>CRISPIN, </speaker><stage>apres que Phêlonte a chanté, se retourne devers Dorame, battant la mesure.</stage>
             <p><hi rend="i">Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa.</hi> bis.</p>
             <l n="1357" part="I" xml:id="l1357">La Basse continuë, oyez.</l>
           </sp>
@@ -5636,8 +5637,7 @@
             <stage>PHELONTE chante, L’Amour cause trop, &amp;c.</stage>
           </sp>
           <sp who="crispin" xml:id="IV12-27">
-            <speaker>CRISPIN </speaker><stage>se retourne encore à Dorame, apres la fin du Couplet.</stage>
-            <stage>Le mesme, Fa re mi fa, &amp;c.</stage>
+            <speaker>CRISPIN </speaker><stage>se retourne encore à Dorame, apres la fin du Couplet. Le mesme, Fa re mi fa, &amp;c.</stage>
             <l n="1359" part="I" xml:id="l1359">C’est un petit Rondeau.</l>
           </sp>
           <sp who="dorame" xml:id="IV12-28">
@@ -6078,7 +6078,8 @@
         <div type="scene" xml:id="V01">
           <head>SCENE PREMIERE</head>
           <sp who="crispin" xml:id="V01-1">
-            <speaker>CRISPIN <note place="bottom">En sortant des coulisses, c’est-à-dire en entrant sur la scène.</note>.</speaker><stage>en sortant</stage>
+            <speaker>CRISPIN</speaker>
+            <stage>en sortant<note place="bottom">En sortant des coulisses, c’est-à-dire en entrant sur la scène.</note>.</stage>
             <p rend="i">Fa re mi fa, fa sol fa mi, &amp;c.</p>
             <l n="1447" part="I" xml:id="l1447">Hem ?</l>
           </sp>
@@ -7019,7 +7020,9 @@
           <head>SCENE VII</head>
           <stage>DORAME, PHELONTE, DAPHNIS, CRISPIN, TOINON.</stage>
           <sp who="crispin" xml:id="V07-1">
-            <speaker>CRISPIN <note place="bottom"><hi rend="i">Musiciens</hi> est synonyme de « chanteurs » au XVII<hi rend="sup">e</hi> siècle.</note></speaker><stage>, aux Violons, &amp; à Fanchon.</stage><stage>aux Musiciens</stage>
+            <speaker>CRISPIN</speaker>
+            <stage>aux Musiciens, <note place="bottom"><hi rend="i">Musiciens</hi> est synonyme de
+            « chanteurs » au XVII<hi rend="sup">e</hi> siècle.</note> aux Violons, &amp; à Fanchon.</stage>
             <l n="1741" xml:id="l1741">Monsieur a le goust fin, de vostre mieux allons,</l>
             <l n="1742" xml:id="l1742"><hi rend="i">Fa sol.</hi> Prenez le ton avec les Violons.</l>
             <l n="1743" part="I" xml:id="l1743">Tout le monde est-il prest ?</l>
@@ -7034,8 +7037,7 @@
             <l part="F">Sur tout, suivez bien la mesure.</l>
           </sp>
           <sp who="les-violons" xml:id="V07-4">
-            <speaker>LES VIOLONS </speaker><stage>préludent, &amp; Crispin dit, Fa, sol, re, mi, la, sol, fa, &amp;c. En suite on chante ce qui suit : Crispin bat la mesure, &amp; Phêlonte accompagne du Clavessin.</stage>
-            <stage>On chante.</stage>
+            <speaker>LES VIOLONS </speaker><stage>préludent, &amp; Crispin dit, Fa, sol, re, mi, la, sol, fa, &amp;c. En suite on chante ce qui suit : Crispin bat la mesure, &amp; Phêlonte accompagne du Clavessin. On chante.</stage>
             <l n="1745" xml:id="l1745"><hi rend="i">Tu viens peindre nos Prez des plus vives couleurs</hi>, </l>
             <l n="1746" rend="i" xml:id="l1746">Printemps, tu ramenes les Fleurs,</l>
             <l n="1747" rend="i" xml:id="l1747">Chacun en a l’ame <ref target="#ravir">ravie</ref> :</l>
@@ -7056,8 +7058,7 @@
             <l n="1752" xml:id="l1752">Les Ecoliers sont bons ; Je ne dis rien du Maistre.</l>
           </sp>
           <sp who="crispin" xml:id="V07-7">
-            <speaker>CRISPIN </speaker><stage>Fa re fa sol, &amp;c.</stage>
-            <stage>On chante encore.</stage>
+            <speaker>CRISPIN </speaker><stage>Fa re fa sol, &amp;c. On chante encore.</stage>
             <l n="1753" rend="i" xml:id="l1753">Ce verd de qui l’éclat brille sur nos Costeaux,</l>
             <l n="1754" rend="i" xml:id="l1754">Le doux ramage des Oyseaux,</l>
             <l n="1755" xml:id="l1755"><hi rend="i">Tout rit, tout au plaisir convie</hi> : </l>

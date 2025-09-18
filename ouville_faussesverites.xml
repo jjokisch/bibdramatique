@@ -658,7 +658,7 @@
             <role xml:id="un-valet" rend="male inferior"/>
           </castItem>
         </castList>
-        <stage>La SCENE est à Paris.</stage>
+        <set>La SCENE est à Paris.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="1" xml:id="p1"/>
@@ -4361,8 +4361,7 @@
         <div type="scene" xml:id="V05">
           <pb n="113" xml:id="p113"/>
           <head>Scene V.</head>
-          <stage>Tomire, Lisis, Fabrice, Lidamant,</stage>
-          <stage>Tomire, &amp; Lisis l’espée à la main.</stage>
+          <stage>Tomire, Lisis, Fabrice, Lidamant, Tomire, &amp; Lisis l’espée à la main.</stage>
           <sp xml:id="V05-1" who="tomire">
             <speaker>TOMIRE </speaker><stage>dans la rue.</stage>
             <l n="1563" xml:id="l1563">Si les forces du corps, me manquent, j’ay du <ref target="#coeur">cœur</ref>,</l>
@@ -4476,8 +4475,7 @@
         </div>
         <div type="scene" xml:id="V06">
           <head>Scene VI.</head>
-          <stage>Leandre, Florimonde, un valet, Orasie &amp; Nerine, au logis de Leandre, dans l’obscurité.</stage>
-          <stage>Leandre vient chez luy avec Florimonde qu’iltient par la main, pensant tenir Orasie, ouvre avec la clef la porte, &amp; Orasie &amp;Nerine, escoutent dans la Chambre de Florimonde, en obscurité.</stage>
+          <stage>Leandre, Florimonde, un valet, Orasie &amp; Nerine, au logis de Leandre, dans l’obscurité. Leandre vient chez luy avec Florimonde qu’iltient par la main, pensant tenir Orasie, ouvre avec la clef la porte, &amp; Orasie &amp;Nerine, escoutent dans la Chambre de Florimonde, en obscurité.</stage>
           <sp xml:id="V06-1" who="leandre">
             <speaker>LEANDRE</speaker>
             <l n="1590" xml:id="l1590" part="I">De la chandelle hola.</l>
@@ -4487,8 +4485,7 @@
             <l part="F">Bien Monsieur tout à l’heure.</l>
           </sp>
           <sp xml:id="V06-3" who="orasie">
-            <speaker>Orasie </speaker><stage>dans la Chambre de Florimonde</stage>
-            <stage>bas à Nerine.</stage>
+            <speaker>Orasie </speaker><stage>dans la Chambre de Florimonde bas à Nerine.</stage>
             <l n="1591" xml:id="l1591">Escoutons ce que c’est, j’entends du bruit icy.</l>
           </sp>
           <sp xml:id="V06-4" who="leandre">

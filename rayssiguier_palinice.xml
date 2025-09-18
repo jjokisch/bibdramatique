@@ -3109,8 +3109,7 @@
         </div>
         <div type="scene" xml:id="V06">
           <head>SCENE V</head>
-          <stage>ALCANDRE, CLORIAN, FLORICE, CIRCEINE, PALINICE, CERINTE, SILEINE</stage>
-          <stage>ALCANDRE ET CLORIAN.</stage>
+          <stage>ALCANDRE, CLORIAN, FLORICE, CIRCEINE, PALINICE, CERINTE, SILEINE.</stage>
           <sp xml:id="V06-1" who="alcandre">
             <speaker>ALCANDRE. </speaker>
             <l n="1406" xml:id="l1406">Puis que l’amour le veut : et qu’il est impossible</l>
@@ -3208,9 +3207,7 @@
         </div>
         <div type="scene" xml:id="V07">
           <head>SCENE  VI</head>
-          <stage>ARIMANT,  SILEINE,  PALINICE</stage>
-          <stage>FLORICE,  CIRCEINE,  ALCANDRE</stage>
-          <stage>CERINTE,  CLORIAN.</stage>
+          <stage>ARIMANT,  SILEINE,  PALINICE, FLORICE,  CIRCEINE,  ALCANDRE, CERINTE,  CLORIAN.</stage>
           <sp xml:id="V07-1" who="arimant">
             <speaker>ARIMANT.</speaker>
             <l n="1443" xml:id="l1443">Voicy, voicy le bras qui te pourra confondre,<pb n="99"/></l>

@@ -1004,7 +1004,7 @@
             <roleDesc>Suivant de Carlos.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est à Milan.</stage>
+        <set>La Scene est à Milan.</set>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE I.</head>

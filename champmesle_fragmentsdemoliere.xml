@@ -2407,7 +2407,7 @@
                 rencontre !</p>
           </sp>
           <sp xml:id="II05-2" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <pb n="52"/>
             <p>Monsieur….</p>
           </sp>
@@ -2416,7 +2416,7 @@
             <p>Que je vous embrasse, M<hi rend="sup">r</hi> Dimanche.</p>
           </sp>
           <sp xml:id="II05-4" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>En verité c’est moy, Monsieur, qui suis trop heureux de vous trouver icy, et j’ay
                 bien de la joye que cela serve d’occasion à vuider…</p>
           </sp>
@@ -2425,7 +2425,7 @@
             <p>Vrayement j’ay bien du plaisir à vous voir.</p>
           </sp>
           <sp xml:id="II05-6" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Monsieur, c’est beaucoup d’honneur que vous me faites ; mais si vous y vouliez
                 joindre une grace, je me trouve icy dans quelque besoin, et….</p>
           </sp>
@@ -2434,7 +2434,7 @@
             <p>Comment se porte Madame Dimanche vostre femme ?</p>
           </sp>
           <sp xml:id="II05-8" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <pb n="53"/>
             <p>Fort à vostre service, Monsieur. Je voudrois donc vous prier….</p>
           </sp>
@@ -2443,7 +2443,7 @@
             <p>Je suis son serviteur.</p>
           </sp>
           <sp xml:id="II05-10" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Monsieur, je disois donc que si vous aviez la commodité…</p>
           </sp>
           <sp xml:id="II05-11" who="juan">
@@ -2451,7 +2451,7 @@
             <p>Et vostre fille Mademoiselle Marion ?</p>
           </sp>
           <sp xml:id="II05-12" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Elle est en bonne santé aussi, Monsieur ; mais….</p>
           </sp>
           <sp xml:id="II05-13" who="juan">
@@ -2459,7 +2459,7 @@
             <p>C’est une aimable enfant.</p>
           </sp>
           <sp xml:id="II05-14" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Elle est bien vostre petite servante, Monsieur ; je…</p>
           </sp>
           <sp xml:id="II05-15" who="juan">
@@ -2467,7 +2467,7 @@
             <p>Et qui est vrayement bien sage.</p>
           </sp>
           <sp xml:id="II05-16" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Oh, Monsieur, vous vous moc-<pb n="54"/> quez d’elle. J’ose prendre la liberté de
                 vous dire, Monsieur, qu’une certaine Lettre de Change que je dois acquiter dans peu
                 m’oblige….</p>
@@ -2477,7 +2477,7 @@
             <p>Et vostre petit garçon fait-il toûjours bien du brüit avec son tambour ?</p>
           </sp>
           <sp xml:id="II05-18" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Oh, Monsieur, il est assez semillant<note n="98" place="bottom"><hi rend="i">Semillant</hi> : « Qui est remuant, éveillé, qui ne se peut tenir en place. Il
                   ne se dit guère que des enfants qui sont toujours en action, qui font quelque
                   petite malice. Ce n’est pas un mauvais signe quand les enfants sont sémillants,
@@ -2490,7 +2490,7 @@
             <p>Il vous ressemble comme deux goutes d’eau.</p>
           </sp>
           <sp xml:id="II05-20" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Voyez-vous, Monsieur, dans le negoce si nous ne payons à jour nommé, on proteste
                 d’abord contre nous ; c’est ce qui fait, Monsieur, que nous importunons quelquefois
                 nos debiteurs ; et comme vous m’avez fait l’honneur de prendre….</p>
@@ -2505,7 +2505,7 @@
             <p>Il s’interesse pour toute la famille.</p>
           </sp>
           <sp xml:id="II05-23" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Monsieur, tout se porte fort bien.</p>
           </sp>
           <sp xml:id="II05-24" who="juan">
@@ -2514,18 +2514,19 @@
                 pour l’amour de moy, quand vous retournerez chez vous.</p>
           </sp>
           <sp xml:id="II05-25" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Monsieur, si auparavant vous trouvez bon que nous….</p>
           </sp>
           <sp xml:id="II05-26" who="juan">
-            <speaker>d. juan <note n="99" place="bottom">Les scènes 4 et 5 ont lieu
-                  dans la maison que D. Juan occupe dans le village. Il s’agit donc ici de la porte
-                  des appartements de D. Juan.</note>, </speaker><stage>et puis s’en va.</stage><stage>repousse insensiblement M. Dimanche jusques à ce qu’il
-                  soit contre la porte</stage>
+            <speaker>d. juan,</speaker>
+            <stage>repousse insensiblement M. Dimanche jusques à ce qu’il
+                soit contre la porte<note n="99" place="bottom">Les scènes 4 et 5 ont lieu
+                dans la maison que D. Juan occupe dans le village. Il s’agit donc ici de la porte
+                des appartements de D. Juan.</note>, et puis s’en va.</stage>
             <p>Adieu M<hi rend="sup">r</hi> Dimanche, que je vous embrasse.</p>
           </sp>
           <sp xml:id="II05-27" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Monsieur…</p>
           </sp>
           <sp xml:id="II05-28" who="juan">
@@ -2533,7 +2534,7 @@
             <p>Je ne vous laisseray point là.</p>
           </sp>
           <sp xml:id="II05-29" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Mais Monsieur…</p>
           </sp>
           <sp xml:id="II05-30" who="juan">
@@ -2541,7 +2542,7 @@
             <p>Je sçay trop ce que je vous dois.</p>
           </sp>
           <sp xml:id="II05-31" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Et oüy Môsieur, d’accord, mais le besoin…</p>
           </sp>
           <sp xml:id="II05-32" who="juan">
@@ -2550,7 +2551,7 @@
             <p>Allons, allons, permettez-moy de vous conduire.</p>
           </sp>
           <sp xml:id="II05-33" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Monsieur, la necessité de payer…</p>
           </sp>
           <sp xml:id="II05-34" who="juan">
@@ -2558,7 +2559,7 @@
             <p>Je ne vous laisseray point là, vous dis-je.</p>
           </sp>
           <sp xml:id="II05-35" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Mais si…</p>
           </sp>
           <sp xml:id="II05-36" who="juan">
@@ -2566,7 +2567,7 @@
             <p>C’est perdre le temps.</p>
           </sp>
           <sp xml:id="II05-37" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Je…</p>
           </sp>
           <sp xml:id="II05-38" who="juan">
@@ -2574,7 +2575,7 @@
             <p>Vous vous moquez.</p>
           </sp>
           <sp xml:id="II05-39" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Point du tout.</p>
           </sp>
           <sp xml:id="II05-40" who="juan">
@@ -2582,7 +2583,7 @@
             <p>Hola, hé ? des Flambeaux, et reconduisez M<hi rend="sup">r</hi> Dimanche.</p>
           </sp>
           <sp xml:id="II05-41" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Quel diable d’homme est ce cy ? Orça, me payerez-vous de la même monnoye, vous,
                   M<hi rend="sup">r</hi> Gusman ?</p>
           </sp>
@@ -2591,7 +2592,7 @@
             <p>Plaist-il, Monsieur ?</p>
           </sp>
           <sp xml:id="II05-43" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Je vous demande s’il vous souvient bien<pb n="57"/> que vous me devez en vostre
                 particulier pour quarante écus d’Etoffe que je vous ay livré ?</p>
           </sp>
@@ -2600,7 +2601,7 @@
             <p>Comment se porte Madame Dimanche ?</p>
           </sp>
           <sp xml:id="II05-45" who="dimanche">
-            <speaker>M</speaker><stage>r</stage>
+            <speaker>Mr</speaker>
             <p>Oh je n’entens pas raillerie, et…</p>
           </sp>
           <sp xml:id="II05-46" who="gusman">

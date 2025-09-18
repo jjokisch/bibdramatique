@@ -1044,7 +1044,7 @@
             <roleDesc>Confidente de Demarate</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est à Bizance.</stage>
+        <set>La Scene est à Bizance.</set>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE I.</head>
@@ -1395,7 +1395,6 @@
         <div type="scene" xml:id="I04">
           <head>SCENE IV.</head>
           <stage>ARISTIDE, SOPHANE, PAUSANIASEURIANAX.</stage>
-          <stage/>
           <sp xml:id="I04-1" who="aristide">
             <speaker>ARISTIDE.</speaker>
             <l n="232" xml:id="l232">De vos amis, Seigneur, fuyez vous la presence,</l>

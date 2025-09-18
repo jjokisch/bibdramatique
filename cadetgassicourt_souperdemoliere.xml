@@ -755,7 +755,7 @@
             <role xml:id="villageois" rend="male exterior">VILLAGEOIS D’AUTEUIL.</role>
           </castItem>
         </castList>
-        <stage>La Scène se passe à Auteuil.<note n="388" place="bottom"> Cf. Introduction générale (IV) pour davantage de précisions quant aux lieu et personnages.</note></stage>
+        <set>La Scène se passe à Auteuil.<note n="388" place="bottom"> Cf. Introduction générale (IV) pour davantage de précisions quant aux lieu et personnages.</note></set>
         <pb n="2" xml:id="p2"/>
       </div>
       <div xml:id="I" type="act">
@@ -2265,8 +2265,7 @@
             <p>Pourquoi donc ?</p>
             <stage>(Aux villageois.)</stage>
             <p>Approchez, approchez : oh ne craignez pas de les réveiller ; ils dorment bien.</p>
-            <stage>(Pendant que les villageois entrent avec précaution,</stage>
-            <stage>l’orchestre joue le prélude du sommeil d’Atys.<note n="484" place="bottom"><hi rend="i">Atys, tragédie en musique, ornée d’entrées de Ballet, de Machines, et de changements de Théâtre</hi> : titre original de la tragédie en cinq actes avec prologue, de Quinault, mise en musique par Lully, créée au château de Saint-Germain-en-Laye le 10 janvier 1676, dans la « Salle des Ballets ». Surnommé « l’opéra du Roy », il fut redonné plusieurs fois à la cour jusqu’en 1682. Le prélude du sommeil d’Atys se situe à l’acte III, scène 4 : « Dormons, dormons tous. » </note>)</stage>
+            <stage>(Pendant que les villageois entrent avec précaution, l’orchestre joue le prélude du sommeil d’Atys.<note n="484" place="bottom"><hi rend="i">Atys, tragédie en musique, ornée d’entrées de Ballet, de Machines, et de changements de Théâtre</hi> : titre original de la tragédie en cinq actes avec prologue, de Quinault, mise en musique par Lully, créée au château de Saint-Germain-en-Laye le 10 janvier 1676, dans la « Salle des Ballets ». Surnommé « l’opéra du Roy », il fut redonné plusieurs fois à la cour jusqu’en 1682. Le prélude du sommeil d’Atys se situe à l’acte III, scène 4 : « Dormons, dormons tous. » </note>)</stage>
           </sp>
         </div>
         <div type="scene" xml:id="I13">
@@ -2464,8 +2463,7 @@
         <div type="scene" xml:id="I14">
           <head>SCENE XIV et DERNIÈRE.</head>
           <stage>TOUS LES ACTEURS.</stage>
-          <stage>(Pendant le chœur tous les convives se lèvent avec étonnement<note n="488" place="bottom"> Ici : « admiration », comme le précise la deuxième entrée du <hi rend="i">Dictionnaire de l’Académie française</hi> (1762). Mais il y a peut-être un jeu de mot avec l’étonnement au sens premier de « surprise », dans la mesure où les convives, exceptés Molière, Madelon, Antoine et les Villageois, craignent que leur promesse de la veille n’ait été prise au sérieux…</note>,</stage>
-          <stage>et se rangent dans un angle du théâtre.)</stage>
+          <stage>(Pendant le chœur tous les convives se lèvent avec étonnement<note n="488" place="bottom"> Ici : « admiration », comme le précise la deuxième entrée du <hi rend="i">Dictionnaire de l’Académie française</hi> (1762). Mais il y a peut-être un jeu de mot avec l’étonnement au sens premier de « surprise », dans la mesure où les convives, exceptés Molière, Madelon, Antoine et les Villageois, craignent que leur promesse de la veille n’ait été prise au sérieux…</note>, et se rangent dans un angle du théâtre.)</stage>
           <sp xml:id="I14-1" who="villageois">
             <speaker>CHŒUR. </speaker>
             <l n="294" xml:id="l294" rend="center">AIR : <hi rend="i">Habitans de ce village.</hi></l>

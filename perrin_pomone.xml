@@ -1265,8 +1265,7 @@
           <div>
             <head>Prologue<lb/>a la louange du roy.</head>
             <stage>[DECORATION.  Paris à l’endroit du Louvre]</stage>
-            <stage>[Ouverture du Prologue par la Symphonie. La toile se leve, et l’on voit Vertune et la Nymphe de la Seine. </stage>
-            <stage>La Nymphe de la Seine, et Vertumne.<note place="bottom">C’est l’unique indication des personnages présents avant une scène dans la partition. </note> </stage>
+            <stage>[Ouverture du Prologue par la Symphonie. La toile se leve, et l’on voit Vertune et la Nymphe de la Seine. La Nymphe de la Seine, et Vertumne.<note place="bottom">C’est l’unique indication des personnages présents avant une scène dans la partition. </note> </stage>
             <sp who="lanymphedelaseine">
               <speaker>La Nymphe de la Seine. </speaker>
               <l n="1" xml:id="l1">Toy qui vis autrefois le Fleuve des Romains</l>
@@ -1439,8 +1438,7 @@
               <l n="76" xml:id="l76"> Sont chaisnes de roses,</l>
               <l n="77" xml:id="l77">Les chaisnes d’amour</l>
               <l n="78" xml:id="l78"> Sont chaisnes</l>
-              <stage>Cadence.</stage>
-              <stage>de roses.</stage>
+              <stage>Cadence. de roses.</stage>
             </sp>
             <sp who="pomone">
               <speaker>Pomone.</speaker>
@@ -1665,10 +1663,10 @@
               <l n="150" xml:id="l150">A vous Bouviers, illustre bande,</l>
               <l n="151" xml:id="l151">Touchez, Touchez n’importe Menestriers,</l>
               <l n="152" xml:id="l152">Passepied, Menüet, Gavote ou Sarabande. <note place="bottom">Les virgules laissent le temps éventuellement de mimer quelques pas de danse. </note></l>
-              <stage>Entrée des Bouviers.</stage>
+              <label>Entrée des Bouviers.</label>
               <stage>[La troupe s’écarte pour faire place aux Danseurs, puis se rassemble, la danse finie.]</stage>
               <stage> Gravement.</stage>
-              <stage>Reprise.</stage>
+              <label>Reprise.</label>
             </sp>
             <sp who="dieudesjardins">
               <speaker>Dieu des Jardiniers</speaker>

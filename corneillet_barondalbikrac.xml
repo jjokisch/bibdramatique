@@ -602,7 +602,7 @@
             <roleDesc>Laquais de la Tante.</roleDesc>
           </castItem>
         </castList>
-        <stage>La scene est à Paris.</stage>
+        <set>La scene est à Paris.</set>
       </div>
       <div type="act" xml:id="I">
         <pb n="A, 1"/>
@@ -2667,7 +2667,7 @@
           <head>SCENE IX.</head>
           <stage>LA TANTE, ANGELIQUE, ORONTE, LA MONTAGNE, LYSETTE.</stage>
           <sp who="la-montagne" xml:id="II09-1">
-            <speaker>LA MONTAGNE </speaker><stage>s’adressant à Angelique,  </stage>
+            <speaker>LA MONTAGNE </speaker><stage>s’adressant à Angelique, <lb />et feignant de la prendre pour la Tante.</stage>
             <l n="692" xml:id="l692">Qui des deux est la Tante ? à l’âge, la voila.<note resp="editor">Dans <hi rend="i">Le malade imaginaire</hi> de Molière (1673), Thomas Diafoirus fera involontairement l’erreur inverse, prenant Angélique pour Bélise (II, 5).</note></l>
             <l n="693" xml:id="l693">Pardonnez, je sçay bien que ce vilain mot d’âge</l>
             <l n="694" xml:id="l694">Aux Belles comme vous tient toûjours lieu d’outrage,</l>
@@ -2750,7 +2750,7 @@
             <l n="720" part="I" xml:id="l720">Mais enfin.</l>
           </sp>
           <sp who="angelique" xml:id="II09-16">
-            <speaker>ANGELIQUE </speaker><stage>bas à Lysette</stage>
+            <speaker>ANGELIQUE </speaker><stage>bas à Lysette.</stage>
             <l part="F">Est-il fou de s’estre ainsi mépris ?</l>
           </sp>
           <sp who="lysette" xml:id="II09-17">

@@ -3436,7 +3436,7 @@
             <speaker>AMINTE.</speaker>
             <l n="1474" xml:id="l1474">Seigneur dans ce papier vous verrés son desir.</l>
           </sp>
-          <stage rend="center">LETTRE D’HELENE A PHALANTE.</stage>
+          <head rend="center">LETTRE D’HELENE A PHALANTE.</head>
           <sp xml:id="V02-8" who="phalante">
             <speaker>PHALANTE </speaker><stage>lit.</stage>
             <l n="1475" xml:id="l1475">Si tout ce que j’ay faict n’a pû vous esmouvoir,</l>

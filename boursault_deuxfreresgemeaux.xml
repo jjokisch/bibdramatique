@@ -789,7 +789,7 @@
               <role rend="male exterior" xml:id="archer">DES ARCHERS muëts.</role>
             </castItem>
           </castList>
-          <stage>La Scene est en Prison<note n="51" place="bottom">Il y a ici une incohérence car les quatre premiers actes se déroulent au carrefour de plusieurs rues parisiennes, devant la maison d’Hipolite.</note>.</stage>
+          <set>La Scene est en Prison<note n="51" place="bottom">Il y a ici une incohérence car les quatre premiers actes se déroulent au carrefour de plusieurs rues parisiennes, devant la maison d’Hipolite.</note>.</set>
         </div>
       </div>
       <div type="act" xml:id="I">
@@ -1426,7 +1426,7 @@
           <head>SCENE VII.</head>
           <stage>Le second NICANDRE, HIPOLITE, JACINTE, ROBIN.</stage>
           <sp who="hipolite" xml:id="I07-1">
-            <speaker>HIPOLITE </speaker><stage>en </stage>
+            <speaker>HIPOLITE </speaker><stage>en raillant.</stage>
             <l n="172" part="I" xml:id="l172">A la fin vostre frere est trouvé.</l>
           </sp>
           <sp who="second-nicandre" xml:id="I07-2">

@@ -589,7 +589,7 @@
             <role xml:id="janissaires" rend="male">Deux Janissaires. </role>
           </castItem>
         </castList>
-        <stage>La Scene est au Serrail<note n="63" place="bottom"><hi rend="i">Serrail</hi> : « C'est un Palais d’un Prince, d’un Grand Seigneur en Orient. On le dit par excellence du Palais où habite le Grand Seigneur à Constantinople, où il tient sa Cour, où logent ses Concubines. » (Furetière) </note>.</stage>
+        <set>La Scene est au Serrail<note n="63" place="bottom"><hi rend="i">Serrail</hi> : « C'est un Palais d’un Prince, d’un Grand Seigneur en Orient. On le dit par excellence du Palais où habite le Grand Seigneur à Constantinople, où il tient sa Cour, où logent ses Concubines. » (Furetière) </note>.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="A ; 1"/>

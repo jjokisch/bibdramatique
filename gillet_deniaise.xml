@@ -1030,7 +1030,7 @@
             <role xml:id="archers">Troupe d’Archers,</role>
           </castItem>
         </castList>
-        <stage>La Scene est à Paris devant la maison d’Oronthe<note n="158" place="bottom"> Toute l’action se déroule en extérieur. Les personnages proviennent de l’intérieur de la maison d’Oronthe ou y retournent. Il ne faut donc pas imaginer une pièce à l’intérieur de la maison cachée par une tapisserie.</note>.</stage>
+        <set>La Scene est à Paris devant la maison d’Oronthe<note n="158" place="bottom"> Toute l’action se déroule en extérieur. Les personnages proviennent de l’intérieur de la maison d’Oronthe ou y retournent. Il ne faut donc pas imaginer une pièce à l’intérieur de la maison cachée par une tapisserie.</note>.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="A ; 1"/>
@@ -2018,7 +2018,7 @@
             <l part="F">Elle n’est pas le sang, comme on a dit.</l>
           </sp>
           <sp xml:id="I04-39" who="jodelet">
-            <speaker>JODELET </speaker><stage>en le regardant de </stage>
+            <speaker>JODELET </speaker><stage>en le regardant de <ref target="#colere">colere</ref>.</stage>
             <l n="386" xml:id="l386" part="I">Parlera-t’il tousjours ? mais,</l>
           </sp>
           <sp xml:id="I04-40" who="pancrace">
@@ -4406,7 +4406,7 @@
             <l n="1403" xml:id="l1403">Allons donc advertir mon maistre qu’il descende.</l>
           </sp>
           <sp xml:id="IV06-3" who="ariste">
-            <speaker>ARISTE </speaker><stage>que Climante est caché.</stage><stage>à ses Violons, sans faire semblant de sçavoir</stage><pb n="108"/>
+            <speaker>ARISTE </speaker><stage>à ses Violons, sans faire semblant de sçavoir que Climante est caché.</stage><pb n="108"/>
             <l n="1404" xml:id="l1404" part="I">Voicy le bel endroit, allons donnez !</l>
           </sp>
           <sp xml:id="IV06-4" who="climante">

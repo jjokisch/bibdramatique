@@ -2814,9 +2814,7 @@
             <l n="1011" xml:id="l1011">Je la voy qui fait signe, Amour sois moy propice,</l>
             <l n="1012" xml:id="l1012">Et ne me permets pas de luy faire injustice,<note place="bottom">En 1660 : Et ne me permets pas de luy faire justice. </note></l>
             <l n="1013" xml:id="l1013" part="I">Estes vous là Madame ?</l>
-            <stage rend="lmarg2">Olympe doit icy parestre en femme : mais comme elle n’aura pas encor eû </stage>
-            <stage rend="lmarg2">peut-estre le temps de s’habiller pourveu qu’elle soit coiffée il suffit, on ne</stage>
-            <stage rend="lmarg2">luy verra que la teste, &amp; encor voilée.<pb n="51" xml:id="p51"/></stage>
+            <stage rend="lmarg2">Olympe doit icy parestre en femme : mais comme elle n’aura pas encor eû peut-estre le temps de s’habiller pourveu qu’elle soit coiffée il suffit, on ne luy verra que la teste, &amp; encor voilée.<pb n="51" xml:id="p51"/></stage>
           </sp>
           <sp who="olympe">
             <speaker>OLYMPE.</speaker>
@@ -2902,8 +2900,7 @@
       <div type="act"><head>ACTE IV.</head><pb n="54" xml:id="p54"/>
         <div type="scene"><head>SCENE PREMIERE.</head>
             <stage> [LE MASQUE. D. CARLOS]</stage>
-            <stage>D. Carlos enfermé sans lumiere dans un bel appartement, avec</stage>
-            <stage>un homme masqué des quatre qui l’avoient arresté.</stage>
+            <stage>D. Carlos enfermé sans lumiere dans un bel appartement, avec un homme masqué des quatre qui l’avoient arresté.</stage>
            <sp who="lemasque">
             <speaker>LE MASQUE.</speaker>
             <l n="1037" xml:id="l1037">Ne vous emportez plus D. Carlos je vous prie,</l>
@@ -2933,8 +2930,7 @@
             <l n="1056" xml:id="l1056">Je sens de bons verrous, &amp; des grilles par tout,</l>
             <l n="1057" xml:id="l1057">Ma patience icy trouve une ample matiere,</l>
             <l n="1058" xml:id="l1058">Où suis je ? enfin je voy venir de la lumiere.</l>
-            <stage rend="right noindent">Deux Dames viennent masquées avec deux flambeaux qu’elles mettent </stage>
-            <stage rend="right">sur la table &amp; luy font une profonde reverence :</stage>
+            <stage rend="right noindent">Deux Dames viennent masquées avec deux flambeaux qu’elles mettent sur la table &amp; luy font une profonde reverence :</stage>
             <l n="1059" xml:id="l1059">Mais je croy que mes yeux sont encore enchantez,</l>
             <l n="1060" xml:id="l1060">Dieux ! sont-ce illusions, ou sont-ce veritez ?</l>
             <l n="1061" xml:id="l1061">Puis qu’elles ont placé ces flambeaux sur la table,</l>
@@ -2988,7 +2984,7 @@
             <l n="1090" xml:id="l1090">Il n’en est pas besoin, s’il vous plaist qu’on desserve.</l>
             <l n="1091" xml:id="l1091">Je n’ay besoin icy que d’un peu de repos,</l>
             <stage>Pendant qu’on leve le couvert, on fait signe à des Musiciens de chanter, il se fait un beau concert auquel une de ces dames masquées, qui a la voix belle, respond de fort bonne grace, &amp; pendant qu’un Page masqué met un superbe des-habiller sur une riche toillette, on chante cet air.</stage>
-            <stage>CHANSON.</stage>
+            <label>CHANSON.</label>
             <l rend="i" n="1092" xml:id="l1092">Defaites-vous d’une amitié</l>
             <l n="1093" xml:id="l1093"><hi rend="i">Qui parest <ref target="#bizarre">bizarre</ref>, &amp; fantasque</hi>,
 </l>
@@ -3082,8 +3078,7 @@
             <l n="1141" xml:id="l1141" part="I">Sortons.</l>
           </sp>
           <sp who="carlos">
-            <speaker>D. CARLOS. </speaker><stage>seul.</stage>
-            <stage rend="lmarg1">Il s’assied &amp; estalle sur une table les lettres qu’il a recëu de sa dame invisible.</stage>
+            <speaker>D. CARLOS. </speaker><stage>seul. Il s’assied &amp; estalle sur une table les lettres qu’il a recëu de sa dame invisible.</stage>
             <l rend="lmarg2" part="F">Puisque le sort me dérobe ta veuë,</l>
             <l n="1142" xml:id="l1142">Relisons ton billet, adorable inconnuë !</l>
             <l n="1143" xml:id="l1143">Au deffaut de ton corps, admirons ton esprit,</l>
@@ -3095,7 +3090,7 @@
             <stage>Il resve.</stage>
             <l n="1149" xml:id="l1149">Je sens comme l’esprit la muse embarrassée :</l>
             <l n="1150" xml:id="l1150">Mais je ne veux pas perdre une belle pensée.</l>
-            <stage rend="lmarg3">MADRIGAL<pb n="60" xml:id="p60"/></stage>
+            <label rend="lmarg3">MADRIGAL<pb n="60" xml:id="p60"/></label>
             <stage rend="lmarg3">Il escrit.</stage>
             <l rend="lmarg2" n="1151" xml:id="l1151">Quand ce Palais seroit la demeure des Dieux,</l>
             <l rend="lmarg2" n="1152" xml:id="l1152">Si c’est pour me rendre sensible,</l>
@@ -3147,9 +3142,7 @@
             <l n="1184" xml:id="l1184">Que son masque me cache une beauté divine :</l>
             <l n="1185" xml:id="l1185">Et tout ce que je voy, marque sa qualité,</l>
             <l n="1186" xml:id="l1186">Il la faut saluer avec humilité.</l>
-            <stage rend="lmarg1">Olympe passe gravement devancée par ces filles masquées avec leurs flambeaux, elle va dans l’estrade, où il y a deux fauteuils, &amp; s’assied dans l’un.</stage>
-            <stage rend="lmarg1">D. Carlos se met au dessous de l’estrade,</stage>
-            <stage rend="lmarg1"> &amp; veut prendre un tabouret.</stage>
+            <stage rend="lmarg1">Olympe passe gravement devancée par ces filles masquées avec leurs flambeaux, elle va dans l’estrade, où il y a deux fauteuils, &amp; s’assied dans l’un. D. Carlos se met au dessous de l’estrade, &amp; veut prendre un tabouret.</stage>
           </sp>
           <sp who="olympe">
             <speaker>OLYMPE.</speaker>
@@ -4061,8 +4054,7 @@
             <l n="1687" xml:id="l1687">Voicy vostre cousine &amp; son pere avec elle.</l></sp>
                     </div>
             <div type="scene"><head>SCENE X.</head>
-            <stage>LA VICE-REINE. OLYMPE.LUCILLE. MARCELLE.</stage>
-            <stage>D. LEONARD. D. ALVARE.<pb n="88" xml:id="p88"/></stage>
+            <stage>LA VICE-REINE. OLYMPE.LUCILLE. MARCELLE. D. LEONARD. D. ALVARE.<pb n="88" xml:id="p88"/></stage>
           
           <sp who="lavicereine">
             <speaker>LA VICE-REINE.</speaker>

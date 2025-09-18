@@ -484,7 +484,7 @@
             <roleDesc>suivante.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est à Rome.</stage>
+        <set>La Scene est à Rome.</set>
       </div>
       <div>
         <head>Argument du premier Acte</head>
@@ -4128,7 +4128,7 @@
           <head>Scene VII</head>
           <stage>Constantin, Fauste, Helene mere. Helene fille. Artaban</stage>
           <sp who="helene-fille" xml:id="V07-1">
-            <speaker>helene </speaker><stage>fille.</stage>
+            <speaker>helene fille.</speaker>
             <l n="1559" xml:id="l1559">Vous voyez, Monseigneur, dans l’effet de mon songe,</l>
             <l n="1560" xml:id="l1560">Que c’est la verité qu’on appelloit mensonge ;</l>
             <l n="1561" xml:id="l1561">Mon frere toutefois n’est mort que par moitié,</l>
@@ -4143,7 +4143,7 @@
             <l n="1570" xml:id="l1570">Pour me voir avec luy mettre au nombre des morts.</l>
           </sp>
           <sp who="helene-mere" xml:id="V07-2">
-            <speaker>helene </speaker><stage>mere de l’Empereur.</stage>
+            <speaker>helene mere de l’Empereur.</speaker>
             <l n="1571" xml:id="l1571">Donc pour avoir suivy les humeurs d’une femme</l>
             <l n="1572" xml:id="l1572">Tout couvert de Laurier, on vous couvre de blâme ?</l>
             <l n="1573" xml:id="l1573">Rappellez maintenant un Prince si parfait,</l>
@@ -4347,7 +4347,7 @@
             <stage>Helene entre.</stage>
           </sp>
           <sp who="helene-mere" xml:id="V09-4">
-            <speaker>helene </speaker><stage>mere.</stage>
+            <speaker>helene mere.</speaker>
             <l n="1693" xml:id="l1693">C’est contre mon desir que je demande un don,</l>
             <l n="1694" xml:id="l1694">Mais la <ref target="#foi1">Foy</ref> nous aprend qu’il faut faire pardon<note n="359" place="bottom"><hi rend="i">Faire pardon</hi> : pardonner</note> ;</l>
             <l n="1695" xml:id="l1695">Fauste pour elle mesme est vrayment punissable,</l>
@@ -4363,7 +4363,7 @@
             <l n="1702" xml:id="l1702">Si vous pleurez sa mort plaignant son ennemy.</l>
           </sp>
           <sp who="helene-mere" xml:id="V09-6">
-            <speaker>helene </speaker><stage>mere.</stage>
+            <speaker>helene mere.</speaker>
             <l n="1703" xml:id="l1703">Le sang m’enseigne l’un, et le Ciel m’aprend l’autre.</l>
           </sp>
           <sp who="constantin" xml:id="V09-7">
@@ -4371,7 +4371,7 @@
             <l n="1704" xml:id="l1704">Mon sentiment pourtant n’est pas conforme au vôtre.</l>
           </sp>
           <sp who="helene-mere" xml:id="V09-8">
-            <speaker>helene </speaker><stage>mere.</stage>
+            <speaker>helene mere.</speaker>
             <l n="1705" xml:id="l1705">Mais la mettant à mort vous estes pour mourir,</l>
             <l n="1706" xml:id="l1706">Et perdant tout son sang Constantin va perir.</l>
           </sp>
@@ -4427,7 +4427,7 @@
         <p>Par le Roy en son Conseil,</p>
         <p rend="right">De Gyves.</p>
         <p>Ledit sieur de Grenaille a cedé et transporté tous les droicts à luy accordez par sa Majesté dans ce present Privilege, à Jean Paslé Imprimeur et Libraire en l’Université de Paris, pour en joüir par ledit Paslé durant le temps porté par iceluy, et ce suivant la convention faite entr’eux.</p>
-        <stage rend="center">Achevé d’imprimer pour la premiere fois, le 22.Novembre 1639.</stage>
+        <p rend="center">Achevé d’imprimer pour la premiere fois, le 22.Novembre 1639.</p>
       </div>
     </body>
     <back>

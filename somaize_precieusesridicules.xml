@@ -1570,8 +1570,7 @@
         </div>
         <div type="scene" xml:id="I02">
           <head>SCENE II.</head>
-          <stage>GORGIBUS, DU CROISY,</stage>
-          <stage> LA GRANGE.</stage>
+          <stage>GORGIBUS, DU CROISY, LA GRANGE.</stage>
           <sp who="gorgibus" xml:id="I02-1">
             <speaker>GORGIBUS.</speaker>
             <l n="53" xml:id="l53">He bien ? Vous avez veu ma niepce<note n="29" place="bottom"><space/>Variante orthographique de <hi rend="i">niece.</hi></note> avec ma fille</l>
@@ -2179,8 +2178,7 @@
         </div>
         <div type="scene" xml:id="I09">
           <head>SCENE IX.</head>
-          <stage>MAGDELON, CATHOS</stage>
-          <stage>MASCARILLE, ALMANZOR.</stage>
+          <stage>MAGDELON, CATHOS MASCARILLE, ALMANZOR.</stage>
           <sp who="mascarille" xml:id="I09-1">
             <speaker>MASCARILLE, <note n="93" place="bottom"> Dans son <hi rend="i">Récit de la Farce des Précieuses</hi>, Mlle Desjardins suggère ici que Mascarille se livrait à l’origine à un jeu de scène appuyé : « sa perruque était si grande qu’elle balayait la place à chaque fois qu’il faisait la révérence, et son chapeau si petit qu’il était aisé de juger que le marquis le portait bien plus souvent dans la main que sur la tête » (Marie-Catherine Desjardins, <hi rend="i">Récit en prose et en vers de la farce des Précieuses</hi>, Paris, Barbin, 1660).</note>)</speaker><stage>(apres avoir salué.</stage>
             <l part="F">Mes Dames<note n="94" place="bottom"> « L’apostrophe est lancée à deux destinataires en même temps, en parfaite rupture des usages. "Madame" est en principe réservé aux femmes de la haute noblesse, d’où sa faveur dans les romans héroïques. » (<hi rend="i">Molière. Œuvres complètes</hi>, éd. G. Forestier et Cl. Bourqui, Bibl. de la Pléiade, t. I, Notes sur <hi rend="i">Les Précieuses ridicules</hi>, n.1 p. 1220). </note> mon audace</l>
@@ -2961,8 +2959,7 @@
         </div>
         <div type="scene" xml:id="I10">
           <head>SCENE X.</head>
-          <stage>MAROTTE, MASCARILLE, </stage>
-          <stage>CATHOS, MAGDELON.</stage>
+          <stage>MAROTTE, MASCARILLE, CATHOS, MAGDELON.</stage>
           <sp who="marotte" xml:id="I10-1">
             <speaker>MAROTTE.</speaker>
             <l n="785" part="I" xml:id="l785">On demande à vous voir.</l>
@@ -3418,9 +3415,7 @@
         </div>
         <div type="scene" xml:id="I12">
           <head>SCENE XII.</head>
-          <stage>JODELET, MASCARILLE,</stage>
-          <stage>CATHOS, MAGDELON,</stage>
-          <stage>MAROTTE, LUCILE.</stage>
+          <stage>JODELET, MASCARILLE, CATHOS, MAGDELON, MAROTTE, LUCILE.</stage>
           <sp who="magdelon" xml:id="I12-1">
             <speaker>MAGDELON.</speaker>
             <l n="947" xml:id="l947">Mon Dieu, vous nous devez mes cheres pardonner,</l>
@@ -3494,8 +3489,7 @@
         </div>
         <div type="scene" xml:id="I13">
           <head>SCENE XIII.</head>
-          <stage>DU CROISY, LA GRANGE, </stage>
-          <stage>MASCARILLE.</stage>
+          <stage>DU CROISY, LA GRANGE, MASCARILLE.</stage>
           <sp who="la-grange" xml:id="I13-1">
             <speaker>LA GRANGE.</speaker>
             <l part="F">Ah, ah ! coquins, que faites-vous <ref target="#ceans">ceans</ref> ?</l>
@@ -3527,8 +3521,7 @@
         </div>
         <div type="scene" xml:id="I14">
           <head>SCENE XIV.</head>
-          <stage>MASCARILLE, JODELET,</stage>
-          <stage>CATHOS, MAGDELON.</stage>
+          <stage>MASCARILLE, JODELET, CATHOS, MAGDELON.</stage>
           <sp who="magdelon" xml:id="I14-1">
             <speaker>MAGDELON.</speaker>
             <l n="983" part="I" xml:id="l983">Que vien-je donc de voir ?</l>
@@ -3567,9 +3560,7 @@
         </div>
         <div type="scene" xml:id="I15">
           <head>SCENE XV.</head>
-          <stage>DU CROISY, LA GRANGE, </stage>
-          <stage>MASCARILLE, JODELET,</stage>
-          <stage>MAGDELON, CATHOS.</stage>
+          <stage>DU CROISY, LA GRANGE, MASCARILLE, JODELET, MAGDELON, CATHOS.</stage>
           <sp who="la-grange" xml:id="I15-1">
             <speaker>LA GRANGE.</speaker>
             <l n="995" xml:id="l995">Ma foy, c’est trop marauts, vous divertir de nous,</l>
@@ -3687,8 +3678,7 @@
         </div>
         <div type="scene" xml:id="I16">
           <head>SCENE XVI.</head>
-          <stage>GORGIBUS, JODELET,</stage>
-          <stage>MASCARILLE, MAGDELON.</stage>
+          <stage>GORGIBUS, JODELET, MASCARILLE, MAGDELON.</stage>
           <sp who="gorgibus" xml:id="I16-1">
             <speaker>GORGIBUS.</speaker>
             <l n="1041" xml:id="l1041">Coquines, qu’ay-je oüy ? vous nous venez de mettre</l>
@@ -3737,8 +3727,7 @@
         </div>
         <div type="scene" xml:id="I17">
           <head>SCENE XVII.</head>
-          <stage>GORGIBUS, MAGDELON, </stage>
-          <stage>CATHOS, VIOLONS.</stage>
+          <stage>GORGIBUS, MAGDELON, CATHOS, VIOLONS.</stage>
           <sp who="violons" xml:id="I17-1">
             <speaker>VIOLONS.</speaker>
             <l n="1071" xml:id="l1071">Nous atendons icy Monsieur, à leur defaut<note n="216" place="bottom"> Au defaut de : au lieu de, à la place de. Comprendre : à défaut de recevoir leur salaire des mains de Mascarille et de Jodelet. </note></l>

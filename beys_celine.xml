@@ -2268,8 +2268,7 @@
               <l part="F">Va <ref target="#cruel">cruel</ref> tu n’as que trop parlé.</l>
             </sp>
             <sp who="lisanor">
-              <speaker>LISANOR, </speaker><stage>sort.</stage>
-              <stage>Tout bas.</stage>
+              <speaker>LISANOR, </speaker><stage>sort. Tout bas.</stage>
               <l n="972" xml:id="l972">Il m’eust peu <ref target="#descouvrir">descouvrir</ref> s’il ne s’en fut allé.</l>
               <stage>A sa sœur.</stage>
               <l n="973" xml:id="l973">Ce <ref target="#barbare2">barbare</ref> jamais ne m’a voulu complaire.</l>
@@ -2556,11 +2555,9 @@
           </div>
           <div type="scene">
             <head>SCENE QUATRIESME.</head>
-            <stage>CELINE, LISIDAS, THERSANDRE,</stage>
-            <stage>LISANOR.</stage>
+            <stage>CELINE, LISIDAS, THERSANDRE, LISANOR.</stage>
             <sp who="celine">
-              <speaker>CELINE, </speaker><stage>voyant venir Lisidas</stage>
-              <stage> Qui met la main à l’espée pou secourir son frere.</stage>
+              <speaker>CELINE, </speaker><stage>voyant venir Lisidas. Qui met la main à l’espée pou secourir son frere.</stage>
               <l part="F">Helas, sçachez l’<ref target="#autheur">autheur</ref> de la querelle.</l>
               <l n="1123" xml:id="l1123">Faites un peu cesser ce combat hazardeux.</l>
               <stage>Elle se met entre Lisanor et les deux princes.</stage>
@@ -2745,9 +2742,7 @@
           </div>
           <div type="scene">
             <head>SCENE SIXIESME.</head>
-            <stage>LE ROY, LISIDAS, CHRISANTE,</stage>
-            <stage>CELINE, LISANOR, THERSANDRE,</stage>
-            <stage>AGANTE, CALISTE.</stage>
+            <stage>LE ROY, LISIDAS, CHRISANTE, CELINE, LISANOR, THERSANDRE, AGANTE, CALISTE.</stage>
             <sp who="leroy">
               <speaker>LE ROY.</speaker><pb n="71" xml:id="p71"/>
               <l n="1195" xml:id="l1195">Vrayment je ne pouvois venir plus à propos,</l>
@@ -2977,9 +2972,7 @@
           </div>
           <div type="scene">
             <head>SCENE SEPTIESME.</head>
-            <stage>LE ROY, LE PREVOST, CLARIN, LISANOR,</stage>
-            <stage>AGANTE,</stage>
-            <stage>CALISTE, CELINE, THERSANDRE, LISIDAS.</stage>
+            <stage>LE ROY, LE PREVOST, CLARIN, LISANOR, AGANTE, CALISTE, CELINE, THERSANDRE, LISIDAS.</stage>
             <sp who="leroy">
               <speaker>LE ROY.</speaker><pb n="79" xml:id="p79"/>
               <l n="1331" xml:id="l1331" part="I">Quel <ref target="#crime">crime</ref> a-t’il commis ?</l>

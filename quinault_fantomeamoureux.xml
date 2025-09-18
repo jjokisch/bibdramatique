@@ -646,7 +646,7 @@
             <role xml:id="gardes">GARDES.</role>
           </castItem>
         </castList>
-        <stage>La Scene est à Ferrare.</stage>
+        <set>La Scene est à Ferrare.</set>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE PREMIER.</head>

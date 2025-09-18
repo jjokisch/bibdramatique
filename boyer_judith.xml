@@ -797,7 +797,7 @@
             <role xml:id="assyrien" rend="male inferior">CHOEUR D’ASSYRIENS.</role>
           </castItem>
         </castList>
-        <stage>La Scene est à Betulie et au Camp des Assyriens.</stage>
+        <set>La Scene est à Betulie et au Camp des Assyriens.</set>
       </div>
       <div xml:id="I" type="act">
         <head>ACTE PREMIER</head>

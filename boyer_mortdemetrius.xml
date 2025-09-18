@@ -926,7 +926,7 @@
             <role rend="inferior" xml:id="suite">SUITE.</role>
           </castItem>
         </castList>
-        <stage>La Scène est à Dodone<note n="29" place="bottom">. Dodone est la capitale du royaume d’Epire.</note> dans le Palais Royal.</stage>
+        <set>La Scène est à Dodone<note n="29" place="bottom">. Dodone est la capitale du royaume d’Epire.</note> dans le Palais Royal.</set>
       </div>
       <div type="act" xml:id="I">
         <head>ACTE I.</head>
@@ -1334,8 +1334,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <head>SCENE V.</head>
-          <stage>TELAMON, DEMETRIUS,</stage>
-          <stage>MILON, ISMÉNIE.</stage>
+          <stage>TELAMON, DEMETRIUS, MILON, ISMÉNIE.</stage>
           <sp who="telamon" xml:id="I05-1">
             <speaker>TELAMON.</speaker>
             <l n="233" xml:id="l233">La Princesse, Seigneur, par vostre ordre est venuë.</l>
@@ -1452,8 +1451,7 @@
         </div>
         <div type="scene" xml:id="I06">
           <head>SCENE VI.</head>
-          <stage>SELEUCUS, DEMETRIUS,</stage>
-          <stage>ISMENIE.</stage>
+          <stage>SELEUCUS, DEMETRIUS, ISMENIE.</stage>
           <sp who="seleucus" xml:id="I06-1">
             <speaker>SELEUCUS.</speaker>
             <l n="319" xml:id="l319">Alexandre s’aproche,  ; chacun va sortir,</l>
@@ -1680,8 +1678,7 @@
         </div>
         <div type="scene" xml:id="II02">
           <head>SCENE II.</head>
-          <stage>DEMETRIUS, ALEXANDRE,</stage>
-          <stage>MILON.</stage>
+          <stage>DEMETRIUS, ALEXANDRE, MILON.</stage>
           <sp who="demetrius" xml:id="II02-1">
             <speaker>DEMETRIUS </speaker><stage>à Alexandre.</stage>
             <l n="467" xml:id="l467">Souffrez que l’amitié vous dérobe un moment</l>
@@ -1897,8 +1894,7 @@
         <div type="scene" xml:id="II04">
           <pb n="27"/>
           <head>SCENE IV.</head>
-          <stage>ALEXANDRE, ISMENIE,</stage>
-          <stage>LAODICE.</stage>
+          <stage>ALEXANDRE, ISMENIE, LAODICE.</stage>
           <sp who="alexandre" xml:id="II04-1">
             <speaker>ALEXANDRE.</speaker>
             <l n="599" xml:id="l599">Rendez-vous cet honneur au rang que je n’ay plus ?</l>
@@ -2828,8 +2824,7 @@
         <div type="scene" xml:id="IV02">
           <pb n="51"/>
           <head>SCENE II.</head>
-          <stage>ISMENIE, ALEXANDRE,</stage>
-          <stage>TELAMON, SÉLEUCUS.</stage>
+          <stage>ISMENIE, ALEXANDRE, TELAMON, SÉLEUCUS.</stage>
           <sp who="telamon" xml:id="IV02-1">
             <speaker>TELAMON.</speaker>
             <l n="1148" xml:id="l1148">Madame, vous sçavez quel est l’ordre du Roy ;</l>
@@ -3061,8 +3056,7 @@
         </div>
         <div type="scene" xml:id="IV05">
           <head>SCENE V.</head>
-          <stage>ARSINOÉ, SELEUCUS,</stage>
-          <stage>ALEXANDRE.</stage>
+          <stage>ARSINOÉ, SELEUCUS, ALEXANDRE.</stage>
           <sp who="arsinoe" xml:id="IV05-1">
             <speaker>ARSINOÉ </speaker><stage>à Seleucus.</stage>
             <l n="1270" xml:id="l1270">Avec ton Prisonnier je seray peu de temps ;</l>
@@ -3192,9 +3186,7 @@
         </div>
         <div type="scene" xml:id="IV06">
           <head>SCENE VI.</head>
-          <stage>DEMETRIUS, ALEXANDRE,</stage>
-          <stage>ARSINOÉ, MILON,</stage>
-          <stage>SELEUCUS.</stage>
+          <stage>DEMETRIUS, ALEXANDRE, ARSINOÉ, MILON, SELEUCUS.</stage>
           <sp who="milon" xml:id="IV06-1">
             <speaker>MILON.</speaker>
             <l n="1339" part="I" xml:id="l1339">C’est le Prince  ; la Reyne.</l>
@@ -3262,8 +3254,7 @@
         </div>
         <div type="scene" xml:id="IV07">
           <head>SCENE VII.</head>
-          <stage>DEMETRIUS, ARSINOÉ,</stage>
-          <stage>MILON.</stage>
+          <stage>DEMETRIUS, ARSINOÉ, MILON.</stage>
           <sp who="arsinoe" xml:id="IV07-1">
             <speaker>ARSINOÉ, </speaker><stage>bas.</stage>
             <l n="1375" part="I" xml:id="l1375">Ah ! Prince genereux !</l>
@@ -3350,8 +3341,7 @@
         </div>
         <div type="scene" xml:id="IV08">
           <head>SCENE VIII.</head>
-          <stage>DEMETRIUS, ARSINOÉ,</stage>
-          <stage>TELAMON, MILON.</stage>
+          <stage>DEMETRIUS, ARSINOÉ, TELAMON, MILON.</stage>
           <sp who="telamon" xml:id="IV08-1">
             <speaker>TELAMON.</speaker>
             <l n="1417" part="I" xml:id="l1417">Seigneur.</l>
@@ -3481,9 +3471,7 @@
         <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
           <head>SCENE PREMIERE.</head>
-          <stage>SELEUCUS, MILON,</stage>
-          <stage>TELAMON, entrant de deux </stage>
-          <stage>divers costez du Theatre<note n="105" place="bottom">. Cette didascalie est la première à donner un élément aussi précis de mise en scène. Télamon, s’il apparait en ce début d’acte, ne s’exprime qu’à la scène 2. L’entrée précipitée et simultanée de deux personnages met en valeur la soudaine accélération de l’action.</note>.</stage>
+          <stage>SELEUCUS, MILON, TELAMON, entrant de deux divers costez du Theatre<note n="105" place="bottom">. Cette didascalie est la première à donner un élément aussi précis de mise en scène. Télamon, s’il apparait en ce début d’acte, ne s’exprime qu’à la scène 2. L’entrée précipitée et simultanée de deux personnages met en valeur la soudaine accélération de l’action.</note>.</stage>
           <sp who="seleucus" xml:id="V01-1">
             <speaker>SELEUCUS.</speaker>
             <l n="1465" part="I" xml:id="l1465">Ah ! Seigneur !</l>
@@ -3857,8 +3845,7 @@
         </div>
         <div type="scene" xml:id="V05">
           <head>SCENE V.</head>
-          <stage>TELAMON, MILON,</stage>
-          <stage>ISMENIE.</stage>
+          <stage>TELAMON, MILON, ISMENIE.</stage>
           <sp who="telamon" xml:id="V05-1">
             <speaker>TELAMON </speaker><stage>tirant Milon à l’écart.</stage>
             <l part="F">Ah ! Seigneur, Alexandre</l>
@@ -3969,8 +3956,7 @@
         </div>
         <div type="scene" xml:id="V06">
           <head>SCENE VI.</head>
-          <stage>ISMENIE, SELEUCUS,</stage>
-          <stage>MILON.</stage>
+          <stage>ISMENIE, SELEUCUS, MILON.</stage>
           <sp who="seleucus" xml:id="V06-1">
             <speaker>SELEUCUS.</speaker>
             <l n="1733" part="I" xml:id="l1733">Ah ! Seigneur.</l>
@@ -4092,8 +4078,7 @@
         </div>
         <div type="scene" xml:id="V09">
           <head>SCENE IX.</head>
-          <stage>ALEXANDRE, ISMENIE,</stage>
-          <stage>LAODICE.</stage>
+          <stage>ALEXANDRE, ISMENIE, LAODICE.</stage>
           <sp who="alexandre" xml:id="V09-1">
             <speaker>ALEXANDRE.</speaker>
             <l part="F">Je vous revois aprés tant de malheurs.</l>
@@ -4122,8 +4107,7 @@
         </div>
         <div type="scene" xml:id="V10">
           <head>SCENE X.</head>
-          <stage>DIOCLES, ISMENIE, ALEXANDRE,</stage>
-          <stage>LAODICE.</stage>
+          <stage>DIOCLES, ISMENIE, ALEXANDRE, LAODICE.</stage>
           <sp who="diocles" xml:id="V10-1">
             <speaker>DIOCLES.</speaker>
             <l n="1813" part="I" xml:id="l1813">Ah ! Madame.</l>
@@ -4153,9 +4137,7 @@
         <div type="scene" xml:id="V11">
           <pb n="83"/>
           <head>SCENE XI.</head>
-          <stage>MILON, ALEXANDRE,</stage>
-          <stage>ISMENIE, LAODICE,</stage>
-          <stage>DIOCLES.</stage>
+          <stage>MILON, ALEXANDRE, ISMENIE, LAODICE, DIOCLES.</stage>
           <sp who="milon" xml:id="V11-1">
             <speaker>MILON.</speaker>
             <l n="1819" xml:id="l1819">Ingrate, il faut mourir. Mais Dieux ! quelle foiblesse !</l>
@@ -4175,8 +4157,7 @@
         <div type="scene" xml:id="V12">
           <pb n="84"/>
           <head>SCENE DERNIERE.</head>
-          <stage>ALEXANDRE, ISMENIE,</stage>
-          <stage>LAODICE, DIOCLES.</stage>
+          <stage>ALEXANDRE, ISMENIE, LAODICE, DIOCLES.</stage>
           <sp who="alexandre" xml:id="V12-1">
             <speaker>ALEXANDRE.</speaker>
             <l n="1831" xml:id="l1831">Va, monstre furieux, ta derniere injustice</l>

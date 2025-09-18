@@ -593,7 +593,7 @@
             <roleDesc>Valet d’Ariste.</roleDesc>
           </castItem>
           </castList>
-          <stage>La Scene est à Paris.</stage>
+          <set>La Scene est à Paris.</set>
       </div>
         <div type="acte">
           <head>
@@ -602,8 +602,7 @@
           <div type="scene">
             <head>SCENE PREMIERE.</head>
             <stage>Florence, Philipin.</stage>
-            <stage><hi rend="i">Philipin frape à la porte d’Anselme.</hi>
-             </stage>
+            <stage><hi rend="i">Philipin frape à la porte d’Anselme.</hi></stage>
             <sp who="florence">
               <speaker>Florence </speaker><stage>ouvrant la porte.</stage>
               <l n="1" xml:id="l1">
@@ -2245,8 +2244,7 @@
           </div>
           <div type="scene">
             <head>SCENE II.</head>
-            <stage>Florence, Ariste, Philipin.</stage>
-            <stage>Ariste.</stage>
+            <stage>Florence, Ariste, Philipin. Ariste.</stage>
             <l n="449" xml:id="l449">Hé bien, viens-tu, Florence, augmenter mon <ref target="#ennuy">ennuy</ref>,</l>
             <l n="450" xml:id="l450" part="I">Me dire que Geraste est avec Anselme ?</l>
             <sp who="florence">
@@ -6913,8 +6911,9 @@
           <div type="scene">
             <head>SCENE VIII.</head>
             <stage>Florame, Lisidan, Anselme.</stage>
-            <sp who="alisidan">
-              <speaker/><stage>. à Anselme</stage><stage>à Lisidan</stage>
+            <sp who="florame">
+              <speaker>Florame</speaker>
+              <stage>à Anselme. à Lisidan.</stage>
               <l n="1685" xml:id="l1685">Voila nostre Beaufrere. On vous trouve à propos :</l>
               <l n="1686" xml:id="l1686">Pourroit-on en secret vous dire quatre mots ?</l>
             </sp>

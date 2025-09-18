@@ -394,7 +394,7 @@
               <roleDesc>Confident de Pison.</roleDesc>
             </castItem>
           </castList>
-          <stage>La Scene est à Rome, aux Jardins de Lucule.</stage>
+          <set>La Scene est à Rome, aux Jardins de Lucule.</set>
         </div>
       </div>
       <div type="act" xml:id="I">

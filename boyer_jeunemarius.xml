@@ -757,7 +757,7 @@
             <role rend="female inferior" xml:id="octave">OCTAVE.</role>
           </castItem>
         </castList>
-        <stage>La Scene est à Preneste<note n="32" place="bottom">. Préneste : Ville d’Italie, actuel Palestrina, au sud-est de Rome, à proximité de la Via Latina, lieu historique d’une bataille entre Marius le Jeune et Sylla et de la mort de Marius. Marius, tenant la ville, y avait transféré le trésor de l’État et en avait renforcé les fortifications naturelles.</note>, dans le Palais de Marius. </stage>
+        <set>La Scene est à Preneste<note n="32" place="bottom">. Préneste : Ville d’Italie, actuel Palestrina, au sud-est de Rome, à proximité de la Via Latina, lieu historique d’une bataille entre Marius le Jeune et Sylla et de la mort de Marius. Marius, tenant la ville, y avait transféré le trésor de l’État et en avait renforcé les fortifications naturelles.</note>, dans le Palais de Marius. </set>
       </div>
       <div type="act" xml:id="I">
         <pb n="1"/>

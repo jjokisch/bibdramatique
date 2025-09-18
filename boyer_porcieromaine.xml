@@ -1979,8 +1979,7 @@
         </div>
         <div type="scene" xml:id="IV04">
           <head>SCENE QUATRIESME</head>
-          <stage>BRUTE, PORCIE, JULIE</stage>
-          <stage>Troupe de soldats</stage>
+          <stage>BRUTE, PORCIE, JULIE, Troupe de soldats</stage>
           <sp xml:id="IV04-1" who="brute">
             <speaker>BRUTE</speaker>
             <l n="1081" xml:id="l1081">Madame, où courrez-vous, fuyez un misérable.<pb n="67" xml:id="p67"/></l>

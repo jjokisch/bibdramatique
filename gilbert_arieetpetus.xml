@@ -1177,7 +1177,7 @@
           <castItem><role xml:id="lucille">[LUCILLE,</role>
           <roleDesc>suivante d’Arie]</roleDesc></castItem>
           </castList>
-          <stage>La scene est à Rome dans le Palais de NERON.</stage>
+          <set>La scene est à Rome dans le Palais de NERON.</set>
         </div>
         <div type="act">
           <head>ACTE I<pb n="A ;1"/></head>
@@ -2601,8 +2601,11 @@
             <sp who="tigillin">
               <speaker>TIGILLIN.</speaker>
               <l rend="lmarg3" part="F">Un moment, la voicy.</l>
-              <stage>SCENE III.<space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><pb n="42" xml:id="p42"/><seg rend="annoncepersoscar"><hi rend="b">ARIE, LUCILLE, NERON, PISON.</hi></seg></stage>
-            </sp>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>SCENE III.</head><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><space rend="tab">    </space><pb n="42" xml:id="p42"/>
+            <stage>ARIE, LUCILLE, NERON, PISON.</stage>
             <sp who="lucille">
               <speaker>LUCILLE.</speaker>
               <l n="804" xml:id="l804" part="I">L’Empereur vous a veuë.</l>
@@ -2846,8 +2849,7 @@
               <l n="964" xml:id="l964">Et si vous l’agreez permettez qu’on l’appelle.</l>
             </sp>
             <sp who="neron">
-              <speaker>NERON </speaker><stage>à Pison.</stage>
-              <stage>Pison sortant, Neron dit le reste du vers à part.</stage>
+              <speaker>NERON </speaker><stage>à Pison. Pison sortant, Neron dit le reste du vers à part.</stage>
               <l n="965" xml:id="l965">Qu’on l’appelle, Seneque est cét amy <ref target="#fidelle2">fidelle</ref> :</l>
               <l n="966" xml:id="l966">Vous verrez son avis suivre mon sentiment,</l>
               <l n="967" xml:id="l967">Vous en allez avoir le divertissement ;</l>

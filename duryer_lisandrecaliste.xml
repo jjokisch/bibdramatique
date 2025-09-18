@@ -568,7 +568,7 @@
         <head>EPISTRE <lb/>A MADAME, <lb/>MADAME LA DUCHESSE DE LONGUEVILLE<note n="49" place="bottom"><space/>Du Ryer dédie sa pièce à la fille de Charles de Bourbon, comte de Soissons, Louise de Bourbon qui fut l’épouse d’Henri II d’Orléans, duc de Longueville, en 1617 et qui mourra en 1637. Elle donna naissance à Marie d’Orléans, épouse du Duc de Nemours. Scudéry lui dédie également sa pièce <hi rend="i">Orante</hi>.</note></head>
         <p>MADAME, depuis que j’ay fait le dessein de vous faire voir de mes ouvrages, je l’ay cent fois quitté, &amp; cent fois je l’ai repris ; vos vertus, qui ne vous font avoir que de haultes &amp; serieuses pensees, m’en ostoient la hardiesse, &amp; votre bonté, qui vous fait jetter les yeux sur les plus petites choses, me la rendoit au mesme instant. Mais en fin ayant consideré que les regles et les preceptes de la plus severe vertu ne deffendent pas les honnestes<note n="50" place="bottom"><space/>Variante. « les divertissements »</note> divertissemens, je me suis facilement persuadé que Caliste pouvoit paraistre devant vous. C’est elle, MADAME, qui vous vient entretenir de ses <ref target="#traverses">traverses</ref> et qui vous demande apres toutes ses peines une place dans vostre cabinet pour y reposer seurement. Si elle tente de cette façon la derniere et la plus difficile de ses aventures, au moins elle a cette asseurance que c’est la plus glorieuse, et que si les autres luy ont fait aquerir l’estime d’un peuple entier, celle cy luy fera sans doute avoir des applaudissemens de tout le monde. L’on jugera de son merite par l’accueil que vous luy ferez, et pour moy j’auray subjet de croire que je vaux quelque chose si vous faites estat du dessein que j’ay de vous <ref target="#divertir">divertir</ref>, et de paraistre<note n="51" place="bottom"><space/>Divertir et paraistre : deux des principes fondamentaux de la tragi-comédie de l’époque.</note>.</p>
         <p>MADAME,</p>
-        <stage rend="center">vostre tres-humble et tres-obeissant serviteur.</stage>
+        <p rend="center">vostre tres-humble et tres-obeissant serviteur.</p>
         <p rend="right">DU RYER</p>
       </div>
       <div type="dedication">
@@ -605,7 +605,7 @@
         <head>Extraict du Privilège du Roy.</head>
         <p>Par grace et Privilege du Roy, Il est permis à Pierre David marchand Libraire à Paris, d’imprimer ou faire imprimer un livre intitulé <hi rend="i">Lisandre et Caliste Tragicomédie</hi>, &amp; ce pendant six ans à compter du jour que ledit livre sera achevé d’imprimer, &amp; cependant deffences à tous Libraires, Imprimeurs tant de ce Royaume qu’autres estrangers, d’imprimer, vendre ny distribuer ledit livre ny partie d’iceluy, sinon de l’impression qu’auroit fait faire ledit David, ou autres ayans droit &amp; authorité de luy, à peine de mil livres d’amande &amp; de confiscation des exemplaires, &amp; de tous despens, dommages &amp; interests, comme plus à plain est porté dans ledit Privilege, à la charge que ledit exposant mettra deux exemplaires en nostre Bibliotheque. Donné à Paris le XX. jour de Juillet de l’an de grace mil six cens trente deux, et de nostre regne le vingt troisiesme. Par le Roy en son Conseil,</p>
         <p rend="right">OLIER.</p>
-        <stage>Achevé d’imprimer le cinquiesme jour d’Aoust mil six cens trente deux.</stage>
+        <p>Achevé d’imprimer le cinquiesme jour d’Aoust mil six cens trente deux.</p>
       </div>
       <div type="dedication">
         <pb n="IX"/>
@@ -3029,7 +3029,7 @@
             <l n="1238" xml:id="l1238">Est le mal plus cruel qui traverse ma vie.</l>
           </sp>
           <sp who="le-juge-de-camp" xml:id="IV01-10">
-            <speaker>LE JUGE </speaker><stage>de camp parle à l’enfant.</stage>
+            <speaker>LE JUGE de camp </speaker><stage>parle à l’enfant.</stage>
             <l n="1239" part="I" xml:id="l1239">Tirez.</l>
           </sp>
           <sp who="caliste" xml:id="IV01-11">
@@ -3075,7 +3075,7 @@
             <l n="1257" xml:id="l1257">Ton sang est mon espoir, et le prix de ma peine.</l>
           </sp>
           <sp who="le-juge-de-camp" xml:id="IV01-18">
-            <speaker>LE JUGE </speaker><stage>de camp.</stage>
+            <speaker>LE JUGE de camp.</speaker>
             <l n="1258" xml:id="l1258">Le <ref target="#travail">travail</ref> les contraint de reprendre l’haleine.</l>
           </sp>
           <sp who="hyppolite" xml:id="IV01-19">
@@ -3089,7 +3089,7 @@
             <l n="1262" xml:id="l1262">Qui d’un pas orgueilleux mesurent cette <ref target="#place">place</ref><note n="195" place="bottom"><space/>« Mesurer la place » : « on dit en terme de chasse, qu’[…] une bête mesure la forest, pour dire qu’il la traverse d’un bout à l’autre ». Le terme de « place » désigne le lieu du combat.</note>.</l>
           </sp>
           <sp who="le-juge-de-camp" xml:id="IV01-21">
-            <speaker>LE JUGE </speaker><stage>de camp.</stage>
+            <speaker>LE JUGE de camp.</speaker>
             <l n="1263" xml:id="l1263">Cavaliers, quel dessein vous arme maintenant,</l>
             <l n="1264" xml:id="l1264">Et quel des deux partis allez vous soustenant ?</l>
           </sp>
@@ -3125,7 +3125,7 @@
             <l n="1286" xml:id="l1286">Voicy de quoy prouver ce que je ne puis taire<note n="198" place="bottom"><space/>Béronte sort alors son épée. </note>.</l>
           </sp>
           <sp who="le-juge-de-camp" xml:id="IV01-25">
-            <speaker>LE JUGE </speaker><stage>de camp parlant à Lucidan.</stage>
+            <speaker>LE JUGE de camp</speaker><stage> parlant à Lucidan.</stage>
             <l n="1287" xml:id="l1287">Quel indice avez vous que Lisandre ayt commis</l>
             <l n="1288" xml:id="l1288">Un si láche <ref target="#attentat">attentat</ref> envers vos deux amis ?</l>
           </sp>
@@ -3136,7 +3136,7 @@
           </sp>
           <pb n="91"/>
           <sp who="le-juge-de-camp" xml:id="IV01-27">
-            <speaker>LE JUGE </speaker><stage>de camp</stage>
+            <speaker>LE JUGE de camp</speaker>
             <l n="1291" xml:id="l1291">Ce discours nous fait voir l’injuste <ref target="#passion">passion</ref></l>
             <l n="1292" xml:id="l1292">Qui vous porte aujourd’huy dedans cette action.</l>
             <l n="1293" xml:id="l1293">On ne peut conserver le tiltre d’equitable</l>
@@ -3322,7 +3322,7 @@
           </sp>
           <pb n="98"/>
           <sp who="le-valet" xml:id="IV01-49">
-            <speaker>LE VALET </speaker><stage>de Lisandre.</stage>
+            <speaker>LE VALET de Lisandre.</speaker>
             <l n="1403" xml:id="l1403">Sa douleur me contraint de l’ayder au besoing.</l>
           </sp>
           <sp who="lidian" xml:id="IV01-50">
@@ -3726,8 +3726,7 @@
         <head>ACTE CINQ</head>
         <div type="scene" xml:id="V01">
           <head>SCENE PREMIERE</head>
-          <stage>LISANDRE, SON VALET, /HYPPOLITE, UN COURRIER</stage>
-          <stage>Leon doit accompagner Lisandre.</stage>
+          <stage>LISANDRE, SON VALET, /HYPPOLITE, UN COURRIER Leon doit accompagner Lisandre.</stage>
           <sp who="lisandre" xml:id="V01-1">
             <speaker>LISANDRE</speaker>
             <l n="1643" xml:id="l1643">Apres tant de soucis, et des maux si puissans</l>
@@ -4159,7 +4158,7 @@
           </sp>
           <pb n="132"/>
           <sp who="hyppolite" xml:id="V02-4">
-            <speaker>HYPPOLITE </speaker><stage>et de</stage><stage>accompagnée de</stage>
+            <speaker>HYPPOLITE </speaker><stage>et accompagnée de LISANDRE et de LEON.</stage>
             <l n="1900" xml:id="l1900">Cessez de prodiguer vos jours et vos courages</l>
             <l n="1901" xml:id="l1901">Au point que<note n="252" place="bottom"><space/>« Au point que » : au moment où. </note> le repos triomphe des orages.</l>
           </sp>

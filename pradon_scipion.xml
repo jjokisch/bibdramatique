@@ -613,7 +613,7 @@
             <role rend="male inferior" xml:id="garde">GARDES.</role>
           </castItem>
         </castList>
-        <stage>La Scene est dans le Camp de Scipion, prés de Zama<note place="bottom">Zama se situe au Sud-Ouest de Carthage.</note>.</stage>
+        <set>La Scene est dans le Camp de Scipion, prés de Zama<note place="bottom">Zama se situe au Sud-Ouest de Carthage.</note>.</set>
       </div>
       <div type="act" xml:id="I">
         <pb n="A,1" xml:id="p1"/>

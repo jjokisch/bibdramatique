@@ -562,7 +562,7 @@
             <roleDesc>Valet de Trigaudin.</roleDesc>
           </castItem>
         </castList>
-        <stage>La scène est à Paris.</stage>
+        <set>La scène est à Paris.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="1" xml:id="p1"/>
@@ -1862,8 +1862,7 @@
             <l part="F">Ne replique pas.</l>
           </sp>
           <sp xml:id="II08-4" who="l-industrie">
-            <speaker>L’INDUSTRIE. </speaker><stage>bas.</stage>
-            <stage>Il s’éloigne.</stage>
+            <speaker>L’INDUSTRIE. </speaker><stage>bas. Il s’éloigne.</stage>
             <l n="536" xml:id="l536">Je feins de m’éloigner, &amp; reviens sur mes pas.</l>
           </sp>
           <sp xml:id="II08-5" who="lucie">

@@ -690,7 +690,7 @@
             <role xml:id="gardes">GARDES,</role>
           </castItem>
         </castList>
-        <stage>La Scene est à Grenade.</stage>
+        <set>La Scene est à Grenade.</set>
       </div>
         <div type="act">
           <head>ACTE I.</head>

@@ -455,8 +455,7 @@
         </div>
         <div type="scene" xml:id="I03">
           <head>SCENE III.</head>
-          <stage>RIBERCOUR, PANCRACE,</stage>
-          <stage>ROGUESPINE.</stage>
+          <stage>RIBERCOUR, PANCRACE, ROGUESPINE.</stage>
           <sp xml:id="I03-1" who="pancrace">
             <speaker>pancrace.</speaker>
             <l n="234" xml:id="l234">Cher amy, que je suis joyeux</l>
@@ -846,9 +845,7 @@
         </div>
         <div type="scene" xml:id="I06">
           <head>SCENE VI.</head>
-          <stage>RIBERCOUR, PANCRACE, </stage>
-          <stage>THEOCRITE, ROGUESPINE,</stage>
-          <stage>RODOGINE.</stage>
+          <stage>RIBERCOUR, PANCRACE, THEOCRITE, ROGUESPINE, RODOGINE.</stage>
           <sp xml:id="I06-1" who="ribercour">
             <speaker>ribercour </speaker>
             <stage>(en sortant de chez Theocrite.)</stage>
@@ -1371,8 +1368,7 @@
         </div>
         <div type="scene" xml:id="I12">
           <head>SCENE XII.</head>
-          <stage>RIBERCOUR, ROGUESPINE,</stage>
-          <stage>PANCRACE.</stage>
+          <stage>RIBERCOUR, ROGUESPINE, PANCRACE.</stage>
           <sp xml:id="I12-1" who="ribercour">
             <speaker>ribercour.</speaker>
             <l n="883" xml:id="l883">Eh bien qu’as-tu veu ? qu’as-tu fait ?</l>
@@ -1798,8 +1794,7 @@
         </div>
         <div type="scene" xml:id="I14">
           <head>SCENE XIV.</head>
-          <stage>PATRICE, ANAXARITE</stage>
-          <stage>ARISTIME. Un Greffier.</stage>
+          <stage>PATRICE, ANAXARITE ARISTIME. Un Greffier.</stage>
           <sp xml:id="I14-1" who="patrice">
             <speaker>patrice.</speaker>
             <l n="1204" xml:id="l1204">Enfin nous voicy tantost Juges.</l>
@@ -1848,10 +1843,7 @@
         </div>
         <div type="scene" xml:id="I15">
           <head>SCENE XV.</head>
-          <stage>PATRICE, ANAXARITE,</stage>
-          <stage>ARISTIME, Un Greffier,</stage>
-          <stage>RIBERCOUR, PANCRACE.</stage>
-          <stage>ROGUESPINE.</stage>
+          <stage>PATRICE, ANAXARITE, ARISTIME, Un Greffier, RIBERCOUR, PANCRACE. ROGUESPINE.</stage>
           <sp xml:id="I15-1" who="ribercour">
             <speaker>ribercour.</speaker>
             <l n="1228" xml:id="l1228">Messieurs, j’en veux aux Pretieuses,</l>
@@ -1874,10 +1866,7 @@
         </div>
         <div type="scene" xml:id="I16">
           <head>SCENE XVI.</head>
-          <stage>PATRICE, ANAXARITE, ARISTIME</stage>
-          <stage>Un Greffier, RIBERCOUR,</stage>
-          <stage>PANCRACE, EPICARIE ;</stage>
-          <stage>ROGUESPINE, Une Suivante.</stage>
+          <stage>PATRICE, ANAXARITE, ARISTIME Un Greffier, RIBERCOUR, PANCRACE, EPICARIE ; ROGUESPINE, Une Suivante.</stage>
           <sp xml:id="I16-1" who="ribercour">
             <speaker>ribercour.</speaker>
             <l n="1241" xml:id="l1241">Approchez-vous belle jazeuse,</l>

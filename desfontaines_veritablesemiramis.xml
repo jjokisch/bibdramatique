@@ -848,7 +848,7 @@
             <role xml:id="gardes" rend="male inferior">LES GARDES, de Ninus et de Semiramis.</role>
           </castItem>
         </castList>
-        <stage>LA SCENE est dans une Salle du Palais Royal à Babilone.</stage>
+        <set>LA SCENE est dans une Salle du Palais Royal à Babilone.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="A; 1" xml:id="p1"/>
@@ -1876,7 +1876,7 @@
         <head>ACTE III.</head>
         <div type="scene" xml:id="III01">
           <head>SCENE PREMIERE.</head>
-          <stage>NINUS, SEMIRAMIS, MERZABANE, ORONCLIDE, CAMBISES, ZENOPHIRE,&amp; les Gardes.</stage>
+          <stage>NINUS, SEMIRAMIS, MERZABANE, ORONCLIDE, CAMBISES, ZENOPHIRE, &amp; les Gardes.</stage>
           <sp xml:id="III01-1" who="ninus">
             <speaker>NINUS </speaker><stage>au Trône.</stage>
             <l n="787" xml:id="l787">Enfin voicy l’heureuse &amp; celebre journée,</l>
@@ -2935,8 +2935,7 @@
         <head>ACTE V. </head>
         <div type="scene" xml:id="V01">
           <head>SCENE PREMIERE.</head>
-          <stage>PALMEDON, MELISTRATE.</stage>
-          <stage>(Sortant chacun d’un costé differend.)</stage>
+          <stage>PALMEDON, MELISTRATE. (Sortant chacun d’un costé differend.)</stage>
           <sp xml:id="V01-1" who="melistrate">
             <speaker>MELISTRATE.</speaker>
             <l n="1519" xml:id="l1519" part="I">Palmedon...</l>

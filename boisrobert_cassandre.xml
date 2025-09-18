@@ -770,7 +770,7 @@
               <roleDesc>Gouuerneur de la Princeſſe.</roleDesc>
             </castItem>
           </castList>
-          <stage>La Scene eſt à Barcelone.</stage>
+          <set>La Scene eſt à Barcelone.</set>
         </div>
       </div>
       <div type="act" xml:id="I">
@@ -1014,7 +1014,7 @@
         <div type="scene" xml:id="I04">
           <pb n="10"/>
           <head>SCENE IV.</head>
-          <stage>DON PEDRE, MONCADE, BERALDE, </stage>
+          <stage>DON PEDRE, MONCADE, BERALDE.</stage>
           <sp who="don-pedre" xml:id="I04-1">
             <speaker>DON PEDRE.</speaker>
             <l n="133" xml:id="l133">Beralde se souuient de ce qu’il m’a promis.</l>
@@ -2846,8 +2846,7 @@
             <l n="1037" xml:id="l1037">Adieu sortez, Messieurs, que chacun se retire,</l>
           </sp>
           <sp who="moncade" xml:id="IV05-3">
-            <speaker>MONCADE </speaker><stage>en faisant vne profonde reuerence.</stage>
-            <stage>à part</stage>
+            <speaker>MONCADE </speaker><stage>en faisant vne profonde reuerence. à part</stage>
             <l n="1038" xml:id="l1038">Ie ne pers pas l’espoir de l’<ref target="#heur">heur</ref> où<note n="92" place="bottom">Le pronom <hi rend="i">où</hi> a ici un emploi relatif qui l’emporte sur les formes composées « auquel », « lequel ». <hi rend="i">Cf</hi>. Fournier, <hi rend="i">op. cit.</hi>, p. 211.</note> je pretens :</l>
             <l n="1039" xml:id="l1039">Mais je voy pour ce coup que i’ay mal pris mon temps.</l>
           </sp>

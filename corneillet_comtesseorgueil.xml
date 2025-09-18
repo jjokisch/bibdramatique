@@ -692,7 +692,7 @@
             <roleDesc>Valet du Marquis.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est à Paris.</stage>
+        <set>La Scene est à Paris.</set>
       </div>
       <div type="act" xml:id="I">
         <pb n="A, 1"/>
@@ -3315,7 +3315,7 @@
         </div>
         <div type="scene" xml:id="III07">
           <head>SCENE VII.</head>
-          <stage>OLYMPE, LUCRECE, CARLIN,</stage>
+          <stage>OLYMPE, LUCRECE, CARLIN.</stage>
           <sp who="lucrece" xml:id="III07-1">
             <speaker>LUCRECE.</speaker>
             <l part="M">Approche.</l>

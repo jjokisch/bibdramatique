@@ -912,7 +912,7 @@
             <role rend="male exterior" xml:id="ambassadeur-perse">L’AMBASSADEUR DE PERSE.</role>
           </castItem>
         </castList>
-        <stage>La Scene est en Alep, ville de Syrie</stage>
+        <set>La Scene est en Alep, ville de Syrie</set>
       </div>
       <div type="act" xml:id="I">
         <pb n="1, A"/>

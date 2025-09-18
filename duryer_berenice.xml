@@ -811,7 +811,7 @@
             <role rend="male inferior" xml:id="leonide">LEONIDE.</role>
           </castItem>
         </castList>
-        <stage>La scene est en Crete.</stage>
+        <set>La scene est en Crete.</set>
       </div>
       <div type="act" xml:id="I">
         <pb n="A, 1" xml:id="p1"/>

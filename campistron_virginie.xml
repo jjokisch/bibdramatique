@@ -413,7 +413,7 @@
             <role xml:id="gardes" rend="male inferior">Gardes.</role>
           </castItem>
         </castList>
-        <stage>La Scene est à Rome dans le Palais d’Appius.</stage>
+        <set>La Scene est à Rome dans le Palais d’Appius.</set>
       </div>
       <div xml:id="acte1" type="act">
         <head>Acte I.</head>
@@ -1486,8 +1486,7 @@
         </div>
         <div type="scene" xml:id="acte302">
           <head>Scene II.</head>
-          <stage>Appius, Plautie, Claudius, Fulvie, </stage>
-          <stage>Fabian, Pison.</stage>
+          <stage>Appius, Plautie, Claudius, Fulvie, Fabian, Pison.</stage>
           <sp xml:id="acte302-1" who="plautie">
             <speaker>Plautie.</speaker>
             <l part="F">Ah ! Seigneur,</l>
@@ -1690,8 +1689,7 @@
         </div>
         <div type="scene" xml:id="acte305">
           <head>Scene V.</head>
-          <stage>Icile, Plautie, Virginie, Fulvie, </stage>
-          <stage>Camille, Severe.</stage>
+          <stage>Icile, Plautie, Virginie, Fulvie, Camille, Severe.</stage>
           <sp xml:id="acte305-1" who="icile">
             <speaker>Icile.</speaker>
             <l part="F">Consolez-vous et retenez vos larmes,</l>
@@ -2175,8 +2173,7 @@
         <div type="scene" xml:id="acte403">
           <pb n="E. p.49"/>
           <head>Scene III.</head>
-          <stage>Appius, Icile, Virginie, Camille, </stage>
-          <stage>Pison, Gardes.</stage>
+          <stage>Appius, Icile, Virginie, Camille, Pison, Gardes.</stage>
           <sp xml:id="acte403-1" who="appius">
             <speaker>Appius </speaker><stage>à Icile.</stage>
             <l part="F">Derobez vous au <ref target="#coups1">coup<hi rend="sup"/></ref> qui vous menace,</l>
@@ -2302,8 +2299,7 @@
         </div>
         <div type="scene" xml:id="acte405">
           <head>Scene V.</head>
-          <stage>Appius, Icile, Virginie, Camille, Fabian, </stage>
-          <stage>Pison, Gardes.</stage>
+          <stage>Appius, Icile, Virginie, Camille, Fabian, Pison, Gardes.</stage>
           <sp xml:id="acte405-1" who="appius">
             <speaker>Appius.</speaker>
             <l part="F">Quel succés<note n="284" place="bottom"> Succès : <hi rend="i">issue.</hi> </note> aura vostre entretien,</l>
@@ -2584,8 +2580,7 @@
         </div>
         <div type="scene" xml:id="acte503">
           <head>Scene III.</head>
-          <stage>Clodius, Plautie, Virginie, Fabian, </stage>
-          <stage>Pison, Fulvie, Camille, Gardes.</stage>
+          <stage>Clodius, Plautie, Virginie, Fabian, Pison, Fulvie, Camille, Gardes.</stage>
           <sp xml:id="acte503-1" who="plautie">
             <speaker>Plautie </speaker><stage>à Clodius.</stage>
             <l part="F">Tu viens icy perfide,</l>

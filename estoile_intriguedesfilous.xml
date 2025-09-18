@@ -736,7 +736,7 @@
             <roleDesc>Receleur</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scène est à Paris, dans l’Isle du Palais<note place="bottom">Il s’agit actuellement de l’île de la Cité.</note>, devant le Cheval de Bronze<note place="bottom">La statue équestre d’Henri IV, érigée en 1614.</note>.</stage>
+        <set>La Scène est à Paris, dans l’Isle du Palais<note place="bottom">Il s’agit actuellement de l’île de la Cité.</note>, devant le Cheval de Bronze<note place="bottom">La statue équestre d’Henri IV, érigée en 1614.</note>.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="A,1" xml:id="p1"/>
@@ -2748,8 +2748,7 @@
             <speaker>LUCIDOR.</speaker>
             <l n="997" xml:id="l997">Hé bien, je vous la laisse, &amp; vostre espée encor,</l>
             <l n="998" xml:id="l998">Il suffit que j’emporte un si rare tresor.</l>
-            <stage>Lucidor l’ayant terrassé luy arrache le portraict, &amp; s’en va.</stage>
-            <stage>Il rentre.</stage>
+            <stage>Lucidor l’ayant terrassé luy arrache le portraict, &amp; s’en va. Il rentre.</stage>
           </sp>
           <sp xml:id="III06-9" who="tersandre">
             <speaker>TERSANDRE.</speaker>

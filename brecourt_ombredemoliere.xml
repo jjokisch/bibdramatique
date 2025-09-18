@@ -433,7 +433,7 @@
             <role xml:id="ames"/>
           </castItem>
         </castList>
-        <stage>La Scène est dans les Champs Elysées.</stage>
+        <set>La Scène est dans les Champs Elysées.</set>
       </div>
       <div type="prologue" xml:id="A">
         <pb n="A ; 1"/>
@@ -544,80 +544,80 @@
           <head>SCENE PREMIERE.</head>
           <stage>Le Theatre s’ouvre par DEUX OMBRES, qui, en dançant, apportent chacune un morceau de tout ce qui peut former un Tribunal ; et apres l’avoir dressé, elles se disputent un Balay pour nettoyer ce lieu, où Pluton se doit venir rendre bientost.</stage>
           <sp who="ombre" xml:id="I01-1">
-            <speaker>1</speaker><stage>e</stage>
+            <speaker>1e</speaker>
             <p>Donne, donne-moy ce Balay.</p>
           </sp>
           <sp who="ombre" xml:id="I01-2">
-            <speaker>2</speaker><stage>e</stage>
+            <speaker>2e</speaker>
             <p>Je n’en feray rien, c’est à<pb n="14"/> moy à balayer icy : Pluton y va venir, et je veux que tout soit net, et propre comme il faut.</p>
           </sp>
           <sp who="ombre" xml:id="I01-3">
-            <speaker>1</speaker><stage>e</stage>
+            <speaker>1e</speaker>
             <p>Oüy, mais je te dispute cet honneur ; cela m’appartient mieux qu’à toy.</p>
           </sp>
           <sp who="ombre" xml:id="I01-4">
-            <speaker>2</speaker><stage>e</stage>
+            <speaker>2e</speaker>
             <p>Et par quelle raison ?</p>
           </sp>
           <sp who="ombre" xml:id="I01-5">
-            <speaker>1</speaker><stage>e</stage>
+            <speaker>1e</speaker>
             <p>Par la raison que quand j’estois dans l’autre Monde, je me suis si bien acquitté de mon Employ, que je mérite bien en celuy-cy l’honneur de l’exercer encore.</p>
           </sp>
           <sp who="ombre" xml:id="I01-6">
-            <speaker>2</speaker><stage>e</stage>
+            <speaker>2e</speaker>
             <p>Et quel mérite avois-tu plus<pb n="15"/> que moy en l’autre Monde ? N’estions-nous pas Laquais tous deux ?</p>
           </sp>
           <sp who="ombre" xml:id="I01-7">
-            <speaker>1</speaker><stage>e</stage>
+            <speaker>1e</speaker>
             <p>Oüy, mais il y a Laquais, et Laquais.</p>
           </sp>
           <sp who="ombre" xml:id="I01-8">
-            <speaker>2</speaker><stage>e</stage>
+            <speaker>2e</speaker>
             <p>Et qu’as-tu à me reprocher ? N’ay-je pas fidellement servy tous les Maistres à qui j’ay esté ?</p>
           </sp>
           <sp who="ombre" xml:id="I01-9">
-            <speaker>1</speaker><stage>e</stage>
+            <speaker>1e</speaker>
             <p>Ay-je manqué en rien, moy, à tout ce que les miens m’ont commandé ? Et quand je servois, par exemple, cet illustre et fameux Tailleur, m’a-t-on jamais veu luy friponner<note n="48" place="bottom"><hi rend="i">Friponner</hi> : « Voler, tromper, escroquer ». Le fripon est celui « qui dérobe secrètement, qui tâche à tromper ceux qui ont à faire à lui, qui fait des gains illicites au jeu, ou dans le négoce, et qui est sans honneur et sans bonne foi ». <hi rend="i">Dictionnaire universel</hi> d’Antoine Furetière.</note> la moindre guenille des choses qu’il déroboit ?</p>
           </sp>
           <pb n="16"/>
           <sp who="ombre" xml:id="I01-10">
-            <speaker>2</speaker><stage>e</stage>
+            <speaker>2e</speaker>
             <p>Et quand je servois, moy, mon petit Grison de Procureur, m’a-t-on jamais veu abuser des secrets qu’il me confioit, ny revéler aucune des friponneries qu’il faisoit à ses Parties<note n="49" place="bottom">« <hi rend="i">Partie</hi> : en termes de Palais, se dit de tous les plaideurs. Les demandeurs et les défendeurs, les appelants et les intimés, s’appellent parties principales ; et les parties intervenantes sont celles qui s’y joignent par quelque intérêt, ou qui y sont appelées en assistance de cause ». Idem.</note> ?</p>
           </sp>
           <sp who="ombre" xml:id="I01-11">
-            <speaker>1</speaker><stage>e</stage>
+            <speaker>1e</speaker>
             <p>M’a-t-on veu manquer jamais à la fidélité que j’ay dûë à une Maistresse coquette que je servois, ny avertir son mary que je portois tous les jours des Billets-doux à ses Galans ?</p>
           </sp>
           <sp who="ombre" xml:id="I01-12">
-            <speaker>2</speaker><stage>e</stage>
+            <speaker>2e</speaker>
             <p>Et, durant les quatre années que j’ay servy ce fameux Empirique<note n="50" place="bottom"><hi rend="i">Empirique</hi> : « Terme de médecine. Celui qui tient que la médecine ne consiste que dans l’expérience. Un Médecin empirique ». le mot peut être utilisé substantivement. « Faire l’empirique, c’est-à-dire, faire le charlatan ». <hi rend="i">Dictionnaire François</hi> par P. Richelet.</note>, m’a-t-on jamais oüy [B ; 17] dire le moindre mot des Poisons qu’il composoit, et de toutes les vies qu’il vendoit par ce moyen au plus offrant et dernier encherisseur ?</p>
           </sp>
           <sp who="ombre" xml:id="I01-13">
-            <speaker>1</speaker><stage>e</stage>
+            <speaker>1e</speaker>
             <p>Tout-beau ; Le secret de faire mourir les Gens a quelque rapport avec la Medecine, et nous ne serions pas bien venus à enfiler ce discours. Nous nous échaperions peut-estre à parler contre les Medecins en parlant des Morts. Tu sçais que ces Messieurs sont un peu vindicatifs, et que depuis quelque temps sur tout, nous en avons icy qui ne preschent que la<pb n="18"/> vengeance de ceux qui n’ont pas voulu mourir par leurs mains ; Et s’il arrive que nôtre grand Pluton leur accorde quelque empire en ces lieux, comme ils le prétendent, ils pourroient bien étendre leur colere jusques sur nous, pour n’avoir pas parlé d’eux avec tout le respect qu’ils attendent. C’est pourquoy nous ferons mieux de nous taire.</p>
           </sp>
           <sp who="ombre" xml:id="I01-14">
-            <speaker>2</speaker><stage>e</stage>
+            <speaker>2e</speaker>
             <p>A propos, c’est donc pour ces Messieurs que la Feste se fait, et que nous venons tout préparer icy ?</p>
           </sp>
           <sp who="ombre" xml:id="I01-15">
-            <speaker>1</speaker><stage>e</stage>
+            <speaker>1e</speaker>
             <p>Je ne sçay si c’est pour d’au-<pb n="19"/> tres, ou pour eux ; mais je sçay bien que Pluton s’y doit rendre bientost pour juger une grande Affaire. C’est pourquoy, si tu m’en crois, au lieu de quereller, et de disputer de nos avantages, nous prendrons chacun un Balay, et nous nettoyerons ensemble, pour avoir plutost fait. Aussi-bien je voy trop d’ordures icy pour un seul Balayeur.</p>
           </sp>
           <sp who="ombre" xml:id="I01-16">
-            <speaker>2</speaker><stage>e</stage>
+            <speaker>2e</speaker>
             <p>Tu as raison ; mais j’entens du bruit ; Seroit-ce déja Pluton ?</p>
           </sp>
           <sp who="ombre" xml:id="I01-17">
-            <speaker>1</speaker><stage>e</stage>
+            <speaker>1e</speaker>
             <p>Attens : Non, non ce n’est pas luy encore ; c’est Caron<pb n="20 "/>avec le Génie du Poëte Doucet<note n="51" place="bottom">Le <hi rend="i">Poëte Doucet</hi> est une référence au dramaturge Quinault qui, dit-on, « a passé pour la douceur mesme », ce que Brécourt rappelle à la scène II, p. 25. Cf. Introduction, IV- L’intertextualité dans <hi rend="i">L’Ombre de Moliere</hi>.</note>. Je croy qu’ils n’auront jamais finy leur querelle.</p>
           </sp>
           <sp who="ombre" xml:id="I01-18">
-            <speaker>2</speaker><stage>e</stage>
+            <speaker>2e</speaker>
             <p>A qui en a Caron aussy, de tourmenter incessamment ce pauvre Génie ?</p>
           </sp>
           <sp who="ombre" xml:id="I01-19">
-            <speaker>1</speaker><stage>e</stage>
+            <speaker>1e</speaker>
             <p>Il faut bien qu’il luy ait fait quelque chose.</p>
           </sp>
         </div>
@@ -630,7 +630,7 @@
             <p>Que font là ces Coquins ? Allons, tout est-il net ?</p>
           </sp>
           <sp who="ombre" xml:id="I02-2">
-            <speaker>1</speaker><stage>e</stage>
+            <speaker>1e</speaker>
             <p>Oüy, Messieurs, et vous pouvez quereller icy fort proprement.</p>
           </sp>
           <sp who="caron" xml:id="I02-3">
@@ -1201,7 +1201,7 @@
           <head>SCENE XI.[67]</head>
           <stage>MADAME JOURDAIN, PLUTON, MOLIERE, CARON, RADAM. MINOS.</stage>
           <sp who="mme-jourdain" xml:id="I11-1">
-            <speaker>M</speaker><stage>tout ésouflée.</stage><stage>e</stage>
+            <speaker>Me</speaker><stage>tout ésouflée.</stage>
             <p>Justice, justice, justice, justice, justice.</p>
           </sp>
           <sp who="pluton" xml:id="I11-2">
@@ -1218,7 +1218,7 @@
             <p>Pren donc bien garde aux autres, et qu’il n’en entre plus. Je n’ay jamais veu tant de Canailles en un jour. Çà, que demandez-vous ?</p>
           </sp>
           <sp who="mme-jourdain" xml:id="I11-5">
-            <speaker>M</speaker><stage>d’un air chagrin et brusque.</stage><stage>e</stage>
+            <speaker>Me</speaker><stage>d’un air chagrin et brusque.</stage>
             <p>Ce que je n’auray pas.</p>
           </sp>
           <sp who="pluton" xml:id="I11-6">
@@ -1226,7 +1226,7 @@
             <p>Que vous faut il ? hé ?</p>
           </sp>
           <sp who="mme-jourdain" xml:id="I11-7">
-            <speaker>M</speaker><stage>e</stage>
+            <speaker>Me</speaker>
             <p>Il me faut ce qui me manque.</p>
           </sp>
           <sp who="pluton" xml:id="I11-8">
@@ -1234,7 +1234,7 @@
             <p>Quelle nouvelle espece est-ce encore icy ? Dites-nous<pb n="69 "/>donc ce que vous avez ?</p>
           </sp>
           <sp who="mme-jourdain" xml:id="I11-9">
-            <speaker>M</speaker><stage>e</stage>
+            <speaker>Me</speaker>
             <p>J’ay la teste plus grosse que le poing, et si<note n="69" place="bottom"><hi rend="i">Et si</hi> a une valeur concessive : comprendre : et cependant. </note> je ne l’ay pas enflée.</p>
           </sp>
           <sp who="moliere" xml:id="I11-10">
@@ -1242,7 +1242,7 @@
             <p>Ah ! c’est Madame Jourdain, je la reconnoy : Et comment estes-vous icy, Madame Jourdain ?</p>
           </sp>
           <sp who="mme-jourdain" xml:id="I11-11">
-            <speaker>M</speaker><stage>e</stage>
+            <speaker>Me</speaker>
             <p>Sur mes pieds comme une Oye.</p>
           </sp>
           <sp who="pluton" xml:id="I11-12">
@@ -1255,7 +1255,7 @@
           </sp>
           <pb n="70"/>
           <sp who="mme-jourdain" xml:id="I11-14">
-            <speaker>M</speaker><stage>e</stage>
+            <speaker>Me</speaker>
             <p>Ça non ; j’aurois beau me plaindre, beau me plaindre j’aurois.</p>
           </sp>
           <sp who="pluton" xml:id="I11-15">
@@ -1267,7 +1267,7 @@
             <p>Madame Jourdain est un peu en courroux.</p>
           </sp>
           <sp who="mme-jourdain" xml:id="I11-17">
-            <speaker>M</speaker><stage>e</stage>
+            <speaker>Me</speaker>
             <p>Oüy, Jean Ridoux.</p>
           </sp>
           <sp who="pluton" xml:id="I11-18">
@@ -1275,7 +1275,7 @@
             <p>Courage. Hé bien, qu’avez-vous à me dire ?</p>
           </sp>
           <sp who="mme-jourdain" xml:id="I11-19">
-            <speaker>M</speaker><stage>e</stage>
+            <speaker>Me</speaker>
             <p>Oüy, qu’avez-vous à me frire ?</p>
           </sp>
           <sp who="pluton" xml:id="I11-20">
@@ -1352,11 +1352,11 @@
             <p>Messieurs, soyez les bien venus. Vous visitez un Prince qui vous honore fort ; je sçay toutes les obligations que je vous ay, et que dans ce vaste Empire des Morts vous pou-<pb n="76 "/>vez vous vanter avec raison d’y avoir aussy bonne part que moy : Aussy en revanche<note n="71" place="bottom">« <hi rend="i">Revenche</hi> : Reconnaissance et ressentiment qu’on a d’une chose ». <hi rend="i">Dictionnaire François</hi> par P. Richelet. Il faut comprendre ici : en échange, en retour ; Pluton exprime sa reconnaissance aux médecins qui l’ont servi fidèlement. </note> de tout vos bons et fidelles services, je ne pretens pas vous rien refuser. Demandez seulement.</p>
           </sp>
           <sp who="medecins" xml:id="I13-3">
-            <speaker>1</speaker><stage>e</stage>
+            <speaker>1e</speaker>
             <p>Grand Monarque des Morts, vous voyez icy la fleur de vos plus fidelles Pensionnaires.</p>
           </sp>
           <sp who="medecins" xml:id="I13-4">
-            <speaker>2</speaker><stage>bredoüillant.</stage><stage>e</stage>
+            <speaker>2e</speaker><stage>bredoüillant.</stage>
             <p>Jamais nous n’avons laissé échaper la moindre occasion de vous donner des marques de nostre obeïssance et fidelité.</p>
           </sp>
           <sp who="pluton" xml:id="I13-5">
@@ -1364,7 +1364,7 @@
             <p>J’en suis persuadé. L’O-<pb n="77"/> pium, l’Emétique<note n="72" place="bottom"><hi rend="i">Emetique</hi> : « Est un remède qui purge avec violence par haut et par bas, fait de la poudre et du beurre d’antimoine préparé, dont on a séparé les sels corrosifs par plusieurs lotions ». <hi rend="i">Dictionnaire Universel</hi> d’Antoine Furetière.</note>, et la Saignée, m’ont rendu témoignage que vous m’avez fidellement servy.</p>
           </sp>
           <sp who="medecins" xml:id="I13-6">
-            <speaker>3</speaker><stage>e</stage>
+            <speaker>3e</speaker>
             <p>Nous avons fait nostre devoir.</p>
           </sp>
           <sp who="pluton" xml:id="I13-7">
@@ -1372,7 +1372,7 @@
             <p>Beaucoup de Gens sont venus icy de vostre part, qui m’en ont assuré.</p>
           </sp>
           <sp who="medecins" xml:id="I13-8">
-            <speaker>4</speaker><stage>e</stage>
+            <speaker>4e</speaker>
             <p>C’est avec plaisir que l’on sert un si grand Monarque.</p>
           </sp>
           <sp who="pluton" xml:id="I13-9">
@@ -1380,7 +1380,7 @@
             <p>Je vous suis obligé, et j’ay bien de la joye de vous voir. Ce n’est pas que vous ne m’eussiez esté encore un peu<pb n="78"/> necessaires là-haut, et j’ay eu quelque chagrin quand les Parques m’ont dit que vous veniez icy : Mais je m’en suis neantmoins consolé lors que j’ay appris que vous aviez laissé de grands Enfants qui sçavoient assez bien leur mestier, et que mesme il estoit déjà venu icy quelques Morts de leurs Amis, qui en avoient fait une experience fort raisonnable. Mais que souhaitez-vous de moy ?</p>
           </sp>
           <sp who="medecins" xml:id="I13-10">
-            <speaker>3</speaker><stage>e</stage>
+            <speaker>3e</speaker>
             <p>Nous venons vous demander justice d’un Téméraire qui prétend traitter la Medecine d’imposture, et de Charlatanerie.</p>
           </sp>
           <pb n="79"/>
@@ -1389,7 +1389,7 @@
             <p>C’est donc quelqu’un qui la connoît ?</p>
           </sp>
           <sp who="medecins" xml:id="I13-12">
-            <speaker>4</speaker><stage>e</stage>
+            <speaker>4e</speaker>
             <p>C’est une rage sans fondement, une simple avidité de tout satyrizer, et une animosité envenimée par la seule envie d’écrire, et de former des Cabales contre nous.</p>
           </sp>
           <sp who="moliere" xml:id="I13-13">
@@ -1397,7 +1397,7 @@
             <p>Je vous confondray dans peu, superbes Imposteurs.</p>
           </sp>
           <sp who="medecins" xml:id="I13-14">
-            <speaker>3</speaker><stage>e</stage>
+            <speaker>3e</speaker>
             <p>Il s’est mesme déjà glissé jusques dans ces Lieux une médisance secrette qui nous regarde. Tous les Morts semblent se liguer contre nous ;<pb n="80"/> Il leur échape des Satyres piquantes, et des injures calomnieuses contre les Medecins ; et nous venons icy, Grand Monarque, vous remontrer humblement, de la part de nostre Illustre Corps, de quelle importance il est, pour l’accroissement de vostre Empire, que vous reprimiez l’audace et l’insolence de tous ces Morts.</p>
           </sp>
           <sp who="pluton" xml:id="I13-15">
@@ -1405,7 +1405,7 @@
             <p>On apprendra à vivre à ces Morts-là. J’entens et je pretens qu’on vous regarde comme les plus fermes appuis de mon Estat. Mais qui sont ces Morts-là qui ont l’impudence d’aller gaster vostre Mestier ?<pb n="81 "/>Nommez, nommez-les moy ; J’en veux faire un bon exemple.</p>
           </sp>
           <sp who="medecins" xml:id="I13-16">
-            <speaker>4</speaker><stage>e</stage>
+            <speaker>4e</speaker>
             <p>C’est un nombre infiny de petits Esprits qui se sont laissez emporter au torrent, et qui n’ont poussé leur Plainte que comme les Echos qui répetent les peines des autres sans les avoir senties. Mais c’est à l’Autheur de nos maux que nous en voulons ; c’est à celuy qui comme un nouveau Caton, s’est venu déchaîner contre nous et qui, apres le mépris évident qu’il a fait de nostre Illustre Corps, a poussé son audace encore jusqu’à nous<pb n="82"/> tourner en Ridicules ; en nous rendant la fable et la risée du Public. C’est cette Ombre, en un mot, cet insolent Fleau de nostre Faculté, dont nous vous demandons une vengeance authentique.</p>
           </sp>
           <sp who="pluton" xml:id="I13-17">

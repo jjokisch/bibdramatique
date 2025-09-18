@@ -395,7 +395,7 @@
             <role xml:id="gardes" rend="male inferior">Gardes.</role>
           </castItem>
         </castList>
-        <stage>La scène est au Palais des Roys d’Albe, dans l’Appartement de Lavinie.</stage>
+        <set>La scène est au Palais des Roys d’Albe, dans l’Appartement de Lavinie.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="1" xml:id="p1"/>

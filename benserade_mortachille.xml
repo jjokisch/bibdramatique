@@ -1013,8 +1013,7 @@
         <div type="scene" xml:id="II04">
           <head>SCENE QUATRIESME.</head>
           <stage>ACHILLE. POLIXENE.<note n="110" place="bottom">Le dialogue entre Achille et Polyxène a lieu plus tard chez Hardy, alors que le projet de vengeance contre Achille est déjà fomenté (III, 2).</note> </stage>
-          <stage>Une chambre paroist, &amp; Achille aux pieds de Polixene</stage>
-          <stage>qui luy presente son espee nuë.</stage>
+          <stage>Une chambre paroist, &amp; Achille aux pieds de Polixene qui luy presente son espee nuë.</stage>
           <sp who="achille" xml:id="II04-1">
             <speaker>ACHILLE.</speaker>
             <l n="511" xml:id="l511">Non, Madame, achevez mon destin miserable,</l>
@@ -2364,8 +2363,7 @@
         <head>ACTE V.</head>
         <div type="scene" xml:id="V01">
           <head>SCENE PREMIERE.</head>
-          <stage>AGAMEMNON. LE CONSEIL DES GRECS. AJAX. ULYSSE<note n="165" place="bottom"> Toute cette scène s’inspire largement d’Ovide : Benserade a mis en vers le livre XIII des <hi rend="i">Métamorphoses.</hi> Les deux harangues qui suivent constituent presque l’essentiel du cinquième acte. Ses contemporains, parmi lesquels Corneille, reprocheront beaucoup à Benserade d’avoir ainsi brisé la cohérence de sa pièce.</note>.</stage>
-          <stage>Et les armes d’Achille au milieu.</stage>
+          <stage>AGAMEMNON. LE CONSEIL DES GRECS. AJAX. ULYSSE<note n="165" place="bottom"> Toute cette scène s’inspire largement d’Ovide : Benserade a mis en vers le livre XIII des <hi rend="i">Métamorphoses.</hi> Les deux harangues qui suivent constituent presque l’essentiel du cinquième acte. Ses contemporains, parmi lesquels Corneille, reprocheront beaucoup à Benserade d’avoir ainsi brisé la cohérence de sa pièce.</note>. Et les armes d’Achille au milieu.</stage>
           <sp who="ajax" xml:id="V01-1">
             <speaker>HARANGUE D’AJAX<note n="166" place="bottom"><hi rend="i">Métamorphoses</hi>, XIII, v. 1-122.</note>.</speaker>
             <l n="1335" xml:id="l1335">Quoy grands Dieux ! qu’un debat aujourd’huy s’acomplisse,</l>

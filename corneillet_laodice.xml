@@ -1117,7 +1117,7 @@
             <role xml:id="theodot">THEODOT.</role>
           </castItem>
           </castList>
-          <stage>La Scene est dans la Capitale de Cappadoce</stage>
+          <set>La Scene est dans la Capitale de Cappadoce</set>
         </div>
         <div type="act">
           <pb n="1 A" xml:id="p1"/>

@@ -885,8 +885,7 @@
         <castItem>
           <role xml:id="lepeuple">COEUR DU PEUPLE ROMAIN.</role>
         </castItem></castList>
-        <stage rend="center">La Scène est à Rome, dans une Salle, du Pallais de</stage>
-        <stage rend="center">Valentinian.</stage>
+        <set rend="center">La Scène est à Rome, dans une Salle, du Pallais de Valentinian.</set>
       </div>
         
         <div type="act">

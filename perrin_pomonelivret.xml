@@ -288,16 +288,13 @@
           <p>Palais de Pluton.</p>
           <p>Jardin &amp; Berceau de Pomone.</p>
           <p>Palais de Vertune.</p>
-          <stage>La Scene est en Albanie, au pays Latin, dans la Maison de Pomone.</stage>
+          <set>La Scene est en Albanie, au pays Latin, dans la Maison de Pomone.</set>
         </div>
       </div>
       <div>
         <head>PROLOGUE.</head>
         <pb n="11" xml:id="p11"/>
-        <stage>Decoration. Paris à l’endroit du Louvre.</stage>
-        <stage>Ouverture du Prologue par la <ref target="#symphonie">Symphonie</ref>. </stage>
-        <stage>La toile se leve, &amp; l’on voit Vertune &amp; la Nymphe de la Seine. </stage>
-        <stage>Vertune, la nymphe de la Seine.</stage>
+        <stage>Decoration. Paris à l’endroit du Louvre. Ouverture du Prologue par la <ref target="#symphonie">Symphonie</ref>. La toile se leve, &amp; l’on voit Vertune &amp; la Nymphe de la Seine. Vertune, la nymphe de la Seine.</stage>
         <sp who="lanymphedelaseine">
           <speaker>La nymphe de la Seine.</speaker>
           <l n="1" xml:id="l1">Toy qui vis autresfois le Fleuve des Romains</l>
@@ -351,8 +348,7 @@
       <div type="act">
         <head>Acte I.</head>
         <pb n="D,13" xml:id="p13"/>
-        <stage><ref target="#changement1">Changement</ref> de Theatre. Vergers de Pomone. </stage>
-        <stage>Ouverture de la piece par la <ref target="#symphonie">Symphonie</ref>. </stage>
+        <stage><ref target="#changement1">Changement</ref> de Theatre. Vergers de Pomone. Ouverture de la piece par la <ref target="#symphonie">Symphonie</ref>. </stage>
         <div type="scene">
           <head>Scene premiere.</head>
           <stage>Pomone, Juturne, Venilie, Beroe,</stage>
@@ -683,7 +679,7 @@
       </div>
       <div>
         <head>Intermède I. </head>
-        <stage><ref target="#symphonie">Symphonie</ref>.</stage>
+        <ab><ref target="#symphonie">Symphonie</ref>.</ab>
       </div>
       <div type="act">
         <head>Acte II.</head>
@@ -824,8 +820,8 @@
           <sp who="ledieudesjardins lesjardiniers">
             <speaker>Le Dieu, et les jardiniers, à 5. </speaker>
             <l n="226" xml:id="l226">Pauvre Nourrisse,<note place="bottom">On trouve, dans la didascalie qui suit, ce mot orthographié « Nourrice ». Dans le Furetière de 1690, l’orthographe est « Nourrice », mais on trouve « Nourrisse » chez Nicot (1606), Cotgrave, Ménage et Richelet (1680) : « Le peuple dit « norrisse », mais les gens d’esprit et tous les bons auteurs disent et écrivent nourrisse. »</note> helas ! tes cris sont superflus.</l>
-            <stage>Le Dieu et sa Trouppe, ne pouvans arracher la Nourrice aux <ref target="#fantome">Fantômes</ref>, qui<pb n="26" xml:id="p26"/>l’emportent, s’en veulent venger sur les cinq qui restent, et crient,</stage>
-            <l n="227" xml:id="l227">Donnons, donnons<note place="bottom"><p>Au figuré, « Donner sur l’ennemi, c’est charger l’ennemi et le batre. » (R.)</p><p xml:lang="en">« Donner, se dit quelquefois odieusement, pour dire, Frapper, soit à dessein de faire outrage, soit de faire quelque correction. (…) Il luy a donné sur la jouë, c’est-à-dire, un soufflet. » (F.)</p></note>, frapons dessus.</l>
+            <stage>Le Dieu et sa Trouppe, ne pouvans arracher la Nourrice aux <ref target="#fantome">Fantômes</ref>, qui<pb n="26" xml:id="p26"/>l’emportent, s’en veulent venger sur les cinq qui restent, et crient,
+            <lb/>Donnons, donnons<note place="bottom"><p>Au figuré, « Donner sur l’ennemi, c’est charger l’ennemi et le batre. » (R.)</p><p xml:lang="en">« Donner, se dit quelquefois odieusement, pour dire, Frapper, soit à dessein de faire outrage, soit de faire quelque correction. (…) Il luy a donné sur la jouë, c’est-à-dire, un soufflet. » (F.)</p></note>, frapons dessus.</stage>
             <stage>Le Dieu, et les quatre Jardiniers veulent fraper sur les cinq <ref target="#fantome">fantômes</ref> ; mais comme ils ont le bras levé, ces derniers se transforment en autant de Bourgeoises de Lampsace, Ville de Grece, où nâquit le Dieu des Jardins<note place="bottom">Lampsace, ou Lampsacé, ville d’Asie mineure, dans la région de Troade, au Sud du détroit des Dardanelles (actuelle Turquie), Autrefois appelée Pityousa, elle reçut son nom de Lampsacé, fille du roi des Bébryces, Mandron, qui régnait alors sur la ville. La jeune fille ayant sauvé des colons Phocidiens d’un massacre, ils lui rendirent cet hommage après sa mort. Le culte de Priape, le « Dieu des jardins », dieu phallique, y serait né.</note>, amies, femmes, maistresses et parentes du Dieu et de sa troupe. </stage>
           </sp>
         </div>
@@ -975,7 +971,7 @@
             <stage>Deux Follets cachez, chacun dans le tronc d’un Chesne, achevent de joüer le Dieu. </stage>
           </sp>
           <sp who="follets">
-            <speaker>Deux Follets </speaker><stage>cachez.</stage>
+            <speaker>Deux Follets </speaker><stage>cachez. à 2.</stage>
             <l n="272" xml:id="l272">Cesse, grand Dieu, cesse tes plaintes vaines.</l>
           </sp>
           <sp who="ledieudesjardins">
@@ -984,7 +980,7 @@
             <l n="274" xml:id="l274">Echos, Arbres, Rochers ; est-ce vous, est-ce vous ?</l>
           </sp>
           <sp who="follets">
-            <speaker>Deux Follets </speaker><stage>cachez.</stage>
+            <speaker>Deux Follets </speaker><stage>cachez. à 2.</stage>
             <l n="275" xml:id="l275">Nous sommes deux Nymphes des Chesnes,</l>
             <l n="276" xml:id="l276">Et le Ciel t’annonce par nous,</l>
             <l n="277" xml:id="l277">Qu’un jour il finira tes peines.</l>
@@ -994,7 +990,7 @@
             <l n="278" xml:id="l278">Helas ! hé quand viendra ce bien-heureux moment ?</l>
           </sp>
           <sp who="follets">
-            <speaker>Deux Follets </speaker><stage>cachez.</stage>
+            <speaker>Deux Follets </speaker><stage>cachez. à 2.</stage>
             <l n="279" xml:id="l279">Quand tu seras discret et fidele en aymant.</l>
           </sp>
           <sp who="ledieudesjardins">
@@ -1015,7 +1011,7 @@
       </div>
       <div>
         <head>Intermede II. </head>
-        <stage><ref target="#symphonie">Symphonie</ref>.</stage>
+        <ab><ref target="#symphonie">Symphonie</ref>.</ab>
       </div>
       <div type="act">
         <head>Acte III.</head>
@@ -1032,8 +1028,7 @@
         </div>
         <div type="scene">
           <head>Scene deuxiesme.</head>
-          <stage>Pomone, Juturne, Venilie, Vertune caché.</stage>
-          <stage><ref target="#symphonie">Symphonie</ref> de Flutes.<note place="bottom">Les symphonies de flûtes semblent avoir été une nouveauté introduite par Cambert. Saint-Evremond le remarque à propos de la <hi rend="i">Pastorale d’Issy</hi> (1659) dans ses <hi rend="i">Lettres sur les opéras</hi> : « ce fut comme un essay d’opéra qui eut l’agrément de la nouveauté ; mais ce qu’il y eut de meilleur encore, c’est qu’on y entendit des concerts de flûtes, ce qu’on n’avoit pas entendu sur aucun théâtre depuis les Grecs et les Romains » (cité par Jean Duron, dans « Pierre Perrin, un Virgile françois ? », article cité, p. 144).</note></stage>
+          <stage>Pomone, Juturne, Venilie, Vertune caché. <ref target="#symphonie">Symphonie</ref> de Flutes.<note place="bottom">Les symphonies de flûtes semblent avoir été une nouveauté introduite par Cambert. Saint-Evremond le remarque à propos de la <hi rend="i">Pastorale d’Issy</hi> (1659) dans ses <hi rend="i">Lettres sur les opéras</hi> : « ce fut comme un essay d’opéra qui eut l’agrément de la nouveauté ; mais ce qu’il y eut de meilleur encore, c’est qu’on y entendit des concerts de flûtes, ce qu’on n’avoit pas entendu sur aucun théâtre depuis les Grecs et les Romains » (cité par Jean Duron, dans « Pierre Perrin, un Virgile françois ? », article cité, p. 144).</note></stage>
           <sp who="pomone venilie">
             <speaker>Pomone, Venilie, à 2.</speaker>
             <l n="292" xml:id="l292">Sortez, petits Oyseaux, sortez de vos boccages,</l>
@@ -1060,17 +1055,13 @@
             <l n="305" xml:id="l305">Dans mes regards tu les pourras connestre :</l>
             <l n="306" xml:id="l306">Si tu doutes de mes grandeurs</l>
             <l n="307" xml:id="l307">Voy de quels biens je suis le maistre.</l>
-            <stage><ref target="#changement1">Changement</ref> de Theatre. Palais de Pluton. </stage>
-            <stage>Un Palais doré paroit, et cinq Follets transformez en Demons<note place="bottom">Troupe infernale de Pluton, dieu des Enfers, qui a lui aussi droit à sa troupe, comme tous les personnages divins de la pièce.</note>, portants des corbeilles pleines d’or et de richesses.</stage>
+            <stage><ref target="#changement1">Changement</ref> de Theatre. Palais de Pluton. Un Palais doré paroit, et cinq Follets transformez en Demons<note place="bottom">Troupe infernale de Pluton, dieu des Enfers, qui a lui aussi droit à sa troupe, comme tous les personnages divins de la pièce.</note>, portants des corbeilles pleines d’or et de richesses.</stage>
           </sp>
         </div>
         <div type="scene">
           <head>Scene quatriesme.</head>
           <pb n="32" xml:id="p32"/>
-          <stage>Pomone, Juturne, Venilie, Vertune en Pluton, cinq Follets en demons.</stage>
-          <stage>Entrée de ballet.</stage>
-          <stage>Follets en demons.</stage>
-          <stage>Pomone, ses Nymphes, et Vertune en Pluton s’écartent pour faire place aux Danseurs, puis se rassemblent la danse finie.</stage>
+          <stage>Pomone, Juturne, Venilie, Vertune en Pluton, cinq Follets en demons. Entrée de ballet. Follets en demons. Pomone, ses Nymphes, et Vertune en Pluton s’écartent pour faire place aux Danseurs, puis se rassemblent la danse finie.</stage>
           <sp who="vertune-pluton">
             <speaker>Vertune en Pluton, </speaker><stage>à Pomone.</stage>
             <l n="308" xml:id="l308">Mon throne et mes tresors, ma flame et mes <ref target="#langueur">langueurs</ref></l>
@@ -1277,7 +1268,15 @@
             <l n="387" xml:id="l387">Versez, versez à rouge bord<note place="bottom">Le dictionnaire de l’Académie explique l’expression à l’article « Rouge »: « On appelle, <hi rend="i">Rouge bord</hi>, Un verre de vin plein jusqu’au bord<hi rend="i">. Il boit tousjours à rouge bords, il bût je ne sçay combien de rouges bords</hi>. » Pour expliquer grammaticalement cette belle et dense expression, on peut dire que l’adjectif « rouge » occupe ici la fonction d’attribut proleptique, et à donc un aspect résultatif (Versez jusqu’à ce que le bord en soit rouge), ainsi que dans  : « La mer laisse les poissons secs sur le rivage. ».</note>,</l>
           </sp>
           <sp who="follets-satyres1 follets-satyres2 follets-satyres3">
-            <speaker>Les Follets, <note place="bottom">Le participe présent employé comme épithète se rattache au sujet de la phrase : on peut remarquer une certaine souplesse dans son accord au XVII<hi rend="sup">e</hi> siècle : "N’est-ce pas à vos yeux un spectacle assez doux/Que la veuve d’Hector <hi rend="b">pleurante</hi> à vos genoux ? (Racine, <hi rend="i">Andromaque</hi>, 859-860, 1667)" "Et la Crète <hi rend="b">fumant</hi> du sang du Minotaure (<hi rend="i">Phèdre</hi>, 82, 1677)" Cf. Fournier, §442, p. 304.</note></speaker><stage> à boire sans l’écouter, à 3.</stage><stage>continuants</stage>
+            <speaker>Les Follets,</speaker>
+            <stage>
+              continuants<note place="bottom">Le participe présent employé comme épithète se rattache au sujet
+                de la phrase : on peut remarquer une certaine souplesse dans son accord au XVII<hi
+                  rend="sup">e</hi> siècle : "N’est-ce pas à vos yeux un spectacle assez doux/Que la
+                veuve d’Hector <hi rend="b">pleurante</hi> à vos genoux ? (Racine, <hi rend="i">
+                Andromaque</hi>, 859-860, 1667)" "Et la Crète <hi rend="b">fumant</hi> du sang du
+                Minotaure (<hi rend="i">Phèdre</hi>, 82, 1677)" Cf. Fournier, §442, p. 304.</note>
+               à boire sans l’écouter, à 3.</stage>
             <l n="388" xml:id="l388">Masse à luy, tope et tingue.</l>
           </sp>
           <sp who="faune">
@@ -1341,7 +1340,7 @@
       </div>
       <div>
         <head>Intermede III.</head>
-        <stage><ref target="#symphonie">Symphonie</ref>. </stage>
+        <ab><ref target="#symphonie">Symphonie</ref>. </ab>
       </div>
       <div type="act">
         <head>Acte IV.</head>
@@ -1395,8 +1394,7 @@
         </div>
         <div type="scene">
           <head>Scene troisiesme.</head>
-          <stage>Pomone, Flore, Vertune et Beroé, cachez<note place="bottom">Vertune s’est caché à la fin scène précédente, et Béroé au début de la scène 2.</note>.</stage>
-          <stage>Flore soûpire.</stage>
+          <stage>Pomone, Flore, Vertune et Beroé, cachez<note place="bottom">Vertune s’est caché à la fin scène précédente, et Béroé au début de la scène 2.</note>. Flore soûpire.</stage>
           <sp who="pomone">
             <speaker>Pomone.</speaker>
             <l n="444" xml:id="l444">Qui cause ce soûpir</l>
@@ -1432,8 +1430,8 @@
         <div type="scene">
           <head>Scene cinquiesme.</head>
           <stage>Pomone, Flore, Vertune en Beroé, Beroé cachée. Cueilleurs, et cueilleuses de fruits. </stage>
-          <stage>Entrée de Ballet.</stage>
-          <stage>Cueilleurs de fruits.</stage>
+          <label>Entrée de Ballet.</label>
+          <label>Cueilleurs de fruits.</label>
         </div>
         <div type="scene">
           <head>Scene sixiesme. </head>
@@ -1652,7 +1650,7 @@
       </div>
       <div>
         <head>Intermede IV.</head>
-        <stage><ref target="#symphonie">Symphonie</ref>. </stage>
+        <ab><ref target="#symphonie">Symphonie</ref>. </ab>
       </div>
       <div type="act">
         <head>Acte V.</head>
@@ -1741,8 +1739,8 @@
             <speaker>Vertune. </speaker>
             <l n="555" xml:id="l555">Vous, Esclaves, dansez,</l>
             <l n="556" xml:id="l556">Et la divertissez.<note place="bottom">Dans la syntaxe (prosaïque) de la jussion, le pronom clitique est normalement placé après le verbe ; on aurait pu avoir « et divertissez-la. » Maupas, dans sa <hi rend="i">Grammaire et syntaxe françoise</hi> de 1618, signale une variation de la règle lorsque deux impératifs sont coordonnés : « Que si vous subjoingnez un second commandement lié au premier par quelque conjonction, lors le pronom peut retourner en son lieu prepositif apres la conjonction &amp; sera mieux. <hi rend="i">Si vous voyez mes amis, saluez-les, et leur dites que je me porte bien. Escrivez-leur puis me baillez vos létres. Servez-moy à mon gré, ou vous en allez.</hi> » (Cité dans Fournier, § 115 bis, p. 103)</note></l>
-            <stage>Entrée de ballet.</stage>
-            <stage>Follets en esclaves.</stage>
+            <label>Entrée de ballet.</label>
+            <label>Follets en esclaves.</label>
             <stage>La troupe s’écarte pour faire place aux danseurs, puis se rassemble, la danse finie. </stage>
           </sp>
           <sp who="vertune">
@@ -1757,7 +1755,7 @@
         <div type="scene">
           <head>Scene sixiesme.</head>
           <stage>Vertune, Pomone, Juturne, Venilie, Flore, le Dieu des jardin, deux jardiniers, Follets en esclaves, Follets en symphonistes, Follets en dieux dans les nües. </stage>
-          <stage><ref target="#symphonie">Symphonie</ref> par les Follets dans les nües. </stage>
+          <label><ref target="#symphonie">Symphonie</ref> par les Follets dans les nües. </label>
           <sp who="follets-amours">
             <speaker>Les Follets dans les nües.</speaker>
             <pb n="50" xml:id="p50"/>
@@ -1804,9 +1802,8 @@
         </div>
         <div type="scene">
           <head>Scene derniere.</head>
-          <stage>Vertune, Pomone et les autres. Beroé, </stage>
+          <stage>Vertune, Pomone et les autres. Beroé, Faune.</stage>
           <sp who="faune">
-            <speaker>Faune.</speaker>
             <l n="586" xml:id="l586">Et toy, Nourisse, aussi,</l>
             <l n="587" xml:id="l587">Tu viens paréstre icy ?</l>
             <l n="588" xml:id="l588">Pauvre vieille insensée,</l>

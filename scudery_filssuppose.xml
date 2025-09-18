@@ -654,8 +654,8 @@
         <p>Par grace et Privilege du Roy: Donné à Paris le deuxiesme jour d’Avril mil six cens trente-six. Il est permis à <hi rend="sc">Augustin Courbé</hi>, Marchand Libraire à Paris, d’Imprimer, vendre et distribuer un Livre intitulé, <hi rend="i">Le Fils Supposé, Comedie, Composée par Monsieur</hi><hi rend="sc">De Scudery</hi>: Et defences sont faites à tous Imprimeurs et autres personnes, de quelque qualité et condition qu’ils soient, d’imprimer, vendre ny distribuer dudit Livre, d’autre Impression que celle qu’aura fait ou fait faire ledit Courbé, ou autres ayant droit de luy, et ce pendant le temps de sept ans, à peine aux contrevenans de quinze cens livres d’amende, et confisquation de tous lesdits exemplaires imprimez, ainsi qu’il est plus amplemens porté par lesdites Lettres de Privilege.</p>
         <p>Par le Roy en son Conseil,</p>
         <p>Signé, CONRAR.</p>
-        <stage rend="center">Achevé d’Imprimer le vingtiesme Avril mil</stage>
-        <stage rend="center">six cens trente-six.</stage>
+        <p rend="center">Achevé d’Imprimer le vingtiesme Avril mil</p>
+        <p rend="center">six cens trente-six.</p>
       </div>
       <div xml:id="acteurs" type="set">
         <head>LES ACTEURS.</head>
@@ -705,8 +705,7 @@
       <div xml:id="I" type="act">
         <pb n="A"/>
         <head>ACTE PREMIER.</head>
-        <stage>Rosandre, Luciane, Oronte, Almedor,</stage>
-        <stage>Philante, Belise, Clorian, Doriste.</stage>
+        <stage>Rosandre, Luciane, Oronte, Almedor, Philante, Belise, Clorian, Doriste.</stage>
         <div type="scene" xml:id="I01">
           <head>SCENE PREMIERE.</head>
           <stage>Rosandre, Luciane.</stage>

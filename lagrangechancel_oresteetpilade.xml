@@ -587,7 +587,7 @@
             <roleDesc>Capitaine des Gardes de Thoas.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est à Anticire<note place="bottom">Anticire est la capitale de la Tauride. </note>, dans le Palais de Thoas.</stage>
+        <set>La Scene est à Anticire<note place="bottom">Anticire est la capitale de la Tauride. </note>, dans le Palais de Thoas.</set>
       </div>
       <div xml:id="acteI" type="act">
         <pb n="A, 1"/>
@@ -2756,8 +2756,7 @@
         </div>
         <div type="scene" xml:id="scene8-IV">
           <head>SCENE VIII.</head>
-          <stage>THOAS, HIDASPE, ANTHENOR,</stage>
-          <stage> TAXIS.</stage>
+          <stage>THOAS, HIDASPE, ANTHENOR, TAXIS.</stage>
           <sp xml:id="scene8-IV-1" who="thoas">
             <speaker>THOAS.</speaker>
             <l n="1332" xml:id="l1332">Qui suis-je ? Est-ce à Thoas qu’un tel discours s’adresse ?</l>

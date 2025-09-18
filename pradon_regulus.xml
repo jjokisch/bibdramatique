@@ -559,7 +559,7 @@
             <roleDesc>autre Femme de la suite de Fulvie.</roleDesc>
           </castItem>
         </castList>
-        <stage>La Scene est dans le Camp des Romains devant Cartage.</stage>
+        <set>La Scene est dans le Camp des Romains devant Cartage.</set>
       </div>
       <div type="act" xml:id="I">
         <pb n="1 A"/>
@@ -2889,7 +2889,7 @@
           <hi rend="i">sur le Livre de la Communauté des Imprimeurs &amp; Libraires de Paris, le 1688. suivant l’Arrest du Parlement du 8. avril 1653. celuy du Conseil Privé du Roy, du 17. Fevrier 1665. &amp; l’Edit de la sa Majesté donné à Versailles au mois d’Aoust 1686.</hi>
         </p>
         <p>                            <hi rend="i">I. B. COIGNARD, Syndic.</hi></p>
-        <stage rend="center">Achevé d’imprimer pour la premiere fois le 3. Mars 1688.</stage>
+        <p rend="center">Achevé d’imprimer pour la premiere fois le 3. Mars 1688.</p>
       </div>
     </body>
     <back>

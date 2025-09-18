@@ -876,7 +876,7 @@
             <role rend="female" xml:id="calliante">CALLIANTE.</role>
           </castItem>
         </castList>
-        <stage>La Scene est à Paris.</stage>
+        <set>La Scene est à Paris.</set>
       </div>
       <div type="act" xml:id="acte1">
         <pb n="A, 1"/>
@@ -1520,7 +1520,7 @@
         <div type="scene" xml:id="acte203">
           <head>ACTE II. SCENE TROISIESME.</head>
           <pb n="29"/>
-          <stage>PHILEMON, MAINALTE,</stage>
+          <stage>PHILEMON, MAINALTE.</stage>
           <sp who="philemon" xml:id="acte203-1">
             <speaker>PHILEMON.</speaker>
             <l n="435" xml:id="l435">Quelle surprise, ô Ciel ! Vous estes revenu,</l>
@@ -2983,8 +2983,7 @@
           </sp>
           <sp who="flaminie" xml:id="acte410-6">
             <speaker>FLAMINIE</speaker>
-            <stage>regardant Mainalte se retire.</stage>
-            <stage>(Elle dit ceci bas)</stage>
+            <stage>regardant Mainalte se retire. (Elle dit ceci bas)</stage>
             <l part="F">Quoi ce n’est pas Sicandre.</l>
             <l n="1266" xml:id="l1266">Où suis-je ! qu’ai-je fait ! quel <ref target="#sort1">sort</ref> m’a pû surprendre !</l>
           </sp>
@@ -3359,8 +3358,7 @@
           <stage>MAINALTE, THARZINTE, FLAMINIE, ATALANTE, POLYDAS, SICANDRE.</stage>
           <sp who="mainalte" xml:id="acte505-1">
             <speaker>MAINALTE</speaker>
-            <stage>voiant Polydas dit ceci</stage>
-            <stage> à Tharzinte.</stage>
+            <stage>voiant Polydas dit ceci à Tharzinte.</stage>
             <l n="1463" xml:id="l1463">L’Amour à mes dépens te veut faire esperer</l>
             <l n="1464" xml:id="l1464">Un bien qu’autre que moi ne pouvoit desirer.</l>
             <l n="1465" xml:id="l1465">Dy ce que tu voudras, je découvre tes ruses,</l>
@@ -3739,7 +3737,7 @@
             <l n="1659" xml:id="l1659">Mon esprit ne s’est pas vainement ocuppé,</l>
             <l n="1660" xml:id="l1660">Car on ne vit jamais ADVOCAT mieux DUPPÉ.</l>
           </sp>
-          <stage>FIN DE L’ADVOCAT <lb/>DUPPÉ.</stage>
+          <trailer>FIN DE L’ADVOCAT <lb/>DUPPÉ.</trailer>
         </div>
       </div>
     </body>

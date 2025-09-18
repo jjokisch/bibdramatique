@@ -1383,7 +1383,7 @@
             <role xml:id="le-confident" rend="male inferior"/>
           </castItem>
         </castList>
-        <stage>La Scène est à Paris.</stage>
+        <set>La Scène est à Paris.</set>
       </div>
       <div xml:id="I" type="act">
         <pb n="A 1"/>
@@ -1525,8 +1525,7 @@
         </div>
         <div type="scene" xml:id="I04">
           <head>SCENE IV.</head>
-          <stage>ISABELLE, BEATRIX,</stage>
-          <stage>FLANQUIN.</stage>
+          <stage>ISABELLE, BEATRIX, FLANQUIN.</stage>
           <sp xml:id="I04-1" who="flanquin">
             <speaker>Flanquin.</speaker>
             <p><hi rend="sc">Ah</hi> ! ma chere, ma toute aymable, que je suis heureux de vous voir.</p>
@@ -1633,8 +1632,7 @@
         </div>
         <div type="scene" xml:id="I05">
           <head>SCENE V.</head>
-          <stage>ARTEMISE, ISCARIE, </stage>
-          <stage>BEATRIX, ISABELLE.</stage>
+          <stage>ARTEMISE, ISCARIE, BEATRIX, ISABELLE.</stage>
           <sp xml:id="I05-1" who="artemise">
             <speaker>Artemise. <note n="284" place="bottom"> Artémise et Iscarie s’étaient isolées dans le cabinet de cette dernière pour y lire le billet en question.</note></speaker><stage>(tenant un papier à la main.)</stage>
             <p>Quelle pauvreté ma chere, il n’y a pas une chose raisonnable là dedans !</p>
@@ -2095,10 +2093,7 @@
         </div>
         <div type="scene" xml:id="I09">
           <head>SCENE VIII.</head>
-          <stage>LE BARON DE LA TAUPINIERE, ISCARIE.</stage>
-          <stage>ARTEMISE, BEATRIX, </stage>
-          <stage>ISABELLE, FLANQUIN, </stage>
-          <stage>LE POETE, MONSIEUR GREVAL.</stage>
+          <stage>LE BARON DE LA TAUPINIERE, ISCARIE. ARTEMISE, BEATRIX, ISABELLE, FLANQUIN, LE POETE, MONSIEUR GREVAL.</stage>
           <sp xml:id="I09-1" who="isabelle">
             <speaker>Isabelle.</speaker>
             <p>Madame, voila Monsieur de Greval<note n="382" place="bottom"> Var. 2<hi rend="sup">nde</hi> éd. : Monsieur Greval.</note> qui vient.</p>

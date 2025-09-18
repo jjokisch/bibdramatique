@@ -682,7 +682,7 @@
             <role xml:id="un-garde" rend="male inferior"/>
           </castItem>
         </castList>
-        <stage>La Scene est dans la Galatie en la tente de Tamerlan.</stage>
+        <set>La Scene est dans la Galatie en la tente de Tamerlan.</set>
         <p><hi rend="b">LE GRAND</hi><pb n="1 ; A"/><lb/>TAMERLAN <lb/>ET <lb/>BAJAZET. <lb/>TRAGEDIE.</p>
       </div>
       <div xml:id="acteI" type="act">
