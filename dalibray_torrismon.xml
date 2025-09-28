@@ -2650,7 +2650,7 @@
             <sp who="torrismon">
               <speaker>TORRISMON.</speaker>
               <l n="1239" xml:id="l1239">Je suis à tes propos le plus confus du monde,</l>
-              <stage>Rosmonde craignant qu’on ne resolust son mariage avec Ger- mon declare qui elle est.</stage>
+              <stage>Rosmonde craignant qu’on ne resolust son mariage avec Germon declare qui elle est.</stage>
               <l n="1240" xml:id="l1240">Tu n’es donc pas ma sœur ! tu n’es donc pas Rosmonde !</l>
             </sp>
             <sp who="rosmonde">
@@ -3116,7 +3116,7 @@
             <sp who="torrismon">
               <speaker>TORRISMON.</speaker>
               <l n="1461" xml:id="l1461" part="I">Galealte est donc mort !</l>
-              <stage>L’autheur, par mégarde que je croy, nommoit ce Roy Aralde, qui est aussi le nom qu’il vient de donner au  Pira- te qui se sauva &amp; qui est celuy là mesme qui apporte ces nouvelles.</stage>
+              <note>L’autheur, par mégarde que je croy, nommoit ce Roy Aralde, qui est aussi le nom qu’il vient de donner au  Pirate qui se sauva &amp; qui est celuy là mesme qui apporte ces nouvelles.</note>
             </sp>
             <sp who="messager">
               <speaker>MESSAGER.</speaker>
@@ -3476,7 +3476,7 @@
               <l n="1681" xml:id="l1681">Enfin je sçauray bien moy-mesme  me guerir</l>
               <l n="1682" xml:id="l1682">Sans qu’aucun desormais m’empesche de mourir  ;</l>
               <l n="1683" xml:id="l1683">Voicy de tous mes maux la medecine pronte,</l>
-              <stage>La mort d’Alvide &amp; celle de Torrismon sont seulement racontées dans le Tasse, mais je les ay fait representer.</stage>
+              <note>La mort d’Alvide &amp; celle de Torrismon sont seulement racontées dans le Tasse, mais je les ay fait representer.</note>
               <l n="1684" xml:id="l1684">Et qui peut m’exemter de refus &amp; de honte  :</l>
               <l n="1685" xml:id="l1685"><ref target="#sus-doncques">Sus doncques</ref> tesmoignons par un dernier effort</l>
               <l n="1686" xml:id="l1686">Qu’on nous peut bien oster la vie, &amp; non la mort</l>

@@ -5500,7 +5500,7 @@
           <sp who="dorame" xml:id="IV11-3">
             <speaker>DORAME </speaker><stage>ouvrant la porte.</stage>
             <l part="F">Si… Mais que vois-je là ?</l>
-            <stage>Crispin au dedans chante, Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa, bis. &amp; ils sortent en continuant.</stage>
+            <stage>Crispin au dedans chante, <said direct="true">Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa</said>, bis. &amp; ils sortent en continuant.</stage>
           </sp>
         </div>
         <div type="scene" xml:id="IV12">
@@ -5510,7 +5510,7 @@
           <sp who="crispin" xml:id="IV12-1">
             <speaker>CRISPIN </speaker><stage>en sortant, à Phélonte, qui tient un papier.</stage>
             <l n="1330" part="I" xml:id="l1330">Suivez bien vostre Mode<note place="bottom">Au sens d’« échelle musicale », l’ancêtre de notre tonalité.</note>, allons, par <hi rend="i">E mi la</hi>.</l>
-            <l part="F"><hi rend="i">Le mesme, Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa.</hi> bis.</l>
+            <l part="F"><stage rend="i">Le mesme, <said direct="true">Fa re mi fa, fa sol fa mi, fa re fa, sol fa re mi fa</said>.</stage> bis.</l>
           </sp>
           <sp who="dorame" xml:id="IV12-2">
             <speaker>DORAME </speaker><stage>à Toinon.</stage>
@@ -5637,7 +5637,7 @@
             <stage>PHELONTE chante, L’Amour cause trop, &amp;c.</stage>
           </sp>
           <sp who="crispin" xml:id="IV12-27">
-            <speaker>CRISPIN </speaker><stage>se retourne encore à Dorame, apres la fin du Couplet. Le mesme, Fa re mi fa, &amp;c.</stage>
+            <speaker>CRISPIN </speaker><stage>se retourne encore à Dorame, apres la fin du Couplet. Le mesme, <said direct="true">Fa re mi fa</said>, &amp;c.</stage>
             <l n="1359" part="I" xml:id="l1359">C’est un petit Rondeau.</l>
           </sp>
           <sp who="dorame" xml:id="IV12-28">
@@ -7037,7 +7037,7 @@
             <l part="F">Sur tout, suivez bien la mesure.</l>
           </sp>
           <sp who="les-violons" xml:id="V07-4">
-            <speaker>LES VIOLONS </speaker><stage>préludent, &amp; Crispin dit, Fa, sol, re, mi, la, sol, fa, &amp;c. En suite on chante ce qui suit : Crispin bat la mesure, &amp; Phêlonte accompagne du Clavessin. On chante.</stage>
+            <speaker>LES VIOLONS </speaker><stage>préludent, &amp; Crispin dit, <said direct="true">Fa, sol, re, mi, la, sol, fa,</said> &amp;c. En suite on chante ce qui suit : Crispin bat la mesure, &amp; Phêlonte accompagne du Clavessin. On chante.</stage>
             <l n="1745" xml:id="l1745"><hi rend="i">Tu viens peindre nos Prez des plus vives couleurs</hi>, </l>
             <l n="1746" rend="i" xml:id="l1746">Printemps, tu ramenes les Fleurs,</l>
             <l n="1747" rend="i" xml:id="l1747">Chacun en a l’ame <ref target="#ravir">ravie</ref> :</l>
